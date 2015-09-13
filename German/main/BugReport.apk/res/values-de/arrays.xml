@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="other_problem_titles">
+        <item>@string/err_type_hardware</item>
+        <item>@string/err_type_system</item>
+        <item>@string/err_type_xiaomi_service</item>
+        <item>@string/err_type_xiaomi_family</item>
+    </string-array>
+    <string-array name="other_problem_global_titles">
+        <item>@string/err_type_hardware</item>
+        <item>@string/err_type_system</item>
+    </string-array>
+    <string-array name="other_problem_summaries">
+        <item>@string/err_type_hardware_summary</item>
+        <item>@string/err_type_system_summary</item>
+    </string-array>
+    <array name="other_problem_icons">
+        <item>@drawable/btn_hardware</item>
+        <item>@drawable/btn_system</item>
+        <item>@drawable/btn_xiaomi_service</item>
+        <item>@drawable/btn_xiaomi_family</item>
+    </array>
+</resources>

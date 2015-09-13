@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">Not tracking data usage for %d apps</item>
+        <item quantity="one">Not tracking data usage for %d app</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">Tracking data usage for %d apps</item>
+        <item quantity="one">Tracking data usage for %d app</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">%d apps optimized</item>
+        <item quantity="one">%d app optimized</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">%d apps can be optimized</item>
+        <item quantity="one">%d app can be optimized</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">%d apps are using Data Saver</item>
+        <item quantity="one">%d app is using Data Saver</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="other">%d apps are not using Data Saver</item>
+        <item quantity="one">%d app is not using Data Saver</item>
+    </plurals>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">Used %d days ago</item>
+        <item quantity="one">Used yesterday</item>
+    </plurals>
+    <plurals name="search_app_count_txt">
+        <item quantity="other">Search %d apps</item>
+        <item quantity="one">Search %d app</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d apps can use mobile data</item>
+        <item quantity="one">%d app can use mobile data</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">"%d apps can't use mobile data"</item>
+        <item quantity="one">"%d app can't use mobile data"</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">%d apps found</item>
+        <item quantity="one">%d app found</item>
+    </plurals>
+</resources>

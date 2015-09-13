@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Zertifikats-Installer</string>
+  <string name="cert_is_added">%s ist installiert.</string>
+  <string name="cert_missing_error">Installation nicht möglich, weil die Zertifikatdatei nicht gefunden wurde</string>
+  <string name="cert_not_saved">Das Zertifikat ist nicht installiert.</string>
+  <string name="cert_read_error">Installation nicht möglich, weil die Zertifikatdatei nicht gelesen werden konnte</string>
+  <string name="cert_too_large_error">Installation nicht möglich, weil das Zertifikat zu groß ist</string>
+  <string name="credential_info">Das Paket enthält Folgendes:</string>
+  <string name="credential_name">Zertifikatname:</string>
+  <string name="credential_password">Geben Sie das Passwort zum Extrahieren der Zertifikate ein.</string>
+  <string name="credential_usage_label">Verwendung der Anmeldedaten:</string>
+  <string name="extracting_pkcs12">Zertifikate werden extrahiert...</string>
+  <string name="invalid_cert">Das Zertifikat ist ungültig.</string>
+  <string name="n_cacrts">%d CA-Zertifikate</string>
+  <string name="name_char_error">Geben Sie einen Namen ein, der ausschließlich aus Buchstaben und Zahlen besteht.</string>
+  <string name="name_credential_dialog_title">Zertifikat benennen</string>
+  <string name="name_empty_error">Geben Sie einen Namen ein.</string>
+  <string name="no_cert_file_found">Keine Zertifikatdatei auf USB-Speicher gefunden.</string>
+  <string name="no_cert_to_saved">Kein zu installierendes Zertifikat</string>
+  <string name="one_cacrt">ein CA-Zertifikat</string>
+  <string name="one_usercrt">ein Nutzerzertifikat</string>
+  <string name="one_userkey">ein Nutzerschlüssel</string>
+  <string name="only_primary_user_allowed">Nur der Eigentümer dieses Geräts kann Zertifikate installieren.</string>
+  <string name="p12_description">Zertifikate im PKCS12-Keystore</string>
+  <string name="password_empty_error">Geben Sie das Passwort ein.</string>
+  <string name="password_error">Geben Sie das richtige Passwort ein.</string>
+  <string name="pick_file_title">Zertifikat auswählen</string>
+  <string name="pkcs12_file_password_dialog_title">Zertifikate aus %s extrahieren</string>
+  <string name="pkcs12_password_dialog_title">Zertifikat extrahieren</string>
+  <string name="sdcard_not_present">Kein USB-Speicher verfügbar</string>
+  <string name="storage_error">Zertifikat konnte nicht gespeichert werden. Zum Wiederholen auf \"OK\" tippen</string>
+  <string name="unable_to_save_cert">Das Zertifikat konnte nicht gespeichert werden. Der Speicher für die Anmeldeinformationen wurde nicht aktiviert oder falsch initialisiert.</string>
+</resources>

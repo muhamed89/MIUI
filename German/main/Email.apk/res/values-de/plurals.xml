@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d unread</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Archive these %1$d conversations?</item>
+        <item quantity="zero">Archive these %1$d conversations?</item>
+        <item quantity="one">Archive this conversation?</item>
+        <item quantity="two">Archive these %1$d conversations?</item>
+        <item quantity="few">Archive these %1$d conversations?</item>
+        <item quantity="many">Archive these %1$d conversations?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Delete these %1$d conversations?</item>
+        <item quantity="zero">Delete these %1$d conversations?</item>
+        <item quantity="one">Delete this conversation?</item>
+        <item quantity="two">Delete these %1$d conversations?</item>
+        <item quantity="few">Delete these %1$d conversations?</item>
+        <item quantity="many">Delete these %1$d conversations?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">These conversations contain merged items. Delete them anyway?</item>
+        <item quantity="zero">These conversations contain merged items. Delete them anyway?</item>
+        <item quantity="one">This conversations contains merged items. Delete it anyway?</item>
+        <item quantity="two">These conversations contain merged items. Delete them anyway?</item>
+        <item quantity="few">These conversations contain merged items. Delete them anyway?</item>
+        <item quantity="many">These conversations contain merged items. Delete them anyway?</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">%d selected</item>
+        <item quantity="zero">%d selected</item>
+        <item quantity="one">%d selected</item>
+        <item quantity="two">%d selected</item>
+        <item quantity="few">%d selected</item>
+        <item quantity="many">%d selected</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b> %1$d &lt;/b> archived.</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b> archived.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b> %1$d &lt;/b> deleted.</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b> deleted.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Changed folders.</item>
+        <item quantity="one">Changed folder.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b> %1$d &lt;/b> muted</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b> muted.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b> %1$d &lt;/b>" messages removed from 'important' folder"</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b>" removed from 'important' folder"</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b> %1$d &lt;/b>" removed from 'spam' folder"</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b>" removed from 'spam' folder"</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&lt;b> %1$d &lt;/b> messages reported as spam</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b> message reported as spam</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b> %1$d &lt;/b> marked as spam</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b> marked as spam</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Drafts</item>
+        <item quantity="one">Draft</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d messages will be permanently deleted.</item>
+        <item quantity="zero">%1$d messages will be permanently deleted.</item>
+        <item quantity="one">%1$d message will be permanently deleted.</item>
+        <item quantity="two">%1$d messages will be permanently deleted.</item>
+        <item quantity="few">%1$d messages will be permanently deleted.</item>
+        <item quantity="many">%1$d messages will be permanently deleted.</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">Move %1$d conversations</item>
+        <item quantity="zero">Move %1$d conversations</item>
+        <item quantity="one">Move conversation</item>
+        <item quantity="two">Move %1$d conversations</item>
+        <item quantity="few">Move %1$d conversations</item>
+        <item quantity="many">Move %1$d conversations</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">Show %1$d new messages.</item>
+        <item quantity="zero">Show %1$d new messages.</item>
+        <item quantity="one">Show %1$d new message.</item>
+        <item quantity="two">Show %1$d new messages.</item>
+        <item quantity="few">Show %1$d new messages.</item>
+        <item quantity="many">Show %1$d new messages.</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">%d selected</item>
+        <item quantity="zero">%d selected</item>
+        <item quantity="one">%d selected</item>
+        <item quantity="two">%d selected</item>
+        <item quantity="few">%d selected</item>
+        <item quantity="many">%d selected</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d older messages</item>
+        <item quantity="zero">%1$d older messages</item>
+        <item quantity="one">%1$d older message</item>
+        <item quantity="two">%1$d older messages</item>
+        <item quantity="few">%1$d older messages</item>
+        <item quantity="many">%1$d older messages</item>
+    </plurals>
+</resources>

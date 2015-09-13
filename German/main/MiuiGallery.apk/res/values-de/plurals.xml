@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_album">
+        <item quantity="other">Delete %1$s albums (%2$s total)?</item>
+        <item quantity="one">Delete %1$s album (%2$s total)?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
+        <item quantity="other">&lt;Data>Selected items include photos or videos in Mi Cloud, delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> items both from this device and Mi Cloud?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
+        <item quantity="other">&lt;Data>Selected items include photos in Mi Cloud, delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photos both from this device and Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Selected item includes photo in Mi Cloud, delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photo both from this device and Mi Cloud?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
+        <item quantity="other">&lt;Data>Selected items include videos in Mi Cloud, delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videos both from this device and Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Selected item includes video in Mi Cloud, delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video both from this device and Mi Cloud?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
+        <item quantity="other">&lt;Data>Selected items are photos or videos in Mi Cloud, delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> items from Mi Cloud?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image_from_homepage">
+        <item quantity="other">&lt;Data>Selected items are photos in Mi Cloud, delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photos from Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Selected item is photo in Mi Cloud, delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photo from Mi Cloud?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video_from_homepage">
+        <item quantity="other">&lt;Data>Selected items are videos in Mi Cloud, delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videos from Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Selected item is video in Mi Cloud, delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video from Mi Cloud?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image_video">
+        <item quantity="other">&lt;Data>Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> items from this album?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image_video">
+        <item quantity="other">Delete %s items?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">&lt;Data>Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photos from this album?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photo from this album?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">Delete %s photos?</item>
+        <item quantity="one">Delete %s photo?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">&lt;Data>Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videos from this album?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video from this album?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">Delete %s videos?</item>
+        <item quantity="one">Delete %s video?</item>
+    </plurals>
+    <plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">&lt;Data>Delete &amp;lt;xliff:g id=ITEM>%1$d videos&amp;lt;/xliff:g> from %2$d albums?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Delete &amp;lt;xliff:g id=ITEM>%1$d video&amp;lt;/xliff:g> from %2$d albums?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_image_from_many_albums">
+        <item quantity="other">&lt;Data>Delete &amp;lt;xliff:g id=ITEM>%1$d images&amp;lt;/xliff:g> from %2$d albums?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Delete &amp;lt;xliff:g id=ITEM>%1$d image&amp;lt;/xliff:g> from %2$d albums?&lt;/Data></item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d selected</item>
+        <item quantity="zero">%1$d selected</item>
+        <item quantity="one">%1$d selected</item>
+    </plurals>
+    <plurals name="number_of_pictures">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="how_many_pics">
+        <item quantity="other">%d photos</item>
+        <item quantity="one">%d photo</item>
+    </plurals>
+    <plurals name="how_many_videos">
+        <item quantity="other">%d videos</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="how_many_sub_folders">
+        <item quantity="other">%d folders</item>
+        <item quantity="one">%d folder</item>
+    </plurals>
+    <plurals name="message_no_delete_access_with_count">
+        <item quantity="other">"You don't have permission to delete these %d files."</item>
+        <item quantity="one">"You don't have permission to delete these %d file."</item>
+    </plurals>
+    <plurals name="pick_with_limited_upper_bound_title">
+        <item quantity="other">You can select %d items</item>
+        <item quantity="one">You can select %d item</item>
+    </plurals>
+    <plurals name="number_of_images">
+        <item quantity="other">%1$d photos</item>
+        <item quantity="zero">%1$d photos</item>
+        <item quantity="one">%1$d photo</item>
+    </plurals>
+    <plurals name="number_of_items">
+        <item quantity="other">%1$d items</item>
+        <item quantity="zero">%1$d items</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d seconds</item>
+        <item quantity="one">1 second</item>
+    </plurals>
+    <plurals name="ignore_faces_alert_msg">
+        <item quantity="other">"Don't show these faces?"</item>
+        <item quantity="one">"Don't show this face?"</item>
+    </plurals>
+    <plurals name="more_face">
+        <item quantity="other">%1$s photos of %2$s</item>
+        <item quantity="one">%1$s photo of %2$s</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%1$d photos of %2$s to be added</item>
+        <item quantity="one">%1$d photo of %2$s to be added</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%1$d photos of %2$s to be added</item>
+        <item quantity="one">%1$d photo of %2$s to be added</item>
+    </plurals>
+    <plurals name="baby_age_subtitle_year">
+        <item quantity="other">"%1$d years "</item>
+        <item quantity="one">"%1$d year "</item>
+    </plurals>
+    <plurals name="baby_age_subtitle_month">
+        <item quantity="other">"%1$d months "</item>
+        <item quantity="one">"%1$d month "</item>
+    </plurals>
+    <plurals name="baby_age_subtitle_day">
+        <item quantity="other">%1$d days</item>
+        <item quantity="one">%1$d day</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d photos waiting to sync</item>
+        <item quantity="one">1 photo to upload</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d videos waiting to sync</item>
+        <item quantity="one">1 video to upload</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d items waiting to sync</item>
+        <item quantity="one">1 item waiting to sync</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">Syncing %1$d photos…</item>
+        <item quantity="one">Syncing 1 photo…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">Syncing %1$d videos…</item>
+        <item quantity="one">Syncing 1 video…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">Syncing %1$d items…</item>
+        <item quantity="one">Syncing 1 item…</item>
+    </plurals>
+</resources>
