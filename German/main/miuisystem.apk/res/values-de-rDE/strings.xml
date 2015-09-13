@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="android_ringtone_default_with_actual">Default ringtone (%1$s)</string>
-  <string name="android_ringtone_silent">None</string>
-  <string name="android_ringtone_unknown">Unknown ringtone</string>
+  <string name="android_ringtone_default_with_actual">Standard Klingelton (%1$s)</string>
+  <string name="android_ringtone_silent">Keine</string>
+  <string name="android_ringtone_unknown">Unbekannter Klingelton</string>
   <string name="anniversary_of_lifting_martial_law">解嚴紀念</string>
   <string name="anti_aggression_day">反侵略日</string>
   <string name="app_name_which_call">Application:%s</string>
@@ -15,9 +15,9 @@
   <string name="chinese_youth_day">青年节</string>
   <string name="christmas_day">圣诞节</string>
   <string name="clear_and_bright">清明</string>
-  <string name="cloud_state_disabled">Sync with Mi Cloud is off</string>
-  <string name="cloud_state_finished">Synced with Mi Cloud</string>
-  <string name="cloud_state_syncing">Synced with Mi Cloud</string>
+  <string name="cloud_state_disabled">Synchronisation mit Mi Cloud ist deaktiviert</string>
+  <string name="cloud_state_finished">Synchronisiert mit Mi Cloud</string>
+  <string name="cloud_state_syncing">Synchronisiert mit Mi Cloud</string>
   <string name="cold_dews">寒露</string>
   <string name="day_following_good_friday">耶穌受難節翌日</string>
   <string name="def_alarm_alert">/system/media/audio/alarms/GoodMorning.ogg</string>
@@ -31,7 +31,7 @@
   <string name="def_sms_received_sound">/system/media/audio/notifications/MessageIncoming.ogg</string>
   <string name="def_sms_received_sound_slot_1">/system/media/audio/notifications/MessageIncoming.ogg</string>
   <string name="def_sms_received_sound_slot_2">/system/media/audio/notifications/MessageIncoming.ogg</string>
-  <string name="default_name">Default</string>
+  <string name="default_name">Standard</string>
   <string name="device_hongmi">Redmi</string>
   <string name="device_pad">Mi Pad</string>
   <string name="device_xiaomi">Mi Phone</string>
@@ -44,10 +44,10 @@
   <string name="grain_rain">谷雨</string>
   <string name="great_cold">大寒</string>
   <string name="great_heat">大暑</string>
-  <string name="group_name_contacts">Contacts</string>
-  <string name="group_name_coworkers">Colleagues</string>
-  <string name="group_name_family">Family</string>
-  <string name="group_name_friends">Friends</string>
+  <string name="group_name_contacts">Kontakte</string>
+  <string name="group_name_coworkers">Kollegen</string>
+  <string name="group_name_family">Familie</string>
+  <string name="group_name_friends">Freunde</string>
   <string name="heavy_snow">大雪</string>
   <string name="hksar_establishment_day">行政區成立</string>
   <string name="hoar_frost_falls">霜降</string>
@@ -55,10 +55,10 @@
   <string name="international_womens_day">妇女节</string>
   <string name="labour_day">劳动节</string>
   <string name="lantern_festival">元宵节</string>
-  <string name="license_host_unreachable">"Can't connect to network. To view this information now, 
-go to %s"</string>
+  <string name="license_host_unreachable">"Verbindung kann nicht aufgebaut werden. Für weitere Informationen, 
+gehe zu %s"</string>
   <string name="light_snow">小雪</string>
-  <string name="loading">Loading…</string>
+  <string name="loading">Laden…</string>
   <string name="lunar_ba">八</string>
   <string name="lunar_calendar">农历</string>
   <string name="lunar_chu">初</string>
@@ -82,20 +82,20 @@ go to %s"</string>
   <string name="lunar_yi">一</string>
   <string name="lunar_yue">月</string>
   <string name="lunar_zheng">正</string>
-  <string name="maml_component_customization_title">Settings</string>
+  <string name="maml_component_customization_title">Einstellungen</string>
   <string name="mibi_license">Mi Credit Terms of Service</string>
   <string name="miui_device_name">Android</string>
   <string name="national_day">国庆节</string>
   <string name="national_father_day">國父誕辰</string>
   <string name="new_years_day">元旦</string>
-  <string name="no_notification_tips">No notifications.</string>
+  <string name="no_notification_tips">Keine Benachrichtigungen.</string>
   <string name="partys_day">建党节</string>
   <string name="peace_day">和平紀念</string>
-  <string name="policy_name">Policy:%s</string>
+  <string name="policy_name">Richtlinie:%s</string>
   <string name="presentation_payphone">Payphone</string>
-  <string name="presentation_private">Private number</string>
-  <string name="presentation_unknown">Unknown number</string>
-  <string name="resource_select">Select</string>
+  <string name="presentation_private">Private Rufnimmer</string>
+  <string name="presentation_unknown">Unbekannte Rufnummerr</string>
+  <string name="resource_select">Auswählen</string>
   <string name="retrocession_day">光復節</string>
   <string name="slight_cold">小寒</string>
   <string name="slight_heat">小暑</string>
@@ -121,9 +121,9 @@ go to %s"</string>
   <string name="white_dews">白露</string>
   <string name="winter_begins">立冬</string>
   <string name="winter_solstice">冬至</string>
-  <string name="yellow_page_module_sms_sent">SMS sent</string>
-  <string name="yellow_page_sms_disabled_in_privacy_mode">"Can't send messages in Guest mode"</string>
-  <string name="yellow_page_sms_send_failed">"Couldn't send SMS"</string>
-  <string name="yellow_page_sms_sending">Sending…</string>
-  <string name="yellow_page_unable_send_sms">"Can't send SMS"</string>
+  <string name="yellow_page_module_sms_sent">SMS gesendet</string>
+  <string name="yellow_page_sms_disabled_in_privacy_mode">"Nachricht kann nicht im Gast-Modus gesendet werden"</string>
+  <string name="yellow_page_sms_send_failed">"SMS konnte nicht gesendet werden"</string>
+  <string name="yellow_page_sms_sending">Sendet…</string>
+  <string name="yellow_page_unable_send_sms">"SMS kann nicht gesendet werden"</string>
 </resources>
