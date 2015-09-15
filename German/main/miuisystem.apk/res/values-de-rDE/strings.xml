@@ -5,8 +5,8 @@
   <string name="android_ringtone_unknown">Unbekannter Klingelton</string>
   <string name="anniversary_of_lifting_martial_law">解嚴紀念</string>
   <string name="anti_aggression_day">反侵略日</string>
-  <string name="app_name_which_call">Application:%s</string>
-  <string name="app_version_which_call">Application version:%s</string>
+  <string name="app_name_which_call">Anwendung:%s</string>
+  <string name="app_version_which_call">Anwendungsversion:%s</string>
   <string name="arbor_day">植树节</string>
   <string name="armed_forces_day">軍人節</string>
   <string name="autumn_begins">立秋</string>
@@ -83,7 +83,7 @@ gehe zu %s"</string>
   <string name="lunar_yue">月</string>
   <string name="lunar_zheng">正</string>
   <string name="maml_component_customization_title">Einstellungen</string>
-  <string name="mibi_license">Mi Credit Terms of Service</string>
+  <string name="mibi_license">Mi Credit Nutzungsbedingungen</string>
   <string name="miui_device_name">Android</string>
   <string name="national_day">国庆节</string>
   <string name="national_father_day">國父誕辰</string>
