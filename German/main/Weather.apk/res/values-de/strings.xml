@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accuweather_default_url">http://www.accuweather.com</string>
-  <string name="accuweather_tag">accu</string>
+  <string name="accuweather_tag">Accu</string>
   <string name="act_aqi_src_port">"%1$s%2$s  %3$s"</string>
   <string name="act_find_city_hint">Ort eingeben</string>
   <string name="act_find_city_hot_title">Hinzufügen</string>
@@ -10,19 +10,19 @@
   <string name="act_weather_cycle_link_china">WeatherChina</string>
   <string name="act_weather_find_city_added">Hinzugefügt</string>
   <string name="act_weather_find_city_click_retry">Wiederholen</string>
-  <string name="act_weather_find_city_connect_net">"Can't connect to the network."</string>
-  <string name="act_weather_find_city_net_no_good">"Can't connect to the network."</string>
+  <string name="act_weather_find_city_connect_net">"Verbindung zum Netzwerk nicht möglich."</string>
+  <string name="act_weather_find_city_net_no_good">"Verbindung zum Netzwerk nicht möglich."</string>
   <string name="act_weather_find_city_no_result">Keine Ergebnisse</string>
   <string name="act_weather_find_city_searching">Suche…</string>
   <string name="activity_find_city_dialog_cancel">Abbrechen</string>
-  <string name="activity_find_city_dialog_message">Let Weather view your location</string>
+  <string name="activity_find_city_dialog_message">Erlaube Weather das abrufen Ihres Standortes</string>
   <string name="activity_find_city_dialog_set">Einstellungen</string>
-  <string name="activity_find_city_dialog_title">Location access</string>
+  <string name="activity_find_city_dialog_title">Standort abrufen</string>
   <string name="activity_main_refresh_fail">"Verbindung zum Netzwerk konnte nicht aufgebaut werden"</string>
   <string name="activity_main_refresh_time">Letzte Aktualisierung %1$s</string>
   <string name="activity_main_time_format">dd/MM</string>
   <string name="activity_main_update_time">Aktualisiert %1$s</string>
-  <string name="activity_main_update_time_right_now">Just now</string>
+  <string name="activity_main_update_time_right_now">Gerade eben</string>
   <string name="activity_weather_main_null_data">- -</string>
   <string name="activity_weathermain_locationg">Lokalisieren…</string>
   <string name="activity_weathermain_locationg_error">"Konnte nicht lokalisiert werden"</string>
@@ -37,12 +37,12 @@
   <string name="aqi_quality_index_moderate">AQI %1$s</string>
   <string name="aqi_quality_index_pure">AQI %1$s</string>
   <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
-  <string name="button_abandon">Abandon changes</string>
+  <string name="button_abandon">Abandon Veränderungen</string>
   <string name="button_allow">OK</string>
   <string name="button_confirm">Erlauben</string>
   <string name="button_exit">Beenden</string>
   <string name="button_not_allow">Abbrechen</string>
-  <string name="data_source_time_fromat">"yyyy-MM-dd'T'HH:mm:ss"</string>
+  <string name="data_source_time_fromat">"dd-MM-yyyy'T'HH:mm:ss"</string>
   <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_city">Bearbeiten</string>
   <string name="first_start_network_msg">Diese App muss eine Verbindung zum Internet aufbauen und Ihren Standort abrufen können, um richtig zu funktionieren.</string>
@@ -63,7 +63,7 @@
   <string name="share_menu_title">Teilen</string>
   <string name="share_subject">Teilen</string>
   <string name="share_title">Teile Wetterbericht</string>
-  <string name="share_weather_desc">\#MIUI Weather#Today %1$s %2$s</string>
+  <string name="share_weather_desc">\#MIUI Weather#Heute %1$s %2$s</string>
   <string name="share_weather_desc_alert">%1$s%2$s</string>
   <string name="share_weather_desc_split">,</string>
   <string name="share_weather_save_pic_fail">"Screenshot konnte nicht aufgenommen werden"</string>
@@ -73,7 +73,7 @@
   <string name="view_aqi_detail_pm10">PM10</string>
   <string name="view_aqi_detail_pm25">PM2.5</string>
   <string name="view_aqi_detail_so2">SO&lt;small&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/small&gt;</string>
-  <string name="view_aqi_detail_title">AQI details</string>
+  <string name="view_aqi_detail_title">AQI Details</string>
   <string name="view_aqi_main_no_data">N/A</string>
   <string name="view_aqi_pm25_format">PM2.5: %1$s</string>
   <string name="view_aqi_pubtime">Aktualisiert %1$s</string>
