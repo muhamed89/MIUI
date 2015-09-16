@@ -2,12 +2,12 @@
 <resources>
   <string name="Dashboard_App">Apps</string>
   <string name="Dashboard_HIPS_Disable_Content">"MIUI won't monitor apps' permissions requests."</string>
-  <string name="Dashboard_HIPS_Disable_Title">Permissions</string>
-  <string name="Dashboard_Log">Logs</string>
-  <string name="Dashboard_Log_Clear_Content">All logs will be erased.</string>
-  <string name="Dashboard_Log_Clear_Title">Clear logs</string>
-  <string name="Dashboard_Perm">Permissions</string>
-  <string name="Dashboard_Perm_AutoStart">Autostart permissions</string>
+  <string name="Dashboard_HIPS_Disable_Title">Berechtigungen</string>
+  <string name="Dashboard_Log">Protokolle</string>
+  <string name="Dashboard_Log_Clear_Content">Alle Protokolle werden gelöscht.</string>
+  <string name="Dashboard_Log_Clear_Title">Protokolle leeren</string>
+  <string name="Dashboard_Perm">Berechtigungen</string>
+  <string name="Dashboard_Perm_AutoStart">Autostart Berechtigungen</string>
   <string name="Dashboard_Perm_AutoStart_Desc">Control which apps can start when your device powers on</string>
   <string name="Dashboard_Perm_HIPS">Manage permissions</string>
   <string name="Dashboard_Perm_HIPS_Desc">Monitoring %1$d apps</string>
