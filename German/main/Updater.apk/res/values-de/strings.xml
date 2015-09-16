@@ -19,7 +19,7 @@
   <string name="auto_update">Aktualisierung automatisch herunterladen</string>
   <string name="auto_update_sum">Aktualisierung automatisch herunterladen sobald eine Verbundung über WLAN vorhanden ist</string>
   <string name="autosetmode">Einstellungen</string>
-  <string name="best_update">Bisland die beste Aktualisierung</string>
+  <string name="best_update">Bislang die beste Aktualisierung</string>
   <string name="boot_recovery">Neustart zum Recovery-Modus?</string>
   <string name="button_text_check">Auf Aktualisierung überprüfen</string>
   <string name="button_text_later_reboot">Später</string>
@@ -33,7 +33,7 @@
   <string name="check_update_when_wifi_available">Überprüfung nur, wenn WLAN-Verbindung besteht</string>
   <string name="check_update_when_wifi_available_sum">"Nur auf Aktualisierung überprüfen, wenn eine WLAN-Verbindung besteht"</string>
   <string name="clean_up_button">Clean up</string>
-  <string name="comment_invalid">Bewerte diese Aktualisierung (auf Sterne tippen)</string>
+  <string name="comment_invalid">Bewerte diese Aktualisierung (Sterne antippen)</string>
   <string name="comment_publish">Absenden</string>
   <string name="comment_sending">Sende…</string>
   <string name="comment_upload_failed">"Kommentar konnte nicht gesendet werden"</string>
@@ -45,8 +45,8 @@
   <string name="download_cancel">Abbrechen</string>
   <string name="download_current_rom">Neustart durchführen, damit die Aktualisierungen übernommen werden </string>
   <string name="download_diff">Download diff</string>
-  <string name="download_error">Fehler beim Downlload. Warten Sie bitte einen kurzen Moment und versuchen Sie es erneut.</string>
-  <string name="download_full">Vollständiger Download</string>
+  <string name="download_error">Fehler beim Download. Warten Sie bitte einen kurzen Moment und versuchen Sie es erneut.</string>
+  <string name="download_full">Download vollständig</string>
   <string name="download_success_reboot_immediately">Neustart durchführen, damit die Aktualisierungen übernommen werden</string>
   <string name="download_title">Herunterladen (%s)</string>
   <string name="download_title_first">Informationen werden geladen…</string>
@@ -119,15 +119,15 @@
   <string name="progress_title_checking">Überprüfe auf Updates…</string>
   <string name="reboot">Neustart</string>
   <string name="recovery_failed_button">OK</string>
-  <string name="recovery_failed_msg">"Zu wenig Speicherplatz, um in den Recovery-Modus zu booten und die Update aufzuspielen. Try using Mi PC Suite instead:
+  <string name="recovery_failed_msg">"Zu wenig Speicherplatz verfügbar, um in den Recovery-Modus zu booten und die Update zu installieren. Bitte die Mi PC Suite verwenden:
 http://zhushou.xiaomi.com"</string>
-  <string name="recovery_failed_notification_msg">"Can't enter Recovery mode"</string>
+  <string name="recovery_failed_notification_msg">"Boot in den Recovery-Modus nicht möglich"</string>
   <string name="recovery_failed_title">Verwende die Mi PC Suite, um eine Update durchzuführen</string>
   <string name="repeat">Wiederholen</string>
   <string name="set_auto">Updates automatisch suchen</string>
   <string name="set_auto_msg">Download der Updates automatisch, wenn ein WLAN-Verbindung besteht.</string>
   <string name="set_auto_update_title">Updates automatisch herunterladen</string>
-  <string name="set_installfail_full_msg">Something went wrong. Touch OK to report this error.</string>
+  <string name="set_installfail_full_msg">Es ist ein Fehler aufgetreten. Klicken Sie bitte auf OK, um diesen Fehler zu melden.</string>
   <string name="set_installfail_msg">"Sie befinden sich nicht im WLAN-Netzwerk. Download über das mobile Netzwerk wird Ihren Datenverbrauch stark ansteigen lassen. Sollten Sie keine Flatrate besitzen, dann könnten weitere Kosten entstehen."</string>
   <string name="set_installfail_title">Erneuter Downloadversuch?</string>
   <string name="set_installfail_title_full">"Update nicht möglich"</string>
@@ -144,9 +144,9 @@ http://zhushou.xiaomi.com"</string>
   <string name="sina_share_fail_content_repeat">"Konnte nicht geteilt werden, da der Inhalt bereits geteilt wurde…"</string>
   <string name="sina_share_pendding">Senden…</string>
   <string name="sina_share_success">Gesendet</string>
-  <string name="sina_token_expired_warning">Weibo account abgelaufen: Please rebind</string>
-  <string name="sina_token_invalid_warning">Weibo account ungültig: Please rebind</string>
-  <string name="sogou_uninstall_msg">Sogou keyboard (Mi Edition) ist mit MIUI 7 nicht mehr kompatibel. Bitte ein anderes Keyboard verwenden oder eine Update vom jetzigen Sogou Keyboard installieren.</string>
+  <string name="sina_token_expired_warning">Weibo Account abgelaufen: Please rebind</string>
+  <string name="sina_token_invalid_warning">Weibo Account ungültig: Please rebind</string>
+  <string name="sogou_uninstall_msg">Das Sogou keyboard (Mi Edition) ist mit MIUI 7 nicht mehr kompatibel. Bitte ein anderes Keyboard verwenden oder eine Update vom jetzigen Sogou Keyboard installieren.</string>
   <string name="sogou_uninstall_negative_button">Update Sogou</string>
   <string name="sogou_uninstall_positive_button">Keyboard ändern</string>
   <string name="sogou_uninstall_title">Keyboard Kompatibilität</string>
@@ -195,29 +195,28 @@ Sie können aber nächsten Monat mitmachen."</string>
   <string name="user_begin">Download</string>
   <string name="user_intertup_download_msg">Downloads wurde pausiert. Sie können den Download jederzeit forsetzen.</string>
   <string name="user_intertup_download_title">Download pausiert</string>
-  <string name="validate_pkg_failed_msg">"Couldn't verify the source of this update. Try downloading it again."</string>
+  <string name="validate_pkg_failed_msg">"Die Download-Quelle für diese Update kann nicht verifiziert werden. Versuchen Sie es erneut."</string>
   <string name="validate_pkg_failed_title">"Update konnte nicht verifiziert werden"</string>
   <string name="view_upgrade_tutorial">View</string>
   <string name="vote_beta">Beta Feedback Program</string>
-  <string name="vote_error1">"Look's like you're not a member
-of the Beta Feedback Program"</string>
-  <string name="vote_error2">"Couldn't submit feedback.
-Update your device and try again"</string>
-  <string name="vote_error3">"Couldn't sign in.
-Try signing in your Mi Account again."</string>
-  <string name="vote_error4">You already submitted feedback</string>
-  <string name="vote_error5">"Something went wrong
-Couldn't submit feedback"</string>
-  <string name="vote_error_nonetwork">"Can't connect to the network"</string>
-  <string name="vote_experience">Forum experience</string>
+  <string name="vote_error1">"Es sieht ganz so aus, das Sie kein Mitglied des Beta-Programms sind"</string>
+  <string name="vote_error2">"Feedback konnte nicht eingetragen werden.
+Führen Sie eine Update durch und versuchen Sie es erneut"</string>
+  <string name="vote_error3">"Anmeldung nicht möglich.
+Melden Sie sich bitte wieder bei Ihrem Mi Account an."</string>
+  <string name="vote_error4">Ihr Feedback wurde bereits eingetragen</string>
+  <string name="vote_error5">"Es ist ein Fehler aufgetreten
+Ihr Feedback konnte nicht hinzugefügt werden"</string>
+  <string name="vote_error_nonetwork">"Verbindung zum Netzwerk nicht möglich"</string>
+  <string name="vote_experience">Forum Erfahrungen</string>
   <string name="vote_hint">Get 20 experience points for the MIUI forum when you vote</string>
   <string name="vote_join">Voted</string>
-  <string name="vote_not_recommend">"Don't recommend"</string>
-  <string name="vote_recommend">Recommend this update</string>
-  <string name="vote_submit">Submit</string>
+  <string name="vote_not_recommend">"Nicht zu empfehlen"</string>
+  <string name="vote_recommend">Empfehle diese Update</string>
+  <string name="vote_submit">Absenden</string>
   <string name="weekly_build">Weekly</string>
   <string name="welcom_button">OK</string>
-  <string name="welcom_message">"You're ready to rock"</string>
+  <string name="welcom_message">"Sie sind bereit zum rocken"</string>
   <string name="welcom_title">Willkommen zu MIUI 7</string>
-  <string name="worst_update">Worst update so far</string>
+  <string name="worst_update">Schlechteste Update bisher</string>
 </resources>
