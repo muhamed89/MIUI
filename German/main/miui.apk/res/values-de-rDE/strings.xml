@@ -12,7 +12,7 @@
   <string name="afternoon">PM</string>
   <string name="am">AM</string>
   <string name="birthday">Geburtstag</string>
-  <string name="check_phone_error_title">Synchronisation deaktiviert</string>
+  <string name="check_phone_error_title">Synchronisation ist deaktiviert</string>
   <string name="check_phone_io_error">"Verbindung kann nicht aufgebaut werden"</string>
   <string name="chinese_day_1">初一</string>
   <string name="chinese_day_10">初十</string>
