@@ -209,8 +209,8 @@ Melden Sie sich bitte wieder bei Ihrem Mi Account an."</string>
 Ihr Feedback konnte nicht hinzugefügt werden"</string>
   <string name="vote_error_nonetwork">"Verbindung zum Netzwerk nicht möglich"</string>
   <string name="vote_experience">Forum Erfahrungen</string>
-  <string name="vote_hint">Get 20 experience points for the MIUI forum when you vote</string>
-  <string name="vote_join">Voted</string>
+  <string name="vote_hint">Bekomme 20 Erfahrungspunkte im Mi Forum für das Voting</string>
+  <string name="vote_join">Gevotet</string>
   <string name="vote_not_recommend">"Nicht zu empfehlen"</string>
   <string name="vote_recommend">Empfehle diese Update</string>
   <string name="vote_submit">Absenden</string>
