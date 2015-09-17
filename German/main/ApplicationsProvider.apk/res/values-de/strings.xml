@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_label">Anwendungen suchen</string>
+  <string name="app_label">Suchanwendungsanbieter</string>
   <string name="application_desc">Anwendungen</string>
   <string name="search_label">Apps</string>
-  <string name="settings_description">Name der installierten Anwendungen</string>
+  <string name="settings_description">Name der installierten Apps</string>
 </resources>
