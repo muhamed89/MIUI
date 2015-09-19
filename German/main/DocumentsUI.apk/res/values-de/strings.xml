@@ -5,8 +5,8 @@
   <string name="drawer_close">Root-Verzeichnis ausblenden</string>
   <string name="drawer_open">Root-Verzeichnis anzeigen</string>
   <string name="empty">Keine Dokumente</string>
-  <string name="menu_advanced_hide">Int. Speicher ausblenden</string>
-  <string name="menu_advanced_show">Int. Speicher anzeigen</string>
+  <string name="menu_advanced_hide">Interne Speicher ausblenden</string>
+  <string name="menu_advanced_show">Interne Speicher anzeigen</string>
   <string name="menu_create_dir">Ordner erstellen</string>
   <string name="menu_delete">Löschen</string>
   <string name="menu_file_size_hide">Dateigröße ausblenden</string>
