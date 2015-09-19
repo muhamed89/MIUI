@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="calendar_default_name">Default</string>
-  <string name="calendar_info">Calendar info</string>
-  <string name="calendar_info_error">Error</string>
-  <string name="calendar_info_events">Events: %1$d</string>
-  <string name="calendar_info_events_dirty">Events: %1$d, Unsaved: %2$d</string>
-  <string name="calendar_info_no_calendars">No calendars</string>
-  <string name="calendar_storage">Calendar Storage</string>
-  <string name="debug_tool_delete_button">Delete now</string>
-  <string name="debug_tool_email_body">Attached is my Calendar database with all my appointments and personal information. Handle with care.</string>
-  <string name="debug_tool_email_sender_picker">Choose a program to send your file</string>
-  <string name="debug_tool_email_subject">Calendar Db attached</string>
-  <string name="debug_tool_message">You are about to 1) make a copy of your calendar database to the SD card/USB storage, which is readable by any app, and 2) email it. Remember to delete the copy as soon as you have successfully copied it off the device or the email is received.</string>
-  <string name="debug_tool_start_button">Start</string>
-  <string name="holiday_data_no_network">"Can't connect to the network. Check your data connection and try again."</string>
-  <string name="holiday_data_update_failed">"Couldn't update. Check your data connection and try again."</string>
-  <string name="holiday_data_update_succeed">Update finished</string>
-  <string name="holiday_data_updating">Updating…</string>
-  <string name="holiday_update_summary">Tap to update calendar info.</string>
-  <string name="holiday_update_title">Update available</string>
-  <string name="provider_label">Calendar</string>
-  <string name="upgrade_msg">Upgrading Calendar database.</string>
+  <string name="calendar_default_name">Standard</string>
+  <string name="calendar_info">Kalenderinfo</string>
+  <string name="calendar_info_error">Fehler</string>
+  <string name="calendar_info_events">Termine: %1$d</string>
+  <string name="calendar_info_events_dirty">Termine: %1$d, nicht gespeichert: %2$d</string>
+  <string name="calendar_info_no_calendars">Keine Kalender</string>
+  <string name="calendar_storage">Kalenderspeicher</string>
+  <string name="debug_tool_delete_button">Jetzt löschen</string>
+  <string name="debug_tool_email_body">Beigefügt ist meine Kalenderdatenbank mit meinen Terminen und persönlichen Informationen. Bitte gehen Sie sorgfältig damit um.</string>
+  <string name="debug_tool_email_sender_picker">App zum Senden der Datei auswählen.</string>
+  <string name="debug_tool_email_subject">Kalender-DB angehängt</string>
+  <string name="debug_tool_message">Sie sind dabei, 1) eine Kopie Ihrer Kalenderdatenbank auf der SD-Karte bzw. dem USB-Speicher zu speichern, die von jeder App gelesen werden kann, und 2) sie per E-Mail zu versenden. Löschen Sie sie, sobald sie vom Gerät kopiert sind oder die E-Mail erhalten wurde.</string>
+  <string name="debug_tool_start_button">Starten</string>
+  <string name="holiday_data_no_network">Kein Netzwerk. Später erneut versuchen.</string>
+  <string name="holiday_data_update_failed">Prüfen Sie das Update auf Fehler und später erneut versuchen.</string>
+  <string name="holiday_data_update_succeed">Update auf Vollständigkeit prüfen.</string>
+  <string name="holiday_data_updating">Aktualisiere...</string>
+  <string name="holiday_update_summary">Updates prüfen drücken</string>
+  <string name="holiday_update_title">Werktagsdaten benötigen eine Netzwerkverbindung und Update.</string>
+  <string name="provider_label">Kalender</string>
+  <string name="upgrade_msg">Kalenderdatenbank wird aktualisiert.</string>
 </resources>
