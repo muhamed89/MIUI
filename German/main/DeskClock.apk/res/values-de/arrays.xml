@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="cities_names_miui">
         <item>Abidjan</item>
@@ -487,34 +487,34 @@
         <item>Chile/EasterIsland</item>
         <item>Europe/Amsterdam</item>
         <item>Europe/Andorra</item>
-        <item>Europe/Athens</item>
+        <item>Europe/Athen</item>
         <item>Europe/Belfast</item>
-        <item>Europe/Belgrade</item>
+        <item>Europe/Belgrad</item>
         <item>Europe/Berlin</item>
         <item>Europe/Bratislava</item>
-        <item>Europe/Brussels</item>
-        <item>Europe/Bucharest</item>
+        <item>Europe/Brüssel</item>
+        <item>Europe/Bukarest</item>
         <item>Europe/Budapest</item>
         <item>Europe/Chisinau</item>
-        <item>Europe/Copenhagen</item>
+        <item>Europe/Kopenhagen</item>
         <item>Europe/Dublin</item>
         <item>Europe/Gibraltar</item>
         <item>Europe/Helsinki</item>
         <item>Europe/Isle_of_Man</item>
         <item>Europe/Istanbul</item>
-        <item>Europe/Lisbon</item>
+        <item>Europe/Lissabon</item>
         <item>Europe/London</item>
-        <item>Europe/Luxembourg</item>
+        <item>Europe/Luxemburg</item>
         <item>Europe/Madrid</item>
         <item>Europe/Malta</item>
         <item>Europe/Minsk</item>
         <item>Europe/Monaco</item>
-        <item>Europe/Moscow</item>
+        <item>Europe/Moskau</item>
         <item>Europe/Oslo</item>
         <item>Europe/Paris</item>
-        <item>Europe/Prague</item>
+        <item>Europe/Prag</item>
         <item>Europe/Riga</item>
-        <item>Europe/Rome</item>
+        <item>Europe/Rom</item>
         <item>Europe/San_Marino</item>
         <item>Europe/Sarajevo</item>
         <item>Europe/Simferopol</item>
@@ -522,12 +522,12 @@
         <item>Europe/Sofia</item>
         <item>Europe/Stockholm</item>
         <item>Europe/Tallinn</item>
-        <item>Europe/Vatican</item>
-        <item>Europe/Vienna</item>
-        <item>Europe/Vilnius</item>
-        <item>Europe/Warsaw</item>
+        <item>Europe/Vatikan</item>
+        <item>Europe/Wien</item>
+        <item>Europe/Wilna</item>
+        <item>Europe/Warschau</item>
         <item>Europe/Zagreb</item>
-        <item>Europe/Zurich</item>
+        <item>Europe/Zürich</item>
         <item>Indian/Antananarivo</item>
         <item>Indian/Maldives</item>
         <item>Indian/Mauritius</item>
@@ -614,12 +614,12 @@
         <item>America/Sao_Paulo</item>
         <item>Asia/Kolkata</item>
         <item>Europe/London</item>
-        <item>Europe/Bucharest</item>
-        <item>Europe/Moscow</item>
-        <item>Europe/Warsaw</item>
-        <item>Europe/Warsaw</item>
+        <item>Europe/Bukarest</item>
+        <item>Europe/Moskau</item>
+        <item>Europe/Warschau</item>
+        <item>Europe/Warschau</item>
         <item>Europe/Berlin</item>
-        <item>Europe/Bucharest</item>
+        <item>Europe/Bukarest</item>
         <item>Asia/Jerusalem</item>
         <item>America/Puerto Rico</item>
         <item>America/Tegucigalpa</item>
@@ -926,32 +926,32 @@
         <item>C299</item>
     </string-array>
     <string-array name="alarm_in_furture">
-        <item>Alarm in less than 1 minute</item>
-        <item>Alarm in %1$s</item>
-        <item>Alarm in %2$s</item>
-        <item>Alarm in %1$s %2$s</item>
-        <item>Alarm in %3$s</item>
-        <item>Alarm in %1$s %3$s</item>
-        <item>Alarm in %2$s %3$s</item>
-        <item>Alarm in %1$s %2$s %3$s</item>
+        <item>Wecker klingelt in weniger als 1 Minute</item>
+        <item>Wecker klingelt in %1$s</item>
+        <item>Wecker klingelt in %2$s</item>
+        <item>Wecker klingelt in %1$s %2$s</item>
+        <item>Wecker klingelt in %3$s</item>
+        <item>Wecker klingelt in %1$s %3$s</item>
+        <item>Wecker klingelt in %2$s %3$s</item>
+        <item>Wecker klingelt in %1$s %2$s %3$s</item>
     </string-array>
     <string-array name="days">
-        <item>Yesterday</item>
-        <item>Today</item>
-        <item>Tomorrow</item>
+        <item>Gestern</item>
+        <item>Heute</item>
+        <item>Morgen</item>
     </string-array>
     <string-array name="alarm_repeat_type">
-        <item>Once</item>
-        <item>Daily</item>
-        <item>Work days</item>
-        <item>Mon to Fri</item>
-        <item>Custom</item>
+        <item>Einmalig</item>
+        <item>Täglich</item>
+        <item>an Werktagen</item>
+        <item>Mo bis Fr</item>
+        <item>Benutzerdefiniert</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
-        <item>Once</item>
-        <item>Daily</item>
-        <item>Mon to Fri</item>
-        <item>Custom</item>
+        <item>Einmalig</item>
+        <item>Täglich</item>
+        <item>Mo bis Fr</item>
+        <item>Benutzerdefiniert</item>
     </string-array>
     <integer-array name="alarm_repeat_type_values">
         <item>0</item>
@@ -967,23 +967,23 @@
         <item>4</item>
     </integer-array>
     <string-array name="alarm_set">
-        <item>Alarm set for less than 1 minute from now.</item>
-        <item>Alarm set for %1$s from now.</item>
-        <item>Alarm set for %2$s from now.</item>
-        <item>Alarm set for %1$s and %2$s from now.</item>
-        <item>Alarm set for %3$s from now.</item>
-        <item>Alarm set for %1$s and %3$s from now.</item>
-        <item>Alarm set for %2$s and %3$s from now.</item>
-        <item>Alarm set for %1$s, %2$s, and %3$s from now.</item>
+        <item>Der Wecker klingelt in weniger als 1 Minute</item>
+        <item>Der Wecker klingelt in %1$s</item>
+        <item>Der Wecker klingelt in %2$s</item>
+        <item>Der Wecker klingelt in %1$s und %2$s</item>
+        <item>Der Wecker klingelt in %3$s</item>
+        <item>Der Wecker klingelt in %1$s und %3$s</item>
+        <item>Der Wecker klingelt in %2$s und %3$s</item>
+        <item>Der Wecker klingelt in %1$s, %2$s, und %3$s</item>
     </string-array>
     <string-array name="snooze_duration_entries">
-        <item>1 minute</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>15 minutes</item>
-        <item>20 minutes</item>
-        <item>25 minutes</item>
-        <item>30 minutes</item>
+        <item>1 Minute</item>
+        <item>5 Minuten</item>
+        <item>10 Minuten</item>
+        <item>15 Minuten</item>
+        <item>20 Minuten</item>
+        <item>25 Minuten</item>
+        <item>30 Minuten</item>
     </string-array>
     <string-array name="snooze_duration_values">
         <item>1</item>
@@ -995,14 +995,14 @@
         <item>30</item>
     </string-array>
     <string-array name="auto_silence_entries">
-        <item>Never</item>
-        <item>1 minute</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>15 minutes</item>
-        <item>20 minutes</item>
-        <item>25 minutes</item>
-        <item>30 minutes</item>
+        <item>Nie</item>
+        <item>1 Minute</item>
+        <item>5 Minuten</item>
+        <item>10 Minuten</item>
+        <item>15 Minuten</item>
+        <item>20 Minuten</item>
+        <item>25 Minuten</item>
+        <item>30 Minuten</item>
     </string-array>
     <string-array name="auto_silence_values">
         <item>-1</item>
@@ -1015,9 +1015,9 @@
         <item>30</item>
     </string-array>
     <string-array name="volume_button_setting_entries">
-        <item>Do nothing</item>
-        <item>Snooze</item>
-        <item>Dismiss</item>
+        <item>Keine Aktion</item>
+        <item>Schlummern</item>
+        <item>Beenden</item>
     </string-array>
     <string-array name="volume_button_setting_values">
         <item>0</item>
