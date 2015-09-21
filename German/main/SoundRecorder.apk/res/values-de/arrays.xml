@@ -63,12 +63,12 @@
         <item>AMR</item>
     </string-array>
     <string-array name="record_scenes_entries">
-        <item>Music</item>
-        <item>Voice</item>
+        <item>Musik</item>
+        <item>Sprache</item>
     </string-array>
     <string-array name="interview_record_scenes_entries">
-        <item>Music</item>
-        <item>Voice</item>
+        <item>Musik</item>
+        <item>Sprache</item>
         <item>Interview</item>
     </string-array>
     <string-array name="record_scenes_values">
