@@ -1,19 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="cit_OTG_plugin_check_summary">When OTG device is connected, the text \"USB OTG device detected\" should be displayed below.</string>
-  <string name="cit_OTG_plugin_check_title">OTG (detection)</string>
-  <string name="cit_OTG_plugout_check_summary">When OTG device is removed, the text \"USB OTG device removed\" should be displayed below.</string>
-  <string name="cit_OTG_plugout_check_title">OTG (removal)</string>
-  <string name="cit_OTG_waiting_in">Connect USB OTG device now</string>
-  <string name="cit_OTG_waiting_out">Disconnect USB OTG device now</string>
-  <string name="cit_ac_charger_in">Charging via AC</string>
-  <string name="cit_ac_charger_out">AC charger disconnected</string>
-  <string name="cit_accelermeter_sensor_check_summary">"Move the device quickly in one direction. X，Y，Z coordinate values are displayed below. (when phone is in motion: X is represents left/right, y represents front/back, z represents up and down).
-Before you calibrate the device, place it on a flat surface."</string>
-  <string name="cit_accelermeter_sensor_check_title">Accelerometer</string>
-  <string name="cit_aud_spkcal">Calibrate</string>
-  <string name="cit_audio_cali_done">Calibration Done!</string>
-  <string name="cit_audio_cali_failed">Calibration Failed, please Retry!</string>
+  <string name="cit_OTG_plugin_check_summary">Wenn ein OTG-Gerät verbunden ist, sollte \"USB OTG-Gerät erkannt\" unten angezeigt werden.</string>
+  <string name="cit_OTG_plugin_check_title">OTG (Erkennung)</string>
+  <string name="cit_OTG_plugout_check_summary">Wenn ein OTG-Gerät getrennt wurde, sollte \"USB OTG-gerät getrennt\" unten angezeigt werden.</string>
+  <string name="cit_OTG_plugout_check_title">OTG (Trennung)</string>
+  <string name="cit_OTG_waiting_in">USB OTG-Gerät anschließen.</string>
+  <string name="cit_OTG_waiting_out">USB OTG-Gerät entfernen.</string>
+  <string name="cit_ac_charger_in">Ladegerät verbunden</string>
+  <string name="cit_ac_charger_out">Ladegerät getrennt</string>
+  <string name="cit_accelermeter_sensor_check_summary">"Bildschirm schnell in eine Richtung bewegen. Die X-，Y-，Z-Koordinaten werden dabei angezeigt. (Sobald das Telefon in Bewegung ist: X repräsentiert links/rechts, Y repräsentiert vor/zurück, Z repräsentiert hoch/runter).
+
+Vor Kalibrierung das Telefon auf einer ebenen Oberfläche legen"</string>
+  <string name="cit_accelermeter_sensor_check_title">Beschleunigungssensor</string>
+  <string name="cit_aud_spkcal">Kalibrieren</string>
+  <string name="cit_audio_cali_done">Kalibrierung abgeschlossen.</string>
+  <string name="cit_audio_cali_failed">Kalibrierung fehlgeschlagen, bitte versuchen Sie erneut!</string>
   <string name="cit_audio_cali_file_existed">Music file do not exist,can not do calibration!</string>
   <string name="cit_audio_cali_playing">Press button to do calibration</string>
   <string name="cit_audio_cali_summary">Calibrate Speaker PA</string>
@@ -23,310 +24,319 @@ Before you calibrate the device, place it on a flat surface."</string>
   <string name="cit_audio_cali_valueR">Ref_diff:</string>
   <string name="cit_audio_cali_valueT">Temp_acc:</string>
   <string name="cit_audio_calibrating">Calibration is ongoing...</string>
-  <string name="cit_audio_lb_backmic_to_speaker_title">Back mic speaker feedback test</string>
-  <string name="cit_audio_lb_mainmic_to_earpiece_title">Main mic speaker feedback test</string>
-  <string name="cit_audio_lb_phonecall_title">Simulation call test</string>
-  <string name="cit_audio_lb_summary_backmic_to_speaker">"Back microphone to speaker feedback test. 
+  <string name="cit_audio_lb_backmic_to_speaker_title">Test: hinteres Lautsprecher-Mikrofon</string>
+  <string name="cit_audio_lb_mainmic_to_earpiece_title">Test: Hauptlautsprecher-Mikrofon</string>
+  <string name="cit_audio_lb_phonecall_title">Test: Simulationsanruf</string>
+  <string name="cit_audio_lb_summary_backmic_to_speaker">"Test: Hinteres Mikrofon zum Lautsprecher. 
 
-Turn the phone, Speak to back microphone , you should hear voice in speaker"</string>
-  <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Main microphone to receiver feedback test.
+Telefon drehen, ins hintere Mikrofon sprechen, Stimme sollte aus dem Lautsprecher hörbar sein"</string>
+  <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Test: Hauptlautsprecher zum Empfänger.
 
-Hold the phone as if you are making a call, speak to main microphone, you should hear voice from reveiver"</string>
-  <string name="cit_audio_lb_summary_phonecall">"Simulation call test.
+Telefon, wie bei einem Anruf halten, ins Mikrofon sprechen, Stimme sollte vom Empfänger hörbar sein"</string>
+  <string name="cit_audio_lb_summary_phonecall">"Test: Simulationsanruf.
 
-Hold the phone as if you are making a call, Speak to main microphone, you should hear voice in the receiver. do the test in silent environment"</string>
-  <string name="cit_audio_lb_summary_topmic_to_speaker">"Top microphone to speaker feedback test.
+Telefon, wie bei einem Anruf halten, ins Mikrofon sprechen, Stimme sollte vom Empfänger hörbar sein. Test in einer ruhigen Umgebung durchführen"</string>
+  <string name="cit_audio_lb_summary_topmic_to_speaker">"Test: Oberer Lautsprecher zum Mikrofon.
 
- Turn the phone, Speak to top microphone , you should hear voice in speaker"</string>
-  <string name="cit_audio_lb_topmic_to_speaker_title">Top mic speaker feedback test</string>
-  <string name="cit_audio_loopback_check_one_title">Main microphone receiver feedback test</string>
-  <string name="cit_audio_loopback_check_summary_first">"Main microphone receiver feedback test
+Telefon drehen, ins Mikrofon sprechen, Stimme sollte aus dem Lautsprecher hörbar sein""</string>
+  <string name="cit_audio_lb_topmic_to_speaker_title">Test: Oberes Lautsprecher-Mikrofon</string>
+  <string name="cit_audio_loopback_check_one_title">Mikrofon testen</string>
+  <string name="cit_audio_loopback_check_summary_first">"Test: Hauptmikrofon zum Empfänger
 
-Hold the phone as if you are making a call, speak into the microphone and should hear your voice in the receiver."</string>
-  <string name="cit_audio_loopback_check_summary_second">"Secondary microphone speaker feedback test.
+Telefon, wie bei einem Anruf halten, ins Mikrofon sprechen, Stimme sollte vom Empfänger hörbar sein."</string>
+  <string name="cit_audio_loopback_check_summary_second">"Test: Sekundäres Lautsprecher-Mikrofon.
 
-Turn the phone so that the headphone input is facing downward. Speak into the receiver. You should hear your voice played through the external speaker."</string>
+Telefon so drehen, dass der Kopfhörereingang nach unten zeigt. In den Empfänger sprechen. Die Stimme sollte aus dem externen Lautsprecher hörbar sein."</string>
   <string name="cit_audio_loopback_check_two_title">Secondary microphone speaker feedback test</string>
   <string name="cit_audio_loopback_dualmic_earpiece_title">Ambient noise reduction test</string>
-  <string name="cit_audio_loopback_next">Next</string>
-  <string name="cit_audio_loopback_previous">Previous</string>
-  <string name="cit_audio_loopback_summary_dualmic_earpiece">"Ambient noise reduction test
+  <string name="cit_audio_loopback_next">Weiter</string>
+  <string name="cit_audio_loopback_previous">Zurück</string>
+  <string name="cit_audio_loopback_summary_dualmic_earpiece">"Test: Rauschunterdrückung
 
-Hold the phone as if you're answering a call, speak in to the microphone. You should hear your voice with reduced noise in the background played through the receiver."</string>
-  <string name="cit_battery_temp_fail">Battery temperature is not normal (value=%d)</string>
-  <string name="cit_battery_temp_pass">Battery temperature is normal</string>
-  <string name="cit_batterylight_blue">Blue</string>
-  <string name="cit_batterylight_green">Green</string>
-  <string name="cit_batterylight_red">Red</string>
-  <string name="cit_batterylight_rgb">Battery light</string>
-  <string name="cit_blue_tooth_address_check_summary">The Bluetooth address of this device should be displayed below.</string>
-  <string name="cit_blue_tooth_address_check_title">Get Bluetooth address</string>
-  <string name="cit_blue_tooth_scan_check_summary">Below is the info of the Bluetooth devices that were detected nearby.</string>
-  <string name="cit_blue_tooth_scan_check_title">Bluetooth scan</string>
-  <string name="cit_bluetooth_address_open_error">"Couldn't get Bluetooth address. An error occurred while opening Bluetooth device."</string>
-  <string name="cit_bluetooth_not_support">"This device doesn't support Bluetooth"</string>
-  <string name="cit_bluetooth_scan_retry">Scan again</string>
-  <string name="cit_bluetooth_scanning">Scanning for nearby Bluetooth devices (this should take about 4 seconds)…</string>
-  <string name="cit_bluetooth_scanning_bluetooth_done">"Done. Didn't find any Bluetooth devices nearby."</string>
-  <string name="cit_bluetooth_scanning_bluetooth_error">An error occurred while scanning for Bluetooth devices.</string>
-  <string name="cit_bluetooth_scanning_opening_bluetooth">Opening Bluetooth device…</string>
-  <string name="cit_button_light_off">Buttons light off</string>
-  <string name="cit_button_light_on">Buttons light on</string>
-  <string name="cit_calibration_fail">Calibration failed</string>
-  <string name="cit_calibration_pass">Calibration passed</string>
-  <string name="cit_camera_calibration_summary">"Test instructions:
+Telefon, wie bei einem Anruf halten, ins Mikrofon sprechen. Die Stimme sollte mit einem gedämpften Rauschen hörbar sein."</string>
+  <string name="cit_battery_temp_fail">Akkutest mit (value=%d) fehlgeschlagen</string>
+  <string name="cit_battery_temp_pass">Akkutest erfolgreich</string>
+  <string name="cit_batterylight_blue">Blau</string>
+  <string name="cit_batterylight_green">Grün</string>
+  <string name="cit_batterylight_red">Rot</string>
+  <string name="cit_batterylight_rgb">RGB</string>
+  <string name="cit_blue_tooth_address_check_summary">Dieser Test zeigt die derzeitige Bluetooth-MAC-Adresse.</string>
+  <string name="cit_blue_tooth_address_check_title">Bluetooth-Adresse testen</string>
+  <string name="cit_blue_tooth_scan_check_summary">Dieser Test zeigt alle verfügbaren Bluetooth-Geräte.</string>
+  <string name="cit_blue_tooth_scan_check_title">Bluetooth-Scan testen</string>
+  <string name="cit_bluetooth_address_open_error">"Bluetooth-Adresse konnte nicht abgerufen werden."</string>
+  <string name="cit_bluetooth_not_support">"Telefon unterstützt Bluetooth-Gerät nicht"</string>
+  <string name="cit_bluetooth_scan_retry">Erneut scannen</string>
+  <string name="cit_bluetooth_scanning">Suche Bluetooth-Geräte…</string>
+  <string name="cit_bluetooth_scanning_bluetooth_done">"Scan abgeschlossen."</string>
+  <string name="cit_bluetooth_scanning_bluetooth_error">Fehler beim Öffnen der Bluetooth-Geräte.</string>
+  <string name="cit_bluetooth_scanning_opening_bluetooth">Bluetooth-Geräte wird geöffnet…</string>
+  <string name="cit_button_light_off">Tastenbeleuchtung ausschalten</string>
+  <string name="cit_button_light_on">Tastenbeleuchtung anschalten</string>
+  <string name="cit_calibration_fail">Kalibrierung fehlgeschlagen</string>
+  <string name="cit_calibration_pass">Kalibrierung erfolgreich</string>
+  <string name="cit_camera_calibration_summary">"Testanweisungen:
 
-1.Tap the calibration button below to enter Camera interface
-2.Press Back button to exit the camera interface
-3.There will be a calibration pass label to indicate the ois has been calibrated"</string>
-  <string name="cit_camera_sdcard_error">"Can't take photo. SD card is full."</string>
-  <string name="cit_charger_plugin_check_summary">When USB charger is connected the text \"Charging via USB/AC\" should be displayed below.</string>
-  <string name="cit_charger_plugin_check_title">Charger (connect)</string>
-  <string name="cit_charger_plugout_check_summary">When USB charger is disconnected the text \"USB/AC charger disconnected\" should be displayed below.</string>
-  <string name="cit_charger_plugout_check_title">Charger (disconnect)</string>
-  <string name="cit_charger_waiting_in">Connect charger</string>
-  <string name="cit_charger_waiting_out">Disconnect charger now</string>
-  <string name="cit_display_check_summary">Confirm that the required bmp file is on the SD card. Confirm that the colors are consistently displayed across the whole screen. Make sure there are no irregular bright spots and dark spots.</string>
-  <string name="cit_display_check_title">Display</string>
-  <string name="cit_display_continue">Touch screen to begin test</string>
-  <string name="cit_exit_test_summary">When you exit, all related text data will be erased.</string>
-  <string name="cit_exit_test_title">Exit test</string>
-  <string name="cit_fail">Fail</string>
-  <string name="cit_fm_audio_path">Configure audio path</string>
-  <string name="cit_fm_audio_path_headset">Headphones</string>
-  <string name="cit_fm_audio_path_speaker">Speaker</string>
-  <string name="cit_fm_check_summary">"This will test the device's FM function."</string>
-  <string name="cit_fm_check_title">FM Radio</string>
-  <string name="cit_fm_close">Close FM</string>
-  <string name="cit_fm_not_supported">"This device doesn't support FM"</string>
-  <string name="cit_fm_open_1">Start FM - 88.5</string>
-  <string name="cit_fm_open_2">Start FM - 107.9</string>
-  <string name="cit_fm_open_bluetooth">Opening Bluetooth…</string>
-  <string name="cit_fm_start_service">Start audio</string>
-  <string name="cit_front_camera_check_summary">"Test instructions:
+1.Tippen Sie auf den Kalibrierungsbutton, um ins Kamerainterface zu gelangen
 
-1.Tap the Camera button below to enter front Camera interface
-2.Tap the shutter button
-3.Tap the Check icon. The system will save the photo automatically.
-4.The photo you took should be displayed below. Tap Delete to complete the test."</string>
-  <string name="cit_front_camera_check_title">Front camera</string>
-  <string name="cit_gps_check_summary">The corresponding GPS info should be displayed below.</string>
-  <string name="cit_gps_check_title">GPS</string>
-  <string name="cit_gps_disabled">"GPS hasn't started
+2.Drücken Sie die Zurücktaste, um das Kamerainterface zu verlassen
 
-Touch the screen to start GPS…"</string>
+3.Es wird Ihnen Kalibrierungsergebnis mit der erfolgreichen Kalibrierung angezeigt"</string>
+  <string name="cit_camera_sdcard_error">"SD-Karte voll. Bilder konnten nicht gespeichert werden."</string>
+  <string name="cit_charger_plugin_check_summary">Dieser Test überprüft den Status des Ladegerätes."</string>
+  <string name="cit_charger_plugin_check_title">Ladegerät (verbunden)</string>
+  <string name="cit_charger_plugout_check_summary">Aus- und Wiedereinstecken startet den Test</string>
+  <string name="cit_charger_plugout_check_title">Ladegerät-Verbindung testen</string>
+  <string name="cit_charger_waiting_in">Warte auf Ladegerät</string>
+  <string name="cit_charger_waiting_out">Ladegerät entfernen</string>
+  <string name="cit_display_check_summary">Test zeigt ein Bild, bitte füge eine .BMP-Datei zur SD-Karte hinzu.</string>
+  <string name="cit_display_check_title">Bildschirm testen</string>
+  <string name="cit_display_continue">Bildschirm berühren, um den Test zu starten</string>
+  <string name="cit_exit_test_summary">Aktive Tests beenden führt zum Datenverlust, wirklich fortfahren?</string>
+  <string name="cit_exit_test_title">Test anhalten</string>
+  <string name="cit_fail">Fehlgeschlagen</string>
+  <string name="cit_fm_audio_path">Audiopfad festlegen</string>
+  <string name="cit_fm_audio_path_headset">Headset</string>
+  <string name="cit_fm_audio_path_speaker">Lautsprecher</string>
+  <string name="cit_fm_check_summary">"Test überprüft das Radio."</string>
+  <string name="cit_fm_check_title">FM-Radio testen</string>
+  <string name="cit_fm_close">Radio abschalten</string>
+  <string name="cit_fm_not_supported">"FM-Radio wird von diesem Gerät nicht unterstützt"</string>
+  <string name="cit_fm_open_1">FM - 88.5</string>
+  <string name="cit_fm_open_2">FM - 107.9</string>
+  <string name="cit_fm_open_bluetooth">Aktiviere Bluetooth…</string>
+  <string name="cit_fm_start_service">Aktiviere Radio</string>
+  <string name="cit_front_camera_check_summary">"Testverlauf:
+
+1. Auf den Kamera-Button drücken, um Systemkamera zu öffnen
+
+2. Auf Kamera drücken
+
+3. Auf den OK-Button drücken, das System speichert das Bild automatisch
+
+4. Vorschau anschauen. Wenn Sie zufrieden sind, können Sie die Vorschau löschen."</string>
+  <string name="cit_front_camera_check_title">Frontkamera (Frontkamera) testen</string>
+  <string name="cit_gps_check_summary">Dieser Test zeigt GPS-Informationen.</string>
+  <string name="cit_gps_check_title">GPS testen</string>
+  <string name="cit_gps_disabled">"GPS ist nicht aktiviert.
+
+Aktiviere GPS über die Schnellauswahl"</string>
   <string name="cit_gps_first_fix_time">Fixed_time: %s</string>
-  <string name="cit_gps_location">Location: %s</string>
-  <string name="cit_gps_satellite_count">Satellite count: %d</string>
+  <string name="cit_gps_location">Standort: %s</string>
+  <string name="cit_gps_satellite_count">GPS-Satelliten: %d</string>
   <string name="cit_gps_satellite_prn">Prn: %s</string>
   <string name="cit_gps_satellite_snr">Snr: %s</string>
-  <string name="cit_gyroscope_sensor_check_summary">Values for X，Y，Z, coordinates should appear below</string>
-  <string name="cit_gyroscope_sensor_check_title">Gyroscope</string>
-  <string name="cit_headset_button_check_summary">When headphones are connected, press the buttons on the headphone remote (often located on the cord). The corresponding text on screen should turn green.</string>
-  <string name="cit_headset_button_check_title">Headphone buttons</string>
-  <string name="cit_headset_button_click">Press the buttons on the headphones</string>
-  <string name="cit_headset_button_current">Current button: %s</string>
-  <string name="cit_headset_button_fast_forward">Fast forward</string>
-  <string name="cit_headset_button_next">Next</string>
-  <string name="cit_headset_button_pass">Pass</string>
-  <string name="cit_headset_button_play_pause">Play/Pause</string>
-  <string name="cit_headset_button_previous">Previous</string>
-  <string name="cit_headset_button_rewind">Rewind</string>
+  <string name="cit_gyroscope_sensor_check_summary">Gyroskop-Sensorwerte für X, Y, Z Koordinaten</string>
+  <string name="cit_gyroscope_sensor_check_title">Gyroskop testen</string>
+  <string name="cit_headset_button_check_summary">Test zeigt auf Tastendruck den entsprechenden Knopf des verbundenen Headsets</string>
+  <string name="cit_headset_button_check_title">Kopfhörer testen</string>
+  <string name="cit_headset_button_click">Wählen Sie Headset-Button</string>
+  <string name="cit_headset_button_current">Headset-Taste: %s</string>
+  <string name="cit_headset_button_fast_forward">Vorspulen</string>
+  <string name="cit_headset_button_next">Weiter</string>
+  <string name="cit_headset_button_pass">Erfolgreich</string>
+  <string name="cit_headset_button_play_pause">Start / Pause</string>
+  <string name="cit_headset_button_previous">Zurück</string>
+  <string name="cit_headset_button_rewind">Zurückspulen</string>
   <string name="cit_headset_button_stop">Stop</string>
-  <string name="cit_headset_button_unknown">Unknown</string>
-  <string name="cit_headset_loopback_check_summary">"While wearing the headphones, connect them to the device. Speak into the headphone microphone (often located on the cord). You should hear your voice in the headphone's speakers."</string>
-  <string name="cit_headset_loopback_check_title">Headphone mic feedback test</string>
-  <string name="cit_headset_plug_detect_summary">When headphones are connected, the text \"Headphones detected\" should be displayed below.</string>
-  <string name="cit_headset_plug_detect_title">Headphone detection (connect)</string>
-  <string name="cit_headset_plug_finish">Headphones detected</string>
-  <string name="cit_headset_plug_hint">Connect headphones now</string>
-  <string name="cit_headset_pull_detect_summary">When headphones are disconnected, the text \"Headphones have been disconnected\" should be displayed below</string>
-  <string name="cit_headset_pull_detect_title">Headphone detection (disconnect)</string>
-  <string name="cit_headset_pull_finish">Headphones have been disconnected</string>
-  <string name="cit_headset_pull_hint">Disconnect headphones now</string>
-  <string name="cit_hide_menu">Hide menu</string>
-  <string name="cit_kayboard_volume_down">Button: VOLUME DOWN</string>
-  <string name="cit_kayboard_volume_up">Button: VOLUME UP</string>
-  <string name="cit_keyboard_back">Button: BACK</string>
-  <string name="cit_keyboard_current">Current keyboard: %s</string>
-  <string name="cit_keyboard_menu">Button: MENU</string>
-  <string name="cit_keyboard_test_summary">When you push the buttons, the corresponding text on screen should turn green (note: the Home and the Power buttons are not included in the test).</string>
-  <string name="cit_keyboard_test_title">Buttons</string>
-  <string name="cit_label">Hardware tests</string>
-  <string name="cit_lcdlight_brightness">Backlight</string>
-  <string name="cit_lcdlight_brightness_max">MAX</string>
-  <string name="cit_lcdlight_brightness_min">MIN</string>
-  <string name="cit_leds_check_summary">Backlight, notification light, and flash light (rear), should respond when corresponding button is pressed.</string>
-  <string name="cit_leds_check_title">Notification light (LED)</string>
-  <string name="cit_light_sensor_check_summary">DAC value should appear below</string>
-  <string name="cit_light_sensor_check_title">Light sensor</string>
-  <string name="cit_magnetic_sensor_check_summary">Values for X，Y，Z, coordinates should appear below</string>
-  <string name="cit_magnetic_sensor_check_title">Magnetic sensor</string>
-  <string name="cit_main_camera_check_summary">"Test instructions:
+  <string name="cit_headset_button_unknown">Headset-Status unbekannt</string>
+  <string name="cit_headset_loopback_check_summary">"Test überprüft Loopback zwischen Mikrofon und Kopfhörer"</string>
+  <string name="cit_headset_loopback_check_title">Kopfhörer-Loopback testen</string>
+  <string name="cit_headset_plug_detect_summary">Test überprüft Kopfhörerbuchse. Kopfhörer muss eingesteckt sein.</string>
+  <string name="cit_headset_plug_detect_title">Kopfhörer-Erkennung testen</string>
+  <string name="cit_headset_plug_finish">Kopfhörer eingesteckt</string>
+  <string name="cit_headset_plug_hint">Kopfhörer einstecken</string>
+  <string name="cit_headset_pull_detect_summary">Test überprüft, ob Kopfhörer ausgesteckt wurden</string>
+  <string name="cit_headset_pull_detect_title">Kopfhörer-Entfernung testen</string>
+  <string name="cit_headset_pull_finish">Kopfhörer entfernt</string>
+  <string name="cit_headset_pull_hint">Kopfhörer entfernen</string>
+  <string name="cit_hide_menu">Menü schließen</string>
+  <string name="cit_kayboard_volume_down">Teste Button: VOLUME_DOWN</string>
+  <string name="cit_kayboard_volume_up">Teste Button: VOLUME_UP</string>
+  <string name="cit_keyboard_back">Teste Button: BACK</string>
+  <string name="cit_keyboard_current">Tastatur: %s</string>
+  <string name="cit_keyboard_menu">Teste Button: MENU</string>
+  <string name="cit_keyboard_test_summary">Zeigt den derzeit gedrückten Knopf. Test überprüft nicht den Home-Button</string>
+  <string name="cit_keyboard_test_title">Tastatur testen</string>
+  <string name="cit_label">Hardware-Erkennung</string>
+  <string name="cit_lcdlight_brightness">Helligkeit</string>
+  <string name="cit_lcdlight_brightness_max">Max</string>
+  <string name="cit_lcdlight_brightness_min">Min</string>
+  <string name="cit_leds_check_summary">Test überprüft Helligkeit, POWER- und Blitz-LEDs.</string>
+  <string name="cit_leds_check_title">LED testen</string>
+  <string name="cit_light_sensor_check_summary">Folgende Lichtsensorwerte wurden gefunden</string>
+  <string name="cit_light_sensor_check_title">Lichtsensor testen</string>
+  <string name="cit_magnetic_sensor_check_summary">Unten sind die derzeitigen Magnometer-Werte in X, Y, Z-Achsenform</string>
+  <string name="cit_magnetic_sensor_check_title">Magnometer testen</string>
+  <string name="cit_main_camera_check_summary">"Test-Checkliste:
 
-1.Tap the Camera button below to enter rear Camera interface
-2.Make sure the flash is enabled
-3.Tap the shutter button
-4.Tap the Check icon. The system will save the photo automatically.
-5.The photo you took should be displayed below. Tap Delete to complete the test."</string>
-  <string name="cit_main_camera_check_title">Rear camera</string>
-  <string name="cit_name">Hardware tests</string>
-  <string name="cit_not_available">"This test isn't available on this version of MIUI"</string>
-  <string name="cit_notificationlight">Notification light</string>
-  <string name="cit_notificationlight_off">Notification light off</string>
-  <string name="cit_notificationlight_on">Notification light on</string>
-  <string name="cit_otg_not_supported">"This device doesn't support OTG testing"</string>
-  <string name="cit_pass">Pass</string>
-  <string name="cit_play_sd_mp3_hifi_summary">"Confirm that there's a file named \"music.mp3\" stored on the SD card. The file \"music.mp3\" should be played through the device's HIFI path when you open this test."</string>
-  <string name="cit_play_sd_mp3_hifi_title">Play MP3(HIFI) stored on SD card</string>
-  <string name="cit_play_sd_mp3_summary">"Confirm that there's a file named \"music.mp3\" stored on the SD card. The file \"music.mp3\" should be played through the device's external speakers when you open this test."</string>
-  <string name="cit_play_sd_mp3_title">Play MP3 stored on SD card</string>
-  <string name="cit_playing_sd_mp3">Playing music.mp3…</string>
-  <string name="cit_pointer_location_title">Touch sensor</string>
-  <string name="cit_power_check_summary">The amount of battery charge should be expressed as a percentage below.</string>
-  <string name="cit_power_check_title">Battery indicator</string>
-  <string name="cit_pressure_sensor_check_summary">Value for pressure should appear below</string>
-  <string name="cit_pressure_sensor_check_title">Pressure sensor</string>
-  <string name="cit_proximity_sensor_check_summary">"Cover the proximity sensor (located at the top of the phone near the receiver) with your hand, then move your hand away. The value should increase from 0.0 when you move your hand further away from the device.
-When calibrating, make sure there's nothing between the sensor and your hand (e.g. protective screen cover or gloves)."</string>
-  <string name="cit_proximity_sensor_check_title">Proximity sensor</string>
-  <string name="cit_reset_check_summary">This test will reboot the device. All previous test data will be lost.</string>
-  <string name="cit_reset_check_title">Reboot test</string>
-  <string name="cit_reset_test">Test</string>
-  <string name="cit_sd_fail">An error occurred.</string>
-  <string name="cit_sd_mount">Mount SD card</string>
-  <string name="cit_sd_mount_sucess">SD card mounted</string>
-  <string name="cit_sd_mp3_not_existed">"There is no file on the SD card called \"music.mp3\"
-After you place \"music.mp3\" in the SD card's directory, tap the display to play."</string>
-  <string name="cit_sd_plugged_in">SD card detected, remove SD card now</string>
-  <string name="cit_sd_plugged_out">SD card has been removed, insert SD card now</string>
-  <string name="cit_sd_plugin_check_summary">The text \"SD card detected, remove SD card now\" should be displayed below.</string>
-  <string name="cit_sd_plugin_check_title">SD card (detection)</string>
-  <string name="cit_sd_plugout_check_summary">When you remove the SD card, the text \"SD card has been removed, insert SD card now\" should be displayed below.</string>
-  <string name="cit_sd_plugout_check_title">SD card (removal)</string>
-  <string name="cit_sd_unmount">Unmount SD card</string>
-  <string name="cit_sd_unmount_sucess">SD card unmounted</string>
-  <string name="cit_sim_check_summary">Confirm that correct the status and info of the SIM card is displayed below</string>
-  <string name="cit_sim_check_title">SIM card</string>
-  <string name="cit_sim_error_unknown">Unknown</string>
-  <string name="cit_sim_network_operator">Network service provider:</string>
-  <string name="cit_sim_network_operator_name">Network service provider name:</string>
-  <string name="cit_sim_network_type">Network type:</string>
-  <string name="cit_sim_serial_number">SIM card number:</string>
-  <string name="cit_sim_sim_country">Country:</string>
-  <string name="cit_sim_sim_operator">SIM card operator number:</string>
-  <string name="cit_sim_sim_operator_name">Operator name:</string>
-  <string name="cit_sim_state_absent">No SIM card detected</string>
-  <string name="cit_sim_state_network_locked">Network PIN locked</string>
-  <string name="cit_sim_state_pin_required">PIN required</string>
-  <string name="cit_sim_state_puk_required">PUK required</string>
-  <string name="cit_sim_state_ready">SIM card ready</string>
-  <string name="cit_sim_state_unkown">Unknown</string>
-  <string name="cit_start_calibration">Calibrate</string>
-  <string name="cit_stop_calibration">Stop calibrating</string>
-  <string name="cit_tool">Additional tools</string>
-  <string name="cit_tool_bluetooth">Bluetooth test tool</string>
-  <string name="cit_tool_bluetooth_dut">Enter Bluetooth Test Mode</string>
-  <string name="cit_tool_bluetooth_le_tx_ch19">Enter Bluetooth LE 2.440GHz Freq Test Mode</string>
-  <string name="cit_tool_bluetooth_le_tx_h">Enter Bluetooth LE 2.480GHz Freq Test Mode</string>
-  <string name="cit_tool_bluetooth_le_tx_l">Enter Bluetooth LE 2.402GHz Freq Test Mode</string>
-  <string name="cit_tool_bluetooth_not_on">Bluetooth is NOT enabled</string>
-  <string name="cit_tool_bluetooth_off">Disable Bluetooth</string>
-  <string name="cit_tool_bluetooth_on">Enable Bluetooth</string>
-  <string name="cit_tool_bluetooth_tx_h">Enter Bluetooth BR/EDR 2.480GHz Freq Test Mode</string>
-  <string name="cit_tool_bluetooth_tx_l">Enter Bluetooth BR/EDR 2.402GHz Freq Test Mode</string>
-  <string name="cit_tool_cal_camera">Camera Calibration Tool</string>
-  <string name="cit_tool_enable_3A_log">Enable 3A log Switch</string>
-  <string name="cit_tool_log">Get logs</string>
-  <string name="cit_tool_log_bugreport">Bug report</string>
+1. Kamera-Button drücken, um die Kamera zu öffnen
+ 
+2. Sicherstellen, dass der Blitz aktiviert ist
+ 
+3. Auf Bilderliste drücken
+ 
+4. OK-Button drücken, dies speichert das Bild automatisch
+ 
+5. Überprüfen, ob das Bild korrekt angezeigt wird und löschen es"</string>
+  <string name="cit_main_camera_check_title">Kamera (Hauptkamera) testen</string>
+  <string name="cit_name">Hardware-Erkennung</string>
+  <string name="cit_not_available">"Nutzerversion unterstütz diesen Test nicht, nur Werkstest verfügbar"</string>
+  <string name="cit_notificationlight">Benachrichtigungs-LED</string>
+  <string name="cit_notificationlight_off">Benachrichtigungs-LED ausschalten</string>
+  <string name="cit_notificationlight_on">">Benachrichtigungs-LED einschalten</string>
+  <string name="cit_otg_not_supported">"Dieses Modell unterstützt den OTG-Test nicht."</string>
+  <string name="cit_pass">Erfolgreich</string>
+  <string name="cit_play_sd_mp3_hifi_summary">"Bestätigen, dass sich eine Datei namens \"music.mp3\" auf der SD-Karte befindet. Die Datei \"music.mp3\" sollte auf dem Gerät wiedergegeben werden."</string>
+  <string name="cit_play_sd_mp3_hifi_title">MP3(HIFI) von der SD-Karte abspielen</string>
+  <string name="cit_play_sd_mp3_summary">"Bestätigen, dass sich eine Datei namens \"music.mp3\" auf der SD-Karte befindet. Die Datei \"music.mp3\" sollte auf den externen Lautsprechern des Gerätes wiedergegeben werden."</string>
+  <string name="cit_play_sd_mp3_title">MP3-Wiedergabe testen</string>
+  <string name="cit_playing_sd_mp3">music.mp3 wird abgespielt…</string>
+  <string name="cit_pointer_location_title">Touchscreen testen</string>
+  <string name="cit_power_check_summary">Test zeigt verfügbare Stromkapazität an.</string>
+  <string name="cit_power_check_title">Stromkapazität testen</string>
+  <string name="cit_pressure_sensor_check_summary">Überprüfe Drucksensorwerte</string>
+  <string name="cit_pressure_sensor_check_title">Drucksensor testen</string>
+  <string name="cit_proximity_sensor_check_summary">"Bewegungssensor mit dem Finger abdecken (befindet sich am oberen Ende des Telefons), dann nehmen Sie Ihre weg. Wenn Sie Ihre Hand weiter vom Telefon wegnehmen wird der Wert von 0.0 an steigen.
+Stellen Sie sicher, dass sich bei der Kalibrierung nichts zwischen dem Sensor und Ihrer Hand befindet (z.B. Schutzfolien oder Handschuhe)."</string>
+  <string name="cit_proximity_sensor_check_title">Bewegungssensor testen</string>
+  <string name="cit_reset_check_summary">Test erzeugt einen System-Neustart.</string>
+  <string name="cit_reset_check_title">Neustart testen</string>
+  <string name="cit_reset_test">Neustart-Test</string>
+  <string name="cit_sd_fail">Konnte SD-Karte nicht lesen, Vorgang fehlgeschlagen.</string>
+  <string name="cit_sd_mount">SD-Karte mounten</string>
+  <string name="cit_sd_mount_sucess">SD-Karte erfolgreich gemounted</string>
+  <string name="cit_sd_mp3_not_existed">"Die music.mp3-Datei konnte nicht im Basisordner der SD-Karte gefunden werden.
+Datei hinzufügen und Test erneut starten."</string>
+  <string name="cit_sd_plugged_in">SD-Karte erkannt, SD-Karte entfernen</string>
+  <string name="cit_sd_plugged_out">SD-Karte wurde entfernt, SD-Karte einsetzen</string>
+  <string name="cit_sd_plugin_check_summary">Es sollte der Text \"SD-Karte erkannt, SD-Karte entfernen\" angezeigt werden.</string>
+  <string name="cit_sd_plugin_check_title">SD-Karte (Erkennung)</string>
+  <string name="cit_sd_plugout_check_summary">Beim Entfernen der SD-Karte sollte der der Text \"SD-Karte wurde entfernt, SD-Karte einsetzen\" angezeigt werden.</string>
+  <string name="cit_sd_plugout_check_title">SD-Karte (Entfernung)</string>
+  <string name="cit_sd_unmount">SD-Karte aushängen</string>
+  <string name="cit_sd_unmount_sucess">SD-Karte erfolgreich ausgehängt</string>
+  <string name="cit_sim_check_summary">Test überprüft den Status der SIM-Karte</string>
+  <string name="cit_sim_check_title">SIM-Karte testen</string>
+  <string name="cit_sim_error_unknown">Unbekannter SIM-Fehler</string>
+  <string name="cit_sim_network_operator">Netzbetreiber:</string>
+  <string name="cit_sim_network_operator_name">Netzbetreibername:</string>
+  <string name="cit_sim_network_type">Netzwerktyp:</string>
+  <string name="cit_sim_serial_number">SIM-Kartennummer:</string>
+  <string name="cit_sim_sim_country">Land:</string>
+  <string name="cit_sim_sim_operator">SIM-Betreiber:</string>
+  <string name="cit_sim_sim_operator_name">SIM-Betreibername:</string>
+  <string name="cit_sim_state_absent">SIM-Karte nicht gefunden</string>
+  <string name="cit_sim_state_network_locked">Netzwerk-PIN gesperrt</string>
+  <string name="cit_sim_state_pin_required">PIN-Code erforderlich</string>
+  <string name="cit_sim_state_puk_required">PUK-Code erforderlich</string>
+  <string name="cit_sim_state_ready">SIM-Karte OK</string>
+  <string name="cit_sim_state_unkown">Unbekannter Statusfehler</string>
+  <string name="cit_start_calibration">Starte Kalibrierung</string>
+  <string name="cit_stop_calibration">Stoppe Kalibrierung</string>
+  <string name="cit_tool">Tools</string>
+  <string name="cit_tool_bluetooth">Bluetooth-Test-Tools</string>
+  <string name="cit_tool_bluetooth_dut">Bluetooth-Test_Modus starten</string>
+  <string name="cit_tool_bluetooth_le_tx_ch19">Enter Bluetooth LE 2.440GHz Freq Test_Modus</string>
+  <string name="cit_tool_bluetooth_le_tx_h">Enter Bluetooth LE 2.480GHz Freq Test_Modus</string>
+  <string name="cit_tool_bluetooth_le_tx_l">Enter Bluetooth LE 2.402GHz Freq Test_Modus</string>
+  <string name="cit_tool_bluetooth_not_on">Bluetooth ist deaktiviert!</string>
+  <string name="cit_tool_bluetooth_off">Bluetooth deaktivieren</string>
+  <string name="cit_tool_bluetooth_on">Bluetooth aktivieren</string>
+  <string name="cit_tool_bluetooth_tx_h">Bluetooth Single-Sound-Test （2.480GHz) starten</string>
+  <string name="cit_tool_bluetooth_tx_l">Bluetooth Single-Sound-Test （2.402GHz） starten</string>
+  <string name="cit_tool_cal_camera">Kamera-Kalibrationstool</string>
+  <string name="cit_tool_enable_3A_log">3A Log-Switch aktivieren</string>
+  <string name="cit_tool_log">Berichte</string>
+  <string name="cit_tool_log_bugreport">Bugreport</string>
   <string name="cit_tool_log_dmesg">DMESG</string>
-  <string name="cit_tool_log_file_not_exist">%s does not exist</string>
-  <string name="cit_tool_log_generate_bugreport">Creating bug report…</string>
-  <string name="cit_tool_log_kmsg">Last kernel log</string>
-  <string name="cit_tool_log_logcat">ADB log</string>
-  <string name="cit_tool_log_modem">Modem log</string>
-  <string name="cit_tool_log_no_sdcard">Insert SD card now</string>
-  <string name="cit_tool_log_ril">RIL log</string>
-  <string name="cit_tool_log_toast">Log saved to %s</string>
-  <string name="cit_tool_log_toast_generate_bugreport">Creating bug report… (this takes about 1 minute)</string>
-  <string name="cit_tool_modem">MODEM test tools</string>
+  <string name="cit_tool_log_file_not_exist">%s existiert nicht</string>
+  <string name="cit_tool_log_generate_bugreport">Erstelle Bugreport…</string>
+  <string name="cit_tool_log_kmsg">Letzter Kernelbericht</string>
+  <string name="cit_tool_log_logcat">ADB-Bericht</string>
+  <string name="cit_tool_log_modem">Modembericht</string>
+  <string name="cit_tool_log_no_sdcard">SD-karte einsetzen</string>
+  <string name="cit_tool_log_ril">RIL-Bericht</string>
+  <string name="cit_tool_log_toast">Logfile gespeichert als %s</string>
+  <string name="cit_tool_log_toast_generate_bugreport">Erstellen des Bugreports kann bis zu 10 Sekunden dauern</string>
+  <string name="cit_tool_modem">MODEM-Test-Tools</string>
   <string name="cit_tool_modem_bugreport">Force MODEM Coredump</string>
-  <string name="cit_tool_modem_exit_ftm">Exit FTM mode</string>
+  <string name="cit_tool_modem_exit_ftm">FTM Modus beenden</string>
   <string name="cit_tool_modem_mbn">Change Modem Config</string>
-  <string name="cit_tool_modem_offline_log">Open/Close Offline Log</string>
-  <string name="cit_tool_nfc">NFC test tools</string>
+  <string name="cit_tool_modem_offline_log">Öffne/Schließe Offline-Log</string>
+  <string name="cit_tool_nfc">NFC-Test-Tools</string>
   <string name="cit_tool_nfc_st">Nfc ST:</string>
-  <string name="cit_tool_nfc_st_confreq">freq:</string>
-  <string name="cit_tool_nfc_st_run">Run</string>
-  <string name="cit_tool_nfc_st_stop">Stop</string>
-  <string name="cit_tool_wifi">WLAN test tool</string>
+  <string name="cit_tool_nfc_st_confreq">Freq:</string>
+  <string name="cit_tool_nfc_st_run">Starten</string>
+  <string name="cit_tool_nfc_st_stop">Beenden</string>
+  <string name="cit_tool_wifi">WLAN-Test-Tools</string>
   <string name="cit_tool_wifi_chain_1">1</string>
   <string name="cit_tool_wifi_chain_1_2">1+2</string>
   <string name="cit_tool_wifi_chain_2">2</string>
-  <string name="cit_tool_wifi_exit">Exit</string>
+  <string name="cit_tool_wifi_exit">Beenden</string>
   <string name="cit_tool_wifi_rx_ap">Rx: AP</string>
   <string name="cit_tool_wifi_rx_ap_name">MT</string>
   <string name="cit_tool_wifi_rx_chan">Rx: Channel</string>
-  <string name="cit_tool_wifi_rx_count_error">Output value is not a number</string>
+  <string name="cit_tool_wifi_rx_count_error">Ausgabewert ist keine Ziffer</string>
   <string name="cit_tool_wifi_rx_dut_ip">192.168.1.12</string>
-  <string name="cit_tool_wifi_rx_error">An error occurred while running the program</string>
+  <string name="cit_tool_wifi_rx_error">Ein Fehler ist aufgetreten</string>
   <string name="cit_tool_wifi_rx_exit">Rx:exit</string>
-  <string name="cit_tool_wifi_rx_run">Run</string>
-  <string name="cit_tool_wifi_rx_stop">Stop</string>
+  <string name="cit_tool_wifi_rx_run">Start</string>
+  <string name="cit_tool_wifi_rx_stop">Stopp</string>
   <string name="cit_tool_wifi_rxbg_test">Rx: a/b/g</string>
-  <string name="cit_tool_wifi_rxbg_test_channel">channel:</string>
+  <string name="cit_tool_wifi_rxbg_test_channel">Kanal:</string>
   <string name="cit_tool_wifi_rxn_test">Rx: n</string>
-  <string name="cit_tool_wifi_rxn_test_bw">bandwidth:</string>
-  <string name="cit_tool_wifi_rxn_test_channel">channel:</string>
+  <string name="cit_tool_wifi_rxn_test_bw">Bandbreite:</string>
+  <string name="cit_tool_wifi_rxn_test_channel">Kanal:</string>
   <string name="cit_tool_wifi_tx_ac">Tx: ac</string>
   <string name="cit_tool_wifi_tx_bg">Tx: a/b/g</string>
-  <string name="cit_tool_wifi_tx_bg_chan">channel:</string>
+  <string name="cit_tool_wifi_tx_bg_chan">Kanal:</string>
   <string name="cit_tool_wifi_tx_bg_txpr">txpower:</string>
-  <string name="cit_tool_wifi_tx_bg_txrt">datarate:</string>
+  <string name="cit_tool_wifi_tx_bg_txrt">Datarate:</string>
   <string name="cit_tool_wifi_tx_n">Tx: n</string>
   <string name="cit_tool_wifi_tx_n_bandwidth">bandwidth:</string>
   <string name="cit_tool_wifi_tx_n_chan">channel:</string>
   <string name="cit_tool_wifi_tx_n_txpr">txpower:</string>
-  <string name="cit_tool_wifi_tx_n_txrt">datarate: MCS</string>
+  <string name="cit_tool_wifi_tx_n_txrt">Datarate: MCS</string>
   <string name="cit_tool_wifi_tx_st">Tx: ST</string>
-  <string name="cit_tool_wifi_tx_st_chan">channel:</string>
+  <string name="cit_tool_wifi_tx_st_chan">Kanal:</string>
   <string name="cit_tool_wifi_txrx_chain_selection">Select antenna</string>
-  <string name="cit_torch_off">Turn off flash light</string>
-  <string name="cit_torch_on">Turn on flash light</string>
-  <string name="cit_touch_calib_fail">Touch Calibration failed, Please retry</string>
-  <string name="cit_touch_calib_instruction">start calibration</string>
-  <string name="cit_touch_calib_pass">Touch Calibration pass, Please use it normally</string>
-  <string name="cit_touch_calib_summary">Next step will do touch calibration, press confirm button and do not touch screen after it, wait for calibration success hint</string>
-  <string name="cit_touch_calib_title">Touch Calibration</string>
-  <string name="cit_usb_OTG_in">USB OTG device detected</string>
-  <string name="cit_usb_OTG_out">USB OTG device removed</string>
-  <string name="cit_usb_charger_in">Charging via USB</string>
-  <string name="cit_usb_charger_out">USB charger disconnected</string>
-  <string name="cit_version_check_summary">Below is OS version info. Confirm that the info highlighted in green is correct.</string>
-  <string name="cit_version_check_title">Check version info</string>
-  <string name="cit_vga_camera_capture">Camera</string>
-  <string name="cit_vga_camera_capture_fail">Failed to take picture</string>
-  <string name="cit_vga_camera_delete">Delete</string>
-  <string name="cit_vga_camera_deleted">Photo deleted</string>
-  <string name="cit_vibrator_check_summary">See if vibration (long and short) is functioning normally</string>
-  <string name="cit_vibrator_check_title">Vibration</string>
+  <string name="cit_torch_off">Taschenlampe ausschalten</string>
+  <string name="cit_torch_on">Taschenlampe einschalten</string>
+  <string name="cit_touch_calib_fail">Touch-Kalibrierung fehlgeschlagen, erneut versuchen</string>
+  <string name="cit_touch_calib_instruction">Kalibration starten</string>
+  <string name="cit_touch_calib_pass">Touch-Kalibration erfolgreich, normal benutzen</string>
+  <string name="cit_touch_calib_summary">Der nächste Schritt führt die Touch-Kalibration durch. Bestätigen, den Bildschirm nicht mehr berühren und warten bis die Kalibrierung abgeschlossen wurde.</string>
+  <string name="cit_touch_calib_title">Touch-Kalibration</string>
+  <string name="cit_usb_OTG_in">USB-OTG-Gerät verbunden</string>
+  <string name="cit_usb_OTG_out">USB-OTG-Gerät nicht verbunden</string>
+  <string name="cit_usb_charger_in">USB-Ladegerät verbunden</string>
+  <string name="cit_usb_charger_out">USB-Ladegerät nicht verbunden</string>
+  <string name="cit_version_check_summary">Folgende Hard- und Softwareversionen wurden gefunden.</string>
+  <string name="cit_version_check_title">Teste Version</string>
+  <string name="cit_vga_camera_capture">Foto aufnehmen</string>
+  <string name="cit_vga_camera_capture_fail">Aufnahme fehlgeschlagen</string>
+  <string name="cit_vga_camera_delete">Foto löschen</string>
+  <string name="cit_vga_camera_deleted">Foto wurde gelöscht</string>
+  <string name="cit_vibrator_check_summary">Dieser Test überprüft die Vibration (lang / kurz)</string>
+  <string name="cit_vibrator_check_title">Vibration testen</string>
   <string name="cit_vibrator_don_don_chat">Don-Don-Chat</string>
-  <string name="cit_vibrator_haptic">Haptic</string>
-  <string name="cit_vibrator_load_down_pattern">Down Pattern</string>
-  <string name="cit_vibrator_load_up_pattern">Up Pattern</string>
-  <string name="cit_vibrator_long">Long vibration</string>
-  <string name="cit_vibrator_play_touch_pattern">Vibration</string>
-  <string name="cit_vibrator_short">Short vibration</string>
-  <string name="cit_vibrator_show_advanced">Show advanced options</string>
-  <string name="cit_wifi_address_check_summary">Below is the address of the WLAN network that the phone is currently connected to. Confirm that the info highlighted in green is correct.</string>
-  <string name="cit_wifi_address_check_title">WLAN Address</string>
-  <string name="cit_wifi_address_error">"Couldn't get WLAN address. Make sure that WLAN is enabled."</string>
-  <string name="cit_wifi_ap_scan_check_summary">Below is the WLAN AP info of the devices in the area that were detected. Confirm that the info highlighted in green is correct.</string>
-  <string name="cit_wifi_ap_scan_check_title">WLAN AP Scan</string>
-  <string name="cit_wifi_ap_scan_retry">Scanning again…</string>
-  <string name="cit_wifi_ap_scanning">Scanning…</string>
-  <string name="cit_wifi_fail_to_scan">"Couldn't scan for networks"</string>
-  <string name="cit_wifi_state_refresh">Refresh</string>
+  <string name="cit_vibrator_haptic">Haptisches-Feedback</string>
+  <string name="cit_vibrator_load_down_pattern">Abwärtsmuster</string>
+  <string name="cit_vibrator_load_up_pattern">Aufwärtsmuster</string>
+  <string name="cit_vibrator_long">Lange Vibration</string>
+  <string name="cit_vibrator_play_touch_pattern">Vibrationsmuster</string>
+  <string name="cit_vibrator_short">Kurze Vibration</string>
+  <string name="cit_vibrator_show_advanced">Erweiterte Einstellungen anzeigen</string>
+  <string name="cit_wifi_address_check_summary">Test zeigt den derzeitigen WLAN-Status an.</string>
+  <string name="cit_wifi_address_check_title">WLAN-IP testen</string>
+  <string name="cit_wifi_address_error">"Konnte WLAN-Adresse nicht finden, überprüfe ob WLAN aktiviert ist und erneut versuchen."</string>
+  <string name="cit_wifi_ap_scan_check_summary">Test zeigt alle verfügbaren WLAN-AccessPoints an.</string>
+  <string name="cit_wifi_ap_scan_check_title">WLAN-AccessPoint-Scan testen</string>
+  <string name="cit_wifi_ap_scan_retry">Erneut suchen…</string>
+  <string name="cit_wifi_ap_scanning">Wird gesucht…</string>
+  <string name="cit_wifi_fail_to_scan">"Netzwerksuche fehlgeschlagen"</string>
+  <string name="cit_wifi_state_refresh">Aktualisieren</string>
   <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Front mic speaker feedback test</string>
   <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Front microphone to speaker feedback test.
 
