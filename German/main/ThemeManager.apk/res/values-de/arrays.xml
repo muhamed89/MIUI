@@ -32,15 +32,15 @@
         <item>LowBattery.ogg</item>
     </string-array>
     <string-array name="audio_effect_file_showing_names">
-        <item>Lock</item>
-        <item>Unlock</item>
+        <item>Sperren</item>
+        <item>Entsperren</item>
         <item>EffectTick</item>
         <item>KeypressDelete</item>
         <item>KeypressReturn</item>
         <item>KeypressStandard</item>
         <item>KeypressSpacebar</item>
-        <item>CameraClick</item>
-        <item>VideoRecord</item>
+        <item>KameraKlick</item>
+        <item>Videoaufnahme</item>
         <item>CameraCountDown</item>
         <item>CameraBeepSuccess</item>
         <item>CameraBeepFail</item>
@@ -48,11 +48,11 @@
         <item>CameraBeepInProgress1</item>
         <item>CameraBeepInProgress2</item>
         <item>MusicShake</item>
-        <item>MessageComplete</item>
+        <item>NachrichtVollständig</item>
         <item>SoundRecorderPlay</item>
         <item>SoundRecorderPause</item>
         <item>SoundRecorderRewind</item>
-        <item>LowBattery</item>
+        <item>NiedrigerAkku</item>
     </string-array>
     <string-array name="disable_package_replacement">
         <item>disable package name</item>
