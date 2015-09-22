@@ -504,7 +504,7 @@ Grund: \"%s\""</string>
   <string name="in_call_show_save_failed">Video konnte nicht gespeichert werden</string>
   <string name="in_call_show_tap_to_show_demo">Antippen, für Vorschau</string>
   <string name="in_call_show_too_short">Zu kurz. Nehmen Sie ein längeres Video auf.</string>
-  <string name="in_call_show_video_pick">Auswählen<</string>
+  <string name="in_call_show_video_pick">Auswählen</string>
   <string name="in_call_show_video_pick_filter">"Das Video muss kleiner als 3 MB und kürzer als 20 Sekunden sein. "</string>
   <string name="in_call_show_view_play_error">Es ist ein Fehler beim Abspielen des Videos aufgetreten. Versuchen Sie es erneut</string>
   <string name="insertContactDescription">Kontakt erstellen</string>
