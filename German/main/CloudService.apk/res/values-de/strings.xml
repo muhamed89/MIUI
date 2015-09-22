@@ -36,11 +36,11 @@ Um mehr Speicherplatz zu erhalten, besuchen Sie mi.com/micloud."</string>
   <string name="cloud_back_up_interval_long">7 Tage</string>
   <string name="cloud_back_up_interval_short">1 Tag</string>
   <string name="cloud_back_up_network_unavailable">"Konnte nichts entfernen. Verbinden Sie sich mit einem WLAN und versuchen Sie es erneut."</string>
-  <string name="cloud_back_up_open_info">"Sichere App's, wenn Sie mit einem WLAN verbunden sind, einmal aller %1$s
+  <string name="cloud_back_up_open_info">"Sichere Apps, wenn Sie mit einem WLAN verbunden sind, einmal aller %1$s
 Zuletzt gesichert am %2$s"</string>
-  <string name="cloud_back_up_open_info_no_backuptime">Sichere App's, wenn Sie mit einem WLAN verbunden sind, einmal aller %1$s</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Sichere Apps, wenn Sie mit einem WLAN verbunden sind, einmal aller %1$s</string>
   <string name="cloud_back_up_remove_success">Sicherung gelöscht</string>
-  <string name="cloud_back_up_title">Sichere App's</string>
+  <string name="cloud_back_up_title">Sichere Apps</string>
   <string name="cloud_backup_dialog_title">Sicher mit Mi Cloud</string>
   <string name="cloud_find_device">Suche Gerät</string>
   <string name="cloud_space_upgrade_message">Berühre, um %sGB zu deiner Cloud hinzuzufügen.</string>
@@ -131,7 +131,7 @@ Zuletzt gesichert am %2$s"</string>
 
 Auf diese Weise bleiben Ihre Daten immer sicher, sollten Sie ihr Gerät verlieren oder es beschädigen.
 
-Wenn Ihre Cloud voll ist, werden Ihre alten Daten nicht verschwinden. Doch jeder neue Inhalte, den Sie hinzufügen (z.B. Fotos, Videos, Notizen und App's) werden nicht gesichert werden.
+Wenn Ihre Cloud voll ist, werden Ihre alten Daten nicht verschwinden. Doch jeder neue Inhalte, den Sie hinzufügen (z.B. Fotos, Videos, Notizen und Apps) werden nicht gesichert werden.
 
 Um dies zu beheben, können Sie entweder alte Dateien bereinigen um Platz für neue zu machen, oder Sie können zusätzlichen Speicherplatz erwerben."</string>
   <string name="micloud_full_influence_title">Wenn ihre Mi Cloud voll ist…</string>
@@ -184,13 +184,13 @@ Berühre dem Einstellungsknopf um mehr Optionen zu sehen"</string>
   <string name="micloud_setting_browser_summary">Lesezeichen, Verlauf und Registerkarten</string>
   <string name="micloud_setting_contact_summary">Kontaktinfos und Profilfotos</string>
   <string name="micloud_setting_deskclock_summary">Zeitzone und Alarmeinstellungen</string>
-  <string name="micloud_setting_gallery_summary">Foto's und Video's</string>
+  <string name="micloud_setting_gallery_summary">Fotos und Videos</string>
   <string name="micloud_setting_music_summary">Abspiellisten und Favoriten</string>
   <string name="micloud_setting_sms_summary">SMS und MMS Nachrichten</string>
   <string name="micloud_setting_wifi_summary">WLAN Einstellungen</string>
   <string name="micloud_single_dspt">Benutzen Sie Mi Cloud um ihre Daten zu synchronisieren, um ihr Gerät zu finden, und Dinge mit ihren Freunden zu teilen.</string>
-  <string name="micloud_space_applist_detail">Verwalte App's auf dem Startbildschirm</string>
-  <string name="micloud_space_applist_title">Verwalte App's</string>
+  <string name="micloud_space_applist_detail">Verwalte Apps auf dem Startbildschirm</string>
+  <string name="micloud_space_applist_title">Verwalte Apps</string>
   <string name="micloud_space_duokan_detail">Herunterladen und Verwalten von E-Books mit der Duokan App.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
   <string name="micloud_space_full_influence">&lt;u&gt;Was passiert, wenn ich keinen Speicherplatz mehr habe?&lt;/u&gt;</string>
@@ -249,12 +249,12 @@ Diese Funktion verschlüsselt und sendet ihre Geräte-ID, zum Mi-Server."</strin
   <string name="password">Passwort eingeben</string>
   <string name="phone_number_may_required_dspt_provision">"Dieser Service benötigt ihre Telefonnummer. "</string>
   <string name="phone_number_required_dspt_provision">"Dieser Service benötigt ihre Telefonnummer. "</string>
-  <string name="photo">Foto's</string>
+  <string name="photo">Fotos</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">"Nur bei aktiver WLAN Verbindung Profilbilder synchronisieren"</string>
-  <string name="pref_summary_sync_video_on_wifi_only">"Nur bei aktiver WLAN Verbindung Profilvideo's synchronisieren"</string>
+  <string name="pref_summary_sync_video_on_wifi_only">"Nur bei aktiver WLAN Verbindung Profilvideos synchronisieren"</string>
   <string name="pref_title_sync_contacts_title">Kontakte synchronisieren</string>
-  <string name="pref_title_sync_display_photo_on_wifi_only">Nur WLAN benutzen um Foto's zu synchronisieren</string>
-  <string name="pref_title_sync_video_on_wifi_only">Nur WLAN benutzen um Video's zu synchronisieren</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only">Nur WLAN benutzen um Fotos zu synchronisieren</string>
+  <string name="pref_title_sync_video_on_wifi_only">Nur WLAN benutzen um Videos zu synchronisieren</string>
   <string name="privacy_policy">Datenschutzrichtlinie</string>
   <string name="remind_later">Nicht jetzt</string>
   <string name="restoreSync">Synchronisiere jetzt</string>
@@ -278,18 +278,18 @@ Diese Funktion verschlüsselt und sendet ihre Geräte-ID, zum Mi-Server."</strin
   <string name="sub_alert_notif_dspt_add">%s Dinge warten um synchronisiert zu werden</string>
   <string name="sub_alert_notif_dspt_no">Synchronisiert</string>
   <string name="sub_alert_notif_title">Keine Synchronisation</string>
-  <string name="sub_sync_item_sms_summary">"Nachrichten welche Foto's, Video's oder andere Medien beinhalten, nur bei einer WLAN Verbindung synchronisieren"</string>
+  <string name="sub_sync_item_sms_summary">"Nachrichten welche Fotos, Videos oder andere Medien beinhalten, nur bei einer WLAN Verbindung synchronisieren"</string>
   <string name="sub_sync_item_sms_title_wifi_only">Nur WLAN benutzen um MMS Nachrichten zu synchronisieren</string>
   <string name="success_upgraded_space">%s hinzugefügt</string>
   <string name="sync_dspt">Synchronisiere</string>
-  <string name="sync_dspt_entrance_provision">"Synchronisieren Sie ihre Foto's, Kontakte, Anruferlisten und Nachrichtenzwischen allen ihren Geräten. Greife auf alles, von jedem beliebigen Browser aus, zu auf %s. "</string>
+  <string name="sync_dspt_entrance_provision">"Synchronisieren Sie ihre Fotos, Kontakte, Anruferlisten und Nachrichtenzwischen allen ihren Geräten. Greife auf alles, von jedem beliebigen Browser aus, zu auf %s. "</string>
   <string name="sync_dspt_entrance_provision_2">Erfahren Sie mehr</string>
   <string name="sync_dspt_entrance_provision_confirm_close">"Nicht benutzen"</string>
-  <string name="sync_dspt_entrance_provision_confirm_content">"MIUI's built-in App's brauchen die Mi Cloud, um ihren Foto's, Kontakte, Notizen, und mehr zu sichern. Mi Cloud ist kostenlos und einfach zu bedienen."</string>
+  <string name="sync_dspt_entrance_provision_confirm_content">"MIUI's built-in Apps brauchen die Mi Cloud, um ihren Fotos, Kontakte, Notizen, und mehr zu sichern. Mi Cloud ist kostenlos und einfach zu bedienen."</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Benutze Mi Cloud</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"Mi Cloud nicht benutzen?"</string>
   <string name="sync_dspt_entrance_provision_skip">&lt;u&gt;Überspringen diesen Schritt&lt;/u&gt;</string>
-  <string name="sync_dspt_provision">"Synchronisieren Sie ihre Foto's, Kontakte, Notizen, und mehr zwischen allen ihren Geräten oder greifen Sie darauf zu auf "</string>
+  <string name="sync_dspt_provision">"Synchronisieren Sie ihre Fotos, Kontakte, Notizen, und mehr zwischen allen ihren Geräten oder greifen Sie darauf zu auf "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
   <string name="sync_dspt_provision3">". Sie können diese Funktion jederzeit an ider aus schalten in den Einstellungen."</string>
@@ -307,7 +307,7 @@ Diese Funktion verschlüsselt und sendet ihre Geräte-ID, zum Mi-Server."</strin
   <string name="sync_sub_2_intl_sms">Ihr Anbieter kann Kosten für 2 gesendete internationale SMS berechnen, welche verwendet werden, um diesen Service zu aktivieren.</string>
   <string name="sync_sub_2_sms">Ihr Anbieter kann Kosten für 2 gesendete SMS berechnen, welche verwendet werden, um diesen Service zu aktivieren.</string>
   <string name="sync_sub_dspt">Ihr Anbieter kann Kosten für eine gesendete SMS berechnen, welche verwendet wird, um diesen Service zu aktivieren.</string>
-  <string name="sync_sub_dspt_provision">Synchronisieren Sie Foto's, Kontakte, Musik, App's, und mehr zwischen all ihren Geräten</string>
+  <string name="sync_sub_dspt_provision">Synchronisieren Sie Fotos, Kontakte, Musik, Apps, und mehr zwischen all ihren Geräten</string>
   <string name="sync_sub_int_dspt">Ihr Anbieter kann Kosten für eine gesendete internationale SMS berechnen, welche verwendet wird, um diesen Service zu aktivieren.</string>
   <string name="title_reg">Eröffne Mi Konto</string>
   <string name="total_space_upgraded_to">Gesamtspeicherplatz:%s</string>
