@@ -87,10 +87,11 @@
   <string name="delete_dialog_button">Löschen</string>
   <string name="delete_failed">Löschen fehlgeschlagen.</string>
   <string name="delete_file">Diese Datei löschen?</string>
+  <string name="delete_file">Datei löschen?</string>
   <string name="delete_files">%1$d Dateien löschen?</string>
   <string name="delete_folder">Ordner löschen?</string>
   <string name="delete_folders">%1$d Ordner löschen?</string>
-  <string name="delete_selected_tasks">Ausgewählte lsöchen？</string>
+  <string name="delete_selected_tasks">Ausgewählte löschen?</string>
   <string name="des_running_trans">%1$d Dateien wurden noch nicht übertragen.</string>
   <string name="dialog_select_type">Typ auswählen</string>
   <string name="dialog_type_audio">Audio</string>
