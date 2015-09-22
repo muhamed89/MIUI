@@ -1,31 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="cpu_actions_device">
-        <item>cancro</item>
-    </string-array>
-    <string-array name="group_name">
-        <item>normal</item>
-        <item>hide</item>
-        <item>reading</item>
-        <item>media</item>
-    </string-array>
     <string-array name="group_name_translate">
         <item>Standard</item>
         <item>Ausgeblendeter Modus</item>
         <item>Leser Modus</item>
         <item>Media Modus</item>
-    </string-array>
-    <string-array name="event_name">
-        <item>foreground_change</item>
-        <item>screen_on</item>
-        <item>screen_off</item>
-        <item>screen_off_10_min</item>
-        <item>full_screen_enter</item>
-        <item>full_screen_exit</item>
-        <item>background_change</item>
-        <item>start_charging</item>
-        <item>stop_charging</item>
-        <item>idle_enter</item>
     </string-array>
     <string-array name="event_name_translate">
         <item>App läuft im Vordergrund</item>
@@ -39,17 +18,6 @@
         <item>"Handy lädt nicht"</item>
         <item>Handy im Ruhezustand</item>
     </string-array>
-    <string-array name="action_name">
-        <item>set_brightness</item>
-        <item>set_cpufreq_max</item>
-        <item>set_lcd_mode</item>
-        <item>set_cpu_powermode</item>
-        <item>set_data_connection</item>
-        <item>set_location</item>
-        <item>set_idle_notification</item>
-        <item>set_keyguard_notification</item>
-        <item>set_bg_data_delay_time</item>
-    </string-array>
     <string-array name="action_name_translate">
         <item>Max Bildschirmhelligkeit</item>
         <item>Max CPU Frequenz</item>
@@ -60,21 +28,6 @@
         <item>Erste Benachrichtigung</item>
         <item>Bildschirmsperrenbenachrichtigung</item>
         <item>Beschränken Sie Hintergrund-Datenverbindungen</item>
-    </string-array>
-    <string-array name="action_param">
-        <item>none</item>
-        <item>ui</item>
-        <item>still</item>
-        <item>movie</item>
-        <item>low</item>
-        <item>middle</item>
-        <item>high</item>
-        <item>true</item>
-        <item>false</item>
-        <item>bg_delay_0_mins</item>
-        <item>bg_delay_10_mins</item>
-        <item>bg_delay_30_mins</item>
-        <item>bg_delay_screen_off</item>
     </string-array>
     <string-array name="action_param_translate">
         <item>Nichts</item>
@@ -91,42 +44,9 @@
         <item>Nach 30 Min</item>
         <item>Wenn der Bildschirm aus ist</item>
     </string-array>
-    <string-array name="shown_mandatory_event_name">
-        <item>foreground_change</item>
-        <item>background_change</item>
-    </string-array>
-    <string-array name="shown_optional_event_name">
-        <item>full_screen_enter</item>
-        <item>start_charging</item>
-        <item>idle_enter</item>
-    </string-array>
-    <string-array name="shown_action_name">
-        <item>set_cpu_powermode</item>
-        <item>set_lcd_mode</item>
-        <item>set_data_connection</item>
-        <item>set_location</item>
-        <item>set_idle_notification</item>
-        <item>set_keyguard_notification</item>
-        <item>set_sync_alarm</item>
-        <item>set_bg_data_delay_time</item>
-    </string-array>
-    <string-array name="shown_action_param_default">
-        <item>middle</item>
-        <item>ui</item>
-        <item>true</item>
-        <item>true</item>
-        <item>false</item>
-        <item>false</item>
-        <item>true</item>
-        <item>bg_delay_10_mins</item>
-    </string-array>
     <string-array name="app_groups">
         <item>selected</item>
         <item>unselected</item>
         <item>other selected</item>
-    </string-array>
-    <array name="read_enable" />
-    <string-array name="read_disable">
-        <item>com.chaozh.iReaderFree</item>
     </string-array>
 </resources>
