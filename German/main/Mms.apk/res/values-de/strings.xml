@@ -451,8 +451,7 @@
   <string name="search_setting_description">Text in Ihren Nachrichten</string>
   <string name="search_show_more_results">Mehr anzeigen</string>
   <string name="secs">sek.</string>
-  <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"The sender isn't in your contacts.
- "&lt;/font&gt;</string>
+  <string name="security_alert_desc">The sender isn\'t in your contacts.</string>
   <string name="security_alert_desc_highlight">Report this number</string>
   <string name="security_alert_dialog_desc">Send this number (%s) and message to Xiaomi for review.</string>
   <string name="security_alert_dialog_title">Report</string>
