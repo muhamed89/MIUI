@@ -100,7 +100,7 @@
   <string name="miui_transfer_history_title">Bluetooth Übertragungen</string>
   <string name="miui_transfer_inbound_title">Eingehende</string>
   <string name="miui_transfer_outbound_title">Ausgehende</string>
-  <string name="no_transfers">Übertragungshistorie ist leer./string>
+  <string name="no_transfers">Übertragungshistorie ist leer.</string>
   <string name="not_exist_file">Keine Datei</string>
   <string name="not_exist_file_desc">"Die Datei existiert nicht."</string>
   <string name="noti_caption">%1$s erfolgreich, %2$s fehlgeschlagen.</string>
