@@ -17,7 +17,7 @@
   <string name="accessibility_repeats">Wiederholen</string>
   <string name="accessibility_sync_cal">Kalender synchronisieren</string>
   <string name="account_and_calendar">Konten</string>
-  <string name="account_and_calendar_to_display">Calendars in display</string>
+  <string name="account_and_calendar_to_display">Anzuzeigende Kalender</string>
   <string name="accounts">Konten &amp; synchronisieren</string>
   <string name="acct_not_synced">"Dieses Konto ist nicht synchronisiert, Ihr Kalender ist moglicherweise nicht auf dem neuesten Stand."</string>
   <string name="acessibility_cal_notification">Kalenderbenachrichtigung</string>
@@ -52,7 +52,7 @@
   <string name="birthday_notice_message">生日详情需要连接网络方可查看。您是否同意？</string>
   <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_three_days_later">3 Tage bis %3$s (%4$s)</string>
-  <string name="birthday_notification_text_today">"Vergessen Sie nicht Alles Gute zu wünschen."</string>
+  <string name="birthday_notification_text_today">"Vergessen Sie nicht, Alles Gute zu wünschen."</string>
   <string name="birthday_notification_title_three_days_later">"%1$s's %2$s steht vor der Tür."</string>
   <string name="birthday_notification_title_today">"%1$s's %3$s"</string>
   <string name="birthday_notification_type_term_lunar"/>
@@ -64,10 +64,10 @@
   <string name="calendar_network_error">Netzwerkfehler</string>
   <string name="calendar_refresh">Aktualisieren</string>
   <string name="calendar_server_error">Serverfehler</string>
-  <string name="can_not_create_long_event">Veranstalltungsinhalt zu lang.</string>
-  <string name="can_not_modify_allday_event">"Can't change all day event"</string>
-  <string name="can_not_modify_event">"Kann Ereignis nicht ändern"</string>
-  <string name="can_not_modify_repeating_acrossing_days_event">"Kann Ereignisse von mehrerern Tagen nicht ändern."</string>
+  <string name="can_not_create_long_event">Veranstaltungsinhalt zu lang.</string>
+  <string name="can_not_modify_allday_event">Ganztägiges Ereignis kann nicht verändert werden</string>
+  <string name="can_not_modify_event">"Ereignis kann nicht verändert werden"</string>
+  <string name="can_not_modify_repeating_acrossing_days_event">"Mehrtägiges, wiederkehrendes Ereignis kann nicht verändert werden."</string>
   <string name="change_response_title">Antwort ändern</string>
   <string name="chinese_leap">Schalttag</string>
   <string name="chongsha">冲煞</string>
@@ -81,7 +81,7 @@
   <string name="creating_event">Ereignis erstellt</string>
   <string name="creating_event_with_guest">Einladung wird gesendet</string>
   <string name="cta_notice_checkbox">Merke Vorlieben</string>
-  <string name="cta_notice_message">"Kalender muss ihrer Kontakte Info lesen dürfen um die Geburtstagserinnerungen zu erstellen."</string>
+  <string name="cta_notice_message">"Kalender muss Ihre Kontaktinformationen lesen dürfen, um die Geburtstagserinnerungen zu erstellen."</string>
   <string name="cta_notice_ok">Erlauben</string>
   <string name="cta_notice_title">Erlaubnisanfrage</string>
   <string name="cta_notify_settings">Frage mich erst</string>
@@ -117,8 +117,8 @@
   <string name="edit_event_show_all">Zeige alle</string>
   <string name="edit_event_to_label">An</string>
   <string name="edit_label">Bearbeite</string>
-  <string name="email_guests_label">Email guests</string>
-  <string name="email_picker_label">Email with</string>
+  <string name="email_guests_label">E-Mail an Gäste</string>
+  <string name="email_picker_label">E-Mail mit</string>
   <string name="email_subject_prefix">"Re: "</string>
   <string name="empty_event">Leeres Ereignis wurde nicht erstellt</string>
   <string name="enter_calendar">进入日历</string>
@@ -163,7 +163,7 @@
   <string name="jump_date_full">Wechseln zu Datum</string>
   <string name="label_recent_events">jüngste Ereignisse</string>
   <string name="loading">Nur einen Moment…</string>
-  <string name="local_calendar_display_name">Local calendar</string>
+  <string name="local_calendar_display_name">Lokaler Kalender</string>
   <string name="local_owner_account_name">Auf diesem Gerät gespeichert</string>
   <string name="lunar_date">Lunar date</string>
   <string name="menu_about_preferences">Über den Kalender</string>
@@ -173,7 +173,7 @@
   <string name="miui_chinese_week_range_double"/>
   <string name="miui_chinese_week_range_single"/>
   <string name="miui_menu_create_event">Neu</string>
-  <string name="modify_all">Ändere alle Veranstaltungen in dieser Reihe</string>
+  <string name="modify_all">Ändere alle Veranstaltungen in dieser Serie</string>
   <string name="modify_all_following">Ändere dieses und alle folgenden Ereignisse</string>
   <string name="modify_event">Ändere nur dieses Ereignis</string>
   <string name="month_medium_april">Apr</string>
@@ -196,7 +196,7 @@
   <string name="movable_list_header_label">简介</string>
   <string name="new_event_dialog_label">Neues Ereignis</string>
   <string name="new_event_dialog_option">Neues Ereignis</string>
-  <string name="no_calendars_found">Before you can add an event, you must add at least one Calendar account to your device and make a calendar visible. Touch Add Account to add an account (if you just added an account, wait for it to finish syncing and try again). Or touch Cancel and make sure at least one calendar is visible.</string>
+  <string name="no_calendars_found">Damit Sie einen Termin hinzufügen können, müssen Sie mindestens eine Konto hinzufügen und einen Kalender sichtbar machen. Tippen Sie zum Hinzufügen eines Kontos auf \"Konto hinzufügen\". Falls Sie gerade ein Konto hinzugefügt haben, warten Sie, bis die Synchronisierung abgeschlossen ist, und versuchen Sie es dann erneut. Sie können auch auf \"Abbrechen\" tippen und sich vergewissern, dass mindestens ein Kalender sichtbar ist.</string>
   <string name="no_local_calendar">没有订阅日历 :)</string>
   <string name="no_network">无网络，请联网再刷新一下试试 :)</string>
   <string name="no_syncable_calendars">Keine Kalender</string>
@@ -357,7 +357,7 @@
   <string name="travel_train_station">Bahnhof</string>
   <string name="view_all_matches">Zeige alle Übereinstimmungen</string>
   <string name="view_event_calendar_label">Kalender:</string>
-  <string name="view_event_organizer_label">Organizer:</string>
+  <string name="view_event_organizer_label">Organisator:</string>
   <string name="view_event_response_label">Teilnehmen?</string>
   <string name="week_view">Woche</string>
   <string name="week_view_today_toast">"Sie schauen sich gerade diese Woche an"</string>
