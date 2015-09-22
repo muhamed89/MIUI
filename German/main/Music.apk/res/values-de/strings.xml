@@ -159,7 +159,7 @@
   <string name="filter_by_duration_prefix">"Dateien Verbergen die kürzer sind als"</string>
   <string name="filter_by_duration_summary">Verberge kurze Audiodateien</string>
   <string name="filter_by_folder">Nach Ordner</string>
-  <string name="filter_by_folder_summary">Ordner zum Anzeigen wählen/string>
+  <string name="filter_by_folder_summary">Ordner zum Anzeigen wählen</string>
   <string name="filter_by_size">Nach Größe</string>
   <string name="filter_by_size_max">2MB</string>
   <string name="filter_by_size_min">0KB</string>
@@ -267,7 +267,7 @@
   <string name="my_account">Mi Konto</string>
   <string name="my_music_empty">Die Wiedergabeliste ist leer.</string>
   <string name="my_music_empty_goto_online">Keine Titel gefunden</string>
-  <string name="my_playlist">Meine Wiedergabeliste/string>
+  <string name="my_playlist">Meine Wiedergabeliste</string>
   <string name="name_online_personal_radio">Radio</string>
   <string name="nav_local_all">Alle</string>
   <string name="nav_local_artist">Favorisierte Interpreten</string>
@@ -309,7 +309,7 @@
   <string name="order_process_fail">"Konto konnte nicht autorisiert werden. Warte einige Minuten und versuche es erneut."</string>
   <string name="page_local_setting">Einstellungen</string>
   <string name="pay">Zahlung:</string>
-  <string name="pay_now">Jetzt zahlen/string>
+  <string name="pay_now">Jetzt zahlen</string>
   <string name="payment_fail">Zahlung fehlgeschlagen</string>
   <string name="payment_success">Zahlung erfolgreich</string>
   <string name="period_format">%1$s-%2$s</string>
@@ -412,7 +412,7 @@
   <string name="title_online_billboard">Charts</string>
   <string name="title_online_fm">Radio</string>
   <string name="title_online_recommend">Verbundene Wiedergabelisten</string>
-  <string name="title_online_release">Neu/string>
+  <string name="title_online_release">Neu</string>
   <string name="title_online_song">Beliebte Titel</string>
   <string name="title_online_suggest">Das könnte dir gefallen</string>
   <string name="title_search_history">Chronik durchsuchen</string>
@@ -438,7 +438,7 @@
   <string name="upgrade_force">"Wir stellen unseren derzeitigen Steamingdienst wegen Problemen mit dem Urheberrecht ein. Aktualisiere die App um Musik in höchster Qualität zu hören."</string>
   <string name="upgrade_immediate">Jetzt aktualisieren</string>
   <string name="upgrade_nobeta">"Wir stellen unseren derzeitigen Steamingdienst wegen Problemen mit dem Urheberrecht ein. Wir entschuldigen uns für die Umstände :("</string>
-  <string name="upgrade_remind">Aktualisierung verfügbar/string>
+  <string name="upgrade_remind">Aktualisierung verfügbar</string>
   <string name="upgrade_services">Dienst aktualisieren</string>
   <string name="upgrade_suggest">"Wir stellen unseren derzeitigen Steamingdienst wegen Problemen mit dem Urheberrecht ein. Aktualisiere die App um Musik in höchster Qualität zu hören."</string>
   <string name="upgrade_to">Aktualisiere auf</string>
