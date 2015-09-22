@@ -62,7 +62,7 @@
   <string name="bind_sns_description">Anmelden mit %s</string>
   <string name="bind_weibo_description">Füge freunde aus Sina Weibo hinzu</string>
   <string name="binded">Verbunden</string>
-  <string name="binded_description" Formatierung="falsch">%s hat sich mit dem Mi Konto verbunden. Dein Profil wurde mit den Informationen vom %s Konto abgeglichen.</string>
+  <string name="binded_description" formatted="false">%s hat sich mit dem Mi Konto verbunden. Dein Profil wurde mit den Informationen vom %s Konto abgeglichen.</string>
   <string name="btn_return">Zurück</string>
   <string name="button_cancel">Abbrechen</string>
   <string name="button_unbind">Verbindungsabbruch</string>
