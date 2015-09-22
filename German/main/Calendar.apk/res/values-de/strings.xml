@@ -125,7 +125,7 @@
   <string name="event_account">Konto</string>
   <string name="event_action_delete">Löschen</string>
   <string name="event_action_edit">Bearbeiten</string>
-  <string name="event_all_day_label">Den ganzen Tag/string>
+  <string name="event_all_day_label">Den ganzen Tag</string>
   <string name="event_create">Neues Ereignis</string>
   <string name="event_date_format">MM/dd</string>
   <string name="event_delete">Lösche Ereignis</string>
