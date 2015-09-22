@@ -216,7 +216,7 @@ Bitte überprüfen Sie Ihre Paketnummer."</string>
   <string name="login_ok">Anmelden</string>
   <string name="mark_number_custom_mark_deleted">Eingabe entfernt.</string>
   <string name="mark_number_dialog_maintitle">Unbekannte Nummer markieren und hochladen</string>
-  <string name="mark_number_dialog_subtitle">Etikettiert von den Leuten von %2 $d als %1 $s.</string>
+  <string name="mark_number_dialog_subtitle">Etikettiert von den Leuten von %2$d als %1$s.</string>
   <string name="mark_number_feedback">Bericht</string>
   <string name="mark_number_feedback_hint">Geben Sie Ihr Feedback</string>
   <string name="mark_number_feedback_invalid_hint">Geben Sie eine gültige Feedback</string>
