@@ -21,7 +21,7 @@
         <item>@string/my_phone_not_provider_bluetooth</item>
     </string-array>
     <string-array name="otherLabels">
-        <item>Organization</item>
-        <item>Note</item>
+        <item>Organisation</item>
+        <item>Notiz</item>
     </string-array>
 </resources>
