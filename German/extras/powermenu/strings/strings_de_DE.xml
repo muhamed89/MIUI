@@ -1,9 +1,9 @@
 <resources>
-    <string name="label_airplane_mode">Lietadlo</string>
-    <string name="label_silent_mode">Tichý režim</string>
-    <string name="label_reboot">Reštart</string>
-    <string name="label_shutdown">Vypnúť</string>
-    <string name="label_alert_reboot">Reštart</string>
-    <string name="label_alert_shutdown">Vypnúť</string>
-    <string name="label_blank">Späť</string>
+    <string name="label_airplane_mode">Flugmodus</string>
+    <string name="label_silent_mode">Ruhemodus</string>
+    <string name="label_reboot">Neustart</string>
+    <string name="label_shutdown">Ausschalten</string>
+    <string name="label_alert_reboot">Neustart</string>
+    <string name="label_alert_shutdown">Ausschalten</string>
+    <string name="label_blank">Schlafmodus</string>
 </resources>
