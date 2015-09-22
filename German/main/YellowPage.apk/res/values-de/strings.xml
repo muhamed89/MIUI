@@ -188,7 +188,7 @@ Bitte überprüfen Sie Ihre Paketnummer."</string>
   <string name="general_delete_recent_ok">Letzten gelöscht</string>
   <string name="general_favorite_ok">Favorit hinzugefügt</string>
   <string name="general_favorite_title">Favoriten</string>
-  <string name="general_follow_hint">Folgen Sie % 1 $ s auf relevante Updates zu erhalten</string>
+  <string name="general_follow_hint">Folgen Sie %1$s auf relevante Updates zu erhalten</string>
   <string name="general_follow_hint_title">Hinweis</string>
   <string name="general_menu_delete_recent">Letzten löschen</string>
   <string name="general_menu_unfavorite">Favorit entfernen</string>
