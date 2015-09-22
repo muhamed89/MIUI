@@ -4,6 +4,7 @@
         <item>In 1 minute</item>
         <item>In 5 minutes</item>
         <item>In 10 minutes</item>
+        <item>In 30 minutes</item>
         <item>Never</item>
     </string-array>
     <string-array name="preferred_app_entries">
