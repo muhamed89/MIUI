@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_id_not_login">Touch to sign in</string>
+  <string name="account_id_not_login">Zum Anmelden berühren</string>
   <string name="account_info">Mi-Konto</string>
-  <string name="account_name_not_login">Sign in</string>
+  <string name="account_name_not_login">Anmelden</string>
   <string name="account_unactivated">Konto nicht aktiviert</string>
   <string name="all_resources">Alle</string>
   <string name="all_ringtone_resource">Alle</string>
@@ -49,8 +49,8 @@
   <string name="gift_present">Give</string>
   <string name="gift_present_dlg_anonymous">Anonymous gift</string>
   <string name="gift_present_dlg_input_hint">Mi Account ID/Phone</string>
-  <string name="gift_present_dlg_no_fee">"You won't be charged by your carrier for sending gifts"</string>
-  <string name="gift_present_dlg_present_max_limit">"Theme can't be gifted more than %1$s times."</string>
+  <string name="gift_present_dlg_no_fee">Für das Versenden von Geschenken werden keine Gebühren von Ihrem Anbieter fällig</string>
+  <string name="gift_present_dlg_present_max_limit">Thema kann nicht mehr als %1$s Mal verschenkt werden.</string>
   <string name="gift_present_dlg_share">Create code and share gift</string>
   <string name="gift_present_fail_dlg_content">"Couldn't send this gift. "</string>
   <string name="gift_present_fail_dlg_title">"Couldn't send gift"</string>
