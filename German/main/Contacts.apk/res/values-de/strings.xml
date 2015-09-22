@@ -394,7 +394,7 @@ Grund: \"%s\""</string>
   <string name="exporting_vcard_finished_title">Export von %s abgeschlossen.</string>
   <string name="external_profile_title">Mein %1$s- MiProfil</string>
   <string name="fail_reason_could_not_initialize_exporter">Exportierer konnte nicht gestartet werden: \"%s\".</string>
-  <string name="fail_reason_could_not_open_file" formatted="false">\"%s\" konnte nicht geöffnet werden: %s.</string>
+  <string name="fail_reason_could_not_open_file" formatted="false">"\"%s\" konnte nicht geöffnet werden: %s."</string>
   <string name="fail_reason_error_occurred_during_export">Fehler beim Exportieren: \"%s\"</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">Meta-Informationen der vCard Datei(en) konnten nicht gelesen werden.</string>
   <string name="fail_reason_failed_to_read_files">Eine oder mehrere Dateien konnten nicht importiert werden (%s).</string>
