@@ -557,7 +557,6 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="carrier_enabled_summaryOff">APN Aus</string>
   <string name="carrier_enabled_summaryOn">APN An</string>
   <string name="cdma_security_settings_summary">Meinen Standort, Bildschirmsperre, SIM-Kartensperrung und Sperrung des Anmeldeinformationsspeichers festlegen</string>
-  <string name="cell_broadcast_settings">Cell broadcasts</string>
   <string name="cell_broadcast_settings">Rundmeldungen</string>
   <string name="change_password">Passwort ändern</string>
   <string name="change_security_lock">Andere Entsperrmethoden</string>
@@ -2080,7 +2079,7 @@ Diese Einstellung betrifft alle Nutzer auf diesem Telefon."</string>
   <string name="search_date_time">Datum / Uhrzeit</string>
   <string name="search_description">Sucheinstellungen</string>
   <string name="search_display">Bildschirm</string>
-  <string name="search_font">Schrift</string
+  <string name="search_font">Schrift</string>
   <string name="search_gps">GPS</string>
   <string name="search_handy_mode">handy mode</string>
   <string name="search_hint">Suche Einstellungen</string>
@@ -3046,7 +3045,6 @@ Das Einrichten des Telefons kann eine erhöhte Netzwerkaktivität erfordern."</s
   <string name="wifi_tether_stopping">HotSpot ausschalten…</string>
   <string name="wifi_type_approval" />
   <string name="wifi_type_approval_title">Genehmigungstyp</string>
-  <string name="wifi_type_approval_title">Type approval</string>
   <string name="wifi_unchanged">(nicht geändert)</string>
   <string name="wifi_unspecified">(keine Angabe)</string>
   <string name="wifi_update">Statistik aktualisieren</string>
