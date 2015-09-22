@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_to_recover">Nur einen Moment…</string>
-  <string name="app_name">Sichere App's</string>
+  <string name="app_name">Sichere Apps</string>
   <string name="back_up_task_in_process">Sichere…</string>
   <string name="back_up_task_unfinished">Sicherung noch nicht abgeschlossen</string>
   <string name="backing_up_to_micloud">Sichere…</string>
-  <string name="backup_fail">"Konnte App's auf dem Startbilschirm nicht sichern"</string>
+  <string name="backup_fail">"Konnte Apps auf dem Startbilschirm nicht sichern"</string>
   <string name="backup_size">Grösse: %s</string>
-  <string name="backup_success">Startbildschirm App's gesichert</string>
+  <string name="backup_success">Startbildschirm Apps gesichert</string>
   <string name="backup_to_cloud">App Sichern</string>
   <string name="button_cancel">Abbrechen</string>
   <string name="button_delete">Löschen</string>
@@ -18,13 +18,13 @@
   <string name="cloud_app_check_data">Verbinde mit Mi Cloud…</string>
   <string name="cloud_app_current_device">Aktuelles Gerät</string>
   <string name="cloud_app_dont_restore">Neues Gerät einrichten</string>
-  <string name="cloud_app_no_data">Keine vorherigen installierten App's gefunden</string>
+  <string name="cloud_app_no_data">Keine vorherigen installierten Apps gefunden</string>
   <string name="cloud_app_no_network">"Kann mich nicht mit dem Netzwerk verbinden"</string>
   <string name="cloud_app_other_devices">Andere Geräte</string>
   <string name="cloud_app_restore_app_and_data">Gerät einrichten</string>
-  <string name="cloud_app_restore_data">Persönliche Daten und vorher installierte App's werden auf deinem Gerät automatisch erscheinen</string>
+  <string name="cloud_app_restore_data">Persönliche Daten und vorher installierte Apps werden auf deinem Gerät automatisch erscheinen</string>
   <string name="cloud_app_restore_error">"Wiederherstellung fehlgeschlagen"</string>
-  <string name="cloud_app_restore_success">App's wiederhergestellt</string>
+  <string name="cloud_app_restore_success">Apps wiederhergestellt</string>
   <string name="cloud_app_restore_wifi_prompt">Um deine Sicherung von einer Mi-Cloud wiederherzustellen, solltest du dich mit einem WLAN Netzwerk verbinden.</string>
   <string name="cloud_back_up_task">Sichere…</string>
   <string name="cloud_restore_from_other_device">"Stoppe Wiederherstellung von %s und lösche diese Sicherung? Sie können diese Aktion nicht rückgängig machen."</string>
@@ -69,7 +69,7 @@
   <string name="retry">Nochmal</string>
   <string name="self_phone">Dieses Telefon</string>
   <string name="settings_backup">Einstellungen</string>
-  <string name="start_backup_to_micloud">Sichere App's in Mi Cloud</string>
+  <string name="start_backup_to_micloud">Sichere Apps in Mi Cloud</string>
   <string name="start_recover">Stelle wieder her %s</string>
   <string name="wait_icon_download">App Icons herunterladen</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
