@@ -342,11 +342,6 @@
   <string name="exportAllcontatsSuccess">Alle Kontakte erfolgreich auf die SIM-Karte exportiert</string>
   <string name="exportContactScreen">Telefon Kontakte auf die SIM-Karte exportieren</string>
   <string name="exportContacts">Exportiere Kontakte auf die SIM-Karte…</string>
-  <string name="exportAllcontatsFailed">Export aller Kontakte auf die SIM-Karte fehlgeschlagen !!!</string>
-  <string name="exportAllcontatsNoContacts">Keine Kontakte zum exportieren auf die SIM-Karte gefunden !!!</string>
-  <string name="exportAllcontatsSuccess">Alle Kontakte erfolgreich auf die SIM-Karte exportiert</string>
-  <string name="exportContactScreen">Telefon Kontakte auf die SIM-Karte exportieren</string>
-  <string name="exportContacts">Exportiere Kontakte auf die SIM-Karte…</string>
   <string name="fdnListLabel">FDN Liste</string>
   <string name="fdn_activation">Feste Rufnummern einschalten</string>
   <string name="fdn_check_failure">Feste Nummern ist eingeschaltet. Als Ergebnis werden einige Anrufbezogene Funktionen nicht funktioniert.</string>
