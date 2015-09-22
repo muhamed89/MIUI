@@ -1,22 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Search</string>
+  <string name="app_name">Suche</string>
   <string name="apps_search_activity"/>
   <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
-  <string name="clear_shortcuts">Clear shortcuts</string>
-  <string name="clear_shortcuts_agree">Clear shortcuts</string>
-  <string name="clear_shortcuts_disagree">"Don't clear shortcuts"</string>
-  <string name="clear_shortcuts_prompt">"Do you want to clear all shortcuts to recently chosen search suggestions?
-
-To clear your Browser history, use the Browser's settings."</string>
-  <string name="clear_shortcuts_summary">Clear shortcuts to recently chosen search suggestions</string>
-  <string name="corpus_description_apps">Installed applications</string>
-  <string name="corpus_description_web">Bookmarks</string>
-  <string name="corpus_hint_apps">Search apps</string>
+  <string name="clear_shortcuts">Lösche Verlauf</string>
+  <string name="clear_shortcuts_agree">Verlauf löschen</string>
+  <string name="clear_shortcuts_disagree">Verlauf nicht löschen</string>
+  <string name="clear_shortcuts_prompt">"Der ganze Verlauf kürzlich gewählter Suchvorschläge wird gelöscht.
+Um den Browserverlauf zu löschen, verwenden Sie die Browsereinstellungen."</string>
+  <string name="clear_shortcuts_summary">Verlauf zu kürzlich gewählten Suchvorschlägen löschen</string>
+  <string name="corpus_description_apps">Namen der installierten Anwendungen</string>
+  <string name="corpus_description_web">Lesezeichen</string>
+  <string name="corpus_hint_apps">Apps suchen</string>
   <string name="corpus_label_apps">Apps</string>
-  <string name="corpus_label_global">All</string>
+  <string name="corpus_label_global">Alle</string>
   <string name="corpus_label_web">Web</string>
-  <string name="corpus_selection_heading">Search</string>
+  <string name="corpus_selection_heading">Suche</string>
   <string name="cta_declaration">"This feature needs to connect to the internet, access your device's location, and view your call history and contacts to work normally."</string>
   <string name="cta_declaration_ignore">"Don't show again"</string>
   <string name="cta_declaration_negative_text">Exit</string>
@@ -29,23 +28,23 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="google_app_label">Google Search</string>
   <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
   <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
-  <string name="google_search_description">Google Search suggestions</string>
-  <string name="google_search_hint">Google Search</string>
+  <string name="google_search_description">Google Suchvorschläge</string>
+  <string name="google_search_hint">Google-Suche</string>
   <string name="google_search_label">Google</string>
-  <string name="google_settings_category_title">Google Search</string>
+  <string name="google_settings_category_title">Google-Suche</string>
   <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
   <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
-  <string name="menu_help">Help</string>
-  <string name="menu_settings">Search settings</string>
+  <string name="menu_help">Hilfe</string>
+  <string name="menu_settings">Such-Einstellungen</string>
   <string name="recently_shortcut_label">Recent shortcuts</string>
-  <string name="remove_from_history">Do you want to remove this item from the search history?</string>
-  <string name="remove_from_history_failed">"Couldn't remove item from history."</string>
-  <string name="search_in_app_store">Search app market</string>
-  <string name="search_in_web">Search online</string>
-  <string name="search_settings">Search settings</string>
-  <string name="search_sources">Searchable items</string>
-  <string name="search_sources_summary">Choose what to search on the phone</string>
-  <string name="search_widget">Search</string>
+  <string name="remove_from_history">Diesen Eintrag wirklich aus dem Verlauf löschen?</string>
+  <string name="remove_from_history_failed">Eintrag kann nicht aus dem Verlauf gelöscht werden.</string>
+  <string name="search_in_app_store">Suche im Market</string>
+  <string name="search_in_web">Suche im Web</string>
+  <string name="search_settings">Einstellungen</string>
+  <string name="search_sources">Durchsuchbare Elemente</string>
+  <string name="search_sources_summary">Auswählen, was auf dem Telefon durchsucht werden soll</string>
+  <string name="search_widget">Suche</string>
   <string name="searchable_lable_app">app</string>
   <string name="searchable_lable_browser">browser</string>
   <string name="searchable_lable_duokan">duokan</string>
@@ -53,11 +52,11 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="searchable_lable_o2o">o2o</string>
   <string name="searchable_lable_video">video</string>
   <string name="searchable_sources">Online</string>
-  <string name="send_secret_code">Send code</string>
-  <string name="system_search_category_title">Phone</string>
+  <string name="send_secret_code">Geheimen Code senden</string>
+  <string name="system_search_category_title">Telefon</string>
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
-  <string name="voice_search_hint_title">Try saying:</string>
-  <string name="xiaomi_search_label">Results</string>
+  <string name="voice_search_hint_title">Sprechen:</string>
+  <string name="xiaomi_search_label">Ergebnisse</string>
   <string name="xiaomi_suggest_base">http://global.search.xiaomi.net/global/v2/sug</string>
 </resources>
