@@ -53,7 +53,7 @@
   <string name="alert_title_remove_account">Konto löschen?</string>
   <string name="app_name">Mi Konto</string>
   <string name="authorize_title">Autorisieren</string>
-  <string name="bad_authentication">Ungültiger Nutzername oder Passwort/string>
+  <string name="bad_authentication">Ungültiger Nutzername oder Passwort</string>
   <string name="barcode_add_account_prompt">Scanne den QR-Code nach der Anmeldung erneut, um dich mit deinem Konto zu verbinden.</string>
   <string name="bind_facebook">Mit Facebook Konto verbinden</string>
   <string name="bind_qq">QQ</string>
