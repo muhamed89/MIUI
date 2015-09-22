@@ -389,7 +389,6 @@ Kontaktkarten sind ausgeschaltet"</string>
 Grund: \"%s\""</string>
   <string name="exporting_contact_failed_title">Export nicht möglich</string>
   <string name="exporting_contact_list_message">Ihre Kontaktdaten werden nach \"%s\" exportiert.</string>
-  <string name="exporting_contact_list_progress" formatted="false">%s von %s Kontakten</string>
   <string name="exporting_contact_list_title">Kontaktdaten werden exportiert</string>
   <string name="exporting_vcard_canceled_title">Export von %s abgebrochen.</string>
   <string name="exporting_vcard_finished_title">Export von %s abgeschlossen.</string>
