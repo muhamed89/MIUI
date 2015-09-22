@@ -668,7 +668,7 @@ Will use preferred network instead."</string>
   <string name="ota_activate">Aktivieren</string>
   <string name="ota_call_end">Zurück</string>
   <string name="ota_failure">Programmierung fehlgeschlagen</string>
-  <string name="ota_hfa_activation_dialog_message">"Der mobile Datendienst wird jetzt auf Ihrem Telefon aktiviert.
+  <string name="ota_hfa_activation_dialog_message">"Der mobile Datendienst wird jetzt auf Ihrem Telefon aktiviert.</string>
   <string name="ota_hfa_activation_title">Activating…</string>
   <string name="ota_listen">Follow the spoken instructions.</string>
   <string name="ota_next">Next</string>
