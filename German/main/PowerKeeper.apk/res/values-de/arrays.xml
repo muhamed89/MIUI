@@ -31,7 +31,7 @@
     </string-array>
     <string-array name="action_param_translate">
         <item>Nichts</item>
-        <item>Standard<item>
+        <item>Standard</item>
         <item>Bild</item>
         <item>Film</item>
         <item>Batterie Saver</item>
