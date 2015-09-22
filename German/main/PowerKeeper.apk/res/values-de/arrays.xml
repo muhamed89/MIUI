@@ -10,10 +10,10 @@
         <item>media</item>
     </string-array>
     <string-array name="group_name_translate">
-        <item>Default</item>
-        <item>Hide mode</item>
-        <item>Reader mode</item>
-        <item>Media mode</item>
+        <item>Standard</item>
+        <item>Ausgeblendeter Modus</item>
+        <item>Leser Modus</item>
+        <item>Media Modus</item>
     </string-array>
     <string-array name="event_name">
         <item>foreground_change</item>
@@ -28,16 +28,16 @@
         <item>idle_enter</item>
     </string-array>
     <string-array name="event_name_translate">
-        <item>App running in foreground</item>
-        <item>Display on</item>
-        <item>Display off</item>
-        <item>Display off over 10 minutes</item>
-        <item>Full screen</item>
-        <item>Exit full screen</item>
-        <item>App running in background</item>
-        <item>Phone is charging</item>
-        <item>"Phone isn't charging"</item>
-        <item>Phone is idle</item>
+        <item>App läuft im Vordergrund</item>
+        <item>Bildschirm an</item>
+        <item>Bildschirm aus</item>
+        <item>Bildschirm über 10 Minuten aus</item>
+        <item>Vollbild</item>
+        <item>Vollbild beenden</item>
+        <item>App läuft im Hintergrund</item>
+        <item>Handy lädt</item>
+        <item>"Handy lädt nicht"</item>
+        <item>Handy im Ruhezustand</item>
     </string-array>
     <string-array name="action_name">
         <item>set_brightness</item>
@@ -51,15 +51,15 @@
         <item>set_bg_data_delay_time</item>
     </string-array>
     <string-array name="action_name_translate">
-        <item>Max display brightness</item>
-        <item>Max CPU frequency</item>
-        <item>Display mode</item>
-        <item>CPU usage</item>
-        <item>Data connection</item>
-        <item>Location</item>
-        <item>First notification</item>
-        <item>Lock screen notifications</item>
-        <item>Restrict background data connections</item>
+        <item>Max Bildschirmhelligkeit</item>
+        <item>Max CPU Frequenz</item>
+        <item>Bildschirm Modus</item>
+        <item>CPU Nutzung</item>
+        <item>Datenverbindung</item>
+        <item>Standort</item>
+        <item>Erste Benachrichtigung</item>
+        <item>Bildschirmsperrenbenachrichtigung</item>
+        <item>Beschränken Sie Hintergrund-Datenverbindungen</item>
     </string-array>
     <string-array name="action_param">
         <item>none</item>
@@ -77,19 +77,19 @@
         <item>bg_delay_screen_off</item>
     </string-array>
     <string-array name="action_param_translate">
-        <item>None</item>
-        <item>Default</item>
-        <item>Picture</item>
-        <item>Movie</item>
-        <item>Battery saver</item>
+        <item>Nichts</item>
+        <item>Standard<item>
+        <item>Bild</item>
+        <item>Film</item>
+        <item>Batterie Saver</item>
         <item>Balance</item>
-        <item>Performance</item>
-        <item>On</item>
-        <item>Off</item>
-        <item>Immediately</item>
-        <item>After 10 min</item>
-        <item>After 30 min</item>
-        <item>When display is off</item>
+        <item>Leistung</item>
+        <item>An</item>
+        <item>Aus</item>
+        <item>Sofort</item>
+        <item>Nach 10 Min</item>
+        <item>Nach 30 Min</item>
+        <item>Wenn der Bildschirm aus ist</item>
     </string-array>
     <string-array name="shown_mandatory_event_name">
         <item>foreground_change</item>
