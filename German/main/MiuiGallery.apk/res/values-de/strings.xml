@@ -124,7 +124,7 @@
   <string name="camera_setas_wallpaper">Hintergrund</string>
   <string name="camera_view_none_message">Hier werden Bilder und Videos angezeigt, die Sie mit der Kamera aufgenommen haben.</string>
   <string name="cancel">Abbrechen</string>
-  <string name="cancel_hint">Vorgang abgebrochen</string
+  <string name="cancel_hint">Vorgang abgebrochen</string>
   <string name="cannot_delete_sharer_photo">"Can't delete %s items added by other members."</string>
   <string name="cannot_remove_creator">"Can't remove creator"</string>
   <string name="cannot_send_message">"Can't send message"</string>
