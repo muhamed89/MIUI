@@ -46,7 +46,7 @@
   <string name="account_user_using_facebook_avatar">Facebook Profilbild verwenden</string>
   <string name="account_user_using_qq_avatar">QQ Profilbild verwenden</string>
   <string name="account_user_using_weibo_avatar">Sina Weibo Profilbild verwenden</string>
-  <string name="account_vip_level">Konto/string>
+  <string name="account_vip_level">Konto</string>
   <string name="account_vip_task">Fortschritt</string>
   <string name="account_xiaomi_service">Dienste</string>
   <string name="add_account">Konto verbinden</string>
@@ -274,7 +274,7 @@
   <string name="passport_resend_active_email">E-Mail zur Aktivierung erneut senden.</string>
   <string name="passport_reset_fail_title">"Konnte nicht zurückgesetzt werden"</string>
   <string name="passport_reset_password_prompt">Das Passwort ist falsch</string>
-  <string name="passport_reset_password_title"Passwort zurücksetzen</string>
+  <string name="passport_reset_password_title">Passwort zurücksetzen</string>
   <string name="passport_restart">Erneut beginnen</string>
   <string name="passport_restart_register_prompt">Eine andere Bestätigungsnachricht wird für dein Konto benötigt.</string>
   <string name="passport_restart_register_title">Erstelle ein Mi Konto</string>
@@ -315,7 +315,7 @@
   <string name="prev">Zurück</string>
   <string name="privacy_policy">Datenschutzerklärung</string>
   <string name="qq">QQ</string>
-  <string name="quick_login_dialog_step2_title">2-Schritte Verifizierung/string>
+  <string name="quick_login_dialog_step2_title">2-Schritte Verifizierung</string>
   <string name="quick_login_dialog_title">Passwort verifizieren</string>
   <string name="quick_login_step2_title">2-Schritte Verifizierung</string>
   <string name="quick_login_title">Passwort einfügen</string>
