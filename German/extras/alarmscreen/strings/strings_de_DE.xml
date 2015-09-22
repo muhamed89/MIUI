@@ -1,4 +1,4 @@
 <strings>
-    <string name="slider_text" value="Pull up" />
-    <string name="snooze_message" value="Snooze for %d min." />
+    <string name="slider_text" value="Hochziehen" />
+    <string name="snooze_message" value="Weitere %d Minuten schlummern" />
 </strings>
