@@ -1,10 +1,10 @@
 <strings>
-    <string name="MON" value="PON"/>
-    <string name="TUE" value="UTO"/>
-    <string name="WED" value="STR"/>
-    <string name="THU" value="ŠTV"/>
-    <string name="FRI" value="PIA"/>
-    <string name="SAT" value="SOB"/>
-    <string name="SUN" value="NED"/>
-    <string name="language" value="sk_SK"/>
+    <string name="MON" value="MO"/>
+    <string name="TUE" value="DI"/>
+    <string name="WED" value="MI"/>
+    <string name="THU" value="DO"/>
+    <string name="FRI" value="FR"/>
+    <string name="SAT" value="SA"/>
+    <string name="SUN" value="SO"/>
+    <string name="language" value="de_DE"/>
 </strings>
