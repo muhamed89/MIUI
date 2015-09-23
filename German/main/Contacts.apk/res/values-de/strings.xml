@@ -483,7 +483,6 @@ Grund: \"%s\""</string>
   <string name="importing_sim_contacts_miui_prepare">Preparing contacts…</string>
   <string name="importing_vcard_canceled_title">Import von %s abgebrochen</string>
   <string name="importing_vcard_description">Importiere %s</string>
-  <string name="importing_vcard_finished_title" formatted="false">Import der vCard %s abgeschlossen %s</string>
   <string name="in_call_show">Video</string>
   <string name="in_call_show_camera_open_error">Fehler bei dem Öffnen der Kamera. Versuchen Sie es erneut</string>
   <string name="in_call_show_delete_message">Dieses Video löschen?</string>
