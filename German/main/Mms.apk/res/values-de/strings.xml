@@ -279,10 +279,11 @@
   <string name="mx_and_voip_enable">Mi Message &amp; Voice</string>
   <string name="mx_and_voip_enable_popup_msg">"Send messages and make calls to other MIUI users without incurring charges from your carrier. VoIP is supported by Weihui. View weihui's Privacy Policy."</string>
   <string name="mx_and_voip_enable_popup_msg2">Privacy Policy</string>
-<string name="mx_auto_resend_mms">Als MMS senden</string>
+  <string name="mx_auto_resend_mms">Als MMS senden</string>
   <string name="mx_auto_resend_mms_summary">Als MMS senden wenn WLAN nicht verfügbar ist. (Providerabhängige Gebühr).</string>
   <string name="mx_auto_resend_sms">Als SMS senden</string>
   <string name="mx_auto_resend_sms_summary">Als SMS senden wenn WLAN nicht verfügbar ist. (Providerabhängige Gebühr).</string>
+  <string name="mx_b2c_message_desc">Netzwerk-Benachrichtigungen</string>
   <string name="mx_btn_enable">Einschalten</string>
   <string name="mx_btn_enable_now">Einschalten</string>
   <string name="mx_count_dspt">Sie haben %1$d SMS und %2$s MMS gesendet.</string>
