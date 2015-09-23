@@ -288,18 +288,4 @@
         <item>9</item>
         <item>.</item>
     </string-array>
-    <array name="freq_entryValues">
-        <item>@drawable/fm_number_empty</item>
-        <item>@drawable/fm_number_0</item>
-        <item>@drawable/fm_number_1</item>
-        <item>@drawable/fm_number_2</item>
-        <item>@drawable/fm_number_3</item>
-        <item>@drawable/fm_number_4</item>
-        <item>@drawable/fm_number_5</item>
-        <item>@drawable/fm_number_6</item>
-        <item>@drawable/fm_number_7</item>
-        <item>@drawable/fm_number_8</item>
-        <item>@drawable/fm_number_9</item>
-        <item>@drawable/fm_number_point</item>
-    </array>
 </resources>
