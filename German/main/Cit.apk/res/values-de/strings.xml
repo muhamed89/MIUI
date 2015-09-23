@@ -108,11 +108,11 @@ Telefon, wie bei einem Anruf halten, ins Mikrofon sprechen. Die Stimme sollte mi
   <string name="cit_fm_start_service">Aktiviere Radio</string>
   <string name="cit_front_camera_check_summary">"Testverlauf:
 
-1. Auf den Kamera-Button drücken, um Systemkamera zu öffnen
+1. Auf den Kamera-Button drücken, um Systemkamera zu öffnen.
 
-2. Auf Kamera drücken
+2. Auf Kamera drücken.
 
-3. Auf den OK-Button drücken, das System speichert das Bild automatisch
+3. Auf den OK-Button drücken, das System speichert das Bild automatisch.
 
 4. Vorschau anschauen. Wenn Sie zufrieden sind, können Sie die Vorschau löschen."</string>
   <string name="cit_front_camera_check_title">Frontkamera (Frontkamera) testen</string>
@@ -164,21 +164,21 @@ Aktiviere GPS über die Schnellauswahl"</string>
   <string name="cit_lcdlight_brightness_min">Min</string>
   <string name="cit_leds_check_summary">Test überprüft Helligkeit, POWER- und Blitz-LEDs.</string>
   <string name="cit_leds_check_title">LED testen</string>
-  <string name="cit_light_sensor_check_summary">Folgende Lichtsensorwerte wurden gefunden</string>
+  <string name="cit_light_sensor_check_summary">Folgende Lichtsensorwerte wurden gefunden:</string>
   <string name="cit_light_sensor_check_title">Lichtsensor testen</string>
   <string name="cit_magnetic_sensor_check_summary">Unten sind die derzeitigen Magnometer-Werte in X, Y, Z-Achsenform</string>
   <string name="cit_magnetic_sensor_check_title">Magnometer testen</string>
   <string name="cit_main_camera_check_summary">"Test-Checkliste:
 
-1. Kamera-Button drücken, um die Kamera zu öffnen
+1. Kamera-Button drücken, um die Kamera zu öffnen.
  
-2. Sicherstellen, dass der Blitz aktiviert ist
+2. Sicherstellen, dass der Blitz aktiviert ist.
  
-3. Auf Bilderliste drücken
+3. Auf Bilderliste drücken.
  
-4. OK-Button drücken, dies speichert das Bild automatisch
+4. OK-Button drücken, dies speichert das Bild automatisch.
  
-5. Überprüfen, ob das Bild korrekt angezeigt wird und löschen es"</string>
+5. Überprüfe, ob das Bild korrekt angezeigt wird und löschen es."</string>
   <string name="cit_main_camera_check_title">Kamera (Hauptkamera) testen</string>
   <string name="cit_name">Hardware-Erkennung</string>
   <string name="cit_not_available">"Nutzerversion unterstütz diesen Test nicht, nur Werkstest verfügbar"</string>
@@ -216,7 +216,7 @@ Datei hinzufügen und Test erneut starten."</string>
   <string name="cit_sd_plugout_check_title">SD-Karte (Entfernung)</string>
   <string name="cit_sd_unmount">SD-Karte aushängen</string>
   <string name="cit_sd_unmount_sucess">SD-Karte erfolgreich ausgehängt</string>
-  <string name="cit_sim_check_summary">Test überprüft den Status der SIM-Karte</string>
+  <string name="cit_sim_check_summary">Überprüfen Sie, ob die Infos und der Status der SIM Karte korrekt dargestellt werden.</string>
   <string name="cit_sim_check_title">SIM-Karte testen</string>
   <string name="cit_sim_error_unknown">Unbekannter SIM-Fehler</string>
   <string name="cit_sim_network_operator">Netzbetreiber:</string>
@@ -277,9 +277,9 @@ Datei hinzufügen und Test erneut starten."</string>
   <string name="cit_tool_wifi_rx_ap">Rx: AP</string>
   <string name="cit_tool_wifi_rx_ap_name">MT</string>
   <string name="cit_tool_wifi_rx_chan">Rx: Channel</string>
-  <string name="cit_tool_wifi_rx_count_error">Ausgabewert ist keine Ziffer</string>
+  <string name="cit_tool_wifi_rx_count_error">Ausgabewert ist keine Ziffer.</string>
   <string name="cit_tool_wifi_rx_dut_ip">192.168.1.12</string>
-  <string name="cit_tool_wifi_rx_error">Ein Fehler ist aufgetreten</string>
+  <string name="cit_tool_wifi_rx_error">Ein Fehler ist aufgetreten.</string>
   <string name="cit_tool_wifi_rx_exit">Rx:exit</string>
   <string name="cit_tool_wifi_rx_run">Start</string>
   <string name="cit_tool_wifi_rx_stop">Stopp</string>
@@ -312,13 +312,13 @@ Datei hinzufügen und Test erneut starten."</string>
   <string name="cit_usb_OTG_out">USB-OTG-Gerät nicht verbunden</string>
   <string name="cit_usb_charger_in">USB-Ladegerät verbunden</string>
   <string name="cit_usb_charger_out">USB-Ladegerät nicht verbunden</string>
-  <string name="cit_version_check_summary">Folgende Hard- und Softwareversionen wurden gefunden.</string>
+  <string name="cit_version_check_summary">Folgende Hard- und Softwareversionen wurden gefunden. Stellen Sie sicher, dass die Infos in grüner Farbe korrekt sind.</string>
   <string name="cit_version_check_title">Teste Version</string>
   <string name="cit_vga_camera_capture">Foto aufnehmen</string>
   <string name="cit_vga_camera_capture_fail">Aufnahme fehlgeschlagen</string>
   <string name="cit_vga_camera_delete">Foto löschen</string>
   <string name="cit_vga_camera_deleted">Foto wurde gelöscht</string>
-  <string name="cit_vibrator_check_summary">Dieser Test überprüft die Vibration (lang / kurz)</string>
+  <string name="cit_vibrator_check_summary">Dieser Test überprüft die Vibration (lang / kurz).</string>
   <string name="cit_vibrator_check_title">Vibration testen</string>
   <string name="cit_vibrator_don_don_chat">Don-Don-Chat</string>
   <string name="cit_vibrator_haptic">Haptisches-Feedback</string>
