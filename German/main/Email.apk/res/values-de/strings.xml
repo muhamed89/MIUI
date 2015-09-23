@@ -9,7 +9,6 @@
   <string name="abc_searchview_description_search">Suche</string>
   <string name="abc_searchview_description_submit">Übermittle Anfrage</string>
   <string name="abc_searchview_description_voice">Sprachsuche</string>
-  <string name="account_cache_provider">Account Cache Provider</string>
   <string name="account_duplicate_dlg_message_fmt">"Sie verwenden diesen Benutzernamen bereits für dieses Konto \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Doppeltes Konto</string>
   <string name="account_manager_type_exchange">com.android.exchange</string>
@@ -267,7 +266,6 @@
   <string name="contextmenu_send_mail">Sende E-Mail</string>
   <string name="contextmenu_sharelink">Link teilen</string>
   <string name="contextmenu_sms_dot">SMS…</string>
-  <string name="conversation_content_provider">Conversation Content Provider</string>
   <string name="conversation_folder_moved">Verschiebe nach %1$s</string>
   <string name="conversation_item_mark_read">gelesen</string>
   <string name="conversation_item_mark_unread">ungelesen</string>
@@ -331,7 +329,6 @@
   <string name="elided_padding_token"> </string>
   <string name="email_feedback_uri"/>
   <string name="email_package_name">com.android.email</string>
-  <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
   <string name="empty_account_tip">"Konto konnte nicht gefunden werden"</string>
   <string name="empty_email_tip">"Kann leere Nachricht nicht senden"</string>
   <string name="empty_spam">Spam leeren</string>
@@ -395,7 +392,6 @@
   <string name="forward_attribution_no_headers">---------- Weitergeleitete Nachricht ----------</string>
   <string name="forward_download_failed_ticker">"Eine oder mehrere Anlagen konnten nicht weitergeleitet werden."</string>
   <string name="forward_download_failed_title">Anlagen nicht weitergeleitet</string>
-  <string name="forward_subject_label">Fwd:</string>
   <string name="from_heading">"Von: "</string>
   <string name="general_preference_confirm_delete_label">Vor dem Löschen bestätigen</string>
   <string name="general_preference_confirm_send_label">Vor dem Senden bestätigen</string>
@@ -413,7 +409,6 @@
   <string name="gmail_web_login_go">OK</string>
   <string name="gmail_web_login_required_message">Bei Gmail anmelden</string>
   <string name="header_category_account">Konten</string>
-  <string name="header_category_general">@string/header_label_general_preferences</string>
   <string name="header_category_other">Rückmeldung</string>
   <string name="header_label_general_preferences">Allgemein</string>
   <string name="help_and_info">Hilfe</string>
@@ -434,7 +429,6 @@
   <string name="invalid_recipient_title">Empfänger Fehler</string>
   <string name="kilobytes">%s KB</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
-  <string name="load_attachment">@string/load_more</string>
   <string name="load_from_remote">Suche nach Postfach auf dem Server</string>
   <string name="load_more">laden Sie mehr</string>
   <string name="loading_conversation">Lade…</string>
@@ -459,14 +453,6 @@
   <string name="mailbox_name_display_starred">Markierte</string>
   <string name="mailbox_name_display_trash">Müll</string>
   <string name="mailbox_name_display_unread">Ungelesen</string>
-  <string name="mailbox_name_server_all_unread">Ungelesen</string>
-  <string name="mailbox_name_server_drafts">Entwürfe</string>
-  <string name="mailbox_name_server_inbox">Posteingang</string>
-  <string name="mailbox_name_server_junk">Müll</string>
-  <string name="mailbox_name_server_outbox">Postausgang</string>
-  <string name="mailbox_name_server_sent">Gesendet</string>
-  <string name="mailbox_name_server_starred">Markiert</string>
-  <string name="mailbox_name_server_trash">Müll</string>
   <string name="mailbox_settings_activity_title">Synchronisierungseinstellungen</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Synchronisierungseinstellungen (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Synchronisiere E-Mails von</string>
@@ -641,7 +627,6 @@
   <string name="policy_screen_timeout">Erlaubnis, während Geräteleerlauf, den Bildschirm zu sperren</string>
   <string name="policy_text_truncation">Beschränke E-Mail Textgröße</string>
   <string name="pop3_name">POP3</string>
-  <string name="prefDefault_autoAdvance">aufzeigen</string>
   <string name="preference_eas_tips">Tippe Aktivieren um den E-Mail Server einzurichten.</string>
   <string name="preference_imap_tips"/>
   <string name="preference_pop_tips">In POP3, werden Anhänge automatisch mit der E-Mail heruntergeladen. Das kann Ihre mobile Datennutzung erhöhen.</string>
@@ -698,8 +683,6 @@
   <string name="quote_divider_qq_en">------------------ Original ------------------</string>
   <string name="quote_divider_qq_zh">------------------ Originalnachricht ------------------</string>
   <string name="quoted_text">Fügen Sie Textzitat ein</string>
-  <string name="quoted_text_background_color_string">@android:color/white</string>
-  <string name="quoted_text_font_color_string">@color/gray_text_color</string>
   <string name="quoted_text_label">Zitiere</string>
   <string name="re_download_message_button">Tippen Sie um nochmals zu downloaden</string>
   <string name="re_download_message_info">"E-Mail konnte nicht heruntergeladen werden"</string>
@@ -721,12 +704,7 @@
   <string name="reply">Antworten</string>
   <string name="reply_all">Allen Antworten</string>
   <string name="reply_attribution" formatted="false">Am %s, %s schrieb:</string>
-  <string name="reply_subject_label">Re:</string>
   <string name="report_phishing">Phishing melden</string>
-  <string name="report_rendering_improvement">Sieht gut aus</string>
-  <string name="report_rendering_improvement_desc">Diese Nachricht sieht gut aus.</string>
-  <string name="report_rendering_problem">Sieht schlecht aus</string>
-  <string name="report_rendering_problem_desc">Diese Nachricht sieht schlecht aus.</string>
   <string name="report_spam">Spam melden</string>
   <string name="request_entity_large">Die Datei ist zu groß</string>
   <string name="respond_inline">Reagieren entsprechend</string>
@@ -852,11 +830,9 @@
   <string name="wait_for_manual_sync_body">"Dieses Konto ist nicht für die automatische Synchronisierung festlegen.
 Tippen Sie "&lt;b&gt;Jetzt synchronisieren&lt;/b&gt; um E-Mails einmal zu synchronisieren, oder &lt;b&gt;Ändere Synchronisationseinstellungen&lt;/b&gt; zum Einrichten dieses Konto, um E-Mails automatisch zu synchronisieren.</string>
   <string name="wait_for_sync_title">Warten auf Synchronisierung</string>
-  <string name="wait_help_context">Warte</string>
   <string name="widget_all_mail">Alle E-Mails</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">sonstige</string>
-  <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
   <string name="wrong_password">Das eingegebene Passwort ist falsch</string>
   <string name="yes">Ja</string>
   <string name="you_are_in_mobile_network">Protokoll senden über mobile Datenverbindung? Wenn Sie über die Datengrenze Ihres Planes gehen, könnte Ihr Anbieter zusätzliche Gebühren verlangen.</string>
