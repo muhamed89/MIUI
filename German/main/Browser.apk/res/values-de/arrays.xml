@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="menu_theme_setting">
-        <item>White</item>
-        <item>Yellow</item>
-        <item>Grey</item>
-        <item>Brown</item>
-        <item>Green</item>
-        <item>Blue</item>
+        <item>Weiß</item>
+        <item>Gelb</item>
+        <item>Grau</item>
+        <item>Braun</item>
+        <item>Grün</item>
+        <item>Blau</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Default start page</item>
-        <item>Custom</item>
+        <item>Standardstartseite</item>
+        <item>Benutzerdefiniert</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
-        <item>Tiny</item>
-        <item>Small</item>
+        <item>Winzig</item>
+        <item>Klein</item>
         <item>Normal</item>
-        <item>Large</item>
-        <item>Huge</item>
+        <item>Groß</item>
+        <item>Riesig</item>
     </string-array>
 </resources>
