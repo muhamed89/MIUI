@@ -110,7 +110,7 @@
   <string name="dpad_up">Hoch</string>
   <string name="edit_controller">Fernbedienung ändern</string>
   <string name="edit_ir_device">Gerät neu benennen</string>
-  <string name="eject">?Auswerfen</string>
+  <string name="eject">Auswerfen</string>
   <string name="epg_booked_str">geplant</string>
   <string name="epg_bottom_subtitle_textview_str">Verbinde das Set-Top-Box um mehr Details zu erhalten</string>
   <string name="epg_bottom_subtitle_textview_str2">Tippen um die Fernbedienung anzuzeigen</string>
