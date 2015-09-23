@@ -1747,7 +1747,7 @@ Betriebssystem auswählen:"</string>
   <string name="preferred_app_settings">Standard App Einstellungen</string>
   <string name="preferred_app_settings_default">Standard</string>
   <string name="preferred_app_settings_reset">Auf Standard zurücksetzen?</string>
-  <string name="preferred_app_settings_reset_button">Zurücksetzten</string>
+  <string name="preferred_app_settings_reset_button">Zurücksetzen</string>
   <string name="preferred_app_settings_reset_message">Alle Standard-Apps werden auf die MIUI Voreinstellungen zurückgesetzt.</string>
   <string name="preferred_application_title">Bevorzugt %s</string>
   <string name="preferred_application_warning_message">Ersetzen des Standard %1$s kann den Energieverbrauch erhöhen, die Geschwindigkeit reduzieren und Ihre Daten gefährden. Benutzung des Standard %2$s wird empfohlen.</string>
