@@ -24,7 +24,6 @@
   <string name="analog_gadget">Analoguhr</string>
   <string name="app_label">Uhr</string>
   <string name="auto_silence_never">Nie</string>
-  <string name="auto_silence_summary">Der Wecker wird nach %d Minuten stummgeschaltet.</string>
   <string name="auto_silence_title">Automatische Stummschaltung</string>
   <string name="battery_charging_level">%d%%</string>
   <string name="birthday_alarm">Geburtstagsalarm</string>
@@ -95,6 +94,8 @@
   <string name="stopwatch_title">Stoppuhr</string>
   <string name="system_time_setting">Einstellungen</string>
   <string name="time">Uhrzeit</string>
+  <string name="timer_alarm_alert_pad">%s</string>
+  <string name="timer_alarm_cancel_pad">Auf den Bildschirm tippen, um das Läuten zu beenden.</string>
   <string name="timer_alert_alert_silenced">Timer verstummt nach %d Minuten</string>
   <string name="timer_continue">Fortsetzen</string>
   <string name="timer_got_it">OK</string>
