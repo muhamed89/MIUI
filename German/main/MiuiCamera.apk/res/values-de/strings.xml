@@ -346,9 +346,9 @@
   <string name="toast_burst_snap_finished_end">Fotos</string>
   <string name="toast_burst_snap_finished_start">Serienaufnahme beendet</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">"Serienaufnahme wird bei aktivierter Tonaufnahme nicht unterstützt"</string>
-  <string name="toast_start_audio_capture">Geräusch erstellen, um den Verschluss auszulösen</string>
-  <string name="ubi_focus_capture_fail">"Couldn't take picture"</string>
-  <string name="ubifocus_capture_warning_message">For best results, your picture should contain objects both near (less than 1 meter from the lens) and far</string>
+  <string name="toast_start_audio_capture">Machen Sie ein Geräusch, um ein Foto zu schießen</string>
+  <string name="ubi_focus_capture_fail">"Es konnte kein Foto geschossen werden"</string>
+  <string name="ubifocus_capture_warning_message">Für bessere Ergebnisse, sollte das Foto sowohl nahe (weniger als 1 Meter von der Linse) als auch weit entfernte Objekte enthalten</string>
   <string name="video_reach_size_limit">Maximale Größe erreicht.</string>
   <string name="wait">Abwarten</string>
 </resources>
