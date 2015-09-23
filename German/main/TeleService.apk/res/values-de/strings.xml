@@ -18,7 +18,6 @@
   <string name="administrative_disable">Verwaltung deaktiviert</string>
   <string name="administrative_enable">Verwaltung aktiviert</string>
   <string name="advanced_settings">Optionale Einstellungen</string>
-  <string name="advanced_settings_container">advanced settings container</string>
   <string name="advanced_settings_hide">▽ berühren, um alle zu verstecken</string>
   <string name="advanced_settings_show">▷ berühren, um alle anzuzeigen</string>
   <string name="advertisements_disable">Werbung ausblenden</string>
@@ -43,7 +42,6 @@
   <string name="areacode_set_default">Default</string>
   <string name="atr_disable">Verkehrsmeldungen ausgeschaltet</string>
   <string name="atr_enable">Verkehrsmeldungen eingeschaltet</string>
-  <string name="auth_username">AuthUserName</string>
   <string name="auth_username_summary">Benutzernamen für die Authentifizierung</string>
   <string name="auth_username_title">Benutzernamen Authentifizierung</string>
   <string name="auto_answer_delay_entries_delay_10s">10 Sekunden</string>
@@ -215,9 +213,7 @@
   <string name="default_area_code_setting">Default area code</string>
   <string name="default_areacode">Default area code</string>
   <string name="default_call_type">CSVoice</string>
-  <string name="default_port">5060</string>
   <string name="default_preference_summary">&lt;Nicht gesetzt&gt;</string>
-  <string name="default_transport">UDP</string>
   <string name="delete">Löschen</string>
   <string name="deleteAllSimEntries">Alle SIM Kontakte löschen</string>
   <string name="deleteSimContacts">SIM-Kontakte werden entfernt…</string>
@@ -260,11 +256,9 @@
   <string name="disable_fdn_ok">FDN einschalten</string>
   <string name="disable_pin_ok">SIM PIN deaktiviert.</string>
   <string name="disable_sim_pin">SIM PIN deaktivieren</string>
-  <string name="display_name">DisplayName</string>
   <string name="display_name_summary">&lt;Wie Nutzername&gt;</string>
   <string name="display_name_title">Anzeigename</string>
   <string name="do_not_ask">"Don't ask again"</string>
-  <string name="domain_address">SipDomain</string>
   <string name="domain_address_title">Server</string>
   <string name="doneButton">Fertig</string>
   <string name="dtmf_tone_enable_title">Wähltastentöne</string>
@@ -690,7 +684,6 @@ Try again or call customer service for more options."</string>
   <string name="other_settings">Weitere Anruf Einstellungen</string>
   <string name="other_settings_category">Andere</string>
   <string name="overseas_roaming_setting">Overseas roaming</string>
-  <string name="password">Passwort</string>
   <string name="password_changed">Passwort geändert</string>
   <string name="password_title">Passwort</string>
   <string name="payphone">Telefonzelle</string>
@@ -726,7 +719,6 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="please_choose_the_refueling_package">Choose top-up package</string>
   <string name="pocket_mode_summary">Phone will lock automatically when placed in a pocket</string>
   <string name="pocket_mode_title">Prevent pocket dials</string>
-  <string name="port">Port</string>
   <string name="port_title">Port Nummer</string>
   <string name="preference_auto_ip_summary_disable">Deaktiviert</string>
   <string name="preference_category_ringtone">Klingelton &amp; Vibration</string>
@@ -864,10 +856,8 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="select_voice_call_sim">Bitte auswählen</string>
   <string name="sendSms">SMS senden</string>
   <string name="send_button">Senden</string>
-  <string name="send_keepalive">SendKeepAlive</string>
   <string name="send_keepalive_title">Keep-Alive senden</string>
   <string name="send_order_failed">"Couldn't send order"</string>
-  <string name="set_primary">SetPrimary</string>
   <string name="set_primary_summary">Für ausgehende Anrufe verwenden</string>
   <string name="set_primary_title">Als primäres Konto festlegen</string>
   <string name="set_smsc_address_error">Failed to set number</string>
@@ -899,10 +889,7 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="sip_accounts">VOIP (SIP) Konten</string>
   <string name="sip_accounts_title">SIP Konten</string>
   <string name="sip_add_account_tip_text">To use internet calling, add a SIP account</string>
-  <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-  <string name="sip_always">SIP_ALWAYS</string>
   <string name="sip_always_send_keepalive">Immer senden</string>
-  <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
   <string name="sip_call_options_entry_1">Für alle Anrufe wenn eine Datenverbindung verfügbar ist</string>
   <string name="sip_call_options_entry_2">Nur für VOIP</string>
   <string name="sip_call_options_entry_3">Bei jedem Anruf fragen</string>
@@ -997,7 +984,6 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="title_purchase">Top up</string>
   <string name="title_rates">Rates</string>
   <string name="title_user_config">Activate SIM card</string>
-  <string name="transport">Protokol</string>
   <string name="transport_title">Transportart</string>
   <string name="tty_mode_entries_full">TTY Full</string>
   <string name="tty_mode_entries_hco">TTY HCO</string>
@@ -1022,7 +1008,6 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="use_history_duration_min">%1$smin</string>
   <string name="use_history_endtime">Ended: %1$s</string>
   <string name="use_history_starttime">Started: %1$s</string>
-  <string name="username">UserName</string>
   <string name="username_title">Benutzername</string>
   <string name="ussdRunning">USSD-Code wird ausgeführt...</string>
   <string name="ussd_dialog_sep">----------</string>
