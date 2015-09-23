@@ -134,7 +134,6 @@
   <string name="guide_install_app_msg">"App isn't installed on your device. Find and install app now?"</string>
   <string name="guide_install_app_title">Find and install app?</string>
   <string name="guide_tips_editing_mode">Touch &amp; hold to pick up a widget</string>
-  <string name="home_indicator">bottom_point</string>
   <string name="image_too_small_message">"Original image isn't big enough"</string>
   <string name="install">Install</string>
   <string name="invalid_contact_shortcut">Invalid contact</string>
@@ -244,7 +243,6 @@
   <string name="wallpaper_auto_change_title">Lock screen</string>
   <string name="wallpaper_failed_message">"Can't apply wallpaper"</string>
   <string name="wallpaper_scaling_message">Scaling to fixed size</string>
-  <string name="wallpaper_scrolling">all</string>
   <string name="wallpaper_settings">Wallpaper</string>
   <string name="wallpaper_success_message">Wallpaper applied</string>
   <string name="widget_favorite_contacts_edit">Editor</string>
