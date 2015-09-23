@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="reminder_methods_labels">
-        <item>Notification</item>
-        <item>Email</item>
-        <item>Text message</item>
+        <item>Benachrichtigung</item>
+        <item>E-Mail</item>
+        <item>SMS</item>
         <item>Alarm</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
-        <item>No reminder</item>
-        <item>0 minutes</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>15 minutes</item>
-        <item>30 minutes</item>
-        <item>1 hour</item>
-        <item>1 day</item>
-        <item>2 days</item>
-        <item>1 week</item>
+        <item>Keine Erinnerung</item>
+        <item>0 Minuten</item>
+        <item>5 Minuten</item>
+        <item>10 Minuten</item>
+        <item>15 Minuten</item>
+        <item>30 Minuten</item>
+        <item>1 Stunden</item>
+        <item>1 Tag</item>
+        <item>2 Tage</item>
+        <item>1 Woche</item>
     </string-array>
     <integer-array name="reminder_minutes_values">
         <item>-1</item>
@@ -31,16 +31,16 @@
         <item>10080</item>
     </integer-array>
     <string-array name="preferences_default_reminder_labels">
-        <item>No reminder</item>
-        <item>0 minutes</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>15 minutes</item>
-        <item>30 minutes</item>
-        <item>1 hour</item>
-        <item>1 day</item>
-        <item>2 days</item>
-        <item>1 week</item>
+        <item>Keine Erinnerung</item>
+        <item>0 Minuten</item>
+        <item>5 Minuten</item>
+        <item>10 Minuten</item>
+        <item>15 Minuten</item>
+        <item>30 Minuten</item>
+        <item>1 Stunde</item>
+        <item>1 Tag</item>
+        <item>2 Tage</item>
+        <item>1 Woche</item>
     </string-array>
     <string-array name="preferences_default_reminder_values">
         <item>-1</item>
@@ -55,176 +55,176 @@
         <item>10080</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Locale default</item>
-        <item>Saturday</item>
-        <item>Sunday</item>
-        <item>Monday</item>
+        <item>Gebietsschema</item>
+        <item>Samstag</item>
+        <item>Sonntag</item>
+        <item>Montag</item>
     </string-array>
     <string-array name="availability">
-        <item>Busy</item>
-        <item>Available</item>
-        <item>Tentative</item>
+        <item>Beschäftigt</item>
+        <item>Verfügbar</item>
+        <item>Unter Vorbehalt</item>
     </string-array>
     <string-array name="visibility">
-        <item>Default</item>
-        <item>Private</item>
-        <item>Public</item>
+        <item>Standart</item>
+        <item>Privat</item>
+        <item>Öffentlich</item>
     </string-array>
     <string-array name="ordinal_labels">
-        <item>first</item>
-        <item>second</item>
-        <item>third</item>
-        <item>fourth</item>
-        <item>last</item>
+        <item>Erste</item>
+        <item>Zweite</item>
+        <item>Dritte</item>
+        <item>Vierte</item>
+        <item>Letzte</item>
     </string-array>
     <string-array name="response_labels1">
-        <item>No response</item>
-        <item>Yes</item>
-        <item>Maybe</item>
-        <item>No</item>
+        <item>Keine Antwort</item>
+        <item>Ja</item>
+        <item>Vielleicht</item>
+        <item>Nein</item>
     </string-array>
     <string-array name="delete_repeating_labels">
-        <item>Only this event</item>
-        <item>This and future events</item>
-        <item>All events</item>
+        <item>Nur dieses Ereignis</item>
+        <item>Diesen und folgende Ereignisse</item>
+        <item>Alle Ereignisse</item>
     </string-array>
     <string-array name="delete_repeating_labels_no_selected">
-        <item>This &amp; future events</item>
-        <item>All events</item>
+        <item>Diese &amp; folgende Ereignisse</item>
+        <item>Alle Ereignisse</item>
     </string-array>
     <string-array name="change_response_labels">
-        <item>Only this event</item>
-        <item>All events in the series</item>
+        <item>Nur dieses Ereigniss</item>
+        <item>Alle Ereignisse in der Serie</item>
     </string-array>
     <string-array name="buttons_list">
-        <item>Day</item>
-        <item>Week</item>
-        <item>Month</item>
-        <item>Events</item>
+        <item>Tag</item>
+        <item>Woche</item>
+        <item>Monat</item>
+        <item>Ereignisse</item>
     </string-array>
     <string-array name="quick_response_defaults">
-        <item>Running just a couple of minutes late.</item>
-        <item>Be there in about 10 minutes.</item>
-        <item>Go ahead and start without me.</item>
-        <item>"Sorry, I can't make it. We'll have to reschedule."</item>
+        <item>Hallo, ich bin schon fast da. Bis gleich!</item>
+        <item>Hallo, ich bin in etwa 10 Minuten da!</item>
+        <item>Ich schaffe es nicht rechtzeitig. Bitte fangen Sie ohne mich an!</item>
+        <item>"Entschuldigung, aber ich schaffe es heute nicht. Können wir den Termin verschieben?"</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Always</item>
-        <item>Only when ringer is silenced</item>
-        <item>Never</item>
+        <item>Immer</item>
+        <item>Nur wenn Ton stumm</item>
+        <item>Niemals</item>
     </string-array>
     <string-array name="widget_style_list">
-        <item>Transparent</item>
-        <item>White background</item>
+        <item>Durchsichtig</item>
+        <item>Weißer Hintergrund</item>
     </string-array>
     <string-array name="miui_reminder_minutes_labels">
-        <item>No reminder</item>
-        <item>0 minutes</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>15 minutes</item>
-        <item>30 minutes</item>
-        <item>1 hour</item>
-        <item>1 day</item>
-        <item>2 days</item>
-        <item>1 week</item>
+        <item>Keine Erinnerung</item>
+        <item>0 Minuten</item>
+        <item>5 Minuten</item>
+        <item>10 Minuten</item>
+        <item>15 Minuten</item>
+        <item>30 Minuten</item>
+        <item>1 Stunde</item>
+        <item>1 Tag</item>
+        <item>2 tage</item>
+        <item>1 Woche</item>
     </string-array>
     <string-array name="miui_preferences_default_reminder_labels">
-        <item>No reminder</item>
-        <item>0 minutes</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>15 minutes</item>
-        <item>30 minutes</item>
-        <item>1 hour</item>
-        <item>1 day</item>
-        <item>2 days</item>
-        <item>1 week</item>
+        <item>Keine Erinnerung</item>
+        <item>0 Minuten</item>
+        <item>5 Minuten</item>
+        <item>10 Minuten</item>
+        <item>15 Minuten</item>
+        <item>30 Minuten</item>
+        <item>1 Stunde</item>
+        <item>1 Tag</item>
+        <item>2 Tage</item>
+        <item>1 Woche</item>
     </string-array>
     <string-array name="travel_reminder_minutes_labels">
-        <item>3 hours</item>
-        <item>4 hours</item>
-        <item>5 hours</item>
-        <item>6 hours</item>
-        <item>1 day</item>
+        <item>3 Stunden</item>
+        <item>4 Stunden</item>
+        <item>5 Stunden</item>
+        <item>6 Stunden</item>
+        <item>1 Tag</item>
     </string-array>
     <string-array name="repeat_frequency_spinner">
-        <item>day</item>
-        <item>week</item>
-        <item>month</item>
-        <item>year</item>
+        <item>Tag</item>
+        <item>Woche</item>
+        <item>Monat</item>
+        <item>Jahr</item>
     </string-array>
     <string-array name="repeat_choose_day">
-        <item>1st</item>
-        <item>2nd</item>
-        <item>3rd</item>
-        <item>4th</item>
-        <item>5th</item>
-        <item>6th</item>
-        <item>7th</item>
-        <item>8th</item>
-        <item>9th</item>
-        <item>10th</item>
-        <item>11th</item>
-        <item>12th</item>
-        <item>13th</item>
-        <item>14th</item>
-        <item>15th</item>
-        <item>16th</item>
-        <item>17th</item>
-        <item>18th</item>
-        <item>19th</item>
-        <item>20th</item>
-        <item>21st</item>
-        <item>22nd</item>
-        <item>23rd</item>
-        <item>24th</item>
-        <item>25th</item>
-        <item>26th</item>
-        <item>27th</item>
-        <item>28th</item>
-        <item>29th</item>
-        <item>30th</item>
-        <item>31st</item>
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>5.</item>
+        <item>6.</item>
+        <item>7.</item>
+        <item>8.</item>
+        <item>9.</item>
+        <item>10.</item>
+        <item>11.</item>
+        <item>12.</item>
+        <item>13.</item>
+        <item>14.</item>
+        <item>15.</item>
+        <item>16.</item>
+        <item>17.</item>
+        <item>18.</item>
+        <item>19.</item>
+        <item>20.</item>
+        <item>21.</item>
+        <item>22.</item>
+        <item>23.</item>
+        <item>24.</item>
+        <item>25.</item>
+        <item>26.</item>
+        <item>27.</item>
+        <item>28.</item>
+        <item>29.</item>
+        <item>30.</item>
+        <item>31.</item>
     </string-array>
     <string-array name="repeat_choose_weekday">
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thur</item>
-        <item>Fri</item>
-        <item>Sat</item>
-        <item>Sun</item>
+        <item>Mo</item>
+        <item>Di</item>
+        <item>Mi</item>
+        <item>Do</item>
+        <item>Fr</item>
+        <item>Sa</item>
+        <item>So</item>
     </string-array>
     <string-array name="repeat_choose_month">
         <item>Jan</item>
         <item>Feb</item>
         <item>Mar</item>
         <item>Apr</item>
-        <item>May</item>
+        <item>Mai</item>
         <item>Jun</item>
         <item>Jul</item>
         <item>Aug</item>
         <item>Sep</item>
-        <item>Oct</item>
+        <item>Okt</item>
         <item>Nov</item>
-        <item>Dec</item>
+        <item>Dez</item>
     </string-array>
     <string-array name="repeat_choose_week_left">
-        <item>first</item>
-        <item>second</item>
-        <item>third</item>
-        <item>fourth</item>
-        <item>last</item>
+        <item>Erste</item>
+        <item>Zweite</item>
+        <item>Dritte</item>
+        <item>Vierte</item>
+        <item>Letzte</item>
     </string-array>
     <string-array name="repeat_choose_week_right">
-        <item>Mon - Fri</item>
-        <item>Weekend</item>
-        <item>Whole week</item>
+        <item>Mo - Fr</item>
+        <item>Wochenende</item>
+        <item>Ganze Woche</item>
     </string-array>
     <string-array name="repeat_choose_end">
-        <item>Never</item>
-        <item>Time</item>
-        <item>Count</item>
+        <item>Nie</item>
+        <item>Zeit</item>
+        <item>Anzahl</item>
     </string-array>
 </resources>
