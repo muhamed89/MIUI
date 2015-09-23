@@ -108,6 +108,7 @@ For more info check the message you received from your carrier"</string>
   <string name="firewall_fragment_tab_title_nonsys">Installed</string>
   <string name="firewall_fragment_tab_title_sys">System</string>
   <string name="firewall_network_restrict_notify_message">Tap to change settings.</string>
+  <string name="firewall_network_restrict_notify_mobile">Mobile Daten</string>
   <string name="firewall_network_restrict_notify_title">"%1$s isn't allowed to connect to %2$s."</string>
   <string name="firewall_rule_group_title_mobile">Data</string>
   <string name="firewall_rule_group_title_roaming">Overseas roaming</string>
