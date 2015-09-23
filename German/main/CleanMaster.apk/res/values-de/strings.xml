@@ -65,7 +65,7 @@
   <string name="clean_content_two">2 Stück</string>
   <string name="clean_content_zero">Nichts</string>
   <string name="confirm_auto_cleaner">OK</string>
-  <string name="deepclean_app_content">Deinstalliere Apps, welche in den letzten 7 Tagen nicht benutzt wurden</string>
+  <string name="deepclean_app_content">Deinstalliere Apps, welche in den letzten 30 Tagen nicht benutzt wurden</string>
   <string name="deepclean_cache_content">Lösche Daten, welche von Apps erzeugt wurden</string>
   <string name="deepclean_cache_header_left">Dateien: %d</string>
   <string name="deepclean_large_content">Lösche Dateien grösser als 10MB</string>
@@ -114,6 +114,7 @@
   <string name="hints_garbage_handle_item_content">%1$d items, %2$s</string>
   <string name="hints_garbage_handle_item_empty_content">Leer</string>
   <string name="hints_header_left">%d</string>
+  <string name="hints_install_apps_else">Verwendet %s</string>
   <string name="hints_install_apps_interval">Verwendet vor %d Tag(en)</string>
   <string name="hints_install_apps_new">Nie geöffnet</string>
   <string name="hints_install_apps_risk">Gefahr erkannt</string>
@@ -175,7 +176,7 @@
   <string name="pref_summary_garbage_cleanup_check_time">Plane Routinereinigung</string>
   <string name="pref_summary_garbage_process_mode">Set notifications for when cleaner runs</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Hochladen und vergleichen unbekannter Dateien mit einer Onlinedefinition</string>
-  <string name="pref_summary_open_optimizer_memory_scan">Automatische überprüfung und Bereinigung des Speichers (RAM)</string>
+  <string name="pref_summary_open_optimizer_memory_scan">Automatisch Apps für die Bereinigung auswählen</string>
   <string name="pref_title_auto_clean_and_alert">Automatische Reinigung</string>
   <string name="pref_title_auto_clean_content_choose">Wähle Dinge zum bereinigen</string>
   <string name="pref_title_auto_update_cleanup_db">Automatische Updates</string>
