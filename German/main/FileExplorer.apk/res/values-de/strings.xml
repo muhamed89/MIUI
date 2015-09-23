@@ -403,7 +403,7 @@
   <string name="title_expire_video">Läuft ab</string>
   <string name="title_more_source">Weitere Apps</string>
   <string name="title_recent">Kürzlich</string>
-  <string name="title_select_volume">Lautstärke einstellen</string>
+  <string name="title_select_volume">Datenträger auswählen</string>
   <string name="toast_file_not_can_read">Keine App zum Öffnen der Datei gefunden.</string>
   <string name="tools">Tools</string>
   <string name="trans_task">Netzwerkübertragung</string>
