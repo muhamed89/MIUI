@@ -178,6 +178,7 @@ Bitte überprüfen Sie Ihre Paketnummer."</string>
   <string name="expresss_inquiry_all_logistics">Alle</string>
   <string name="expresss_inquiry_frequently_used_logistics">Häufig</string>
   <string name="follow_label">Folgen %1$s</string>
+  <string name="follow_processing">in Bearbeitung</string>
   <string name="follow_success">Nun folgen %1$s.</string>
   <string name="fraud_number_online_identification">Werbung blockieren (Internetverbindung erforderlich)</string>
   <string name="gallery">Galerie</string>
