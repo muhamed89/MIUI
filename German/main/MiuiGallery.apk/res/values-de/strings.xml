@@ -839,9 +839,10 @@
   <string name="multiface_crop_help">Zum Starten auf ein Gesicht tippen</string>
   <string name="must_pick_file">Bild auswählen</string>
   <string name="name_wrong">"Ist nicht %s"</string>
-  <string name="need_to_turn_on_network">Connect to the internet</string>
-  <string name="need_to_turn_on_sync">"Turn on sync with Mi Cloud "</string>
-  <string name="need_to_turn_on_wlan">Connect to WLAN</string>  <string name="negative">Negativ</string>
+  <string name="need_to_turn_on_network">Mit dem Internet verbinden</string>
+  <string name="need_to_turn_on_sync">"Sync einschalten "</string>
+  <string name="need_to_turn_on_wlan">Mit WLAN verbinden</string>
+  <string name="negative">Negativ</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
   <string name="network_connected_rescan">"Can't connect to the network"</string>
   <string name="new_device_tips">Drücken, um Gerät anzuzeigen</string>
@@ -863,7 +864,7 @@
   <string name="not_now">Nicht jetzt</string>
   <string name="not_remind_any_more">Nicht wieder anzeigen</string>
   <string name="not_show_hidden_albums">Zeige keine verborgenen Alben</string>
-  <string name="number_of_uploading_finish">All files uploaded to Mi Cloud</string>
+  <string name="number_of_uploading_finish">Alle Dateien auf Mi Cloud hochgeladen</string>
   <string name="old">Vintage</string>
   <string name="only_show_camera_in_first_page">Nur Kamera anzeigen</string>
   <string name="only_show_camera_in_first_page_summary">Nur Kamerafotos aus der Mi-Cloud anzeigen</string>
