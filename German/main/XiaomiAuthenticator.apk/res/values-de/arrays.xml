@@ -11,7 +11,7 @@
         <item>50000</item>
     </string-array>
     <string-array name="type">
-        <item>Time based</item>
-        <item>Counter based</item>
+        <item>Zeit bezogen</item>
+        <item>Zähler bezogen</item>
     </string-array>
 </resources>
