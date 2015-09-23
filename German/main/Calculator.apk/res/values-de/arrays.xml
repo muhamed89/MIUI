@@ -20,22 +20,22 @@
         <item>=</item>
     </string-array>
     <string-array name="operatorDescs">
-        <item>left parenthesis</item>
-        <item>right parenthesis</item>
-        <item>factorial</item>
-        <item>natural logarithm</item>
-        <item>logarithm</item>
-        <item>square root</item>
-        <item>divided by</item>
-        <item>multiplied by</item>
-        <item>plus</item>
-        <item>minus</item>
-        <item> point </item>
-        <item>power</item>
-        <item>tangent</item>
-        <item>sine</item>
-        <item>cosine</item>
-        <item>pi</item>
-        <item>equals</item>
+        <item>Klammer auf</item>
+        <item>Klammer zu</item>
+        <item>Fakultät</item>
+        <item>Natürlicher Logarithmus</item>
+        <item>Logarithmus</item>
+        <item>Quadratwurzel</item>
+        <item>Dividiert durch</item>
+        <item>multipliziert mit</item>
+        <item>Addition</item>
+        <item>Subtraktion</item>
+        <item> Punkt </item>
+        <item>Potenz</item>
+        <item>Tangente</item>
+        <item>Sinus</item>
+        <item>Kosinus</item>
+        <item>Pi</item>
+        <item>Ist gleich</item>
     </string-array>
 </resources>
