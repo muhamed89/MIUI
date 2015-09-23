@@ -134,7 +134,6 @@
   <string name="guide_install_app_msg">Anwendung nicht installiert. Suchen und herunterladen?</string>
   <string name="guide_install_app_title">App installieren</string>
   <string name="guide_tips_editing_mode">Berühren &amp; halten, um Widget zu greifen</string>
-  <string name="home_indicator">bottom_point</string>
   <string name="image_too_small_message">Originalbild ist nicht groß genug</string>
   <string name="install">Installieren</string>
   <string name="invalid_contact_shortcut">Ungültiger Kontakt</string>
@@ -244,7 +243,6 @@
   <string name="wallpaper_auto_change_title">Bildschirmsperre</string>
   <string name="wallpaper_failed_message">Hintergrund kann nicht angewendet werden</string>
   <string name="wallpaper_scaling_message">Skalieren auf feste Größe</string>
-  <string name="wallpaper_scrolling">Alle</string>
   <string name="wallpaper_settings">Hintergrund</string>
   <string name="wallpaper_success_message">Hintergrund hinzugefügt</string>
   <string name="widget_favorite_contacts_edit">Editor</string>
