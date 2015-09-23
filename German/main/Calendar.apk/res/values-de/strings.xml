@@ -47,7 +47,6 @@
   <string name="birthday_event_description">"Heute ist %1$s's %4$s!"</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
-  <string name="birthday_event_title">@string/birthday_notification_title_today</string>
   <string name="birthday_metric"/>
   <string name="birthday_notice_message">生日详情需要连接网络方可查看。您是否同意？</string>
   <string name="birthday_notification_age_term"/>
