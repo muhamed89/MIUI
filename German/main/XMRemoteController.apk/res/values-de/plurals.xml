@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="app_install_count">
-        <item quantity="other">%1$s downloads</item>
-        <item quantity="one">%1$s download</item>
+        <item quantity="other">%1$s Downloads</item>
+        <item quantity="one">%1$s Download</item>
     </plurals>
     <plurals name="app_user_used">
-        <item quantity="other">%1$s users</item>
-        <item quantity="one">%1$s user</item>
+        <item quantity="other">%1$s Nutzer</item>
+        <item quantity="one">%1$s Nutzer</item>
     </plurals>
     <plurals name="match_brand_selection_des">
-        <item quantity="other">%d brands available</item>
-        <item quantity="one">1 brand available</item>
+        <item quantity="other">%d Marken verfügbar</item>
+        <item quantity="one">1 Marke verfügbar</item>
     </plurals>
 </resources>
