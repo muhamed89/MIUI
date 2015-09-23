@@ -136,7 +136,7 @@
   <string name="pref_camera_flashmode_entry_auto">Auto</string>
   <string name="pref_camera_flashmode_entry_off">Aus</string>
   <string name="pref_camera_flashmode_entry_on">An</string>
-  <string name="pref_camera_flashmode_entry_torch">Torch</string>
+  <string name="pref_camera_flashmode_entry_torch">Lampe</string>
   <string name="pref_camera_flashmode_title">Blitzmodus</string>
   <string name="pref_camera_focusmode_entry_auto">Auto</string>
   <string name="pref_camera_focusmode_entry_infinity">Unendlich</string>
