@@ -41,19 +41,6 @@
         <item>9</item>
         <item>:</item>
     </string-array>
-    <array name="duration_entryValues">
-        <item>@drawable/clock_0</item>
-        <item>@drawable/clock_1</item>
-        <item>@drawable/clock_2</item>
-        <item>@drawable/clock_3</item>
-        <item>@drawable/clock_4</item>
-        <item>@drawable/clock_5</item>
-        <item>@drawable/clock_6</item>
-        <item>@drawable/clock_7</item>
-        <item>@drawable/clock_8</item>
-        <item>@drawable/clock_9</item>
-        <item>@drawable/clock_colon</item>
-    </array>
     <string-array name="system_foreground_notification_whitelist">
         <item>com.miui.home</item>
         <item>com.android.providers.contacts</item>
