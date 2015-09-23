@@ -571,7 +571,7 @@ Um Ihr Konto zu aktivieren, folgen Sie den
   <string name="video_play_count_label">"Gesehen: "</string>
   <string name="virtual_keyhboard">Benutze die Gerätetastatur</string>
   <string name="virtual_keyhboard_intro">"Benutzen Sie Ihre Gerätetastatur, um am Bildschirm zu schreiben"</string>
-  <string name="volume">?Lautstärke</string>
+  <string name="volume">Lautstärke</string>
   <string name="weather_out">Aussentemperatur:</string>
   <string name="yes">Ja</string>
 </resources>
