@@ -323,7 +323,7 @@
   <string name="total_episode">%1$s Episodes</string>
   <string name="tudou">Tudou</string>
   <string name="tv_channel_empty_hint">Keine Kanäle</string>
-  <string name="tv_cp_info_format">Support bei %1$s</string>
+  <string name="tv_cp_info_format">Support durch %1$s</string>
   <string name="ui_style">App Layout</string>
   <string name="ui_style_summary">Wählen Sie Inhalt Layoutstil</string>
   <string name="unfavorite">Demarkiert</string>
@@ -399,14 +399,14 @@
   <string name="vp_low_definition">niedrige</string>
   <string name="vp_maintitlearea">Watch HD video anywhere</string>
   <string name="vp_media_info">Show video info</string>
-  <string name="vp_media_type_unsported">This type of media cannot be supported</string>
+  <string name="vp_media_type_unsported">Dieser Medientyp wird nicht unterstützt</string>
   <string name="vp_milink">Mi Link</string>
   <string name="vp_milink_function">Cast to display</string>
   <string name="vp_mobile_network_using_negative">Abbrechen</string>
   <string name="vp_mobile_network_using_positive">Weiter</string>
-  <string name="vp_mobile_network_using_warning">Verwenden Ihre mobilen Daten erhöht Verbindung Videos ansehen Ihre Datennutzung. Wenn Sie über Ihren Plan Daten Nutzungsbeschränkung gehen, könnte Ihr Mobilfunkanbieter berechnet Ihnen zusätzliche Gebühren.</string>
-  <string name="vp_mobile_network_using_warning_line_1">Using your mobile data connection to watch videos will increase your data usage.</string>
-  <string name="vp_mobile_network_using_warning_line_2">If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
+  <string name="vp_mobile_network_using_warning">Ihr Datenverbrauch steigt, wenn Sie Videos über die mobile Datenverbindung ansehen. Wenn Sie Ihr Datenvolumen überschreiten, könnte Ihr Mobilfunkanbieter Ihnen zusätzliche Gebühren verrechnen.</string>
+  <string name="vp_mobile_network_using_warning_line_1">Ihr Datenverbrauch steigt, wenn Sie Videos über die mobile Datenverbindung ansehen.</string>
+  <string name="vp_mobile_network_using_warning_line_2">Wenn Sie Ihr Datenvolumen überschreiten, könnte Ihr Mobilfunkanbieter Ihnen zusätzliche Gebühren verrechnen.</string>
   <string name="vp_mplayer_error_io">IO operation error</string>
   <string name="vp_mplayer_error_malformed">Malformed media content</string>
   <string name="vp_mplayer_error_server_died">Media server died</string>
