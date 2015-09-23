@@ -224,6 +224,8 @@
   <string name="collapse_recipient_details">Details zum Empfänger Ausblenden</string>
   <string name="colon">:</string>
   <string name="compose">Verfasssen</string>
+  <string name="compose_attachment_number_limit">Die Anzahl an Anhängen darf 10 nicht überschreiten!</string>
+  <string name="compose_picturesexceedlimits">Die Anzahl an eingebetteten Bildern darf 5 nicht überschreiten!</string>
   <string name="compose_send">Senden</string>
   <string name="compose_sent">E-Mail gesendet</string>
   <string name="confirm">OK</string>
@@ -242,6 +244,8 @@
   <string name="contact_edit_set_black_list_receive_summary">Lösche E-Mails, welche den Empfänger im Feld An oder Cc haben</string>
   <string name="contact_edit_set_phone_contact">Telefonkontakte bearbeiten</string>
   <string name="contact_edit_title_phone_contact">Telefon-Kontaktliste</string>
+  <string name="contact_in_filter_call_phone_str">anrufen: %s</string>
+  <string name="contact_in_filter_title">Kommt von ihm (ihr).</string>
   <string name="contact_info_string">Zeige Kontaktinformation von %1$s</string>
   <string name="contact_info_string_default">Zeige Kontaktinformation</string>
   <string name="contact_list_add_btn">Hinzufügen</string>
