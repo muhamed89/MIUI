@@ -253,6 +253,6 @@ Hinweis: Eine Berechtigung könnte zur Systeminstabiltät, Datenverlust oder zu 
   <string name="SysOpt_Boost_Boot">Boot</string>
   <string name="SysOpt_Boost_Receiver">Background</string>
   <string name="app_name">Permission manager</string>
-  <string name="permisson_reject_notice_toast_text">"\"%1$s\" doesn't have permission to %2$s. You can change app permissions any time in Security &gt; Permissions."</string>
+  <string name="permisson_reject_notice_toast_text">"\"%1$s\" hat keine Berechtigung um %2$s. Sie können die Appberechtigungen jederzeit unter Sicherheit &gt; Berechtigungen."</string>
   <string name="static_cache_db_md5">d3bcc85e9ff1f1f8f1e641ea19e7b30f</string>
 </resources>
