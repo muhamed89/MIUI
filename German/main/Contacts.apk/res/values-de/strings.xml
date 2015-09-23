@@ -789,7 +789,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="picker_email_title">E-Mail auswählen</string>
   <string name="picker_favorites_list_empty">Keine Favoriten</string>
   <string name="picker_groups_list_empty">Keine Gruppen</string>
-  <string name="picker_join_title">Kontakt auswählen, den Sie zu %s hinzufügen möchten %s</string>
+  <string name="picker_join_title">Merge with %s</string>
   <string name="picker_number_title">Nummer auswählen</string>
   <string name="picker_postal_title">Anschrift auswählen</string>
   <string name="picker_recent_list_empty">Keine neuen Kontakte</string>
