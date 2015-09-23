@@ -111,12 +111,9 @@
   <string name="button_text_uninstall_shortcut">Entferne</string>
   <string name="button_text_view">Optimiere</string>
   <string name="button_text_view_power">Siehe</string>
-  <string name="cache_check_content_none">@string/memory_check_content_none</string>
   <string name="cache_header_title">Clear %1$d cached files to free %2$s of space</string>
   <string name="call_and_contact">Anrufe und Kontakte</string>
   <string name="cancel">Abbrechen</string>
-  <string name="category_key_power_usage_details">key_power_usage_details</string>
-  <string name="category_key_power_usage_packages">key_power_usage_packages</string>
   <string name="cmcc_app_check_dialog_message">Restart your device to complete repair.</string>
   <string name="cmcc_app_check_dialog_negative">Später</string>
   <string name="cmcc_app_check_dialog_positive">Jetzt neu starten</string>
