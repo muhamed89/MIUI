@@ -33,7 +33,7 @@ Falls das Gerät mehrere Nutzer hat, werden die Bedienungshilfen durch Verwendun
   <string name="accessibility_global_gesture_preference_summary_on">An</string>
   <string name="accessibility_global_gesture_preference_title">Bedienungshilfenverknüpfung</string>
   <string name="accessibility_long_press_timeout_preference_title">Reaktionszeit Berühren/Halten</string>
-  <string name="accessibility_menu_item_settings">Einstellungen</string>
+  <string name="accessibility_menu_item_settings">Einstellung</string>
   <string name="accessibility_no_services_installed">Keine Dienste installiert</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Ein/Aus-Taste beendet Anruf</string>
   <string name="accessibility_screen_magnification_enable">Vergrößerungsgesten</string>
