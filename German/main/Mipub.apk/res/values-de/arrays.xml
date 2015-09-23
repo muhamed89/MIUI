@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="prefEntries_ringtone_repeat">
-        <item>1 time</item>
-        <item>2 times</item>
-        <item>3 times</item>
-        <item>5 times</item>
-        <item>10 times</item>
+        <item>1x</item>
+        <item>2x</item>
+        <item>3x</item>
+        <item>5x</item>
+        <item>10x</item>
     </string-array>
     <string-array name="prefValues_ringtone_repeat">
         <item>1</item>
@@ -15,8 +15,8 @@
         <item>10</item>
     </string-array>
     <string-array name="entries_date_type">
-        <item>Received</item>
-        <item>Sent</item>
+        <item>Empfangen</item>
+        <item>Gesendet</item>
     </string-array>
     <string-array name="entryvalues_date_type">
         <item>0</item>
