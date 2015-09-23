@@ -331,9 +331,6 @@
   <string name="play">Abspielen</string>
   <string name="playing_failed">"Can't play"</string>
   <string name="prefDefault_ringtone_repeat">1</string>
-  <string name="prefDefault_vibrateWhen">never</string>
-  <string name="prefDefault_vibrate_false">never</string>
-  <string name="prefDefault_vibrate_true">always</string>
   <string name="pref_advanced_settings_title">Erweiterte Einstellungen</string>
   <string name="pref_collapse_sp_messages_summary">Nachrichten des Mobilfunkanbieters gruppieren</string>
   <string name="pref_edit_smsc_address">SMS-Zentrale</string>
