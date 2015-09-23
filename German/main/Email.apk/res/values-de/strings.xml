@@ -9,7 +9,6 @@
   <string name="abc_searchview_description_search">Search</string>
   <string name="abc_searchview_description_submit">Submit query</string>
   <string name="abc_searchview_description_voice">Voice search</string>
-  <string name="account_cache_provider">Account Cache Provider</string>
   <string name="account_duplicate_dlg_message_fmt">"You're already using this username for the account \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Duplicate account</string>
   <string name="account_manager_type_exchange">com.android.exchange</string>
@@ -269,7 +268,6 @@
   <string name="contextmenu_send_mail">Send email</string>
   <string name="contextmenu_sharelink">Share link</string>
   <string name="contextmenu_sms_dot">SMS…</string>
-  <string name="conversation_content_provider">Conversation Content Provider</string>
   <string name="conversation_folder_moved">Moved to %1$s</string>
   <string name="conversation_item_mark_read">Read</string>
   <string name="conversation_item_mark_unread">Unread</string>
@@ -333,7 +331,6 @@
   <string name="elided_padding_token"> </string>
   <string name="email_feedback_uri"/>
   <string name="email_package_name">com.android.email</string>
-  <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
   <string name="empty_account_tip">"Couldn't find account"</string>
   <string name="empty_email_tip">"Can't send blank message"</string>
   <string name="empty_spam">Empty Spam</string>
@@ -397,7 +394,6 @@
   <string name="forward_attribution_no_headers">---------- Forwarded message ----------</string>
   <string name="forward_download_failed_ticker">"Couldn't forward one or more attachments."</string>
   <string name="forward_download_failed_title">Attachment not forwarded</string>
-  <string name="forward_subject_label">Fwd:</string>
   <string name="from_heading">"From: "</string>
   <string name="general_preference_confirm_delete_label">Confirm before deleting</string>
   <string name="general_preference_confirm_send_label">Confirm before sending</string>
@@ -415,7 +411,6 @@
   <string name="gmail_web_login_go">OK</string>
   <string name="gmail_web_login_required_message">Sign in to Gmail</string>
   <string name="header_category_account">Accounts</string>
-  <string name="header_category_general">@string/header_label_general_preferences</string>
   <string name="header_category_other">Feedback</string>
   <string name="header_label_general_preferences">General</string>
   <string name="help_and_info">Help</string>
@@ -436,7 +431,6 @@
   <string name="invalid_recipient_title">Recipient Error</string>
   <string name="kilobytes">%s KB</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
-  <string name="load_attachment">@string/load_more</string>
   <string name="load_from_remote">Search mailbox on server</string>
   <string name="load_more">Load more</string>
   <string name="loading_conversation">Loading…</string>
@@ -461,14 +455,6 @@
   <string name="mailbox_name_display_starred">Starred</string>
   <string name="mailbox_name_display_trash">Trash</string>
   <string name="mailbox_name_display_unread">Unread</string>
-  <string name="mailbox_name_server_all_unread">Unread</string>
-  <string name="mailbox_name_server_drafts">Drafts</string>
-  <string name="mailbox_name_server_inbox">Inbox</string>
-  <string name="mailbox_name_server_junk">Junk</string>
-  <string name="mailbox_name_server_outbox">Outbox</string>
-  <string name="mailbox_name_server_sent">Sent</string>
-  <string name="mailbox_name_server_starred">Starred</string>
-  <string name="mailbox_name_server_trash">Trash</string>
   <string name="mailbox_settings_activity_title">Sync settings</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Sync settings (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Sync mail from</string>
@@ -643,7 +629,6 @@
   <string name="policy_screen_timeout">Require idle device to lock screen</string>
   <string name="policy_text_truncation">Restrict text email size</string>
   <string name="pop3_name">POP3</string>
-  <string name="prefDefault_autoAdvance">list</string>
   <string name="preference_eas_tips">Tap Activate to set up mail server.</string>
   <string name="preference_imap_tips"/>
   <string name="preference_pop_tips">In POP3, attachments will be automatically downloaded with email. This may increase your mobile data usage.</string>
@@ -701,8 +686,6 @@
   <string name="quote_divider_qq_en">------------------ Original ------------------</string>
   <string name="quote_divider_qq_zh">------------------ 原始邮件 ------------------</string>
   <string name="quoted_text">Include quoted text</string>
-  <string name="quoted_text_background_color_string">@android:color/white</string>
-  <string name="quoted_text_font_color_string">@color/gray_text_color</string>
   <string name="quoted_text_label">Quote text</string>
   <string name="re_download_message_button">Tap to download again</string>
   <string name="re_download_message_info">"Couldn't download email"</string>
@@ -724,12 +707,7 @@
   <string name="reply">Reply</string>
   <string name="reply_all">Reply all</string>
   <string name="reply_attribution" formatted="false">On %s, %s wrote:</string>
-  <string name="reply_subject_label">Re:</string>
   <string name="report_phishing">Report phishing</string>
-  <string name="report_rendering_improvement">Looks good</string>
-  <string name="report_rendering_improvement_desc">This message looks good.</string>
-  <string name="report_rendering_problem">Looks bad</string>
-  <string name="report_rendering_problem_desc">This message looks bad.</string>
   <string name="report_spam">Report spam</string>
   <string name="request_entity_large">File is too big</string>
   <string name="respond_inline">Respond inline</string>
@@ -861,11 +839,9 @@
   <string name="wait_for_manual_sync_body">"This account isn't set up to sync automatically.
 Touch "&lt;b&gt;Sync Now&lt;/b&gt; to sync mail once, or &lt;b&gt;Change Sync Settings&lt;/b&gt; to set up this account to sync mail automatically.</string>
   <string name="wait_for_sync_title">Waiting for sync</string>
-  <string name="wait_help_context">wait</string>
   <string name="widget_all_mail">All Mail</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Other</string>
-  <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
   <string name="wrong_password">The password you entered is incorrect</string>
   <string name="yes">Yes</string>
   <string name="you_are_in_mobile_network">Send log using mobile data connection? If you go over your plan’s data limit, your carrier could charge you additional fees.</string>
