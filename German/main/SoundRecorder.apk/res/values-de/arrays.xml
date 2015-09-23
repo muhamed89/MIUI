@@ -13,19 +13,6 @@
         <item>9</item>
         <item>:</item>
     </string-array>
-    <array name="duration_entryValues">
-        <item>@drawable/duration_0</item>
-        <item>@drawable/duration_1</item>
-        <item>@drawable/duration_2</item>
-        <item>@drawable/duration_3</item>
-        <item>@drawable/duration_4</item>
-        <item>@drawable/duration_5</item>
-        <item>@drawable/duration_6</item>
-        <item>@drawable/duration_7</item>
-        <item>@drawable/duration_8</item>
-        <item>@drawable/duration_9</item>
-        <item>@drawable/duration_colon</item>
-    </array>
     <string-array name="date_entries">
         <item>0</item>
         <item>1</item>
@@ -54,10 +41,6 @@
         <item>@drawable/date_m</item>
         <item>@drawable/date_m</item>
     </array>
-    <string-array name="record_type_values">
-        <item>audio/mpeg</item>
-        <item>audio/amr</item>
-    </string-array>
     <string-array name="record_type_entries">
         <item>MP3</item>
         <item>AMR</item>
