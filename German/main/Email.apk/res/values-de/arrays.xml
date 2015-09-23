@@ -1,71 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_providers">
-        <item>content://com.android.email.provider/uiaccts</item>
-    </string-array>
-    <string-array name="account_settings_check_frequency_values">
-        <item>-1</item>
-        <item>10</item>
-        <item>60</item>
-        <item>240</item>
-        <item>720</item>
-    </string-array>
-    <string-array name="account_settings_check_frequency_values_push">
-        <item>-2</item>
-        <item>-1</item>
-        <item>10</item>
-        <item>60</item>
-        <item>240</item>
-        <item>720</item>
-    </string-array>
-    <string-array name="account_settings_mail_window_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-    </string-array>
-    <string-array name="account_settings_mail_window_values_with_default">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-    </string-array>
-    <string-array name="alphabet_chars">
-        <item>☆</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-        <item>∅</item>
-    </string-array>
     <string-array name="compose_modes">
         <item>Reply</item>
         <item>Reply all</item>
@@ -77,13 +11,6 @@
         <item>Normal</item>
         <item>Large</item>
         <item>Huge</item>
-    </string-array>
-    <string-array name="general_preference_text_zoom_values">
-        <item>tiny</item>
-        <item>small</item>
-        <item>normal</item>
-        <item>large</item>
-        <item>huge</item>
     </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
         <item>Recently viewed</item>
@@ -102,14 +29,6 @@
         <item>Older message</item>
         <item>Inbox</item>
     </string-array>
-    <integer-array name="senders_lengths">
-        <item>27</item>
-        <item>27</item>
-    </integer-array>
-    <integer-array name="senders_with_attachment_lengths">
-        <item>25</item>
-        <item>25</item>
-    </integer-array>
     <string-array name="signature_normal_string_array">
         <item>Blog:</item>
         <item>Site:</item>
@@ -157,10 +76,5 @@
         <item>This email</item>
         <item>Disclaimer</item>
         <item>Email Disclaimer</item>
-    </string-array>
-    <string-array name="smtp_host_prefixes">
-        <item>pop3</item>
-        <item>pop</item>
-        <item>imap</item>
     </string-array>
 </resources>
