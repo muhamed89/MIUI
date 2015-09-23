@@ -72,6 +72,7 @@
   <string name="record_name_hour">.</string>
   <string name="record_name_minute">Minute</string>
   <string name="record_picker_title">Aufnahme auswählen</string>
+  <string name="record_quliaty_preference_title">Aufnahmequalität</string>
   <string name="record_saving">Aufnahme wird gespeichert...</string>
   <string name="recording">Aufnahme</string>
   <string name="recording_stopped">Aufnahme beendet</string>
