@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="timezone_filters">
-        <item>America</item>
-        <item>Europe</item>
-        <item>Africa</item>
-        <item>Asia</item>
-        <item>Australia</item>
-        <item>Pacific</item>
-        <item>All</item>
+        <item>Amerika</item>
+        <item>Europa</item>
+        <item>Afrika</item>
+        <item>Asien</item>
+        <item>Australien</item>
+        <item>Pacifik</item>
+        <item>Alle</item>
     </string-array>
     <string-array name="date_format_values">
         <item></item>
@@ -171,19 +171,6 @@
         <item>Blocked</item>
         <item>Temporarily avoiding poor connection</item>
     </string-array>
-    <string-array name="wifi_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>@string/wifi_security_eap</item>
-    </string-array>
-    <string-array name="wifi_security_no_eap">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>WAPI PSK</item>
-        <item>WAPI CERT</item>
-    </string-array>
     <string-array name="wifi_ap_security">
         <item>@string/wifi_security_none</item>
         <item>@string/wifi_security_wpa</item>
@@ -342,11 +329,6 @@
         <item>Removable SD card</item>
         <item>Let the system decide</item>
     </string-array>
-    <string-array name="app_install_location_values">
-        <item>device</item>
-        <item>sdcard</item>
-        <item>auto</item>
-    </string-array>
     <string-array name="app_ops_categories">
         <item>Location</item>
         <item>Personal</item>
@@ -492,16 +474,6 @@
         <item>1</item>
         <item>2</item>
     </integer-array>
-    <string-array name="captioning_color_selector_titles">
-        <item>@string/color_white</item>
-        <item>@string/color_black</item>
-        <item>@string/color_red</item>
-        <item>@string/color_yellow</item>
-        <item>@string/color_green</item>
-        <item>@string/color_cyan</item>
-        <item>@string/color_blue</item>
-        <item>@string/color_magenta</item>
-    </string-array>
     <integer-array name="captioning_color_selector_values">
         <item>0xffffffff</item>
         <item>0xff000000</item>
@@ -614,11 +586,6 @@
         <item>Check for DRM content only</item>
         <item>Always check</item>
     </string-array>
-    <string-array name="hdcp_checking_values">
-        <item>never</item>
-        <item>drm-only</item>
-        <item>always</item>
-    </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Never use HDCP checking</item>
         <item>Use HDCP checking for DRM content only</item>
@@ -715,22 +682,11 @@
         <item>Draw non-rectangular clip region in blue</item>
         <item>Highlight tested drawing commands in green</item>
     </string-array>
-    <string-array name="show_non_rect_clip_values">
-        <item>hide</item>
-        <item>region</item>
-        <item>highlight</item>
-    </string-array>
     <string-array name="track_frame_time_entries">
         <item>Off</item>
         <item>On screen as bars</item>
         <item>On screen as lines</item>
         <item>In adb shell dumpsys gfxinfo</item>
-    </string-array>
-    <string-array name="track_frame_time_values">
-        <item>false</item>
-        <item>visual_bars</item>
-        <item>visual_lines</item>
-        <item>true</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Off</item>
@@ -808,16 +764,6 @@
         <item>moderate</item>
         <item>low</item>
         <item>critical</item>
-    </string-array>
-    <string-array name="input_method_selector_titles">
-        <item>@string/input_method_selector_show_automatically_title</item>
-        <item>@string/input_method_selector_always_show_title</item>
-        <item>@string/input_method_selector_always_hide_title</item>
-    </string-array>
-    <string-array name="input_method_selector_values">
-        <item>@string/input_method_selector_show_automatically_value</item>
-        <item>@string/input_method_selector_always_show_value</item>
-        <item>@string/input_method_selector_always_hide_value</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
         <item>Strong</item>
@@ -974,10 +920,6 @@
         <item>Show recent apps tray</item>
         <item>Show menu</item>
     </string-array>
-    <string-array name="screen_key_press_action_value">
-        <item>recent_panel</item>
-        <item>show_menu</item>
-    </string-array>
     <string-array name="screen_key_long_press_action">
         <item>None</item>
         <item>Show recent apps tray</item>
@@ -985,14 +927,6 @@
         <item>Launch Google now</item>
         <item>Close current app</item>
         <item>Show menu</item>
-    </string-array>
-    <string-array name="screen_key_long_press_action_value">
-        <item>none</item>
-        <item>recent_panel</item>
-        <item>voice_assistant</item>
-        <item>google_now</item>
-        <item>close_app</item>
-        <item>show_menu</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 second</item>
@@ -1022,39 +956,16 @@
         <item>20000</item>
         <item>-1</item>
     </string-array>
-    <string-array name="font_size_title">
-        <item>@string/layout_size_small</item>
-        <item>@string/layout_size_normal</item>
-        <item>@string/layout_size_medium</item>
-        <item>@string/layout_size_large</item>
-        <item>@string/layout_size_huge</item>
-        <item>@string/layout_size_exhuge</item>
-    </string-array>
     <integer-array name="font_size_preference_preview_size">
         <item>14</item>
         <item>18</item>
         <item>22</item>
         <item>27</item>
     </integer-array>
-    <string-array name="dolby_mode_entries">
-        <item>@string/dolby_mode_off</item>
-        <item>@string/dolby_mode_music</item>
-        <item>@string/dolby_mode_movie</item>
-    </string-array>
-    <string-array name="dolby_bassboost_ranks">
-        <item>@string/dolby_bassboost_low</item>
-        <item>@string/dolby_bassboost_normal</item>
-        <item>@string/dolby_bassboost_high</item>
-    </string-array>
     <string-array name="dolby_bassboost_rank_valus">
         <item>0</item>
         <item>3</item>
         <item>6</item>
-    </string-array>
-    <string-array name="dolby_roomsize_ranks">
-        <item>@string/dolby_roomsize_low</item>
-        <item>@string/dolby_roomsize_normal</item>
-        <item>@string/dolby_roomsize_high</item>
     </string-array>
     <string-array name="dolby_roomsize_rank_valus">
         <item>0</item>
@@ -1093,12 +1004,6 @@
         <item>OSX</item>
         <item>Linux</item>
     </string-array>
-    <string-array name="msd_pc_system_download_summary">
-        <item>@string/msd_driver_download_xp</item>
-        <item></item>
-        <item>@string/msd_driver_download_mac</item>
-        <item></item>
-    </string-array>
     <string-array name="msd_pc_system_install_summary">
         <item>2.Follow the onscreen instructions</item>
         <item></item>
@@ -1114,14 +1019,6 @@
     <string-array name="msd_pc_system_retry_xp">
         <item>@string/msd_install_retry_connect</item>
         <item>Reinstall MiPhoneManager.</item>
-    </string-array>
-    <string-array name="msd_pc_system_retry_vista">
-        <item>@string/msd_install_retry_connect</item>
-    </string-array>
-    <string-array name="msd_pc_system_retry_mac">
-        <item>@string/msd_install_retry_reinstall_mac</item>
-        <item>@string/msd_install_retry_connect</item>
-        <item>@string/msd_install_retry_reinstall</item>
     </string-array>
     <string-array name="msd_pc_system_retry_linux">
         <item>Install tool: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
@@ -1185,25 +1082,11 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>1</item>
         <item>2</item>
     </string-array>
-    <string-array name="change_security_lock_picker_key">
-        <item>facial</item>
-        <item>pattern</item>
-        <item>numerical</item>
-        <item>mixed</item>
-    </string-array>
     <string-array name="change_security_lock_picker">
         <item>Face unlock</item>
         <item>Pattern</item>
         <item>PIN</item>
         <item>Password</item>
-    </string-array>
-    <string-array name="dndm_vip_list_group_array">
-        <item>@string/dndm_vip_list_custom</item>
-        <item>@string/dndm_vip_list_contact</item>
-    </string-array>
-    <string-array name="dndm_auto_time_trun_on_off">
-        <item>@string/dndm_auto_time_turn_on</item>
-        <item>@string/dndm_auto_time_turn_off</item>
     </string-array>
     <string-array name="wifi_connect_type_entries">
         <item>Automatically connect</item>
