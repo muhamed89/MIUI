@@ -26,7 +26,7 @@
 
 Um Root-Zugriff zu gewähren muss die Developer-Version von MIUI installiert werden."</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">MIUI herunterladen</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://decuro.de</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://miui.eu</string>
   <string name="Dashboard_Perm_SU_Switch">Root-Zugriff</string>
   <string name="Dashboard_Su_Enable_Content">"Aktivierung genehmigt Apps eine Root-Berechtigung anzufordern.
 Hinweis: Eine Berechtigung könnte zur Systeminstabiltät, Datenverlust oder zu Hardwarebeschädigungen führen. Wirklich aktivieren?"</string>
