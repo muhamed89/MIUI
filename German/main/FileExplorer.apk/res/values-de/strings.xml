@@ -78,6 +78,11 @@
   <string name="create_share_link_description">Erstelle Link...</string>
   <string name="cution">Tipps</string>
   <string name="data_capacity">Daten %1$s</string>
+  <string name="data_consumption_cancel">Beenden</string>
+  <string name="data_consumption_checkbox_hint">"Nicht wieder anzeigen"</string>
+  <string name="data_consumption_confirm">OK</string>
+  <string name="data_consumption_message">Diese App benötigt eine WLAN-Verbindung um einwandfrei zu funktionieren.</string>
+  <string name="data_consumption_title">Internetverbindung</string>
   <string name="decompress_cancel">Abbrechen</string>
   <string name="decompress_confirm">Entpacken</string>
   <string name="decompress_destination_error">"Entpacken fehlgeschlagen: Dateien können hier nicht entpackt werden."</string>
@@ -257,6 +262,7 @@
   <string name="notification_dialog_confirm">OK</string>
   <string name="notification_dialog_content">Automatically notify and organize when files are added or changed in %1$s.</string>
   <string name="notification_dialog_title">Notifications</string>
+  <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
   <string name="notification_setting">Notifications</string>
   <string name="notification_summary">"%1$s doesn't support this feature yet"</string>
   <string name="notification_title">Notify when new files are added to %1$s</string>
