@@ -11,7 +11,7 @@
   <string name="app_name">Xiaomi Authenticator</string>
   <string name="app_name_lockpattern">LockPattern</string>
   <string name="app_name_short">Authenticator</string>
-  <string name="authenticator_invalid_tip">You may have turned this feature off using your desktop Browser or activated another Mi Security Token.</string>
+  <string name="authenticator_invalid_tip">Sie haben eventuell diese Funktion mit Ihrem Desktop-Browser ausgestellt oder haben einen anderen Mi Security Token aktiviert.</string>
   <string name="authenticator_invalid_title">Account：%1$s Sicherheits-Token ist abgelaufen.</string>
   <string name="authenticator_page_reactivation">Reaktivieren</string>
   <string name="button_add_account">Konto hinzufügen</string>
