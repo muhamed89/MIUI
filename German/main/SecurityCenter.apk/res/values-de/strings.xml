@@ -186,6 +186,7 @@
   <string name="hints_last_virus_scan_yesterday_virus">Gestern gescannt: Gefährlich</string>
   <string name="hints_loading_text">Wird geladen...</string>
   <string name="hints_need_quick_scan">Schneller Scan empfohlen</string>
+  <string name="hints_need_regular_scan">Das Gerät regelmäßig scannen</string>
   <string name="hints_power_percent_title">Akku</string> 
   <string name="hints_remember_choice">Einstellungen merken</string>
   <string name="hints_risk_apk_list_item_summary">Risiko (apk)</string>
