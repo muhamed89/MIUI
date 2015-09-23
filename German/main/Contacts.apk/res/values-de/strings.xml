@@ -609,7 +609,6 @@ Grund: \"%s\""</string>
   <string name="miprofile_bind_account_alertdialog_message">Sie müssen diese Telefonnummer zu Ihrem MiKonto hinzufügen, um diese Funktion nutzen zu können.</string>
   <string name="miprofile_bind_account_alertdialog_positive">Nummer hinzufügen</string>
   <string name="miprofile_bind_account_alertdialog_title">Telefonnummer hinzufügen</string>
-  <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
   <string name="miprofile_edit_title">Profil bearbeiten</string>
   <string name="miprofile_error_accept_self">Sie können Ihre eigene Kontaktkarte nicht austauschen</string>
   <string name="miprofile_error_no_miaccount">Bei Ihrem MiKonto anmelden</string>
