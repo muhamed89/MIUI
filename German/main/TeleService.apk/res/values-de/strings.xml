@@ -648,7 +648,7 @@ Will use preferred network instead."</string>
   <string name="optional_summary">&lt;Optional&gt;</string>
   <string name="order_by_name">Alphabetical</string>
   <string name="order_by_recent">Frequently used</string>
-  <string name="order_id">"Order ID: "</string>
+  <string name="order_id">"Order ID:%1$s"</string>
   <string name="order_price">¥ %1$s</string>
   <string name="order_status_fail">Order status: failed</string>
   <string name="order_status_successful">Order status: complete</string>
