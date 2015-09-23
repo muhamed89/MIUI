@@ -839,8 +839,9 @@
   <string name="multiface_crop_help">Zum Starten auf ein Gesicht tippen</string>
   <string name="must_pick_file">Bild auswählen</string>
   <string name="name_wrong">"Ist nicht %s"</string>
-  <string name="need_to_turn_on_sync">Turn on sync with Mi Cloud now.</string>
-  <string name="negative">Negativ</string>
+  <string name="need_to_turn_on_network">Connect to the internet</string>
+  <string name="need_to_turn_on_sync">"Turn on sync with Mi Cloud "</string>
+  <string name="need_to_turn_on_wlan">Connect to WLAN</string>  <string name="negative">Negativ</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
   <string name="network_connected_rescan">"Can't connect to the network"</string>
   <string name="new_device_tips">Drücken, um Gerät anzuzeigen</string>
