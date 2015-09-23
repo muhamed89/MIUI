@@ -64,7 +64,7 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="accessibility_toggle_speak_password_preference_title">Passwörter aussprechen</string>
   <string name="account_add">Hinzufügen</string>
   <string name="account_autostar_label">Autostart</string>
-  <string name="account_list">Alle</string>
+  <string name="account_list">Andere Konten</string>
   <string name="account_settings">Konten</string>
   <string name="account_sync_settings_title">Synchronisierung</string>
   <string name="activate_miui_screensaver">Bildschirmschoner</string>
@@ -1621,6 +1621,7 @@ Betriebssystem auswählen:"</string>
   <string name="oldman_mode_entry_title">Seniorenmodus</string>
   <string name="oldman_mode_settings_caption">Seniorenmodus Einstellungen</string>
   <string name="oldman_mode_summary">Vereinfachten Startbildschirm und Menüs verwenden</string>
+  <string name="oldman_mode_summary_cta">Der Seniorenmodus muss auf das Internet zugreifen und Ihre Kontakte, Nachrichten und Standort auslesen, um normal zu funktionieren.</string>
   <string name="online_resource_entry">Online Quellen</string>
   <string name="only_one_home_message">Launcher Einstellungen werden ausgeblendet, bis Sie einen anderen Launcher installieren.</string>
   <string name="only_when_charging">Nur während des Ladevorgangs</string>
@@ -1746,6 +1747,7 @@ Betriebssystem auswählen:"</string>
   <string name="preferred_app_settings">Standard App Einstellungen</string>
   <string name="preferred_app_settings_default">Standard</string>
   <string name="preferred_app_settings_reset">Auf Standard zurücksetzen?</string>
+  <string name="preferred_app_settings_reset_button">Zurücksetzen</string>
   <string name="preferred_app_settings_reset_message">Alle Standard-Apps werden auf die MIUI Voreinstellungen zurückgesetzt.</string>
   <string name="preferred_application_title">Bevorzugt %s</string>
   <string name="preferred_application_warning_message">Ersetzen des Standard %1$s kann den Energieverbrauch erhöhen, die Geschwindigkeit reduzieren und Ihre Daten gefährden. Benutzung des Standard %2$s wird empfohlen.</string>
