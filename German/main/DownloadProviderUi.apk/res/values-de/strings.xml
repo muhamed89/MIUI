@@ -158,6 +158,8 @@
   <string name="privacy_tip_content">"Xunlei Accelerator verwenden um Downloads zu beschleunigen? Die URL des Download's wir auf die Xunlei Server hochgeladen. Ihre Mi Kontodetails werden ebenfalls hochgeladen, um zu prüfen, ob Sie ein aktives Abonnement für diesen Dienst haben."</string>
   <string name="privacy_tip_ok">OK</string>
   <string name="privacy_tip_title">Xunlei Accelerator verwenden?</string>
+  <string name="quit_btn">Beenden</string>
+  <string name="rebind_btn">Erneut hinzufügen</string>
   <string name="recommend_downloading">Lade herunter…</string>
   <string name="recommend_failed">Fehlgeschlagen</string>
   <string name="recommend_install">Installieren</string>
@@ -197,6 +199,8 @@
   <string name="third_web_filesize">Größe</string>
   <string name="third_web_savepath">Speicherort</string>
   <string name="third_web_title">Speichern</string>
+  <string name="title_tips">Vorsicht</string>
+  <string name="title_unbind_xunlei">Xunlei Konto entfernen</string>
   <string name="toast_xunlei_engine_open">Xunlei Download Accelerator eingeschaltet</string>
   <string name="turn_off_xunlei_message">Sie könnten langsamere Downloadgeschwindikeiten erfahren.</string>
   <string name="turn_off_xunlei_tips">Xunlei Download Acceleration ist ausgeschalten</string>
@@ -210,6 +214,8 @@
   <string name="vip_expire_today_show_info">Xunlei Mitgliedschaft abgelaufen.</string>
   <string name="vip_show_info">"5 Millionen Mitglieder.
 Beschleunige Downloads auf allen Ihren Geräten."</string>
+  <string name="xiaomi_account_not_exist_message">"Dieses Mi-Konto existiert nicht"</string>
+  <string name="xunlei_account_has_unbind_message">Xunlei Konto entfernt</string>
   <string name="xunlei_brand">Präsentiert von Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
   <string name="xunlei_close_tips_button">Einschalten</string>
