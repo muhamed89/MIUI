@@ -52,7 +52,6 @@ Enter the phone number associated with your new SIM card to reactivate %s"</stri
   <string name="activate_popup_title_manual">Aktiviere %s</string>
   <string name="activate_popup_title_new_sim_card">Reaktivieren %s</string>
   <string name="activate_popup_title_register_account">Erstelle Mi Account</string>
-  <string name="activate_sms_postfix">Diese SMS wird genutzt, um Ihr MI Gerät zu aktivieren.</string>
   <string name="activate_status_desc_acquire_phone_number">Telefonnummer vom Server abfragen</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Während der Abfrage der Telefonnummer ist ein Serverfehler aufgetreten</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">Telefonnummer konnte nicht abgerufen werden</string>
