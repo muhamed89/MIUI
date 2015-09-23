@@ -66,6 +66,7 @@
   <string name="compress_message">Komprimieren nach...</string>
   <string name="compress_title">Komprimieren</string>
   <string name="confirm">Bestätigen</string>
+  <string name="confirm_clean">Aufräumen</string>
   <string name="confirm_know">OK</string>
   <string name="connect_network_setting_des">Netzwerk merken</string>
   <string name="connection_error">"Kann nicht verbinden"</string>
@@ -80,8 +81,12 @@
   <string name="decompress_cancel">Abbrechen</string>
   <string name="decompress_confirm">Entpacken</string>
   <string name="decompress_destination_error">"Entpacken fehlgeschlagen: Dateien können hier nicht entpackt werden."</string>
+  <string name="decompress_encrypted_rar_not_supported">Verschlüsseltes rar Archiv wird nicht unterstützt.</string>
   <string name="decompress_fail">Entpacken fehlgeschlagen. Archiv defekt oder Datei bereits vorhanden.</string>
+  <string name="decompress_input_password">Bitte Kennwort eingeben…</string>
+  <string name="decompress_password_error">Falsches Kennwort. Bitte nochmals versuchen…</string>
   <string name="decompress_success">Entpacken abgeschlossen</string>
+  <string name="decompress_title">Entpacken</string>
   <string name="decompress_to">Entpacken nach...</string>
   <string name="decompress_to_here">Hier Entpacken</string>
   <string name="delete_dialog_button">Löschen</string>
@@ -380,6 +385,7 @@
   <string name="stay_awake_title">Bildschirm aktiv</string>
   <string name="stop_server">Stopp</string>
   <string name="storage_info">%1$s available</string>
+  <string name="storage_info_detail">Verfügbar:%1$s Gesamt:%1$s</string>
   <string name="storage_internal">Interner Speicher</string>
   <string name="storage_sd_card">SD-Karte</string>
   <string name="storage_usb">USB-Speicher</string>
@@ -394,9 +400,10 @@
   <string name="tab_source">APPS</string>
   <string name="tab_storage">STORAGE</string>
   <string name="terabyteShort">TB</string>
-  <string name="title_expire_video">About to expire</string>
-  <string name="title_more_source">More apps</string>
-  <string name="title_recent">Recent</string>
+  <string name="title_expire_video">Läuft ab</string>
+  <string name="title_more_source">Weitere Apps</string>
+  <string name="title_recent">Kürzlich</string>
+  <string name="title_select_volume">Lautstärke einstellen</string>
   <string name="toast_file_not_can_read">Keine App zum Öffnen der Datei gefunden.</string>
   <string name="tools">Tools</string>
   <string name="trans_task">Netzwerkübertragung</string>
