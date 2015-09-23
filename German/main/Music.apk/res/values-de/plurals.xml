@@ -34,7 +34,7 @@
     </plurals>
     <plurals name="Ngroups_count">
         <item quantity="other">%d Bands</item>
-        <item quantity="one">%d Band/item>
+        <item quantity="one">%d Band</item>
     </plurals>
     <plurals name="dialog_delete_descript">
         <item quantity="other">Lösche %d Lieder?</item>
