@@ -195,7 +195,7 @@ Kontaktkarten sind ausgeschaltet"</string>
   <string name="contact_detail_miprofile_privacy_settings">Zum Anzeigen ist eine Berechtigung erforderlich</string>
   <string name="contact_detail_miprofile_request">Kontaktkarten austauschen</string>
   <string name="contact_detail_miprofile_request_fail_toast">Anfrage konnte nicht gesendet werden</string>
-  <string name="contact_detail_miprofile_request_subtitle">Profilfoto und die Kontaktdetails automatisch aktualisieren</string>
+  <string name="contact_detail_miprofile_request_subtitle">Automatisch Infos dieses Kontakts aktualisieren</string>
   <string name="contact_detail_miprofile_request_success_toast">Anfrage gesendet</string>
   <string name="contact_detail_miprofile_save">Tippen, um Kontaktkarte abzurufen</string>
   <string name="contact_detail_miprofile_save_fail_toast">Kontaktkarte konnte nicht abgerufen werden</string>
@@ -248,7 +248,7 @@ Kontaktkarten sind ausgeschaltet"</string>
   <string name="default_ringtone">Standardklingelton</string>
   <string name="deleteConfirmation">Dieser Kontakt wird gelöscht.</string>
   <string name="deleteConfirmationDetail">\"%s\" löschen?</string>
-  <string name="deleteConfirmation_title">Löschen</string>
+  <string name="deleteConfirmation_title">Diesen Kontakt löschen?</string>
   <string name="delete_call_log_message">Anruflisten löschen?</string>
   <string name="delete_call_log_selected_title">Ausgewählte Anrufliste löschen?</string>
   <string name="delete_call_log_title">Anrufliste auswählen</string>
@@ -369,6 +369,7 @@ Kontaktkarten sind ausgeschaltet"</string>
   <string name="email_mobile">E-Mail (Mobil)</string>
   <string name="email_other">E-Mail</string>
   <string name="email_work">E-Mail (Geschäftlich)</string>
+  <string name="emergency_number_label">Notfall Nummer</string>
   <string name="emptyGroup">Keine Kontakte in dieser Gruppe</string>
   <string name="empty_divider_title"/>
   <string name="enter_contact_name">"Name der Person eingeben"</string>
@@ -448,7 +449,7 @@ Grund: \"%s\""</string>
   <string name="import_all_sim_entries_miui">Alle Kontakte importieren</string>
   <string name="import_all_vcard_string">Alle vCard-Dateien importieren</string>
   <string name="import_contact_card_button">Kontakt importieren</string>
-  <string name="import_failure_no_vcard_file">Keine vCard-Datei im Speicher gefunden.</string>
+  <string name="import_failure_no_vcard_file">Keine vCard-Dateien im Speicher gefunden.</string>
   <string name="import_from_other_phone">Von anderem Telefon importieren</string>
   <string name="import_from_sdcard">aus Speicher importieren</string>
   <string name="import_from_sim">Import from SIM card</string>
@@ -493,6 +494,7 @@ Grund: \"%s\""</string>
   <string name="in_call_show_long_press_to_record">Zum Aufnehmen Drücken &amp; Halten</string>
   <string name="in_call_show_pick_video">Video auswählen</string>
   <string name="in_call_show_preview">Vorschau</string>
+  <string name="in_call_show_preview_reshoot">Erneut versuchen</string>
   <string name="in_call_show_recording">Aufnahme…</string>
   <string name="in_call_show_reshoot">Wiederholen</string>
   <string name="in_call_show_save_completed">Profilvideo gespeichert</string>
@@ -607,6 +609,7 @@ Grund: \"%s\""</string>
   <string name="miprofile_bind_account_alertdialog_message">Sie müssen diese Telefonnummer zu Ihrem MiKonto hinzufügen, um diese Funktion nutzen zu können.</string>
   <string name="miprofile_bind_account_alertdialog_positive">Nummer hinzufügen</string>
   <string name="miprofile_bind_account_alertdialog_title">Telefonnummer hinzufügen</string>
+  <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
   <string name="miprofile_edit_title">Profil bearbeiten</string>
   <string name="miprofile_error_accept_self">Sie können Ihre eigene Kontaktkarte nicht austauschen</string>
   <string name="miprofile_error_no_miaccount">Bei Ihrem MiKonto anmelden</string>
@@ -620,7 +623,7 @@ Grund: \"%s\""</string>
   <string name="miprofile_request_agenda_yesterday">%1$s möchte die Kontaktenkarten austauschen</string>
   <string name="miprofile_request_agree">Annehmen</string>
   <string name="miprofile_request_agree_exchange_profile">Kontaktkarten ausgetauscht</string>
-  <string name="miprofile_request_agreed">%1$s hat dem Austausch der Kontaktkarten zugestimmt</string>
+  <string name="miprofile_request_agreed">%1$s hat dem Austausch der Kontaktkarte mit mir zugestimmt</string>
   <string name="miprofile_request_alertdialog_message">Your card will be sent automatically after this person accepts.</string>
   <string name="miprofile_request_alertdialog_title">Exchange contacts cards</string>
   <string name="miprofile_request_clear_alertdialog_message">Sie müssen diese Telefonnummer zu Ihrem MiKonto hinzufügen, um diese Funktion nutzen zu können.</string>
@@ -868,7 +871,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="quit_dialog_confirm_message">Sie haben noch keine Kontakte zusammengeführt</string>
   <string name="quit_dialog_confirm_title">Sie haben noch keine Kontakte zusammengeführt.</string>
   <string name="readOnlyContactDeleteConfirmation">Dieser Kontakt enthält Informationen von mehreren Konten. Informationen von schreibgeschützten Konten werden nicht gelöscht, sondern in ihren Kontaktlisten ausgeblendet.</string>
-  <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" enthält Informationen von mehreren Benutzerkonten. Informationen von sschreibgeschützten Konten werden nicht gelöscht, sondern in ihren Kontaktlisten ausgeblendet.</string>
+  <string name="readOnlyContactDeleteConfirmationDetail">"\"%s\" enthält Informationen von mehreren Benutzerkonten. Informationen, die nicht gelöscht werden können, werden von Ihrer Kontaktliste ausgeblendet."</string>
   <string name="readOnlyContactWarning">Sie können keine Kontakte von schreibgeschützten Konten löschen. Sie können sie jedoch in ihren Kontaktlisten ausblenden.</string>
   <string name="readingSimContacts">Lese SIM-Karte…</string>
   <string name="reading_vcard_canceled_title">Lesen der vCard-Daten abgebrochen</string>
@@ -931,7 +934,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="set_photo_failed_msg">Kontaktbild konnte nicht gesetzt werden.</string>
   <string name="share_error">Kontakt kann nicht geteilt werden</string>
   <string name="share_over_limit">"More than 1000, can't be shared"</string>
-  <string name="share_via">Senden</string>
+  <string name="share_via">Senden mittels</string>
   <string name="share_visible_contacts">Kontakte teilen</string>
   <string name="shortcutActivityTitle">Kontaktverknüpfung auswählen</string>
   <string name="shortcutContact">Kontakte</string>
