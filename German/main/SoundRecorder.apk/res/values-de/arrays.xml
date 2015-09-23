@@ -9,4 +9,18 @@
         <item>Sprache</item>
         <item>Interview</item>
     </string-array>
+    <string-array name="record_quality_entries">
+        <item>Hoch</item>
+        <item>Standard</item>
+        <item>Gering</item>
+    </string-array>
+    <string-array name="record_quality_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="record_quality_summaries">
+        <item>MP3, ~192kbit/s, ~90MB/h</item>
+        <item>MP3, ~100kbit/s, ~45MB/h</item>
+        <item>MP3, ~75kbit/s, ~32MB/h</item>
 </resources>
