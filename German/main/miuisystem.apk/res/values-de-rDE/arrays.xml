@@ -47,11 +47,22 @@
         <item>SOSHARE MOBILE</item>
         <item>Mi Mobile</item>
         <item>movistar</item>
+        <item>movistar</item>
+        <item>Claro</item>
+        <item>Tigo</item>
+        <item>Tigo</item>
+        <item>Avantel</item>
         <item>TELCEL</item>
         <item>movistar</item>
         <item>Iusacell</item>
-        <item>Iusacell</item>
+        <item>Unefon</item>
+        <item>Unefon</item>
+        <item>Unefon</item>
+        <item>Nextel</item>
+        <item>Nextel</item>
         <item>movistar</item>
+        <item>Claro</item>
+        <item>CNT</item>
         <item>Tigo</item>
         <item>Claro</item>
         <item>movistar</item>
@@ -120,19 +131,30 @@
         <item>46001</item>
         <item>46002</item>
         <item>46001</item>
+        <item>732001</item>
         <item>732123</item>
+        <item>732101</item>
+        <item>732103</item>
+        <item>732111</item>
+        <item>732130</item>
         <item>334020</item>
-        <item>33403</item>
-        <item>334040</item>
+        <item>334030</item>
         <item>334050</item>
+        <item>334040</item>
+        <item>334070</item>
+        <item>334080</item>
+        <item>334010</item>
+        <item>334090</item>
         <item>74000</item>
+        <item>74001</item>
+        <item>74002</item>
         <item>70402</item>
         <item>70401</item>
         <item>70403</item>
         <item>70603</item>
         <item>70601</item>
         <item>70604</item>
-        <item>70802</item>
+        <item>708002</item>
         <item>708001</item>
         <item>71021</item>
         <item>71073</item>
@@ -194,19 +216,30 @@
         <item>中麦通信</item>
         <item>分享通信</item>
         <item>小米移动</item>
+        <item>732001</item>
         <item>732123</item>
+        <item>732101</item>
+        <item>732103</item>
+        <item>732111</item>
+        <item>732130</item>
         <item>334020</item>
-        <item>33403</item>
-        <item>334040</item>
+        <item>334030</item>
         <item>334050</item>
+        <item>334040</item>
+        <item>334070</item>
+        <item>334080</item>
+        <item>334010</item>
+        <item>334090</item>
         <item>74000</item>
+        <item>74001</item>
+        <item>74002</item>
         <item>70402</item>
         <item>70401</item>
         <item>70403</item>
         <item>70603</item>
         <item>70601</item>
         <item>70604</item>
-        <item>70802</item>
+        <item>708002</item>
         <item>708001</item>
         <item>71021</item>
         <item>71073</item>
