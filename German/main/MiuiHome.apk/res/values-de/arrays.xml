@@ -33,14 +33,14 @@
         <item>1.0</item>
     </array>
     <string-array name="transformation_entries">
-        <item>Overslide</item>
-        <item>Slide</item>
-        <item>Crossfade</item>
-        <item>Tumble</item>
-        <item>Page</item>
-        <item>Cascade</item>
-        <item>Rotate</item>
-        <item>Cube</item>
+        <item>Normal</item>
+        <item>Schieben</item>
+        <item>Überblendung</item>
+        <item>Umfallen</item>
+        <item>Seite</item>
+        <item>Kaskada</item>
+        <item>Drehen</item>
+        <item>Würfel</item>
     </string-array>
     <string-array name="transformation_values">
         <item>0</item>
@@ -53,10 +53,16 @@
         <item>4</item>
     </string-array>
     <string-array name="wallpaper_scroll_entries">
-        <item>Theme default</item>
-        <item>Center</item>
-        <item>Left</item>
-        <item>Right</item>
+        <item>Theme (Standard)</item>
+        <item>Zentriert</item>
+        <item>Links</item>
+        <item>Rechts</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_values">
+        <item>Themen (Standard)</item>
+        <item>Zentriert</item>
+        <item>Links</item>
+        <item>Rechts</item>
     </string-array>
     <string-array name="cell_layout_size_entries">
         <item>4x4</item>
@@ -67,41 +73,41 @@
         <item>4x5</item>
     </string-array>
     <string-array name="gadget_weather_theme_type_entries">
-        <item>Default</item>
+        <item>Standard</item>
         <item>Classic</item>
     </string-array>
     <string-array name="gadget_weather_image">
-        <item>Clear</item>
-        <item>Cloudy</item>
-        <item>Hazy</item>
-        <item>Foggy</item>
-        <item>Severe rainstorm</item>
-        <item>Rainstorm</item>
-        <item>Very heavy rainfall</item>
-        <item>Thunderstorm</item>
-        <item>Shower</item>
-        <item>Heavy rainfall</item>
-        <item>Rain</item>
-        <item>Drizzle</item>
-        <item>Sleet</item>
-        <item>Snowstorm</item>
-        <item>Patches of snowfall</item>
-        <item>Heavy snowfall</item>
-        <item>Snowfall</item>
-        <item>Light snowfall</item>
-        <item>Strong sandstorm</item>
-        <item>Sandstorm</item>
-        <item>Light sandstorm</item>
-        <item>Sandstorm</item>
-        <item>Hail</item>
-        <item>Floating Dust</item>
-        <item>Haze</item>
+        <item>Klar</item>
+        <item>Bewölkt</item>
+        <item>Bedeckt</item>
+        <item>Nebel</item>
+        <item>Schweres Unwetter</item>
+        <item>Unwetter</item>
+        <item>Sehr starker Regen</item>
+        <item>Gewitter</item>
+        <item>Regenschauer</item>
+        <item>Starker Regen</item>
+        <item>Regen</item>
+        <item>Nieselregen</item>
+        <item>Schneeregen</item>
+        <item>Schneesturm</item>
+        <item>Schneeschauer</item>
+        <item>Starker Schneefall</item>
+        <item>Schneefall</item>
+        <item>Leichter Schneefall</item>
+        <item>Starker Sandsturm</item>
+        <item>Sandsturm</item>
+        <item>Leichter Sandsturm</item>
+        <item>Sandsturm</item>
+        <item>Hagel</item>
+        <item>Feinstaub</item>
+        <item>Dunst</item>
     </string-array>
     <string-array name="editing_mode_entries">
-        <item>Move apps</item>
+        <item>Aufräumen</item>
         <item>Widgets</item>
-        <item>Wallpaper</item>
-        <item>Effects</item>
+        <item>Hintergrund</item>
+        <item>Effekte</item>
     </string-array>
     <string-array name="editing_mode_values">
         <item>0</item>
