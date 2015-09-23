@@ -89,28 +89,28 @@
         <item>Z</item>
     </string-array>
     <string-array name="epg_week_tab">
-        <item>Sun.</item>
+        <item>Son.</item>
         <item>Mon.</item>
-        <item>Tue.</item>
-        <item>Wed.</item>
-        <item>Thur.</item>
-        <item>Fri.</item>
-        <item>Sat.</item>
+        <item>Die.</item>
+        <item>Mit.</item>
+        <item>Donn.</item>
+        <item>Frei.</item>
+        <item>Sam.</item>
     </string-array>
     <string-array name="ac_mode_array">
-        <item>Cooling</item>
-        <item>Heating</item>
-        <item>Dehumidifier</item>
-        <item>Fan</item>
+        <item>Kühlung</item>
+        <item>Heizung</item>
+        <item>Luftentfeuchter</item>
+        <item>Lüfter</item>
     </string-array>
     <string-array name="question">
-        <item>"Phone can't detect devices on Wi-Fi network?"</item>
-        <item>"Can't change modes or temp on A/C?"</item>
-        <item>Do Mi 3, Mi 2, and Redmi support infrared control for TV, A/C, and other devices?</item>
+        <item>"Das Handy kann keine Geräte im WLAN erkennen?"</item>
+        <item>"Kann Modi oder Temperatur von der Klimaanlage nicht ändern?"</item>
+        <item>Unterstützen Mi 3, Mi 2 und Redmi Infrarot-Steuerung für Fernseher, Klimaanlage und andere Geräte?</item>
     </string-array>
     <string-array name="answer">
-        <item>"You're device can only pair with Mi TV, Mi Box, and a handful of other Android devices using Wi-Fi."</item>
-        <item>"Make sure you've selected A/C in the pairing process. Follow the prompts on your device until the pairing process is complete."</item>
-        <item>Unfortunately, only Mi 4 supports infrared control at the moment.</item>
+        <item>"Dein Gerät kann sich nur mit Mi TV, Mi Box und einer Handvoll anderer Android-Geräte per WLAN verbinden."</item>
+        <item>"Achten Sie darauf während des Pairing-Prozesses A/C auszuwählen. Folgen Sie den Anweisungen auf dem Gerät, bis die Anmeldung abgeschlossen ist."</item>
+        <item>Leider unterstützt im Moment nur Mi 4 Infrarotsteuerung.</item>
     </string-array>
 </resources>
