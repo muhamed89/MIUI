@@ -919,9 +919,6 @@
   <string name="picker_no_album_selected">Keine Alben ausgewählt</string>
   <string name="picker_no_items_selected">Nichts ausgewählt</string>
   <string name="picker_select_album_title_empty">Album auswählen</string>
-  <string name="picker_tab_cloud">@string/home_page_tab_cloud</string>
-  <string name="picker_tab_face">@string/home_page_tab_face</string>
-  <string name="picker_tab_local">@string/home_page_tab_local</string>
   <string name="picker_tab_photo">Photo</string>
   <string name="pocket_camera_picture">Pocket Kamera Fotos</string>
   <string name="pocket_camera_video">Pocket Kamera Videos</string>
