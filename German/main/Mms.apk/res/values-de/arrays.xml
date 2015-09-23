@@ -144,9 +144,4 @@
         <item>Only when silent</item>
         <item>Never</item>
     </string-array>
-    <string-array name="prefValues_vibrateWhen">
-        <item>always</item>
-        <item>silent</item>
-        <item>never</item>
-    </string-array>
 </resources>
