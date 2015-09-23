@@ -143,6 +143,7 @@ Bitte Ladegerät benutzen."</string>
   <string name="notification_otg_trackball_out">Trackball nicht verbunden</string>
   <string name="notification_otg_unknow_in">OTG-Gerät verbunden</string>
   <string name="notification_otg_unknow_out">OTG-Gerät nicht verbunden</string>
+  <string name="notification_template_text">Neue Benachrichtigung. Zum Anschauen antippen.</string>
   <string name="reject_call">Anruf ablehnen</string>
   <string name="return_to_incall_screen">Zurück zum Anruf</string>
   <string name="screen_button_disabled_message">Navigationstasten ausgeschaltet. Zum Einschalten \"Home\" und \"Power\" Taste drücken</string>
