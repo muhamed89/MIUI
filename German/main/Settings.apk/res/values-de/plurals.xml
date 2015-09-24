@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="show_dev_countdown">
-        <item quantity="other">You are now %1$d steps away from being a developer.</item>
-        <item quantity="one">You are now %1$d step away from being a developer.</item>
+        <item quantity="other">In %1$d Schritten sind Sie ein Entwickler.</item>
+        <item quantity="one">In %1$d Schritt sind Sie ein Entwickler.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">Password must contain at least %d letters.</item>
-        <item quantity="one">Password must contain at least 1 letter.</item>
+        <item quantity="other">Das Passwort muss mindestens %d Buchstaben enthalten.</item>
+        <item quantity="one">Das Passwort muss mindestens einen Buchstaben enthalten.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">Password must contain at least %d lowercase letters.</item>
-        <item quantity="one">Password must contain at least 1 lowercase letter.</item>
+        <item quantity="other">Das Passwort muss mindestens %d Kleinbuchstaben enthalten.</item>
+        <item quantity="one">Das Passwort muss mindestens einen Kleinbuchstaben enthalten.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">Password must contain at least %d uppercase letters.</item>
-        <item quantity="one">Password must contain at least 1 uppercase letter.</item>
+        <item quantity="other">Das Passwort muss mindestens %d Großbuchstaben enthalten.</item>
+        <item quantity="one">Das Passwort muss mindestens einen Großbuchstaben enthalten.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">Password must contain at least %d numerical digits.</item>
-        <item quantity="one">Password must contain at least 1 numerical digit.</item>
+        <item quantity="other">Das Passwort muss mindestens %d Ziffern enthalten.</item>
+        <item quantity="one">Das Passwort muss mindestens eine Ziffer enthalten.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">Password must contain at least %d special symbols.</item>
-        <item quantity="one">Password must contain at least 1 special symbol.</item>
+        <item quantity="other">Das Passwort muss mindestens %d Sonderzeichen enthalten.</item>
+        <item quantity="one">Das Passwort muss mindestens ein Sonderzeichen enthalten.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Password must contain at least %d non-letter characters.</item>
-        <item quantity="one">Password must contain at least 1 non-letter character.</item>
+        <item quantity="other">Das Passwort muss mindestens %d Zeichen enthalten, die keine Buchstaben sind.</item>
+        <item quantity="one">Das Passwort muss mindestens ein Zeichen enthalten, das kein Buchstabe ist.</item>
     </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
-        <item quantity="other">%d apps can read notifications</item>
-        <item quantity="one">%d app can read notifications</item>
+        <item quantity="other">%d Apps können Benachrichtigungen lesen</item>
+        <item quantity="one">%d App kann Benachrichtigungen lesen</item>
     </plurals>
     <plurals name="wrong_pin_code">
-        <item quantity="other">Incorrect SIM PIN code, you have %d remaining attempts.</item>
-        <item quantity="one">Incorrect SIM PIN code, you have %d remaining attempt before you must contact your carrier to unlock your device.</item>
+        <item quantity="other">Falscher PIN-Code. Sie haben noch %d Versuche.</item>
+        <item quantity="one">Falscher PIN-Code. Sie haben noch %d Versuch, bevor Sie das Gerät von Ihrem Mobilfunkanbieter entsperren lassen müssen.</item>
     </plurals>
     <plurals name="print_search_result_count_utterance">
-        <item quantity="other">%1$s printers found</item>
-        <item quantity="one">%1$s printer found</item>
+        <item quantity="other">%1$s Drucker gefunden</item>
+        <item quantity="one">%1$s Drucker gefunden</item>
     </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">"You're %1$d steps away from entering phone info."</item>
-        <item quantity="one">"You're %1$d step away from entering phone info."</item>
+        <item quantity="other">Sie sind %1$d Schritte von den Telefoninformationen entfernt.</item>
+        <item quantity="one">Sie sind %1$d Schritt von den Telefoninformationen entfernt.</item>
     </plurals>
     <plurals name="show_cit_countdown">
-        <item quantity="other">"You're %1$d steps away from entering CIT."</item>
-        <item quantity="one">"You're %1$d step away from entering CIT."</item>
+        <item quantity="other">Sie sind %1$d Schritte vom CIT entfernt.</item>
+        <item quantity="one">Sie sind %1$d Schritt vom CIT entfernt.</item>
     </plurals>
     <plurals name="show_rep_countdown">
-        <item quantity="other">"You're %1$d steps away from reporting bug."</item>
-        <item quantity="one">"You're %1$d step away from reporting bug."</item>
+        <item quantity="other">Sie sind %1$d Schritte von den Fehlerberichten entfernt.</item>
+        <item quantity="one">Sie sind %1$d Schritt von den Fehlerberichten entfernt.</item>
     </plurals>
 </resources>
