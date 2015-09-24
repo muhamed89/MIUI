@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accept_modify_call_request_prompt">Modifizierten Anruf annehmen?</string>
-  <string name="add_vm_number_str">Add number</string>
-  <string name="antispam_marked_count">Reported by %1$d MIUI users</string>
+  <string name="add_vm_number_str">Nummer hinzufügen</string>
+  <string name="antispam_marked_count">Gemeldet von %1$d MIUI users</string>
   <string name="antispam_marked_title">%1$s</string>
-  <string name="antispam_notification_title">Unknown number</string>
-  <string name="antispam_provider">Identified by %s</string>
+  <string name="antispam_notification_title">Unbekannte Nummer</string>
+  <string name="antispam_provider">Identifiziert von %s</string>
   <string name="callFailed_cb_enabled">"You can't make outgoing calls while call barring is on."</string>
   <string name="callFailed_congestion">Netzwerk ausgelastet</string>
   <string name="callFailed_dialToDial">DIAL-Anfrage modifiziert, um DIAL mit einer anderen Nummer zu nutzen.</string>
@@ -40,15 +40,15 @@
   <string name="call_recording_error_sd_unmounted">Aufnahme gestoppt: SD-Karte nicht eingebunden</string>
   <string name="call_recording_error_start_failed">Rekorder wird von einer anderen App benutzt</string>
   <string name="call_recording_error_unknown">Ein unbekannter Fehler ist aufgetreten</string>
-  <string name="call_recording_notification_message">Touch to listen.</string>
-  <string name="call_recording_notification_message_low_storage">SD card is full.</string>
-  <string name="call_recording_notification_message_sd_unmounted">SD card has been removed.</string>
-  <string name="call_recording_notification_title">Call recorded</string>
-  <string name="call_recording_notification_title_error">"Couldn't record call"</string>
+  <string name="call_recording_notification_message">Touch zum anhören.</string>
+  <string name="call_recording_notification_message_low_storage">SD Karte ist voll.</string>
+  <string name="call_recording_notification_message_sd_unmounted">SD Karte wurde entfernt.</string>
+  <string name="call_recording_notification_title">Anruf aufgezeichnet</string>
+  <string name="call_recording_notification_title_error">"Anruf kann nicht aufgezeichnet werden"</string>
   <string name="call_title_redialing_with_times">Redialed %d times</string>
-  <string name="caller_manage_header">Conference call %s</string>
-  <string name="calling_via_template">Calling via %s</string>
-  <string name="cancel">Cancel</string>
+  <string name="caller_manage_header">Konferenzanruf %s</string>
+  <string name="calling_via_template">Anruf über %s</string>
+  <string name="cancel">Abbrechen</string>
   <string name="card_title_call_ended">Anruf beendet</string>
   <string name="card_title_conf_call">Telefonkonferenz</string>
   <string name="card_title_dialing">Rufaufbau</string>
@@ -59,17 +59,17 @@
   <string name="card_title_on_hold">Gehaltener Anruf</string>
   <string name="card_title_threeway_call">Three-way call</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. total %s</string>
-  <string name="conference_call_number">%s people</string>
-  <string name="contactPhoto">contact photo</string>
-  <string name="contacts_icon_label">Contacts</string>
-  <string name="description_image_button_answer">Swipe up to answer</string>
-  <string name="description_image_button_dialpad">Dialpad</string>
+  <string name="conference_call_number">%s Leute</string>
+  <string name="contactPhoto">Kontakt Foto</string>
+  <string name="contacts_icon_label">Kontakte</string>
+  <string name="description_image_button_answer">Wischen zum antworten</string>
+  <string name="description_image_button_dialpad">Tastenfeld</string>
   <string name="description_image_button_eight">Acht</string>
   <string name="description_image_button_five">Fünf</string>
   <string name="description_image_button_four">Vier</string>
   <string name="description_image_button_hangup">Ende</string>
-  <string name="description_image_button_message_enter">Swipe up to reply with message</string>
-  <string name="description_image_button_message_exit">Hide messages</string>
+  <string name="description_image_button_message_enter">Wische um mit Nachricht zu antworten</string>
+  <string name="description_image_button_message_exit">Verberge Nachricht</string>
   <string name="description_image_button_nine">Neun</string>
   <string name="description_image_button_one">Eins</string>
   <string name="description_image_button_pound">Raute</string>
@@ -127,8 +127,8 @@
   <string name="notification_action_answer_video">Video</string>
   <string name="notification_action_answer_voice">Sprache</string>
   <string name="notification_action_dismiss">Dismiss</string>
-  <string name="notification_action_end_call">Hang up</string>
-  <string name="notification_dialing">Dialing</string>
+  <string name="notification_action_end_call">Auflegen</string>
+  <string name="notification_dialing">Wähle</string>
   <string name="notification_incoming_call">Ankommender Anruf</string>
   <string name="notification_on_hold">Halten</string>
   <string name="notification_ongoing_call">Ongoing call</string>
