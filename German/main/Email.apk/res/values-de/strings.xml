@@ -287,7 +287,7 @@
   <string name="default_imap">IMAP</string>
   <string name="default_pop3">POP3</string>
   <string name="default_setup">STANDARTEINSTELLUNGEN</string>
-  <string name="default_signature">GEsendet vonmeinem Mi Telefon</string>
+  <string name="default_signature">Gesendet von meinem Mi Telefon</string>
   <string name="delete">Lösche</string>
   <string name="deleted">Gelöscht</string>
   <string name="device_activity_btn_str">Aktiviere</string>
