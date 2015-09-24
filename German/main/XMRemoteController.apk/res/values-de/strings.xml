@@ -439,7 +439,7 @@ Um Ihr Konto zu aktivieren, folgen Sie den
   <string name="power">Power</string>
   <string name="press_to_continue_match">Für weiteres antippen</string>
   <string name="press_to_match">Zum Verbinden antippen</string>
-  <string name="privacy_content">"Wenn Sie dieses Gerät benutzen, stimmen Sie unserer "&lt;u&gt;Datenschutzerklärung&lt;/u&gt; und &lt;u&gt;Nutzervereinbarung&lt;/u&gt; zu. Mi Remote benötigt eine Internetverbindung, um normal zu funktionieren.</string>
+  <string name="privacy_content">"Wenn Sie dieses Gerät benutzen, stimmen Sie unserer Datenschutzerklärung und Nutzervereinbarung zu. Mi Remote benötigt eine Internetverbindung, um normal zu funktionieren.</string>
   <string name="privacy_nohit">"Nicht nochmal anzeigen"</string>
   <string name="privacy_title">Geschäftsbedingungen</string>
   <string name="projection_failed_for_disconnect">Nicht verbunden</string>
