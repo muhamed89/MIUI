@@ -9,12 +9,6 @@
         <item>Pacifik</item>
         <item>Alle</item>
     </string-array>
-    <string-array name="date_format_values">
-        <item></item>
-        <item>MM-dd-yyyy</item>
-        <item>dd-MM-yyyy</item>
-        <item>yyyy-MM-dd</item>
-    </string-array>
     <string-array name="screen_timeout_entries">
         <item>15 Sekunden</item>
         <item>30 Sekunden</item>
@@ -23,15 +17,6 @@
         <item>5 Minuten</item>
         <item>10 Minuten</item>
         <item>Nie</item>
-    </string-array>
-    <string-array name="screen_timeout_values">
-        <item>15000</item>
-        <item>30000</item>
-        <item>60000</item>
-        <item>120000</item>
-        <item>300000</item>
-        <item>600000</item>
-        <item>2147483647</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Never</item>
@@ -42,16 +27,6 @@
         <item>5 Minuten</item>
         <item>10 Minuten</item>
         <item>30 Minuten</item>
-    </string-array>
-    <string-array name="dream_timeout_values">
-        <item>0</item>
-        <item>15000</item>
-        <item>30000</item>
-        <item>60000</item>
-        <item>120000</item>
-        <item>300000</item>
-        <item>600000</item>
-        <item>1800000</item>
     </string-array>
     <string-array name="lock_after_timeout_entries">
         <item>Sofort</item>
@@ -64,17 +39,6 @@
         <item>10 Minuten</item>
         <item>30 Minuten</item>
     </string-array>
-    <string-array name="lock_after_timeout_values">
-        <item>0</item>
-        <item>5000</item>
-        <item>15000</item>
-        <item>30000</item>
-        <item>60000</item>
-        <item>120000</item>
-        <item>300000</item>
-        <item>600000</item>
-        <item>1800000</item>
-    </string-array>
     <string-array name="entries_font_size">
         <item>S</item>
         <item>M</item>
@@ -82,66 +46,6 @@
         <item>XL</item>
         <item>XXL</item>
         <item>XXXL</item>
-    </string-array>
-    <string-array name="entryvalues_font_size">
-        <item>klein</item>
-        <item>normal</item>
-        <item>mittel</item>
-        <item>groß</item>
-        <item>riesig</item>
-        <item>godzilla</item>
-    </string-array>
-    <string-array name="tts_rate_entries">
-        <item>Sehr langsam</item>
-        <item>Langsam</item>
-        <item>Normal</item>
-        <item>Schnell</item>
-        <item>Schneller</item>
-        <item>Sehr schnell</item>
-        <item>Rapide</item>
-        <item>Sehr rapide</item>
-        <item>Am schnellsten</item>
-    </string-array>
-    <string-array name="tts_rate_values">
-        <item>60</item>
-        <item>80</item>
-        <item>100</item>
-        <item>150</item>
-        <item>200</item>
-        <item>250</item>
-        <item>300</item>
-        <item>350</item>
-        <item>400</item>
-    </string-array>
-    <string-array name="tts_pitch_entries">
-        <item>Sehr niedrig</item>
-        <item>Niedrig</item>
-        <item>Normal</item>
-        <item>Hoch</item>
-        <item>Sehr hoch</item>
-    </string-array>
-    <string-array name="tts_pitch_values">
-        <item>50</item>
-        <item>80</item>
-        <item>100</item>
-        <item>120</item>
-        <item>150</item>
-    </string-array>
-    <string-array name="tts_demo_strings">
-        <item>This is an example of speech synthesis in English.</item>
-        <item>Voici un échantillon de synthèse vocale en français.</item>
-        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
-        <item>Questo è un esempio di sintesi vocale in italiano.</item>
-        <item>Este es un ejemplo de síntesis de voz en español.</item>
-        <item>이것은 한국어 음성 합성의 예입니다.</item>
-    </string-array>
-    <string-array name="tts_demo_string_langs">
-        <item>eng</item>
-        <item>fra</item>
-        <item>deu</item>
-        <item>ita</item>
-        <item>spa</item>
-        <item>kor</item>
     </string-array>
     <string-array name="wifi_status">
         <item></item>
@@ -170,17 +74,6 @@
         <item>Erfolglos</item>
         <item>Blockiert</item>
         <item>Vorübergehend schlechte Verbindung meiden</item>
-    </string-array>
-    <string-array name="wifi_ap_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wpa</item>
-        <item>@string/wifi_security_wpa2</item>
-    </string-array>
-    <string-array name="wifi_eap_method">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Knopf drücken</item>
@@ -216,20 +109,10 @@
         <item>Nur wenn es eingestöpselt ist</item>
         <item>Nie</item>
     </string-array>
-    <string-array name="wifi_sleep_policy_values">
-        <item>2</item>
-        <item>1</item>
-        <item>0</item>
-    </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Auto</item>
         <item>nur 5 GHz</item>
         <item>nur 2.4 GHz</item>
-    </string-array>
-    <string-array name="wifi_frequency_band_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Nutzungszeit</item>
@@ -267,30 +150,11 @@
         <item>Warnton</item>
         <item>Vibrieren</item>
     </string-array>
-    <string-array name="emergency_tone_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="special_locale_codes">
-        <item>zh_CN</item>
-        <item>zh_TW</item>
-    </string-array>
-    <string-array name="special_locale_names">
-        <item>中文 (简体)</item>
-        <item>中文 (繁體)</item>
-    </string-array>
     <string-array name="apn_auth_entries">
         <item>Nichts</item>
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP or CHAP</item>
-    </string-array>
-    <string-array name="apn_auth_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
     </string-array>
     <string-array name="apn_protocol_entries">
         <item>IPv4</item>
@@ -307,22 +171,11 @@
         <item>eHRPD</item>
         <item>Keine Angabe</item>
     </string-array>
-    <string-array name="bearer_values">
-        <item>14</item>
-        <item>13</item>
-        <item>0</item>
-    </string-array>
     <string-array name="mvno_type_entries">
         <item>Nichts</item>
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
-    </string-array>
-    <string-array name="mvno_type_values">
-        <item></item>
-        <item>spn</item>
-        <item>imsi</item>
-        <item>gid</item>
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Interner Gerätespeicher</item>
@@ -431,24 +284,12 @@
         <item>Mittel</item>
         <item>Lang</item>
     </string-array>
-    <string-array name="long_press_timeout_selector_values">
-        <item>500</item>
-        <item>1000</item>
-        <item>1500</item>
-    </string-array>
     <string-array name="captioning_typeface_selector_titles">
         <item>Standard</item>
         <item>Sans-serif</item>
         <item>Sans-serif condensed</item>
         <item>Serif</item>
         <item>Monospace</item>
-    </string-array>
-    <string-array name="captioning_typeface_selector_values">
-        <item></item>
-        <item>sans-serif</item>
-        <item>sans-serif-condensed</item>
-        <item>serif</item>
-        <item>monospace</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Sehr klein</item>
@@ -457,101 +298,11 @@
         <item>Groß</item>
         <item>Sehr groß</item>
     </string-array>
-    <string-array name="captioning_font_size_selector_values">
-        <item>0.25</item>
-        <item>0.5</item>
-        <item>1.0</item>
-        <item>1.5</item>
-        <item>2.0</item>
-    </string-array>
     <string-array name="captioning_edge_type_selector_titles">
         <item>Nichts</item>
         <item>Umrisslinie</item>
         <item>Schatten werfen</item>
     </string-array>
-    <integer-array name="captioning_edge_type_selector_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
-    <integer-array name="captioning_color_selector_values">
-        <item>0xffffffff</item>
-        <item>0xff000000</item>
-        <item>0xffff0000</item>
-        <item>0xffffff00</item>
-        <item>0xff00ff00</item>
-        <item>0xff00ffff</item>
-        <item>0xff0000ff</item>
-        <item>0xffff00ff</item>
-        <item>0xff000055</item>
-        <item>0xff0000aa</item>
-        <item>0xff005500</item>
-        <item>0xff005555</item>
-        <item>0xff0055aa</item>
-        <item>0xff0055ff</item>
-        <item>0xff00aa00</item>
-        <item>0xff00aa55</item>
-        <item>0xff00aaaa</item>
-        <item>0xff00aaff</item>
-        <item>0xff00ff55</item>
-        <item>0xff00ffaa</item>
-        <item>0xff550000</item>
-        <item>0xff550055</item>
-        <item>0xff5500aa</item>
-        <item>0xff5500ff</item>
-        <item>0xff555500</item>
-        <item>0xff555555</item>
-        <item>0xff5555aa</item>
-        <item>0xff5555ff</item>
-        <item>0xff55aa00</item>
-        <item>0xff55aa55</item>
-        <item>0xff55aaaa</item>
-        <item>0xff55aaff</item>
-        <item>0xff55ff00</item>
-        <item>0xff55ff55</item>
-        <item>0xff55ffaa</item>
-        <item>0xff55ffff</item>
-        <item>0xffaa0000</item>
-        <item>0xffaa0055</item>
-        <item>0xffaa00aa</item>
-        <item>0xffaa00ff</item>
-        <item>0xffaa5500</item>
-        <item>0xffaa5555</item>
-        <item>0xffaa55aa</item>
-        <item>0xffaa55ff</item>
-        <item>0xffaaaa00</item>
-        <item>0xffaaaa55</item>
-        <item>0xffaaaaaa</item>
-        <item>0xffaaaaff</item>
-        <item>0xffaaff00</item>
-        <item>0xffaaff55</item>
-        <item>0xffaaffaa</item>
-        <item>0xffaaffff</item>
-        <item>0xffff0055</item>
-        <item>0xffff00aa</item>
-        <item>0xffff5500</item>
-        <item>0xffff5555</item>
-        <item>0xffff55aa</item>
-        <item>0xffff55ff</item>
-        <item>0xffffaa00</item>
-        <item>0xffffaa55</item>
-        <item>0xffffaaaa</item>
-        <item>0xffffaaff</item>
-        <item>0xffffff55</item>
-        <item>0xffffffaa</item>
-    </integer-array>
-    <string-array name="captioning_opacity_selector_titles">
-        <item>25%</item>
-        <item>50%</item>
-        <item>75%</item>
-        <item>100%</item>
-    </string-array>
-    <integer-array name="captioning_opacity_selector_values">
-        <item>0x40ffffff</item>
-        <item>0x80ffffff</item>
-        <item>0xc0ffffff</item>
-        <item>0xffffffff</item>
-    </integer-array>
     <string-array name="captioning_preset_selector_titles">
         <item>Weiss auf Schwarz</item>
         <item>Schwarz auf Weiss</item>
@@ -559,22 +310,10 @@
         <item>Gelb auf Blau</item>
         <item>Benutzerdefiniert</item>
     </string-array>
-    <integer-array name="captioning_preset_selector_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>-1</item>
-    </integer-array>
     <string-array name="select_runtime_titles">
         <item>Dalvik</item>
         <item>ART</item>
         <item>ART (debug)</item>
-    </string-array>
-    <string-array name="select_runtime_values">
-        <item>libdvm.so</item>
-        <item>libart.so</item>
-        <item>libartd.so</item>
     </string-array>
     <string-array name="select_runtime_summaries">
         <item>Dalvik benutzen</item>
@@ -600,15 +339,6 @@
         <item>Animations-Maßstab 5x</item>
         <item>Animations-Maßstab 10x</item>
     </string-array>
-    <string-array name="window_animation_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
-    </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animation aus</item>
         <item>Animations-Maßstab .5x</item>
@@ -617,15 +347,6 @@
         <item>Animations-Maßstab 2x</item>
         <item>Animations-Maßstab 5x</item>
         <item>Animations-Maßstab 10x</item>
-    </string-array>
-    <string-array name="transition_animation_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Animation off</item>
@@ -636,46 +357,11 @@
         <item>Animations-Maßstab 5x</item>
         <item>Animations-Maßstab 10x</item>
     </string-array>
-    <string-array name="animator_duration_scale_values">
-        <item>0</item>
-        <item>.5</item>
-        <item>1</item>
-        <item>1.5</item>
-        <item>2</item>
-        <item>5</item>
-        <item>10</item>
-    </string-array>
-    <string-array name="overlay_display_devices_entries">
-        <item>Nichts</item>
-        <item>720x480 mdpi</item>
-        <item>720x480 mdpi (secure)</item>
-        <item>1280x720 tvdpi</item>
-        <item>1280x720 tvdpi (secure)</item>
-        <item>1920x1080 xhdpi</item>
-        <item>1920x1080 xhdpi (secure)</item>
-        <item>1280x720 tvdpi und 1920x1080 xhdpi</item>
-    </string-array>
-    <string-array name="overlay_display_devices_values">
-        <item></item>
-        <item>720x480/160</item>
-        <item>720x480/160,secure</item>
-        <item>1280x720/213</item>
-        <item>1280x720/213,secure</item>
-        <item>1920x1080/320</item>
-        <item>1920x1080/320,secure</item>
-        <item>1280x720/213;1920x1080/320</item>
-    </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Nichts</item>
         <item>Logcat</item>
         <item>Systrace (Graphics)</item>
         <item>Call stack on glGetError</item>
-    </string-array>
-    <string-array name="enable_opengl_traces_values">
-        <item>0</item>
-        <item>1</item>
-        <item>systrace</item>
-        <item>Fehler</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Off</item>
@@ -694,12 +380,6 @@
         <item>Zeige Bereiche für Deuteranomalie</item>
         <item>Zeige Überzeichnungszähler</item>
     </string-array>
-    <string-array name="debug_hw_overdraw_values">
-        <item>falsch</item>
-        <item>zeigen</item>
-        <item>show_deuteranomaly</item>
-        <item>zählen</item>
-    </string-array>
     <string-array name="app_process_limit_entries">
         <item>Standard Limit</item>
         <item>Keine Hintergrundprozesse</item>
@@ -707,14 +387,6 @@
         <item>Höchstens 2 Prozesse</item>
         <item>Höchstens 3 Prozesse</item>
         <item>Höchstens 4 Prozesse</item>
-    </string-array>
-    <string-array name="app_process_limit_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
     </string-array>
     <string-array name="vpn_types">
         <item>PPTP</item>
@@ -747,18 +419,6 @@
         <item>Schimpanse</item>
         <item>Affe</item>
     </string-array>
-    <string-array name="user_content_ratings_values">
-        <item>5</item>
-        <item>4</item>
-        <item>3</item>
-        <item>2</item>
-        <item>1</item>
-    </string-array>
-    <string-array name="security_settings_premium_sms_values">
-        <item>Fragen</item>
-        <item>Nie erlauben</item>
-        <item>Immer erlauben</item>
-    </string-array>
     <string-array name="ram_states">
         <item>normal</item>
         <item>gemäßigt</item>
@@ -770,40 +430,20 @@
         <item>Mittel</item>
         <item>Leicht</item>
     </string-array>
-    <string-array name="haptic_feedback_level_values">
-        <item>2</item>
-        <item>1</item>
-        <item>0</item>
-    </string-array>
     <string-array name="media_feedback_level_entries">
         <item>Stark</item>
         <item>Mittel</item>
         <item>Leicht</item>
-    </string-array>
-    <string-array name="media_feedback_level_values">
-        <item>15</item>
-        <item>7</item>
-        <item>0</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Graphisch</item>
         <item>Prozent</item>
         <item>Oberbalken</item>
     </string-array>
-    <string-array name="battery_indicator_style_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="usb_connection_mode_entries">
         <item>Beim Verbinden fragen</item>
         <item>nur aufladen</item>
         <item>SD Karte anbringen</item>
-    </string-array>
-    <string-array name="usb_connection_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="led_freq_entries">
         <item>2 Sekunden</item>
@@ -815,25 +455,6 @@
         <item>8 Sekunden</item>
         <item>9 Sekunden</item>
     </string-array>
-    <string-array name="led_freq_values">
-        <item>2000</item>
-        <item>3000</item>
-        <item>4000</item>
-        <item>5000</item>
-        <item>6000</item>
-        <item>7000</item>
-        <item>8000</item>
-        <item>9000</item>
-    </string-array>
-    <string-array name="led_color_values">
-        <item>blau</item>
-        <item>rot</item>
-        <item>gelb</item>
-        <item>grün</item>
-        <item>türkis</item>
-        <item>weiss</item>
-        <item>\#FFAA00AA</item>
-    </string-array>
     <string-array name="led_color_entries">
         <item>Blau</item>
         <item>Rot</item>
@@ -843,14 +464,6 @@
         <item>Weiss</item>
         <item>Lila</item>
     </string-array>
-    <string-array name="mi1_led_color_values">
-        <item>blau</item>
-        <item>rot</item>
-        <item>grün</item>
-        <item>\#FFFF0033</item>
-        <item>\#FF5500FF</item>
-        <item>\#FFAA00AA</item>
-    </string-array>
     <string-array name="mi1_led_color_entries">
         <item>Blau</item>
         <item>Rot</item>
@@ -859,38 +472,12 @@
         <item>Violet</item>
         <item>Lila</item>
     </string-array>
-    <string-array name="pink_panel_led_color_values">
-        <item>blau</item>
-        <item>rot</item>
-        <item>gelb</item>
-        <item>grün</item>
-        <item>\#FFAA00AA</item>
-    </string-array>
     <string-array name="pink_panel_led_color_entries">
         <item>Fliederfarben</item>
         <item>Rubinrot</item>
         <item>Orange</item>
         <item>Grün</item>
         <item>Magenta</item>
-    </string-array>
-    <string-array name="wifi_security_only_wapi_cert_entries">
-        <item>WAPI CERT</item>
-    </string-array>
-    <string-array name="wifi_wapi_key_type">
-        <item>WAPI ASCII</item>
-        <item>WAPI hexadezimal</item>
-    </string-array>
-    <string-array name="wifi_eap_method_add_sim">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-        <item>SIM</item>
-        <item>AKA</item>
-    </string-array>
-    <string-array name="wifi_eap_method_add_sim_for_cmcc">
-        <item>PEAP</item>
-        <item>SIM</item>
     </string-array>
     <string-array name="screen_key_press_action">
         <item>Zeige kürzliches Apps-Fach</item>
@@ -910,12 +497,6 @@
         <item>1.5 Sekunden</item>
         <item>2 Sekunden</item>
     </string-array>
-    <string-array name="screen_key_long_press_timeout_value">
-        <item>500</item>
-        <item>1000</item>
-        <item>1500</item>
-        <item>2000</item>
-    </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 Sekunde</item>
         <item>2 Sekunden</item>
@@ -923,44 +504,6 @@
         <item>10 Sekunden</item>
         <item>20 Sekunden</item>
         <item>Immer an</item>
-    </string-array>
-    <string-array name="button_light_timeout_value">
-        <item>1000</item>
-        <item>2000</item>
-        <item>5000</item>
-        <item>10000</item>
-        <item>20000</item>
-        <item>-1</item>
-    </string-array>
-    <integer-array name="font_size_preference_preview_size">
-        <item>14</item>
-        <item>18</item>
-        <item>22</item>
-        <item>27</item>
-    </integer-array>
-    <string-array name="dolby_bassboost_rank_valus">
-        <item>0</item>
-        <item>3</item>
-        <item>6</item>
-    </string-array>
-    <string-array name="dolby_roomsize_rank_valus">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="dolby_equalizer_preset_values">
-        <item>0,0,0,0,0,0,0</item>
-        <item>16,8,0,-8,0,8,16</item>
-        <item>0,0,-4,-8,-8,-4,0</item>
-        <item>-8,-20,4,12,8,8,8</item>
-        <item>4,0,0,-8,-4,0,0</item>
-        <item>16,4,-4,-4,4,4,4</item>
-        <item>16,-4,0,-8,0,-4,-4</item>
-        <item>4,0,-4,-8,0,4,8</item>
-        <item>16,4,-8,-4,-8,-4,0</item>
-        <item>0,-4,-4,-4,-8,-4,-8</item>
-        <item>16,12,-24,-24,-16,12,16</item>
-        <item>24,14,-20,6,12,16,8</item>
     </string-array>
     <string-array name="wfd_status">
         <item>Beginne mit der Sitzung…</item>
@@ -1024,39 +567,18 @@ Note: Nur für Ubuntu 8.04!"</item>
         <item>"Erhöhen Sie den Bildschirmkontrast"</item>
         <item>Kontrast wird konstant bleiben</item>
     </string-array>
-    <string-array name="perms_hips_values">
-        <item>2</item>
-        <item>1</item>
-        <item>0</item>
-    </string-array>
     <string-array name="perm_hips_action">
         <item>Erlauben</item>
         <item>Fragen</item>
         <item>Verbieten</item>
     </string-array>
-    <string-array name="startup_hips_values">
-        <item>2</item>
-        <item>0</item>
-    </string-array>
     <string-array name="startup_hips_action">
         <item>Erlauben</item>
         <item>Verbieten</item>
     </string-array>
-    <string-array name="entries_color_calibration">
-        <item>sRGB</item>
-        <item>Nativ</item>
-    </string-array>
-    <string-array name="values_color_calibration">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="phone_call_noise_suppression_title">
         <item>Single-mic Geräuschunterdrückung</item>
         <item>Dual-mic Geräuschunterdrückung</item>
-    </string-array>
-    <string-array name="phone_call_noise_suppression_values">
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>Gesichtsentsperrung</item>
@@ -1069,28 +591,12 @@ Note: Nur für Ubuntu 8.04!"</item>
         <item>Manuell verbinden</item>
         <item>Immer fragen</item>
     </string-array>
-    <string-array name="wifi_connect_type_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="nfc_se_route_values">
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="slideshow_time_entries">
         <item>5 Minuten</item>
         <item>15 Minuten</item>
         <item>30 Minuten</item>
         <item>1 Stunde</item>
         <item>Unbegrenzt</item>
-    </string-array>
-    <string-array name="slideshow_time_entryValues">
-        <item>300</item>
-        <item>900</item>
-        <item>1800</item>
-        <item>3600</item>
-        <item>-1</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>
@@ -1103,53 +609,6 @@ Note: Nur für Ubuntu 8.04!"</item>
         <item>Email</item>
         <item>Video</item>
     </string-array>
-    <string-array name="permission_risk_privacy">
-        <item>android.permission.ACCESS_COARSE_LOCATION</item>
-        <item>android.permission.ACCESS_FINE_LOCATION</item>
-        <item>android.permission.DUMP</item>
-        <item>android.permission.GET_TASKS</item>
-        <item>android.permission.INSTALL_LOCATION_PROVIDER</item>
-        <item>android.permission.READ_CALENDAR</item>
-        <item>android.permission.READ_CONTACTS</item>
-        <item>android.permission.READ_PHONE_STATE</item>
-        <item>android.permission.READ_SMS</item>
-        <item>android.permission.READ_SOCIAL_STREAM</item>
-        <item>android.permission.RECEIVE_MMS</item>
-        <item>android.permission.RECEIVE_SMS</item>
-        <item>android.permission.RECEIVE_WAP_PUSH</item>
-        <item>android.permission.RETRIEVE_WINDOW_CONTENT</item>
-    </string-array>
-    <string-array name="permission_risk_security">
-        <item>android.permission.ACCESS_LOCATION_EXTRA_COMMANDS</item>
-        <item>android.permission.ACCESS_MOCK_LOCATION</item>
-        <item>android.permission.BROADCAST_PACKAGE_REMOVED</item>
-        <item>android.permission.BROADCAST_SMS</item>
-        <item>android.permission.BROADCAST_STICKY</item>
-        <item>android.permission.BROADCAST_WAP_PUSH</item>
-        <item>android.permission.CHANGE_COMPONENT_ENABLED_STATE</item>
-        <item>android.permission.DELETE_PACKAGES</item>
-        <item>android.permission.INJECT_EVENTS</item>
-        <item>android.permission.INSTALL_PACKAGES</item>
-        <item>android.permission.INTERNET</item>
-        <item>android.permission.MODIFY_AUDIO_SETTINGS</item>
-        <item>android.permission.MODIFY_PHONE_STATE</item>
-        <item>android.permission.PERFORM_CDMA_PROVISIONING</item>
-        <item>android.permission.PROCESS_OUTGOING_CALLS</item>
-        <item>android.permission.REMOVE_TASKS</item>
-        <item>android.permission.REORDER_TASKS</item>
-        <item>android.permission.SET_ACTIVITY_WATCHER</item>
-        <item>android.permission.SET_DEBUG_APP</item>
-        <item>android.permission.SET_PREFERRED_APPLICATIONS</item>
-        <item>android.permission.SUBSCRIBED_FEEDS_WRITE</item>
-        <item>android.permission.SYSTEM_ALERT_WINDOW</item>
-        <item>android.permission.WRITE_APN_SETTINGS</item>
-        <item>android.permission.WRITE_CALENDAR</item>
-        <item>android.permission.WRITE_CONTACTS</item>
-        <item>android.permission.WRITE_SETTINGS</item>
-        <item>android.permission.WRITE_SMS</item>
-        <item>android.permission.WRITE_SOCIAL_STREAM</item>
-        <item>com.android.browser.permission.WRITE_HISTORY_BOOKMARKS</item>
-    </string-array>
     <string-array name="network_speed_slow_summary">
         <item>Netzwerk ist wegen zu viel Datenverkehr zu langsam</item>
         <item>Netzwerk ist wegen zu schwacher Signalstärke langsam</item>
@@ -1159,10 +618,6 @@ Note: Nur für Ubuntu 8.04!"</item>
         <item>Interner Speicher</item>
         <item>Externer Speicher</item>
     </string-array>
-    <string-array name="priority_storage_value">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="tts_rate_xunfei_entries">
         <item>Sehr langsam</item>
         <item>Langsam</item>
@@ -1170,68 +625,20 @@ Note: Nur für Ubuntu 8.04!"</item>
         <item>Schnell</item>
         <item>Schneller</item>
     </string-array>
-    <string-array name="tts_rate_xunfei_values">
-        <item>60</item>
-        <item>80</item>
-        <item>100</item>
-        <item>150</item>
-        <item>200</item>
-    </string-array>
     <string-array name="whetstone_level_entries">
         <item>Aus</item>
         <item>Niedrig</item>
         <item>Mittel</item>
         <item>Hoch</item>
     </string-array>
-    <string-array name="whetstone_level_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4.5 Inches</item>
         <item>4.0 Inches</item>
         <item>3.5 Inches</item>
     </string-array>
-    <string-array name="handy_mode_size_value_entries">
-        <item>4.5</item>
-        <item>4.0</item>
-        <item>3.5</item>
-    </string-array>
-    <string-array name="agps_network_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="agps_network_entries">
         <item>Heimnetzwerk</item>
         <item>Alles Netzwerk</item>
-    </string-array>
-    <string-array name="agps_si_mode_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
-    <string-array name="agps_si_mode_entries">
-        <item>MSB</item>
-        <item>MSA</item>
-    </string-array>
-    <string-array name="agps_apn_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
-    <string-array name="agps_apn_entries">
-        <item>CMWAP</item>
-        <item>CMNET</item>
-    </string-array>
-    <string-array name="agps_reset_type_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="agps_reset_type_entries">
-        <item>HOT</item>
-        <item>WARM</item>
-        <item>COLD</item>
     </string-array>
     <string-array name="install_non_market_app_entries">
         <item>Fragen Sie um Erlaubnis für riskante Apps</item>
@@ -1240,14 +647,6 @@ Note: Nur für Ubuntu 8.04!"</item>
     <string-array name="install_non_market_app_contents">
         <item>Erlaubnis erfragen</item>
         <item>Erlauben</item>
-    </string-array>
-    <string-array name="lock_screen_secure_after_timeout_values">
-        <item>0</item>
-        <item>60000</item>
-        <item>120000</item>
-        <item>300000</item>
-        <item>900000</item>
-        <item>1800000</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Sofort</item>
@@ -1269,94 +668,6 @@ Note: Nur für Ubuntu 8.04!"</item>
         <item>Ihr Gerät neustarten, um diese Einstellung einzurichten?</item>
         <item>Ihr Gerät neustarten, um diese Einstellung einzurichten?</item>
     </string-array>
-    <string-array name="organized_locales">
-        <item>dz</item>
-        <item>ao</item>
-        <item>ar</item>
-        <item>bh</item>
-        <item>bo</item>
-        <item>bw</item>
-        <item>br</item>
-        <item>cm</item>
-        <item>cl</item>
-        <item>co</item>
-        <item>cd</item>
-        <item>cr</item>
-        <item>ci</item>
-        <item>ec</item>
-        <item>eg</item>
-        <item>sv</item>
-        <item>gq</item>
-        <item>et</item>
-        <item>fk</item>
-        <item>fr</item>
-        <item>gf</item>
-        <item>gh</item>
-        <item>gt</item>
-        <item>gy</item>
-        <item>hn</item>
-        <item>hk</item>
-        <item>in</item>
-        <item>id</item>
-        <item>ir</item>
-        <item>iq</item>
-        <item>jo</item>
-        <item>ke</item>
-        <item>kw</item>
-        <item>lb</item>
-        <item>ls</item>
-        <item>ly</item>
-        <item>mw</item>
-        <item>my</item>
-        <item>mx</item>
-        <item>ma</item>
-        <item>mz</item>
-        <item>mm</item>
-        <item>na</item>
-        <item>ni</item>
-        <item>ng</item>
-        <item>om</item>
-        <item>pa</item>
-        <item>py</item>
-        <item>pe</item>
-        <item>ph</item>
-        <item>qa</item>
-        <item>ru</item>
-        <item>rw</item>
-        <item>sa</item>
-        <item>sn</item>
-        <item>sg</item>
-        <item>za</item>
-        <item>gs</item>
-        <item>kr</item>
-        <item>sr</item>
-        <item>sz</item>
-        <item>sy</item>
-        <item>tw</item>
-        <item>tz</item>
-        <item>th</item>
-        <item>tn</item>
-        <item>tr</item>
-        <item>ug</item>
-        <item>ua</item>
-        <item>ae</item>
-        <item>uy</item>
-        <item>ve</item>
-        <item>vn</item>
-        <item>ye</item>
-        <item>zm</item>
-        <item>zw</item>
-    </string-array>
-    <integer-array name="alarm_repeat_type_values">
-        <item>1</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
-    <integer-array name="alarm_repeat_type_no_workdays_values">
-        <item>1</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
     <string-array name="alarm_repeat_type">
         <item>Jeden Tag</item>
         <item>Wochentage</item>
