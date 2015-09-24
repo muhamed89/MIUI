@@ -16,12 +16,12 @@
   <string name="activate_popup_confirm_failed_receive_sms">Wiederholen</string>
   <string name="activate_popup_confirm_failed_send_sms">Erneut senden</string>
   <string name="activate_popup_confirm_failed_server">Wiederholen</string>
-  <string name="activate_popup_desc_2_intl_sim_cards">Your carrier may charge for 2 international SMS messages used to activate %s.</string>
-  <string name="activate_popup_desc_2_sim_cards">Your carrier may charge for 2 SMS messages used to activate %s.</string>
-  <string name="activate_popup_desc_all_gateway_failed_query_info">"Can't find your phone number. Make sure that your SIM card has been activated.
-Enter the phone number associated with your new SIM card to reactivate %s"</string>
-  <string name="activate_popup_desc_all_gateway_failed_send_sms">"Couldn't send activation message. Make sure that your SIM card has been activated.
-Enter the phone number associated with your new SIM card to reactivate %s"</string>
+  <string name="activate_popup_desc_2_intl_sim_cards">Ihr Mobilfunkanbieter könnte Ihnen 2 internationale SMS-Nachrichten in Rechnung stellen, die zur %s Aktivierung benötigt werden.</string>
+  <string name="activate_popup_desc_2_sim_cards">Ihr Mobilfunkanbieter könnte Ihnen 2 SMS-Nachrichten in Rechnung stellen, die zur %s Aktivierung benötigt werden.</string>
+  <string name="activate_popup_desc_all_gateway_failed_query_info">"Kann Ihre Handy Nummer nicht finden. Überprüfen Sie, ob Ihre SIM Karte aktiviert wurde.
+Geben Sie die mit Ihrer neuen SIM Karte verknüpften Rufnummer ein, um %s zu reaktivieren"</string>
+  <string name="activate_popup_desc_all_gateway_failed_send_sms">"Aktivierungsnachricht konnte nicht gesendet werden. Überprüfen Sie, ob Ihre SIM Karte aktiviert wurde.
+Geben Sie die mit Ihrer neuen SIM Karte verknüpften Rufnummer ein, um %s zu reaktivieren"</string>
   <string name="activate_popup_desc_failed_phone_error">Die eingegebene Nummer ist ungültig.</string>
   <string name="activate_popup_desc_failed_query_info">Ihre Telefonnummer kann nicht abgerufen werden. Bitte stellen Sie sicher, dass Ihre SIM-Karte im Netz angemeldet ist.</string>
   <string name="activate_popup_desc_failed_receive_sms">Bitte überprüfen Sie die eingegebene Nummer und stellen Sie sicher das Ihre SIM-Karte im Netz angemeldet ist.</string>
@@ -40,7 +40,7 @@ Enter the phone number associated with your new SIM card to reactivate %s"</stri
   <string name="activate_popup_desc_register_account_intl">Zum registrieren Ihres Mi-Kontos wird eine internationale SMS verschickt</string>
   <string name="activate_popup_desc_sim_card">Damit Funktionen wie %s verwendet werden können, wird eine SMS zum aktivieren Ihrer SIM-Karte verschickt (Tarif Ihres Mobilfunkanbieters)</string>
   <string name="activate_popup_desc_sim_card_downlink">Damit Funktionen wie %s verwendet werden können, geben Sie bitte die Nummer Ihrer SIM-Karte ein</string>
-  <string name="activate_popup_desc_voip_privacy">Privacy Policy</string> 
+  <string name="activate_popup_desc_voip_privacy">Datenschutz-Bestimmungen</string> 
   <string name="activate_popup_desc_voip_privacy_prefix">". VoIP wird durch Weihui unterstützt. Siehe Weihui's "</string>
   <string name="activate_popup_title_all_gateway_failed_query_info">"Rufnummer kann nicht gefunden werden"</string>
   <string name="activate_popup_title_all_gateway_failed_send_sms">"Textnachricht kann nicht gesendet werden"</string>
@@ -58,19 +58,19 @@ Enter the phone number associated with your new SIM card to reactivate %s"</stri
   <string name="activate_status_desc_checking_xiaomi_account">MiKonto wird erstellt</string>
   <string name="activate_status_desc_checking_xiaomi_account_server_error">Bei der Prüfung des Mi-Kontos ist ein Serverfehler aufgetreten</string>
   <string name="activate_status_desc_failed_getting_gateway">Nachricht konnte nicht gesendet werden</string>
-  <string name="activate_status_desc_getting_gateway">Talking to server</string>
+  <string name="activate_status_desc_getting_gateway">Kommuniziere mit dem Server</string>
   <string name="activate_status_desc_prepare_sending_sms">Aktivierungs SMS wird vorbereitet</string>
-  <string name="activate_status_desc_query_activation_info">Talking to server</string>
+  <string name="activate_status_desc_query_activation_info">Kommuniziere mit dem Server</string>
   <string name="activate_status_desc_query_activation_info_downlink_sms_error">Server konnte keine Aktivierungs SMS senden.</string>
   <string name="activate_status_desc_query_activation_info_no_info">Keine Aktivierungs Infos auf dem Server</string>
-  <string name="activate_status_desc_query_activation_info_server_error">Something went wrong with the server while activating your account.</string>
+  <string name="activate_status_desc_query_activation_info_server_error">Da lief was, während der Aktivierung Ihres Kontos, mit dem Server falsch.</string>
   <string name="activate_status_desc_registering_sim_account">SIM-Karte mit Ihrem Konto verknüpfen</string>
-  <string name="activate_status_desc_registering_sim_account_server_error">Bei der registrierung der SIM-Karte ist ein Serverfehler aufgetreten</string>
+  <string name="activate_status_desc_registering_sim_account_server_error">Bei der Registrierung der SIM-Karte ist ein Serverfehler aufgetreten</string>
   <string name="activate_status_desc_registering_xiaomi_account">Registriere Mi-Konto</string>
-  <string name="activate_status_desc_registering_xiaomi_account_server_error">Bei dem erstellen des Mi-Kontos ist ein Serverfehler aufgetreten</string>
+  <string name="activate_status_desc_registering_xiaomi_account_server_error">Bei dem Erstellen des Mi-Kontos ist ein Serverfehler aufgetreten</string>
   <string name="activate_status_desc_request_activation_sms">Anforderung einer Aktivierungs-SMS vom Server auf Ihr Handy</string>
-  <string name="activate_status_desc_request_activation_sms_server_error">Bei der anforderung einer Aktivierungs-SMS vom Server auf Ihr Handy ist ein Serverfehler aufgetreten</string>
-  <string name="activate_status_desc_sending_sms">Sende aktivierung SMS</string>
+  <string name="activate_status_desc_request_activation_sms_server_error">Bei der Anforderung einer Aktivierungs-SMS vom Server auf Ihr Handy ist ein Serverfehler aufgetreten</string>
+  <string name="activate_status_desc_sending_sms">Sende Aktivierung SMS</string>
   <string name="activate_status_desc_sending_sms_fail">Aktivierungs SMS konnte nicht gesendet werden</string>
   <string name="activate_status_desc_sms_sent">Aktivierungs SMS gesendet</string>
   <string name="activate_status_desc_wait_for_sms">Warte auf Aktivierungs-SMS…</string>
@@ -78,12 +78,12 @@ Enter the phone number associated with your new SIM card to reactivate %s"</stri
   <string name="activate_status_desc_wait_for_sms_success">Aktivierungs-SMS erhalten</string>
   <string name="activate_status_title_activating">SIM-Karte wird aktiviert…</string>
   <string name="activate_status_title_activating_msim">SIM-Karte wird aktiviert %s…</string>
-  <string name="app_name">Xiaomi service framework</string>
+  <string name="app_name">Xiaomi Service-Framework</string>
   <string name="error_device_id_message">"Ungültige Geräte ID: %s
-Geräte ID mutt mit der IMEI oder der MAC übereinstimmen. Ohne die Geräte ID werden einige Accound und Cloud Funktionalitäten nicht verfügbar sein."</string>
+Geräte ID muss mit der IMEI oder der MAC übereinstimmen. Ohne die Geräte ID werden einige Account und Cloud Funktionalitäten nicht verfügbar sein."</string>
   <string name="error_device_id_title">"Gültige Geräte ID kann nicht empfangen werden"</string>
   <string name="sim_unactivated_title">"Ihre SIM-Karte ist nicht aktiviert"</string>
-  <string name="sync_notification_title_format">Current syncing item: %1$s</string>
+  <string name="sync_notification_title_format">Aktuelles Synchronisierungs-Element: %1$s</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmsf_activate_info">XMSF Aktivierungsinfo</string>
 </resources>
