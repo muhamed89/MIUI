@@ -108,6 +108,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieter"<
   <string name="firewall_fragment_tab_title_nonsys">Installiert</string>
   <string name="firewall_fragment_tab_title_sys">System</string>
   <string name="firewall_network_restrict_notify_message">Einstellungen ändern.</string>
+  <string name="firewall_network_restrict_notify_mobile">Mobile Daten</string>
   <string name="firewall_network_restrict_notify_title">%1$s ist es nicht erlaubt sich mit %2$s zu verbinden.</string>
   <string name="firewall_rule_group_title_mobile">Mobil</string>
   <string name="firewall_rule_group_title_roaming">Daten-Roaming</string>
