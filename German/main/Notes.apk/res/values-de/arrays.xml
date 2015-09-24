@@ -2,16 +2,16 @@
 <resources>
     <string-array name="contact_entries">
         <item>Name</item>
-        <item>Nickname</item>
-        <item>Phone</item>
+        <item>Spitzname</item>
+        <item>Telefon</item>
         <item>E-mail</item>
-        <item>Organization</item>
+        <item>Organisation</item>
         <item>IM</item>
-        <item>SIP Phone</item>
-        <item>Birthday</item>
-        <item>Website</item>
-        <item>Address</item>
-        <item>Note</item>
+        <item>SIP Telefon</item>
+        <item>Geburtstag</item>
+        <item>Webseite</item>
+        <item>Addresse</item>
+        <item>Notizen</item>
     </string-array>
     <string-array name="contact_values">
         <item>vnd.android.cursor.item/name</item>
@@ -27,20 +27,20 @@
         <item>vnd.android.cursor.item/note</item>
     </string-array>
     <string-array name="font_size_names">
-        <item>Small</item>
-        <item>Default</item>
-        <item>Large</item>
-        <item>Super</item>
+        <item>Klein</item>
+        <item>Normal</item>
+        <item>Groß</item>
+        <item>Sehr Groß</item>
     </string-array>
     <string-array name="welcome_notes_content">
-        <item>"Tap to create a note
+        <item>"Berühren, um eine Notiz zu erstellen
 "</item>
         <item>"To add a picture or show checkboxes, tap the button below
 "</item>
         <item>"Press and hold a note to pin, move, or delete it
 "</item>
         <item>"And more great features!
-  - Sync with Mi Cloud
+  - Synchronisieren mit Mi Cloud
   - Set reminders
 
 To learn more, visit
