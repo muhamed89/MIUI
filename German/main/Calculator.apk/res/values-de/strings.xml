@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Taschenrechner</string>
+  <string name="app_name">Rechner</string>
   <string name="clear">C</string>
   <string name="clearDesc">Löschen</string>
   <string name="clear_history">Lösche Verlauf</string>
