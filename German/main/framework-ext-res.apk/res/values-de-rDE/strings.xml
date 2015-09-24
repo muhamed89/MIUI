@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="all_call_livetalk_enable">Use top-up packages for domestic and international calls</string>
-  <string name="all_call_livetalk_remain_mins">Minuten übrig: (%1$s domestic) | %2$s (%3$s)</string>
+  <string name="all_call_livetalk_remain_mins">Minuten übrig: (%1$s Inland) | (%2$s %3$s)</string>
   <string name="alwaysUsePrompt">Auswahl merken</string>
   <string name="auto_start_warning_allow">Erlauben</string>
   <string name="auto_start_warning_deny">Verweigern</string>
