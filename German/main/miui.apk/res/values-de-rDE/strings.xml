@@ -153,7 +153,7 @@
   <string name="perm_payment_lab">Mi Pay</string>
   <string name="permdesc_sendSmsNoConfirmation">App kann SMS ohne Ihre Zustimmung versenden. Dieses könnte bei Ihrem Betreiber zu zusätzlichen Gebühren führen.</string>
   <string name="permlab_sendSmsNoConfirmation">Erlaube SMS Nachrichten im Hintergrund</string>
-  <string name="phone">Phone</string>
+  <string name="phone">Telefon</string>
   <string name="pm">PM</string>
   <string name="privacy_policy">Datenschutzerklärung</string>
   <string name="saturday">Samstag</string>
