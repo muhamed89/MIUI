@@ -13,7 +13,7 @@
         <item quantity="one">%d Notiz</item>
     </plurals>
     <plurals name="dirty_image_count">
-        <item quantity="other">%d Foto\'s</item>
+        <item quantity="other">%d Fotos</item>
         <item quantity="one">%d Foto</item>
     </plurals>
 </resources>
