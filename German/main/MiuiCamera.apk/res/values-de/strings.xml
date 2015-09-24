@@ -248,7 +248,7 @@
   <string name="pref_camera_tilt_shift_title">Tilt-Shift</string>
   <string name="pref_camera_touchafaec_entry_off">Aus</string>
   <string name="pref_camera_touchafaec_entry_on">An</string>
-  <string name="pref_camera_ubifocus_title">Neuer Fokus</string>
+  <string name="pref_camera_ubifocus_title">Neufokussieren</string>
   <string name="pref_camera_video_duration_entry_10">10 Minuten</string>
   <string name="pref_camera_video_duration_entry_120">Keine Einschränkung</string>
   <string name="pref_camera_video_duration_entry_30">30 Minuten</string>
