@@ -492,7 +492,7 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="breathing_light_color_menu_title">LED Farbe</string>
   <string name="breathing_light_color_summary">LED Farbe bei Eingang einer Benachrichtigung</string>
   <string name="breathing_light_freq_summary">Zeit zwischen dem Blinken der LED</string>
-  <string name="breathing_light_freq_title">" Blinkfrequenz der LED"</string>
+  <string name="breathing_light_freq_title"> Blinkfrequenz der LED</string>
   <string name="brightness">Helligkeit</string>
   <string name="brightness_auto_adjust_off">Die Bildschirmhelligkeit bleibt in jeder Umgebung unverändert</string>
   <string name="brightness_auto_adjust_on">Die Bildschirmhelligkeit wird je nach Umgebunglicht variieren</string>
