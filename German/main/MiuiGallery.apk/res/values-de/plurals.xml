@@ -5,32 +5,32 @@
         <item quantity="one">Lösche %1$s Album (%2$s total)?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
-        <item quantity="other">&lt;Data>Selected items include photos or videos in Mi Cloud, delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> items both from this device and Mi Cloud?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Ausgewählte Artikel beinhalten Fotos oder Videos in der Mi Cloud, lösche &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> Artikel jeweils von diesem Gerät und der Mi Cloud?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
-        <item quantity="other">&lt;Data>Selected items include photos in Mi Cloud, delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photos both from this device and Mi Cloud?&lt;/Data></item>
-        <item quantity="one">&lt;Data>Selected item includes photo in Mi Cloud, delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photo both from this device and Mi Cloud?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Ausgewählte Artikel beinhalten Fotos in der Mi Cloud, lösche &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> Fotos jeweils von diesem Gerät und der Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Ausgewählter Artikel ist ein Foto in der Mi Cloud, lösche &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> das Foto jeweils von diesem Gerät und der Mi Cloud?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
-        <item quantity="other">&lt;Data>Selected items include videos in Mi Cloud, delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videos both from this device and Mi Cloud?&lt;/Data></item>
-        <item quantity="one">&lt;Data>Selected item includes video in Mi Cloud, delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video both from this device and Mi Cloud?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Ausgewählte Artikel beinhalten Videos in der Mi Cloud, lösche &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> Videos jeweils von diesem Gerät und der Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Ausgewählter Artikel ist ein Video in der Mi Cloud, lösche &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> das Video jeweils von diesem Gerät und der Mi Cloud?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
-        <item quantity="other">&lt;Data>Selected items are photos or videos in Mi Cloud, delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> items from Mi Cloud?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Ausgewählte Artikel beinhalten Fotos oder Videos in der Mi Cloud, lösche &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> die Artikel aus der Mi Cloud?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_from_homepage">
-        <item quantity="other">&lt;Data>Selected items are photos in Mi Cloud, delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photos from Mi Cloud?&lt;/Data></item>
-        <item quantity="one">&lt;Data>Selected item is photo in Mi Cloud, delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photo from Mi Cloud?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Ausgewählte Artikel beinhalten Fotos in der Mi Cloud, lösche &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> die Fotos aus der Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Ausgewählter Artikel ist ein Foto in der Mi Cloud, lösche &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> das Foto aus der Mi Cloud?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video_from_homepage">
-        <item quantity="other">&lt;Data>Selected items are videos in Mi Cloud, delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videos from Mi Cloud?&lt;/Data></item>
-        <item quantity="one">&lt;Data>Selected item is video in Mi Cloud, delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video from Mi Cloud?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Ausgewählte Artikel beinhalten Videos in der Mi Cloud, lösche &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> die Videos aus der Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Ausgewählter Artikel ist ein Video in der Mi Cloud, lösche &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> das Video aus der Mi Cloud?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_video">
-        <item quantity="other">&lt;Data>Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> items from this album?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Lösche &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> die Artikel von diesem Album?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_has_local_image_video">
-        <item quantity="other">Delete %s items?</item>
+        <item quantity="other">Lösche %s die Artikel?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image">
         <item quantity="other">%s Fotos in der &amp;lt;b>cloud&amp;lt;/b> löschen?</item>
@@ -83,8 +83,8 @@
         <item quantity="one">"Du hast keine Rechte um %d Datei zu löschen."</item>
     </plurals>
     <plurals name="pick_with_limited_upper_bound_title">
-        <item quantity="other">You can select %d items</item>
-        <item quantity="one">You can select %d item</item>
+        <item quantity="other">Sie können %d Artikel auswählen</item>
+        <item quantity="one">Sie können den %d Artikel auswählen</item>
     </plurals>
     <plurals name="number_of_images">
         <item quantity="other">%1$d Bilder</item>
@@ -101,7 +101,7 @@
         <item quantity="one">1 Sekunde</item>
     </plurals>
     <plurals name="ignore_faces_alert_msg">
-        <item quantity="other">"Teige diese Gesichter nicht?"</item>
+        <item quantity="other">"Zeige diese Gesichter nicht?"</item>
         <item quantity="one">"Zeige dieses Gesicht nicht?"</item>
     </plurals>
     <plurals name="more_face">
