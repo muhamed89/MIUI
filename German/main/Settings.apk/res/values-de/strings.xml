@@ -11,8 +11,7 @@
   <string name="accelerometer_title">Automatisch drehen</string>
   <string name="access_control_app_entry_multiple">Starten %s</string>
   <string name="access_control_app_entry_single">App starten</string>
-  <string name="access_control_need_password">"%s ist geschützt
-"</string>
+  <string name="access_control_need_password">"%s ist geschützt"</string>
   <string name="access_control_need_to_unlock">Passwort erforderlich:</string>
   <string name="access_control_no_back_footer">Zum Beenden [icon] drücken</string>
   <string name="access_control_password_title">Passwort</string>
