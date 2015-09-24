@@ -34,7 +34,7 @@
         <item>2147483647</item>
     </string-array>
     <string-array name="dream_timeout_entries">
-        <item>Nie</item>
+        <item>Never</item>
         <item>15 Sekunden</item>
         <item>30 Sekunden</item>
         <item>1 Minute</item>
@@ -84,11 +84,11 @@
         <item>XXXL</item>
     </string-array>
     <string-array name="entryvalues_font_size">
-        <item>small</item>
+        <item>klein</item>
         <item>normal</item>
-        <item>medium</item>
-        <item>large</item>
-        <item>huge</item>
+        <item>mittel</item>
+        <item>groß</item>
+        <item>riesig</item>
         <item>godzilla</item>
     </string-array>
     <string-array name="tts_rate_entries">
@@ -98,8 +98,8 @@
         <item>Schnell</item>
         <item>Schneller</item>
         <item>Sehr schnell</item>
-        <item>Rasant</item>
-        <item>Sehr rasant</item>
+        <item>Rapide</item>
+        <item>Sehr rapide</item>
         <item>Am schnellsten</item>
     </string-array>
     <string-array name="tts_rate_values">
@@ -145,31 +145,31 @@
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>Scannen…</item>
-        <item>Verbinden…</item>
-        <item>Authentifizieren…</item>
-        <item>IP Adresse beziehen…</item>
+        <item>Scannt…</item>
+        <item>Verbindet…</item>
+        <item>Authentifiziert…</item>
+        <item>Beziehe IP-Adresse…</item>
         <item>Verbunden</item>
-        <item>Suspended</item>
-        <item>Verbindung trennen…</item>
-        <item>Verbindung getrennt</item>
-        <item>Nicht erfolgreich</item>
+        <item>Aufgehoben</item>
+        <item>Trennt…</item>
+        <item>Getrennt</item>
+        <item>Erfolglos</item>
         <item>Blockiert</item>
-        <item>Schlechte Verbindung temporär gemieden</item>
+        <item>Vorübergehend schlechte Verbindung meiden</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Scannen…</item>
-        <item>Verbinden mit %1$s…</item>
-        <item>Authentifizieren mit %1$s…</item>
-        <item>IP Adresse beziehen von %1$s…</item>
+        <item>Scannt…</item>
+        <item>Verbindet sich mit %1$s…</item>
+        <item>Authentifiziert sich mit %1$s…</item>
+        <item>Beziehe IP-Adresse von %1$s…</item>
         <item>Verbunden mit %1$s</item>
-        <item>Suspended</item>
-        <item>Verbindung trennen von %1$s…</item>
-        <item>Verbindung getrennt</item>
-        <item>Nicht erfolgreich</item>
+        <item>Aufgehoben</item>
+        <item>Trennt sich von %1$s…</item>
+        <item>Getrennt</item>
+        <item>Erfolglos</item>
         <item>Blockiert</item>
-        <item>Schlechte Verbindung temporär gemieden</item>
+        <item>Vorübergehend schlechte Verbindung meiden</item>
     </string-array>
     <string-array name="wifi_ap_security">
         <item>@string/wifi_security_none</item>
@@ -183,37 +183,37 @@
         <item>PWD</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
-        <item>Push button</item>
-        <item>PIN from peer device</item>
-        <item>PIN from this device</item>
+        <item>Knopf drücken</item>
+        <item>PIN von Peer-Einrichtung</item>
+        <item>PIN von diesem Gerät</item>
     </string-array>
     <string-array name="wifi_p2p_status">
         <item>Verbunden</item>
         <item>Eingeladen</item>
-        <item>Nicht erfolgreich</item>
+        <item>Efolglos</item>
         <item>Verfügbar</item>
-        <item>Out-of-range</item>
+        <item>außer Reichweite</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
         <item>2 Minuten</item>
         <item>5 Minuten</item>
         <item>1 Stunde</item>
-        <item>Kein Timeout</item>
+        <item>Nie Zeit überschreiten</item>
     </string-array>
     <string-array name="wifi_signal">
         <item>Schlecht</item>
-        <item>Ausreichend</item>
+        <item>Mittelmäßig</item>
         <item>Gut</item>
-        <item>Hervorragend</item>
+        <item>Ausgezeichnet</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
         <item>Immer</item>
-        <item>Nur wenn eingesteckt</item>
-        <item>Nie (benötigt mehr mobile Daten)</item>
+        <item>Nur wenn es eingestöpselt ist</item>
+        <item>Nie (verwendet mehr mobile Daten)</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Immer</item>
-        <item>Nur wenn eingesteckt</item>
+        <item>Nur wenn es eingestöpselt ist</item>
         <item>Nie</item>
     </string-array>
     <string-array name="wifi_sleep_policy_values">
@@ -223,8 +223,8 @@
     </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Auto</item>
-        <item>5 GHz only</item>
-        <item>2.4 GHz only</item>
+        <item>nur 5 GHz</item>
+        <item>nur 2.4 GHz</item>
     </string-array>
     <string-array name="wifi_frequency_band_values">
         <item>0</item>
@@ -232,8 +232,8 @@
         <item>2</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
-        <item>Gebrauchszeit</item>
-        <item>Startanzahl</item>
+        <item>Nutzungszeit</item>
+        <item>Start Zählung</item>
         <item>App Name</item>
     </string-array>
     <string-array name="wifi_eap_entries">
@@ -243,12 +243,12 @@
         <item>PWD</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
-        <item>Keine</item>
+        <item>Nichts</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
     <string-array name="wifi_phase2_entries">
-        <item>Keine</item>
+        <item>Nichts</item>
         <item>PAP</item>
         <item>MSCHAP</item>
         <item>MSCHAPV2</item>
@@ -259,12 +259,12 @@
         <item>Statisch</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
-        <item>Keine</item>
+        <item>Nichts</item>
         <item>Manuell</item>
     </string-array>
     <string-array name="emergency_tone_entries">
         <item>Aus</item>
-        <item>Alarm</item>
+        <item>Warnton</item>
         <item>Vibrieren</item>
     </string-array>
     <string-array name="emergency_tone_values">
@@ -281,7 +281,7 @@
         <item>中文 (繁體)</item>
     </string-array>
     <string-array name="apn_auth_entries">
-        <item>Keine</item>
+        <item>Nichts</item>
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP or CHAP</item>
@@ -305,7 +305,7 @@
     <string-array name="bearer_entries">
         <item>LTE</item>
         <item>eHRPD</item>
-        <item>Unspecified</item>
+        <item>Keine Angabe</item>
     </string-array>
     <string-array name="bearer_values">
         <item>14</item>
@@ -313,7 +313,7 @@
         <item>0</item>
     </string-array>
     <string-array name="mvno_type_entries">
-        <item>Keine</item>
+        <item>Nichts</item>
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
@@ -325,106 +325,106 @@
         <item>gid</item>
     </string-array>
     <string-array name="app_install_location_entries">
-        <item>Interner Telefonspeicher</item>
-        <item>SD Karte</item>
-        <item>Das System entscheiden lassen</item>
+        <item>Interner Gerätespeicher</item>
+        <item>Entnehmbare SD Karte</item>
+        <item>Das Gerät entscheiden lassen</item>
     </string-array>
     <string-array name="app_ops_categories">
-        <item>Standort</item>
-        <item>Personal</item>
-        <item>Nachrichten</item>
+        <item>Ort</item>
+        <item>Persönlich</item>
+        <item>Benachrichtigen</item>
         <item>Medien</item>
         <item>Gerät</item>
     </string-array>
     <string-array name="app_ops_summaries">
-        <item>coarse location</item>
-        <item>fine location</item>
+        <item>ungefährer Standort</item>
+        <item>genauer Standort</item>
         <item>GPS</item>
-        <item>vibrate</item>
-        <item>read contacts</item>
-        <item>modify contacts</item>
-        <item>read call log</item>
-        <item>modify call log</item>
-        <item>read calendar</item>
-        <item>modify calendar</item>
-        <item>wi-fi scan</item>
-        <item>notification</item>
-        <item>cell scan</item>
-        <item>call phone</item>
-        <item>read SMS</item>
-        <item>write SMS</item>
-        <item>receive SMS</item>
-        <item>receive emergency SMS</item>
-        <item>receive MMS</item>
-        <item>receive WAP push</item>
-        <item>send SMS</item>
-        <item>read ICC SMS</item>
-        <item>write ICC SMS</item>
-        <item>modify settings</item>
-        <item>draw on top</item>
-        <item>access notifications</item>
-        <item>camera</item>
-        <item>record audio</item>
-        <item>play audio</item>
-        <item>read clipboard</item>
-        <item>modify clipboard</item>
-        <item>media buttons</item>
-        <item>audio focus</item>
-        <item>master volume</item>
-        <item>voice volume</item>
-        <item>ring volume</item>
-        <item>media volume</item>
-        <item>alarm volume</item>
-        <item>notification volume</item>
-        <item>bluetooth volume</item>
-        <item>keep awake</item>
-        <item>monitor location</item>
-        <item>monitor high power location</item>
+        <item>Vibrieren</item>
+        <item>Kontakte lesen</item>
+        <item>Kontakte modifizieren</item>
+        <item>Anrufprotokoll lesen</item>
+        <item>Anrufprotokoll modifizieren</item>
+        <item>Kalender lesen</item>
+        <item>Kalender modifizieren</item>
+        <item>WLAN scannen</item>
+        <item>Benachrichtigung</item>
+        <item>Handy scannen</item>
+        <item>Handy anrufen</item>
+        <item>SMS lesen</item>
+        <item>SMS schreiben</item>
+        <item>SMS erhalten</item>
+        <item>Not-SMS erhalten</item>
+        <item>MMS erhalten</item>
+        <item>WAP Push erhalten</item>
+        <item>SMS senden</item>
+        <item>ICC SMS lesen</item>
+        <item>ICC SMS schreiben</item>
+        <item>Einstellungen modifizieren</item>
+        <item>Obenauf zeichnen</item>
+        <item>Benachrichtigungen abrufen</item>
+        <item>Kamera</item>
+        <item>Audio aufnehmen</item>
+        <item>Audio abspielen</item>
+        <item>Zwischenablage lesen</item>
+        <item>Zwischenablage modifizieren</item>
+        <item>Medienknöpfe</item>
+        <item>Audio-Fokus</item>
+        <item>Master-Lautstärke</item>
+        <item>Sprachlautstärke</item>
+        <item>Ruftonlautstärke</item>
+        <item>Medienlautstärke</item>
+        <item>Alarmlautstärke</item>
+        <item>Benachrichtigungslautstärke</item>
+        <item>Bluetooth Lautstärke</item>
+        <item>Wach bleiben</item>
+        <item>Standort überwachen</item>
+        <item>Hochleistungs Ort überwachen</item>
     </string-array>
     <string-array name="app_ops_labels">
-        <item>Location</item>
-        <item>Location</item>
-        <item>Location</item>
-        <item>Vibrate</item>
-        <item>Read contacts</item>
-        <item>Modify contacts</item>
-        <item>Read call log</item>
-        <item>Modify call log</item>
-        <item>Read calendar</item>
-        <item>Modify calendar</item>
-        <item>Location</item>
-        <item>Post notification</item>
-        <item>Location</item>
-        <item>Call phone</item>
-        <item>Read SMS/MMS</item>
-        <item>Write SMS/MMS</item>
-        <item>Receive SMS/MMS</item>
-        <item>Receive SMS/MMS</item>
-        <item>Receive SMS/MMS</item>
-        <item>Receive SMS/MMS</item>
-        <item>Send SMS/MMS</item>
-        <item>Read SMS/MMS</item>
-        <item>Write SMS/MMS</item>
-        <item>Modify settings</item>
-        <item>Draw on top</item>
-        <item>Access notifications</item>
-        <item>Camera</item>
-        <item>Record audio</item>
-        <item>Play audio</item>
-        <item>Read clipboard</item>
-        <item>Modify clipboard</item>
-        <item>Media buttons</item>
-        <item>Audio focus</item>
-        <item>Master volume</item>
-        <item>Voice volume</item>
-        <item>Ring volume</item>
-        <item>Media volume</item>
-        <item>Alarm volume</item>
-        <item>Notification volume</item>
-        <item>Bluetooth volume</item>
-        <item>Keep awake</item>
-        <item>Location</item>
-        <item>Location</item>
+        <item>Standort</item>
+        <item>Standort</item>
+        <item>Standort</item>
+        <item>Vibrieren</item>
+        <item>Kontakte lesen</item>
+        <item>Kontakte modifizieren</item>
+        <item>Anrufprotokoll lesen</item>
+        <item>Anrufprotokoll modifizieren</item>
+        <item>Kalendar lesen</item>
+        <item>Kalendar modifizieren</item>
+        <item>Standort</item>
+        <item>Mitteilung posten</item>
+        <item>Standort</item>
+        <item>Handy anrufen</item>
+        <item>SMS/MMS lesen</item>
+        <item>SMS/MMS schreiben</item>
+        <item>SMS/MMS erhalten</item>
+        <item>SMS/MMS erhalten</item>
+        <item>SMS/MMS erhalten</item>
+        <item>SMS/MMS erhalten</item>
+        <item>SMS/MMS abschicken</item>
+        <item>SMS/MMS lesen</item>
+        <item>SMS/MMS schreiben</item>
+        <item>Einstellungen modifizieren</item>
+        <item>Obenauf zeichnen</item>
+        <item>Benachrichtigungen abrufen</item>
+        <item>Kamera</item>
+        <item>Audio aufnehmen</item>
+        <item>Audio abspielen</item>
+        <item>Zwischenablage lesen</item>
+        <item>Zwischenablage modifizieren</item>
+        <item>Medienknöpfe</item>
+        <item>Audio-Fokus</item>
+        <item>Master-Lautstärke</item>
+        <item>Sprachlautstärke</item>
+        <item>Ruftonlautstärke</item>
+        <item>Medienlautstärke</item>
+        <item>Alarmlautstärke</item>
+        <item>Benachrichtigungslautstärke</item>
+        <item>Bluetooth Lautstärke</item>
+        <item>Wach bleiben</item>
+        <item>Standort</item>
+        <item>Standort</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Kurz</item>
@@ -437,7 +437,7 @@
         <item>1500</item>
     </string-array>
     <string-array name="captioning_typeface_selector_titles">
-        <item>Default</item>
+        <item>Standard</item>
         <item>Sans-serif</item>
         <item>Sans-serif condensed</item>
         <item>Serif</item>
@@ -465,9 +465,9 @@
         <item>2.0</item>
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
-        <item>Keine</item>
-        <item>Outline</item>
-        <item>Drop shadow</item>
+        <item>Nichts</item>
+        <item>Umrisslinie</item>
+        <item>Schatten werfen</item>
     </string-array>
     <integer-array name="captioning_edge_type_selector_values">
         <item>0</item>
@@ -553,10 +553,10 @@
         <item>0xffffffff</item>
     </integer-array>
     <string-array name="captioning_preset_selector_titles">
-        <item>Weiß auf schwarz</item>
-        <item>Schwarz auf weiß</item>
-        <item>Gelb auf schwarz</item>
-        <item>Gelb auf blau</item>
+        <item>Weiss auf Schwarz</item>
+        <item>Schwarz auf Weiss</item>
+        <item>Gelb auf Schwarz</item>
+        <item>Gelb auf Blau</item>
         <item>Benutzerdefiniert</item>
     </string-array>
     <integer-array name="captioning_preset_selector_values">
@@ -577,28 +577,28 @@
         <item>libartd.so</item>
     </string-array>
     <string-array name="select_runtime_summaries">
-        <item>Nutze Dalvik</item>
-        <item>Nutze ART</item>
-        <item>Nutze ART debug build</item>
+        <item>Dalvik benutzen</item>
+        <item>ART benuten</item>
+        <item>ART Debug-Build benutzen</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
-        <item>Niemals prüfen</item>
-        <item>Nur für DRM Inhalte prüfen</item>
+        <item>Niemals überprüfen</item>
+        <item>Überprüfe nur auf DRM Inhalt</item>
         <item>Immer prüfen</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>Nutze niemals HDCP Prüfung</item>
-        <item>Nutze HDCP Prüfung nur für DRM Inhalte</item>
-        <item>Immer HDCP Prüfung nutzen</item>
+        <item>Nie HDCP Überprüfung nutzen</item>
+        <item>Nutze HDCP Überprüfung nur für DRM Inhalt</item>
+        <item>Immer HDCP Ünerprüfung nutzen</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animation aus</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>Animations-Maßstab .5x</item>
+        <item>Animations-Maßstab 1x</item>
+        <item>Animations-Maßstab 1.5x</item>
+        <item>Animations-Maßstab 2x</item>
+        <item>Animations-Maßstab 5x</item>
+        <item>Animations-Maßstab 10x</item>
     </string-array>
     <string-array name="window_animation_scale_values">
         <item>0</item>
@@ -611,12 +611,12 @@
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animation aus</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>Animations-Maßstab .5x</item>
+        <item>Animations-Maßstab 1x</item>
+        <item>Animations-Maßstab 1.5x</item>
+        <item>Animations-Maßstab 2x</item>
+        <item>Animations-Maßstab 5x</item>
+        <item>Animations-Maßstab 10x</item>
     </string-array>
     <string-array name="transition_animation_scale_values">
         <item>0</item>
@@ -628,13 +628,13 @@
         <item>10</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
-        <item>Animation aus</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>Animation off</item>
+        <item>Animations-Maßstab .5x</item>
+        <item>Animations-Maßstab 1x</item>
+        <item>Animations-Maßstab 1.5x</item>
+        <item>Animations-Maßstab 2x</item>
+        <item>Animations-Maßstab 5x</item>
+        <item>Animations-Maßstab 10x</item>
     </string-array>
     <string-array name="animator_duration_scale_values">
         <item>0</item>
@@ -646,7 +646,7 @@
         <item>10</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>Keine</item>
+        <item>Nichts</item>
         <item>720x480 mdpi</item>
         <item>720x480 mdpi (secure)</item>
         <item>1280x720 tvdpi</item>
@@ -666,7 +666,7 @@
         <item>1280x720/213;1920x1080/320</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>Keine</item>
+        <item>Nichts</item>
         <item>Logcat</item>
         <item>Systrace (Graphics)</item>
         <item>Call stack on glGetError</item>
@@ -675,38 +675,38 @@
         <item>0</item>
         <item>1</item>
         <item>systrace</item>
-        <item>error</item>
+        <item>Fehler</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>Aus</item>
-        <item>Draw non-rectangular clip region in blue</item>
-        <item>Highlight tested drawing commands in green</item>
+        <item>Off</item>
+        <item>Zeichne nicht-rechteckiges Abschnittsgebiet in Blau</item>
+        <item>Markieren Sie getestete Zeichenbefehle in Grün</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Aus</item>
-        <item>On screen as bars</item>
-        <item>On screen as lines</item>
+        <item>Auf dem Bildschirm als Balken</item>
+        <item>Auf dem Bildschirm als Linien</item>
         <item>In adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Aus</item>
-        <item>Show overdraw areas</item>
-        <item>Show areas for Deuteranomaly</item>
-        <item>Show overdraw counter</item>
+        <item>Überzeichnungs-Bereiche zeigen</item>
+        <item>Zeige Bereiche für Deuteranomalie</item>
+        <item>Zeige Überzeichnungszähler</item>
     </string-array>
     <string-array name="debug_hw_overdraw_values">
-        <item>false</item>
-        <item>show</item>
+        <item>falsch</item>
+        <item>zeigen</item>
         <item>show_deuteranomaly</item>
-        <item>count</item>
+        <item>zählen</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-        <item>Standard limit</item>
-        <item>No background processes</item>
-        <item>At most 1 process</item>
-        <item>At most 2 processes</item>
-        <item>At most 3 processes</item>
-        <item>At most 4 processes</item>
+        <item>Standard Limit</item>
+        <item>Keine Hintergrundprozesse</item>
+        <item>Höchstens 1 Prozess</item>
+        <item>Höchstens 2 Prozesse</item>
+        <item>Höchstens 3 Prozesse</item>
+        <item>Höchstens 4 Prozesse</item>
     </string-array>
     <string-array name="app_process_limit_values">
         <item>-1</item>
@@ -726,24 +726,24 @@
     </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
-        <item>L2TP/IPSec VPN mit pre-shared keys</item>
-        <item>L2TP/IPSec VPN mit certificates</item>
-        <item>IPSec VPN mit pre-shared keys und Xauth authentication</item>
-        <item>IPSec VPN mit certificates und Xauth authentication</item>
-        <item>IPSec VPN mit certificates und hybrid authentication</item>
+        <item>L2TP/IPSec VPN mit vor-geteilten Schlüsseln</item>
+        <item>L2TP/IPSec VPN mit Zertifikaten</item>
+        <item>IPSec VPN  mit vor-geteilten Schlüsseln und Xauth Authentifizierung</item>
+        <item>IPSec VPN mit Zertifikaten und Xauth Authentifizierung</item>
+        <item>IPSec VPN mit Zertifikaten und hybrid Authentifizierung</item>
     </string-array>
     <string-array name="vpn_states">
-        <item>Nicht verbunden</item>
-        <item>Initialisiere…</item>
-        <item>Verbinde…</item>
+        <item>Getrennt</item>
+        <item>Initialisiert…</item>
+        <item>Verbindet…</item>
         <item>Verbunden</item>
         <item>Timeout</item>
-        <item>Nicht erfolgreich</item>
+        <item>Erfolglos</item>
     </string-array>
     <string-array name="user_content_ratings_entries">
-        <item>Ascended being</item>
+        <item>Aufgestiegenes Wesen</item>
         <item>Mensch</item>
-        <item>Neandertaler</item>
+        <item>Neanderthaler</item>
         <item>Schimpanse</item>
         <item>Affe</item>
     </string-array>
@@ -761,7 +761,7 @@
     </string-array>
     <string-array name="ram_states">
         <item>normal</item>
-        <item>angemessen</item>
+        <item>gemäßigt</item>
         <item>niedrig</item>
         <item>kritisch</item>
     </string-array>
@@ -787,8 +787,8 @@
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Graphisch</item>
-        <item>Prozentual</item>
-        <item>Top bar</item>
+        <item>Prozent</item>
+        <item>Oberbalken</item>
     </string-array>
     <string-array name="battery_indicator_style_values">
         <item>0</item>
@@ -796,9 +796,9 @@
         <item>2</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
-        <item>Fragen bei Verbindung</item>
-        <item>Nur Laden</item>
-        <item>SD Karte mounten</item>
+        <item>Beim Verbinden fragen</item>
+        <item>nur aufladen</item>
+        <item>SD Karte anbringen</item>
     </string-array>
     <string-array name="usb_connection_mode_values">
         <item>0</item>
@@ -830,8 +830,8 @@
         <item>rot</item>
         <item>gelb</item>
         <item>grün</item>
-        <item>zyan</item>
-        <item>weiß</item>
+        <item>türkis</item>
+        <item>weiss</item>
         <item>\#FFAA00AA</item>
     </string-array>
     <string-array name="led_color_entries">
@@ -839,9 +839,9 @@
         <item>Rot</item>
         <item>Gelb</item>
         <item>Grün</item>
-        <item>Zyan</item>
-        <item>Weiß</item>
-        <item>Violett</item>
+        <item>Türkis</item>
+        <item>Weiss</item>
+        <item>Lila</item>
     </string-array>
     <string-array name="mi1_led_color_values">
         <item>blau</item>
@@ -856,8 +856,8 @@
         <item>Rot</item>
         <item>Grün</item>
         <item>Pink</item>
-        <item>Violett</item>
-        <item>Purpur</item>
+        <item>Violet</item>
+        <item>Lila</item>
     </string-array>
     <string-array name="pink_panel_led_color_values">
         <item>blau</item>
@@ -867,7 +867,7 @@
         <item>\#FFAA00AA</item>
     </string-array>
     <string-array name="pink_panel_led_color_entries">
-        <item>Flieder</item>
+        <item>Fliederfarben</item>
         <item>Rubinrot</item>
         <item>Orange</item>
         <item>Grün</item>
@@ -878,7 +878,7 @@
     </string-array>
     <string-array name="wifi_wapi_key_type">
         <item>WAPI ASCII</item>
-        <item>WAPI hexadecimal</item>
+        <item>WAPI hexadezimal</item>
     </string-array>
     <string-array name="wifi_eap_method_add_sim">
         <item>PEAP</item>
@@ -893,16 +893,16 @@
         <item>SIM</item>
     </string-array>
     <string-array name="screen_key_press_action">
-        <item>Zeige kürzlich verwendete Apps</item>
-        <item>Zeige Menü</item>
+        <item>Zeige kürzliches Apps-Fach</item>
+        <item>Zeige das Menü</item>
     </string-array>
     <string-array name="screen_key_long_press_action">
-        <item>None</item>
-        <item>Zeige kürzlich verwendete Apps</item>
-        <item>Öffne Assistent</item>
-        <item>Öffne Google now</item>
-        <item>Schließe aktuelle App</item>
-        <item>Zeige Menü</item>
+        <item>Nichts</item>
+        <item>Zeige kürzliches Apps-Fach</item>
+        <item>Starte Assistent</item>
+        <item>Starte Google now</item>
+        <item>Schliesse kürzlcihe App</item>
+        <item>Zeige das Menü</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 Sekunden</item>
@@ -963,16 +963,16 @@
         <item>24,14,-20,6,12,16,8</item>
     </string-array>
     <string-array name="wfd_status">
-        <item>Starte Session…</item>
-        <item>Session gestartet</item>
-        <item>Tearing down…</item>
-        <item>"Session kann nicht gestartet werden"</item>
-        <item>Timed out. Versuche erneut…</item>
+        <item>Beginne mit der Sitzung…</item>
+        <item>Sitzung gestartet</item>
+        <item>Reisse ab…</item>
+        <item>"Kann Sitzung nicht beginnen"</item>
+        <item>Zeitüberschreitung. Versuche nochmal…</item>
         <item>Gerät verbunden</item>
     </string-array>
     <string-array name="power_mode_entries">
-        <item>Performance</item>
-        <item>Balanced</item>
+        <item>Leistung</item>
+        <item>Balanziert</item>
     </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP und älter</item>
@@ -981,7 +981,7 @@
         <item>Linux</item>
     </string-array>
     <string-array name="msd_pc_system_install_summary">
-        <item>2.Befolgen Sie die Anweisungen am Bildschirm</item>
+        <item>2.Befolgen Sie die Bildschirmanweisungen</item>
         <item></item>
         <item></item>
         <item></item>
@@ -989,26 +989,26 @@
     <string-array name="msd_pc_system_install_finish_summary">
         <item>@string/msd_pc_system_install_finish_summary_xp</item>
         <item>@string/msd_pc_system_install_finish_summary_vista</item>
-        <item>USB Datenträger öffnet sich automatisch, sobald er mit dem Computer verbunden ist</item>
+        <item>USB mass storage will open automatically when connected to a computer.</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_retry_xp">
         <item>@string/msd_install_retry_connect</item>
-        <item>Reinstall MiPhoneManager.</item>
+        <item>Installiere MiPhoneManager neu.</item>
     </string-array>
     <string-array name="msd_pc_system_retry_linux">
-        <item>Install tool: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
-        <item>Create a directory: mkdir /media/mtp</item>
-        <item>Confirm user group permissions in the current fuse user group</item>
-        <item>Sign in again</item>
-        <item>Access mounted device: mtpfs /media/mtp via file explorer; same as local directory</item>
+        <item>Installations-Tool: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
+        <item>Erstellen Sie ein Verzeichnis: mkdir /media/mtp</item>
+        <item>Bestätigen Sie Benutzergruppenberechtigungen in der aktuellen Absicherung der Benutzergruppe</item>
+        <item>Erneut anmelden</item>
+        <item>Verbinde mit angeschlossenem Gerät: mtpfs /media/mtp per File explorer; gleich wie das lokale Verzeichnis</item>
         <item>"Uninstall device: fusermount -u /media/mtp
-Note: Only for Ubuntu 8.04!"</item>
+Note: Nur für Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="screen_color_title">
         <item>Warm</item>
         <item>Standard</item>
-        <item>Kühl</item>
+        <item>Kalt</item>
     </string-array>
     <string-array name="screen_saturation_title">
         <item>Brilliant</item>
@@ -1020,9 +1020,9 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Standard</item>
     </string-array>
     <string-array name="screen_optimize_summary">
-        <item>Optimiere Kontrast mit dem verfügbarten Light</item>
-        <item>"Erhöhe den Kontrast des Displays"</item>
-        <item>Kontrast verbleibt konstant</item>
+        <item>Opimieren Sie den Kontrast für verfügbare Lichter</item>
+        <item>"Erhöhen Sie den Bildschirmkontrast"</item>
+        <item>Kontrast wird konstant bleiben</item>
     </string-array>
     <string-array name="perms_hips_values">
         <item>2</item>
@@ -1032,7 +1032,7 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="perm_hips_action">
         <item>Erlauben</item>
         <item>Fragen</item>
-        <item>Ablehnen</item>
+        <item>Verbieten</item>
     </string-array>
     <string-array name="startup_hips_values">
         <item>2</item>
@@ -1040,7 +1040,7 @@ Note: Only for Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="startup_hips_action">
         <item>Erlauben</item>
-        <item>Ablehnen</item>
+        <item>Verbieten</item>
     </string-array>
     <string-array name="entries_color_calibration">
         <item>sRGB</item>
@@ -1051,15 +1051,15 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>1</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
-        <item>Einzel-Mikrophon Geräuschunterdrückung</item>
-        <item>Dual-Mikrophon Geräuschunterdrückung</item>
+        <item>Single-mic Geräuschunterdrückung</item>
+        <item>Dual-mic Geräuschunterdrückung</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_values">
         <item>1</item>
         <item>2</item>
     </string-array>
     <string-array name="change_security_lock_picker">
-        <item>Face unlock</item>
+        <item>Gesichtsentsperrung</item>
         <item>Muster</item>
         <item>PIN</item>
         <item>Passwort</item>
@@ -1083,7 +1083,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>15 Minuten</item>
         <item>30 Minuten</item>
         <item>1 Stunde</item>
-        <item>Unlimitiert</item>
+        <item>Unbegrenzt</item>
     </string-array>
     <string-array name="slideshow_time_entryValues">
         <item>300</item>
@@ -1094,11 +1094,11 @@ Note: Only for Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>
-        <item>Telefon</item>
-        <item>SMS</item>
+        <item>Dial</item>
+        <item>Nachrichten</item>
         <item>Browser</item>
         <item>Kamera</item>
-        <item>Galerie</item>
+        <item>Gallerie</item>
         <item>Musik</item>
         <item>Email</item>
         <item>Video</item>
@@ -1151,9 +1151,9 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>com.android.browser.permission.WRITE_HISTORY_BOOKMARKS</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
-        <item>Netzwerk ist langsam, da zu viel Traffic</item>
-        <item>Netzwerk ist langsam, da die Signalstärke schwach ist</item>
-        <item>Verschieben...</item>
+        <item>Netzwerk ist wegen zu viel Datenverkehr zu langsam</item>
+        <item>Netzwerk ist wegen zu schwacher Signalstärke langsam</item>
+        <item>in Bewegung…</item>
     </string-array>
     <string-array name="priority_storage_entries">
         <item>Interner Speicher</item>
@@ -1190,9 +1190,9 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>3</item>
     </string-array>
     <string-array name="handy_mode_size_text_entries">
-        <item>4.5 inch</item>
-        <item>4.0 inch</item>
-        <item>3.5 inch</item>
+        <item>4.5 Inches</item>
+        <item>4.0 Inches</item>
+        <item>3.5 Inches</item>
     </string-array>
     <string-array name="handy_mode_size_value_entries">
         <item>4.5</item>
@@ -1204,8 +1204,8 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>1</item>
     </string-array>
     <string-array name="agps_network_entries">
-        <item>Heim Netzwerk</item>
-        <item>Alle Netzwerke</item>
+        <item>Heimnetzwerk</item>
+        <item>Alles Netzwerk</item>
     </string-array>
     <string-array name="agps_si_mode_values">
         <item>0</item>
@@ -1229,16 +1229,16 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>2</item>
     </string-array>
     <string-array name="agps_reset_type_entries">
-        <item>HEIß</item>
+        <item>HOT</item>
         <item>WARM</item>
-        <item>KALT</item>
+        <item>COLD</item>
     </string-array>
     <string-array name="install_non_market_app_entries">
-        <item>Bitte um Erlaubnis für riskante Apps</item>
-        <item>Erlaube</item>
+        <item>Fragen Sie um Erlaubnis für riskante Apps</item>
+        <item>Erlauben</item>
     </string-array>
     <string-array name="install_non_market_app_contents">
-        <item>Um Erlaubnis bitten</item>
+        <item>Erlaubnis erfragen</item>
         <item>Erlauben</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_values">
@@ -1258,16 +1258,16 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>30 Minuten</item>
     </string-array>
     <string-array name="fluency_mode_entries">
-        <item>Verstecke Systemanimationen</item>
-        <item>Zeige Systemanimationen</item>
+        <item>Systemanimationen verstecken</item>
+        <item>Systemanimationen anzeigen</item>
     </string-array>
     <string-array name="fluency_mode_summaries">
-        <item>"Beschleunigt die Performance des Geräts"</item>
-        <item>"Verringert möglicherweise die Performance des Geräts"</item>
+        <item>"Beschleunigt die Geräteleistung"</item>
+        <item>"Könnte die Geräteleistung verlangsamen"</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
-        <item>Neustart, um diese Einstellung anzuwenden?</item>
-        <item>Neustart, um diese Einstellung anzuwenden?</item>
+        <item>Ihr Gerät neustarten, um diese Einstellung einzurichten?</item>
+        <item>Ihr Gerät neustarten, um diese Einstellung einzurichten?</item>
     </string-array>
     <string-array name="organized_locales">
         <item>dz</item>
@@ -1358,13 +1358,13 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>4</item>
     </integer-array>
     <string-array name="alarm_repeat_type">
-        <item>jeden Tag</item>
-        <item>Wochentags</item>
+        <item>Jeden Tag</item>
+        <item>Wochentage</item>
         <item>Benutzerdefiniert</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
-        <item>jeden Tag</item>
-        <item>Wochentags</item>
+        <item>Jeden Tag</item>
+        <item>Wochentage</item>
         <item>Benutzerdefiniert</item>
     </string-array>
 </resources>
