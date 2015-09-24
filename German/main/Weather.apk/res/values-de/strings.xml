@@ -37,7 +37,7 @@
   <string name="aqi_quality_index_moderate">AQI %1$s</string>
   <string name="aqi_quality_index_pure">AQI %1$s</string>
   <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
-  <string name="button_abandon">Abandon Veränderungen</string>
+  <string name="button_abandon">Veränderungen abbrechen</string>
   <string name="button_allow">OK</string>
   <string name="button_confirm">Erlauben</string>
   <string name="button_exit">Beenden</string>
