@@ -32,7 +32,7 @@
   <string name="check_update_policy">Einstellungen</string>
   <string name="check_update_when_wifi_available">Überprüfung nur, wenn WLAN-Verbindung besteht</string>
   <string name="check_update_when_wifi_available_sum">"Nur auf Aktualisierung überprüfen, wenn eine WLAN-Verbindung besteht"</string>
-  <string name="clean_up_button">Clean up</string>
+  <string name="clean_up_button">Aufräumen</string>
   <string name="comment_invalid">Bewerte diese Aktualisierung (Sterne antippen)</string>
   <string name="comment_publish">Absenden</string>
   <string name="comment_sending">Sende…</string>
@@ -63,7 +63,7 @@
   <string name="fourgrid_notificaiont">In der Status Bar anzeigen</string>
   <string name="get_auto">Verwende Mobilfunknetz oder WLAN</string>
   <string name="get_current">Get current</string>
-  <string name="get_update_error">"Can't get update info"</string>
+  <string name="get_update_error">"Kann keine Update-Info erhalten"</string>
   <string name="go_on_download">Download</string>
   <string name="important_suggestion">Datenschutzerklärung wurde verändert</string>
   <string name="install">Intallieren</string>
@@ -96,7 +96,7 @@
   <string name="no_wifi_title">Datenverbrauch Warnung</string>
   <string name="not_open">Nicht jetzt</string>
   <string name="notification_auto_reboot_seccess_title">Gerät wurde automatisch aktualisiert</string>
-  <string name="notification_downloading">Downloading Update…</string>
+  <string name="notification_downloading">Update wird heruntergeladen…</string>
   <string name="notification_load_body_alpha">Lade die neusten Updates für dein Gerät herunter.</string>
   <string name="notification_load_body_dev">Lade die neusten Updates für dein Gerät herunter.</string>
   <string name="notification_load_title_alpha">Melde dich mit deinem Mi Account an</string>
@@ -112,7 +112,7 @@
   <string name="notification_update_now">Update jetzt durchführen</string>
   <string name="notification_updating">Aktualisiere…</string>
   <string name="on_checking">Überprüfe…</string>
-  <string name="open_now">Turn on</string>
+  <string name="open_now">Anstellen</string>
   <string name="particular_build">Einzelheiten</string>
   <string name="pause">Pause</string>
   <string name="previous">Vorherige</string>
@@ -138,14 +138,14 @@ http://zhushou.xiaomi.com"</string>
   <string name="share_qq">Auf Tencent Weibo veröffentlichen</string>
   <string name="share_sina">Auf Sina Weibo veröffentlichen</string>
   <string name="share_update">Informationen zur Update teilen</string>
-  <string name="share_update_content_sign">"I've updated MIUI to %1$s! I was the %2$s person to update. To view the change log, go to %3$s"</string>
-  <string name="share_update_content_unsign">"I've updated MIUI to %1$s! For the detailed changelog, go to %2$s"</string>
+  <string name="share_update_content_sign">"Ich habe MIUI auf %1$s aktualisiert! Ich war die %2$s Person, die aktualisiert hat. Um das Änderungsprotokoll anzeigen zu lassen, gehen Sie hier hin: %3$s"</string>
+  <string name="share_update_content_unsign">"Ich habe MIUI auf %1$s aktualisiert! Um das detaillierte Änderungsprotokoll anzeigen zu lassen, gehen Sie hier hin: %2$s"</string>
   <string name="sina_share_fail">Fehler beim senden</string>
   <string name="sina_share_fail_content_repeat">"Konnte nicht geteilt werden, da der Inhalt bereits geteilt wurde…"</string>
   <string name="sina_share_pendding">Senden…</string>
   <string name="sina_share_success">Gesendet</string>
-  <string name="sina_token_expired_warning">Weibo Account abgelaufen: Please rebind</string>
-  <string name="sina_token_invalid_warning">Weibo Account ungültig: Please rebind</string>
+  <string name="sina_token_expired_warning">Weibo Account abgelaufen: Bitte neu einbinden</string>
+  <string name="sina_token_invalid_warning">Weibo Account ungültig: Bitte neu einbinden</string>
   <string name="sogou_uninstall_msg">Das Sogou keyboard (Mi Edition) ist mit MIUI 7 nicht mehr kompatibel. Bitte ein anderes Keyboard verwenden oder eine Update vom jetzigen Sogou Keyboard installieren.</string>
   <string name="sogou_uninstall_negative_button">Update Sogou</string>
   <string name="sogou_uninstall_positive_button">Keyboard ändern</string>
@@ -175,7 +175,7 @@ Sie können aber nächsten Monat mitmachen."</string>
   <string name="update_feedback_need_account">Sie müssen sich zuerst mit Ihrem Mi Account anmelden</string>
   <string name="update_feedback_need_network">Bitte erst mit dem Netzwerk verbinden</string>
   <string name="update_feedback_need_update">Sie müssen zuerst die letzte Aktualisierung (Build) installieren.</string>
-  <string name="update_feel">Was hälst Du von der Update?</string>
+  <string name="update_feel">Was hälst Du von dem Update?</string>
   <string name="update_general">So-so</string>
   <string name="update_happy">Zufrieden!</string>
   <string name="update_monthly_build_only">Nur monatliche Aktualisierungen</string>
@@ -184,13 +184,13 @@ Sie können aber nächsten Monat mitmachen."</string>
   <string name="update_success_body">Version: %s</string>
   <string name="update_success_reboot_immediately">Update heruntergeladen</string>
   <string name="update_success_title">Update erfolgreich</string>
-  <string name="updater_nolog">Keine Zusammenfassung für die Update.</string>
+  <string name="updater_nolog">Keine Zusammenfassung für das Update.</string>
   <string name="updater_nonetwork">"Verbindung zum Netzwerk kann nicht hergestellt werdenk"</string>
   <string name="updater_nonetwork_clause">"Verbindung zum Netzwerk kann nicht hergestellt werden"</string>
   <string name="updater_wait_for_unzip">Update wird entpackt…</string>
   <string name="upgrade_close">Schließen</string>
   <string name="upgrade_kernel">System-Kernel ist veraltet</string>
-  <string name="upgrade_kernel_msg">"The kernel of the version you're using doesn't match the latest version of MIUI's. You need upgrade your kernel manually. Refer to Xiaomi's upgrade tutorial: 
+  <string name="upgrade_kernel_msg">"Die Kernel-Version, die Sie nutzen, stimmt nicht mit der neuesten MIUI Version überein. Sie müssen Ihr Kernel manuell erneuern. Bitte die Xiaomi Upgrade Anleitung beachten: 
 "</string>
   <string name="user_begin">Download</string>
   <string name="user_intertup_download_msg">Downloads wurde pausiert. Sie können den Download jederzeit forsetzen.</string>
@@ -198,8 +198,8 @@ Sie können aber nächsten Monat mitmachen."</string>
   <string name="validate_pkg_failed_msg">"Die Download-Quelle für diese Update kann nicht verifiziert werden. Versuchen Sie es erneut."</string>
   <string name="validate_pkg_failed_title">"Update konnte nicht verifiziert werden"</string>
   <string name="view_upgrade_tutorial">View</string>
-  <string name="vote_beta">Beta Feedback Program</string>
-  <string name="vote_error1">"Es sieht ganz so aus, das Sie kein Mitglied des Beta-Programms sind"</string>
+  <string name="vote_beta">Beta Feedback Programm</string>
+  <string name="vote_error1">"Es sieht ganz so aus, daß Sie kein Mitglied des Beta-Programms sind"</string>
   <string name="vote_error2">"Feedback konnte nicht eingetragen werden.
 Führen Sie eine Update durch und versuchen Sie es erneut"</string>
   <string name="vote_error3">"Anmeldung nicht möglich.
@@ -218,5 +218,5 @@ Ihr Feedback konnte nicht hinzugefügt werden"</string>
   <string name="welcom_button">OK</string>
   <string name="welcom_message">"Sie sind bereit zum rocken"</string>
   <string name="welcom_title">Willkommen zu MIUI 7</string>
-  <string name="worst_update">Schlechteste Update bisher</string>
+  <string name="worst_update">Schlechtestes Update bisher</string>
 </resources>
