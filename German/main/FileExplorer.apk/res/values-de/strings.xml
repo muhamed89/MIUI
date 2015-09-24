@@ -34,7 +34,7 @@
   <string name="binded_accout_description">Konten wurden synchronisiert. Sie können jetzt Ihr Mi-Konto benutzen, um Daten von KuaiPan aufzurufen.</string>
   <string name="binded_accout_title">Konten synchronisiert</string>
   <string name="byteShort">B</string>
-  <string name="can_not_send_with_too_many">"Can't send that many items"</string>
+  <string name="can_not_send_with_too_many">Kann nicht so viele Elemente senden</string>
   <string name="cancel">Abbrechen</string>
   <string name="category">Kategorien</string>
   <string name="category_all">Alle</string>
@@ -135,14 +135,14 @@
   <string name="file_info_modified">Geändert:</string>
   <string name="file_info_size">Größe:</string>
   <string name="file_loading">Wird geladen...</string>
-  <string name="file_name_invalid">"File names can't contain the following characters: /\\:*?&lt;&gt;"</string>
+  <string name="file_name_invalid">"Dateiname kann nicht folgende Zeichen enthalten: /\\:*?&lt;&gt;"</string>
   <string name="file_not_exist">Datei nicht vorhanden</string>
   <string name="file_too_large">Hochladen nicht möglich. Datei ist zu groß.</string>
   <string name="files">Dateien</string>
   <string name="finished">Abgeschlossen</string>
   <string name="folder_exist">Ordner ist bereits vorhanden</string>
-  <string name="folder_name_empty">Folder name cannot be empty</string>
-  <string name="folder_name_illegal">Invalid folder name</string>
+  <string name="folder_name_empty">Ordner Name darf nicht leer sein</string>
+  <string name="folder_name_illegal">Ungültiger Ordnername</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Hier drücken&lt;/a&gt;, um zum Papierkorb zu wechseln.</string>
   <string name="ftp_account_req_notice">4-16 Zeichen, Buchstaben und Zahlen, Groß-/Kleinschreibung</string>
   <string name="ftp_anonymous_login">Anonyme Anmeldung</string>
@@ -162,17 +162,17 @@
   <string name="group_title_extra_expire">About to expire</string>
   <string name="group_title_extra_new">New</string>
   <string name="instruction">Enter the following address into an FTP client:</string>
-  <string name="instruction_pre">Touch to start FTP server</string>
+  <string name="instruction_pre">Touch um FTP-Server zu starten.r</string>
   <string name="just_now">just now</string>
   <string name="kilobyteShort">KB</string>
-  <string name="kp_category_all">Category</string>
+  <string name="kp_category_all">Kategorie</string>
   <string name="kp_category_doc">Word</string>
   <string name="kp_category_excel">Excel</string>
   <string name="kp_category_pdf">PDF</string>
   <string name="kp_category_ppt">PowerPoint</string>
   <string name="kp_category_txt">Text</string>
   <string name="kuaipan_cloud_photo">KuaiPan photos</string>
-  <string name="kuaipan_create_shortcut_success">Shortcut created</string>
+  <string name="kuaipan_create_shortcut_success">Shortcut erstellt</string>
   <string name="kuaipan_data_formater_with_year">month M day d year YYYY</string>
   <string name="kuaipan_data_formater_without_year">M month d day</string>
   <string name="kuaipan_delete_guide_des">Delete guide？</string>
