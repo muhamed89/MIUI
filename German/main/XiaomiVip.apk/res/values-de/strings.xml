@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="action">View</string>
+  <string name="already_used">Used</string>
+  <string name="app_name">Mi VIP</string>
+  <string name="award_taken">Points collected</string>
+  <string name="award_time">Collected on %s</string>
+  <string name="awarded_package_is_expired">Expired</string>
+  <string name="awarded_package_was_redeemed">Redeemed</string>
+  <string name="browse">View</string>
+  <string name="buff_enable">[ enable ]</string>
+  <string name="cube_ptr_hours_ago"> hours ago</string>
+  <string name="cube_ptr_last_update">last update: </string>
+  <string name="cube_ptr_minutes_ago"> minutes ago</string>
+  <string name="cube_ptr_pull_down">Pull Down</string>
+  <string name="cube_ptr_pull_down_to_refresh">Pull Down to Refresh</string>
+  <string name="cube_ptr_refresh_complete">Updated.</string>
+  <string name="cube_ptr_refreshing">Updating...</string>
+  <string name="cube_ptr_release_to_refresh">Release To Refresh</string>
+  <string name="cube_ptr_seconds_ago"> seconds ago</string>
+  <string name="days">%dd</string>
+  <string name="exp_buff">+%s%% points</string>
+  <string name="experience">Pts</string>
+  <string name="expired">Expired</string>
+  <string name="fail_reach_server">"Can't connect to the server"</string>
+  <string name="giveup">Give up</string>
+  <string name="hello">Hello</string>
+  <string name="hours">%dh</string>
+  <string name="in_progress">Requesting…</string>
+  <string name="invalid_json">Something went wrong</string>
+  <string name="level">Level</string>
+  <string name="level_detail">Daily challenge limit: %d</string>
+  <string name="level_exp_value" formatted="false">Points: %d/%d</string>
+  <string name="level_info_format" formatted="false">"Level %d %d/%d
+%s"</string>
+  <string name="millis">%dms</string>
+  <string name="minutes">%dm</string>
+  <string name="my_award">My prizes</string>
+  <string name="no_app">Install the app first</string>
+  <string name="no_award">No prizes</string>
+  <string name="no_network">"Can't connect to the network"</string>
+  <string name="no_task">All challenges have been completed</string>
+  <string name="passive_task">Background challenges</string>
+  <string name="privilege">Privileges</string>
+  <string name="promote">Complete challenges to earn points</string>
+  <string name="query_level_fail">"Couldn't get info"</string>
+  <string name="query_user_tasks_fail">"Can't get challenge info"</string>
+  <string name="seconds">%ds</string>
+  <string name="take_awarded_package">Redeem</string>
+  <string name="take_awarded_package_failed">"Couldn't redeem gift. Wait a minute or two and try again."</string>
+  <string name="task">Challenges</string>
+  <string name="task_begin">In progress…</string>
+  <string name="task_completed">Completed</string>
+  <string name="task_done">Completed</string>
+  <string name="task_limit">No challenges left today. See you tomorrow!</string>
+  <string name="task_not_completed">Not completed</string>
+  <string name="task_ongoing">In progress</string>
+  <string name="task_score">%d points</string>
+  <string name="task_select_title">Choose a challenge</string>
+  <string name="task_start">Start</string>
+  <string name="task_take_award">Get prizes</string>
+  <string name="today_task">"Today's challenges"</string>
+  <string name="today_task_format" formatted="false">%d/%d</string>
+  <string name="unlimited_task">Special challenges</string>
+  <string name="upgraded">Account upgraded!</string>
+  <string name="use">Use</string>
+  <string name="validity">Expires on %s</string>
+  <string name="validity_unknown">Expiration unknown</string>
+</resources>
