@@ -1628,8 +1628,8 @@ Betriebssystem auswählen:"</string>
   <string name="onscreen_keyboard_settings_summary">Einstellungen der Bildschirmtastatur</string>
   <string name="open_wifi_connect_summary">Tippen um Details anzuzeigen.</string>
   <string name="open_wifi_connect_title">Verbinden mit %1$s</string>
-  <string name="other_advanced_settings">Additional settings</string>
-  <string name="other_personal_settings">Personal settings</string>
+  <string name="other_advanced_settings">Weitere Einstellungen</string>
+  <string name="other_personal_settings">Persönliche Einstellungen</string>
   <string name="other_relative">Weitere Rechte</string>
   <string name="overlay_display_devices_title">Sekundäre Displays simulieren</string>
   <string name="owner_info_settings_edit_text_hint">Hier Eigentümerinformationen eingeben</string>
@@ -2364,7 +2364,7 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="sync_wifi_label">WLAN</string>
   <string name="sync_wifi_only">Nur über WLAN</string>
   <string name="system">System</string>
-  <string name="system_app_settings">System-Apps</string>
+  <string name="system_app_settings">System-Programme</string>
   <string name="system_backup_section_title">Sicherungen</string>
   <string name="system_package">Systemupdates können nicht auf externen Datenträgern installiert werden.</string>
   <string name="system_storage">System Speicher</string>
