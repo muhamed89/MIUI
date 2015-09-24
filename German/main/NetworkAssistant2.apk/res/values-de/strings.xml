@@ -258,7 +258,6 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="networkchanged_exception_title">Verbindung gewechselt</string>
   <string name="no_network_btn">Erneut versuchen</string>
   <string name="none_mi_service_app_detail">Leer</string>
-  cHeute %s verbraucht. Antippen, um Limit einzustellen.</string>
   <string name="notify_daily_limit_body">Heute %s verbraucht. Antippen, um Limit einzustellen.</string>
   <string name="notify_daily_limit_title">Tageslimit festlegen</string>
   <string name="notify_daily_limit_title_for_slotnum">Tageslimit für %s festlegen</string>
