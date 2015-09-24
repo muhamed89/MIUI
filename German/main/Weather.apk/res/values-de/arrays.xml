@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="moon_desc">
-        <item>New moon</item>
-        <item>Waxing crescent</item>
-        <item>First quarter</item>
+        <item>Neumond</item>
+        <item>Zunehmender Mond</item>
+        <item>Erstes Quartal</item>
         <item>Waxing gibbous</item>
-        <item>Full moon</item>
-        <item>Waning gibbous</item>
-        <item>Last quarter</item>
-        <item>Waning crescent</item>
-        <item>Dark moon</item>
+        <item>Vollmond</item>
+        <item>Abnehmender</item>
+        <item>Letztes Quartal</item>
+        <item>Abnehmender Halbmond</item>
+        <item>Mondfinsternis</item>
     </string-array>
     <string-array name="weather_type">
-        <item>Sunny</item>
-        <item>Cloudy</item>
-        <item>Overcast</item>
-        <item>Foggy</item>
-        <item>Heavy rainstorm</item>
+        <item>Sonnig</item>
+        <item>Wolkig</item>
+        <item>Bedeckt</item>
+        <item>Neblig</item>
+        <item>Starkregen</item>
         <item>Downpour</item>
-        <item>Rainstorm</item>
+        <item>Regensturm</item>
         <item>Thunderstorm</item>
-        <item>Shower</item>
-        <item>Heavy rainfall</item>
-        <item>Moderate rain</item>
-        <item>Light rain</item>
-        <item>Rain and snow mixed</item>
+        <item>Regen</item>
+        <item>starker Regen</item>
+        <item>normaler Regen</item>
+        <item>leichter Regenschauer</item>
+        <item>Schneeregen</item>
         <item>Blizzard</item>
-        <item>Snow</item>
-        <item>Heavy snow</item>
-        <item>Moderate snow</item>
-        <item>Light snow</item>
-        <item>Strong sandstorm</item>
-        <item>Sand storm</item>
+        <item>Schnee</item>
+        <item>Starker Schneefall</item>
+        <item>Normaler Schneefall</item>
+        <item>leichter Schneefall</item>
+        <item>starker Sandsturm</item>
+        <item>Sandsturm</item>
         <item>Sand</item>
-        <item>Windy</item>
+        <item>windig</item>
         <item>Hail</item>
-        <item>Dust</item>
+        <item>Staub</item>
         <item>Haze</item>
-        <item>Freezing rain</item>
-        <item>No data</item>
+        <item>Gefrierender Regen</item>
+        <item>Keine Daten</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
-        <item>Weakest</item>
-        <item>Weak</item>
-        <item>Mid-range</item>
-        <item>Strong</item>
-        <item>Strongest</item>
+        <item>Schwächste</item>
+        <item>Schwach</item>
+        <item>Mittel</item>
+        <item>Stark</item>
+        <item>Stärkste</item>
     </string-array>
     <string-array name="wind_direction">
         <item>Wind N</item>
-        <item>Wind NE</item>
-        <item>Wind E</item>
-        <item>Wind SE</item>
+        <item>Wind NO</item>
+        <item>Wind O</item>
+        <item>Wind SO</item>
         <item>Wind S</item>
         <item>Wind SW</item>
         <item>Wind W</item>
