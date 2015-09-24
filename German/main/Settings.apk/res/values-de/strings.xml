@@ -1060,7 +1060,7 @@ Einige Apps funktionieren eventuell erst nach der Aktualisierung durch Ihre Entw
   <string name="gadget_toggle_wifi">WLAN-Einstellungen aktualisieren</string>
   <string name="gadget_wifi">WLAN</string>
   <string name="game_controller_settings_category">Spielsteuerung</string>
-  <string name="gesture_wakeup_title">Doppeltab um Bildschirm aufzuwecken/string>
+  <string name="gesture_wakeup_title">Doppeltab um Bildschirm aufzuwecken</string>
   <string name="getConfiguredNetworks">getConfiguredNetworks</string>
   <string name="getConnectionInfo">getConnectionInfo</string>
   <string name="global_change_warning">Diese Einstellung betrifft alle Nutzer auf diesem Telefon.</string>
