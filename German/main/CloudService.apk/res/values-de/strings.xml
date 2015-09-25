@@ -31,7 +31,6 @@ Um mehr Speicherplatz zu erhalten, besuchen Sie mi.com/micloud."</string>
   <string name="click_to_enabled">Berühre um zu synchronisieren.</string>
   <string name="cloud_back_up_button_ok">Sofort Stoppen</string>
   <string name="cloud_back_up_close_info">Berühre zum Sichern.</string>
-  <string name="cloud_back_up_date_format">HH:mm tt/MM/jjjj</string>
   <string name="cloud_back_up_dialog_content">"Laufende Sicherung stoppen? Wenn Sie diese jetzt stoppen, können Sie diese Sicherung nicht zur Wiederherstellung benutzen."</string>
   <string name="cloud_back_up_interval_long">7 Tage</string>
   <string name="cloud_back_up_interval_short">1 Tag</string>
