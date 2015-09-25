@@ -7,7 +7,7 @@
   <string name="app_empty">"Sie haben keine Apps heruntergeladen."</string>
   <string name="app_label">Fehler melden</string>
   <string name="btn_send">Senden</string>
-  <string name="bugreport_dump_complete_notification_summary">Zum anzeigen bitte Berühren.</string>
+  <string name="bugreport_dump_complete_notification_summary">Zum Anzeigen bitte Berühren.</string>
   <string name="bugreport_dump_complete_notification_title">Fehlerbericht erstellen</string>
   <string name="bugreport_dump_start_notification_summary">Dieses wird einige Minuten dauern.</string>
   <string name="bugreport_dump_start_notification_title">Fehlerbericht wird erstellt…</string>
@@ -37,7 +37,7 @@
   <string name="err_type_signal">Netzwerk</string>
   <string name="err_type_suggestion">Vorschläge</string>
   <string name="err_type_system">System</string>
-  <string name="err_type_system_summary">Speicher, Performance, etc.</string>
+  <string name="err_type_system_summary">Speicher, Leistung, etc.</string>
   <string name="err_type_systemapp">MIUI Apps</string>
   <string name="err_type_wifi">WLAN</string>
   <string name="err_type_xiaomi_family">Mi Familie</string>
@@ -45,11 +45,11 @@
   <string name="hot_problem">Häufige Fehler anzeigen</string>
   <string name="loading_apps">Liste wird geladen…</string>
   <string name="menu_copy">Kopieren</string>
-  <string name="modem_tool_log">Log für Modem aufnehmen</string>
-  <string name="modem_tool_log_start">Start</string>
-  <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
-  <string name="modem_tool_log_stop">Stopp</string>
-  <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
+  <string name="modem_tool_log">Modemprotokoll aufzeichnen</string>
+  <string name="modem_tool_log_start">Starten</string>
+  <string name="modem_tool_log_start_toast">"Mit der Aufzeichnung des Modemprotokolls unter %s starten"</string>
+  <string name="modem_tool_log_stop">Stoppen</string>
+  <string name="modem_tool_log_stop_toast">"Die Aufzeichnung des Modemprotokolls unter %s stoppen"</string>
   <string name="network_err">"Verbindung zum Netzwerk kann nicht aufgebaut werden ."</string>
   <string name="network_unavailable_dialog_button_ok">OK</string>
   <string name="network_unavailable_dialog_content">Ihr Bericht wird gesendet, sobald eine Datenverbindung besteht.</string>
@@ -60,7 +60,7 @@
   <string name="plus_one_submit_dialog_not_show_again">Nicht wieder anzeigen</string>
   <string name="refresh">Aktualisieren</string>
   <string name="report_miui">Fehler melden</string>
-  <string name="screen_lock">Lockscreen</string>
+  <string name="screen_lock">Sperrbildschirm</string>
   <string name="section_description">Beschreibung</string>
   <string name="section_err_type">Fehlertyp</string>
   <string name="section_screenshot">Bildschirm</string>
@@ -70,8 +70,8 @@
   <string name="submit_dialog_not_wifi_content">"Ihre Rückmeldung (Fehlerbericht und beigefügte Bilder) werden an den Mi-Server übertragen, sobald eine Verbindung zum WLAN besteht."</string>
   <string name="submit_dialog_title">Fehlerbericht senden</string>
   <string name="suggestion_description">Hier Beschreibung hinzufügen</string>
-  <string name="system_app_select">Built-in apps</string>
-  <string name="systemui">Notification shade</string>
+  <string name="system_app_select">Eingebaute Apps</string>
+  <string name="systemui">Benachrichtigungsfenster</string>
   <string name="title_nonsystem_app">Andere Apps</string>
   <string name="title_system_app">MIUI Apps</string>
   <string name="toast_description_required">Sie müssen eine Beschreibung verfassen</string>
