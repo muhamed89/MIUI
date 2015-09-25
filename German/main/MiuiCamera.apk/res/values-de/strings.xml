@@ -169,9 +169,9 @@
   <string name="pref_camera_jpegquality_entry_low">Gering</string>
   <string name="pref_camera_jpegquality_entry_normal">Standard</string>
   <string name="pref_camera_jpegquality_title">Bildqualität</string>
-  <string name="pref_camera_long_press_shutter_feature_title">Press &amp; hold Shutter button</string>
-  <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Burst shoot</string>
-  <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Focus</string>
+  <string name="pref_camera_long_press_shutter_feature_title">Auslöser lange betätigen</string>
+  <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Serienbildaufnahme</string>
+  <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Fokus</string>
   <string name="pref_camera_long_pressing_shutter_title">Press &amp; hold Shutter button to lock AE/AF/AWB</string>
   <string name="pref_camera_manual_mode_title">Manuell</string>
   <string name="pref_camera_movie_solid_title">Stabilisation</string>
