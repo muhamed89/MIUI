@@ -18,9 +18,9 @@
   <string name="account_prifix">Konto:</string>
   <string name="action">Anmelden</string>
   <string name="action_menu_text_add_bookmark">Lesezeichen hinzufügen</string>
-  <string name="action_menu_text_bandwidth">Datenkomprimierung</string>
-  <string name="action_menu_text_bandwidth_off">Datenkomprimierung deaktiviert</string>
-  <string name="action_menu_text_bandwidth_on">Datenkomprimierung aktiviert</string>
+  <string name="action_menu_text_bandwidth">Bandbreite</string>
+  <string name="action_menu_text_bandwidth_off">Bandbreite/Aus</string>
+  <string name="action_menu_text_bandwidth_on">Bandbreite/An</string>
   <string name="action_menu_text_bookmark_added">Lesezeichen hinzugefügt</string>
   <string name="action_menu_text_copy_url">URL kopieren</string>
   <string name="action_menu_text_create_qr_code">QR-Code</string>
@@ -353,7 +353,7 @@
   <string name="pref_content_homepage">Startseite einstellen</string>
   <string name="pref_content_javascript">JavaScript aktivieren</string>
   <string name="pref_content_night_read_mode">Nachtmodus</string>
-  <string name="pref_content_search_engine">Suchmaschine in der Adressleiste</string>
+  <string name="pref_content_search_engine">Suchanbieter festlegen</string>
   <string name="pref_content_search_engine_summary">Suchmaschiennbetreiber wählen</string>
   <string name="pref_enable_adblock_notification">Zeige Werbeblocker Benachrichtigungen</string>
   <string name="pref_extras_reset_default">Auf Standarteinstellungen zurücksetzen</string>
@@ -367,7 +367,7 @@
   <string name="pref_file_download_default_path_prefix">Standartverzeichnis: %s</string>
   <string name="pref_file_download_save_modify_default_path">Downloadverzeichnis</string>
   <string name="pref_file_download_save_title">Downloads</string>
-  <string name="pref_fling_on_border_enabled">Streiche von der Seite um Registerkarte zu wechseln</string>
+  <string name="pref_fling_on_border_enabled">"Tab's wechseln"</string>
   <string name="pref_fling_on_border_enabled_title_summary">Streiche vom linken oder rechten Rand des Bildschirmes, um die Registerkarten zu wechseln</string>
   <string name="pref_font_size_category">Textgröße der Webseite</string>
   <string name="pref_force_userscalable">Erzwinge Vergrößerung</string>
