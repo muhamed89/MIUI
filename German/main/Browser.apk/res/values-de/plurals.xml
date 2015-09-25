@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="last_num_days">
-        <item quantity="other">Last %d days</item>
+        <item quantity="other">Letzte %d Tage</item>
     </plurals>
     <plurals name="matches_found">
-        <item quantity="other">%1$d of %2$d</item>
-        <item quantity="one">1 match</item>
+        <item quantity="other">%1$d aus %2$d</item>
+        <item quantity="one">1 Übereinstimmung</item>
     </plurals>
     <plurals name="v5_edit_mode_title">
-        <item quantity="other">%1$d selected</item>
-        <item quantity="one">%1$d selected</item>
+        <item quantity="other">%1$d ausgewählt</item>
+        <item quantity="one">%1$d ausgewählt</item>
     </plurals>
     <plurals name="find_on_page_matches">
-        <item quantity="other">%d matches</item>
-        <item quantity="one">%d match</item>
+        <item quantity="other">%d Übereinstimmungen</item>
+        <item quantity="one">%d Übereinstimmung</item>
     </plurals>
     <plurals name="adblock_rules_number_text">
-        <item quantity="other">%d items blocked</item>
-        <item quantity="one">%d item blocked</item>
+        <item quantity="other">%d Elemente blockiert</item>
+        <item quantity="one">%d Element blockiert</item>
     </plurals>
 </resources>
