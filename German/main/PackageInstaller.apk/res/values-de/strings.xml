@@ -49,7 +49,7 @@ Alle bisherigen Nutzerdaten werden gespeichert."</string>
   <string name="installing">Wird installiert...</string>
   <string name="launch">Öffnen</string>
   <string name="lift_ban">Aufheben</string>
-  <string name="lift_ban_once">Aeinmalig aufheben</string>
+  <string name="lift_ban_once">Einmalig zulassen</string>
   <string name="low_risk_perms">Rechte mit geringem Risiko</string>
   <string name="manage_applications">Anwendungen verwalten</string>
   <string name="manage_device_administrators">Geräteadministratoren verwalten</string>
@@ -100,7 +100,7 @@ Alle bisherigen Nutzerdaten werden gespeichert."</string>
   <string name="uninstall_update_title">Update entfernen</string>
   <string name="uninstalling">Wird entfernt...</string>
   <string name="unknown">Unbekannt</string>
-  <string name="unknown_apps_dlg_text">Aus Sicherheitsgründen können Apps aus unbekannten Quellen nicht installiert werden. Sie können dies aufheben unter Einstellungen-&gt;Sicherheit-&gt;Unbekannte Quellen.</string>
+  <string name="unknown_apps_dlg_text">Aus Sicherheitsgründen können Apps aus unbekannten Quellen nicht installiert werden. Sie können dies unter Einstellungen-&gt;Sicherheit-&gt;Unbekannte Quellen aufheben.</string>
   <string name="unknown_apps_dlg_title">Installation gesperrt</string>
   <string name="unknown_installer">Unbekannte PC-Tools</string>
   <string name="virus_scan_caller_unknown">Unbekannt</string>
