@@ -220,7 +220,7 @@
   <string name="geolocation_permissions_prompt_dont_share">Ablehnen</string>
   <string name="geolocation_permissions_prompt_message">%s möchte Ihren Aufenthaltsort erfahren</string>
   <string name="geolocation_permissions_prompt_remember">Auswahl merken</string>
-  <string name="geolocation_permissions_prompt_share">Teile Aufenthaltsort</string>
+  <string name="geolocation_permissions_prompt_share">Standort freigeben</string>
   <string name="geolocation_permissions_prompt_toast_allowed">Diese Webseite hat Zugriff auf ihren Aufenhaltsort. Um dies zu änder gehen Sie bitte in Einstellungen &gt; Erweitert &gt; Website data.</string>
   <string name="geolocation_permissions_prompt_toast_disallowed">Diese Webseite kann nicht auf Ihren Standort zugreifen.</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Abbrechen</string>
