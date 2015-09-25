@@ -361,7 +361,7 @@
         <item>Keiner</item>
         <item>Logcat</item>
         <item>Systrace (Graphics)</item>
-        <item>Call stack on glGetError</item>
+        <item>Aufrufstapel auf glGetError</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Aus</item>
@@ -409,7 +409,7 @@
         <item>Initialisiert…</item>
         <item>Verbindet…</item>
         <item>Verbunden</item>
-        <item>Timeout</item>
+        <item>Zeitüberschreitung</item>
         <item>Erfolglos</item>
     </string-array>
     <string-array name="user_content_ratings_entries">
@@ -443,7 +443,7 @@
     <string-array name="usb_connection_mode_entries">
         <item>Beim Verbinden fragen</item>
         <item>Nur aufladen</item>
-        <item>SD Karte mounten</item>
+        <item>SD Karte anbringen</item>
     </string-array>
     <string-array name="led_freq_entries">
         <item>2 Sekunden</item>
@@ -515,7 +515,7 @@
     </string-array>
     <string-array name="power_mode_entries">
         <item>Leistung</item>
-        <item>Ausbalanciert</item>
+        <item>Ausgeglichen</item>
     </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP und älter</item>
