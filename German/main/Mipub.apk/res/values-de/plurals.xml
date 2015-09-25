@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">%1$s Unterhaltung löschen?</item>
+        <item quantity="other">%1$s Unterhaltungen löschen?</item>
         <item quantity="one">Diese Unterhaltung löschen?</item>
     </plurals>
 </resources>
