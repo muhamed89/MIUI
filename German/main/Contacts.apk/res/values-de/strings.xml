@@ -401,7 +401,7 @@ Grund: \"%s\""</string>
   <string name="fail_reason_no_exportable_contact">Es ist kein exportierbarer Kontakt vorhanden.</string>
   <string name="fail_reason_not_supported">"Format wird nicht unterstützt."</string>
   <string name="fail_reason_too_long_filename">Erforderlicher Dateiname ist zu lang (\"%s\").</string>
-  <string name="fail_reason_too_many_vcard">Too many vCard files are in the storage.</string>
+  <string name="fail_reason_too_many_vcard">Zu viele vCard Dateien liegen im Speicher.</string>
   <string name="fail_reason_unknown">Unbekannter Fehler.</string>
   <string name="fail_reason_vcard_parse_error">vCard konnte aus unbekanntem Grund nicht gelesen werden.</string>
   <string name="favoritesFrequentCalled">Häufig angerufen</string>
@@ -617,14 +617,14 @@ Grund: \"%s\""</string>
   <string name="miprofile_error_unknown">Unbekannter Fehler</string>
   <string name="miprofile_name">Mein Profil</string>
   <string name="miprofile_notice_text">Tippen, um das Profilfoto anzuzeigen</string>
-  <string name="miprofile_request_agenda_date">%1$s möchte die Kontaktenkarten austauschen</string>
-  <string name="miprofile_request_agenda_today">%1$s möchte die Kontaktenkarten austauschen</string>
-  <string name="miprofile_request_agenda_yesterday">%1$s möchte die Kontaktenkarten austauschen</string>
+  <string name="miprofile_request_agenda_date">%1$s möchte die Kontaktkarten austauschen</string>
+  <string name="miprofile_request_agenda_today">%1$s möchte die Kontaktkarten austauschen</string>
+  <string name="miprofile_request_agenda_yesterday">%1$s möchte die Kontaktkarten austauschen</string>
   <string name="miprofile_request_agree">Annehmen</string>
   <string name="miprofile_request_agree_exchange_profile">Kontaktkarten ausgetauscht</string>
   <string name="miprofile_request_agreed">%1$s hat dem Austausch der Kontaktkarte mit mir zugestimmt</string>
-  <string name="miprofile_request_alertdialog_message">Your card will be sent automatically after this person accepts.</string>
-  <string name="miprofile_request_alertdialog_title">Exchange contacts cards</string>
+  <string name="miprofile_request_alertdialog_message">Ihre Karte wird automatisch versandt, nachdem diese Person sie akzeptiert hat.</string>
+  <string name="miprofile_request_alertdialog_title">Kontaktkarten austauschen</string>
   <string name="miprofile_request_clear_alertdialog_message">Sie müssen diese Telefonnummer zu Ihrem MiKonto hinzufügen, um diese Funktion nutzen zu können.</string>
   <string name="miprofile_request_clear_alertdialog_title">Telefonnummer hinzufügen</string>
   <string name="miprofile_request_deleted">Karte gelöscht</string>
@@ -672,7 +672,7 @@ Grund: \"%s\""</string>
   <string name="noContacts">Keine Kontakte</string>
   <string name="noContactsHelpText">"Keine Kontakte zum Anzeigen vorhanden.
 
-Um Kontakte hinzuzufügen, berühren Sie "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
+Um Kontakte hinzuzufügen, berühren Sie "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", dann drücken Sie:
  
 "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Konten, um ein Konto hinzuzufügen oder einzurichten und mögliche Kontakte mit dem Telefon zu synchronisieren
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
@@ -932,7 +932,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="set_default">Als Standard</string>
   <string name="set_photo_failed_msg">Kontaktbild konnte nicht gesetzt werden.</string>
   <string name="share_error">Kontakt kann nicht geteilt werden</string>
-  <string name="share_over_limit">"More than 1000, can't be shared"</string>
+  <string name="share_over_limit">"Mehr als 1000 können nicht geteilt werden"</string>
   <string name="share_via">Senden mittels</string>
   <string name="share_visible_contacts">Kontakte teilen</string>
   <string name="shortcutActivityTitle">Kontaktverknüpfung auswählen</string>
