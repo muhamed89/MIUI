@@ -51,7 +51,7 @@
     <plurals name="items_file">
         <item quantity="other"> (%1$d Elemente)</item>
         <item quantity="zero"> (%1$d Elemente)</item>
-        <item quantity="one"> (%1$d Elemente)</item>
+        <item quantity="one"> (%1$d Element)</item>
         <item quantity="two"> (%1$d Elemente)</item>
         <item quantity="few"> (%1$d Elemente)</item>
         <item quantity="many"> (%1$d Elemente)</item>
@@ -59,7 +59,7 @@
     <plurals name="items_picture">
         <item quantity="other"> (%1$d Elemente)</item>
         <item quantity="zero"> (%1$d Elemente)</item>
-        <item quantity="one"> (%1$d Elemente)</item>
+        <item quantity="one"> (%1$d Element)</item>
         <item quantity="two"> (%1$d Elemente)</item>
         <item quantity="few"> (%1$d Elemente)</item>
         <item quantity="many"> (%1$d Elemente)</item>
@@ -67,7 +67,7 @@
     <plurals name="search_head_hint_app">
         <item quantity="other">App %1$s verwandte Dateien (%2$d Elemente)</item>
         <item quantity="zero">App %1$s verwandte Dateien (%2$d Elemente)</item>
-        <item quantity="one">App %1$s verwandte Dateien (%2$d Elemente)</item>
+        <item quantity="one">App %1$s verwandte Datei (%2$d Element)</item>
         <item quantity="two">App %1$s verwandte Dateien (%2$d Elemente)</item>
         <item quantity="few">App %1$s verwandte Dateien (%2$d Elemente)</item>
         <item quantity="many">App %1$s verwandte Dateien (%2$d Elemente)</item>
@@ -75,23 +75,23 @@
     <plurals name="search_head_hint_file">
         <item quantity="other">%1$s verwandte Dateien (%2$d Elemente)</item>
         <item quantity="zero">%1$s verwandte Dateien (%2$d Elemente)</item>
-        <item quantity="one">%1$s verwandte Dateien (%2$d Elemente)</item>
+        <item quantity="one">%1$s verwandte Datei (%2$d Element)</item>
         <item quantity="two">%1$s verwandte Dateien (%2$d Elemente)</item>
         <item quantity="few">%1$s verwandte Dateien (%2$d Elemente)</item>
         <item quantity="many">%1$s verwandte Dateien (%2$d Elemente)</item>
     </plurals>
     <plurals name="search_head_hint_tag">
-        <item quantity="other">Tag %1$s verwandte Dateien (%2$d Elemente)</item>
-        <item quantity="zero">Tag %1$s verwandte Dateien (%2$d Elemente)</item>
-        <item quantity="one">Tag %1$s verwandte Dateien (%2$d Elemente)</item>
-        <item quantity="two">Tag %1$s verwandte Dateien (%2$d Elemente)</item>
-        <item quantity="few">Tag %1$s verwandte Dateien (%2$d Elemente)</item>
-        <item quantity="many">Tag %1$s verwandte Dateien (%2$d Elemente)</item>
+        <item quantity="other">Markiere %1$s verwandte Dateien (%2$d Elemente)</item>
+        <item quantity="zero">Markiere %1$s verwandte Dateien (%2$d Elemente)</item>
+        <item quantity="one">Markiere %1$s verwandte Datei (%2$d Element)</item>
+        <item quantity="two">Markiere %1$s verwandte Dateien (%2$d Elemente)</item>
+        <item quantity="few">Markiere %1$s verwandte Dateien (%2$d Elemente)</item>
+        <item quantity="many">Markiere %1$s verwandte Dateien (%2$d Elemente)</item>
     </plurals>
     <plurals name="mins_ago">
         <item quantity="other">Vor %1$d Minuten</item>
         <item quantity="zero">Vor %1$d Minuten</item>
-        <item quantity="one">Vor %1$d Minuten</item>
+        <item quantity="one">Vor %1$d Minute</item>
         <item quantity="two">Vor %1$d Minuten</item>
         <item quantity="few">Vor %1$d Minuten</item>
         <item quantity="many">Vor %1$d Minuten</item>
@@ -99,7 +99,7 @@
     <plurals name="hours_ago">
         <item quantity="other">Vor %1$d Stunden</item>
         <item quantity="zero">Vor %1$d Stunden</item>
-        <item quantity="one">Vor %1$d Stunden</item>
+        <item quantity="one">Vor %1$d Stunde</item>
         <item quantity="two">Vor %1$d Stunden</item>
         <item quantity="few">Vor %1$d Stunden</item>
         <item quantity="many">Vor %1$d Stunden</item>
@@ -107,7 +107,7 @@
     <plurals name="days_ago">
         <item quantity="other">Vor %1$d Tagen</item>
         <item quantity="zero">Vor %1$d Tagen</item>
-        <item quantity="one">Vor %1$d Tagen</item>
+        <item quantity="one">Vor %1$d Tag</item>
         <item quantity="two">Vor %1$d Tagen</item>
         <item quantity="few">Vor %1$d Tagen</item>
         <item quantity="many">Vor %1$d Tagen</item>
@@ -115,41 +115,41 @@
     <plurals name="found_new_files">
         <item quantity="other">%1$d neue Dateien gefunden</item>
         <item quantity="zero">%1$d neue Dateien gefunden</item>
-        <item quantity="one">%1$d neue Dateien gefunden</item>
+        <item quantity="one">%1$d neue Datei gefunden</item>
         <item quantity="two">%1$d neue Dateien gefunden</item>
         <item quantity="few">%1$d neue Dateien gefundens</item>
         <item quantity="many">%1$d neue Dateien gefunden</item>
     </plurals>
     <plurals name="file_notify_title">
         <item quantity="other">%1$d Dateien der App %2$s empfangen</item>
-        <item quantity="zero">Received %1$d Dateien der App %2$s empfangen</item>
-        <item quantity="one">Received %1$d Dateien der App %2$s empfangen</item>
-        <item quantity="two">Received %1$d Dateien der App %2$s empfangen</item>
-        <item quantity="few">Received %1$d Dateien der App %2$s empfangen</item>
-        <item quantity="many">Received %1$d Dateien der App %2$s empfangen</item>
+        <item quantity="zero">%1$d Dateien der App %2$s empfangen</item>
+        <item quantity="one">%1$d Datei der App %2$s empfangen</item>
+        <item quantity="two">%1$d Dateien der App %2$s empfangen</item>
+        <item quantity="few">%1$d Dateien der App %2$s empfangen</item>
+        <item quantity="many">%1$d Dateien der App %2$s empfangen</item>
     </plurals>
     <plurals name="file_notify_title_wechat_video">
-        <item quantity="other">Received %1$d files of WeChat</item>
-        <item quantity="zero">Received %1$d file of WeChat</item>
-        <item quantity="one">Received %1$d file of WeChat</item>
-        <item quantity="two">Received %1$d files of WeChat</item>
-        <item quantity="few">Received %1$d files of WeChat</item>
-        <item quantity="many">Received %1$d files of WeChat</item>
+        <item quantity="other">%1$d Dateien von WeChat empfangen</item>
+        <item quantity="zero">%1$d Dateien von WeChat empfangen</item>
+        <item quantity="one">%1$d Datei von WeChat empfangen</item>
+        <item quantity="two">%1$d Dateien von WeChat empfangen</item>
+        <item quantity="few">%1$d Dateien von WeChat empfangen</item>
+        <item quantity="many">%1$d Dateien von WeChat empfangen</item>
     </plurals>
     <plurals name="file_notify_title_wechat_video_expire">
-        <item quantity="other">%1$d files of WeChat Video will expire</item>
-        <item quantity="zero">%1$d file of WeChat Video will expire</item>
-        <item quantity="one">%1$d file of WeChat Video will expire</item>
-        <item quantity="two">%1$d files of WeChat Video will expire</item>
-        <item quantity="few">%1$d files of WeChat Video will expire</item>
-        <item quantity="many">%1$d files of WeChat Video will expire</item>
+        <item quantity="other">%1$d Dateien von WeChat Video werden ablaufen</item>
+        <item quantity="zero">%1$d Dateien von WeChat Video werden ablaufen</item>
+        <item quantity="one">%1$d Datei von WeChat Video wird ablaufen</item>
+        <item quantity="two">%1$d Dateien von WeChat Video werden ablaufen</item>
+        <item quantity="few">%1$d Dateien von WeChat Video werden ablaufen</item>
+        <item quantity="many">%1$d Dateien von WeChat Video werden ablaufen</item>
     </plurals>
     <plurals name="backup_message_wechat_video">
-        <item quantity="other">%1$d files of WeChat temp video will be cleared, Do you need back up?</item>
-        <item quantity="zero">%1$d file of WeChat temp video will be cleared, Do you need back up?</item>
-        <item quantity="one">%1$d file of WeChat temp video will be cleared, Do you need back up?</item>
-        <item quantity="two">%1$d files of WeChat temp video will be cleared, Do you need back up?</item>
-        <item quantity="few">%1$d files of WeChat temp video will be cleared, Do you need back up?</item>
-        <item quantity="many">%1$d files of WeChat temp video will be cleared, Do you need back up?</item>
+        <item quantity="other">%1$d Dateien von WeChat temporären Videos werden gelöscht, möchten Sie ein Backup erstellen?</item>
+        <item quantity="zero">%1$d Dateien von WeChat temporären Videos werden gelöscht, möchten Sie ein Backup erstellen?</item>
+        <item quantity="one">%1$d Datei von WeChat temporären Videos wird gelöscht, möchten Sie ein Backup erstellen?</item>
+        <item quantity="two">%1$d Dateien von WeChat temporären Videos werden gelöscht, möchten Sie ein Backup erstellen?</item>
+        <item quantity="few">%1$d Dateien von WeChat temporären Videos werden gelöscht, möchten Sie ein Backup erstellen?</item>
+        <item quantity="many">%1$d Dateien von WeChat temporären Videos werden gelöscht, möchten Sie ein Backup erstellen?</item>
     </plurals>
 </resources>
