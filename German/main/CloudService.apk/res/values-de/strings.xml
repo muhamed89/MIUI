@@ -70,7 +70,7 @@ Zuletzt gesichert am %2$s"</string>
   <string name="find_device_disabled_title">Gerät suchen ist ausgeschalten</string>
   <string name="find_device_disabling">Schalte aus…</string>
   <string name="find_device_dspt">Finden, sperren oder Zurücksetzten deines Gerätes aus der Ferne</string>
-  <string name="find_device_dspt_provision">"Wenn Sie ihr Gerät verloren haben, können Sie auf %s gehen um es zu lokalisieren, zu sperren, oder es in den Werkszustand zurück versetzen. Sie können dies Funktion jederzeit in den Einstellungen ändern.
+  <string name="find_device_dspt_provision">"Wenn Sie ihr Gerät verloren haben, können Sie auf %s gehen um es zu lokalisieren, zu sperren, oder es in den Werkszustand zurück versetzen. Sie können diese Funktion jederzeit in den Einstellungen ändern.
 "</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
   <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
