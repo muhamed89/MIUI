@@ -37,10 +37,10 @@ Betrachte die Datenschutzbestimmungen für deine aktuelle Tastatur."</string>
   <string name="sim_card_detecting_title">Überprüfe auf SIM-Karte</string>
   <string name="sim_card_detection">Lege SIM-Karte ein</string>
   <string name="sim_card_detection_info">Um die SIM-Karte einzulegen, sollten Sie die beim Handy beiliegende Anleitung lesen.</string>
-  <string name="sim_dectection_next">Continue</string>
+  <string name="sim_dectection_next">Fortsetzen</string>
   <string name="sim_redetection">Nochmal überprüfen</string>
   <string name="skip_underline">&lt;u&gt;Diesen Schritt überspringen&lt;/u&gt;</string>
-  <string name="summary_not_set">Not set</string>
+  <string name="summary_not_set">Nicht festgelegt</string>
   <string name="summary_sim_card">Karte %1$d</string>
   <string name="summary_sim_card_with_operator">Karte %1$d: %2$s</string>
   <string name="terms_of_use">Allgemeine Geschäftsbedingungen</string>
