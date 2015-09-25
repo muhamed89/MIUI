@@ -31,7 +31,6 @@
   <string name="cloud_restore_task">Wiederherstellung…</string>
   <string name="cloud_task_in_process">"Stop %s und lösche diese Sicherung? Sie können diese Aktion nicht rückgängig machen."</string>
   <string name="customization">&lt;u&gt;Bearbeite&lt;/u&gt;</string>
-  <string name="date_format">HH:mm:ss MM-tt-JJJJ</string>
   <string name="deskclock_backup">Alarm clock</string>
   <string name="desktop_downloading">Lade</string>
   <string name="desktop_installing">Installiere</string>
@@ -40,7 +39,6 @@
   <string name="desktop_waiting">Warte</string>
   <string name="device_delete_prompt">Lösche Sicherung von %s?</string>
   <string name="device_xiaomi">Mi Telefon</string>
-  <string name="dir_date_format">HHmmss_MMttJJJJ</string>
   <string name="download_settings">Startbildschirm Einstellungen herunterladen %s%%</string>
   <string name="download_settings_fail">"Konnte Startbildschirm Einstellungen herunterladen"</string>
   <string name="error_unknown">Irgendwas ging schief</string>
