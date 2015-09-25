@@ -774,8 +774,8 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="default_usb_mode">USB Verbindung</string>
   <string name="delete">Löschen</string>
   <string name="deny">Ablehnen</string>
-  <string name="deny_sms_message">"Don't allow installed apps to send SMS"</string>
-  <string name="deny_sms_title">Lock SMS</string>
+  <string name="deny_sms_message">Installierten Apps das Senden von SMS verbieten</string>
+  <string name="deny_sms_title">SMS sperren</string>
   <string name="details_subtitle">Details</string>
   <string name="details_title">Details zum Verbrauch</string>
   <string name="dev_settings_warning_message">Diese Einstellungen sind ausschließlich für Entwicklungszwecke geeignet. Sie können Ihr Gerät und die darauf installierten Apps beschädigen oder zu unerwünschtem Verhalten führen.</string>
@@ -2079,7 +2079,7 @@ Diese Einstellung betrifft alle Nutzer auf diesem Telefon."</string>
   <string name="search_date_time">Datum / Uhrzeit</string>
   <string name="search_description">Sucheinstellungen</string>
   <string name="search_display">Bildschirm</string>
-  <string name="search_font">Schrift</string>
+  <string name="search_font">Schriftart</string>
   <string name="search_gps">GPS</string>
   <string name="search_handy_mode">handy mode</string>
   <string name="search_hint">Suche Einstellungen</string>
