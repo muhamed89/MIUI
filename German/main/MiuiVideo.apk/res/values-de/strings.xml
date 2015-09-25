@@ -10,7 +10,7 @@
   <string name="add_more_addons">Mehr Addons hinzufügen</string>
   <string name="addon">Plugins</string>
   <string name="addon_category">Addons</string>
-  <string name="addon_install_complete_disc">%s Addons installiert. Anzeigen unter /My videos/.</string>
+  <string name="addon_install_complete_disc">%s Addons installiert. Anzeigen unter /Meine Videos/.</string>
   <string name="addon_update_desc">Neue Version gefunden. Jetzt aktualisieren?</string>
   <string name="adjust_position_next_media_notice">Weiter</string>
   <string name="adjust_position_prev_media_notice">Zurück</string>
