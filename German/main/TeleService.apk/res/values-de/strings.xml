@@ -5,6 +5,8 @@
   <string name="active_phone_sim_absent">Jetzt SIM Karte einfügen</string>
   <string name="active_phone_success_nochoice">SIM Karte erkannt</string>
   <string name="active_phone_success_toast">SIM Karte %1$s erkannt</string>
+  <string name="phoneAppLabel">Telefon</string>
+  <string name="phoneIconLabel">Telefon</string>
   <string name="activing_simcard">Überprüfe SIM %1$d</string>
   <string name="activing_simcard_alone">Überprüfe SIM</string>
   <string name="add">Hinzufügen</string>
@@ -687,8 +689,6 @@ Nochmal versuchen oder rufen Sie den Kundendienst für weitere Optionen an."</st
   <string name="password_changed">Passwort geändert</string>
   <string name="password_title">Passwort</string>
   <string name="payphone">Telefonzelle</string>
-  <string name="phoneAppLabel">Telefon</string>
-  <string name="phoneIconLabel">Telefon</string>
   <string name="phone_entered_ecm_text">Notfallrückrufmodus einschalten</string>
   <string name="phone_in_ecm_call_notification_text">Datenverbindung ausgeschaltet</string>
   <string name="phone_in_ecm_notification_title">Notfallrückrufmodus</string>
