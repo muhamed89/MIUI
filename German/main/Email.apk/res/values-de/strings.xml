@@ -216,7 +216,7 @@
   <string name="chat_view_title">Unterhaltungsansicht</string>
   <string name="check_setup_data">Prüfe Servereinstellungen…</string>
   <string name="choosertitle_sharevia">Teile mittels</string>
-  <string name="clear">Lösche</string>
+  <string name="clear">Löschen</string>
   <string name="clear_display_images_whitelist_dialog_message">Beenden der Anzeige von eingebetteten Bilder von Absendern, welche Sie vorher erlaubt haben.</string>
   <string name="clear_display_images_whitelist_dialog_title">Lösche Bild Genehmigungen?</string>
   <string name="clear_display_images_whitelist_title">Lösche Bild Genehmigungen</string>
