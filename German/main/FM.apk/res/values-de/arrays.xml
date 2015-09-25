@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="sleep_duration_values">
-        <item>15 minutes</item>
-        <item>30 minutes</item>
-        <item>45 minutes</item>
-        <item>1 hour</item>
+        <item>15 Minuten</item>
+        <item>30 Minuten</item>
+        <item>45 Minuten</item>
+        <item>1 Stunde</item>
     </string-array>
     <string-array name="sleep_duration_values_seconds">
         <item>900</item>
@@ -13,10 +13,10 @@
         <item>3600</item>
     </string-array>
     <string-array name="search_category_rbds_entries">
-        <item>All Stations</item>
+        <item>Alle Sender</item>
         <item>Adult Hits</item>
-        <item>Classical</item>
-        <item>Classic Rock</item>
+        <item>Klassik</item>
+        <item>Klassik Rock</item>
         <item>College</item>
         <item>Country</item>
         <item>Emergency</item>
@@ -25,21 +25,21 @@
         <item>Information</item>
         <item>Jazz</item>
         <item>News</item>
-        <item>Nostalgia</item>
+        <item>Nostalgie</item>
         <item>Oldies</item>
         <item>Personality</item>
         <item>Public</item>
-        <item>Religious Music</item>
-        <item>Religious Talk</item>
+        <item>Religiöse Musik</item>
+        <item>Religiöser Talk</item>
         <item>Rhythm and Blues</item>
         <item>Rock</item>
         <item>Soft</item>
         <item>Soft Rock</item>
         <item>Soft Rhythm and Blues</item>
-        <item>Sports</item>
+        <item>Sport</item>
         <item>Talk</item>
         <item>Top 40</item>
-        <item>Weather</item>
+        <item>Wetter</item>
     </string-array>
     <string-array name="search_category_rbds_values">
         <item>0</item>
@@ -71,38 +71,38 @@
         <item>29</item>
     </string-array>
     <string-array name="search_category_rds_entries">
-        <item>All Stations</item>
-        <item>Culture</item>
-        <item>Current Affairs</item>
-        <item>Children programs</item>
-        <item>Country Music</item>
-        <item>Documentary</item>
+        <item>Alle Sender</item>
+        <item>Kultur</item>
+        <item>aktuelle Angelegenheiten</item>
+        <item>Kinderprogramme</item>
+        <item>Country Musik</item>
+        <item>Dokumentation</item>
         <item>Drama</item>
-        <item>Easy Listening Music</item>
-        <item>Education</item>
+        <item>Easy Listening Musik</item>
+        <item>Bildung</item>
         <item>Emergency</item>
         <item>Emergency Test</item>
-        <item>Finance</item>
-        <item>Folk Music</item>
+        <item>Finanzen</item>
+        <item>Volksmusik</item>
         <item>Information</item>
-        <item>Jazz Music</item>
-        <item>Light classical</item>
-        <item>Leisure</item>
+        <item>Jazz Musik</item>
+        <item>Leichte Klassik</item>
+        <item>Freizeit</item>
         <item>News</item>
-        <item>National Music</item>
-        <item>Other Music</item>
-        <item>Oldies Music</item>
+        <item>National Musik</item>
+        <item>Andere Musik</item>
+        <item>Oldies Musik</item>
         <item>Phone In</item>
-        <item>Pop Music</item>
+        <item>Pop Musik</item>
         <item>Religion</item>
-        <item>Rock Music</item>
-        <item>Science</item>
-        <item>Serious classical</item>
-        <item>Social Affairs</item>
+        <item>Rock Musik</item>
+        <item>Wissenschaft</item>
+        <item>Ernste Klassic</item>
+        <item>Soziale Angelegenheiten</item>
         <item>Sport</item>
-        <item>Travel</item>
-        <item>Varied</item>
-        <item>Weather</item>
+        <item>Reisen</item>
+        <item>Verschiedenes</item>
+        <item>Wetter</item>
     </string-array>
     <string-array name="search_category_rds_values">
         <item>0</item>
@@ -139,47 +139,47 @@
         <item>16</item>
     </string-array>
     <string-array name="presetlist_edit_category">
-        <item>Rename</item>
-        <item>Auto-select</item>
-        <item>Delete</item>
+        <item>Umbenennen</item>
+        <item>Automatisch auswählen</item>
+        <item>Löschen</item>
     </string-array>
     <string-array name="regional_band_entries">
-        <item>North America</item>
-        <item>Europe</item>
+        <item>Nordamerika</item>
+        <item>Europa</item>
         <item>Japan</item>
         <item>Japan (Wide)</item>
-        <item>Australia</item>
-        <item>Austria</item>
-        <item>Belgium</item>
-        <item>Brazil</item>
+        <item>Australien</item>
+        <item>Österreich</item>
+        <item>Belgien</item>
+        <item>Brasilien</item>
         <item>China</item>
-        <item>Czech</item>
-        <item>Denmark</item>
-        <item>Finland</item>
-        <item>France</item>
-        <item>Germany</item>
-        <item>Greece</item>
+        <item>Tschechien</item>
+        <item>Dänemark</item>
+        <item>Finnland</item>
+        <item>Frankreich</item>
+        <item>Deutschland</item>
+        <item>Griechenland</item>
         <item>Hong Kong</item>
-        <item>India</item>
-        <item>Ireland</item>
-        <item>Italy</item>
+        <item>Indien</item>
+        <item>Irland</item>
+        <item>Italien</item>
         <item>Korea</item>
-        <item>Mexico</item>
-        <item>Netherlands</item>
-        <item>New Zealand</item>
-        <item>Norway</item>
-        <item>Poland</item>
+        <item>Mexiko</item>
+        <item>Niederlande</item>
+        <item>Neuseeland</item>
+        <item>Norwegen</item>
+        <item>Polen</item>
         <item>Portugal</item>
-        <item>Russia</item>
-        <item>Singapore</item>
-        <item>Slovakia</item>
-        <item>Spain</item>
-        <item>Switzerland</item>
-        <item>Sweden</item>
+        <item>Russland</item>
+        <item>Singapur</item>
+        <item>Slovakei</item>
+        <item>Spanien</item>
+        <item>Schweiz</item>
+        <item>Schweden</item>
         <item>Taiwan</item>
-        <item>Turkey</item>
-        <item>United Kingdom</item>
-        <item>United States</item>
+        <item>Türkei</item>
+        <item>Großbritannien</item>
+        <item>USA</item>
     </string-array>
     <string-array name="regional_band_values">
         <item>0</item>
@@ -220,59 +220,59 @@
         <item>35</item>
     </string-array>
     <string-array name="regional_band_summary">
-        <item>North America (87.5MHz To 108.0MHz In 200 Khz Steps)</item>
-        <item>Europe (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-        <item>Japan (76.0MHz To 90.0MHz In 100 Khz Steps)</item>
-        <item>Japan (Wide) (90.0MHz To 108.0MHz In 50 Khz Steps)</item>
-        <item>Australia (87.7MHz To 108.0MHz In 100 Khz Steps)</item>
-        <item>Austria (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
-        <item>Belgium (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-        <item>Brazil (87.8MHz To 108.0MHz In 200 Khz Step)</item>
-        <item>China (87.0MHz To 108.0MHz In 100 Khz Steps)</item>
-        <item>Czech (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-        <item>Denmark (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
-        <item>Finland (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-        <item>France (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-        <item>Germany (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
-        <item>Greece (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
-        <item>Hong Kong (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-        <item>India (91.0MHz To 106.4MHz In 100 Khz Steps)</item>
-        <item>Ireland (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
-        <item>Italy (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
-        <item>Korea (87.5MHz To 108.0MHz In 200 Khz Steps)</item>
-        <item>Mexico (88.1MHz To 107.9MHz In 200 Khz Steps)</item>
-        <item>Netherlands (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-        <item>New Zealand (88.0MHz To 107.0MHz In 100 Khz Steps)</item>
-        <item>Norway (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-        <item>Poland (88.0MHz To 108.0MHz In 50 Khz Steps)</item>
-        <item>Portugal (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
-        <item>Russia (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-        <item>Singapore (88.0MHz To 108.0MHz In 100 Khz Steps)</item>
-        <item>Slovakia (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-        <item>Spain (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-        <item>Switzerland (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-        <item>Sweden (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-        <item>Taiwan (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-        <item>Turkey (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-        <item>United Kingdom (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-        <item>United States (88.1MHz To 107.9MHz In 200 Khz Steps)</item>
+        <item>Nordamerika (87.5MHz bis 108.0MHz in 200 Khz Schritten)</item>
+        <item>Europa (87.5MHz bis 108.0MHz in 100 Khz Schritten)</item>
+        <item>Japan (76.0MHz bis 90.0MHz in 100 Khz Schritten)</item>
+        <item>Japan (Wide) (90.0MHz bis 108.0MHz in 50 Khz Schritten)</item>
+        <item>Australien (87.7MHz bis 108.0MHz in 100 Khz Schritten)</item>
+        <item>Österreich (87.5MHz bis 108.0MHz in 50 Khz Schritten)</item>
+        <item>Belgien (87.5MHz bis 108.0MHz in 100 Khz Schritten)</item>
+        <item>Brasilien (87.8MHz bis 108.0MHz in 200 Khz Schritten)</item>
+        <item>China (87.0MHz bis 108.0MHz in 100 Khz Schritten)</item>
+        <item>Tschechien (87.5MHz bis 108.0MHz in 100 Khz Schritten)</item>
+        <item>Dänemark (87.5MHz bis 108.0MHz in 50 Khz Schritten)</item>
+        <item>Finnland (87.5MHz bis 108.0MHz in 100 Khz Schritten)</item>
+        <item>Frankreich (87.5MHz bis 108.0MHz in 100 Khz Schritten)</item>
+        <item>Deutschland (87.5MHz bis 108.0MHz in 50 Khz Schritten)</item>
+        <item>Griechenland (87.5MHz bis 108.0MHz in 50 Khz Schritten)</item>
+        <item>Hong Kong (87.5MHz bis 108.0MHz in 100 Khz Schritten)</item>
+        <item>Indien (91.0MHz bis 106.4MHz in 100 Khz Schritten)</item>
+        <item>Irland (87.5MHz bis 108.0MHz in 50 Khz Schritten)</item>
+        <item>Italien (87.5MHz bis 108.0MHz in 50 Khz Schritten)</item>
+        <item>Korea (87.5MHz bis 108.0MHz in 200 Khz Schritten)</item>
+        <item>Mexiko (88.1MHz bis 107.9MHz in 200 Khz Schritten)</item>
+        <item>Niederlande (87.5MHz bis 108.0MHz in 100 Khz Schritten)</item>
+        <item>Neuseeland (88.0MHz bis 107.0MHz in 100 Khz Schritten)</item>
+        <item>Norwegen (87.5MHz bis 108.0MHz in 100 Khz Schritten)</item>
+        <item>Polen (88.0MHz bis 108.0MHz in 50 Khz Schritten)</item>
+        <item>Portugal (87.5MHz bis 108.0MHz in 50 Khz Schritten)</item>
+        <item>Russland (87.5MHz bis 108.0MHz in 100 Khz Schritten)</item>
+        <item>Singapur (88.0MHz bis 108.0MHz in 100 Khz Schritten)</item>
+        <item>Slovakei (87.5MHz bis 108.0MHz in 100 Khz Schritten)</item>
+        <item>Spanien (87.5MHz bis 108.0MHz in 100 Khz Schritten)</item>
+        <item>Schweiz (87.5MHz bis 108.0MHz in 100 Khz Schritten)</item>
+        <item>Schweden (87.5MHz bis 108.0MHz in 100 Khz Schritten)</item>
+        <item>Taiwan (87.5MHz bis 108.0MHz in 100 Khz Schritten)</item>
+        <item>Türkei (87.5MHz bis 108.0MHz in 100 Khz Schritten)</item>
+        <item>Großbritannien (87.5MHz bis 108.0MHz in 100 Khz Schritten)</item>
+        <item>USA (88.1MHz bis 107.9MHz in 200 Khz Schritten)</item>
     </string-array>
     <string-array name="rf_cfg">
-        <item>Get current station parameters</item>
-        <item>Get station parameters (repeat 20 times)</item>
-        <item>Get Search station parameters</item>
-        <item>Get FM band sweep parameters</item>
-        <item>Configure FM search parameters</item>
+        <item>Erhalte Parameter des aktuellen Senders</item>
+        <item>Erhalte Sender-Parameter (20x wiederholen)</item>
+        <item>Erhalte Such-Station Parameter</item>
+        <item>Erhalte FM band sweep Parameter</item>
+        <item>FM Suchparameter konfigurieren</item>
     </string-array>
     <string-array name="cfg_rf">
-        <item>Set FM RSSI delta</item>
-        <item>Set signal threshold</item>
-        <item>RF statistics</item>
+        <item>Setze FM RSSI delta</item>
+        <item>Setze Signalgrenzwert</item>
+        <item>RF Statistiken</item>
     </string-array>
     <string-array name="stats_options">
-        <item>Additional options</item>
-        <item>Configure FM search parameters</item>
-        <item>RF statistics</item>
+        <item>Erweiterte Optionen</item>
+        <item>FM Suchparameter konfigurieren</item>
+        <item>RF Statistiken</item>
     </string-array>
     <string-array name="freq_entries">
         <item>" "</item>
