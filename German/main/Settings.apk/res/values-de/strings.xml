@@ -561,11 +561,11 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="check_update">Updates suchen</string>
   <string name="checkbox_notification_same_as_incoming_call">Lautstärke von eingehenden Anrufen für Benachrichtigungen verwenden.</string>
   <string name="checking_for_updates">Prüfe auf Updates...</string>
-  <string name="children_mode_enable_title">Kind Modus</string>
+  <string name="children_mode_enable_title">Kindermodus</string>
   <string name="children_mode_set_apps_title">Zugängliche Apps</string>
-  <string name="children_mode_tips_off">Nachdem der Kind Modus eingeschaltet wurde, drücke den Home Button um zurück zu kehren.</string>
-  <string name="children_mode_tips_on">Nachdem der Kind Modus ausgeschaltet wurde, drücke den Home Button um zurück zu kehren.</string>
-  <string name="children_mode_title">Kind Modus</string>
+  <string name="children_mode_tips_off">Nachdem der Kindermodus eingeschaltet wurde, drücke den Home Button um zurück zu kehren.</string>
+  <string name="children_mode_tips_on">Nachdem der Kindermodus ausgeschaltet wurde, drücke den Home Button um zurück zu kehren.</string>
+  <string name="children_mode_title">Kindermodus</string>
   <string name="choose_smartcover_type">Wähle einen Typ</string>
   <string name="choose_timezone">Zeitzone wählen</string>
   <string name="cleaner">Bereinigung</string>
@@ -2390,8 +2390,8 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="title_dolby_control">Dolby Mobile</string>
   <string name="title_font">Font</string>
   <string name="title_font2">Font</string>
-  <string name="title_font_current">System font</string>
-  <string name="title_font_current2">System font</string>
+  <string name="title_font_current">Systemschriftart</string>
+  <string name="title_font_current2">Systemschriftart</string>
   <string name="title_font_size">Schriftgröße</string>
   <string name="title_hdmi_color_calibration">Farbkorrektur Voreinstellung</string>
   <string name="title_layout_current">Text Größe</string>
