@@ -195,7 +195,7 @@
   <string name="my_favorite">Markierte</string>
   <string name="my_local_favorite">lokal markierte</string>
   <string name="my_offline">Offline</string>
-  <string name="mycamera">Meine videos</string>
+  <string name="mycamera">Meine Videos</string>
   <string name="myfavorite">Sterne</string>
   <string name="myfavorite_onlylocal">Markiert</string>
   <string name="need_upgrade_button">Überprüfen</string>
@@ -317,7 +317,7 @@
   <string name="toast_message_continue_play_hour">h </string>
   <string name="toast_message_continue_play_minute">m </string>
   <string name="toast_message_continue_play_second_and_play">s</string>
-  <string name="top_status_local_media">Local</string>
+  <string name="top_status_local_media">Lokal</string>
   <string name="top_status_offline_media">Offline</string>
   <string name="top_status_online_media">Online</string>
   <string name="total_episode">%1$s Episodes</string>
