@@ -1729,7 +1729,7 @@ Betriebssystem auswählen:"</string>
   <string name="power_mode_balanced_title">Ausbalanciert einschalten</string>
   <string name="power_phone">Anrufe</string>
   <string name="power_screen">Bildschirm</string>
-  <string name="power_settings_title">Einstellungen</string>
+  <string name="power_settings_title">Einstellung</string>
   <string name="power_usage_history">Akkuverbrauch</string>
   <string name="power_usage_level_and_status">%1$s - %2$s</string>
   <string name="power_usage_not_available">Keine Daten zum Akkuverbrauch</string>
