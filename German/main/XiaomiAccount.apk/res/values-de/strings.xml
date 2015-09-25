@@ -111,7 +111,7 @@
   <string name="facebook">Facebook</string>
   <string name="failed_dup_secure_phone_number">Diese Mobilrufnummer ist bereits mit einem Mi Konto verknüpft.</string>
   <string name="find_password_on_web_msg">Besuche account.mi.com um dein Passwort zurückzusetzen.</string>
-  <string name="forget_password">&lt;u&gt;Passwort vergessen&lt;/u&gt;</string>
+  <string name="forget_password">Passwort vergessen</string>
   <string name="get_back_pwd">Passwort zurücksetzen</string>
   <string name="get_device_list_failed">"Geräte können nicht gefunden werden"</string>
   <string name="get_email_verifycode_exceed_limit">Es wurden zu viele Verifizierungscodes an die angegebene E-Mail-Adresse gesendet. Warte 24 Stunden und versuche es erneut.</string>
