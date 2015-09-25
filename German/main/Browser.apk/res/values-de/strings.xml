@@ -264,7 +264,7 @@
   <string name="media_error_timeout">Netzwerkverbindung Zeitüberschreitung</string>
   <string name="media_error_video_not_exist">"Video nicht verfügbar"</string>
   <string name="media_player_error_button">OK</string>
-  <string name="media_player_error_text_invalid_progressive_playback">Verzeihung, dieses Video kann nicht zu diesem GErät gestreamt werden.</string>
+  <string name="media_player_error_text_invalid_progressive_playback">Verzeihung, dieses Video kann nicht zu diesem Gerät gestreamt werden.</string>
   <string name="media_player_error_text_unknown">Dieses Video kann nicht abgespielt werden.</string>
   <string name="media_player_error_title">Video kann nicht abgespielt werden</string>
   <string name="media_player_loading_video">Video wird geladen</string>
