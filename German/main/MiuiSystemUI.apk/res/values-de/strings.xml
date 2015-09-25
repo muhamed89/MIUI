@@ -168,8 +168,8 @@ Bitte Ladegerät benutzen."</string>
   <string name="status_bar_recent_guide_bottom">Zum Sperren nach unten ziehen</string>
   <string name="status_bar_recent_guide_top">Zum Beenden nach oben ziehen</string>
   <string name="status_bar_recent_inspect_item_title">App-Info</string>
-  <string name="status_bar_recent_memory_info1">"%s "</string>
-  <string name="status_bar_recent_memory_info2">" %s verfügbar"</string>
+  <string name="status_bar_recent_memory_info1">%1$sB von %2$sB verfügbar</string>
+  <string name="status_bar_recent_memory_info2" />
   <string name="status_bar_recording_back">Berühren, um zum Rekorder zurückzukehren</string>
   <string name="status_bar_recording_pause">Aufnahme wurde angehalten.</string>
   <string name="status_bar_settings_airplane">Flugmodus</string>
