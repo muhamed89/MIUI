@@ -45,7 +45,7 @@
   <string name="call_recording_notification_message_sd_unmounted">SD Karte wurde entfernt.</string>
   <string name="call_recording_notification_title">Anruf aufgezeichnet</string>
   <string name="call_recording_notification_title_error">"Anruf kann nicht aufgezeichnet werden"</string>
-  <string name="call_title_redialing_with_times">Redialed %d times</string>
+  <string name="call_title_redialing_with_times">%d Wahlwiederholungen</string>
   <string name="caller_manage_header">Konferenzanruf %s</string>
   <string name="calling_via_template">Anruf über %s</string>
   <string name="cancel">Abbrechen</string>
@@ -57,7 +57,7 @@
   <string name="card_title_in_call_short">Im Gespräch</string>
   <string name="card_title_incoming_call">Eingehender Anruf</string>
   <string name="card_title_on_hold">Gehaltener Anruf</string>
-  <string name="card_title_threeway_call">Three-way call</string>
+  <string name="card_title_threeway_call">3er Telefonkonferenz</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. total %s</string>
   <string name="conference_call_number">%s Leute</string>
   <string name="contactPhoto">Kontakt Foto</string>
@@ -73,7 +73,7 @@
   <string name="description_image_button_nine">Neun</string>
   <string name="description_image_button_one">Eins</string>
   <string name="description_image_button_pound">Raute</string>
-  <string name="description_image_button_reject">Swipe up to decline</string>
+  <string name="description_image_button_reject">Nach oben wischen für Rückgängig</string>
   <string name="description_image_button_seven">Sieben</string>
   <string name="description_image_button_six">Sechs</string>
   <string name="description_image_button_star">Stern</string>
@@ -82,9 +82,9 @@
   <string name="description_image_button_two">Zwei</string>
   <string name="description_image_button_zero">Null</string>
   <string name="description_target_answer">Antworten</string>
-  <string name="emergency_call_dialog_number_for_display">Emergency number</string>
+  <string name="emergency_call_dialog_number_for_display">Notfall Nummer</string>
   <string name="fraud_call_answer">Antworten</string>
-  <string name="fraud_call_decline">Decline</string>
+  <string name="fraud_call_decline">Rückgängig</string>
   <string name="fraud_call_waring">Achtung: Sie sollten stets die Identität des Kontaktes überprüfen, bevor Sie mit persönlichen Informationen auf die Nachrichten antworten.</string>
   <string name="inCallLabel">InCallUI</string>
   <string name="incall_call_type_label_sip">Internetanruf</string>
@@ -105,12 +105,11 @@
   <string name="jeejen_reject_call_text">Anruf abweisen</string>
   <string name="jeejen_toggle_dialpad_text">Tastenfeld</string>
   <string name="livetalk_left_minute">%s Minuten vergangen</string>
-  <string name="livetalk_provider_info">Provided by %s</string>
-  <string name="livetalk_waiting">Waiting…</string>
-  <string name="manageConferenceLabel">Manage conference call</string>
-  <string name="miprofile_stranger_card">Stranger card</string>
-  <string name="modify_call_failure_str">"Modify Call request failed
-"</string>
+  <string name="livetalk_provider_info">Präsentiert von %s</string>
+  <string name="livetalk_waiting">Warten…</string>
+  <string name="manageConferenceLabel">Telefonkonferenz verwalten</string>
+  <string name="miprofile_stranger_card">Fremde Karte</string>
+  <string name="modify_call_failure_str">"Ändern der Anrufanforderung fehlgeschlagen"</string>
   <string name="modify_call_option_title">Welcher Anruftyp?</string>
   <string name="modify_call_option_voice">Nur Sprache</string>
   <string name="modify_call_option_vt">VT</string>
