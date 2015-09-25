@@ -15,15 +15,15 @@ Vor Kalibrierung das Telefon auf einer ebenen Oberfläche legen"</string>
   <string name="cit_aud_spkcal">Kalibrieren</string>
   <string name="cit_audio_cali_done">Kalibrierung abgeschlossen.</string>
   <string name="cit_audio_cali_failed">Kalibrierung fehlgeschlagen, bitte versuchen Sie erneut!</string>
-  <string name="cit_audio_cali_file_existed">Music file do not exist,can not do calibration!</string>
-  <string name="cit_audio_cali_playing">Press button to do calibration</string>
-  <string name="cit_audio_cali_summary">Calibrate Speaker PA</string>
-  <string name="cit_audio_cali_title">Speaker PA Calibration Test</string>
-  <string name="cit_audio_cali_valueC">Counter:</string>
+  <string name="cit_audio_cali_file_existed">Musikdatei existiert nicht, kann die Kalibrierung nicht ausführen!</string>
+  <string name="cit_audio_cali_playing">Zum Kalibrieren den Knopf drücken</string>
+  <string name="cit_audio_cali_summary">Kalibriere Lautsprecher PA</string>
+  <string name="cit_audio_cali_title">Lautsprecher PA Kalibrierungstest</string>
+  <string name="cit_audio_cali_valueC">Zähler:</string>
   <string name="cit_audio_cali_valueF0">F0:</string>
   <string name="cit_audio_cali_valueR">Ref_diff:</string>
   <string name="cit_audio_cali_valueT">Temp_acc:</string>
-  <string name="cit_audio_calibrating">Calibration is ongoing...</string>
+  <string name="cit_audio_calibrating">Die Kalibrierung ist im Gange...</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Test: hinteres Lautsprecher-Mikrofon</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Test: Hauptlautsprecher-Mikrofon</string>
   <string name="cit_audio_lb_phonecall_title">Test: Simulationsanruf</string>
@@ -47,8 +47,8 @@ Telefon, wie bei einem Anruf halten, ins Mikrofon sprechen, Stimme sollte vom Em
   <string name="cit_audio_loopback_check_summary_second">"Test: Sekundäres Lautsprecher-Mikrofon.
 
 Telefon so drehen, dass der Kopfhörereingang nach unten zeigt. In den Empfänger sprechen. Die Stimme sollte aus dem externen Lautsprecher hörbar sein."</string>
-  <string name="cit_audio_loopback_check_two_title">Secondary microphone speaker feedback test</string>
-  <string name="cit_audio_loopback_dualmic_earpiece_title">Ambient noise reduction test</string>
+  <string name="cit_audio_loopback_check_two_title">Sekundärer Mikrofonlautsprecher Feedback Test</string>
+  <string name="cit_audio_loopback_dualmic_earpiece_title">Umgebungsgeräuschunterdrückungstest</string>
   <string name="cit_audio_loopback_next">Weiter</string>
   <string name="cit_audio_loopback_previous">Zurück</string>
   <string name="cit_audio_loopback_summary_dualmic_earpiece">"Test: Rauschunterdrückung
@@ -138,7 +138,7 @@ Aktiviere GPS über die Schnellauswahl"</string>
   <string name="cit_headset_button_play_pause">Start / Pause</string>
   <string name="cit_headset_button_previous">Zurück</string>
   <string name="cit_headset_button_rewind">Zurückspulen</string>
-  <string name="cit_headset_button_stop">Stop</string>
+  <string name="cit_headset_button_stop">Stopp</string>
   <string name="cit_headset_button_unknown">Headset-Status unbekannt</string>
   <string name="cit_headset_loopback_check_summary">"Test überprüft Loopback zwischen Mikrofon und Kopfhörer"</string>
   <string name="cit_headset_loopback_check_title">Kopfhörer-Loopback testen</string>
@@ -276,7 +276,7 @@ Datei hinzufügen und Test erneut starten."</string>
   <string name="cit_tool_wifi_exit">Beenden</string>
   <string name="cit_tool_wifi_rx_ap">Rx: AP</string>
   <string name="cit_tool_wifi_rx_ap_name">MT</string>
-  <string name="cit_tool_wifi_rx_chan">Rx: Channel</string>
+  <string name="cit_tool_wifi_rx_chan">Rx: Kanal</string>
   <string name="cit_tool_wifi_rx_count_error">Ausgabewert ist keine Ziffer.</string>
   <string name="cit_tool_wifi_rx_dut_ip">192.168.1.12</string>
   <string name="cit_tool_wifi_rx_error">Ein Fehler ist aufgetreten.</string>
@@ -294,13 +294,13 @@ Datei hinzufügen und Test erneut starten."</string>
   <string name="cit_tool_wifi_tx_bg_txpr">txpower:</string>
   <string name="cit_tool_wifi_tx_bg_txrt">Datarate:</string>
   <string name="cit_tool_wifi_tx_n">Tx: n</string>
-  <string name="cit_tool_wifi_tx_n_bandwidth">bandwidth:</string>
-  <string name="cit_tool_wifi_tx_n_chan">channel:</string>
+  <string name="cit_tool_wifi_tx_n_bandwidth">Bandbreite:</string>
+  <string name="cit_tool_wifi_tx_n_chan">Kanal:</string>
   <string name="cit_tool_wifi_tx_n_txpr">txpower:</string>
-  <string name="cit_tool_wifi_tx_n_txrt">Datarate: MCS</string>
+  <string name="cit_tool_wifi_tx_n_txrt">Datenrate: MCS</string>
   <string name="cit_tool_wifi_tx_st">Tx: ST</string>
   <string name="cit_tool_wifi_tx_st_chan">Kanal:</string>
-  <string name="cit_tool_wifi_txrx_chain_selection">Select antenna</string>
+  <string name="cit_tool_wifi_txrx_chain_selection">Antenne auswählen</string>
   <string name="cit_torch_off">Taschenlampe ausschalten</string>
   <string name="cit_torch_on">Taschenlampe einschalten</string>
   <string name="cit_touch_calib_fail">Touch-Kalibrierung fehlgeschlagen, erneut versuchen</string>
@@ -337,12 +337,12 @@ Datei hinzufügen und Test erneut starten."</string>
   <string name="cit_wifi_ap_scanning">Wird gesucht…</string>
   <string name="cit_wifi_fail_to_scan">"Netzwerksuche fehlgeschlagen"</string>
   <string name="cit_wifi_state_refresh">Aktualisieren</string>
-  <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Front mic speaker feedback test</string>
-  <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Front microphone to speaker feedback test.
+  <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Frontmikrofon Lautsprecher Feedback-Test</string>
+  <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Frontmikrofon zu Lautsprecher Feedback-Test.
 
-Turn the phone, Speak to microphone at the position of the receiver, you should hear voice in speaker"</string>
-  <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Top microphone to speaker feedback test. 
+Drehen Sie das Telefon, sprechen Sie in das Mikrofon an der Position des Empfängers, dann sollten Sie Ihre Stimme im Lautsprecher hören"</string>
+  <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Top-Mikrofon zum Lautsprecher Feedback Test. 
 
-Turn the phone, Speak to top microphone , you should hear voice in speaker"</string>
-  <string name="cit_x5_audio_lb_topmic_to_speaker_title">Top mic speaker feedback test</string>
+Drehen Sie das Telefon, sprechen Sie in das obere Mikrofon, Sie sollten dann Ihre Stimme im Lautsprecher hören"</string>
+  <string name="cit_x5_audio_lb_topmic_to_speaker_title">Top-Mikrofon-Lautsprecher Feedback Test</string>
 </resources>
