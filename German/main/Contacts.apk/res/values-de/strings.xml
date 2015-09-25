@@ -6,6 +6,10 @@
   <string name="account_phone">Telefon nicht synchronisiert</string>
   <string name="account_sim">SIM-Karte</string>
   <string name="account_sim2">SIM-Karte %d</string>
+  <string name="launcherDialer">Telefon</string>
+  <string name="people">Kontakte</string>
+  <string name="contactsList">Kontakte</string>
+  <string name="shortcutContact">Kontakte</string>
   <string name="account_type_format">%1$s Kontakt</string>
   <string name="actionIncomingCall">Eingehende Anrufe</string>
   <string name="action_menu_overflow_description">Weitere Optionen</string>
@@ -229,7 +233,6 @@ Kontaktkarten sind ausgeschaltet"</string>
   <string name="contactsFavoritesLabel">Favoriten</string>
   <string name="contactsGroupsLabel">Gruppen</string>
   <string name="contactsJoinedMessage">Kontakte zusammengeführt</string>
-  <string name="contactsList">Kontakte</string>
   <string name="contacts_in_call_show">"%s's Video"</string>
   <string name="contacts_unavailable_add_account">Mit einem Konto anmelden</string>
   <string name="contacts_unavailable_create_contact">Neuen Kontakt erstellen</string>
@@ -401,7 +404,7 @@ Grund: \"%s\""</string>
   <string name="fail_reason_no_exportable_contact">Es ist kein exportierbarer Kontakt vorhanden.</string>
   <string name="fail_reason_not_supported">"Format wird nicht unterstützt."</string>
   <string name="fail_reason_too_long_filename">Erforderlicher Dateiname ist zu lang (\"%s\").</string>
-  <string name="fail_reason_too_many_vcard">Zu viele vCard Dateien liegen im Speicher.</string>
+  <string name="fail_reason_too_many_vcard">Too many vCard files are in the storage.</string>
   <string name="fail_reason_unknown">Unbekannter Fehler.</string>
   <string name="fail_reason_vcard_parse_error">vCard konnte aus unbekanntem Grund nicht gelesen werden.</string>
   <string name="favoritesFrequentCalled">Häufig angerufen</string>
@@ -514,7 +517,6 @@ Grund: \"%s\""</string>
   <string name="label_no_duplicate_contacts">Keine Duplikate gefunden.</string>
   <string name="label_notes">Notizen</string>
   <string name="label_sip_address">VOIP Anruf</string>
-  <string name="launcherDialer">Telefon</string>
   <string name="listCustomView">Kontakte aus eigener Auswahl</string>
   <string name="listFoundAllContactsZero">Keine Kontakte</string>
   <string name="listSingleContact">Einzelner Kontakt</string>
@@ -617,14 +619,14 @@ Grund: \"%s\""</string>
   <string name="miprofile_error_unknown">Unbekannter Fehler</string>
   <string name="miprofile_name">Mein Profil</string>
   <string name="miprofile_notice_text">Tippen, um das Profilfoto anzuzeigen</string>
-  <string name="miprofile_request_agenda_date">%1$s möchte die Kontaktkarten austauschen</string>
-  <string name="miprofile_request_agenda_today">%1$s möchte die Kontaktkarten austauschen</string>
-  <string name="miprofile_request_agenda_yesterday">%1$s möchte die Kontaktkarten austauschen</string>
+  <string name="miprofile_request_agenda_date">%1$s möchte die Kontaktenkarten austauschen</string>
+  <string name="miprofile_request_agenda_today">%1$s möchte die Kontaktenkarten austauschen</string>
+  <string name="miprofile_request_agenda_yesterday">%1$s möchte die Kontaktenkarten austauschen</string>
   <string name="miprofile_request_agree">Annehmen</string>
   <string name="miprofile_request_agree_exchange_profile">Kontaktkarten ausgetauscht</string>
   <string name="miprofile_request_agreed">%1$s hat dem Austausch der Kontaktkarte mit mir zugestimmt</string>
-  <string name="miprofile_request_alertdialog_message">Ihre Karte wird automatisch versandt, nachdem diese Person sie akzeptiert hat.</string>
-  <string name="miprofile_request_alertdialog_title">Kontaktkarten austauschen</string>
+  <string name="miprofile_request_alertdialog_message">Your card will be sent automatically after this person accepts.</string>
+  <string name="miprofile_request_alertdialog_title">Exchange contacts cards</string>
   <string name="miprofile_request_clear_alertdialog_message">Sie müssen diese Telefonnummer zu Ihrem MiKonto hinzufügen, um diese Funktion nutzen zu können.</string>
   <string name="miprofile_request_clear_alertdialog_title">Telefonnummer hinzufügen</string>
   <string name="miprofile_request_deleted">Karte gelöscht</string>
@@ -672,7 +674,7 @@ Grund: \"%s\""</string>
   <string name="noContacts">Keine Kontakte</string>
   <string name="noContactsHelpText">"Keine Kontakte zum Anzeigen vorhanden.
 
-Um Kontakte hinzuzufügen, berühren Sie "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", dann drücken Sie:
+Um Kontakte hinzuzufügen, berühren Sie "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
  
 "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Konten, um ein Konto hinzuzufügen oder einzurichten und mögliche Kontakte mit dem Telefon zu synchronisieren
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
@@ -770,7 +772,6 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="other_contacts">Andere Kontakte</string>
   <string name="other_phone">Andere Telefone</string>
   <string name="payphone">Telefonzelle</string>
-  <string name="people">Kontakte</string>
   <string name="percent_sign">%</string>
   <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Telefon</string>
@@ -932,11 +933,10 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="set_default">Als Standard</string>
   <string name="set_photo_failed_msg">Kontaktbild konnte nicht gesetzt werden.</string>
   <string name="share_error">Kontakt kann nicht geteilt werden</string>
-  <string name="share_over_limit">"Mehr als 1000 können nicht geteilt werden"</string>
+  <string name="share_over_limit">"More than 1000, can't be shared"</string>
   <string name="share_via">Senden mittels</string>
   <string name="share_visible_contacts">Kontakte teilen</string>
   <string name="shortcutActivityTitle">Kontaktverknüpfung auswählen</string>
-  <string name="shortcutContact">Kontakte</string>
   <string name="shortcutDialContact">Direktwahl</string>
   <string name="shortcutMessageContact">Direktnachricht</string>
   <string name="showAllContactsJoinItem">Alle Kontakte anzeigen</string>
