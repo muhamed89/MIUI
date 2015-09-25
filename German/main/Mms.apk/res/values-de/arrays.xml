@@ -47,28 +47,28 @@
         <item>Poker face</item>
     </string-array>
     <string-array name="prefEntries_ringtone_repeat">
-        <item>1 time</item>
-        <item>2 times</item>
-        <item>3 times</item>
-        <item>5 times</item>
-        <item>10 times</item>
+        <item>1 Mal</item>
+        <item>2 Mal</item>
+        <item>3 Mal</item>
+        <item>5 Mal</item>
+        <item>10 Mal</item>
     </string-array>
     <string-array name="contact_entries">
         <item>Name</item>
         <item>Nickname</item>
-        <item>Phone</item>
+        <item>Telefon</item>
         <item>Email</item>
-        <item>Organization</item>
+        <item>Organisation</item>
         <item>IM</item>
         <item>SIP Phone</item>
-        <item>Birthday</item>
+        <item>Geburtstag</item>
         <item>Website</item>
-        <item>Address</item>
-        <item>Note</item>
+        <item>Adresse</item>
+        <item>Notiz</item>
     </string-array>
     <string-array name="entries_date_type">
-        <item>Received</item>
-        <item>Sent</item>
+        <item>Erhalten</item>
+        <item>Gesendet</item>
     </string-array>
     <string-array name="resent_via_entries_sms">
         <item>SMS</item>
@@ -79,33 +79,33 @@
         <item>Mi Message</item>
     </string-array>
     <string-array name="entries_sms_validity_period">
-        <item>Not set</item>
-        <item>1 hour</item>
-        <item>6 hours</item>
-        <item>12 hours</item>
-        <item>1 day</item>
+        <item>Nicht festgelegt</item>
+        <item>1 Stunde</item>
+        <item>6 Stunden</item>
+        <item>12 Stunden</item>
+        <item>1 Tag</item>
         <item>Maximum</item>
     </string-array>
     <string-array name="entries_mms_validity_period">
         <item>Maximum</item>
-        <item>2 days</item>
+        <item>2 Tage</item>
     </string-array>
     <string-array name="select_dialog_items">
-        <item>1 second</item>
-        <item>2 seconds</item>
-        <item>3 seconds</item>
-        <item>4 seconds</item>
-        <item>5 seconds</item>
-        <item>6 seconds</item>
-        <item>7 seconds</item>
-        <item>8 seconds</item>
-        <item>9 seconds</item>
-        <item>10 seconds</item>
-        <item>Other</item>
+        <item>1 Sekunde</item>
+        <item>2 Sekunden</item>
+        <item>3 Sekunden</item>
+        <item>4 Sekunden</item>
+        <item>5 Sekunden</item>
+        <item>6 Sekunden</item>
+        <item>7 Sekunden</item>
+        <item>8 Sekunden</item>
+        <item>9 Sekunden</item>
+        <item>10 Sekunden</item>
+        <item>Sonstige</item>
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
-        <item>Always</item>
-        <item>Only when silent</item>
-        <item>Never</item>
+        <item>Immer</item>
+        <item>Nur wenn stumm geschalten</item>
+        <item>Nie</item>
     </string-array>
 </resources>
