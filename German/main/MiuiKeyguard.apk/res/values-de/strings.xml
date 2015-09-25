@@ -43,7 +43,7 @@ In  %d Sekunden erneut versuchen."</string>
   <string name="missed_call_text">%d Anrufe in Abwesenheit</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Mit Bluetooth Gerät entsperrt</string>
   <string name="open_camera_hint_text">Zum Öffnen der Kamera nach links wischen</string>
-  <string name="open_remote_center_hint_text">Zum Öffnen von Mi Remote nach rechts wischen</string>
+  <string name="open_remote_center_hint_text">Zum Öffnen von Telefon nach rechts wischen</string>
   <string name="open_wifi_settings">Netzwerkverbindung öffnen</string>
   <string name="phone_locked_string">Gerät ist gesperrt</string>
   <string name="phone_locked_timeout_minutes_string">Nach %s Minuten erneut versuchen</string>
