@@ -83,8 +83,8 @@
   <string name="snippet_image_stub">[Bild]</string>
   <string name="snippet_image_template">[Bild %1$s]</string>
   <string name="sns_action_send">Senden</string>
-  <string name="sns_choose_quality_high">High (%1$s)</string>
-  <string name="sns_choose_quality_low">Low</string>
+  <string name="sns_choose_quality_high">Hoch (%1$s)</string>
+  <string name="sns_choose_quality_low">Niedrig</string>
   <string name="sns_choose_quality_title">Choose image quality</string>
   <string name="sns_content_default">Bild teilen</string>
   <string name="sns_desc_preview_wechat">WeChat Nachrichtenvorschau</string>
@@ -105,14 +105,14 @@
   <string name="toast_reach_text_limit_attachment">Der Inhalt der Notiz ist zu lang, um neue Anhänge einzufügen.</string>
   <string name="toast_reach_text_limit_truncate">Aufgrund der Überlänge wurde der Inhalt der Notiz zugeschnitten.</string>
   <string name="undo">Rückgängig</string>
-  <string name="unknown_source">Unbekannte Quell</string>
+  <string name="unknown_source">Unbekannte Quelle</string>
   <string name="welcome_note_for_cm">Willkommen bei Xiaomi.eu
-  - Sync with Mi Cloud
-  - Save on exit
-  - Set reminders
+  - Synce mit Mi Cloud
+  - Beim Beenden speichern
+  - Erinnerungen festlegen
 
-To learn more, visit
-http://www.miui.com/forum.php?lang=1
+Um mehr zu erfahren, besuchen Sie
+http://en.miui.com/forum.php
 "</string>
   <string name="widget_content_loading">Wird geladen…</string>
   <string name="widget_havenot_content">Keine passende Notiz gefunden. Drücken um zu erstellen.</string>
