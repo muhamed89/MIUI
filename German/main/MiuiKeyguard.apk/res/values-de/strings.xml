@@ -48,7 +48,7 @@ In  %d Sekunden erneut versuchen."</string>
   <string name="phone_locked_string">Gerät ist gesperrt</string>
   <string name="phone_locked_timeout_minutes_string">Nach %s Minuten erneut versuchen</string>
   <string name="phone_locked_timeout_seconds_string">Nach %s Sekunden erneut versuchen</string>
-  <string name="unlock_sim_string">SIM entsperren</string>
+  <string name="unlock_sim_string">OK</string>
   <string name="unlock_string">Entsperren</string>
   <string name="unlocking_sim_card">SIM-Karte wird entsperrt</string>
   <string name="unlockscreen_low_battery">Ladegerät anschließen</string>
