@@ -77,22 +77,22 @@
   <string name="count_ji_quan">Alle %d Episoden</string>
   <string name="count_qi">Ep. %s</string>
   <string name="data_buffering">Buffering…</string>
-  <string name="datastream_alert_download">Ihre mobile Datenverbindung zum download von Videos wird Ihre Datennutzung erhöhen. Wenn Sie über Ihren Plan Daten Nutzungsbeschränkung gehen, könnte Ihr Mobilfunkanbieter berechnet Ihnen zusätzliche Gebühren.</string>
+  <string name="datastream_alert_download">Wenn Sie Ihre mobile Datenverbindung zum download von Videos benutzen, wird sich Ihre Datennutzung erhöhen. Wenn Sie über Ihre mobiles Datenvolumen geraten, könnte Ihr Mobilfunkanbieter zusätzliche Gebühren berechnen.</string>
   <string name="datastream_alert_hint">Sie können Daten-Nutzung Benachrichtigungen jederzeit in den Einstellungen deaktivieren.</string>
   <string name="datastream_alert_negative_button">Abbrechen</string>
-  <string name="datastream_alert_play">Using your mobile data connection to watch videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
+  <string name="datastream_alert_play">Wenn Sie Ihre mobile Datenverbindung zum download von Videos benutzen, wird sich Ihre Datennutzung erhöhen. Wenn Sie über Ihre mobiles Datenvolumen geraten, könnte Ihr Mobilfunkanbieter zusätzliche Gebühren berechnen.</string>
   <string name="datastream_alert_positive_button">Weiter</string>
   <string name="day">Tag</string>
   <string name="datastream_alert_title">Daten-Nutzung-Warnung</string>
   <string name="debug_mode">Debug-Modus</string>
-  <string name="debug_mode_desc">Run in debug mode and show video id in left-top corner</string>
+  <string name="debug_mode_desc">Abspielen im Debug-Mode und zeige Video ID in der linken oberen Ecke</string>
   <string name="declaration">Nutzungsbedingungen</string>
   <string name="declaration_allow">Stimmen</string>
-  <string name="declaration_content">"1. By using this application, you are agreeing to Sohu Video, iQiyi, and other content providers' "&lt;a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1"&gt;Terms of Service&lt;/a&gt;".
-2. Help improve this product by automatically sending diagnostic and usage data to Xiaomi.
-3. Our HD Vvideo plug-in will be installed automatically.
-4. This application needs to connect to the internet to work normally."</string>
-  <string name="declaration_content_td_custom">This application needs to connect to the internet to work normally.</string>
+  <string name="declaration_content">"1. Bei Nutzung dieser App, stimmen Sie den Nutzungsbedingenungen von Sohu Video, iQiyi, und anderen Inhaltsanbietern "&lt;a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1"&gt;zu&lt;/a&gt;".
+2. Helfen Sie mit bei der Verbesserung dieses Produktes und senden Sie automatisch Diagnose und Nutzungsdaten an Xiaomi.
+3. Unser HD Vvideo plug-in wird automatisch installiert.
+4. Diese App braucht einen Internetzugang um normal zu funktionieren."</string>
+  <string name="declaration_content_td_custom">Diese App braucht einen Internetzugang um normal zu funktionieren.</string>
   <string name="defaults">Standard</string>
   <string name="delete">Löschen</string>
   <string name="delete_action_text">Löschen (%d)</string>
