@@ -210,7 +210,7 @@
   <string name="passport_error_verify_code">Der eingegebene Code ist ungültig.</string>
   <string name="passport_failed_to_send_activate_email">"E-Mail mit Bestätigungscode konnte nicht versendet werden"</string>
   <string name="passport_find_password_on_web_msg">Besuche account.mi.com um dein Passwort zurückzusetzen.</string>
-  <string name="passport_forget_password">&lt;u&gt;Passwort vergessen&lt;/u&gt;</string>
+  <string name="passport_forget_password">Passwort vergessen</string>
   <string name="passport_forget_password_no_underline">Passwort vergessen</string>
   <string name="passport_get_back_pwd">Passwort des Kontos zurücksetzen</string>
   <string name="passport_get_verify_code">Code senden</string>
@@ -231,7 +231,7 @@
   <string name="passport_login_notice">Melde an…</string>
   <string name="passport_login_short">Anmelden</string>
   <string name="passport_login_title">Mit Mi Konto anmelden</string>
-  <string name="passport_login_with_email_or_id">&lt;u&gt;Mit E-Mail-Adresse oder Mi Konto anmelden ID&lt;/u&gt;</string>
+  <string name="passport_login_with_email_or_id">Mit E-Mail Adresse oder Mi Konto anmelden ID</string>
   <string name="passport_next">Nächste</string>
   <string name="passport_notification_title">Fehler bei der Anmeldung für %1$s</string>
   <string name="passport_password">Passwort einfügen</string>
