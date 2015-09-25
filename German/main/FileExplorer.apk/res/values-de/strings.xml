@@ -315,7 +315,7 @@
   <string name="pan_settting">KuaiPan-Einstellungen</string>
   <string name="paused">Angehalten</string>
   <string name="petabyteShort">PB</string>
-  <string name="phone">Phone</string>
+  <string name="phone">Telefon</string>
   <string name="port_range">Port must be between 1024–65535</string>
   <string name="pull_to_signin">Swipe down to check in.</string>
   <string name="release_to_signin">Release to check in</string>
