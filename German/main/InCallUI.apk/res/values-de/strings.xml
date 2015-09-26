@@ -6,6 +6,8 @@
   <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Unbekannte Nummer</string>
   <string name="antispam_provider">Identifiziert von %s</string>
+  <string name="description_image_button_dialpad">Tastenfeld</string>
+  <string name="jeejen_toggle_dialpad_text">Tastenfeld</string>
   <string name="callFailed_cb_enabled">Sie können keine Anrufe tätigen, wenn die Anrufsperre aktiviert ist.</string>
   <string name="callFailed_congestion">Netzwerk ausgelastet</string>
   <string name="callFailed_dialToDial">DIAL-Anfrage modifiziert, um DIAL mit einer anderen Nummer zu nutzen.</string>
@@ -63,7 +65,6 @@
   <string name="contactPhoto">Kontakt Foto</string>
   <string name="contacts_icon_label">Kontakte</string>
   <string name="description_image_button_answer">Wischen zum antworten</string>
-  <string name="description_image_button_dialpad">Tastenfeld</string>
   <string name="description_image_button_eight">Acht</string>
   <string name="description_image_button_five">Fünf</string>
   <string name="description_image_button_four">Vier</string>
@@ -103,7 +104,6 @@
   <string name="jeejen_answer_call_text">Anruf beantworten</string>
   <string name="jeejen_end_call_text">Anruf beenden</string>
   <string name="jeejen_reject_call_text">Anruf abweisen</string>
-  <string name="jeejen_toggle_dialpad_text">Tastenfeld</string>
   <string name="livetalk_left_minute">%s Minuten vergangen</string>
   <string name="livetalk_provider_info">Präsentiert von %s</string>
   <string name="livetalk_waiting">Warten…</string>
