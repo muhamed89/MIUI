@@ -29,7 +29,7 @@
   <string name="birthday_alarm">Geburtstagsalarm</string>
   <string name="birthday_alarm_summary">Spiele \"Happy Birthday\" an deinem Geburtstag anstelle des Standard Wecktons</string>
   <string name="cancel">Abbrechen</string>
-  <string name="close_alarm">Close alarm</string>
+  <string name="close_alarm">Weckruf schließen</string>
   <string name="common_settings">Einstellungen</string>
   <string name="confirm_abort">Verwerfen</string>
   <string name="control_set_alarm">Wecker einstellen</string>
@@ -69,7 +69,7 @@
   <string name="menu_add_worldclock">neue Weltzeit</string>
   <string name="menu_desk_clock">Schreibtischuhr</string>
   <string name="menu_edit_timer_item">Timer bearbeiten</string>
-  <string name="menu_item_dock_settings">Dock settings</string>
+  <string name="menu_item_dock_settings">Dock-Einstellungen</string>
   <string name="menu_item_sort_by_gmt_offset">Nach Zeit sortieren</string>
   <string name="menu_item_sort_by_name">Nach Namen sortieren</string>
   <string name="minute">1 Minute</string>
