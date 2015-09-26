@@ -7,8 +7,8 @@
   <string name="button_queue_for_wifi">Warteschlange</string>
   <string name="button_start_now">Jetzt starten</string>
   <string name="button_wait_for_wifi">Warte</string>
-  <string name="dialog_insufficient_space_on_cache">Nicht genug Speicherplatz auf internen Datenträger</string>
-  <string name="dialog_insufficient_space_on_external">Nicht genug Speicherplatz auf externen Datenträger</string>
+  <string name="dialog_insufficient_space_on_cache">Nicht genug Speicherplatz auf internem Datenträger</string>
+  <string name="dialog_insufficient_space_on_external">Nicht genug Speicherplatz auf externem Datenträger</string>
   <string name="dialog_not_show_again">"Nicht mehr anzeigen"</string>
   <string name="download_error">Nicht erfolgreich</string>
   <string name="download_no_application_title">"Datei kann nicht geöffnet werden"</string>
@@ -32,8 +32,8 @@
   <string name="notification_need_wifi_for_size">Downloadgröße erfordert eine WLAN-Verbindung.</string>
   <string name="notification_paused_in_background">Im Hintergrund pausieren.</string>
   <string name="paused_waiting_for_network">Warte auf Netzwerk</string>
-  <string name="permdesc_accessAllDownloads">Erlaubt der App das betrachten und bearbeiten aller Downloads, welche von jeder App auf dem System getätigt wurden.</string>
-  <string name="permdesc_downloadCacheNonPurgeable">"Ermöglicht der App Dateien in den Downloadcache herunterzuladen, die nicht automatisch gelöscht werden können wenn der Download-Manager mehr Speicherplatz benötigt."</string>
+  <string name="permdesc_accessAllDownloads">Erlaubt der App das Betrachten und Bearbeiten aller Downloads, die von jeder App auf dem System getätigt wurden.</string>
+  <string name="permdesc_downloadCacheNonPurgeable">"Ermöglicht der App Dateien in den Downloadcache herunterzuladen, die nicht automatisch gelöscht werden können, wenn der Download-Manager mehr Speicherplatz benötigt."</string>
   <string name="permdesc_downloadCompletedIntent">Ermöglicht der App, Benachrichtigungen über abgeschlossene Downloads zu senden. Schädliche Apps können so andere Anwendungen, die Dateien herunterladen, verwirren.</string>
   <string name="permdesc_downloadManager">Ermöglicht der App, auf den Download-Manager zuzugreifen und diesen zu verwenden, um Dateien herunterzuladen. Schädliche Apps können damit Downloads unterbrechen und Zugriff auf private Informationen erhalten.</string>
   <string name="permdesc_downloadManagerAdvanced">"Ermöglicht der App, auf die erweiterten Funktionen des Download-Manager zuzugreifen. Schädliche Apps können damit Downloads unterbrechen und Zugriff auf private Informationen erhalten."</string>
@@ -46,29 +46,29 @@
   <string name="permlab_downloadManagerAdvanced">Download Manager, erweiterte Funktionen.</string>
   <string name="permlab_downloadWithoutNotification">Lade Dateien ohne Benachrichtigung</string>
   <string name="permlab_seeAllExternal">Zeige alle Downloads auf USB Datenträger</string>
-  <string name="privacy_notif_content">Berühre um Details anzuzeigen.</string>
+  <string name="privacy_notif_content">Berühre, um Details anzuzeigen.</string>
   <string name="privacy_notif_title">Xunlei Download Accelerator ist eingeschalten</string>
   <string name="privacy_tip_cancel">Abbrechen</string>
-  <string name="privacy_tip_content">"Xunlei Accelerator benutzen um Downloads zu beschleunigen? Die URL des Download's wir auf die Xunlei Server hochgeladen. Ihre Mi Kontodetails werden ebenfalls hochgeladen, um zu prüfen, ob Sie ein aktives Abonnement für diesen Dienst haben."</string>
+  <string name="privacy_tip_content">"Xunlei Accelerator benutzen, um Downloads zu beschleunigen? Die URL des Download's wird auf die Xunlei Server hochgeladen. Ihre Mi Kontodetails werden ebenfalls hochgeladen, um zu prüfen, ob Sie ein aktives Abonnement für diesen Dienst haben."</string>
   <string name="privacy_tip_ok">OK</string>
   <string name="privacy_tip_title">Xunlei Accelerator benutzen?</string>
   <string name="recommended_file_more_in_mobile" formatted="false">Bei Benutzung der mobilen Datenverbindung, um diese %s Dateien (%s ) herunterzuladen, wird sich ihr Datenverbrauch erhöhen.</string>
   <string name="recommended_file_one_in_mobile">Bei Benutzung der mobilen Datenverbindung, um diese Datei (%s ) herunterzuladen, wird sich ihr Datenverbrauch erhöhen.</string>
   <string name="recommended_file_size_download_in_mobile" formatted="false">"Sie sind im Moment nicht mit dem WLAN verbunden. %s
 
-Kann Dateigröße nicht bestimmen. Um diese Datei mit ihrer mobilen Datenverbindung herunterzuladen, berühre %s. Um zu warten und diese Datei mit dem WLAN herunterzuladen, drücke Sie %s."</string>
-  <string name="recommended_no_file_size_download_in_mobile" formatted="false">"Kann Dateigröße nicht bestimmen. Um diese Datei mit ihrer mobilen Datenverbindung herunterzuladen, berühre %s. Um zu warten und diese Datei mit dem WLAN herunterzuladen, drücke Sie %s."</string>
+Kann Dateigröße nicht bestimmen. Um diese Datei mit ihrer mobilen Datenverbindung herunterzuladen, berühre %s. Um zu warten und diese Datei mit dem WLAN herunterzuladen, drücken Sie %s."</string>
+  <string name="recommended_no_file_size_download_in_mobile" formatted="false">"Kann Dateigröße nicht bestimmen. Um diese Datei mit ihrer mobilen Datenverbindung herunterzuladen, berühre %s. Um zu warten und diese Datei mit dem WLAN herunterzuladen, drücken Sie %s."</string>
   <string name="root_downloads">Downloads</string>
   <string name="task_already_exist">Aufgabe existiert bereits</string>
   <string name="warning_tip_cancel">Download</string>
-  <string name="warning_tip_content">"Sie sind nicht länger mit dem WLAN verbunden. Bei Benutzung der Mobilen Datenverbindung um diesen Download zu beenden, wird sich ihr mobiler Datenverbrauch erhöhen. Wenn Sie über ihr geplantes Volume geraten, kann Ihnen ihr Anbieter weitere Gebühren berechnen."</string>
+  <string name="warning_tip_content">"Sie sind nicht länger mit dem WLAN verbunden. Bei Benutzung der mobilen Datenverbindung, um diesen Download zu beenden, wird sich Ihr mobiler Datenverbrauch erhöhen. Wenn Sie über Ihr geplantes Volumen geraten, kann Ihnen Ihr Anbieter weitere Gebühren berechnen."</string>
   <string name="warning_tip_ok">Pause</string>
   <string name="warning_tip_title">Datenverbrauchswarnung</string>
-  <string name="wifi_recommended_body" formatted="false">"Starten dieses %s Downloads wird einen erhöhten mobilen Datenverbrauch nach sich ziehen, welches zu weiteren Kosten, entsprechend ihres Datenplanes, durch ihren Anbieter führen kann.
+  <string name="wifi_recommended_body" formatted="false">"Starten dieses %s Downloads wird einen erhöhten mobilen Datenverbrauch nach sich ziehen, welches zu weiteren Kosten, entsprechend Ihres Datenplanes, durch Ihren Anbieter führen kann.
 
 Berühre hier %s um den Download zu starten, wenn Sie das nächste mal eine WLAN Verbindung besitzen."</string>
   <string name="wifi_recommended_title">In die Warteschlange, um später herunterzuladen?</string>
-  <string name="wifi_required_body" formatted="false">"Sie müssen WLAN benutzen, um diesen Download  %szu beenden.
+  <string name="wifi_required_body" formatted="false">"Sie müssen WLAN benutzen, um diesen Download  %s zu beenden.
 
 Berühre hier %s um den Download zu starten, wenn Sie das nächste mal eine WLAN Verbindung besitzen."</string>
   <string name="wifi_required_title">Download zu groß für den Netzbetreiber</string>
