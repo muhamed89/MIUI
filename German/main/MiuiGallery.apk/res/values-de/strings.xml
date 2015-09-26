@@ -896,9 +896,9 @@
   <string name="original_scale">Original</string>
   <string name="other_category">Zusätzliche Einstellungen</string>
   <string name="owner_album_subtitle">Geteilt mit %1$s Benutzern</string>
-  <string name="paint_brush">Paint brush</string>
-  <string name="paint_cancel_context">"Abandon the changes you've made to this image?"</string>
-  <string name="paint_cancel_title">Abandon changes</string>
+  <string name="paint_brush">Pinsel</string>
+  <string name="paint_cancel_context">Änderungen an diesem Foto verwerfen?</string>
+  <string name="paint_cancel_title">Änderungen verwerfen</string>
   <string name="paint_crop_cancel_context">Zugeschnittenes Bild speichern?</string>
   <string name="paint_crop_cancel_title">Änderungen verwerfen</string>
   <string name="paint_crop_tips">Platzieren Sie den Zielbereich des Bildes in der Nähe der Mitte des Rasters.</string>
@@ -924,9 +924,9 @@
   <string name="picker_no_album_selected">Keine Alben ausgewählt</string>
   <string name="picker_no_items_selected">Nichts ausgewählt</string>
   <string name="picker_select_album_title_empty">Album auswählen</string>
-  <string name="picker_tab_photo">Photo</string>
-  <string name="pocket_camera_picture">Pocket Kamera Fotos</string>
-  <string name="pocket_camera_video">Pocket Kamera Videos</string>
+  <string name="picker_tab_photo">Foto</string>
+  <string name="pocket_camera_picture">Bilder</string>
+  <string name="pocket_camera_video">Videos</string>
   <string name="pocketcamera">PocketKamera</string>
   <string name="posterize">Tontrennung</string>
   <string name="ppmm_gallery">PPMM</string>
