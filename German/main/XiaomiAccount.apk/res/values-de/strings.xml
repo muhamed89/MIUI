@@ -231,7 +231,7 @@
   <string name="passport_login_notice">Melde an…</string>
   <string name="passport_login_short">Anmelden</string>
   <string name="passport_login_title">Mit Mi Konto anmelden</string>
-  <string name="passport_login_with_email_or_id">Mit E-Mail Adresse oder Mi Konto anmelden ID</string>
+  <string name="passport_login_with_email_or_id">Mit E-Mail Adresse oder Mi Konto ID anmelden</string>
   <string name="passport_next">Nächste</string>
   <string name="passport_notification_title">Fehler bei der Anmeldung für %1$s</string>
   <string name="passport_password">Passwort einfügen</string>
