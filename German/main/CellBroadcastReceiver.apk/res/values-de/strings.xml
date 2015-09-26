@@ -14,7 +14,7 @@
   <string name="category_india_settings_title">Einstellungen für Indien</string>
   <string name="cb_other_message_identifiers">Cell broadcast</string>
   <string name="cmas_amber_alert">Kindesentführung (Entführungsalarm)</string>
-  <string name="cmas_category_cbrne">Chemisch/Biologisch/Nuklear/Xxplosiv</string>
+  <string name="cmas_category_cbrne">Chemisch/Biologisch/Nuklear/Explosiv</string>
   <string name="cmas_category_env">Ökologisch</string>
   <string name="cmas_category_fire">Feuer</string>
   <string name="cmas_category_geo">Geophysikalisch</string>
@@ -36,12 +36,12 @@
   <string name="cmas_opt_out_button_no">Nein</string>
   <string name="cmas_opt_out_button_yes">Ja</string>
   <string name="cmas_opt_out_dialog_text">Sie empfangen momentan Notfallwarnungen. Wollen Sie weiterhin Notfallwarnungen empfangen?</string>
-  <string name="cmas_presidential_level_alert">Presidential alert</string>
+  <string name="cmas_presidential_level_alert">Präsidialer Alarm</string>
   <string name="cmas_required_monthly_test">Katastrophenalarm monatlicher Test</string>
   <string name="cmas_response_assess">Bewerten</string>
   <string name="cmas_response_avoid">Vermeiden</string>
   <string name="cmas_response_evacuate">Evakuieren</string>
-  <string name="cmas_response_execute">Execute</string>
+  <string name="cmas_response_execute">Ausführen</string>
   <string name="cmas_response_heading">Antworttyp:</string>
   <string name="cmas_response_monitor">Monitor</string>
   <string name="cmas_response_none">Keine</string>
