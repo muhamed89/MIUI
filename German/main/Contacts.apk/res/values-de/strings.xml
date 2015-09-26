@@ -20,7 +20,7 @@
   <string name="add_2sec_pause">2 Sek. Pause einfügen</string>
   <string name="add_account">Konto hinzufügen</string>
   <string name="add_blacklist">Blockieren</string>
-  <string name="add_blacklist_dialog_message">Diese Nummer Blockieren?</string>
+  <string name="add_blacklist_dialog_message">Diese Nummer blockieren?</string>
   <string name="add_blacklist_dialog_title">Blockieren</string>
   <string name="add_connection_button">Verbindung hinzufügen</string>
   <string name="add_contact_dlg_message_fmt">\"%s\" zu Kontakten hinzufügen?</string>
@@ -58,7 +58,7 @@
   <string name="callAgain">Wahlwiederholung</string>
   <string name="callBack">Rückruf</string>
   <string name="callDetailTitle">Anrufdetails</string>
-  <string name="callDetailsDurationFormat" formatted="false">%s mins %s secs</string>
+  <string name="callDetailsDurationFormat" formatted="false">%s Min %s Sek</string>
   <string name="callShortcutActivityTitle">Nummer für den Anruf auswählen</string>
   <string name="call_assistant">%s anrufen</string>
   <string name="call_callback">Rückrufnummer anrufen</string>
@@ -165,7 +165,7 @@
   <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
   <string name="composer_failed_to_get_database_infomation">"Abrufen der Datenbankinformationen nicht möglich."</string>
-  <string name="composer_has_no_exportable_contact">Es sind keine exportierbaren Kontakte vorhanden. Falls sich Kontakte auf Ihrem Telefon befinden, ist das exportieren der Kontakte möglicherweise durch den Datenanbieter gesperrt.</string>
+  <string name="composer_has_no_exportable_contact">Es sind keine exportierbaren Kontakte vorhanden. Falls sich Kontakte auf Ihrem Telefon befinden, ist das Exportieren der Kontakte möglicherweise durch den Datenanbieter gesperrt.</string>
   <string name="composer_not_initialized">"Programm zum Erstellen der vCard wurde nicht richtig ausgeführt."</string>
   <string name="config_export_dir">/mnt/sdcard</string>
   <string name="config_export_extensions_to_consider"/>
@@ -416,7 +416,7 @@ Grund: \"%s\""</string>
   <string name="frequentList">Häufig</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Name</string>
-  <string name="generic_no_account_prompt">Schützen Sie ihre Kontakte bei Verlust des Telefons: Synchronisieren Sie ihre Kontakte mit einem Onlinedienst.</string>
+  <string name="generic_no_account_prompt">Schützen Sie Ihre Kontakte bei Verlust des Telefons: Synchronisieren Sie Ihre Kontakte mit einem Onlinedienst.</string>
   <string name="generic_no_account_prompt_title">Konto hinzufügen</string>
   <string name="ghostData_company">Firma</string>
   <string name="ghostData_title">Titel</string>
@@ -455,7 +455,7 @@ Grund: \"%s\""</string>
   <string name="import_failure_no_vcard_file">Keine vCard-Dateien im Speicher gefunden.</string>
   <string name="import_from_other_phone">Von anderem Telefon importieren</string>
   <string name="import_from_sdcard">aus Speicher importieren</string>
-  <string name="import_from_sim">Import from SIM card</string>
+  <string name="import_from_sim">Importiere aus der SIM-Karte</string>
   <string name="import_from_sim1">Von SIM-Karte importieren</string>
   <string name="import_from_sim2">Von SIM-Karte 2 importieren</string>
   <string name="import_multiple_vcard_string">Mehrere vCard-Dateien importieren</string>
@@ -472,7 +472,7 @@ Grund: \"%s\""</string>
   <string name="import_to_xiaomi_account_title">Sollen die folgenden Kontakte in Ihrem Mi-Konto importiert werden?</string>
   <string name="import_vcard_description">Kontakte aus internem Telefonspeicher importieren</string>
   <string name="import_weibo_dialog_title">Weibo Kontakte importieren</string>
-  <string name="import_weibo_error_no_matched_contacts">Keine übereinstimmende Kontakte</string>
+  <string name="import_weibo_error_no_matched_contacts">Keine übereinstimmenden Kontakte</string>
   <string name="import_weibo_error_no_network">Netzwerkfehler</string>
   <string name="import_weibo_error_no_xiaomi_phone">Keine Telefonnummern in Ihrem Mi-Konto gespeichert.</string>
   <string name="import_weibo_error_unknown">Unbekannter Fehler</string>
@@ -482,7 +482,7 @@ Grund: \"%s\""</string>
   <string name="import_weibo_progress_name">Übereinstimmung \"%1$s\"…</string>
   <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_sim_contacts_miui">Importiere SIM-Kontakte…</string>
-  <string name="importing_sim_contacts_miui_prepare">Preparing contacts…</string>
+  <string name="importing_sim_contacts_miui_prepare">Kontakte werden vorbereitet…</string>
   <string name="importing_vcard_canceled_title">Import von %s abgebrochen</string>
   <string name="importing_vcard_description">Importiere %s</string>
   <string name="in_call_show">Video</string>
@@ -512,7 +512,7 @@ Grund: \"%s\""</string>
   <string name="invalidContactMessage">"Kontakt nicht vorhanden"</string>
   <string name="keep_local">"Lokal speichern"</string>
   <string name="keep_local_btn">"Internen Telefonspeicher benutzen"</string>
-  <string name="label_custom_type">Benuzerdefiniert</string>
+  <string name="label_custom_type">Benutzerdefiniert</string>
   <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">Keine Duplikate gefunden.</string>
   <string name="label_notes">Notizen</string>
@@ -534,16 +534,16 @@ Grund: \"%s\""</string>
   <string name="loading_accounts">Wird geladen…</string>
   <string name="loading_group_members">Lade Gruppenmitglieder…</string>
   <string name="loading_groups">Lade Gruppen…</string>
-  <string name="loading_recent">Lade neue kontakte…</string>
+  <string name="loading_recent">Lade neue Kontakte…</string>
   <string name="local_invisible_directory">Sonstige</string>
   <string name="local_profile_title">Mein lokales Profil</string>
   <string name="local_search_label">Alle Kontakte</string>
   <string name="locale_change_in_progress">Kontaktliste wird an die geänderte Sprache angepasst.</string>
   <string name="login_ok">Anmelden</string>
   <string name="lunarBirthdayLabelsGroup">Geburtstag</string>
-  <string name="lunar_calendar">农历</string>
-  <string name="lunar_leap">闰</string>
-  <string name="lunar_yue">月</string>
+  <string name="lunar_calendar">Mondkalender</string>
+  <string name="lunar_leap">Interkalation</string>
+  <string name="lunar_yue">Lunation</string>
   <string name="make_primary">Diese Auswahl speichern</string>
   <string name="map_custom">%s Adresse anzeigen</string>
   <string name="map_home">Privatadresse anzeigen</string>
@@ -743,7 +743,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
 • Sichern ihrer Kontakte."</string>
   <string name="no_contact_details">Keine Zusatzinformationen zu diesem Kontakt.</string>
   <string name="no_contact_in_other_phone">Keine Kontakte gefunden.</string>
-  <string name="no_contacts_dialog_message">"Keine Kontakte gefunden. Die Kontakte könnten auf ihrer SIM-Karte sein. Bitte importieren Sie die SIM-Kontakte auf ihr Telefon und versuchen Sie es erneut."</string>
+  <string name="no_contacts_dialog_message">"Keine Kontakte gefunden. Die Kontakte könnten auf Ihrer SIM-Karte sein. Bitte importieren Sie die SIM-Kontakte auf ihr Telefon und versuchen Sie es erneut."</string>
   <string name="no_contacts_dialog_title">"Keine Kontakte gefunden."</string>
   <string name="no_contacts_selected">Keine Kontakte ausgewählt.</string>
   <string name="no_sdcard_message">Keinen Speicher gefunden.</string>
@@ -790,7 +790,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="picker_email_title">E-Mail auswählen</string>
   <string name="picker_favorites_list_empty">Keine Favoriten</string>
   <string name="picker_groups_list_empty">Keine Gruppen</string>
-  <string name="picker_join_title">Merge with %s</string>
+  <string name="picker_join_title">Verbinde mit %s</string>
   <string name="picker_number_title">Nummer auswählen</string>
   <string name="picker_postal_title">Anschrift auswählen</string>
   <string name="picker_recent_list_empty">Keine neuen Kontakte</string>
@@ -870,9 +870,9 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="quickcontact_missing_app">Für diese Aktion wurde keine Anwendung gefunden.</string>
   <string name="quit_dialog_confirm_message">Sie haben noch keine Kontakte zusammengeführt</string>
   <string name="quit_dialog_confirm_title">Sie haben noch keine Kontakte zusammengeführt.</string>
-  <string name="readOnlyContactDeleteConfirmation">Dieser Kontakt enthält Informationen von mehreren Konten. Informationen von schreibgeschützten Konten werden nicht gelöscht, sondern in ihren Kontaktlisten ausgeblendet.</string>
+  <string name="readOnlyContactDeleteConfirmation">Dieser Kontakt enthält Informationen von mehreren Konten. Informationen von schreibgeschützten Konten werden nicht gelöscht, sondern in Ihren Kontaktlisten ausgeblendet.</string>
   <string name="readOnlyContactDeleteConfirmationDetail">"\"%s\" enthält Informationen von mehreren Benutzerkonten. Informationen, die nicht gelöscht werden können, werden von Ihrer Kontaktliste ausgeblendet."</string>
-  <string name="readOnlyContactWarning">Sie können keine Kontakte von schreibgeschützten Konten löschen. Sie können sie jedoch in ihren Kontaktlisten ausblenden.</string>
+  <string name="readOnlyContactWarning">Sie können keine Kontakte von schreibgeschützten Konten löschen. Sie können sie jedoch in Ihren Kontaktlisten ausblenden.</string>
   <string name="readingSimContacts">Lese SIM-Karte…</string>
   <string name="reading_vcard_canceled_title">Lesen der vCard-Daten abgebrochen</string>
   <string name="reading_vcard_failed_title">Lesen der vCard-Daten nicht möglich</string>
@@ -918,7 +918,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="scanning_sdcard_failed_title">Der Speicher konnte nicht durchsucht werden</string>
   <string name="searchHint">Kontakte durchsuchen</string>
   <string name="search_results_searching">Suche läuft…</string>
-  <string name="search_settings_description">Namen ihrer Kontakte</string>
+  <string name="search_settings_description">Namen Ihrer Kontakte</string>
   <string name="searching_vcard_message">Suche nach vCard-Daten im Speicher…</string>
   <string name="select_all">Alle</string>
   <string name="select_groups">Gruppen auswählen</string>
@@ -1006,7 +1006,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="sms_work_pager">SMS an Pager (geschäftlich)</string>
   <string name="social_widget_label">Kontakt</string>
   <string name="social_widget_loading">Wird geladen…</string>
-  <string name="solar_calendar">公历</string>
+  <string name="solar_calendar">Gregorianischer Kalender</string>
   <string name="splitConfirmation">Der Kontakt wird in mehrere Kontakte aufgeteilt.</string>
   <string name="splitConfirmation_title">Kontakt aufteilen?</string>
   <string name="starredList">Markiert</string>
