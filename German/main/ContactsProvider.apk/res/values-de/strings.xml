@@ -20,7 +20,7 @@
   <string name="search_the_yellowpage">Gelbe-Seiten durchsuchen</string>
   <string name="send_sms">Nachricht senden</string>
   <string name="sharedUserLabel">Android Standard-Apps</string>
-  <string name="third_party_delete_contact_info">\"%s\" versucht ihre Kontakte zu löschen. Aktion kann nicht von Drittanbieteranwendungen durchgeführt werden. Um Kontakte zu löschen, verwenden Sie die MIUI-Kontakte-App.</string>
+  <string name="third_party_delete_contact_info">\"%s\" versucht Ihre Kontakte zu löschen. Aktion kann nicht von Drittanbieteranwendungen durchgeführt werden. Um Kontakte zu löschen, verwenden Sie die MIUI-Kontakte-App.</string>
   <string name="upgrade_msg">Kontaktdatenbank wird aktualisiert.</string>
   <string name="upgrade_out_of_memory_notification_text">Aktualisierung abschließen.</string>
   <string name="upgrade_out_of_memory_notification_ticker">Kontaktaktualisierung erfordert mehr Speicher.</string>
