@@ -5,7 +5,7 @@
   <string name="back_up_task_in_process">Sichere…</string>
   <string name="back_up_task_unfinished">Sicherung noch nicht abgeschlossen</string>
   <string name="backing_up_to_micloud">Sichere…</string>
-  <string name="backup_fail">"Konnte Apps auf dem Startbilschirm nicht sichern"</string>
+  <string name="backup_fail">"Konnte Apps auf dem Startbildschirm nicht sichern"</string>
   <string name="backup_size">Grösse: %s</string>
   <string name="backup_success">Startbildschirm Apps gesichert</string>
   <string name="backup_to_cloud">App Sichern</string>
@@ -13,7 +13,7 @@
   <string name="button_delete">Löschen</string>
   <string name="button_next">Weiter</string>
   <string name="cancel_recover_settings">&lt;u&gt;Abbrechen&lt;/u&gt;</string>
-  <string name="click_try_to_restore_again">Berühre um es noch einmal zu versuchen</string>
+  <string name="click_try_to_restore_again">Berühren, um es noch einmal zu versuchen</string>
   <string name="cloud_app_backup_success">App-Sicherung abgeschlossen</string>
   <string name="cloud_app_check_data">Verbinde mit Mi Cloud…</string>
   <string name="cloud_app_current_device">Aktuelles Gerät</string>
@@ -29,9 +29,9 @@
   <string name="cloud_back_up_task">Sichere…</string>
   <string name="cloud_restore_from_other_device">"Stoppe Wiederherstellung von %s und lösche diese Sicherung? Sie können diese Aktion nicht rückgängig machen."</string>
   <string name="cloud_restore_task">Wiederherstellung…</string>
-  <string name="cloud_task_in_process">"Stop %s und lösche diese Sicherung? Sie können diese Aktion nicht rückgängig machen."</string>
+  <string name="cloud_task_in_process">"Stoppe %s und lösche diese Sicherung? Sie können diese Aktion nicht rückgängig machen."</string>
   <string name="customization">&lt;u&gt;Bearbeite&lt;/u&gt;</string>
-  <string name="deskclock_backup">Alarm clock</string>
+  <string name="deskclock_backup">Wecker</string>
   <string name="desktop_downloading">Lade</string>
   <string name="desktop_installing">Installiere</string>
   <string name="desktop_recovering">Wiederherstellung</string>
@@ -44,8 +44,8 @@
   <string name="error_unknown">Irgendwas ging schief</string>
   <string name="latest_backup_time_loading">Lade…</string>
   <string name="managespace_delete_backup">Lösche Sicherung</string>
-  <string name="managespace_total_space">Total space: %s</string>
-  <string name="menu_item_managespace">Manage space</string>
+  <string name="managespace_total_space">Gesammter Platz: %s</string>
+  <string name="menu_item_managespace">Platz verwalten</string>
   <string name="menu_item_sort">Sortiere nach</string>
   <string name="menu_item_sort_name">Name</string>
   <string name="menu_item_sort_size">Grösse</string>
