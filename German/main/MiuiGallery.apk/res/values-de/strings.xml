@@ -652,7 +652,7 @@
   <string name="external_sdcard_root">External SD card root directory</string>
   <string name="external_usb_device">USB-Speicher</string>
   <string name="external_usb_device_hm">Externer USB-Speicher</string>
-  <string name="face_album">Leute</string>
+  <string name="face_album">Personen</string>
   <string name="face_album_long_tap_tip">To select multiple people or change group settings, press &amp; hold a profile photo</string>
   <string name="face_album_new_name_hint">Neuer Name</string>
   <string name="face_album_not_named">Kein Name</string>
@@ -720,8 +720,8 @@
   <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
   <string name="home_my_captured_items">" Aufnahmen mit der Kamera"</string>
   <string name="home_page_tab_cloud">Cloud</string>
-  <string name="home_page_tab_face">Leute</string>
-  <string name="home_page_tab_local">Offline</string>
+  <string name="home_page_tab_face">Personen</string>
+  <string name="home_page_tab_local">Lokal</string>
   <string name="home_page_tab_photo">Fotos</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
   <string name="hybrid_check_network">Network settings</string>
@@ -906,7 +906,7 @@
   <string name="paint_highlight_cancel_context">Markiertes Bild speichern?</string>
   <string name="paint_highlight_cancel_title">Änderungen verwerfen</string>
   <string name="path">Pfad</string>
-  <string name="people">Personen</string>
+  <string name="people">Leute</string>
   <string name="pet_album_display_name">Tierfotos</string>
   <string name="phone_number_empty_alert">Telefonnummer hinzufügen</string>
   <string name="photo_page_always_rotate">Bilder automatisch Drehen</string>
