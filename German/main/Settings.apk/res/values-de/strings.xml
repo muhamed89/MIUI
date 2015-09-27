@@ -1895,8 +1895,8 @@ Betriebssystem auswählen:"</string>
   <string name="notification_sound_dialog_title">Default notification sound</string>
   <string name="notification_sound_title">Default notification sound</string>
   <string name="notification_volume_option_title">Notification volume</string>
-  <string name="notification_volume_title">Notification</string> <string name="now">Jetzt neustarten</string>
-  <string name="now">Reboot now</string>
+  <string name="notification_volume_title">Notification</string> 
+  <string name="now">Jetzt neustarten</string>
   <string name="nsd_quick_toggle_summary">Anwendungen auf anderen Geräten erlauben, Anwendungen auf diesem Gerät zu finden</string>
   <string name="nsd_quick_toggle_title">Netzwerkerkennungs Dienst</string>
   <string name="oem_preferred_feedback_reporter"/>
