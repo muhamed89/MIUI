@@ -76,6 +76,7 @@ To turn this feature on, go to Settings &gt; System &gt; Buttons"</string>
   <string name="status_bar_toggle_flight_mode">Flugmodus</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Sperren</string>
+  <string name="status_bar_toggle_midrop">Mi Drop</string>
   <string name="status_bar_toggle_mute">Stumm</string>
   <string name="status_bar_toggle_paper_mode">Lesemodus</string>
   <string name="status_bar_toggle_power_mode">Leistung</string>
