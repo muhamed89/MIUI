@@ -2489,9 +2489,9 @@ To use screen pinning:
   <string name="set_password_title">Passwort festlegen</string>
   <string name="settings_backup">Einstellungen sichern</string>
   <string name="settings_backup_summary">Meine Einstellungen sichern</string>
-  <string name="settings_button">Einstellungen</string>
-  <string name="settings_label">Einstellungen</string>
-  <string name="settings_label_launcher">Einstellungen</string>
+  <string name="settings_button">Einstellung</string>
+  <string name="settings_label">Einstellung</string>
+  <string name="settings_label_launcher">Einstellung</string>
   <string name="settings_license_activity_loading">Lade...</string>
   <string name="settings_license_activity_title">Open-Source-Lizenzen</string>
   <string name="settings_license_activity_unavailable">Beim Laden der Lizenzen ist ein Problem aufgetreten.</string>
