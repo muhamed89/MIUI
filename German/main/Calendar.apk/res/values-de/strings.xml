@@ -158,6 +158,7 @@
   <string name="hint_where">Standort</string>
   <string name="huangli_bad_type">Meiden</string>
   <string name="huangli_good_type">Passend</string>
+  <string name="huangli_label"/>
   <string name="jump_date">Wechseln</string>
   <string name="jump_date_full">Wechseln zu Datum</string>
   <string name="label_recent_events">jüngste Ereignisse</string>
@@ -276,6 +277,7 @@
   <string name="repeat_label_frequency">Häufigkeit</string>
   <string name="repeat_label_interval">Jede</string>
   <string name="repeat_label_week">Woche</string>
+  <string name="repeat_lunar_yearly"/>
   <string name="repeat_month_day_splitter">" "</string>
   <string name="repeat_week_info">" %1$s %2$s"</string>
   <string name="repeats_label">Wiederhole</string>
