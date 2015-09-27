@@ -158,7 +158,7 @@
   <string name="respond_via_sms_custom_message">Schreibe deine eigene...</string>
   <string name="select_voice_call_sim">Wähle SIM Karte</string>
   <string name="separate_from_conference">Seperater Anruf</string>
-  <string name="suspect_info">"Always verify the identity of the person you're speaking with by phone or video before responding to any messages involving your personal finances."</string>
+  <string name="suspect_info">Vorsicht: Sie sollten bei erstem Kontakt immer die Indentität prüfen bevor Sie auf Nachrichten über ihre Finanzen antworten.</string>
   <string name="unknown">Unbekannt</string>
   <string name="upgrade_vt_prompt">Would you like to upgrade the call to video call?</string>
   <string name="upgrade_vt_rx_prompt">Would you like to upgrade the call to video receive only call?</string>
