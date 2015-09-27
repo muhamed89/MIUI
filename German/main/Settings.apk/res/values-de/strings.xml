@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Accounts_settings_title">Accounts</string>
+  <string name="Accounts_settings_title">Konten</string>
   <string name="about_settings">Über das Telefon</string>
   <string name="about_settings_summary">Rechtliche Hinweise, Status und Softwareversion anzeigen</string>
   <string name="ac_enable_title">Zugriffssteuerung</string>
@@ -18,15 +18,15 @@
   <string name="access_control_password_title">Passwort</string>
   <string name="access_control_recording_intro_header">Zeichnen Sie ein Entsperrmuster:</string>
   <string name="access_control_reset_by_account">Um Ihr Passwort zurückzusetzen, melden Sie sich bei Ihrem Mi-Konto an.</string>
-  <string name="access_point_names">Access point names</string>
-  <string name="accessibility_captioning_title">Captions</string>
-  <string name="accessibility_display_daltonizer_preference_subtitle">This feature is experimental and may affect performance.</string>
-  <string name="accessibility_display_daltonizer_preference_title">Color correction</string>
-  <string name="accessibility_display_inversion_preference_subtitle">(Experimental) May affect performance</string>
-  <string name="accessibility_display_inversion_preference_title">Color inversion</string>
-  <string name="accessibility_display_title">Display</string>
-  <string name="accessibility_enable">Accessibility</string>
-  <string name="accessibility_feature_or_input_method_not_allowed">Not allowed by your organization</string>
+  <string name="access_point_names">Zugangspunktnamen</string>
+  <string name="accessibility_captioning_title">Bildunterschriften</string>
+  <string name="accessibility_display_daltonizer_preference_subtitle">Dieses Feature ist experimentell und kann die Leistung beeinträchtigen.</string>
+  <string name="accessibility_display_daltonizer_preference_title">Farbkorrektur</string>
+  <string name="accessibility_display_inversion_preference_subtitle">(Experimentell) Kann die Leistung beeinträchtigen</string>
+  <string name="accessibility_display_inversion_preference_title">Farbinvertierung</string>
+  <string name="accessibility_display_title">Bildschirm</string>
+  <string name="accessibility_enable">Zugänglichkeit</string>
+  <string name="accessibility_feature_or_input_method_not_allowed">Von Ihrer Organisation nicht erlaubt</string>
   <string name="accessibility_feature_state_off">Aus</string>
   <string name="accessibility_feature_state_on">An</string>
   <string name="accessibility_global_gesture_preference_description">"Wenn diese Funktion aktiviert ist, können Sie Bedienungshilfen schnell in zwei Schritten aktivieren:
@@ -47,7 +47,7 @@ Falls das Gerät mehrere Nutzer hat, werden die Bedienungshilfen durch Verwendun
   <string name="accessibility_screen_magnification_summary">"Wenn diese Funktion aktiviert ist, können Sie rein/raus-zoomen, indem Sie drei Mal auf den Bildschirm tippen.
 
 Wenn Sie reingezoomt haben, können Sie:
-"<li> <ul>"Pan: Ziehen Sie zwei oder mehrere Finger über den Bildschirm.
+"<li> <ul>"Verschieben: Ziehen Sie zwei oder mehrere Finger über den Bildschirm.
 "<li>Zoomen: Ziehen Sie zwei oder mehr Finger zusammen oder auseinander.</li> </ul> </li>"
 
 Sie können auch vorübergehend alles, was sich unter Ihrem Finger befindet, durch dreifach-Antippen und Halten vergrössern. In diesem vergrößerten Zustand können Sie den Finger bewegen, um verschiedene Teile des Bildschirms zu erkunden. Heben Sie Ihren Finger, um zum Ursprungszustand zurückzukehren.
@@ -63,9 +63,9 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="accessibility_sync_disabled">Synchronisierung aus</string>
   <string name="accessibility_sync_enabled">Synchronisierung an</string>
   <string name="accessibility_sync_error">Synchronisierungsfehler</string>
-  <string name="accessibility_sync_in_progress">Syncing now</string>
+  <string name="accessibility_sync_in_progress">Synchronisiert jetzt</string>
   <string name="accessibility_system_title">System</string>
-  <string name="accessibility_toggle_high_text_contrast_preference_title">High contrast text</string>
+  <string name="accessibility_toggle_high_text_contrast_preference_title">Hoher kontrastreicher Text</string>
   <string name="accessibility_toggle_large_text_preference_title">Großer Text</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Vergrößerung bei App-Übergängen aktualisieren</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Vergrößerung autom. aktualisieren</string>
@@ -75,10 +75,10 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="account_autostar_label">Autostart</string>
   <string name="account_list">Andere Konten</string>
   <string name="account_settings">Konten</string>
-  <string name="account_settings_menu_auto_sync">Auto-sync data</string>
-  <string name="account_settings_menu_auto_sync_personal">Auto-sync personal data</string>
-  <string name="account_settings_menu_auto_sync_work">Auto-sync work data</string>
-  <string name="account_settings_title">Accounts</string>
+  <string name="account_settings_menu_auto_sync">Auto-synce Daten</string>
+  <string name="account_settings_menu_auto_sync_personal">Auto-synce persönl. Daten</string>
+  <string name="account_settings_menu_auto_sync_work">Auto-synce Arbeitsdaten</string>
+  <string name="account_settings_title">Konten</string>
   <string name="account_sync_settings_title">Synchronisierung</string>
   <string name="activate_miui_screensaver">Bildschirmschoner</string>
   <string name="activating">Einschalten...</string>
@@ -93,9 +93,9 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="add_auto_startup_application">Autostart-Apps hinzufügen</string>
   <string name="add_device_admin">Aktivieren</string>
   <string name="add_device_admin_msg">Geräteadministrator aktivieren?</string>
-  <string name="adding_profile_owner_warning">"By proceeding, your User will be managed by your Administrator which may also be able to store associated data, in addition to your personal data.
+  <string name="adding_profile_owner_warning">"Wenn Sie weiter vorgehen, wird Ihr User Konto von Ihrem Administrator verwaltet, der dann auch zugeordneten Daten neben Ihren persönlichen Daten speichern kann.
 
-Your Administrator has the ability to monitor and manage settings, access, apps, and data associated with this User, including network activity and your device's location information."</string>
+Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu überwachen und verwalten, die mit diesem User Konto, einschließlich Netzwerkaktivität und Standortinformationen Ihres Geräts, verbunden sind."</string>
     <string name="additional_system_update"/>
   <string name="additional_system_update_menu"/>  
   <string name="additional_system_update_settings_list_item_title">Zusätzliche Systemupdates</string>
@@ -108,7 +108,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="agps_roaming_dia_title">A-GPS beim Datenroaming verwenden</string>
   <string name="agps_roaming_summary">Die Verwendung von A-GPS bei Datenroaming kann zu erhöhten Kosten führen</string>
   <string name="airplane_mode">Flugmodus</string>
-  <string name="alarm_volume_option_title">Alarm volume</string>
+  <string name="alarm_volume_option_title">Alarmlautstärke</string>
   <string name="alarm_volume_title">Wecker</string>
   <string name="alert_show_screensaver_when_not_charging_msg">Wenn der Bildschirmschoner angezeigt wird und das Gerät nicht am Laden ist, erhöht sich der Energieverbrauch. Möchten Sie diese Option ausschalten?</string>
   <string name="alert_show_screensaver_when_not_charging_title">Achtung</string>
@@ -117,15 +117,15 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="allow_bind_app_widget_activity_allow_bind">Nach der Erstellung des Widgets hat %1$s Zugriff auf alle von ihm angezeigten Daten.</string>
   <string name="allow_bind_app_widget_activity_allow_bind_title">Widget erstellen und Zugriff erlauben?</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">%1$s immer das Erstellen von Widgets und den Zugriff auf Ihre Daten erlauben</string>
-  <string name="allow_data_usage_title">Allow data usage when roaming</string> 
+  <string name="allow_data_usage_title">Gestatten Sie die Datennutzung beim Roaming</string> 
   <string name="allow_mock_location">Falsche Standorte</string>
   <string name="allow_mock_location_summary">Falsche Standorte zulassen</string>
-  <string name="allow_usage_access_message">If you allow access, this app can view general information about the apps on your device, such as how often you use them.</string>
-  <string name="allow_usage_access_title">Allow access?</string>
+  <string name="allow_usage_access_message">Wenn Sie Zugang erlauben, dann kann diese App allgemeine Informationen zu den Apps auf Ihrem Gerät,  wie zum Beispiel, wie oft Sie diese verwenden, anzeigen.</string>
+  <string name="allow_usage_access_title">Zugang erlauben?</string>
   <string name="alpha_build">" | Alpha"</string>
   <string name="always_allow_bind_appwidgets_text">Sie haben dieser App das Erstellen von Widgets und den Zugriff auf Ihre Daten erlaubt.</string>
-  <string name="amber_alerts_summary">Receive bulletins about child abductions</string>
-  <string name="amber_alerts_title">AMBER alerts</string>
+  <string name="amber_alerts_summary">Erhalten Sie Bulletins über Kindesentführungen</string>
+  <string name="amber_alerts_title">AMBER Alarmbereitschaft</string>
   <string name="android_beam_disabled_summary">Bitte NFC einschalten</string>
   <string name="android_beam_explained">Sie können Webseiten, ein Video oder andere Inhalte auf ein anderes Gerät beamen das Android Beam unterstützt, indem Sie die Geräte dicht nebeneinander halten.(Normalerweise Rückseite an Rückseite)</string>
   <string name="android_beam_label">Android Beam</string>
@@ -142,8 +142,8 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="apn_auth_type_none">Keine</string>
   <string name="apn_auth_type_pap">PAP</string>
   <string name="apn_auth_type_pap_chap">PAP oder CHAP</string>
-  <string name="apn_chinaunicom_3gnet_general">沃宽带用户连接互联网</string>
-  <string name="apn_chinaunicom_3gwap_general">沃宽带用户手机上网</string>
+  <string name="apn_chinaunicom_3gnet_general">Welt-Breitband-Nutzer mit dem Internet verbunden</string>
+  <string name="apn_chinaunicom_3gwap_general">Welt-Breitband mobiler Internet-Zugang</string>
   <string name="apn_edit">APN bearbeiten</string>
   <string name="apn_general">Allgemein</string>
   <string name="apn_http_port">Port</string>
@@ -155,7 +155,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="apn_mmsc">MMSC</string>
   <string name="apn_mnc">MNC</string>
   <string name="apn_name">Name</string>
-  <string name="apn_new">Neuen APN</string>
+  <string name="apn_new">Neue APN</string>
   <string name="apn_not_set">Nicht festgelegt</string>
   <string name="apn_password">Passwort</string>
   <string name="apn_protocol">APN-Protokoll</string>
@@ -164,7 +164,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="apn_save_msg">APN Änderungen speichern?</string>
   <string name="apn_server">Server</string>
   <string name="apn_settings">APNs</string>
-  <string name="apn_settings_not_available">Access Point Name settings are not available for this user</string>
+  <string name="apn_settings_not_available">Access Point Name Einstellungen sind nicht für diesen Benutzer verfügbar</string>
   <string name="apn_type">APN Typ</string>
   <string name="apn_user">Benutzername</string>
   <string name="app_backup">Sicherungen</string>
@@ -187,22 +187,22 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="app_not_found_dlg_text">Die App wurde nicht in der Liste der installierten Apps gefunden.</string>
   <string name="app_not_found_dlg_title" />
   <string name="app_not_supported_in_limited">Diese App wird in eingeschränkten Profilen nicht unterstützt.</string>
-  <string name="app_notification_block_summary">Never show notifications from this app</string>
-  <string name="app_notification_block_title">Block</string>
-  <string name="app_notification_priority_summary">Show notifications at the top of the list and keep them coming when the device is set to priority interruptions only</string>
-  <string name="app_notification_priority_title">Priority</string>
-  <string name="app_notification_row_banned">Blocked</string>
-  <string name="app_notification_row_priority">Priority</string>
-  <string name="app_notification_row_sensitive">Sensitive</string>
-  <string name="app_notification_sensitive_summary">"When the device is locked, hide any sensitive content from this app's notifications"</string>
-  <string name="app_notification_sensitive_title">Sensitive</string>
-  <string name="app_notifications_dialog_done">Done</string>
+  <string name="app_notification_block_summary">Benachrichtigungen für diese App niemals anzeigen</string>
+  <string name="app_notification_block_title">Blockieren</string>
+  <string name="app_notification_priority_summary">Benachrichtigungen an der Spitze der Liste anzeigen lassen und sie weiterhin zulassen, wenn das Gerät nur auf Prioritätsunterbrechungen festgelegt ist</string>
+  <string name="app_notification_priority_title">Priorität</string>
+  <string name="app_notification_row_banned">Blockiert</string>
+  <string name="app_notification_row_priority">Priorität</string>
+  <string name="app_notification_row_sensitive">Sensibel</string>
+  <string name="app_notification_sensitive_summary">"Wenn das Gerät gesperrt ist, verstecke keine sensiblen Inhalte von den Benachrichtigungen dieser App."</string>
+  <string name="app_notification_sensitive_title">Sensibel</string>
+  <string name="app_notifications_dialog_done">Fertig</string>
   <string name="app_notifications_switch_label">Benachrichtigungen</string>
-  <string name="app_notifications_title">App notifications</string>
+  <string name="app_notifications_title">App Benachrichtigungen</string>
   <string name="app_ops_never_used">(Nie verwendet)</string>
   <string name="app_ops_running">Aktiv</string>
   <string name="app_ops_settings">App-Vorgänge</string>
-  <string name="app_ops_settings_summary">View or change app permissions</string>
+  <string name="app_ops_settings_summary">Zeige oder ändere App-Berechtigungen</string>
   <string name="app_process_limit_title">Hintergrundprozesslimit</string>
   <string name="app_restrictions_custom_label">App-Beschränkungen festlegen</string>
   <string name="app_sees_restricted_accounts">Diese App darf auf Ihre Konten zugreifen.</string>
@@ -230,8 +230,8 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="audio_list_loading">Lade…</string>
   <string name="audio_profile_settings_title">Audio Profile</string>
   <string name="audio_record_proc_title">Geräuschunterdrückung</string>
-  <string name="auto_brightness_summary">Optimize brightness level for available light</string>
-  <string name="auto_brightness_title">Adaptive brightness</string>
+  <string name="auto_brightness_summary">Optimiere den Helligkeitswert für das verfügbare Licht</string>
+  <string name="auto_brightness_title">Adaptive Helligkeit</string>
   <string name="auto_caps">Auto. Groß-/Kleinschr.</string>
   <string name="auto_caps_summary">Jeden Satz mit einem Großbuchstaben beginnen</string>
   <string name="auto_launch_disable_text">Kein Standards eingestellt.</string>
@@ -286,11 +286,11 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="battery_desc_apps">Akkuverbrauch durch App</string>
   <string name="battery_desc_bluetooth">Akkuverbrauch durch Bluetooth</string>
   <string name="battery_desc_display">Akkuverbrauch durch Bildschirm und Beleuchtung</string>
-  <string name="battery_desc_flashlight">Battery used by the flashlight</string>
-  <string name="battery_desc_overcounted">Over-counted power use</string>
+  <string name="battery_desc_flashlight">Akkuverbrauch durch die Taschenlampe</string>
+  <string name="battery_desc_overcounted">Überzählter Stromverbrauch</string>
   <string name="battery_desc_radio">Akkuverbrauch durch Mobilfunk</string>
   <string name="battery_desc_standby">Akkuverbrauch im Ruhezustand</string>
-  <string name="battery_desc_unaccounted">Miscellaneous power use</string>
+  <string name="battery_desc_unaccounted">Sonstiger Stromverbrauch</string>
   <string name="battery_desc_users">Akkuverbrauch durch Benutzer</string>
   <string name="battery_desc_voice">Akkuverbrauch durch Anrufe</string>
   <string name="battery_desc_wifi">Akkuverbrauch durch WLAN</string>
@@ -339,11 +339,11 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="battery_info_voltage_label">Akkuspannung:</string>
   <string name="battery_info_voltage_units">mV</string>
   <string name="battery_level_title">Akkuladung</string>
-  <string name="battery_msg_unaccounted">Battery use is an approximation of power use and does not include every source of battery drain. Miscellaneous is the difference between the computed approximate power use and the actual drain observed on the battery.</string>
-  <string name="battery_saver">Battery saver</string>
-  <string name="battery_saver_turn_on_automatically_never">Never</string>
-  <string name="battery_saver_turn_on_automatically_pct">at %1$d%% battery</string>
-  <string name="battery_saver_turn_on_automatically_title">Turn on automatically</string>
+  <string name="battery_msg_unaccounted">Akkuverbrauch ist eine Näherung von Stromverbrauch und enthält nicht jede Quelle von Batterieentladung. Sonstiges ist die Differenz von dem berechneten ungefähren Stromverbrauch und der eigentlichen beobachteten Entladung der Batterie.</string>
+  <string name="battery_saver">Akku-Sparer</string>
+  <string name="battery_saver_turn_on_automatically_never">Nie</string>
+  <string name="battery_saver_turn_on_automatically_pct">bei %1$d%% an Akku</string>
+  <string name="battery_saver_turn_on_automatically_title">Automatisch anstellen</string>
   <string name="battery_settings">Akku</string>
   <string name="battery_settings_title">Akku</string>
   <string name="battery_since_reset">Akkuverbrauch seit dem Zurücksetzen</string>
@@ -380,15 +380,15 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="bluetooth_ask_enablement_and_discovery_detected">" möchte Bluetooth anschalten und Ihr Telefon für andere Geräte %1$d Sekunden lang sichtbar machen."</string>  
   <string name="bluetooth_ask_enablement_and_lasting_discovery">Eine App versucht, Bluetooth einzuschalten und Ihr Telefon für andere Geräte sichtbar zu machen. Erlauben?</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" möchte Bluetooth aktivieren und Ihr Telefon für andere Geräte sichtbar zu machen. Sie können das in den Bluetooth-Einstellungen ändern."</string>
-  <string name="bluetooth_ask_enablement_and_start_broadcast">%1$s wants to turn on Bluetooth and Bluetooth broadcasting to communicate with other devices nearby. You can change this later in Bluetooth settings.</string>
+  <string name="bluetooth_ask_enablement_and_start_broadcast">%1$s möchte Bluetooth und Bluetooth-Broadcasting anstellen, um mit anderen Geräten in der Umgebung zu kommunizieren. Sie können das später in den Bluetooth-Einstellungen ändern.</string>
   <string name="bluetooth_ask_enablement_detected">" möchte Bluetooth anschalten."</string>
   <string name="bluetooth_ask_lasting_discovery">Eine App versucht Ihr Gerät für andere Bluetooth-Geräte sichtbar zu machen. Dies kann in den Bluetooth-Einstellungen geändert werden.</string>
-  <string name="bluetooth_ask_start_broadcast">%1$s wants to turn on Bluetooth broadcasting to communicate with other devices nearby. You can change this later in Bluetooth settings.</string>
+  <string name="bluetooth_ask_start_broadcast">%1$s möchte Bluetooth-Broadcasting anstellen, um mit anderen Geräten in der Umgebung zu kommunizieren. Sie können das später in den Bluetooth-Einstellungen ändern.</string>
   <string name="bluetooth_auto_connect">Automatisch Verbinden</string>
   <string name="bluetooth_broadcasting">Broadcasting</string>
-  <string name="bluetooth_broadcasting_explaination">"When this feature is turned on, your phone can communicate with other devices nearby.
+  <string name="bluetooth_broadcasting_explaination">"Wenn diese Funktion angestellt ist, dann kann Ihr Handy mit anderen Geräten in der Umgebung kommunizieren.
 
-Broadcasting uses low-power Bluetooth signals."</string>
+Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="bluetooth_confirm_passkey_msg">Zum Paaren mit:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Stellen Sie sicher, das dieser Hauptschlüssel angezeigt wird:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
   <string name="bluetooth_connect_specific_profiles_title">Verbinden…</string>
   <string name="bluetooth_connected">Verbunden</string>
