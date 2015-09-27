@@ -94,7 +94,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieter"<
   <string name="dialog_roaming_apps_sorted_title">Sortiert nach</string>
   <string name="dialog_roaming_message">Apps von den Ausnahmen können auf das Datennetz zugreifen, wenn Daten-Roaming aktiviert ist. App zu den Ausnahmen hinzufügen?</string>
   <string name="dialog_roaming_title">Daten-Roaming</string>
-  <string name="dialog_title_attention">Attention</string>
+  <string name="dialog_title_attention">Warnung</string>
   <string name="disable_air_mode">Flugmodus ausschalten</string>
   <string name="dns_exception_summary">DNS-Einstellungen des Routers überprüfen</string>
   <string name="dns_exception_title">DNS-Einstellungen überprüfen</string>
@@ -439,18 +439,18 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="tc_sms_report_notify_get_timeout_title">"Can't get data usage SMS"</string>
   <string name="tc_sms_report_receive_content">Data usage report SMS contents (Confirm data usage stats)</string>
   <string name="tc_sms_report_receive_content_null">"​Help improve this feature!&lt;br/&gt;Here's how:&lt;br/&gt;1. Go to \"Check command SMS\" and \"Recipient number\"&lt;br/&gt;2. Tap \"Get SMS template\"&lt;br/&gt;3. Wait to receive SMS message from your carrier &lt;br/&gt;4. Tap \"Upload to MIUI\"​"</string>
-  <string name="tc_sms_report_receive_num">Recipient number</string>
+  <string name="tc_sms_report_receive_num">Nummer des Empfängers</string>
   <string name="tc_sms_report_send_num">Carrier phone #</string>
   <string name="tc_sms_report_summary">Help us improve this feature by sending a report when your data usage info is incorrect or fails to update</string>
   <string name="tc_sms_report_tips_dialog_message">"Data usage uses a specially formatted SMS to get your latest data usage from your carrier. If this feature isn't working normally, try updating the data usage SMS format. The new updated format will then be uploaded to our servers."</string>
-  <string name="tc_sms_report_tips_dialog_title">Data usage SMS</string>
+  <string name="tc_sms_report_tips_dialog_title">Datenverbrauchs SMS</string>
   <string name="tc_sms_report_title">Report data usage bug</string>
   <string name="tc_sms_report_toast_text">Getting info…</string>
-  <string name="tc_sms_report_upload_success">"Data usage report SMS submitted. We'll get right on it!"</string>
-  <string name="tc_sms_report_upload_when_net">Thank you for the feedback!</string>
-  <string name="ten_percent_total_pkg">%s (10%% of monthly data)</string>
+  <string name="tc_sms_report_upload_success">"Datenverbrauchs SMS übermittelt. Wir werden uns gleich darum kümmern!"</string>
+  <string name="tc_sms_report_upload_when_net">Vielen Dank für Ihr feedback!</string>
+  <string name="ten_percent_total_pkg">%s (10%% der monatlichen Daten)</string>
   <string name="text_day"/>
-  <string name="three_percent_total_pkg">%s (3%% of monthly data)</string>
+  <string name="three_percent_total_pkg">%s (3%% der monatlichen Daten)</string>
   <string name="timeshow_h">%.1fh</string>
   <string name="timeshow_h_int">%dh</string>
   <string name="timeshow_h_m">%1$dh %2$dm</string>
@@ -458,9 +458,9 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="timeshow_m_s">%1$dm %2$ds</string>
   <string name="timeshow_s">%ds</string>
   <string name="tips_dialog_title">"Limit ist nicht bekannt"</string>
-  <string name="tips_message">"To view your data plan's details, dial %2$s (%1$s)."</string>
+  <string name="tips_message">"Um Ihre Tarifdetails zu erhalten, wählen Sie %2$s (%1$s)."</string>
   <string name="title_limit_traffic_per_day">Tägliche Datennnutzungsbeschränkung</string>
-  <string name="traffic_config_alert_body">"Your carrier's accounting shows :%s.
+  <string name="traffic_config_alert_body">"Die Abrechnung Ihres betreibers ergibt :%s.
 
 Will you take this?"</string>
   <string name="traffic_config_alert_body_extra">"
