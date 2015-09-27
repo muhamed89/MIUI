@@ -97,7 +97,7 @@
   <string name="button_text_cleanup">Bereinigen</string>
   <string name="button_text_clear">Löschen</string>
   <string name="button_text_create_shortcut">Verknüpfung erstellen</string>
-  <string name="button_text_fix">Behebe</string>
+  <string name="button_text_fix">Beheben</string>
   <string name="button_text_ignore">Ignorieren</string>
   <string name="button_text_ignore_alert_title">ignoriere diese Meldung?</string>
   <string name="button_text_known">OK</string>
@@ -107,9 +107,9 @@
   <string name="button_text_reject">Verwerfe</string>
   <string name="button_text_reject_timer">Verwerfe (%d)</string>
   <string name="button_text_security">Sicherheit</string>
-  <string name="button_text_start_optimize">Überprüfe</string>
-  <string name="button_text_uninstall_shortcut">Entferne</string>
-  <string name="button_text_view">Optimiere</string>
+  <string name="button_text_start_optimize">Überprüfen</string>
+  <string name="button_text_uninstall_shortcut">Entfernen</string>
+  <string name="button_text_view">Optimieren</string>
   <string name="button_text_view_power">Siehe</string>
   <string name="cache_header_title">%1$d Dateien im Cache löschen um %2$s Speicher frei zu machen</string>
   <string name="call_and_contact">Anrufe und Kontakte</string>
@@ -117,7 +117,7 @@
   <string name="cmcc_app_check_dialog_message">Um die Reparatur abzuschließen, starten Sie Ihr Gerät neu.</string>
   <string name="cmcc_app_check_dialog_negative">Später</string>
   <string name="cmcc_app_check_dialog_positive">Jetzt neu starten</string>
-  <string name="cmcc_app_check_dialog_title">System repaired</string>
+  <string name="cmcc_app_check_dialog_title">System repariert</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Abbrechen</string>
   <string name="cta_checkbox_title">Nicht mehr anzeigen</string>
