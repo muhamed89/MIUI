@@ -2433,7 +2433,7 @@ To use screen pinning:
   <string name="search_power_mode">power mode</string>
   <string name="search_recents_queries_label">Recent searches</string>
   <string name="search_results_label">Results</string>
-  <string name="search_results_title">Settings</string>>
+  <string name="search_results_title">Settings</string>
   <string name="search_ring_volume">Ruftonlautstärke</string>
   <string name="search_ringtone">Klingelton</string>
   <string name="search_screen_timeout">Bildschirm Auszeit</string>
