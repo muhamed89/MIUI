@@ -120,6 +120,7 @@
   <string name="error_info_cant_send_folder">Dateityp wird nicht unterstützt.</string>
   <string name="error_open_file_failed_no_app_found">Keine App zum Öffnen dieser Datei gefunden.</string>
   <string name="expand_all">Alle</string>
+  <string name="extract">Entpacken</string>
   <string name="fail_to_create_folder">Nicht genug Speicher oder Ordner ist bereits vorhanden.</string>
   <string name="fail_to_create_folder_unknown">Ordner konnte nicht erstellt werden</string>
   <string name="fail_to_rename">Datei bereits vorhanden.</string>
@@ -192,6 +193,9 @@
   <string name="load_err">Laden fehlgeschlagen.</string>
   <string name="load_more">Mehr anzeigen</string>
   <string name="loading">Wird geladen...</string>
+  <string name="local_image">Fotos</string>
+  <string name="local_music">Musik</string>
+  <string name="local_video">Video</string>
   <string name="login_reg_content">Speichern von Dateien und Synchronisierung auf mehrere Geräte.</string>
   <string name="login_reg_content0">Alle Ihre Inhalte. Wohin Sie auch gehen.</string>
   <string name="megabyteShort">MB</string>
@@ -211,6 +215,7 @@
   <string name="mobile_photo_desc" />
   <string name="month_day_format">MMM dd</string>
   <string name="move_failed">Verschieben fehlgeschlagen.</string>
+  <string name="move_to">Verschieben nach…</string>
   <string name="multi_select_title">%1$s ausgewählt</string>
   <string name="my_app">App-Daten</string>
   <string name="my_app_desc" />
@@ -366,8 +371,11 @@
   <string name="search_statistic_match_invalid">0</string>
   <string name="search_statistic_match_valid">1</string>
   <string name="search_statistic_tag">tag</string>
-  <string name="search_title">Search</string>
-  <string name="search_title_hint">Search</string>
+  <string name="search_title">Suche</string>
+  <string name="search_title_hint">Suchen</string>
+   <string name="select_image">Fotos auswählen</string>
+  <string name="select_music">Musik auswählen</string>
+  <string name="select_video">Videos auswählen</string>
   <string name="send_to_midrive">KuaiPan</string>
   <string name="send_to_midrive_failed_message">Dateityp wird nicht unterstützt.</string>
   <string name="server_control_advanced_settings">FTP-Einstellungen</string>
@@ -393,8 +401,11 @@
   <string name="storage_info">%1$s available</string>
   <string name="storage_info_detail">Verfügbar:%1$s Gesamt:%1$s</string>
   <string name="storage_internal">Interner Speicher</string>
+  <string name="storage_internal_description">Interner Speicher</string>
   <string name="storage_sd_card">SD-Karte</string>
+  <string name="storage_sd_card_description">SD-Karte</string>
   <string name="storage_usb">USB-Speicher</string>
+  <string name="storage_usb_description">USB-Speicher</string>
   <string name="storage_warning">Externer Speicher nicht verfügbar.</string>
   <string name="sys_size_enable">Aktivieren</string>
   <string name="system_alert">Erinnern</string>
