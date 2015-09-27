@@ -82,6 +82,8 @@
   <string name="miui_summary_has_new_version">Aktualisierung verfügbar</string>
   <string name="miui_summary_no_new_version">Keine Aktualisierungen verfügbar</string>
   <string name="miui_summary_now_version">"Verbindung kann nicht aufgebaut werden"</string>
+  <string name="miui_summary_slogan">"  Yours by design  "</string>
+  <string name="miui_summary_updating">"  Aktualisiere…  "</string>
   <string name="monthly_build">Monatlich</string>
   <string name="my_best_update">Beste Aktualisierung</string>
   <string name="my_expect_update">Erwartungen</string>
