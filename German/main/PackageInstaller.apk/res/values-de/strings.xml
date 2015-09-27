@@ -9,24 +9,24 @@ Möchten Sie dies jetzt und in Zukunft zulassen?"</string>
   <string name="app_name">Paket-Installer</string>
   <string name="app_not_found_dlg_text">Die App wurde nicht in der Liste der installierten Apps gefunden.</string>
   <string name="app_not_found_dlg_title">App nicht gefunden</string>
-  <string name="app_store_install_hint">Install now</string>
+  <string name="app_store_install_hint">Jetzt installieren</string>
   <string name="app_store_installing_message">Installing…</string>
-  <string name="app_store_missing_message">"Looks like you haven't installed our official App Store. Install it now?"</string>
-  <string name="app_store_missing_title">"App Store isn't installed"</string>
-  <string name="auto_startup_dialog_msg">This app can start without your permission.</string>
-  <string name="button_text_cancel">Cancel</string>
-  <string name="button_text_delete">Delete</string>
-  <string name="button_text_delete_timer">Delete (%d)</string>
-  <string name="button_text_next_step">Next</string>
-  <string name="button_text_next_step_timer">Next (%d)</string>
-  <string name="caller_app">Permission request from %1$s</string>
+  <string name="app_store_missing_message">"Si haben unseren offiziellen App Store nit installiert. Jetzt installieren?"</string>
+  <string name="app_store_missing_title">"App Store ist nicht installiert"</string>
+  <string name="auto_startup_dialog_msg">Diese App kann ohne Ihre Zustimmung starten.</string>
+  <string name="button_text_cancel">Abbrechen</string>
+  <string name="button_text_delete">Löschen</string>
+  <string name="button_text_delete_timer">Lösche (%d)</string>
+  <string name="button_text_next_step">Weiter</string>
+  <string name="button_text_next_step_timer">Weiter (%d)</string>
+  <string name="caller_app">Berechtigungsanfrage von %1$s</string>
   <string name="cancel">Abbrechen</string>
   <string name="dlg_app_replacement_statement">"Die Anwendung, die Sie installieren, wird eine andere App ersetzen.
 
 Alle bisherigen Nutzerdaten werden gespeichert."</string>
   <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) wird die derzeit installierte Version ersetzen (%3$s). Alle Benutzerdaten bleiben erhalten.</string>
   <string name="dlg_app_replacement_title">Anwendung ersetzen</string>
-  <string name="dlg_appstore_notice">Get this app from our official &lt;u&gt;&lt;font color=#91c727&gt;App Store&lt;/font&gt;&lt;/u&gt;</string>
+  <string name="dlg_appstore_notice">Holen Sie sich die App aus unserem offiziellen &lt;u&gt;&lt;font color=#91c727&gt;App Store&lt;/font&gt;&lt;/u&gt;</string>
   <string name="dlg_ok">OK</string>
   <string name="dlg_sys_app_replacement_statement">"Dies ist eine Systemanwendung. Trotzdem ersetzen?
 
@@ -57,9 +57,9 @@ Alle bisherigen Nutzerdaten werden gespeichert."</string>
   <string name="other_relative">Andere Rechte</string>
   <string name="out_of_space_dlg_text">"%1$s nicht installiert: Nicht genügend freier Speicher."</string>
   <string name="out_of_space_dlg_title">Nicht genügend freier Speicher</string>
-  <string name="package_delete_confirm_step_1">Delete %s?</string>
-  <string name="package_delete_confirm_step_2">Deleting this app may cause your system to become unstable.</string>
-  <string name="package_delete_confirm_step_3">"You won't be able to open this app after you delete it."</string>
+  <string name="package_delete_confirm_step_1">Lösche %s?</string>
+  <string name="package_delete_confirm_step_2">Das Löschen dieser App kann zu einem instabilen System führen.</string>
+  <string name="package_delete_confirm_step_3">"Sie können diese App nach dem Löschen nicht mehr ausführen."</string>
   <string name="perm_action_accept">Zulassen</string>
   <string name="perm_action_prompt">Fragen</string>
   <string name="perm_action_reject">Verweigern</string>
