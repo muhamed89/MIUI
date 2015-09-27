@@ -7,6 +7,7 @@
   <string name="active_phone_success_toast">SIM Karte %1$s erkannt</string>
   <string name="phoneAppLabel">Telefon</string>
   <string name="phoneIconLabel">Telefon</string>
+  <string name="fdn">FDN Nummer</string>
   <string name="fdnListLabel">FDN Liste</string>
   <string name="activing_simcard">Überprüfe SIM %1$d</string>
   <string name="activing_simcard_alone">Überprüfe SIM</string>
