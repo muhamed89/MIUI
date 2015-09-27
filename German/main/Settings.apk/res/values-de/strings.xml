@@ -730,7 +730,7 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="credentials_reset_warning">Falsches Passwort. Sie haben noch einen Versuch, bevor Ihr Anmeldedatenspeicher gelöscht wird.</string>
   <string name="credentials_reset_warning_plural">Falsches Passwort. Sie haben noch %1$d Versuche, bevor Ihr Anmeldedatenspeicher gelöscht wird.</string>
   <string name="credentials_settings_not_available">Credentials are not available for this user</string>
-  <string name="credentials_title">Credential storage</string>
+  <string name="credentials_title">Anmeldedatenspeicher</string>
   <string name="credentials_unlock" />
   <string name="credentials_unlock_hint">Geben Sie das Passwort für den Anmeldedatenspeicher ein.</string>
   <string name="credentials_wrong_password">Falsches Passwort</string>
@@ -742,17 +742,17 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
 
 To resume using your phone, you need to perform a factory reset. When you set up your phone after the reset, you'll have an opportunity to restore any data that was backed up to your Google Account."</string>
   <string name="crypt_keeper_data_corrupt_title">Decryption unsuccessful</string>
-  <string name="crypt_keeper_desc">"You can encrypt your accounts, settings, downloaded apps and their data, media, and other files. After you encrypt your phone, assuming you've set up a screen lock (that is, a pattern or numeric PIN or password), you'll need to unlock the screen to decrypt the phone every time you power it on. The only other way to decrypt is to perform a factory data reset, erasing all your data.
+  <string name="crypt_keeper_desc">"Sie können Ihre Konten, Einstellungen, heruntergeladenen Apps mit den dazugehörigen Daten sowie Multimedia- und andere Dateien verschlüsseln. Nach der Verschlüsselung Ihres Geräts ist bei jedem Einschalten die Eingabe einer PIN-Nummer oder eines Passworts erforderlich. Sie können die Verschlüsselung Ihres Geräts nur aufheben, indem Sie das Gerät auf die Werkseinstellungen zurücksetzen. Dabei werden alle Ihre Daten gelöscht.
 
-Encryption takes an hour or more. You must start with a charged battery and keep your phone plugged in throughout the process. If you interrupt it, you'll lose some or all of your data."</string>
-  <string name="crypt_keeper_dialog_need_password_message">You need to set a lock screen PIN or password before you can start encryption.</string>
-  <string name="crypt_keeper_dialog_need_password_title">No lock screen PIN or password</string>
-  <string name="crypt_keeper_encrypt_title">Encrypt phone</string>
-  <string name="crypt_keeper_encrypted_summary">Encrypted</string>
-  <string name="crypt_keeper_enter_password">Type your password</string>
-  <string name="crypt_keeper_failed_summary">"Encryption was interrupted and can't complete. As a result, the data on your phone is no longer accessible. 
+Die Verschlüsselung dauert mindestens eine Stunde. Vergewissern Sie sich zu Beginn, dass Ihr Akku vollständig geladen ist, und lassen Sie Ihr Gerät angeschlossen, bis die Verschlüsselung abgeschlossen ist. Eine Unterbrechung dieses Vorgangs kann zu teilweisem oder vollständigem Datenverlust führen."</string>
+  <string name="crypt_keeper_dialog_need_password_message">Sie müssen eine PIN oder ein Passwort für die Bildschirmsperre festlegen, bevor Sie die Verschlüsselung starten können.</string>
+  <string name="crypt_keeper_dialog_need_password_title">Keine PIN oder kein Passwort für Bildschirmsperre</string>
+  <string name="crypt_keeper_encrypt_title">Gerät verschlüsseln</string>
+  <string name="crypt_keeper_encrypted_summary">Verschlüsselt</string>
+  <string name="crypt_keeper_enter_password">Passwort eingeben</string>
+  <string name="crypt_keeper_failed_summary">"Die Verschlüsselung wurde unterbrochen und kann nicht abgeschlossen werden. Daher ist der Zugriff auf die Daten des Geräts nicht mehr möglich.
 
-To resume using your phone, you need to perform a factory reset. When you set up your phone after the reset, you'll have an opportunity to restore any data that was backed up to your Google Account."</string>
+Damit Sie Ihr Gerät wieder verwenden können, müssen Sie es auf die Werkseinstellungen zurücksetzen. Wenn Sie Ihr Gerät nach dem Zurücksetzen wieder einrichten, können Sie gegebenenfalls Daten, die gesichert wurden, in Ihrem Google-Konto wiederherstellen."</string>
  <string name="crypt_keeper_failed_title">Verschlüsselung fehlgeschlagen</string>
   <string name="crypt_keeper_final_desc">"Dieser Vorgang ist nicht umkehrbar und jede Unterbrechung ist mit einem Datenverlust verbunden. Die Verschlüsselung dauert mindestens eine Stunde. In dieser Zeit wird das Telefon mehrfach neu gestartet."</string>
   <string name="crypt_keeper_low_charge_text">Laden Sie Ihren Akku auf und versuchen Sie es erneut.</string>
@@ -813,7 +813,7 @@ Der Datenverbrauch wird von Ihrem Telefon berechnet und kann von der Abrechnung 
   <string name="data_usage_limit_editor_title">Limit festlegen</string>
   <string name="data_usage_list_mobile">Mobil</string>
   <string name="data_usage_list_none">Keine</string>
-  <string name="data_usage_menu_allow_background">Allow background data</string>
+  <string name="data_usage_menu_allow_background">Hintergrunddaten ermöglichen</string>
   <string name="data_usage_menu_auto_sync">Auto-sync data</string>
   <string name="data_usage_menu_cellular_networks">Cellular networks</string>
   <string name="data_usage_menu_hide_ethernet">Hide Ethernet usage</string>
@@ -867,11 +867,11 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="date_time_date_format">Datumsformat auswählen</string>
   <string name="date_time_date_format_title">Date format</string>
   <string name="date_time_set_date">Datum festlegen</string>
-  <string name="date_time_set_date_title">Date</string>
+  <string name="date_time_set_date_title">Datum</string>
   <string name="date_time_set_time">Uhrzeit festlegen</string>
   <string name="date_time_set_time_title">Time</string>
   <string name="date_time_set_timezone">Zeitzone auswählen</string>
-  <string name="date_time_set_timezone_title">Time zone</string>
+  <string name="date_time_set_timezone_title">Zeitzone</string>
   <string name="date_time_settings">Datum &amp; Uhrzeit</string>
   <string name="debug_app">Debug App auswählen</string>
   <string name="debug_app_not_set">Kein Debug App ausgewählt</string>
@@ -3652,15 +3652,15 @@ Das Einrichten des Telefons kann eine erhöhte Netzwerkaktivität erfordern."</s
   <string name="zen_mode_option_miui_vibrate">Do not disturb</string>
   <string name="zen_mode_option_no_interruptions">"Don't interrupt"</string>
   <string name="zen_mode_option_off">Always interrupt</string>
-  <string name="zen_mode_option_title">When calls and notifications arrive</string>
-  <string name="zen_mode_option_title_novoice">When notifications arrive</string>
-  <string name="zen_mode_phone_calls">Calls</string>
-  <string name="zen_mode_settings_title">Interruptions</string>
+  <string name="zen_mode_option_title">Beim Eintreffen der Anrufe und Benachrichtigungen</string>
+  <string name="zen_mode_option_title_novoice">Wenn Benachrichtigungen eintreffen</string>
+  <string name="zen_mode_phone_calls">Anrufe</string>
+  <string name="zen_mode_settings_title">Unterbrechungen</string>
   <string name="zen_mode_start_time">Start time</string>
-  <string name="zen_mode_when">Automatically turn on</string>
-  <string name="zen_mode_when_every_night">Every night</string>
-  <string name="zen_mode_when_never">Never</string>
-  <string name="zen_mode_when_weeknights">Weeknights</string>
+  <string name="zen_mode_when">Automatisch einschalten</string>
+  <string name="zen_mode_when_every_night">Jede Nacht</string>
+  <string name="zen_mode_when_never">Nie</string>
+  <string name="zen_mode_when_weeknights">Wochentagen</string>
   <string name="zone_auto">Automatische Zeitzone</string>
   <string name="zone_auto_summaryOff">Vom Mobilnetz angegebene Zeitzone beibehalten</string>
   <string name="zone_auto_summaryOn">Vom Mobilnetz angegebene Zeitzone beibehalten</string>
