@@ -64,6 +64,14 @@
         <item quantity="few"> (%1$d Elemente)</item>
         <item quantity="many"> (%1$d Elemente)</item>
     </plurals>
+    <plurals name="file_count">
+        <item quantity="other"> %1$d Elemente</item>
+        <item quantity="zero"> %1$d Element</item>
+        <item quantity="one"> %1$d Elemente</item>
+        <item quantity="two"> %1$d Elemente</item>
+        <item quantity="few"> %1$d Elemente</item>
+        <item quantity="many"> %1$d Elemente</item>
+    </plurals>
     <plurals name="search_head_hint_app">
         <item quantity="other">App %1$s verwandte Dateien (%2$d Elemente)</item>
         <item quantity="zero">App %1$s verwandte Dateien (%2$d Elemente)</item>
