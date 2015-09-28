@@ -4,7 +4,7 @@
   <string name="activity_title_apk">Pakete</string>
   <string name="activity_title_cache">Cache</string>
   <string name="activity_title_cache_data">Anwendungsdaten</string>
-  <string name="activity_title_deep_clean">Tiefenreinigung</string>
+  <string name="activity_title_deep_clean">Erweiterte Reinigung</string>
   <string name="activity_title_garbage_cleanup">Reiniger</string>
   <string name="activity_title_ignored_image">Ignoriert</string>
   <string name="activity_title_image_gallery">Lösche Duplikate</string>
@@ -138,7 +138,7 @@
   <string name="hints_quick_cleanuping">Optimierung…</string>
   <string name="hints_quick_scanning">Scanne…</string>
   <string name="hints_residual_header_left">Rückstände</string>
-  <string name="hints_scanfinish">Kein Müll, versuche eine Tiefenreinigung</string>
+  <string name="hints_scanfinish">Kein Müll, versuche eine erweiterte Reinigung</string>
   <string name="hints_storage_clean_size">Befreite %s internen Speicher</string>
   <string name="hints_storage_free">Frei</string>
   <string name="hints_storage_free_size">%s vorhanden, weitere Elemente können gesäubert werden</string>
