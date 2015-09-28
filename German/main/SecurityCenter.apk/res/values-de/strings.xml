@@ -144,7 +144,7 @@
   <string name="descx_start_scan_memory">Starte Speicher-Scan</string>
   <string name="descx_start_scan_system">Starte Systemsicherheits-Scan</string>
   <string name="details_subtitle">Details</string>
-  <string name="dialog_msg_auto_start_declare">Einige Sicherheits-Apps können fälschlicherweise angegeben, dass MIUI Ihren Start verhindert. Um die Berechtigungen, die einzelnen Anwendungen erteilt wurden zu überprüfen, gehen Sie auf Einstellungen &gt; Apps.</string>
+  <string name="dialog_msg_auto_start_declare">Einige Sicherheits-Apps können fälschlicherweise angegeben, dass MIUI Ihren Start verhindert. Um die Berechtigungen, die einzelnen Anwendungen erteilt wurden zu überprüfen, gehen Sie auf Einstellungen Apps.</string>
   <string name="dialog_msg_stop_virus_scan">Sind Sie sicher?</string>
   <string name="dialog_title_auto_start_declare">Über Autostart</string>
   <string name="dialog_title_stop_virus_scan">Virusscan anhalten</string>
