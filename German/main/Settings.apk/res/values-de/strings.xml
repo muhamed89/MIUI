@@ -1895,7 +1895,7 @@ Betriebssystem auswählen:"</string>
   <string name="notification_sound_dialog_title">Standard Benachrichtigungston</string>
   <string name="notification_sound_title">Standard Benachrichtigungston</string>
   <string name="notification_volume_option_title">Benachrichtigungslautstärke</string>
-  <string name="notification_volume_title">Benachrichtigung</string> <string name="now">Jetzt neustarten</string>
+  <string name="notification_volume_title">Benachrichtigung</string>
   <string name="now">Jetzt neustarten</string>
   <string name="nsd_quick_toggle_summary">Anwendungen auf anderen Geräten erlauben, Anwendungen auf diesem Gerät zu finden</string>
   <string name="nsd_quick_toggle_title">Netzwerkerkennungs Dienst</string>
@@ -2433,7 +2433,7 @@ Um Screen-Pinning zu nutzen:
   <string name="search_power_mode">Leistungsmodus</string>
   <string name="search_recents_queries_label">Letzte Suchergebnisse</string>
   <string name="search_results_label">Ergebnisse</string>
-  <string name="search_results_title">Einstellungen</string>>
+  <string name="search_results_title">Einstellungen</string>
   <string name="search_ring_volume">Ruftonlautstärke</string>
   <string name="search_ringtone">Klingelton</string>
   <string name="search_screen_timeout">Bildschirm Auszeit</string>
