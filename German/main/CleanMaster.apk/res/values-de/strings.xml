@@ -3,7 +3,7 @@
   <string name="activity_title_ad">Werbung</string>
   <string name="activity_title_apk">Pakete</string>
   <string name="activity_title_cache">Cache</string>
-  <string name="activity_title_cache_data">App-Daten</string>
+  <string name="activity_title_cache_data">Anwendungsdaten</string>
   <string name="activity_title_deep_clean">Tiefenreinigung</string>
   <string name="activity_title_garbage_cleanup">Reiniger</string>
   <string name="activity_title_ignored_image">Ignoriert</string>
@@ -65,10 +65,10 @@
   <string name="clean_content_two">2 Stück</string>
   <string name="clean_content_zero">Nichts</string>
   <string name="confirm_auto_cleaner">OK</string>
-  <string name="deepclean_app_content">Deinstalliere Apps, welche in den letzten 30 Tagen nicht benutzt wurden</string>
+  <string name="deepclean_app_content">Deinstalliere Apps, welche in den letzten 30 Tagen nicht verwendet wurden</string>
   <string name="deepclean_cache_content">Lösche Daten, welche von Apps erzeugt wurden</string>
   <string name="deepclean_cache_header_left">Dateien: %d</string>
-  <string name="deepclean_large_content">Lösche Dateien grösser als 10MB</string>
+  <string name="deepclean_large_content">Lösche Dateien größer als 10MB</string>
   <string name="deepclean_similar_ignore">Ignoriere</string>
   <string name="deepclean_title_large_file">Lösche große Dateien</string>
   <string name="deepclean_title_uninstall_apps">Selten verwendete Apps</string>
@@ -141,7 +141,7 @@
   <string name="hints_scanfinish">Kein Müll, versuche eine Tiefenreinigung</string>
   <string name="hints_storage_clean_size">Befreite %s internen Speicher</string>
   <string name="hints_storage_free">Frei</string>
-  <string name="hints_storage_free_size">%s vorhanden, mehr Dinge können bereinigt werden</string>
+  <string name="hints_storage_free_size">%s vorhanden, weitere Elemente können gesäubert werden</string>
   <string name="hints_storage_news">Sicherheitsnachrichten</string>
   <string name="hints_title_garbage">Müll</string>
   <string name="item_title_process_mode">Wähle eine Aktion</string>
