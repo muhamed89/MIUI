@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_fraud_num_online_identification">Über diese Funktion</string>
-  <string name="about_phone_event">About Service Info</string>
+  <string name="about_phone_event">Über Service-Info</string>
   <string name="about_smart_antispam_summary">Über diese Funktion</string>
   <string name="about_telephone_fraud">Achten Sie auf Betrug</string>
   <string name="account_address">Adressen</string>
@@ -114,22 +114,22 @@
   <string name="express_inquiry_internal_failure">"Es ist ein Fehler aufgetreten.
 Bitte Paketnummer prüfen."</string>
   <string name="express_inquiry_logistics">Kurierdienst auswählen</string>
-  <string name="express_inquiry_logistics_prefix">Kurierdienst service: %s</string>
+  <string name="express_inquiry_logistics_prefix">Kurierdienst: %s</string>
   <string name="express_inquiry_logistics_select_others_indication">Weitere</string>
   <string name="express_inquiry_no_history">Kein Verlauf</string>
   <string name="express_inquiry_no_result">Keine Treffer</string>
   <string name="express_inquiry_number_empty">Paketnummer eingeben.</string>
   <string name="express_inquiry_number_invalid">"Ungültige Eingabe.
 Bitte überprüfen Sie Ihre Paketnummer."</string>
-  <string name="express_inquiry_provider_info">"Powered by "</string>
+  <string name="express_inquiry_provider_info">"Bereitgestellt von "</string>
   <string name="express_inquiry_serial_number_indication">Paketnummer</string>
   <string name="express_inquiry_serial_number_prefix">Nummer: %s</string>
   <string name="express_inquiry_trace">Track</string>
-  <string name="express_inquiry_trace_device_login_notice">"You're using this service on another device. If you want to receive order's status from this device, you need to verify your Mi Account."</string>
+  <string name="express_inquiry_trace_device_login_notice">"Sie Nutzen diesen Dienst auf einem anderen Gerät. Wenn Sie den Bestellstatus auf diesem Gerät erhalten möchten, müssen Sie Ihr Mi-Konto bestätigen."</string>
   <string name="express_inquiry_trace_success">Tracking</string>
-  <string name="express_inquiry_trace_user_notice_content">"We'll let you know when your order's status changes."</string>
-  <string name="express_inquiry_untrace">"Don't track"</string>
-  <string name="express_inquiry_untrace_success">Stopped tracking</string>
+  <string name="express_inquiry_trace_user_notice_content">"Wir werden Sie benachrichtigen, wenn sich Ihr Bestellstatus ändert."</string>
+  <string name="express_inquiry_untrace">"Nicht tracken"</string>
+  <string name="express_inquiry_untrace_success">Tracking stoppen</string>
   <string name="express_location_failed">"Konnte nicht gefunden werden. Geben Sie Ihre Adresse an."</string>
   <string name="express_no_address">Leer</string>
   <string name="express_no_order">Keine Bestell</string>
@@ -158,7 +158,7 @@ Bitte überprüfen Sie Ihre Paketnummer."</string>
   <string name="express_phone">Telefon</string>
   <string name="express_preview_order">Vorschau</string>
   <string name="express_region_pick_title">Region auswählen</string>
-  <string name="express_select_address">Addresse</string>
+  <string name="express_select_address">Adresse</string>
   <string name="express_select_addressee">An</string>
   <string name="express_select_city">Stadt auswählen</string>
   <string name="express_select_sender">Von</string>
@@ -272,7 +272,7 @@ Bitte überprüfen Sie Ihre Paketnummer."</string>
   <string name="order_price_label">Bestellpreis: %1$s</string>
   <string name="order_product_name_label">Produktname: %1$s</string>
   <string name="order_status_label">Bestellstatus: %1$s</string>
-  <string name="order_type_recharge">Top-up</string>
+  <string name="order_type_recharge">Aufladen</string>
   <string name="packages_no_package">Keine empfohlenen Pakete</string>
   <string name="packages_pay">Kaufen</string>
   <string name="packages_pay_confirm">Bestätigen</string>
@@ -287,7 +287,7 @@ Bitte überprüfen Sie Ihre Paketnummer."</string>
   <string name="payment_failed_common_problems">Während der Zahlung ist ein Problem aufgetreten</string>
   <string name="payment_unknown_status_summary">Netzwerkverbindung prüfen und erneut versuchen.</string>
   <string name="payment_unknown_status_title">"Bezahlstatus kann nicht bestätigt werden"</string>
-  <string name="phone_event_setting_notice_text">"Gelbe Seiten will Verifizierter Service-Nummern (wie Ihre Zelle Dienstleister) an der Mi-Server hochladen, damit Sie dienstbezogene Updates erhalten können."</string>
+  <string name="phone_event_setting_notice_text">"Gelbe Seiten will verifizierte Service-Nummern (wie Ihre Zelle Dienstleister) an der Mi-Server hochladen, damit Sie dienstbezogene Updates erhalten können."</string>
   <string name="phone_info_divider">" | "</string>
   <string name="photo_count">%d Total</string>
   <string name="pull_to_refresh_pull_label">Ziehen um zu aktualisieren</string>
@@ -356,7 +356,7 @@ Gesamtbetrag: %3$s RMB"</string>
   <string name="toast_text_copied">Text kopiert</string>
   <string name="try_again">Erneut versuchen</string>
   <string name="turn_on_phone_event_summary">Telefonstatus von Dienstleistungen Nummern hochladen</string>
-  <string name="turn_on_phone_event_title">Receive service info</string>
+  <string name="turn_on_phone_event_title">Erhalte Service-Info</string>
   <string name="turn_on_smart_antispam_hint">"Unbekannte Nummern mit Xiaomi's Label Directory identifizieren"</string>
   <string name="turn_on_smart_antispam_summary_off">Nur gespeicherte Nummern auf dem Gerät durchsuchen</string>
   <string name="turn_on_smart_antispam_summary_on">Identifizieren Sie unbekannte Nummern in Anruflisten und SMS</string>
@@ -364,7 +364,7 @@ Gesamtbetrag: %3$s RMB"</string>
   <string name="turn_on_yellowpage_service_title">Gelbe Seiten verwenden</string>
   <string name="upload_and_verify_fraud_num_off">Dieses Feature wurde geschlossen</string>
   <string name="upload_and_verify_fraud_num_on">Blockierte Werbung teilen</string>
-  <string name="uploads_disabled">File uploads are disabled</string>
+  <string name="uploads_disabled">Datei-Uploads sind deaktiviert</string>
   <string name="user_agreement2">" Nutzungsbedingungen"</string>
   <string name="user_agreement4">Datenschutzbestimmungen</string>
   <string name="user_notice_identify_summary_format">"Ihr Telefon nutzt die MIUI-Datenbank, um ungewollte Anrufe zu blockieren. Wenn Sie \"Zustimmen\" wählen akzeptieren Sie Xiaomi's %1$s und %2$s."</string>
@@ -374,7 +374,7 @@ Gesamtbetrag: %3$s RMB"</string>
   <string name="user_notice_yp_detail_summary_format_cta">"Das Label Directory ist veraltet. Wollen Sie es aktualisieren? Wenn Sie \"Zustimmen\" wählen akzeptieren Sie Xiaomi's %1$s und %2$s."</string>
   <string name="view_orders">Bestellungen einsehen</string>
   <string name="voicemail">Sprachnachricht</string>
-  <string name="web_permission_message">%1$s needs to view your %2$s to function properly.</string>
+  <string name="web_permission_message">%1$s muss Ihre %2$s einsehen, um richtig zu funktionieren.</string>
   <string name="yellow_page_website">Offizielle Webseitee</string>
   <string name="yellowpage_navigation_network_location_enable">erlauben</string>
   <string name="yellowpage_navigation_network_location_enable_later">Nicht jetzt</string>
