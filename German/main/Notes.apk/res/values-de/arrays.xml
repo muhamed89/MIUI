@@ -35,15 +35,15 @@
     <string-array name="welcome_notes_content">
         <item>"Berühren, um eine Notiz zu erstellen
 "</item>
-        <item>"To add a picture or show checkboxes, tap the button below
+        <item>"Um ein Bild hinzuzufügen oder Kontrollkästchen anzuzeigen, tippen Sie auf die Schaltfläche unten
 "</item>
-        <item>"Press and hold a note to pin, move, or delete it
+        <item>"Drücken und halten Sie eine Notiz, um sie anzuheften, verschieben oder zu löschen
 "</item>
-        <item>"And more great features!
+        <item>"Und weitere tolle Features!
   - Synchronisieren mit Mi Cloud
-  - Set reminders
+  - Erinnerungen festlegen
 
-To learn more, visit
+Um mehr zu erfahren, besuchen Sie
 http://www.miui.com/forum.php?lang=1
 "</item>
     </string-array>
