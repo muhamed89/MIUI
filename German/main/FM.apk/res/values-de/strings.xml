@@ -11,12 +11,12 @@
   <string name="context_menu_title">%sMHZ</string>
   <string name="dialog_sleep_title">Timer einstellen</string>
   <string name="exit_fm">Beenden</string>
-  <string name="fm_has_turned_off">FM ausgeschaltet</string>
+  <string name="fm_has_turned_off">Radio ausgeschaltet</string>
   <string name="fmradio_clear_confirm_msg">Alle gespeicherten Sender werden gelöscht.</string>
   <string name="frequency_mhz_fomart">%sMHZ</string>
   <string name="group_favor">Voreinstellungen</string>
   <string name="group_other">Andere</string>
-  <string name="hint_frequency">Frequency: %1$s ~ %2$s</string>
+  <string name="hint_frequency">Frequenz: %1$s ~ %2$s</string>
   <string name="hint_label">Name</string>
   <string name="label_recording">Aufnahme: %s</string>
   <string name="menu_exit">Beenden</string>
@@ -33,7 +33,7 @@
   <string name="menu_speaker">Lautsprecher</string>
   <string name="msg_do_not_support_fm">"FM - wird von diesem Gerät nicht unterstützt"</string>
   <string name="msg_fm_starting">Starten</string>
-  <string name="msg_noantenna_message">Keine Kopfhörer erkannt. Einige Funktion sind möglicherweise nicht verfügbar.</string>
+  <string name="msg_noantenna_message">Keine Kopfhörer erkannt. Einige Funktionen sind möglicherweise nicht verfügbar.</string>
   <string name="new_frequency">Neue Frequenz</string>
   <string name="next_station">Nächster Sender</string>
   <string name="notification_rec_title">Tippen Sie auf , um die Aufnahme zu sehen</string>
