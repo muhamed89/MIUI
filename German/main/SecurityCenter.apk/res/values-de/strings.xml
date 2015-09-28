@@ -103,7 +103,7 @@
   <string name="button_text_known">OK</string>
   <string name="button_text_next_step">Nächste</string>
   <string name="button_text_next_step_timer">Nächste Schritt (%d)</string>
-  <string name="button_text_quick_clean">Optimiere</string>
+  <string name="button_text_quick_clean">Optimieren</string>
   <string name="button_text_reject">Verwerfe</string>
   <string name="button_text_reject_timer">Verwerfe (%d)</string>
   <string name="button_text_security">Sicherheit</string>
