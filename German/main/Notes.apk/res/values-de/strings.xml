@@ -22,7 +22,7 @@
   <string name="dlg_desc_confirm_alarm_silent">Nach Deaktivierung ertönt der Alarm des Weckers und der Notizen nicht im Lautlos Modus.</string>
   <string name="dlg_info_creating_message">Erstelle Nachricht…</string>
   <string name="dlg_title_confirm_alarm_silent">Alarm im Lautlos Modus wirklich ausschalten?</string>
-  <string name="enable_sync">Sync</string>
+  <string name="enable_sync">Syncen</string>
   <string name="enable_sync_desc">Notizen mit dem Mi-Konto synchronisieren (%1$s)?</string>
   <string name="error_contact_not_exist">Kontakt nicht gefunden</string>
   <string name="error_note_empty_for_clock">Für eine leere Notiz kann keine Uhrzeit festgelegt werden.</string>
@@ -31,11 +31,11 @@
   <string name="error_unsupport_content">Diese Notiz enthält nicht unterstützte Inhalte.</string>
   <string name="error_widget_exist_for_send_to_desktop">Diese Notiz ist bereits auf dem Desktop vorhanden.</string>
   <string name="folder_exist">Ein Ordner mit dem selben Namen ist bereits vorhanden.</string>
-  <string name="format_move_notes_out_folder">Moved %1$s out</string>
+  <string name="format_move_notes_out_folder">Verschiebe %1$s raus</string>
   <string name="format_move_notes_to_folder">%1$d Notizen nach %2$s verschoben</string>
   <string name="hint_foler_name">Name</string>
   <string name="info_note_enter_desktop">Zum Desktop hinzugefügt</string>
-  <string name="loading_text">Loading…</string>
+  <string name="loading_text">Lädt…</string>
   <string name="login_sync">Anmelden &amp; Sync</string>
   <string name="menu_create_folder">Neuer Ordner</string>
   <string name="menu_delete">Löschen</string>
@@ -85,7 +85,7 @@
   <string name="sns_action_send">Senden</string>
   <string name="sns_choose_quality_high">Hoch (%1$s)</string>
   <string name="sns_choose_quality_low">Niedrig</string>
-  <string name="sns_choose_quality_title">Choose image quality</string>
+  <string name="sns_choose_quality_title">Bildqualität wählen</string>
   <string name="sns_content_default">Bild teilen</string>
   <string name="sns_desc_preview_wechat">WeChat Nachrichtenvorschau</string>
   <string name="sns_desc_preview_weibo">Weibo Nachrichtenvorschau</string>
