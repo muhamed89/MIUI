@@ -21,8 +21,8 @@
   <string name="background_traffic">Hintergrund %s</string>
   <string name="begin_date">Startdatum</string>
   <string name="btn_finish_diagnostic">OK</string>
-  <string name="btn_start_diagnostic">Netzwerktes</string>
-  <string name="btn_stop_diagnostic">Stop</string>
+  <string name="btn_start_diagnostic">Netzwerktest</string>
+  <string name="btn_stop_diagnostic">Stopp</string>
   <string name="cancel_button">Abbrechen</string>
   <string name="chat_number">10 Stunden</string>
   <string name="chat_uint">" Stunden"</string>
@@ -76,11 +76,11 @@
   <string name="datausage_purchase_pay_hint">Zum Abbrechen %s wählen</string>
   <string name="datausage_purchase_pkglist_networkerror">Konnte nicht mit Netzwerk verbinden. Datenverbindung überprüfen und erneut versuchen.</string>
   <string name="datausage_purchase_pkglist_nodata">"Es besteht ein Konflikt zwischen dem aktuellen Datenpaket und dem, was Sie erwerben wollen.
- Um weitere Informatione zu erhalten, kontaktieren Sie Ihren Anbieter."</string>
+ Um weitere Informationen zu erhalten, kontaktieren Sie Ihren Anbieter."</string>
   <string name="datausage_purchase_pkglist_servererror">Es ist ein Fehler mit unserem Server aufgetreten.</string>
   <string name="datausage_purchase_result_failed">"Daten konnten nicht erworben werden. Um weitere Informatione zu erhalten, kontaktieren Sie Ihren Anbieter. "</string>
   <string name="datausage_purchase_result_ok">"Sie haben %s gekauft
-Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieter"</string>
+Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"</string>
   <string name="datausage_purchase_time_in">" um "</string>
   <string name="datausage_purchase_title_confirm">Bezahlinformationen</string>
   <string name="datausage_purchase_title_order">Zusätzliche Daten erwerben</string>
@@ -121,7 +121,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieter"<
   <string name="free_time_traffic">Off-Peak Datenlimit</string>
   <string name="free_time_traffic_hint">Off-Peak Datenlimit eingeben</string>
   <string name="free_time_traffic_settings">Off-Peak Datenlimiteinstellungen</string>
-  <string name="free_time_traffic_title">Enter off-peak data limit</string>
+  <string name="free_time_traffic_title">Off-Peak Datenlimit einstellen</string>
   <string name="free_traffic_settings">Off-Peak Datenlimit eingeben</string>
   <string name="gateway_exception_summary">Überprüfen Sie Ihren Router und versuchen Sie es erneut.</string>
   <string name="gateway_exception_summary2">Verbindung zum Server fehlgeschlagen</string>
@@ -160,7 +160,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieter"<
   <string name="main_button_usage_adjust_manual">Datenverbrauch einstellen</string>
   <string name="main_button_usage_adjusting">Wird geändert…</string>
   <string name="main_button_usage_package_setting">Datenverbrauch einstellen</string>
-  <string name="main_message_no_package_by_dual">Datenverbaucht grenze %s</string>
+  <string name="main_message_no_package_by_dual">Datenverbauchsgrenze %s</string>
   <string name="main_primary_message_traffic_cur_leisure">Off-Peak Datennutzung</string>
   <string name="main_primary_message_traffic_cur_normal">Unter Datenlimit</string>
   <string name="main_primary_message_traffic_cur_normal_overlimit">Datenlimit überschritten</string>
@@ -196,7 +196,7 @@ Peak: %1$s%2$s verbleibend | %3$s verbraucht"</string>
   <string name="mi_service_app_detail">Datenverbrauchsdetails</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
-  <string name="mi_service_traffic_detail">Framework details</string>
+  <string name="mi_service_traffic_detail">Framework Details</string>
   <string name="mian_page_primary_txt">Internationales Roaming</string>
   <string name="miuishare_title_more">Mehr</string>
   <string name="miuishare_title_share">Teilen</string>
@@ -237,7 +237,7 @@ M"&lt;/b&gt;"Stellen Sie sicher, dass Sie ein gültiges Konto bei Ihrem Internet
 T"&lt;/b&gt;"Versuchen Sie Ihren Router neu zu starten und/oder überprüfen Sie die Router-Einstellungen.
 
  4."&lt;b&gt;" Weitere Probleme
-R"&lt;/b&gt;"Lesen Sie die Bedienungshilfen, die bei Ihrem Router mitgeliefert wurden stellen Sie die Werkseinstellungen des Router wieder her.
+R"&lt;/b&gt;"Lesen Sie die Bedienungshilfen, die bei Ihrem Router mitgeliefert wurden und stellen Sie die Werkseinstellungen des Router wieder her.
 
  5."&lt;b&gt;" Stellen Sie sicher, dass der Router korrekt verbunden ist
 T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. Wenn Sie vermuten, dass der Fehler an der Verbindung liegt dann kontaktieren Sie Ihren Internetanbieter."</string>
@@ -310,7 +310,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="pref_connect_settings_enable_background">Hintergrunddaten erlauben</string>
   <string name="pref_connect_settings_enable_background_hint">Erlaubt Apps die Datenverbindung im Hintergrund zu benutzen</string>
   <string name="pref_connect_settings_exceed_limit">Datenverbrauch einschränken</string>
-  <string name="pref_connect_settings_exceed_limit_hint">Datenverbindung ausschalten wenn das Limit erreicht wurde</string>
+  <string name="pref_connect_settings_exceed_limit_hint">Datenverbindung ausschalten, wenn das Limit erreicht wurde</string>
   <string name="pref_daily_adjust">Datenlimit einstellen</string>
   <string name="pref_daily_traffic">Datenlimit</string>
   <string name="pref_data_usage_ignore_settings">Datenverbauch ignorieren</string>
@@ -355,7 +355,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Datenreduzierung für neu installierte Apps automatisch aktivieren</string>
   <string name="pref_traffic_saving_compressed">Komprimiert</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
-  <string name="pref_traffic_saving_issue_content">&lt;b> 1. Wirkt sich die Datenreduzierung auf meine Privatsphäre aus? &lt;/b>&lt;br />&lt;br />&lt;br />Nein, Ihre Daten bleiben Privat und werden nicht an Dritte weitergegeben. &lt;br />&lt;br />&lt;br />&lt;b> Warum funktioniert die Datenreduzierung nicht? &lt;/b>&lt;br />&lt;br /> Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden sind und Inhalte senden oder herunterladen.</string>
+  <string name="pref_traffic_saving_issue_content">&lt;b> 1. Wirkt sich die Datenreduzierung auf meine Privatsphäre aus? &lt;/b>&lt;br />&lt;br />&lt;br />Nein, Ihre Daten bleiben privat und werden nicht an Dritte weitergegeben. &lt;br />&lt;br />&lt;br />&lt;b> Warum funktioniert die Datenreduzierung nicht? &lt;/b>&lt;br />&lt;br /> Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden sind und Inhalte senden oder herunterladen.</string>
   <string name="pref_traffic_saving_no_compress">Nicht komprimiert</string>
   <string name="pref_traffic_saving_notify_switch">In Statusleiste anzeigen</string>
   <string name="pref_traffic_saving_notify_switch_hint">Datenreduzierung in der Statusleiste anzeigen</string>
@@ -368,7 +368,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="pref_version">Version %s</string>
   <string name="pref_warning_values">Verbrauchswarnung ab</string>
   <string name="pref_whitelist_setting">Ausnahmen verwalten</string>
-  <string name="privacy_declare_dialog_message">"Wenn Sie diesen Dienst nutzen akzeptieren Sie Opera's &lt;a href=%s> Geschäftsbedingungen&lt;/a>."</string>
+  <string name="privacy_declare_dialog_message">"Wenn Sie diesen Dienst nutzen, akzeptieren Sie Opera's &lt;a href=%s> Geschäftsbedingungen&lt;/a>."</string>
   <string name="privacy_declare_dialog_title">Geschäftsbedingungen</string>
   <string name="privacy_prompt_tc_sms_report_message">Ihre Telefonnummer und Anbieterdetails werden verschlüsselt und an die MiServer gesendet, um Ihren Datenverbrauchsdetails zu aktualisieren.</string>
   <string name="privacy_prompt_traffic_adjust_message">Diese Funktion verschlüsselt und sendet Ihre Geräte-IMEI, Telefonnummer und Anbieterdetails an die MiServer, um Datenverbrauchsdetails vom Anbieter abzurufen.</string>
@@ -420,7 +420,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="system_app">System Apps</string>
   <string name="tc_sms_report_direction">SMS Abfragecode</string>
   <string name="tc_sms_report_do_report">Senden</string>
-  <string name="tc_sms_report_get_default">"You won't incur charges for SMS messages used to get your data usage balance from your carrier."</string>
+  <string name="tc_sms_report_get_default">"Ihnen werden für SMS-Nachrichten keine Gebühren in Rechnung gestellt, die benötigt werden, um Ihr Datennutzungsguthaben Ihres Mobilfunkanbieter zu erhalten."</string>
   <string name="tc_sms_report_get_sms">SMS erhalten</string>
   <string name="tc_sms_report_get_sms2">SMS erhalten</string>
   <string name="tc_sms_report_get_sms_again">SMS aktualisieren</string>
@@ -433,21 +433,21 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="tc_sms_report_geting_sms">SMS-Details werden abgerufen…</string>
   <string name="tc_sms_report_notify_correction_body">Gehe zur Datennutzungsapp im Sicherheitscenter und versuche es nochmals manuell.</string>
   <string name="tc_sms_report_notify_correction_failure_title">"Datennutzungsinformation konnte nicht aktualisiert werden"</string>
-  <string name="tc_sms_report_notify_get_failure_body">Datenverbauchsübersicht konnte nicht übermittelt werden. Stellen Sie sicher, dass sie mit dem Netzwerk verbunden sind.</string>
-  <string name="tc_sms_report_notify_get_failure_title">Datenbrauchsübersicht anfordern fehlgeschlagen</string>
+  <string name="tc_sms_report_notify_get_failure_body">Datenverbauchsübersicht konnte nicht übermittelt werden. Stellen Sie sicher, dass Sie mit dem Netzwerk verbunden sind.</string>
+  <string name="tc_sms_report_notify_get_failure_title">Datenverbrauchsübersicht anfordern fehlgeschlagen</string>
   <string name="tc_sms_report_notify_get_timeout_body">Zeitüberschreitung. Stellen Sie sicher, dass der eingegebene Code korrekt ist.</string>
-  <string name="tc_sms_report_notify_get_timeout_title">Datenbrauchsübersicht anfordern fehlgeschlagen</string>
+  <string name="tc_sms_report_notify_get_timeout_title">Datenverbrauchsübersicht anfordern fehlgeschlagen</string>
   <string name="tc_sms_report_receive_content">SMS-Nutzungsberichtinhalt (Nutzungsbericht bestätigen)</string>
   <string name="tc_sms_report_receive_content_null">Helfen Sie bei der Verbesserung dieser Funktion mit!&lt;br/>So geht es:&lt;br/>1. Gehen Sie auf \"SMS-Befehl überprüfen\" und \"Empfängernummer\"&lt;br/>2. Wählen Sie \"SMS-Vorlage abrufen\";br/>3. Warten Sie auf die SMS Ihres Anbieters ;br/>4. Wählen Sie \"Zu MIUI hochladen\"</string>
   <string name="tc_sms_report_receive_num">Nummer des Empfängers</string>
   <string name="tc_sms_report_send_num">Anbieternummer</string>
   <string name="tc_sms_report_summary">Helfen Sie uns diese Funktion zu verbessern, indem Sie uns eine fehlerhafte Datenverbrauchsübersicht oder Aktualisierungsfehler melden</string>
-  <string name="tc_sms_report_tips_dialog_message">"Data usage uses a specially formatted SMS to get your latest data usage from your carrier. If this feature isn't working normally, try updating the data usage SMS format. The new updated format will then be uploaded to our servers."</string>
+  <string name="tc_sms_report_tips_dialog_message">"Datenverbrauch verwendet eine speziell formatierte SMS, um den neuesten Datenverbrauch von Ihrem Mobilfunkanbieter zu erhalten. Wenn diese Funktion nicht ordnungsgemäß läuft, versuchen Sie die Formatierung der Datenverbrauch-SMS zu aktualisieren. Die neu aktualisierte Formatierung wird dann auf unsere Server hochgeladen."</string>
   <string name="tc_sms_report_tips_dialog_title">Datenverbrauchs SMS</string>
   <string name="tc_sms_report_title">Datenverbrauchsfehler melden</string>
   <string name="tc_sms_report_toast_text">Details werden abgerufen…</string>
   <string name="tc_sms_report_upload_success">"Datenverbrauchs SMS übermittelt. Wir werden uns gleich darum kümmern!"</string>
-  <string name="tc_sms_report_upload_when_net">Vielen Dank für Ihr feedback!</string>
+  <string name="tc_sms_report_upload_when_net">Vielen Dank für Ihr Feedback!</string>
   <string name="ten_percent_total_pkg">%s (10%% der monatlichen Daten)</string>
   <string name="text_day"/>
   <string name="three_percent_total_pkg">%s (3%% der monatlichen Daten)</string>
@@ -518,21 +518,21 @@ Ihr monatlich eingestelltes Limit ist %1$s. Dies unterscheidet sich vom dem manu
   <string name="traffic_saving_history_total_traffic">Daten reduziert</string>
   <string name="traffic_saving_msg_month">Diesen Monat gespart</string>
   <string name="traffic_saving_msg_not_started">Ausgeschaltet</string>
-  <string name="traffic_saving_msg_today">heute gesparty</string>
+  <string name="traffic_saving_msg_today">heute gespart</string>
   <string name="traffic_saving_need_optimize">Kann optimiert werden</string>
   <string name="traffic_saving_notification_button_start">Aktivieren</string>
   <string name="traffic_saving_notify_start_content">Diesen Monat %s gespart.</string>
   <string name="traffic_saving_notify_start_title">Datenverbrauch reduziert</string>
-  <string name="traffic_saving_one_key_optimize">Optimieren um Datenverbrauch zu reduzieren</string>
+  <string name="traffic_saving_one_key_optimize">Optimieren, um Datenverbrauch zu reduzieren</string>
   <string name="traffic_saving_optimized">Bereits optimiert</string>
   <string name="traffic_saving_pic_compress_orig">Original</string>
   <string name="traffic_saving_ratio">Datenverbrauch reduziert %.2f%%</string>
   <string name="traffic_saving_ratio_low">"Datenverbrauch kann nicht deutlich reduziert werden"</string>
   <string name="traffic_saving_recommanded_close">Dieses Element ausschalten</string>
   <string name="traffic_saving_recommanded_open">Dieses Element ausschalten</string>
-  <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Automatically activate Data saver to reduce apps' mobile data usage.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;If you have a monthly data plan, remember to turn off Data saver for individual apps to avoid additional charges from your carrier.&lt;/font&gt;"</string>
+  <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Aktiviere automatisch Data Saver, um mobile Datennutzung von Apps zu reduzieren.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Wenn Sie einen monatliche Datenplan haben, denken Sie daran, Data Saver für individuelle Apps abzustellen, um zusätzliche Gebühren von Ihrem Mobilfunkbetreiber zu meiden.&lt;/font&gt;"</string>
   <string name="traffic_saving_start_tip_title">Aktivieren</string>
-  <string name="traffic_saving_tecsupport">Powered by Opera</string>
+  <string name="traffic_saving_tecsupport">Bereitgestellt von Opera</string>
   <string name="traffic_saving_title">Data Saver</string>
   <string name="traffic_saving_toast_start_mobile">Data Saver ist ein</string>
   <string name="traffic_saving_toast_start_none_mobile">Data Saver startet automatisch, wenn Sie die mobile Datenverbindung nutzen</string>
