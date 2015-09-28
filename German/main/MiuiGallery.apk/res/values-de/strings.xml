@@ -6,7 +6,7 @@
   <string name="accept_or_deny">%1$s teilt das Album %2$s mit Ihnen.</string>
   <string name="activity_not_found">Für diese Aktion ist keine App verfügbar</string>
   <string name="add_account">Konto hinzufügen</string>
-  <string name="add_automatically_alert_msg">Füge Fotos von \"%1$s\" automatisch zu deisen Album?</string>
+  <string name="add_automatically_alert_msg">Füge Fotos von \"%1$s\" automatisch zu diesen Album?</string>
   <string name="add_automatically_alert_title">Füge Fotos automatisch hinzu</string>
   <string name="add_event">Event hinzufügen</string>
   <string name="add_event_hint">Label eingeben</string>
