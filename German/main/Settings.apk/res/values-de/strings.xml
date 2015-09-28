@@ -652,11 +652,11 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="check_update">Updates suchen</string>
   <string name="checkbox_notification_same_as_incoming_call">Lautstärke von eingehenden Anrufen für Benachrichtigungen verwenden.</string>
   <string name="checking_for_updates">Prüfe auf Updates...</string>
-  <string name="children_mode_enable_title">Kindermodus</string>
+  <string name="children_mode_enable_title">Jugendschutz</string>
   <string name="children_mode_set_apps_title">Zugängliche Apps</string>
-  <string name="children_mode_tips_off">Nachdem der Kindermodus eingeschaltet wurde, drücke den Home Button um zurück zu kehren.</string>
-  <string name="children_mode_tips_on">Nachdem der Kindermodus ausgeschaltet wurde, drücke den Home Button um zurück zu kehren.</string>
-  <string name="children_mode_title">Kindermodus</string>
+  <string name="children_mode_tips_off">Nachdem der Jugendschutz eingeschaltet wurde, drücke den Home Button um zurück zu kehren.</string>
+  <string name="children_mode_tips_on">Nachdem der Jugendschutz ausgeschaltet wurde, drücke den Home Button um zurück zu kehren.</string>
+  <string name="children_mode_title">Jugendschutz</string>
   <string name="choose_smartcover_type">Wähle einen Typ</string>
   <string name="choose_timezone">Zeitzone wählen</string>
   <string name="cleaner">Bereinigung</string>
@@ -2485,7 +2485,7 @@ Um Screen-Pinning zu nutzen:
   <string name="service_stop_description">Dieser Dienst wurde von seiner App gestartet. Wird er beendet, kann die App eventuell nicht mehr ausgeführt werden.</string>
   <string name="services_subtitle">Dienste</string>
   <string name="set_password_action">Passwort festlegen</string>
-  <string name="set_password_message">Legen Sie ein Passwort fest, um sowohl den Kinder Modus, als auch das Gerät zu entsperren, auszuschalten.</string>
+  <string name="set_password_message">Legen Sie ein Passwort fest, um den Jugendschutz sowie das Gerät zu entsperren.</string>
   <string name="set_password_title">Passwort festlegen</string>
   <string name="settings_backup">Einstellungen sichern</string>
   <string name="settings_backup_summary">Meine Einstellungen sichern</string>
