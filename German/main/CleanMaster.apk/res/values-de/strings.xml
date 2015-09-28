@@ -141,7 +141,7 @@
   <string name="hints_scanfinish">Kein Müll, versuche eine erweiterte Reinigung</string>
   <string name="hints_storage_clean_size">Befreite %s internen Speicher</string>
   <string name="hints_storage_free">Frei</string>
-  <string name="hints_storage_free_size">%s vorhanden, weitere Elemente können gesäubert werden</string>
+  <string name="hints_storage_free_size">%s freier Speicher, weitere Elemente können gelöscht werden</string>
   <string name="hints_storage_news">Sicherheitsnachrichten</string>
   <string name="hints_title_garbage">Müll</string>
   <string name="item_title_process_mode">Wähle eine Aktion</string>
