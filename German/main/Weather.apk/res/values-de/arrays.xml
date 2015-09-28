@@ -2,50 +2,50 @@
 <resources>
     <string-array name="moon_desc">
         <item>Neumond</item>
-        <item>Zunehmender Mond</item>
-        <item>Erstes Quartal</item>
-        <item>Waxing gibbous</item>
+        <item>Zunehmender Halbmond</item>
+        <item>Erstes Viertel</item>
+        <item>Zunehmender Dreiviertelmond</item>
         <item>Vollmond</item>
-        <item>Abnehmender</item>
-        <item>Letztes Quartal</item>
+        <item>Abnehmender Dreiviertelmond</item>
+        <item>Letztes Viertel</item>
         <item>Abnehmender Halbmond</item>
-        <item>Mondfinsternis</item>
+        <item>Neumond (Black Moon)</item>
     </string-array>
     <string-array name="weather_type">
         <item>Sonnig</item>
         <item>Wolkig</item>
         <item>Bedeckt</item>
         <item>Neblig</item>
-        <item>Starkregen</item>
-        <item>Downpour</item>
+        <item>Heftiger Regenschauer</item>
+        <item>Wolkenbruch</item>
         <item>Regensturm</item>
-        <item>Thunderstorm</item>
-        <item>Regen</item>
-        <item>starker Regen</item>
-        <item>normaler Regen</item>
-        <item>leichter Regenschauer</item>
+        <item>Gewitter</item>
+        <item>Regenschauer</item>
+        <item>Schwere Regenfälle</item>
+        <item>Mäßiger Regen</item>
+        <item>Leichter Regen</item>
         <item>Schneeregen</item>
-        <item>Blizzard</item>
+        <item>Schneesturm</item>
         <item>Schnee</item>
         <item>Starker Schneefall</item>
-        <item>Normaler Schneefall</item>
-        <item>leichter Schneefall</item>
-        <item>starker Sandsturm</item>
+        <item>Mäßiger Schneefall</item>
+        <item>Leichter Schneefall</item>
+        <item>Starker Sandsturm</item>
         <item>Sandsturm</item>
         <item>Sand</item>
-        <item>windig</item>
-        <item>Hail</item>
+        <item>Windig</item>
+        <item>Hagel</item>
         <item>Staub</item>
-        <item>Haze</item>
-        <item>Gefrierender Regen</item>
+        <item>Dunst</item>
+        <item>Eisregen</item>
         <item>Keine Daten</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
-        <item>Schwächste</item>
+        <item>Schwächster</item>
         <item>Schwach</item>
         <item>Mittel</item>
         <item>Stark</item>
-        <item>Stärkste</item>
+        <item>Stärkster</item>
     </string-array>
     <string-array name="wind_direction">
         <item>Wind N</item>
