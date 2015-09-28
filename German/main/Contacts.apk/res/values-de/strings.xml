@@ -822,7 +822,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="preference_contacts">Kontakte</string>
   <string name="preference_contacts_display">Anzeigeeinstellungen</string>
   <string name="preference_contacts_filter">Kontaktlisteneinstellungen</string>
-  <string name="preference_contacts_more">Kontakte organisieren</string>
+  <string name="preference_contacts_more">Kontakt Optionen</string>
   <string name="preference_contacts_recovery_introduction">Kontakte wiederherstellen</string>
   <string name="preference_dial_pad_touch_tone_default">Standard</string>
   <string name="preference_dial_pad_touch_tone_human">Sprache</string>
