@@ -236,7 +236,7 @@
   <string name="menu_item_about_title">Über</string>
   <string name="menu_item_app_details">Details</string>
   <string name="menu_item_app_permissions_control">Zugriffsrechte Manager</string>
-  <string name="menu_item_control_app_permissions">Um Erlaubnis fragen, bevor Apps das Lesen von Kontakten, das Ansehen von Anruflisten, das Ändern von Systemeinstellungen oder der Zugriff auf die Kamera und anderen Gerätequellen gestattet wird</string>
+  <string name="menu_item_control_app_permissions">Um Erlaubnis fragen, bevor Apps das Lesen von Kontakten, das Ansehen von Anruflisten, das Ändern von Systemeinstellungen oder der Zugriff auf die Kamera und anderen Gerätequellen gestattet wird.</string>
   <string name="menu_item_force_stop">Task beenden</string>
   <string name="menu_item_notification_antispam_text_avail">Blocklist</string>
   <string name="menu_item_notification_antispam_text_normal">Blocklist</string>
