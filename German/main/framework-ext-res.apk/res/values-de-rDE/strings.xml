@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="all_call_livetalk_enable">Use top-up packages for domestic and international calls</string>
+  <string name="all_call_livetalk_enable">Nutze Prepaid-Pakete für In- und Auslandsanrufe</string>
   <string name="all_call_livetalk_remain_mins">Minuten übrig: (%1$s Inland) | (%2$s %3$s)</string>
   <string name="alwaysUsePrompt">Auswahl merken</string>
   <string name="auto_start_warning_allow">Erlauben</string>
@@ -11,11 +11,11 @@
   <string name="caller_info_name_delimiter">" oder "</string>
   <string name="copy">Kopieren</string>
   <string name="cut">Ausschneiden</string>
-  <string name="fc_dialog_body">Sende Fehlerbericht an Mi zur Analyse? Dieser Fehlerbericht enthält keine persönliche Daten. Your report will be used to help fix this bug and will never be shared in any commercial context.</string>
+  <string name="fc_dialog_body">Sende Fehlerbericht an Mi zur Analyse? Dieser Fehlerbericht enthält keine persönliche Daten. Ihr Bericht wird verwendet, um diesen Fehler zu beheben und wird nie zu kommerziellen Zwecken genutzt.</string>
   <string name="fc_dialog_jump_to_preview">Zusammenfassung anzeigen</string>
-  <string name="first_back_long_press_message">"Press &amp; hold the Back button to kill the current process and its background services.
+  <string name="first_back_long_press_message">"Drücken Sie &amp; und halten Sie den Zurück-Knopf gedrückt, um den aktuellen Prozess und dessen Hintergrunddienste zu töten.
 
-To turn this feature on, go to Settings &gt; System &gt; Buttons"</string>
+Um diese Funktion zu aktivieren, gehen Sie zu Einstellungen &gt; System &gt; Knöpfe"</string>
   <string name="fm_record_smaple_prefix_miui">FM Aufnahme</string>
   <string name="force_exit_message">Beenden erzwingen in %1$s</string>
   <string name="force_exit_skip_message">"%1$s kann nicht geschlossen werden, da es vom System benötigt wird."</string>
@@ -27,14 +27,14 @@ To turn this feature on, go to Settings &gt; System &gt; Buttons"</string>
   <string name="handy_mode_enter_dlg_title">Eingabe im Einhandmodus</string>
   <string name="handy_mode_summary">Abgedunkelt Bereich anwählen, um zu schließen</string>
   <string name="handy_mode_title">Einhandmodus</string>
-  <string name="internal_livetalk_enable">Use top-up packages for domestic calls</string>
-  <string name="internal_remain_mins">%1$s Minuten verbleiben (domestic calls)</string>
-  <string name="international_livetalk_enable">Use top-up packages for international calls</string>
+  <string name="internal_livetalk_enable">Nutzen Sie für Inlandsgespräche Prepaid-Pakete</string>
+  <string name="internal_remain_mins">%1$s Minuten verbleiben (Inlandsgespräche)</string>
+  <string name="international_livetalk_enable">Nutzen Sie für Auslandsgespräche Prepaid-Pakete</string>
   <string name="international_remain_mins">%1$s verbleibende Minuten (%2$s Anrufe)</string>
   <string name="key_btn_ok">OK</string>
   <string name="key_btn_space">Abstand</string>
   <string name="location_usage_restricted_body">Berühren um die Beschränkung aufzuheben.</string>
-  <string name="location_usage_restricted_title">Hintergrund location eingeschränkt</string>
+  <string name="location_usage_restricted_title">Hintergrundstandort eingeschränkt</string>
   <string name="lockscreen_access_pattern_cell_added">Gerät wurde hinzugefügt</string>
   <string name="lockscreen_access_pattern_cleared">Pattern gelöscht</string>
   <string name="lockscreen_access_pattern_detected">Pattern vollständig</string>
@@ -48,17 +48,17 @@ To turn this feature on, go to Settings &gt; System &gt; Buttons"</string>
   <string name="permdesc_manageLocationPolicy">Erlaube der App den Standort und spezifischen Regeln zu verwalten.</string>
   <string name="permlab_manageLocationPolicy">bearbeite Standort Regeln</string>
   <string name="reboot_confirm_title">Ihr Gerät wird neu gestartet.</string>
-  <string name="reboot_info_auto_boot">Ihr Gerät wird gestartet um %s entprechend dem Auto-Boot Zeitplan</string>
+  <string name="reboot_info_auto_boot">Ihr Gerät wird gestartet, um %s entprechend dem Auto-Boot Zeitplan</string>
   <string name="reboot_info_shutdown_alarm">Ihr Gerät wird gestartet und Alarm auslösen, in %s</string>
   <string name="reboot_progress">Neustart…</string>
   <string name="replace">Ersetzen</string>
   <string name="screen_button_disabled_message">Navigationstasten deaktiviert. Zum aktivieren Home und Power Taste gleichzeitig drücken</string>
   <string name="screen_button_enabled_message">Navigationstasten aktiviert.</string>
-  <string name="screen_button_notification_text">Zum einschalten, Drücken Sie die Home-Taste und die Ein-/Aus-Taste gleichzeitig.</string>
+  <string name="screen_button_notification_text">Zum Einschalten, drücken Sie die Home-Taste und die Ein-/Aus-Taste gleichzeitig.</string>
   <string name="screen_button_notification_title">Navigationstasten deaktiviert</string>
-  <string name="screen_on_proximity_sensor_hint">Um dieses feature auszuschalten, drücken sie die Zurück und Lautstärke Lauter Taste gleichzeitig.</string>
+  <string name="screen_on_proximity_sensor_hint">Um dieses Funktion auszuschalten, drücken sie die Zurück und Lautstärke Lauter Taste gleichzeitig.</string>
   <string name="screen_on_proximity_sensor_summary">"Den orangenen Bereich bitte nicht abdecken"</string>
-  <string name="screen_on_proximity_sensor_title">Prevent pocket dials</string>
+  <string name="screen_on_proximity_sensor_title">Verhindere das Wählen in der Tasche</string>
   <string name="screen_paper_mode_enter_toast">Lesemodus ist aktiv. Sie können diesen jederzeit aktivieren/deaktivieren in den Einstellungen &gt; Lesemodus.</string>
   <string name="screen_rotation_freeze_message">Automatische Rotation deaktiviert.</string>
   <string name="select">Wähle</string>
