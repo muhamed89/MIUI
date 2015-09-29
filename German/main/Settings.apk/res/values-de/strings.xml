@@ -2572,7 +2572,6 @@ Möglicherweise ist die PIN falsch."</string>
   <string name="sim_editor_title">SIM-Karte</string>
   <string name="sim_enable_disable_lock_not_supported">"Kann nicht SIM/RUIM Sperre ändern.
  SIM/RUIM unterstützt dies nicht."</string>
-  <string name="sim_enable_sim_lock">SIM-Karte sperren</string>
   <string name="sim_enabled">aktiviert</string>
   <string name="sim_enabler_airplane_on">FEHLER, Flugmodus ist an!</string>
   <string name="sim_enabler_both_inactive">"Fehler, kann nicht alle SIM-Karten deaktivieren"</string>
