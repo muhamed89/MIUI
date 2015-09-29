@@ -104,7 +104,7 @@
   <string name="jeejen_answer_call_text">Anruf beantworten</string>
   <string name="jeejen_end_call_text">Anruf beenden</string>
   <string name="jeejen_reject_call_text">Anruf abweisen</string>
-  <string name="livetalk_left_minute">%s Minuten vergangen</string>
+  <string name="jeejen_toggle_dialpad_text">Tastenfeld</string>
   <string name="livetalk_provider_info">Präsentiert von %s</string>
   <string name="livetalk_waiting">Warten…</string>
   <string name="manageConferenceLabel">Telefonkonferenz verwalten</string>
@@ -140,7 +140,7 @@
   <string name="onscreenEndCallText">Ende</string>
   <string name="onscreen_add_call_text">Anruf hinzufügen</string>
   <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
-  <string name="onscreen_audio_mode_conference">Conference</string>
+  <string name="onscreen_audio_mode_conference">Konferenz</string>
   <string name="onscreen_audio_mode_handset">Freisprechen</string>
   <string name="onscreen_audio_mode_headset">Kopfhörer</string>
   <string name="onscreen_audio_mode_speaker">Lautsprecher</string>
