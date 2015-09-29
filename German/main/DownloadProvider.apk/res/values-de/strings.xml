@@ -52,13 +52,8 @@
   <string name="privacy_tip_cancel">Abbrechen</string>
   <string name="privacy_tip_content">"Xunlei Accelerator benutzen, um Downloads zu beschleunigen? Die URL des Download's wird auf die Xunlei Server hochgeladen. Ihre Mi Kontodetails werden ebenfalls hochgeladen, um zu prüfen, ob Sie ein aktives Abonnement für diesen Dienst haben."</string>
   <string name="privacy_tip_ok">OK</string>
-  <string name="privacy_tip_title">Xunlei Accelerator benutzen?</string>
-  <string name="recommended_file_more_in_mobile" formatted="false">Bei Benutzung der mobilen Datenverbindung, um diese %s Dateien (%s ) herunterzuladen, wird sich ihr Datenverbrauch erhöhen.</string>
-  <string name="recommended_file_one_in_mobile">Bei Benutzung der mobilen Datenverbindung, um diese Datei (%s ) herunterzuladen, wird sich ihr Datenverbrauch erhöhen.</string>
-  <string name="recommended_file_size_download_in_mobile" formatted="false">"Sie sind im Moment nicht mit dem WLAN verbunden. %s
-
-Kann Dateigröße nicht bestimmen. Um diese Datei mit ihrer mobilen Datenverbindung herunterzuladen, berühre %s. Um zu warten und diese Datei mit dem WLAN herunterzuladen, drücken Sie %s."</string>
-  <string name="recommended_no_file_size_download_in_mobile" formatted="false">"Kann Dateigröße nicht bestimmen. Um diese Datei mit ihrer mobilen Datenverbindung herunterzuladen, berühre %s. Um zu warten und diese Datei mit dem WLAN herunterzuladen, drücken Sie %s."</string>
+  <string name="recommended_file_size_download_in_mobile">%s der Mobilen Datenverbindung für diesen Download nutzen?</string>
+  <string name="recommended_no_file_size_download_in_mobile">Mobile Datenverbindung für diesen Download nutzen?</string>
   <string name="root_downloads">Downloads</string>
   <string name="task_already_exist">Aufgabe existiert bereits</string>
   <string name="warning_tip_cancel">Download</string>
