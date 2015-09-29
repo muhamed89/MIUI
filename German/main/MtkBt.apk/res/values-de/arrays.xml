@@ -9,60 +9,60 @@
         <item>2</item>
     </string-array>
     <string-array name="bt_bpp_orientations">
-        <item>Portrait</item>
-        <item>Landscape</item>
-        <item>reverse-portrait</item>
-        <item>reverse-landscape</item>
-        <item>unknown</item>
-        <item>unknown</item>
-        <item>unknown</item>
-        <item>unknown</item>
+        <item>Hoch</item>
+        <item>Quer</item>
+        <item>umgedreht-Hoch</item>
+        <item>umgedreht-Quer</item>
+        <item>unbekannt</item>
+        <item>unbekannt</item>
+        <item>unbekannt</item>
+        <item>unbekannt</item>
     </string-array>
     <string-array name="bt_bpp_sidesettings">
-        <item>One-sided</item>
-        <item>Two-sided-long-edge</item>
-        <item>Two-sided-short-edge</item>
-        <item>unknown</item>
-        <item>unknown</item>
-        <item>unknown</item>
-        <item>unknown</item>
-        <item>unknown</item>
+        <item>Einseitig</item>
+        <item>Zweiseitig-langer-Rand</item>
+        <item>Zweiseitig-kurzer-Rand</item>
+        <item>unbekannt</item>
+        <item>unbekannt</item>
+        <item>unbekannt</item>
+        <item>unbekannt</item>
+        <item>unbekannt</item>
     </string-array>
     <string-array name="bt_bpp_qualitys">
         <item>Normal</item>
-        <item>Draft</item>
-        <item>High</item>
-        <item>unknown</item>
-        <item>unknown</item>
-        <item>unknown</item>
-        <item>unknown</item>
-        <item>unknown</item>
+        <item>Entwurf</item>
+        <item>Hoch</item>
+        <item>unbekannt</item>
+        <item>unbekannt</item>
+        <item>unbekannt</item>
+        <item>unbekannt</item>
+        <item>unbekannt</item>
     </string-array>
     <string-array name="bt_bpp_entry_error">
-        <item>no error</item>
-        <item>Create v-card file fail</item>
-        <item>Unsupported image format</item>
+        <item>Kein Fehler</item>
+        <item>v-Card Datei-Erstellung fehlgeschlagen</item>
+        <item>Nicht unterstütztes Bildformat</item>
     </string-array>
     <string-array name="bluetooth_ftp_client_file_operations">
-        <item>Get</item>
-        <item>Delete</item>
+        <item>Erhalten</item>
+        <item>Löschen</item>
     </string-array>
     <string-array name="bluetooth_ftp_client_folder_operations">
-        <item>Open</item>
-        <item>Delete</item>
+        <item>Öffnen</item>
+        <item>Löschen</item>
     </string-array>
     <string-array name="bluetooth_ftp_server_permission_entries">
-        <item>Read only</item>
-        <item>Full control</item>
+        <item>nur Lesen</item>
+        <item>volle Kontrolle</item>
     </string-array>
     <string-array name="bluetooth_ftp_server_permission_values">
         <item>1000</item>
         <item>1001</item>
     </string-array>
     <string-array name="bt_prxm_link_loss_level_entries">
-        <item>No Alert</item>
-        <item>Mild Alert</item>
-        <item>High Alert</item>
+        <item>Kein Alarm</item>
+        <item>Geringer Alarm</item>
+        <item>Hohe Alarmbereitschaft</item>
     </string-array>
     <string-array name="bt_prxm_link_loss_level_values">
         <item>0</item>
@@ -70,9 +70,9 @@
         <item>2</item>
     </string-array>
     <string-array name="bt_prxm_path_loss_level_entries">
-        <item>No Alert</item>
-        <item>Mild Alert</item>
-        <item>High Alert</item>
+        <item>Kein Alarm</item>
+        <item>Geringer Alarm</item>
+        <item>Hohe Alarmbereitschaft</item>
     </string-array>
     <string-array name="bt_prxm_path_loss_level_values">
         <item>0</item>
