@@ -55,7 +55,7 @@
   <string name="all_video_album_display_name">Alle Videos</string>
   <string name="already_apply_album">%1$s öffnen?</string>
   <string name="already_create_baby_album">Baby Album existiert in Mi Cloud.</string>
-  <string name="always_rotate_alert_msg">Du kannst diese Funktion jederzeit in den Gallerie Einstellungen ein und aus schalten.</string>
+  <string name="always_rotate_alert_msg">Du kannst diese Funktion jederzeit in den Galerie Einstellungen ein und aus schalten.</string>
   <string name="always_rotate_alert_positive_button_text">Einschalten</string>
   <string name="always_rotate_alert_title">Auto-rotate Bilder</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
@@ -700,7 +700,7 @@
   <string name="frame_white_tooltip">photoeditor_frame_white</string>
   <string name="free">Frei</string>
   <string name="gallery_cloud_provider_name">Cloud-Album</string>
-  <string name="gallery_setting">Gallerie Einstellung</string>
+  <string name="gallery_setting">Galerie</string>
   <string name="get_album_info_in_process">"Albumdetails werden geladen..."</string>
   <string name="global_setting">Einstellungen</string>
   <string name="go_setting">Einstellungen Anzeigen</string>
