@@ -21,7 +21,7 @@
   <string name="duration_format_second">%ss</string>
   <string name="error_app_internal">Möglicherweise wird die Aufnahmesoftware von einer anderen App benutzt. Überprüfen und erneut versuchen.</string>
   <string name="error_app_internal_title">Soundrekorder Fehler</string>   
-  <string name="error_file_access">"Die Datei existiert nicht oder ist korrupt"</string>
+  <string name="error_file_access">"Die Datei existiert nicht oder ist beschädigt"</string>
   <string name="error_filename_illegal_char">Dateiname enthält mindestens ein ungültiges Zeichen.</string>
   <string name="error_filename_too_long">Dateiname zu lang</string>
   <string name="error_sdcard_access">Kein Zugriff auf den ext. oder int. Speicher möglich.</string>
@@ -30,7 +30,7 @@
   <string name="loading_recording">Aufnahmen werden geladen</string>
   <string name="low_battery_error">Der Akku hat weniger als 5%. Damit die Aufnahme nicht veloren geht, wurde sie gestoppt und gespeichert.</string>
   <string name="message_file_size_error">Die maximal unterstützte Aufnahmelänge für %s wurde erreicht.</string>
-  <string name="no_downloading_file">Keine Dateien laden gerade herunter.</string>
+  <string name="no_downloading_file">Momentan werden keine Dateien runtergeladen.</string>
   <string name="no_file">Keine Aufnahmen.</string>
   <string name="notification_message_all_paused">Kann den mobilen Datenverbrauch erhöhen.</string>
   <string name="notification_playback">Wird abgespielt...</string>
@@ -49,7 +49,7 @@
   <string name="preference_record_type_title">Aufnahmetyp</string>
   <string name="preference_scenes">Szeneneinstellungen</string>
   <string name="preference_silent_mode">Klingelton bei Aufnahme aus</string>
-  <string name="preference_tip_rename">Aufnahmen manuell beschriften</string>
+  <string name="preference_tip_rename">Aufnahmen selbst bennenen</string>
   <string name="record_back_pressed_hint">Um die Aufnahme anzuhalten, nochmal den Zurück-Knopf berühren</string>
   <string name="record_download">Download von MiCloud</string>
   <string name="record_download_activity">Aufnahme-Downloader</string>
