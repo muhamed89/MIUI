@@ -104,7 +104,6 @@
   <string name="jeejen_answer_call_text">Anruf beantworten</string>
   <string name="jeejen_end_call_text">Anruf beenden</string>
   <string name="jeejen_reject_call_text">Anruf abweisen</string>
-  <string name="jeejen_toggle_dialpad_text">Tastenfeld</string>
   <string name="livetalk_provider_info">Präsentiert von %s</string>
   <string name="livetalk_waiting">Warten…</string>
   <string name="manageConferenceLabel">Telefonkonferenz verwalten</string>
