@@ -660,8 +660,8 @@
   <string name="face_albumset_detecting_tip">Nur eine Sekunde…</string>
   <string name="face_albumset_empty">Leer.</string>
   <string name="face_albumset_loading_data">Lade Daten…</string>
-  <string name="face_albumset_pending_enable_tip">Werden Fotos sortieren, wenn Gerät mit WLAN verbunden ist</string>
-  <string name="face_albumset_use_tip">Fotos nach den abgebildeten Personen sportieren</string>
+  <string name="face_albumset_pending_enable_tip">Fotos sortieren, wenn Gerät über WLAN verbunden ist</string>
+  <string name="face_albumset_use_tip">Fotos nach den abgebildeten Personen sortieren</string>
   <string name="face_choose_tip">Wählen Sie aus vorhandenen Album</string>
   <string name="face_move_dialog_title">Wähle ein Album</string>
   <string name="facelift">Weichzeichnen</string>
