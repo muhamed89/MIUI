@@ -775,8 +775,8 @@ Damit Sie Ihr Gerät wieder verwenden können, müssen Sie es auf die Werkseinst
   <string name="daltonizer_mode_protanomaly">Rot-Grün-Sehschwäche</string>
   <string name="daltonizer_mode_tritanomaly">Blau-Gelb Sehschwäche</string>
   <string name="daltonizer_type">Korrekturmodus</string>
-  <string name="daltonizer_type_overridden">Überschreiben von %1$s</string>
-  <string name="dashboard_title">einstellungen</string>
+  <string name="daltonizer_type_overridden">Überschrieben von %1$s</string>
+  <string name="dashboard_title">Einstellungen</string>
   <string name="data_size_label">Daten</string>
   <string name="data_usage_accounting">Mobilfunkanbieterdaten können vom Gerät abweichen.</string>
   <string name="data_usage_app">App Nutzung</string>
