@@ -758,16 +758,30 @@ Damit Sie Ihr Gerät wieder verwenden können, müssen Sie es auf die Werkseinst
   <string name="crypt_keeper_low_charge_text">Laden Sie Ihren Akku auf und versuchen Sie es erneut.</string>
   <string name="crypt_keeper_settings_title">Verschlüsselung</string>
   <string name="crypt_keeper_setup_description">Bitte warten Sie, während Ihr Telefon verschlüsselt wird. Zu ^1 % abgeschlossen.</string>
+  <string name="crypt_keeper_setup_time_remaining">Wait while your phone is being encrypted. Time remaining: ^1</string>
   <string name="crypt_keeper_setup_title">Verschlüsselung</string>
   <string name="crypt_keeper_switch_input_method">Eingabemethode wechseln</string>
   <string name="crypt_keeper_unplugged_text">Schließen Sie Ihr Ladegerät an und versuchen Sie es erneut.</string>
+  <string name="crypt_keeper_warn_wipe">Warning: Your device will be wiped after ^1 more failed attempts to be unlocked!</string>
   <string name="cryptkeeper_emergency_call">Notruf</string>
   <string name="cryptkeeper_return_to_call">Zurück zum Anruf</string>
   <string name="current_backup_pw_prompt">Aktuelles Passwort für vollständige Sicherung eingeben</string>
   <string name="current_input_method">Standard</string>
   <string name="current_use_ese">Sichere Elemente benutzen</string>
   <string name="current_use_uicc_se">Sichere Elemente auf der SIM Karte benutzen</string>
+  <string name="daltonizer_mode_deuteranomaly">Deuteranomaly (red-green)</string>
+  <string name="daltonizer_mode_disabled">Disabled</string>
+  <string name="daltonizer_mode_monochromacy">Monochromacy</string>
+  <string name="daltonizer_mode_protanomaly">Protanomaly (red-green)</string>
+  <string name="daltonizer_mode_tritanomaly">Tritanomaly (blue-yellow)</string>
+  <string name="daltonizer_type">Correction mode</string>
+  <string name="daltonizer_type_overridden">Overridden by %1$s</string>
+  <string name="dashboard_title">Settings</string>
   <string name="data_size_label">Daten</string>
+  <string name="data_usage_accounting">Carrier data accounting may differ from your device.</string>
+  <string name="data_usage_app">App usage</string>
+  <string name="data_usage_app_info_label">APP INFO</string>
+  <string name="data_usage_app_items_header_text">App usage</string>
   <string name="data_usage_app_restrict_background">Hintergrunddaten beschränken</string>
   <string name="data_usage_app_restrict_background_summary">Hintergrunddaten in Mobilfunknetzen ausschalten. WLAN verwenden wenn es verfügbar ist.</string>
   <string name="data_usage_app_restrict_background_summary_disabled">Legen Sie zur Beschränkung der App-Hintergrunddaten zuerst ein Mobildatenlimit fest.</string>
@@ -777,6 +791,7 @@ Geeignetere Kontrollmechanismen für den Datenverbrauch finden Sie in den Einste
   <string name="data_usage_app_restrict_dialog_title">Hintergrunddaten beschränken?</string>
   <string name="data_usage_app_restricted">Eingeschränkt</string>
   <string name="data_usage_app_settings">App-Einstellungen anzeigen</string>
+  <string name="data_usage_app_summary_title">App data usage</string>
   <string name="data_usage_auto_sync_off_dialog">"Der Daten und Akkuverbrauch wird reduziert, aber Sie müssen für aktuelle Informationen jedes Konto manuell synchronisieren. Sie werden auch keine Benachrichtigung bei Updates bekommen."</string>
   <string name="data_usage_auto_sync_off_dialog_title">Auto-Daten-Sync deaktivieren?</string>
   <string name="data_usage_auto_sync_on_dialog">"Änderungen, die Sie im Web an Ihren Konten vornehmen, werden automatisch auf Ihrem Telefon übernommen.
@@ -2500,7 +2515,8 @@ Um Screen-Pinning zu nutzen:
   <string name="settings_safetylegal_activity_unreachable">Es ist keine Datenverbindung vorhanden. Rufen Sie %s von einem beliebigen, mit dem Internet verbundenen Computer auf, um diese Informationen jetzt anzuzeigen.</string>
   <string name="settings_safetylegal_title">Sicherheitsinformationen</string>
   <string name="settings_shortcut">Einstellungsverknüpfung</string>
- <string name="setup_wizard_back_button_label">Zurück</string>
+  <string name="setup_wifi_nfc_tag">Set up WLAN NFC Tag</string>
+  <string name="setup_wizard_back_button_label">Zurück</string>
   <string name="setup_wizard_next_button_label">Weiter</string>
   <string name="severe_threats_summary">Benachrichtigungen für schwere Gefahren für Leben und Eigentum erhalten</string>
   <string name="severe_threats_title">Schwere Gefahren</string>
@@ -2556,6 +2572,7 @@ Möglicherweise ist die PIN falsch."</string>
   <string name="sim_editor_title">SIM-Karte</string>
   <string name="sim_enable_disable_lock_not_supported">"Kann nicht SIM/RUIM Sperre ändern.
  SIM/RUIM unterstützt dies nicht."</string>
+  <string name="sim_enable_sim_lock">Lock SIM card</string>
   <string name="sim_enabled">aktiviert</string>
   <string name="sim_enabler_airplane_on">FEHLER, Flugmodus ist an!</string>
   <string name="sim_enabler_both_inactive">"Fehler, kann nicht alle SIM-Karten deaktivieren"</string>
@@ -2653,6 +2670,7 @@ Wenden Sie sich für weitere Informationen an Ihren Administrator."</string>
 
 Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerät installiert sind."</string>
   <string name="stable_build">" | Stable"</string>
+  <string name="status_awaiting_tap">Tap a tag to write...</string>
   <string name="status_awake_time">Aktivzeit</string>
   <string name="status_bar_and_notification_bar">Benachrichtigungsleiste und Statusleiste</string>
   <string name="status_bar_app_disable_notification">Benachrichtigungen verstecken</string>
@@ -3150,7 +3168,7 @@ Jeder Nutzer kann aktualisierte App-Berechtigungen im Namen aller anderen Nutzer
   <string name="voice_category">Sprache</string>
   <string name="voice_input_output_settings">Spracheingabe &amp;-ausgabe</string>
   <string name="voice_input_settings">Spracheingabeeinstellungen</string>
-  <string name="voice_input_output_settings_title">Einstellungen für Spracheingabe &amp; -ausgabe</string>
+  <string name="voice_input_settings_title">Voice input</string>
   <string name="voice_interaction_security_warning">Dieser Spracheingabedienst ist in der Lage immer-angestellte Stimmenüberwachung auszuführen und sprachbereite Apps Ihretwegen zu kontrollieren. Es wird von der %s Anwendung durchgeführt. Wollen Sie diesen Dienst aktivieren?</string>
   <string name="voice_interactor_preference_summary">Komplettes Hotword und Interaktion</string>
   <string name="voice_recognizer_preference_summary">Vereinfachte Sprache in Text</string>
@@ -3618,6 +3636,7 @@ Das Einrichten des Telefons kann eine erhöhte Netzwerkaktivität erfordern."</s
   <string name="wps_category">WPS</string>
   <string name="wps_connect_summary">Stellen Sie sicher, das der Router WPS unterstützt und es eingeschaltet ist.</string>
   <string name="wps_connect_title">Über WPS verbinden</string>
+  <string name="write_tag">Write</string>
   <string name="wrong_pin_code_pukked">Falscher SIM PIN-Code, Sie müssen jetzt Ihren Telefonanbieter kontaktieren, um Ihr Gerät zu entsperren.</string>
   <string name="xiaomi_account">Mi Konto</string>
   <string name="xiaomi_cloud_service">Mi-Cloud</string>
