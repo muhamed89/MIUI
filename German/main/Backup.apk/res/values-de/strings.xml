@@ -37,7 +37,7 @@
   <string name="backup_items_sysdata_tailer">" Systemdaten,"</string>
   <string name="backup_new">Neu:</string>
   <string name="backup_progress">Backup wird angelegt…</string>
-  <string name="backup_recently">" (most recent backup) "</string>
+  <string name="backup_recently">" (neueste Backup) "</string>
   <string name="backup_report">Siehe Details</string>
   <string name="backup_update">Update</string>
   <string name="batch_delete_backup_confirm">Ausgewählte Backups löschen?</string>
