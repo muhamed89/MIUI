@@ -9,7 +9,7 @@
   <string name="add_apps_title">Apps</string>
   <string name="add_user_define_group_failed">"Profil konnte nicht hinzugefügt werden"</string>
   <string name="add_user_define_title">Profil hinzufügen</string>
-  <string name="alter_message_abandon_title">Änderungen abbrechen?</string>
+  <string name="alter_message_abandon_title">Änderungen verwerfen?</string>
   <string name="alter_message_delete">Löschen?</string>
   <string name="alter_message_open_hide_message">"Apps, die sie zu dieser Liste hinzufügen, werden sich nicht mit dem WLAN, mobilen Datennetzwerk oder GPS verbinden können und werden folglich nicht normal funktionieren."</string>
   <string name="alter_message_open_hide_title">"Batterieverbrauch der Apps verwalten?"</string>
