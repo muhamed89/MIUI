@@ -2,18 +2,18 @@
 <resources>
   <string name="Connect">Verbinden</string>
   <string name="Disconnect">Trennen</string>
-  <string name="Register">anmelden</string>
+  <string name="Register">Anmelden</string>
   <string name="Start">Starten</string>
-  <string name="StartScan">StartScan</string>
-  <string name="Stop">Stopp</string>
-  <string name="StopScan">StopScan</string>
+  <string name="StartScan">Scan starten</string>
+  <string name="Stop">Anhalten</string>
+  <string name="StopScan">Scan anhalten</string>
   <string name="TestBonjour">Teste Bonjour</string>
   <string name="TestP2pGc">Teste P2pGroupClient</string>
   <string name="TestP2pGo">Teste P2pGroupOwner</string>
   <string name="TestP2pLs">Teste P2pLegacyStation</string>
   <string name="TestReceiver">Teste Empfänger</string>
   <string name="TestSender">Teste Sender</string>
-  <string name="Unregister">abmelden</string>
+  <string name="Unregister">Abmelden</string>
   <string name="action_bonjour">Bonjour</string>
   <string name="action_p2pgo">P2pGroupOwner</string>
   <string name="action_p2pls">P2pLegacyStation</string>
