@@ -913,7 +913,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="scan_duplicate_message">%1$d Kontakte mit identischen Daten</string>
   <string name="scan_merge">Suche nach identischen Kontakten…</string>
   <string name="scan_qrcode_card_hint1">QR-Code scannen</string>
-  <string name="scan_qrcode_card_hint2"/>Meinen Informationen, zu Ihren Kontakten hinzufügen</string>
+  <string name="scan_qrcode_card_hint2">Meinen Informationen, zu Ihren Kontakten hinzufügen</string>
   <string name="scanning_sdcard_failed_message">Grund: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">Der Speicher konnte nicht durchsucht werden</string>
   <string name="searchHint">Kontakte durchsuchen</string>
