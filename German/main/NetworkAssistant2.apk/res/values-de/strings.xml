@@ -283,6 +283,10 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="operator_setted_error_notify_title">SIM-Kartenfehler</string>
   <string name="other_exception_summary">Sie haben keine Internetverbindung</string>
   <string name="other_exception_title">Auf weitere Fehler überprüfen</string>
+  <string name="package_change_notification_summary">Tippe um mehr zu erfahren.</string>
+  <string name="package_change_notification_title">Datenlimit Automatisch anpassen</string>
+  <string name="package_setted_error_notification_summary">Tippen um Datenverbrauch im Detail anzuzeigen</string>
+  <string name="package_setted_error_notification_titile">"kein Datenverbrauch verfügbar"</string>
   <string name="pay_charge">Weitere Daten erwerben</string>
   <string name="per_month_pkg_traffic_settings">Datenlimit einstellen</string>
   <string name="permission_exception_summary">Einige Apps besitzen keine Berechtigung, um sich mit dem Internet zu verbinden</string>
