@@ -758,11 +758,11 @@ Damit Sie Ihr Gerät wieder verwenden können, müssen Sie es auf die Werkseinst
   <string name="crypt_keeper_low_charge_text">Laden Sie Ihren Akku auf und versuchen Sie es erneut.</string>
   <string name="crypt_keeper_settings_title">Verschlüsselung</string>
   <string name="crypt_keeper_setup_description">Bitte warten Sie, während Ihr Telefon verschlüsselt wird. Zu ^1 % abgeschlossen.</string>
-  <string name="crypt_keeper_setup_time_remaining">Wait while your phone is being encrypted. Time remaining: ^1</string>
+  <string name="crypt_keeper_setup_time_remaining">Bitte warten Sie, während Ihr Telefon verschlüsselt wird. Zu ^1  % abgeschlossen.</string>
   <string name="crypt_keeper_setup_title">Verschlüsselung</string>
   <string name="crypt_keeper_switch_input_method">Eingabemethode wechseln</string>
   <string name="crypt_keeper_unplugged_text">Schließen Sie Ihr Ladegerät an und versuchen Sie es erneut.</string>
-  <string name="crypt_keeper_warn_wipe">Warning: Your device will be wiped after ^1 more failed attempts to be unlocked!</string>
+  <string name="crypt_keeper_warn_wipe">Noch ^1 Fehlversuche bis ein Werksreset durchfegührt wird!!!</string>
   <string name="cryptkeeper_emergency_call">Notruf</string>
   <string name="cryptkeeper_return_to_call">Zurück zum Anruf</string>
   <string name="current_backup_pw_prompt">Aktuelles Passwort für vollständige Sicherung eingeben</string>
