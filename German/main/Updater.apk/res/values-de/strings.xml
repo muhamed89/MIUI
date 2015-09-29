@@ -74,14 +74,16 @@
   <string name="later">Später</string>
   <string name="loading">Anfrage…</string>
   <string name="log_share">Teilen</string>
-  <string name="menu_title_current_version_log">"Was ist neu"</string>
-  <string name="menu_title_download_current_rom">Download Update</string>
-  <string name="menu_title_pick_rom_file">Aktualisierung auswählen</string>
+  <string name="menu_title_current_version_log">"Was ist neu (Changelog)"</string>
+  <string name="menu_title_download_current_rom">Aktualisierung herunterladen</string>
+  <string name="menu_title_pick_rom_file">Wählen Sie ein Updatepaket</string>
   <string name="menu_title_recovery">Neustart in den Recovery-Modus</string>
   <string name="miui_BBS">" "&lt;a href="http://bbs.miui.com"&gt;Gehe zum MIUI forum&lt;/a&gt;" "</string>
   <string name="miui_summary_has_new_version">Aktualisierung verfügbar</string>
   <string name="miui_summary_no_new_version">Keine Aktualisierungen verfügbar</string>
   <string name="miui_summary_now_version">"Verbindung kann nicht aufgebaut werden"</string>
+  <string name="miui_summary_slogan">"  Yours by design  "</string>
+  <string name="miui_summary_updating">"  Aktualisiere…  "</string>
   <string name="monthly_build">Monatlich</string>
   <string name="my_best_update">Beste Aktualisierung</string>
   <string name="my_expect_update">Erwartungen</string>

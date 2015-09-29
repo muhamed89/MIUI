@@ -2,12 +2,12 @@
 <resources>
     <string-array name="ble_profile_mi_band">
         <item>Beim Klingeln vibrieren</item>
-        <item>Vibriere beim erhalt von Nachrichten</item>
+        <item>Vibriere beim Erhalt von Nachrichten</item>
         <item>Vibriere bei Alarm</item>
     </string-array>
     <string-array name="ble_profile_mi_key">
         <item>Foto machen</item>
         <item>Finde Telefon</item>
-        <item>Finde Mi-key</item>
+        <item>Finde MiKey</item>
     </string-array>
 </resources>

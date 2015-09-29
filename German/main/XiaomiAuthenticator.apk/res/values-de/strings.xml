@@ -20,7 +20,7 @@
   <string name="button_back">Zurück</string>
   <string name="button_exit_howitworks_flow">Ausgang</string>
   <string name="button_how_it_works">Sehen, wie es funktioniert</string>
-  <string name="button_next">Nächster</string>
+  <string name="button_next">Weiter</string>
   <string name="button_uninstall_old_app">Deinstallieren</string>
   <string name="cancel">Abbrechen</string>
   <string name="change_security_lock">Mehr Bildschirm-locks</string>
@@ -59,7 +59,7 @@ Bei account.xiaomi.com anmelden und Reactivate anklicken."</string>
   <string name="howitworks_page_enter_password_details">"Allerdings, wenn Sie an einem neuen Computer oder Gerät sitzen, wird Xiaomi Sie nach einem speziellen Code fragen, um sicherzustellen, daß Sie es wirklich sind."</string>
   <string name="howitworks_page_enter_password_title">"Zum Anmelden, bitte Ihr Passwort eingeben."</string>
   <string name="howitworks_page_verify_device_details">"Sie können sich auch dazu entscheiden den Computer zu merken und Xiaomi wird dann nicht erneut nach dem Code fragen."</string>
-  <string name="howitworks_page_verify_device_title">"Dann sind SIe angemeldet."</string>
+  <string name="howitworks_page_verify_device_title">"Dann sind Sie angemeldet."</string>
   <string name="install_button">Installieren</string>
   <string name="install_dialog_message">Um Barcodes zu scannen, die Schlüssel enthalten, müssen Sie den ZXing Barcode Scanner installieren.</string>
   <string name="install_dialog_title">Barcode Scanner installieren?</string>

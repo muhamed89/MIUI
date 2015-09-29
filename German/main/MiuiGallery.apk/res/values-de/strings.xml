@@ -6,7 +6,7 @@
   <string name="accept_or_deny">%1$s teilt das Album %2$s mit Ihnen.</string>
   <string name="activity_not_found">Für diese Aktion ist keine App verfügbar</string>
   <string name="add_account">Konto hinzufügen</string>
-  <string name="add_automatically_alert_msg">Füge Fotos von \"%1$s\" automatisch zu deisen Album?</string>
+  <string name="add_automatically_alert_msg">Fotos von \"%1$s\" automatisch zu diesem Album hinzufügen?</string>
   <string name="add_automatically_alert_title">Füge Fotos automatisch hinzu</string>
   <string name="add_event">Event hinzufügen</string>
   <string name="add_event_hint">Label eingeben</string>
@@ -55,7 +55,7 @@
   <string name="all_video_album_display_name">Alle Videos</string>
   <string name="already_apply_album">%1$s öffnen?</string>
   <string name="already_create_baby_album">Baby Album existiert in Mi Cloud.</string>
-  <string name="always_rotate_alert_msg">Du kannst diese Funktion jederzeit in den Gallerie Einstellungen ein und aus schalten.</string>
+  <string name="always_rotate_alert_msg">Du kannst diese Funktion jederzeit in den Galerie Einstellungen ein und aus schalten.</string>
   <string name="always_rotate_alert_positive_button_text">Einschalten</string>
   <string name="always_rotate_alert_title">Auto-rotate Bilder</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
@@ -652,7 +652,7 @@
   <string name="external_sdcard_root">External SD card root directory</string>
   <string name="external_usb_device">USB-Speicher</string>
   <string name="external_usb_device_hm">Externer USB-Speicher</string>
-  <string name="face_album">Leute</string>
+  <string name="face_album">Personen</string>
   <string name="face_album_long_tap_tip">To select multiple people or change group settings, press &amp; hold a profile photo</string>
   <string name="face_album_new_name_hint">Neuer Name</string>
   <string name="face_album_not_named">Kein Name</string>
@@ -660,8 +660,8 @@
   <string name="face_albumset_detecting_tip">Nur eine Sekunde…</string>
   <string name="face_albumset_empty">Leer.</string>
   <string name="face_albumset_loading_data">Lade Daten…</string>
-  <string name="face_albumset_pending_enable_tip">Werden Fotos sortieren, wenn Gerät mit WLAN verbunden ist</string>
-  <string name="face_albumset_use_tip">Automatisch sortiere Fotos von den Menschen, die in ihnen sind.</string>
+  <string name="face_albumset_pending_enable_tip">Fotos sortieren, wenn Gerät über WLAN verbunden ist</string>
+  <string name="face_albumset_use_tip">Fotos nach den abgebildeten Personen sortieren</string>
   <string name="face_choose_tip">Wählen Sie aus vorhandenen Album</string>
   <string name="face_move_dialog_title">Wähle ein Album</string>
   <string name="facelift">Weichzeichnen</string>
@@ -700,7 +700,7 @@
   <string name="frame_white_tooltip">photoeditor_frame_white</string>
   <string name="free">Frei</string>
   <string name="gallery_cloud_provider_name">Cloud-Album</string>
-  <string name="gallery_setting">Gallerie Einstellung</string>
+  <string name="gallery_setting">Galerie</string>
   <string name="get_album_info_in_process">"Albumdetails werden geladen..."</string>
   <string name="global_setting">Einstellungen</string>
   <string name="go_setting">Einstellungen Anzeigen</string>
@@ -720,8 +720,8 @@
   <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
   <string name="home_my_captured_items">" Aufnahmen mit der Kamera"</string>
   <string name="home_page_tab_cloud">Cloud</string>
-  <string name="home_page_tab_face">Leute</string>
-  <string name="home_page_tab_local">Offline</string>
+  <string name="home_page_tab_face">Personen</string>
+  <string name="home_page_tab_local">Lokal</string>
   <string name="home_page_tab_photo">Fotos</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
   <string name="hybrid_check_network">Network settings</string>
@@ -896,9 +896,9 @@
   <string name="original_scale">Original</string>
   <string name="other_category">Zusätzliche Einstellungen</string>
   <string name="owner_album_subtitle">Geteilt mit %1$s Benutzern</string>
-  <string name="paint_brush">Paint brush</string>
-  <string name="paint_cancel_context">"Abandon the changes you've made to this image?"</string>
-  <string name="paint_cancel_title">Abandon changes</string>
+  <string name="paint_brush">Pinsel</string>
+  <string name="paint_cancel_context">Änderungen an diesem Foto verwerfen?</string>
+  <string name="paint_cancel_title">Änderungen verwerfen</string>
   <string name="paint_crop_cancel_context">Zugeschnittenes Bild speichern?</string>
   <string name="paint_crop_cancel_title">Änderungen verwerfen</string>
   <string name="paint_crop_tips">Platzieren Sie den Zielbereich des Bildes in der Nähe der Mitte des Rasters.</string>
@@ -906,7 +906,7 @@
   <string name="paint_highlight_cancel_context">Markiertes Bild speichern?</string>
   <string name="paint_highlight_cancel_title">Änderungen verwerfen</string>
   <string name="path">Pfad</string>
-  <string name="people">Personen</string>
+  <string name="people">Leute</string>
   <string name="pet_album_display_name">Tierfotos</string>
   <string name="phone_number_empty_alert">Telefonnummer hinzufügen</string>
   <string name="photo_page_always_rotate">Bilder automatisch Drehen</string>
@@ -924,9 +924,9 @@
   <string name="picker_no_album_selected">Keine Alben ausgewählt</string>
   <string name="picker_no_items_selected">Nichts ausgewählt</string>
   <string name="picker_select_album_title_empty">Album auswählen</string>
-  <string name="picker_tab_photo">Photo</string>
-  <string name="pocket_camera_picture">Pocket Kamera Fotos</string>
-  <string name="pocket_camera_video">Pocket Kamera Videos</string>
+  <string name="picker_tab_photo">Foto</string>
+  <string name="pocket_camera_picture">Bilder</string>
+  <string name="pocket_camera_video">Videos</string>
   <string name="pocketcamera">PocketKamera</string>
   <string name="posterize">Tontrennung</string>
   <string name="ppmm_gallery">PPMM</string>

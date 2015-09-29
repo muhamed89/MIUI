@@ -22,7 +22,7 @@
   <string name="dlg_desc_confirm_alarm_silent">Nach Deaktivierung ertönt der Alarm des Weckers und der Notizen nicht im Lautlos Modus.</string>
   <string name="dlg_info_creating_message">Erstelle Nachricht…</string>
   <string name="dlg_title_confirm_alarm_silent">Alarm im Lautlos Modus wirklich ausschalten?</string>
-  <string name="enable_sync">Sync</string>
+  <string name="enable_sync">Syncen</string>
   <string name="enable_sync_desc">Notizen mit dem Mi-Konto synchronisieren (%1$s)?</string>
   <string name="error_contact_not_exist">Kontakt nicht gefunden</string>
   <string name="error_note_empty_for_clock">Für eine leere Notiz kann keine Uhrzeit festgelegt werden.</string>
@@ -31,11 +31,11 @@
   <string name="error_unsupport_content">Diese Notiz enthält nicht unterstützte Inhalte.</string>
   <string name="error_widget_exist_for_send_to_desktop">Diese Notiz ist bereits auf dem Desktop vorhanden.</string>
   <string name="folder_exist">Ein Ordner mit dem selben Namen ist bereits vorhanden.</string>
-  <string name="format_move_notes_out_folder">Moved %1$s out</string>
+  <string name="format_move_notes_out_folder">Verschiebe %1$s raus</string>
   <string name="format_move_notes_to_folder">%1$d Notizen nach %2$s verschoben</string>
   <string name="hint_foler_name">Name</string>
   <string name="info_note_enter_desktop">Zum Desktop hinzugefügt</string>
-  <string name="loading_text">Loading…</string>
+  <string name="loading_text">Lädt…</string>
   <string name="login_sync">Anmelden &amp; Sync</string>
   <string name="menu_create_folder">Neuer Ordner</string>
   <string name="menu_delete">Löschen</string>
@@ -83,9 +83,9 @@
   <string name="snippet_image_stub">[Bild]</string>
   <string name="snippet_image_template">[Bild %1$s]</string>
   <string name="sns_action_send">Senden</string>
-  <string name="sns_choose_quality_high">High (%1$s)</string>
-  <string name="sns_choose_quality_low">Low</string>
-  <string name="sns_choose_quality_title">Choose image quality</string>
+  <string name="sns_choose_quality_high">Hoch (%1$s)</string>
+  <string name="sns_choose_quality_low">Niedrig</string>
+  <string name="sns_choose_quality_title">Bildqualität wählen</string>
   <string name="sns_content_default">Bild teilen</string>
   <string name="sns_desc_preview_wechat">WeChat Nachrichtenvorschau</string>
   <string name="sns_desc_preview_weibo">Weibo Nachrichtenvorschau</string>
@@ -105,14 +105,14 @@
   <string name="toast_reach_text_limit_attachment">Der Inhalt der Notiz ist zu lang, um neue Anhänge einzufügen.</string>
   <string name="toast_reach_text_limit_truncate">Aufgrund der Überlänge wurde der Inhalt der Notiz zugeschnitten.</string>
   <string name="undo">Rückgängig</string>
-  <string name="unknown_source">Unbekannte Quell</string>
+  <string name="unknown_source">Unbekannte Quelle</string>
   <string name="welcome_note_for_cm">Willkommen bei Xiaomi.eu
-  - Sync with Mi Cloud
-  - Save on exit
-  - Set reminders
+  - Synce mit Mi Cloud
+  - Beim Beenden speichern
+  - Erinnerungen festlegen
 
-To learn more, visit
-http://www.miui.com/forum.php?lang=1
+Um mehr zu erfahren, besuchen Sie
+http://en.miui.com/forum.php
 "</string>
   <string name="widget_content_loading">Wird geladen…</string>
   <string name="widget_havenot_content">Keine passende Notiz gefunden. Drücken um zu erstellen.</string>

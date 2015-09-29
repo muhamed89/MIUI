@@ -45,8 +45,8 @@
         <item>Wenn der Bildschirm aus ist</item>
     </string-array>
     <string-array name="app_groups">
-        <item>selected</item>
-        <item>unselected</item>
-        <item>other selected</item>
+        <item>ausgewählt</item>
+        <item>nicht makiert</item>
+        <item>andere auswahl</item>
     </string-array>
 </resources>

@@ -346,6 +346,7 @@
   <string name="theme_precast_update_notification_title">MIUI 7 Themen aktualisiert</string>
   <string name="theme_provision_default_theme_title">Standard</string>
   <string name="theme_provision_loading_tips">Einen Moment bitte…</string>
+  <string name="theme_provision_oper_button_next">Weiter</string>
   <string name="theme_provision_title">Ein Thema wählen</string>
   <string name="theme_purchased_list_empty">"Sie haben keine Themen gekauft."</string>
   <string name="theme_purchased_non_local">Online</string>

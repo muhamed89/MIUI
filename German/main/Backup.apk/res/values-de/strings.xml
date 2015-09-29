@@ -93,7 +93,10 @@
   <string name="enable_encrypt_xiaomi_account">Backup erstellt mit %1$s. Zum Wiederherstellen bitte den jetzigen Account entfernen und als %2$s anmelden.</string>
   <string name="err_authentication_failed">Authentifikation fehlgeschlagen</string>
   <string name="err_bakfile_broken">"Backup kann nicht verwendet werden."</string>
+  <string name="err_filesystem_mount">"Kein Zugriff auf Netzwerkspeicher"</string>
   <string name="err_low_storage">Zu wenig Speicherplatz</string>
+  <string name="err_router_disconnected">"Überprüfen Sie die Verbindung zu Ihrem Router und versuchen Sie es erneut."</string>
+  <string name="err_router_files_delete">"Sicherungen können nicht vom Netzwerkspeicher gelöscht werden"</string>
   <string name="err_unknown">Unbekannter Fehler</string>
   <string name="err_version_too_old">Backup ist zu alt.</string>
   <string name="err_version_unsupported">"Backup-Version wird nicht unterstützt."</string>
@@ -191,6 +194,7 @@
   <string name="st_antispam_mode_smart_state">11111111</string>
   <string name="start_backup">Sichern</string>
   <string name="start_restore">Wiederherstellen</string>
+  <string name="state_mounting">Zugriff auf Netzwerkspeicher…</string>
   <string name="state_waiting">Einen Moment…</string>
   <string name="succeed">Fertig</string>
   <string name="summary_err_backup_encrypting">Bitte melden Sie sich bei Ihrem Mi Account an.</string>

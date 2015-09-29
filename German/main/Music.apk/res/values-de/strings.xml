@@ -2,6 +2,11 @@
 <resources>
   <string name="account">Konto</string>
   <string name="account_and_cloud">Konto</string>
+  <string name="nav_local_all">Alle</string>
+  <string name="nav_local_artist">Favorisierte Interpreten</string>
+  <string name="nav_local_favorite">Lieblingstitel</string>
+  <string name="nav_local_song">Heruntergeladen</string>
+  <string name="nav_online_artist">Interpreten</string>
   <string name="action_item_add">Hinzufügen</string>
   <string name="action_item_add_song">Hinzufügen</string>
   <string name="action_item_add_to_current_playlist">Aktuelle Wiedergabeliste</string>
@@ -269,11 +274,6 @@
   <string name="my_music_empty_goto_online">Keine Titel gefunden</string>
   <string name="my_playlist">Meine Wiedergabeliste</string>
   <string name="name_online_personal_radio">Radio</string>
-  <string name="nav_local_all">Alle</string>
-  <string name="nav_local_artist">Favorisierte Interpreten</string>
-  <string name="nav_local_favorite">Lieblingstitel</string>
-  <string name="nav_local_song">Heruntergeladen</string>
-  <string name="nav_online_artist">Interpreten</string>
   <string name="nav_online_billboard">Charts</string>
   <string name="nav_online_fm">Radio</string>
   <string name="nav_online_playlist">Wiedergabeliste</string>

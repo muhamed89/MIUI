@@ -6,7 +6,7 @@
         <item>Afrika</item>
         <item>Asien</item>
         <item>Australien</item>
-        <item>Pacifik</item>
+        <item>Pazifik</item>
         <item>Alle</item>
     </string-array>
     <string-array name="screen_timeout_entries">
@@ -19,7 +19,7 @@
         <item>Nie</item>
     </string-array>
     <string-array name="dream_timeout_entries">
-        <item>Never</item>
+        <item>Nie</item>
         <item>15 Sekunden</item>
         <item>30 Sekunden</item>
         <item>1 Minute</item>
@@ -77,13 +77,13 @@
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Knopf drücken</item>
-        <item>PIN von Peer-Einrichtung</item>
+        <item>PIN von Partnergerät</item>
         <item>PIN von diesem Gerät</item>
     </string-array>
     <string-array name="wifi_p2p_status">
         <item>Verbunden</item>
         <item>Eingeladen</item>
-        <item>Efolglos</item>
+        <item>Erfolglos</item>
         <item>Verfügbar</item>
         <item>außer Reichweite</item>
     </string-array>
@@ -91,7 +91,7 @@
         <item>2 Minuten</item>
         <item>5 Minuten</item>
         <item>1 Stunde</item>
-        <item>Nie Zeit überschreiten</item>
+        <item>Kein Timeout</item>
     </string-array>
     <string-array name="wifi_signal">
         <item>Schlecht</item>
@@ -101,12 +101,12 @@
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
         <item>Immer</item>
-        <item>Nur wenn es eingestöpselt ist</item>
+        <item>Nur wenn im Netzbetrieb</item>
         <item>Nie (verwendet mehr mobile Daten)</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Immer</item>
-        <item>Nur wenn es eingestöpselt ist</item>
+        <item>Nur wenn im Netzbetrieb</item>
         <item>Nie</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
@@ -116,7 +116,7 @@
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Nutzungszeit</item>
-        <item>Start Zählung</item>
+        <item>Startanzahl</item>
         <item>App Name</item>
     </string-array>
     <string-array name="wifi_eap_entries">
@@ -126,12 +126,12 @@
         <item>PWD</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
-        <item>Nichts</item>
+        <item>Keiner</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
     <string-array name="wifi_phase2_entries">
-        <item>Nichts</item>
+        <item>Keiner</item>
         <item>PAP</item>
         <item>MSCHAP</item>
         <item>MSCHAPV2</item>
@@ -142,7 +142,7 @@
         <item>Statisch</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
-        <item>Nichts</item>
+        <item>Keiner</item>
         <item>Manuell</item>
     </string-array>
     <string-array name="emergency_tone_entries">
@@ -151,7 +151,7 @@
         <item>Vibrieren</item>
     </string-array>
     <string-array name="apn_auth_entries">
-        <item>Nichts</item>
+        <item>Keiner</item>
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP or CHAP</item>
@@ -172,7 +172,7 @@
         <item>Keine Angabe</item>
     </string-array>
     <string-array name="mvno_type_entries">
-        <item>Nichts</item>
+        <item>Keiner</item>
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
@@ -299,13 +299,13 @@
         <item>Sehr groß</item>
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
-        <item>Nichts</item>
+        <item>Keiner</item>
         <item>Umrisslinie</item>
         <item>Schatten werfen</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
-        <item>Weiss auf Schwarz</item>
-        <item>Schwarz auf Weiss</item>
+        <item>Weiß auf Schwarz</item>
+        <item>Schwarz auf Weiß</item>
         <item>Gelb auf Schwarz</item>
         <item>Gelb auf Blau</item>
         <item>Benutzerdefiniert</item>
@@ -322,13 +322,13 @@
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Niemals überprüfen</item>
-        <item>Überprüfe nur auf DRM Inhalt</item>
+        <item>Nur bei DRM Inhalten überprüfen</item>
         <item>Immer prüfen</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Nie HDCP Überprüfung nutzen</item>
-        <item>Nutze HDCP Überprüfung nur für DRM Inhalt</item>
-        <item>Immer HDCP Ünerprüfung nutzen</item>
+        <item>HDCP Überprüfung nur bei DRM Inhalten nutzen</item>
+        <item>Immer HDCP Überprüfung nutzen</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animation aus</item>
@@ -349,7 +349,7 @@
         <item>Animations-Maßstab 10x</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
-        <item>Animation off</item>
+        <item>Animation aus</item>
         <item>Animations-Maßstab .5x</item>
         <item>Animations-Maßstab 1x</item>
         <item>Animations-Maßstab 1.5x</item>
@@ -358,13 +358,13 @@
         <item>Animations-Maßstab 10x</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>Nichts</item>
+        <item>Keiner</item>
         <item>Logcat</item>
         <item>Systrace (Graphics)</item>
-        <item>Call stack on glGetError</item>
+        <item>Aufrufstapel auf glGetError</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>Off</item>
+        <item>Aus</item>
         <item>Zeichne nicht-rechteckiges Abschnittsgebiet in Blau</item>
         <item>Markieren Sie getestete Zeichenbefehle in Grün</item>
     </string-array>
@@ -409,19 +409,19 @@
         <item>Initialisiert…</item>
         <item>Verbindet…</item>
         <item>Verbunden</item>
-        <item>Timeout</item>
+        <item>Zeitüberschreitung</item>
         <item>Erfolglos</item>
     </string-array>
     <string-array name="user_content_ratings_entries">
         <item>Aufgestiegenes Wesen</item>
         <item>Mensch</item>
-        <item>Neanderthaler</item>
+        <item>Neandertaler</item>
         <item>Schimpanse</item>
         <item>Affe</item>
     </string-array>
     <string-array name="ram_states">
         <item>normal</item>
-        <item>gemäßigt</item>
+        <item>angemessen</item>
         <item>niedrig</item>
         <item>kritisch</item>
     </string-array>
@@ -438,11 +438,11 @@
     <string-array name="battery_indicator_style_entries">
         <item>Graphisch</item>
         <item>Prozent</item>
-        <item>Oberbalken</item>
+        <item>Balken</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
         <item>Beim Verbinden fragen</item>
-        <item>nur aufladen</item>
+        <item>Nur aufladen</item>
         <item>SD Karte anbringen</item>
     </string-array>
     <string-array name="led_freq_entries">
@@ -461,7 +461,7 @@
         <item>Gelb</item>
         <item>Grün</item>
         <item>Türkis</item>
-        <item>Weiss</item>
+        <item>Weiß</item>
         <item>Lila</item>
     </string-array>
     <string-array name="mi1_led_color_entries">
@@ -469,7 +469,7 @@
         <item>Rot</item>
         <item>Grün</item>
         <item>Pink</item>
-        <item>Violet</item>
+        <item>Violett</item>
         <item>Lila</item>
     </string-array>
     <string-array name="pink_panel_led_color_entries">
@@ -480,15 +480,15 @@
         <item>Magenta</item>
     </string-array>
     <string-array name="screen_key_press_action">
-        <item>Zeige kürzliches Apps-Fach</item>
+        <item>Zeige kürzlich verwendete Apps</item>
         <item>Zeige das Menü</item>
     </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Nichts</item>
-        <item>Zeige kürzliches Apps-Fach</item>
-        <item>Starte Assistent</item>
-        <item>Starte Google now</item>
-        <item>Schliesse kürzlcihe App</item>
+        <item>Zeige kürzlich verwendete Apps</item>
+        <item>Öffne Assistent</item>
+        <item>Öffne Google Now</item>
+        <item>Schließe aktuelle App</item>
         <item>Zeige das Menü</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
@@ -510,12 +510,12 @@
         <item>Sitzung gestartet</item>
         <item>Reisse ab…</item>
         <item>"Kann Sitzung nicht beginnen"</item>
-        <item>Zeitüberschreitung. Versuche nochmal…</item>
+        <item>Zeitüberschreitung. Versuche nochmals…</item>
         <item>Gerät verbunden</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>Leistung</item>
-        <item>Balanziert</item>
+        <item>Ausgeglichen</item>
     </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP und älter</item>
@@ -532,7 +532,7 @@
     <string-array name="msd_pc_system_install_finish_summary">
         <item>@string/msd_pc_system_install_finish_summary_xp</item>
         <item>@string/msd_pc_system_install_finish_summary_vista</item>
-        <item>USB mass storage will open automatically when connected to a computer.</item>
+        <item>USB Speicher öffnet sich automatisch, sobald er mit einem PC verbunden ist.</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_retry_xp">
@@ -563,9 +563,9 @@ Note: Nur für Ubuntu 8.04!"</item>
         <item>Standard</item>
     </string-array>
     <string-array name="screen_optimize_summary">
-        <item>Opimieren Sie den Kontrast für verfügbare Lichter</item>
-        <item>"Erhöhen Sie den Bildschirmkontrast"</item>
-        <item>Kontrast wird konstant bleiben</item>
+        <item>Der Kontrast passt sich automatisch den Lichtverhältnissen an</item>
+        <item>Der Kontrast wird erhöht</item>
+        <item>Der Kontrast bleibt stets konstant</item>
     </string-array>
     <string-array name="perm_hips_action">
         <item>Erlauben</item>
@@ -577,8 +577,8 @@ Note: Nur für Ubuntu 8.04!"</item>
         <item>Verbieten</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
-        <item>Single-mic Geräuschunterdrückung</item>
-        <item>Dual-mic Geräuschunterdrückung</item>
+        <item>Single-Mikro Geräuschunterdrückung</item>
+        <item>Dual-Mikro Geräuschunterdrückung</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>Gesichtsentsperrung</item>
@@ -600,11 +600,11 @@ Note: Nur für Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>
-        <item>Dial</item>
+        <item>Telefon</item>
         <item>Nachrichten</item>
         <item>Browser</item>
         <item>Kamera</item>
-        <item>Gallerie</item>
+        <item>Galerie</item>
         <item>Musik</item>
         <item>Email</item>
         <item>Video</item>
@@ -638,14 +638,14 @@ Note: Nur für Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="agps_network_entries">
         <item>Heimnetzwerk</item>
-        <item>Alles Netzwerk</item>
+        <item>Alle Netzwerke</item>
     </string-array>
     <string-array name="install_non_market_app_entries">
         <item>Fragen Sie um Erlaubnis für riskante Apps</item>
         <item>Erlauben</item>
     </string-array>
     <string-array name="install_non_market_app_contents">
-        <item>Erlaubnis erfragen</item>
+        <item>Um Erlaubnis fragen</item>
         <item>Erlauben</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
@@ -665,8 +665,8 @@ Note: Nur für Ubuntu 8.04!"</item>
         <item>"Könnte die Geräteleistung verlangsamen"</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
-        <item>Ihr Gerät neustarten, um diese Einstellung einzurichten?</item>
-        <item>Ihr Gerät neustarten, um diese Einstellung einzurichten?</item>
+        <item>Ihr Gerät neustarten, um diese Einstellung anzuwenden?</item>
+        <item>Ihr Gerät neustarten, um diese Einstellung anzuwenden?</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Jeden Tag</item>

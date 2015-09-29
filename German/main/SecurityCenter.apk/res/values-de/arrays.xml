@@ -33,8 +33,8 @@
         <item>Nie</item>
     </string-array>
     <string-array name="power_dialog_cpu_state_items">
-        <item>High performance</item>
-        <item>Balanced</item>
+        <item>Hohe Leistung</item>
+        <item>Ausgeglichen</item>
     </string-array>
     <string-array name="power_dialog_wifi_internet_state_items">
         <item>Ausschalten</item>

@@ -18,9 +18,9 @@
   <string name="account_prifix">Konto:</string>
   <string name="action">Anmelden</string>
   <string name="action_menu_text_add_bookmark">Lesezeichen hinzufügen</string>
-  <string name="action_menu_text_bandwidth">Datenkomprimierung</string>
-  <string name="action_menu_text_bandwidth_off">Datenkomprimierung deaktiviert</string>
-  <string name="action_menu_text_bandwidth_on">Datenkomprimierung aktiviert</string>
+  <string name="action_menu_text_bandwidth">Bandbreite</string>
+  <string name="action_menu_text_bandwidth_off">Bandbreite/Aus</string>
+  <string name="action_menu_text_bandwidth_on">Bandbreite/An</string>
   <string name="action_menu_text_bookmark_added">Lesezeichen hinzugefügt</string>
   <string name="action_menu_text_copy_url">URL kopieren</string>
   <string name="action_menu_text_create_qr_code">QR-Code</string>
@@ -220,7 +220,7 @@
   <string name="geolocation_permissions_prompt_dont_share">Ablehnen</string>
   <string name="geolocation_permissions_prompt_message">%s möchte Ihren Aufenthaltsort erfahren</string>
   <string name="geolocation_permissions_prompt_remember">Auswahl merken</string>
-  <string name="geolocation_permissions_prompt_share">Teile Aufenthaltsort</string>
+  <string name="geolocation_permissions_prompt_share">Standort freigeben</string>
   <string name="geolocation_permissions_prompt_toast_allowed">Diese Webseite hat Zugriff auf ihren Aufenhaltsort. Um dies zu änder gehen Sie bitte in Einstellungen &gt; Erweitert &gt; Website data.</string>
   <string name="geolocation_permissions_prompt_toast_disallowed">Diese Webseite kann nicht auf Ihren Standort zugreifen.</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Abbrechen</string>
@@ -264,7 +264,7 @@
   <string name="media_error_timeout">Netzwerkverbindung Zeitüberschreitung</string>
   <string name="media_error_video_not_exist">"Video nicht verfügbar"</string>
   <string name="media_player_error_button">OK</string>
-  <string name="media_player_error_text_invalid_progressive_playback">Verzeihung, dieses Video kann nicht zu diesem GErät gestreamt werden.</string>
+  <string name="media_player_error_text_invalid_progressive_playback">Verzeihung, dieses Video kann nicht zu diesem Gerät gestreamt werden.</string>
   <string name="media_player_error_text_unknown">Dieses Video kann nicht abgespielt werden.</string>
   <string name="media_player_error_title">Video kann nicht abgespielt werden</string>
   <string name="media_player_loading_video">Video wird geladen</string>
@@ -353,7 +353,7 @@
   <string name="pref_content_homepage">Startseite einstellen</string>
   <string name="pref_content_javascript">JavaScript aktivieren</string>
   <string name="pref_content_night_read_mode">Nachtmodus</string>
-  <string name="pref_content_search_engine">Suchmaschine in der Adressleiste</string>
+  <string name="pref_content_search_engine">Suchanbieter festlegen</string>
   <string name="pref_content_search_engine_summary">Suchmaschiennbetreiber wählen</string>
   <string name="pref_enable_adblock_notification">Zeige Werbeblocker Benachrichtigungen</string>
   <string name="pref_extras_reset_default">Auf Standarteinstellungen zurücksetzen</string>
@@ -367,7 +367,7 @@
   <string name="pref_file_download_default_path_prefix">Standartverzeichnis: %s</string>
   <string name="pref_file_download_save_modify_default_path">Downloadverzeichnis</string>
   <string name="pref_file_download_save_title">Downloads</string>
-  <string name="pref_fling_on_border_enabled">Streiche von der Seite um Registerkarte zu wechseln</string>
+  <string name="pref_fling_on_border_enabled">"Tab's wechseln"</string>
   <string name="pref_fling_on_border_enabled_title_summary">Streiche vom linken oder rechten Rand des Bildschirmes, um die Registerkarten zu wechseln</string>
   <string name="pref_font_size_category">Textgröße der Webseite</string>
   <string name="pref_force_userscalable">Erzwinge Vergrößerung</string>

@@ -147,7 +147,7 @@
   <string name="add_pre_message_attachments">Anhänge der vorangegangenen Nachricht anfügen?</string>
   <string name="add_pre_message_attachments_no">"Nicht hinzufügen"</string>
   <string name="add_pre_message_attachments_yes">Hinzufügen</string>
-  <string name="add_star">Stern</string>
+  <string name="add_star">Favorit</string>
   <string name="allread">Alle lesen</string>
   <string name="always_bcc_myself">Stets Bcc an mich selbst</string>
   <string name="always_show_images">Zeige stets Bilder von diesem Absender</string>
@@ -216,7 +216,7 @@
   <string name="chat_view_title">Unterhaltungsansicht</string>
   <string name="check_setup_data">Prüfe Servereinstellungen…</string>
   <string name="choosertitle_sharevia">Teile mittels</string>
-  <string name="clear">Lösche</string>
+  <string name="clear">Löschen</string>
   <string name="clear_display_images_whitelist_dialog_message">Beenden der Anzeige von eingebetteten Bilder von Absendern, welche Sie vorher erlaubt haben.</string>
   <string name="clear_display_images_whitelist_dialog_title">Lösche Bild Genehmigungen?</string>
   <string name="clear_display_images_whitelist_title">Lösche Bild Genehmigungen</string>
@@ -288,7 +288,7 @@
   <string name="default_pop3">POP3</string>
   <string name="default_setup">STANDARTEINSTELLUNGEN</string>
   <string name="default_signature">Gesendet von meinem Mi Telefon</string>
-  <string name="delete">Lösche</string>
+  <string name="delete">Löschen</string>
   <string name="deleted">Gelöscht</string>
   <string name="device_activity_btn_str">Aktiviere</string>
   <string name="device_activity_lint_str">Enable mail service complete update and activate security settings</string>
@@ -497,7 +497,7 @@
   <string name="menu_change_folders">Verschieben</string>
   <string name="menu_compose">Verfassen</string>
   <string name="menu_folder_options">Synchronisierungsoptionen</string>
-  <string name="menu_move_to">Verschiebe nach</string>
+  <string name="menu_move_to">Verschieben nach</string>
   <string name="menu_move_to_inbox">Verschiebe in Posteingang</string>
   <string name="menu_photo_save_all">Alles speichern</string>
   <string name="menu_photo_share">Teile</string>
@@ -754,7 +754,7 @@
   <string name="setting_default_lable"/>
   <string name="settings_activity_title">Einstellungen</string>
   <string name="share_choose">Bitte wählen Sie</string>
-  <string name="sharing">Teile</string>
+  <string name="sharing">Teilen</string>
   <string name="shortcut_name_title">Name Ordnerverknüpfung</string>
   <string name="show_elided">▶ Zitierten Text anzeigen</string>
   <string name="show_images">Downloaden und Bilder anzeigen</string>

@@ -21,16 +21,16 @@
   <string name="duration_format_second">%ss</string>
   <string name="error_app_internal">Möglicherweise wird die Aufnahmesoftware von einer anderen App benutzt. Überprüfen und erneut versuchen.</string>
   <string name="error_app_internal_title">Soundrekorder Fehler</string>   
-  <string name="error_file_access">"File doesn't exist or has been corrupted"</string>
+  <string name="error_file_access">"Die Datei existiert nicht oder ist beschädigt"</string>
   <string name="error_filename_illegal_char">Dateiname enthält mindestens ein ungültiges Zeichen.</string>
   <string name="error_filename_too_long">Dateiname zu lang</string>
   <string name="error_sdcard_access">Kein Zugriff auf den ext. oder int. Speicher möglich.</string>
   <string name="error_sdcard_unmounted">SD-Karte nicht eingebunden, SD-Karte einsetzen</string>
   <string name="fm_record">Radioaufnahmen(%d)</string>
   <string name="loading_recording">Aufnahmen werden geladen</string>
-  <string name="low_battery_error">Der Akku hat weniger als 5%. Damit die Aufnahme nicht veloren geht wurde sie gestoppt und gespeichert.</string>
+  <string name="low_battery_error">Der Akku hat weniger als 5%. Damit die Aufnahme nicht veloren geht, wurde sie gestoppt und gespeichert.</string>
   <string name="message_file_size_error">Die maximal unterstützte Aufnahmelänge für %s wurde erreicht.</string>
-  <string name="no_downloading_file">No files are downloading.</string>
+  <string name="no_downloading_file">Momentan werden keine Dateien runtergeladen.</string>
   <string name="no_file">Keine Aufnahmen.</string>
   <string name="notification_message_all_paused">Kann den mobilen Datenverbrauch erhöhen.</string>
   <string name="notification_playback">Wird abgespielt...</string>
@@ -49,8 +49,8 @@
   <string name="preference_record_type_title">Aufnahmetyp</string>
   <string name="preference_scenes">Szeneneinstellungen</string>
   <string name="preference_silent_mode">Klingelton bei Aufnahme aus</string>
-  <string name="preference_tip_rename">Name recordings manually</string>
-  <string name="record_back_pressed_hint">To stop recording, touch Back again</string>
+  <string name="preference_tip_rename">Aufnahmen selbst bennenen</string>
+  <string name="record_back_pressed_hint">Um die Aufnahme anzuhalten, nochmal den Zurück-Knopf berühren</string>
   <string name="record_download">Download von MiCloud</string>
   <string name="record_download_activity">Aufnahme-Downloader</string>
   <string name="record_download_complete">Fertig</string>
@@ -94,7 +94,7 @@
   <string name="toast_file_is_downloading">Datei wird geladen</string>
   <string name="toast_max_record_time">%1$s kann Aufnehmen für %2$s</string>
   <string name="toast_uninstall_fileexplorer">Dateibrowser nicht installiert</string>
-  <string name="wifi_recommended_body" formatted="false">Using your mobile data connection to download this file (%s) will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees. To wait for a WLAN connection to download this file, tap %s.</string>
-  <string name="wifi_recommended_title">Data usage warning</string>
+  <string name="wifi_recommended_body" formatted="false">Wenn Sie Ihre mobile Datenverbindung zum Herunterladen von (%s) nutzen, dann wird Ihre Datennutzung erhöht. Wenn Sie Ihre Tarif-Datengrenze überschreiten, kann Ihr Anbieter zusätzlich Kosten verlangen. Um auf eine WLAN-Verbindung für den Download zu warten, hier %s tippen.</string>
+  <string name="wifi_recommended_title">Datennutzungswarnung</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
