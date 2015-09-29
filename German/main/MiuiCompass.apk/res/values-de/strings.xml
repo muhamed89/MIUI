@@ -8,7 +8,6 @@
   <string name="altitude_uncalibrate_tip">Kalibrieren der Höhe nicht möglich</string>
   <string name="altitude_unit">m</string>
   <string name="app_label">Kompass</string>
-  <string name="calibrate_altitude">Kalibriere...</string>
   <string name="calibrate_failed">Kalibrieren der Höhe fehlgeschlagen</string>
   <string name="calibrate_failed_no_location">Kalibrierung nicht möglich</string>
   <string name="calibrate_failed_timeout">Verbindung zum Server nicht möglich</string>
@@ -33,7 +32,6 @@
   <string name="error_camera_unavailable_title">Kamera nicht verfügbar</string>
   <string name="first_using_dialog_message">Kompass benötigt Netzwerkverbindung, Kamera und Standortdienste, um einwandfrei zu funktionieren</string>
   <string name="first_using_dialog_title">Zugriffsberechtigung</string>
-  <string name="getting_location">Kalibriere…</string>
   <string name="guide_toast">Zum Kalibrieren machen Sie die unten angezeigte Bewegung mit Ihrem Gerät</string>
   <string name="latitude">LAT</string>
   <string name="location_east">östl. Länge</string>
@@ -46,7 +44,6 @@
   <string name="location_south">südl. Breite</string>
   <string name="location_west">westl. Länge</string>
   <string name="longitude">LON</string>
-  <string name="menu_calibrate">Kompass kalibrieren</string>
   <string name="mobiledata_alert_dialog_message">Mit dem Internet verbinden, um die Höhe zu kalibrieren?</string>
   <string name="mobiledata_alert_dialog_title">Datenverbrauchs-Warnung</string>
   <string name="pressure">%.1f</string>
