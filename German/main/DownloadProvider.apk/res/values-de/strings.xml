@@ -20,6 +20,7 @@
   <string name="download_unknown_title">&lt;Ohne Titel&gt;</string>
   <string name="enter_garbage_clean">Internen Speicher bereinigen.</string>
   <string name="insufficient_space">"Nicht genügend Platz im internen Speicher Ihres Geräts"</string>
+  <string name="mobile_recommended_title">Mobile data usage</string>
   <string name="notif_text_engine_off">Xunlei Accelerator ist aus.</string>
   <string name="notif_text_engine_on">Beschleunige…</string>
   <string name="notif_title_file_size">%1$d gesamt</string>
