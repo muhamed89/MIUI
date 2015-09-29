@@ -95,7 +95,7 @@
   <string name="system_time_setting">Einstellungen</string>
   <string name="time">Uhrzeit</string>
   <string name="timer_alarm_alert_pad">%s</string>
-  <string name="timer_alarm_cancel_pad">Auf den Bildschirm tippen, um das Läuten zu beenden.</string>
+  <string name="timer_alarm_cancel_pad">Auf den Bildschirm tippen, um den Alarm zu beenden.</string>
   <string name="timer_alert_alert_silenced">Timer verstummt nach %d Minuten</string>
   <string name="timer_continue">Fortsetzen</string>
   <string name="timer_got_it">OK</string>
