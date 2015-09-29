@@ -3636,7 +3636,7 @@ Das Einrichten des Telefons kann eine erhöhte Netzwerkaktivität erfordern."</s
   <string name="wps_category">WPS</string>
   <string name="wps_connect_summary">Stellen Sie sicher, das der Router WPS unterstützt und es eingeschaltet ist.</string>
   <string name="wps_connect_title">Über WPS verbinden</string>
-  <string name="write_tag">Eintragen</string>
+  <string name="write_tag">Schreiben</string>
   <string name="wrong_pin_code_pukked">Falscher SIM PIN-Code, Sie müssen jetzt Ihren Telefonanbieter kontaktieren, um Ihr Gerät zu entsperren.</string>
   <string name="xiaomi_account">Mi Konto</string>
   <string name="xiaomi_cloud_service">Mi-Cloud</string>
