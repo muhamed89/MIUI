@@ -341,7 +341,7 @@ Kontaktkarten sind ausgeschaltet"</string>
   <string name="dialer_returnToInCallScreen">Zurück zum aktuellen Gespräch</string>
   <string name="dialer_useDtmfDialpad">Tonwahltastatur verwenden</string>
   <string name="dialog_import">Kontakte importieren</string>
-  <string name="dialog_import_export">Kontakte importieren/exportieren/string>
+  <string name="dialog_import_export">"Kontakte importieren/exportieren"</string>
   <string name="dialog_new_contact_account">Neuen Kontakt erstellen unter</string>
   <string name="dialog_new_group_account">Neue Gruppe erstellen unter</string>
   <string name="dialog_phone_call_prohibited_message">Anrufe sind nicht erlaubt</string>
