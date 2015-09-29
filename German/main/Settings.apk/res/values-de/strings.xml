@@ -3287,7 +3287,7 @@ WLAN Assistent"</string>
   <string name="wifi_band_5ghz">5GHz</string>
   <string name="wifi_cancel">Abbrechen</string>
   <string name="wifi_certificate">Zertifikat</string>
-  <string name="wifi_click_share_wlan">Zum Teilen antippen</string>
+  <string name="wifi_click_share_wlan">WLAN Passwort Teilen</string>
   <string name="wifi_config_info">WLAN Konfig</string>
   <string name="wifi_configured_ap_list">Zuvor konfigurierte APs</string>
   <string name="wifi_connect">Verbinden</string>
