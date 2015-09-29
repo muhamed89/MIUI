@@ -68,6 +68,7 @@
   <string name="important_suggestion">Datenschutzerklärung wurde verändert</string>
   <string name="install">Intallieren</string>
   <string name="install_failed">Aktualisierung fehlgeschlagen</string>
+  <string name="install_file_explorer">zuerst Datei Explorer installieren</string>
   <string name="install_local">Lokale Installation</string>
   <string name="install_qq">"Lade Tencent's Weibo App herunter"</string>
   <string name="internal_build">Intern</string>
@@ -79,7 +80,7 @@
   <string name="menu_title_pick_rom_file">Wählen Sie ein Updatepaket</string>
   <string name="menu_title_recovery">Neustart in den Recovery-Modus</string>
   <string name="miui_BBS">" "&lt;a href="http://bbs.miui.com"&gt;Gehe zum MIUI forum&lt;/a&gt;" "</string>
-  <string name="miui_summary_has_new_version">Aktualisierung verfügbar</string>
+  <string name="miui_summary_has_new_version">" Aktualisierung verfügbar "</string>
   <string name="miui_summary_no_new_version">Keine Aktualisierungen verfügbar</string>
   <string name="miui_summary_now_version">"Verbindung kann nicht aufgebaut werden"</string>
   <string name="miui_summary_slogan">"  Yours by design  "</string>
