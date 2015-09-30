@@ -69,8 +69,8 @@
   <string name="description_image_button_five">Fünf</string>
   <string name="description_image_button_four">Vier</string>
   <string name="description_image_button_hangup">Ende</string>
-  <string name="description_image_button_message_enter">Wische um mit Nachricht zu antworten</string>
-  <string name="description_image_button_message_exit">Verberge Nachricht</string>
+  <string name="description_image_button_message_enter">Wischen um mit Nachricht zu antworten</string>
+  <string name="description_image_button_message_exit">Nachricht verbergen</string>
   <string name="description_image_button_nine">Neun</string>
   <string name="description_image_button_one">Eins</string>
   <string name="description_image_button_pound">Raute</string>
