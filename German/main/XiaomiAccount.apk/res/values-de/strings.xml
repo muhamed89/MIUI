@@ -180,8 +180,6 @@
   <string name="passport_confirm">Bestätigen</string>
   <string name="passport_confirm_recycle_account">Ja</string>
   <string name="passport_delete_account">Abmelden</string>
-  <string name="passport_dspt_provision">"Nutze dein Mi Konto um überall auf deine Daten zuzugreifen"</string>
-  <string name="passport_dspt_provision2">Mehr erfahren</string>
   <string name="passport_email">E-Mail-Adresse</string>
   <string name="passport_email_or_id_hint_text">E-Mail-Adresse oder Mi Konto ID</string>
   <string name="passport_email_reg_success_summary">%1$s wurde mit deinem Konto verknüpft. Du kannst es nutzen um dich anzumelden oder dein Passwort zu ändern.</string>
@@ -239,7 +237,6 @@
   <string name="passport_phone_num_hint_text">Mobilrufnummer</string>
   <string name="passport_prev">Zurück</string>
   <string name="passport_privacy_policy">Datenschutzerklärung</string>
-  <string name="passport_provision_skip_login">&lt;u&gt;Schritt überspringen&lt;/u&gt;</string>
   <string name="passport_quick_login_dialog_step2_title">2-Schritte Verifikation</string>
   <string name="passport_quick_login_dialog_title">Passwort verifizieren</string>
   <string name="passport_quick_login_step2_title">2-Schritte Verifikation</string>
@@ -298,7 +295,6 @@
   <string name="passport_verification_failed">Bestätigung fehlgeschlagen</string>
   <string name="passport_verify">Bestätigen</string>
   <string name="passport_wait_for_sms_prompt">"Jetzt erstellen? Die Bestätigungsnachricht kann bis zu 10 Minuten verzögert eintreffen, wenn sich das Gerät außerhalb eines unterstützten Mobilfunknetzes befindet."</string>
-  <string name="passport_welcome_skip_login">&lt;u&gt;Überspringe den Schritt&lt;/u&gt;</string>
   <string name="passport_wrong_captcha">Der eingegebene Code ist falsch</string>
   <string name="passport_wrong_password">Das Passwort ist falsch</string>
   <string name="passport_wrong_phone_number_format">Das Format der eingegebenen Mobilrufnummer ist ungültig</string>
@@ -314,6 +310,7 @@
   <string name="photoPickerNotFoundText">Keine Bilder verfügbar.</string>
   <string name="prev">Zurück</string>
   <string name="privacy_policy">Datenschutzerklärung</string>
+  <string name="provision_skip_login">&lt;u&gt;Überspringe den Schritt&lt;/u&gt;</string>
   <string name="qq">QQ</string>
   <string name="quick_login_dialog_step2_title">2-Schritte Verifizierung</string>
   <string name="quick_login_dialog_title">Passwort verifizieren</string>
