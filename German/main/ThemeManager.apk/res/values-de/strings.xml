@@ -253,7 +253,7 @@
   <string name="resource_select_boot_audio_confirm">Diesen Boot-Ton wählen?</string>
   <string name="resource_select_notification_audio_confirm">Diesen Alarmton wählen?</string>
   <string name="resource_select_ringtone_audio_confirm">Diesen Klingelton wählen?</string>
-  <string name="resource_selected">Empfohlen</string>
+  <string name="resource_selected">Featured</string>
   <string name="resource_send">Senden</string>
   <string name="resource_server_alert_dialog_title">Dienst nicht verfügbar</string>
   <string name="resource_server_out_of_service">Dienst nicht verfügbar. Bitte versuchen Sie es später noch einmal.</string>
