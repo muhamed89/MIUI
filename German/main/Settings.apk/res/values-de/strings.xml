@@ -653,9 +653,9 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="checkbox_notification_same_as_incoming_call">Lautstärke von eingehenden Anrufen für Benachrichtigungen verwenden.</string>
   <string name="checking_for_updates">Prüfe auf Updates...</string>
   <string name="children_mode_enable_title">Jugendschutz</string>
-  <string name="children_mode_set_apps_title">Zugängliche Apps</string>
-  <string name="children_mode_tips_off">Nachdem der Jugendschutz eingeschaltet wurde, drücke den Home Button um zurück zu kehren.</string>
-  <string name="children_mode_tips_on">Nachdem der Jugendschutz ausgeschaltet wurde, drücke den Home Button um zurück zu kehren.</string>
+  <string name="children_mode_set_apps_title">Erlaubte Apps</string>
+  <string name="children_mode_tips_off">Nachdem der Jugendschutz eingeschaltet wurde, drücke den Home Button um zurückzukehren.</string>
+  <string name="children_mode_tips_on">Nachdem der Jugendschutz ausgeschaltet wurde, drücke den Home Button um zurückzukehren.</string>
   <string name="children_mode_title">Jugendschutz</string>
   <string name="choose_smartcover_type">Wähle einen Typ</string>
   <string name="choose_timezone">Zeitzone wählen</string>
@@ -3251,7 +3251,7 @@ Jeder Nutzer kann aktualisierte App-Berechtigungen im Namen aller anderen Nutzer
   <string name="wfd_menu_searching">Suche läuft...</string>
   <string name="wfd_menu_teardown">Anhalten</string>
   <string name="wfd_settings_description">Über WLAN mit Bildschirm verbinden</string>
-  <string name="wfd_settings_title">WLAN Bildschirm</string>
+  <string name="wfd_settings_title">Kabellose Übertragung</string>
   <string name="wfd_wps_keypad">Tasten Methode</string>
   <string name="wfd_wps_pbc">PIN Eingabe</string>
   <string name="whetstone_level_reboot">Diese Einstellung wird wirksam, nachdem Sie Ihr Gerät neugestartet haben.</string>
