@@ -3235,6 +3235,7 @@ Jeder Nutzer kann aktualisierte App-Berechtigungen im Namen aller anderen Nutzer
   <string name="wallpaper_attributions">Wallpapers</string>
   <string name="wallpaper_attributions_values">"Satellitenbildanbieter:
 ©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string> 
+  <string name="wakeup_for_keyguard_notification_title"/>
   <string name="wallpaper_desktop">Desktop</string>
   <string name="wallpaper_live">Live Hintergrund</string>
   <string name="wallpaper_lockscreen">Sperrbildschirm</string>
