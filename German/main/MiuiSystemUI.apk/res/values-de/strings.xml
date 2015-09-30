@@ -56,8 +56,8 @@
   <string name="battery_low_title">Verbinde mit Ladegerät</string>
   <string name="battery_profiles">Benutze Batterie Profil</string>
   <string name="block_record_notification_more_text">Verberge Nachrichten von %1$s &amp; %2$d Apps.</string>
-  <string name="block_record_notification_text">Verberge Nachrichten von %1$s.</string>
-  <string name="block_record_notification_title">Nachrichten verborgen</string>
+  <string name="block_record_notification_text">Benachrichtigungen von %1$s verborgen.</string>
+  <string name="block_record_notification_title">Benachrichtigungen verborgen</string>
   <string name="bluetooth_tethered">Bluetooth Tethered</string>
   <string name="call_status_dialing">Wählen</string>
   <string name="call_status_ringing">Klingeln</string>
@@ -84,8 +84,8 @@ Wenn Sie die Datenverbindung wieder einschalten, können hohe Kosten entstehen."
   <string name="description_direction_left">Für %s nach links wischen.</string>
   <string name="description_direction_up">Für %s nach oben wischen.</string>
   <string name="description_target_search">Suche</string>
-  <string name="disable_notification_summary">Verberge Apps Nachrichten</string>
-  <string name="disable_notification_title">Verberge Nachrichten</string>
+  <string name="disable_notification_summary">App-Benachrichtigungen verbergen</string>
+  <string name="disable_notification_title">Benachrichtigungen verbergen</string>
   <string name="dismount_storage">Nein</string>
   <string name="dlg_confirm_kill_storage_users_text">Wenn Sie den USB-Speicher einschalten, werden einige Apps angehalten und möglicherweise nicht mehr verfügbar sein, bis Sie das USB-Speichergerät ausschalten.</string>
   <string name="dlg_confirm_kill_storage_users_title">USB-Speicher einschalten</string>
