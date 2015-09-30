@@ -56,9 +56,9 @@
   <string name="battery_low_title">Verbinde mit Ladegerät</string>
   <string name="battery_profiles">Benutze Batterie Profil</string>
   <string name="block_record_notification_more_text">Verberge Nachrichten von %1$s &amp; %2$d Apps.</string>
-  <string name="block_record_notification_text">Benachrichtigungen von %1$s verborgen.</string>
-  <string name="block_record_notification_title">Benachrichtigungen verborgen</string>
-  <string name="bluetooth_tethered">Bluetooth Tethered</string>
+  <string name="block_record_notification_text">Benachrichtigungen von %1$s versteckt.</string>
+  <string name="block_record_notification_title">Benachrichtigungen verstecken</string>
+  <string name="bluetooth_tethered">Bluetooth Internetfreigabe</string>
   <string name="call_status_dialing">Wählen</string>
   <string name="call_status_ringing">Klingeln</string>
   <string name="camera_key_action_app_title">App öffnen</string>
