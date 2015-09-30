@@ -1111,7 +1111,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="enable_terminal_summary">Aktiviere die Terminal-App, die den lokalen Shell-Zugang ermöglicht</string>
   <string name="enable_terminal_title">Lokales Terminal</string>
   <string name="enable_text">Einschalten</string>
-  <string name="enable_wifi_display">WLAN-Bildschirm einschalten</string>
+  <string name="enable_wifi_display">Kabellose Übertragung aktivieren</string>
   <string name="encrypt_dont_require_password">Nein Danke</string>
   <string name="encrypt_dont_require_pattern">Nein Danke</string>
   <string name="encrypt_dont_require_pin">Nein Danke</string>
