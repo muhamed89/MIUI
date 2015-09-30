@@ -59,6 +59,14 @@
   <string name="app_new_version">Die neueste Version dieser App ist bereits installiert</string>
   <string name="app_update_install">Bereit um Update zu installieren.</string>
   <string name="application_name">Browser</string>
+  <string name="aqi_quality_index_break">AQI %1$s</string>
+  <string name="aqi_quality_index_dangerous">AQI %1$s</string>
+  <string name="aqi_quality_index_good">AQI %1$s</string>
+  <string name="aqi_quality_index_hazardous">AQI %1$s</string>
+  <string name="aqi_quality_index_light_pollution">AQI %1$s</string>
+  <string name="aqi_quality_index_moderate">AQI %1$s</string>
+  <string name="aqi_quality_index_pure">AQI %1$s</string>
+  <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
   <string name="autologin_bar_error">"Anmeldung fehlgeschlagen"</string>
   <string name="autologin_bar_hide_text">Verstecke</string>
   <string name="autologin_bar_login_text">Anmelden</string>
@@ -98,8 +106,9 @@
   <string name="cancel">Abbrechen</string>
   <string name="cannot_download">Kann nur \"http\" oder \"https\" URLs herunterladen</string>
   <string name="choosertitle_sharevia">Teilen mit</string>
-  <string name="clear_history">Lösche Verlauf</string>
-  <string name="clear_search_history">Lösche Suchverlauf</string>
+  <string name="clear_history">Verlauf löschen</string>
+  <string name="clear_most_visited">Meistbesuchte Seiten löschen</string>
+  <string name="clear_search_history">Suchverlauf löschen</string>
   <string name="clip_dialog_title">Kopierte Adresse aufrufen?</string>
   <string name="close_ads_choice_no">Bestätige</string>
   <string name="close_ads_choice_yes">Blockieren</string>
@@ -233,6 +242,13 @@
   <string name="have_sent_bookmark_to_home_screen">Auf Startbildschirm hinzugefügt</string>
   <string name="history_saved_webpage">Gespeicherte Seiten</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
+  <string name="homepage_delete_card_menu">Löschen</string>
+  <string name="homepage_get_location">Standort bestimmen</string>
+  <string name="homepage_get_location_failed">"Couldn't get info, choose a city"</string>
+  <string name="homepage_more_cards">Weitere Karten</string>
+  <string name="homepage_more_sites">Weitere Seiten</string>
+  <string name="homepage_search_hint">Suche</string>
+  <string name="homepage_top_card_menu">Top</string>
   <string name="in_incognito">"Sie sind im Tarnmodus (Inkognito)! Webseiten in dieser Registerkarte erscheinen nicht im Verlauf."</string>
   <string name="is_first_history_item">Dies ist die erste Seite in Ihrem Verlauf</string>
   <string name="is_first_tab">Dies ist die erste Registerkarte</string>
@@ -317,6 +333,11 @@
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">SD-Karte wird benötigt um diesen Pfad zu bearbeiten.</string>
   <string name="month_picker_dialog_title">Monat festlegen</string>
+  <string name="nav_bottom_bar_back">Zurück</string>
+  <string name="nav_bottom_bar_close_all">Alle schließen</string>
+  <string name="nav_bottom_bar_new_tab">Neuer Tab</string>
+  <string name="nav_screen_container_tab_incognito">Incognito Tab</string>
+  <string name="nav_screen_container_tab_normal">Normaler Tab</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Mit diesem Netzwerk verbinden</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Offenes Wi-Fi verfügbar</string>
   <string name="new_folder_name_lable">Gruppenname</string>
@@ -338,6 +359,7 @@
   <string name="pref_adblock_counts">%d geblockt</string>
   <string name="pref_adblock_title">Ad blocker</string>
   <string name="pref_auto_update_under_wifi">Automatische Update mit einer WLAN-Verbindung</string>
+  <string name="pref_category_hint">Kategorie</string>
   <string name="pref_check_security_url_summary">"Sende Seitenadresse an Mi-Server für eine Sicherheitsüberprüfung"</string>
   <string name="pref_check_security_url_title">Überprüfe URL Sicherheit</string>
   <string name="pref_clear_adblock_statistics">Lösche Werbeblockerverlauf</string>
@@ -356,6 +378,9 @@
   <string name="pref_content_search_engine">Suchanbieter festlegen</string>
   <string name="pref_content_search_engine_summary">Suchmaschiennbetreiber wählen</string>
   <string name="pref_enable_adblock_notification">Zeige Werbeblocker Benachrichtigungen</string>
+  <string name="pref_enable_news">News Alarm</string>
+  <string name="pref_enable_novels">Bücher Alarm</string>
+  <string name="pref_enable_videos">Videos Alarm</string>
   <string name="pref_extras_reset_default">Auf Standarteinstellungen zurücksetzen</string>
   <string name="pref_extras_reset_default_dlg">Einstellungen auf Standartwerte zurücksetzen?</string>
   <string name="pref_extras_reset_default_summary">Stelle Standartwerte wieder her</string>
@@ -374,6 +399,9 @@
   <string name="pref_force_userscalable_summary">"Override a website's request to control zoom behavior"</string>
   <string name="pref_general_title">Allgemein</string>
   <string name="pref_key_gesture_title">Tasten &amp; Gesten</string>
+  <string name="pref_notifications_hint">Benachrichtigungen</string>
+  <string name="pref_notifications_receive">Neuer Benachrichtigungs-Alarm</string>
+  <string name="pref_notifications_title">Benachrichtigungen</string>
   <string name="pref_other_title">Sonstige</string>
   <string name="pref_privacy_clear_cache">Cache leeren</string>
   <string name="pref_privacy_clear_cache_dlg">Lokale Cacheinhalte und Datenbanken löschen?</string>
@@ -488,6 +516,7 @@
   <string name="search_s139">139</string>
   <string name="search_settings_description">Lesezeichen und Verlauf</string>
   <string name="search_shipin">Video</string>
+  <string name="search_sm">SM</string>
   <string name="search_sogou">Sogou</string>
   <string name="search_taobao">Taobao</string>
   <string name="search_tupian">Image</string>
@@ -552,6 +581,7 @@
   <string name="url_find_on_page_result">In Browser betrachten</string>
   <string name="url_find_on_page_result_item">View all the text for \"%s\"</string>
   <string name="url_hint">Geben Sie eine Adresse ein oder durchsuchen Sie das Web</string>
+  <string name="url_hint_from_search">Suchnegriff eingeben</string>
   <string name="url_opened_in_background">Öffnen im Hintergrundregisterkarte.</string>
   <string name="url_suggest_indicator_bookmark">Lesezeichen/Verlauf</string>
   <string name="url_suggest_indicator_hoturl">Beliebt</string>
