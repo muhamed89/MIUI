@@ -81,7 +81,7 @@
   <string name="brightness_auto_adjust_on">Die Helligkeit wird je nach Umgebungslicht optimiert</string>
   <string name="btn_text_cleanup_all">Bereinige</string>
   <string name="btn_text_done">Fertig</string>
-  <string name="btn_text_power_cleanup">Tiefe Bereinigung</string>
+  <string name="btn_text_power_cleanup">Gründliche Bereinigung</string>
   <string name="btn_text_quick_cleanup">Bereinigen</string>
   <string name="btn_text_quick_optimize">Optimieren</string>
   <string name="btn_text_quick_scan">Scannen</string>
