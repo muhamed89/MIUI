@@ -7,6 +7,7 @@
   <string name="nav_local_favorite">Lieblingstitel</string>
   <string name="nav_local_song">Heruntergeladen</string>
   <string name="nav_online_artist">Interpreten</string>
+  <string name="page_local_setting">Einstellungen</string>
   <string name="action_item_add">Hinzufügen</string>
   <string name="action_item_add_song">Hinzufügen</string>
   <string name="action_item_add_to_current_playlist">Aktuelle Wiedergabeliste</string>
@@ -307,7 +308,6 @@
   <string name="only_online_can_select_quality">Du kannst nur die Audioqualität zum Streamen auswählen.</string>
   <string name="order_pending">Erwarte Bestätigung</string>
   <string name="order_process_fail">"Konto konnte nicht autorisiert werden. Warte einige Minuten und versuche es erneut."</string>
-  <string name="page_local_setting">Einstellungen</string>
   <string name="pay">Zahlung:</string>
   <string name="pay_now">Jetzt zahlen</string>
   <string name="payment_fail">Zahlung fehlgeschlagen</string>
