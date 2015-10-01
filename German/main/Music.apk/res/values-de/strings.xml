@@ -90,7 +90,7 @@
   <string name="dialog_title_name_playlist">Wiedergabeliste benennen</string>
   <string name="dialog_title_remove_tracks">Entfernen</string>
   <string name="dialog_title_track_picker">Titel auswählen</string>
-  <string name="disallow_add_to_personal_radio">Kann nicht zu benutzdefiniertem Radio hinzugefügt werden</string>
+  <string name="disallow_add_to_personal_radio">Kann nicht zu benutzerdefiniertem Radio hinzugefügt werden</string>
   <string name="done">Abgeschlossen</string>
   <string name="download">Herunterladen</string>
   <string name="download_all_song">Alle herunterladen</string>
@@ -122,7 +122,7 @@
   <string name="english_female">Weibliche Sänger aus Europa und Amerika</string>
   <string name="english_group">Musikgruppen aus Europa und Amerika</string>
   <string name="english_male">Männliche Sänger aus Europa und Amerika</string>
-  <string name="eq_auto">Benutzdefiniert</string>
+  <string name="eq_auto">Benutzerdefiniert</string>
   <string name="eq_blues">Blues</string>
   <string name="eq_classical">Klassisch</string>
   <string name="eq_country">Country</string>
@@ -179,7 +179,7 @@
   <string name="fragment_title_artist_album">Album</string>
   <string name="fragment_title_bill">Wiedergabeliste</string>
   <string name="fragment_title_channel">FM</string>
-  <string name="fragment_title_personal">Benutzdefiniert</string>
+  <string name="fragment_title_personal">Benutzerdefiniert</string>
   <string name="fragment_title_recommend">FEATURED</string>
   <string name="group_artist">Bands</string>
   <string name="handle_later">Jetzt nicht</string>
