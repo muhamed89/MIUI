@@ -373,8 +373,8 @@
   <string name="share_chooser_title">Teilen</string>
   <string name="share_description">Aus Mi Music</string>
   <string name="share_end_note">Aus Mi Music</string>
-  <string name="share_text_list">"Ich fand eine Wiedergabeliste über Mi Music:"</string>
-  <string name="share_text_song">"Ich fand ein Lied über Mi Music:"</string>
+  <string name="share_text_list">"Ich fand eine Wiedergabeliste über Mi Music: "</string>
+  <string name="share_text_song">"Ich fand ein Lied über Mi Music: "</string>
   <string name="similar_songs">Ähnliche Titel</string>
   <string name="sleep_mode">Schlummerfunktion</string>
   <string name="sleep_mode_canceled">Schlummerfunktion ausgeschaltet</string>
