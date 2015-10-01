@@ -79,7 +79,7 @@
   <string name="device_connected">Verbunden</string>
   <string name="device_not_connected">Nicht Verbunden</string>
   <string name="dialog_button_create_playlist">Erstelle Wiedergabeliste</string>
-  <string name="dialog_button_editor_choice">Featured</string>
+  <string name="dialog_button_editor_choice">Empfohlen</string>
   <string name="dialog_button_find_music">Entdecken</string>
   <string name="dialog_button_login">Anmelden um die Titel zu synchronisieren</string>
   <string name="dialog_button_scan_tracks">Suche nach Titeln auf dem Gerät</string>
