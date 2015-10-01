@@ -209,7 +209,7 @@ Hinweis: Eine Berechtigung könnte zur Systeminstabiltät, Datenverlust oder zu 
   <string name="HIPS_Perm_WIFI_Connectivity">WLAN</string>
   <string name="HIPS_Perm_WIFI_Connectivity_Desc">App kann WLAN aktivieren</string>
   <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s Apps können WLAN aktivieren</string>
-  <string name="HIPS_Perm_Wakelock">Prevent device from sleeping</string>
+  <string name="HIPS_Perm_Wakelock">Sleep-Mode verhindern</string>
   <string name="HIPS_Perm_Wakelock_Desc">App kann verhindern, dass das Gerät in den Sleep-Modus wechselt</string>
   <string name="HIPS_Perm_Wakelock_Hint">%1$s Apps können verhindern, dass das Gerät in den Sleep-Modus wechselt</string>
   <string name="HIPS_Perm_Xiaomi_Account">Mi Account</string>
@@ -217,7 +217,7 @@ Hinweis: Eine Berechtigung könnte zur Systeminstabiltät, Datenverlust oder zu 
   <string name="HIPS_Perm_Xiaomi_Account_Hint">%1$s Apps können auf deinen Mi Account zugreifen</string>
   <string name="HIPS_SecurityPrompt_Accept">Zulassen (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Zulassen</string>
-  <string name="HIPS_SecurityPrompt_Accept_Once">Allow Once (%d)</string>
+  <string name="HIPS_SecurityPrompt_Accept_Once">Einmalig zulassen (%d)</string>
   <string name="HIPS_SecurityPrompt_Caption">Sicherheitswarnung</string>
   <string name="HIPS_SecurityPrompt_Next">Weiter</string>
   <string name="HIPS_SecurityPrompt_ROOT_Caption">Root-Zugriff</string>
