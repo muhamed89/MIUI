@@ -368,7 +368,7 @@
   <string name="set_lyric_successful">Songtext gespeichert</string>
   <string name="set_ringtones_failed">"Klingelton konnte nicht eingestellt werden"</string>
   <string name="set_ringtones_successful">%s als Klingelton eingestellt</string>
-  <string name="share_append_text">Aus @小米音乐</string>
+  <string name="share_append_text">Aus @MIUI</string>
   <string name="share_chooser_title">Teilen</string>
   <string name="share_description">Aus Mi Music</string>
   <string name="share_end_note">Aus Mi Music</string>
