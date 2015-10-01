@@ -46,7 +46,7 @@
   <string name="app_version">Version %1$s</string>
   <string name="application">Apps</string>
   <string name="back">Zurück</string>
-  <string name="bedroom">Bettzimmer</string>
+  <string name="bedroom">Schlafzimmer</string>
   <string name="bind_stb_dlg">Verbinde die Set-Top-Box um den Kanal zu wechseln</string>
   <string name="bind_stb_dlg_agree">Jetzt verbinden</string>
   <string name="brand_device">%1$s %2$s</string>
