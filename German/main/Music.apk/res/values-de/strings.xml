@@ -212,7 +212,7 @@
   <string name="ktv_playlist">KTV Wiedergabeliste</string>
   <string name="like">Gefällt mir</string>
   <string name="list_detail_title">Details</string>
-  <string name="list_item_play_FM_radio">Berühren um UKW-Rundfunk abzuspielen</string>
+  <string name="list_item_play_FM_radio">Berühren um Radio zu hören</string>
   <string name="list_item_play_all_tracks">Alle abspielen</string>
   <string name="listview_index_of_total">%1$d/%2$d</string>
   <string name="loading_hint">Lade…</string>
@@ -228,7 +228,7 @@
   <string name="lyric_setting">Songtext Einstellungen</string>
   <string name="male_artist">Männlicher Interpret</string>
   <string name="max_sleep_time">90</string>
-  <string name="message_delete_playlist">Wiedergabeliste löschen %s ?</string>
+  <string name="message_delete_playlist">Wiedergabeliste löschen %s?</string>
   <string name="metered_alert">Datennutzung Warnung</string>
   <string name="metered_alert_msg">Durch das hören von Musik kann sich die Nutzung der mobilen Daten erhöhen. Wird das Limit zur Datennutzung überschritten, können Kosten entstehen. </string>
   <string name="metered_allow">Streamen</string>
