@@ -205,7 +205,8 @@
   <string name="in_searching_please_wait">Suche…</string>
   <string name="is_loading_data">Titel werden noch heruntergeladen. Versuche es nach ein bis zwei Minuten erneut.</string>
   <string name="is_scanning">Scanne, bitte warten.</string>
-  <string name="is_scanning_support_online">Scanne, bitte warten oder einen Titel online wählen.</string>
+  <string name="is_scanning_support_online">"Überprüfe Speicher...
+  (In der zwischenzeit können Sie Musik Online streamen)"</string>
   <string name="japan_korea_female">Weibliche Sänger aus Japan und Korea</string>
   <string name="japan_korea_group">Musikgruppen aus Japan und Korea</string>
   <string name="japan_korea_male">Männliche Sänger aus Japan und Korea</string>
