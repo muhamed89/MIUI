@@ -38,9 +38,9 @@
   <string name="ad_block_hint">%d blokiert</string>
   <string name="ad_install_monitor">Prüfe Apps nach Adware</string>
   <string name="ad_install_monitor_hint">Prüfe auf adware bei der Installation von Apps</string>
-  <string name="ad_permission_hint">"Die Verwendung des Werbeblockers könnte Apps beeinträchtigen' performance or prevent them from working normally."</string>
+  <string name="ad_permission_hint">"Die Verwendung des Werbeblockers könnte die Leistung oder Funktion von Apps beeinträchtigen."</string>
   <string name="ad_relative_setting">Weitere Einstellungen</string>
-  <string name="ad_single_block_hint">Blokiert</string>
+  <string name="ad_single_block_hint">Blockiert</string>
   <string name="ad_update_setting">Update</string>
   <string name="ad_update_time">Letzte Update: %s</string>
   <string name="ad_update_time_unKnown">Letzte Update: unbekannt</string>
