@@ -227,7 +227,7 @@
   <string name="legal_workday_invalidate_message">"Daten abgelaufen. Drücken Sie auf aktualisieren)</string>
   <string name="legal_workday_message">(Feiertage überspringen)</string>
   <string name="manual_handle_title">VERFÜGBARE FEATURES</string>
-  <string name="manual_item_white_list_summary">Prevent selected apps from being optimized</string>
+  <string name="manual_item_white_list_summary">Ausgewählte Apps werden nicht optimiert</string>
   <string name="manual_item_white_list_title">Ausnahmen</string>
   <string name="manual_white_list_header">%d Ausnahmen</string>
   <string name="memory_check_content_none">Leer</string>
