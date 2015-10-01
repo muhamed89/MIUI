@@ -3,7 +3,7 @@
 	<string name="language" value="de"/> 
     <string name="date_time" value="EE, dd. MMMM"/>
     <string name="date_time_12" value="EE, dd. MMMM"/>
-    <string name="desc_date_format" value="EEEE, dd.MMM."/>
-    <string name="desc_date_format_12" value="EEEE, dd.MMM."/>
+    <string name="desc_date_format" value="EEEE, dd.MM."/>
+    <string name="desc_date_format_12" value="EEEE, dd.MM."/>
     <string name="desc_time" value="'current time' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', 2x antippen um die Uhr-App zu öffnen'"/>
 </strings>
