@@ -59,7 +59,7 @@
   <string name="choose_download_quality">Download-Qualität einstellen</string>
   <string name="choose_stream_quality">Streaming-Qualität einstellen</string>
   <string name="click_modify">Berühren um Songtext zu bearbeiten.</string>
-  <string name="click_to_shuffle">Berühren für zufällige Wiedergabeliste</string>
+  <string name="click_to_shuffle">Zufallswiedergabe</string>
   <string name="click_to_view_new_local_audios">Berühren um Details anzuzeigen.</string>
   <string name="close_music_time">"Verbleibende Zeit: "</string>
   <string name="cloud_enable">Musik mit Mi Cloud synchronisieren</string>
