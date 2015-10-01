@@ -324,7 +324,7 @@
   <string name="please_select_song">Bitte wähle zuerst einen Titel</string>
   <string name="preset_music_playlist">Mi Music Wiedergabeliste</string>
   <string name="presonal_center">Kontoeinstellungen</string>
-  <string name="price">Preis:</string>
+  <string name="price">"Preis: "</string>
   <string name="priority_storage">Nutze die externe SD-Karte</string>
   <string name="priority_storage_summary">Die externe SD-Karte automatisch zum herunterladen nutzen falls verfügbar</string>
   <string name="project_device">Mi Phone</string>
@@ -335,7 +335,7 @@
   <string name="remove">Entfernen</string>
   <string name="renew">Überarbeiten:</string>
   <string name="renew_1">Überarbeiten</string>
-  <string name="renew_period">Laufzeit bis zur Erneuerung:</string>
+  <string name="renew_period">"Gültig bis: "</string>
   <string name="retry">Wiederholen</string>
   <string name="ringtone_not_support">"Das Audioformat wird nicht unterstützt"</string>
   <string name="search_album">Suche Album</string>
