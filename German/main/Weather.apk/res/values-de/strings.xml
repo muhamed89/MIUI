@@ -87,7 +87,7 @@
   <string name="view_aqi_time_format">yyyy/MM/dd HH:mm</string>
   <string name="view_aqi_title">Luftqualität</string>
   <string name="view_dropwater_title">Niederschlag</string>
-  <string name="view_forecast_item_yesterday">Gerstern</string>
+  <string name="view_forecast_item_yesterday">Gestern</string>
   <string name="view_indexes_item_today">Heute</string>
   <string name="view_indexes_item_tommorrow">Morgen</string>
   <string name="view_indexes_title_feel">Gefühlt (°C)</string>
