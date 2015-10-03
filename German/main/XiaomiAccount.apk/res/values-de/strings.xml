@@ -135,7 +135,7 @@
   <string name="mi_pass">Mi Pass</string>
   <string name="micloud_account_name">Mi Konto</string>
   <string name="micloud_area_code_title">Ländercode</string>
-  <string name="micloud_delete_account">Anmelden</string>
+  <string name="micloud_delete_account">Abmelden</string>
   <string name="micloud_error_empty_captcha_code">Captcha eintragen</string>
   <string name="micloud_error_empty_pwd">Passwort einfügen</string>
   <string name="micloud_reg_new">Mi Konto erstellen</string>
