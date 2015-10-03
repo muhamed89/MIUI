@@ -295,7 +295,7 @@
   <string name="operation_decompressing">Entpacke...</string>
   <string name="operation_del_fav">Removing from starred…</string>
   <string name="operation_delete">Löschen</string>
-  <string name="operation_delete_confirm_message">Ordner löschen?</string>
+  <string name="operation_delete_confirm_message">Löschen?</string>
   <string name="operation_delete_confirm_message_folder">"Alle im Ordner enthaltenen Dateien werden gelöscht. "</string>
   <string name="operation_deleting">Lösche...</string>
   <string name="operation_deleting_detail">Lösche (%1$d/%2$d)</string>
