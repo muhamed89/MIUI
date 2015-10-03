@@ -86,7 +86,7 @@
   <string name="fmt_weekday_time_timezone">W T z</string>
   <string name="fmt_weekday_timezone">W z</string>
   <string name="friday">Freitag</string>
-  <string name="friday_short">Fri</string>
+  <string name="friday_short">Fr</string>
   <string name="friday_shortest">F</string>
   <string name="heavenly_stems_bing">丙</string>
   <string name="heavenly_stems_ding">丁</string>
@@ -102,7 +102,7 @@
   <string name="label">MIUI SDK</string>
   <string name="midnight">AM</string>
   <string name="monday">Montag</string>
-  <string name="monday_short">Mon</string>
+  <string name="monday_short">Mo</string>
   <string name="monday_shortest">M</string>
   <string name="month_april">April</string>
   <string name="month_april_short">Apr</string>
@@ -157,7 +157,7 @@
   <string name="pm">PM</string>
   <string name="privacy_policy">Datenschutzerklärung</string>
   <string name="saturday">Samstag</string>
-  <string name="saturday_short">Sam</string>
+  <string name="saturday_short">Sa</string>
   <string name="saturday_shortest">S</string>
   <string name="select_all">Alle auswählen</string>
   <string name="select_item">Wähle aus</string>
@@ -203,7 +203,7 @@
   <string name="solar_term_winter_begins">Winter Begins</string>
   <string name="solar_term_winter_solstice">Winter Solstice</string>
   <string name="sunday">Sonntag</string>
-  <string name="sunday_short">Son</string>
+  <string name="sunday_short">So</string>
   <string name="sunday_shortest">S</string>
   <string name="sync_one_time_sync">Touch to sync ( %1$s )</string>
   <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
@@ -247,7 +247,7 @@
   <string name="the_valentines_day">Valentinstag</string>
   <string name="the_water_lantern_festival">Spirit Festival</string>
   <string name="thursday">Donnerstag</string>
-  <string name="thursday_short">Don</string>
+  <string name="thursday_short">Do</string>
   <string name="thursday_shortest">D</string>
   <string name="time_picker_dialog_title">Uhrzeit wählen</string>
   <string name="time_picker_label_hour">S</string>
@@ -255,7 +255,7 @@
   <string name="today">Heute</string>
   <string name="tomorrow">Morgen</string>
   <string name="tuesday">Dienstag</string>
-  <string name="tuesday_short">Die</string>
+  <string name="tuesday_short">Di</string>
   <string name="tuesday_shortest">D</string>
   <string name="user_agreement">Nutzungsbedingungen</string>
   <string name="user_manual">	Benutzerhandbuch</string>
@@ -263,7 +263,7 @@
   <string name="web_sso_login_message">Melde an…</string>
   <string name="website">Webseite</string>
   <string name="wednesday">Mittwoch</string>
-  <string name="wednesday_short">Mit</string>
+  <string name="wednesday_short">Mi</string>
   <string name="wednesday_shortest">M</string>
   <string name="yesterday">Gestern</string>
 </resources>
