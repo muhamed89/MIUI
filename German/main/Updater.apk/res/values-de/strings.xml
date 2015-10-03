@@ -23,7 +23,7 @@
   <string name="boot_recovery">Neustart zum Recovery-Modus?</string>
   <string name="button_text_check">Auf Aktualisierung überprüfen</string>
   <string name="button_text_later_reboot">Später</string>
-  <string name="button_text_reboot">Jetzt Neustart durchführen</string>
+  <string name="button_text_reboot">Neustart</string>
   <string name="button_text_reboot_hm">Jetzt Neustart durchführen</string>
   <string name="button_text_update">Update</string>
   <string name="cancel_download">Download der Aktualisierung abbrechen?</string>
