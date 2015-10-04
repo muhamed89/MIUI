@@ -12,7 +12,7 @@
     <string name="aqi_break"/>
     <string name="weather_type_0">Klar</string>
     <string name="weather_type_1">Bewölkt</string>
-    <string name="weather_type_2">Benebelt</string>
+    <string name="weather_type_2">Trüb</string>
     <string name="weather_type_3">Neblig</string>
     <string name="weather_type_4">Regenschauer</string>
     <string name="weather_type_5">Regensturm</string>
