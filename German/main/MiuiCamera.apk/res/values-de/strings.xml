@@ -274,7 +274,7 @@
   <string name="pref_front_mirror_entry_auto">Wenn Gesicht erkannt wird</string>
   <string name="pref_front_mirror_entry_off">Aus</string>
   <string name="pref_front_mirror_entry_on">An</string>
-  <string name="pref_front_mirror_title">Frontkameraspiegel</string>
+  <string name="pref_front_mirror_title">Frontkamera spiegeln</string>
   <string name="pref_manual_exposure_title">Manuelle Belichtung</string>
   <string name="pref_priority_storage_title">Vorrangig auf externer SD-Karte speichern</string>
   <string name="pref_qc_focus_position_title">Fokus</string>
