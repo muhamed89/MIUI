@@ -339,7 +339,7 @@
   <string name="nav_screen_container_tab_incognito">Incognito Tab</string>
   <string name="nav_screen_container_tab_normal">Normaler Tab</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Mit diesem Netzwerk verbinden</string>
-  <string name="network_show_wifi_setting_tip_dialog_title">Offenes Wi-Fi verfügbar</string>
+  <string name="network_show_wifi_setting_tip_dialog_title">Offenes WLAN verfügbar</string>
   <string name="new_folder_name_lable">Gruppenname</string>
   <string name="next_button_label">Weiter</string>
   <string name="no_matches">Keine Übereinstimmung</string>
@@ -586,7 +586,7 @@
   <string name="url_suggest_indicator_bookmark">Lesezeichen/Verlauf</string>
   <string name="url_suggest_indicator_hoturl">Beliebt</string>
   <string name="url_suggest_indicator_mostvisited">Meistbesucht</string>
-  <string name="use_cellular_network_alert_message">"Wi-Fi ist nich verfügbar. Benutze mobile Datenverbindung statt dessen?"</string>
+  <string name="use_cellular_network_alert_message">"WLAN nicht verfügbar. Stattdessen mobile Datenverbindung verwenden?"</string>
   <string name="use_cellular_network_alert_title">Datenverbrauch</string>
   <string name="user_defined_webpage">An Startseite hinzufügen</string>
   <string name="user_defined_webpage_title">An Startseite hinzufügen</string>
