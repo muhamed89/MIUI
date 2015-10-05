@@ -231,8 +231,8 @@
   <string name="preferences_clear_search_history_summary">"Entferne alle Suchvorgänge, welche Sie durchgeführt haben"</string>
   <string name="preferences_clear_search_history_title">Lösche Suchverlauf</string>
   <string name="preferences_default_reminder_default">10</string>
-  <string name="preferences_default_reminder_dialog">Standart Erinnerungszeit</string>
-  <string name="preferences_default_reminder_title">Standart Erinnerungszeit</string>
+  <string name="preferences_default_reminder_dialog">Standard Erinnerungszeit</string>
+  <string name="preferences_default_reminder_title">Standard Erinnerungszeit</string>
   <string name="preferences_general_title">Kalenderansicht Einstellungen</string>
   <string name="preferences_hide_declined_title">Abgelehnte Termine ausblenden</string>
   <string name="preferences_home_tz_default">Amerika/Los_Angeles</string>
@@ -252,7 +252,7 @@
   <string name="quick_response_email_failed">"Konnte keine E-Mail App finden"</string>
   <string name="quick_response_settings">Schnellantworten</string>
   <string name="quick_response_settings_edit_title">Schnellantwort</string>
-  <string name="quick_response_settings_summary">Ändere Standartantwort bei E-Mails mit Gästen</string>
+  <string name="quick_response_settings_summary">Ändere Standardantwort bei E-Mails mit Gästen</string>
   <string name="quick_response_settings_title">Ändere Schnellantworten</string>
   <string name="refresh">Aktualisieren</string>
   <string name="reminders_label">Erinnerung hinzufügen</string>
@@ -260,7 +260,7 @@
   <string name="repeat_custom_activity_label">Benutzerdefiniert</string>
   <string name="repeat_custom_prompt">Jeden %1$s an %2$s</string>
   <string name="repeat_custom_prompt_daily">Jeden %1$s</string>
-  <string name="repeat_custom_prompt_sentence">Thermin wird wiederholt %1$s</string>
+  <string name="repeat_custom_prompt_sentence">Termin wird wiederholt %1$s</string>
   <string name="repeat_custom_prompt_splitter">", "</string>
   <string name="repeat_custom_string_prefix">Benutzerdefiniert</string>
   <string name="repeat_custom_string_suffix">" (%1$s)"</string>
