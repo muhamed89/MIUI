@@ -337,15 +337,15 @@
   <string name="empty_email_tip">"Kann leere Nachricht nicht senden"</string>
   <string name="empty_spam">Spam leeren</string>
   <string name="empty_spam_dialog_title">Spam leeren?</string>
-  <string name="empty_trash">Mülleimer leeren</string>
+  <string name="empty_trash">Papierkorb leeren</string>
   <string name="empty_trash_dialog_title">Mülleimer leeren?</string>
   <string name="enable_sync_in_account_settings">Starte in %1$s.</string>
   <string name="enumeration_delimiter">" | "</string>
   <string name="exception_cancel">Dieses Ereignis wurde abgesagt von: %s</string>
   <string name="exception_updated">Die Details dieser Veranstaltung wurden geändert von: %s</string>
-  <string name="exchange_name">Zusammenarbeit</string>
+  <string name="exchange_name">Exchange</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
-  <string name="expand_recipient_details">Öffnen Empfänger Details</string>
+  <string name="expand_recipient_details">Öffne Empfänger Details</string>
   <string name="failed">"Bild konnte nicht geladen werden"</string>
   <string name="feedback">Rückmeldung abschicken</string>
   <string name="feedback_body">Nachricht</string>
@@ -455,7 +455,7 @@
   <string name="mailbox_name_display_outbox">Postausgang</string>
   <string name="mailbox_name_display_sent">gesendet</string>
   <string name="mailbox_name_display_starred">Markierte</string>
-  <string name="mailbox_name_display_trash">Müll</string>
+  <string name="mailbox_name_display_trash">Papierkorb</string>
   <string name="mailbox_name_display_unread">Ungelesen</string>
   <string name="mailbox_settings_activity_title">Synchronisierungseinstellungen</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Synchronisierungseinstellungen (%s)</string>
