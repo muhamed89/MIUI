@@ -125,7 +125,7 @@
   <string name="account_setup_options_mail_window_3days">Letzten 3 Tage</string>
   <string name="account_setup_options_mail_window_all">Alles</string>
   <string name="account_setup_options_mail_window_auto">Automatisch</string>
-  <string name="account_setup_options_mail_window_default">Verwende Standartkonto</string>
+  <string name="account_setup_options_mail_window_default">Verwende Standardkonto</string>
   <string name="account_setup_options_mail_window_label">Synchronisiere Mails von</string>
   <string name="account_setup_options_title">Kontoeinstellungen</string>
   <string name="account_setup_outgoing_port_label">Port</string>
@@ -282,11 +282,11 @@
   <string name="date_heading">"Datum: "</string>
   <string name="date_message_received">%1$s %2$s</string>
   <string name="date_message_received_today">Heute, %1$s</string>
-  <string name="default_">STANDART</string>
+  <string name="default_">STANDARD</string>
   <string name="default_exchange">EXCHANGE</string>
   <string name="default_imap">IMAP</string>
   <string name="default_pop3">POP3</string>
-  <string name="default_setup">STANDARTEINSTELLUNGEN</string>
+  <string name="default_setup">STANDARDEINSTELLUNGEN</string>
   <string name="default_signature">Gesendet von meinem Mi Telefon</string>
   <string name="delete">Löschen</string>
   <string name="deleted">Gelöscht</string>
