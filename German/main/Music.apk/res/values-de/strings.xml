@@ -191,8 +191,8 @@
   <string name="home_tab_online">Entdecken</string>
   <string name="i_know">Bestätigen</string>
   <string name="i_know_it">Bestätigen</string>
-  <string name="impunity_declaration_content1">"Mit der Bestätigung akzeptierst Du unsere Geschäftsbedingungen"</string>
-  <string name="impunity_declaration_content2">Benutzerbestätigung</string>
+  <string name="impunity_declaration_content1">"Mit der Bestätigung akzeptierst Du unsere "</string>
+  <string name="impunity_declaration_content2">Nutzungsbedingungen</string>
   <string name="impunity_declaration_content3">" und "</string>
   <string name="impunity_declaration_content4">Datenschutzerklärung</string>
   <string name="impunity_declaration_content5">.</string>
