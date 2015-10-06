@@ -252,12 +252,12 @@
   <string name="pref_camera_video_duration_entry_10">10 Minuten</string>
   <string name="pref_camera_video_duration_entry_120">Keine Einschränkung</string>
   <string name="pref_camera_video_duration_entry_30">30 Minuten</string>
-  <string name="pref_camera_video_duration_entry_mms">30 Sekunde(MMS)</string>
+  <string name="pref_camera_video_duration_entry_mms">30 Sekunden(MMS)</string>
   <string name="pref_camera_volumekey_function_entry_exposure">Belichtung</string>
   <string name="pref_camera_volumekey_function_entry_shutter">Auslöser</string>
   <string name="pref_camera_volumekey_function_entry_volume">Lautstärke</string>
   <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
-  <string name="pref_camera_volumekey_function_title">Funktion Lautstärketasten</string>
+  <string name="pref_camera_volumekey_function_title">Funktion der Lautstärketasten</string>
   <string name="pref_camera_watermark_title">Wasserzeichen</string>
   <string name="pref_camera_whitebalance_entry_auto">Auto</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Bewölkt</string>

@@ -4,7 +4,7 @@
   <string name="accessibility_add_reminder">Erinnerung hinzufügen</string>
   <string name="accessibility_all_day">Ganztägiges Ereignis</string>
   <string name="accessibility_pick_end_date">Enddatum</string>
-  <string name="accessibility_pick_end_time">AN</string>
+  <string name="accessibility_pick_end_time">BIS</string>
   <string name="accessibility_pick_start_date">Startdatum</string>
   <string name="accessibility_pick_start_time">VON</string>
   <string name="accessibility_pick_time_zone">Zeitzone</string>
@@ -114,7 +114,7 @@
   <string name="edit_event_label">Einzelheiten</string>
   <string name="edit_event_reminder_off_toast">Erinnerungen sind ausgeschaltet</string>
   <string name="edit_event_show_all">Zeige alle</string>
-  <string name="edit_event_to_label">An</string>
+  <string name="edit_event_to_label">Bis</string>
   <string name="edit_label">Bearbeite</string>
   <string name="email_guests_label">E-Mail an Gäste</string>
   <string name="email_picker_label">E-Mail mit</string>
@@ -280,8 +280,8 @@
   <string name="repeat_lunar_yearly"/>
   <string name="repeat_month_day_splitter">" "</string>
   <string name="repeat_week_info">" %1$s %2$s"</string>
-  <string name="repeats_label">Wiederhole</string>
-  <string name="response_maybe">Vieleicht</string>
+  <string name="repeats_label">Wiederholen</string>
+  <string name="response_maybe">Vielleicht</string>
   <string name="response_no">Nein</string>
   <string name="response_yes">Ja</string>
   <string name="rest_day_indication">: )</string>

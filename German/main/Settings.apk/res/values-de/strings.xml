@@ -1071,7 +1071,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="drive_mode_sms_auto_sms_reply">Auf SMS antworten</string>
   <string name="drive_mode_sms_report">Nachrichten</string>
   <string name="drive_mode_title">Fahrzeugmodus</string>
-  <string name="drive_mode_voice_report">Text-zu-Sprache</string>
+  <string name="drive_mode_voice_report">Text-in-Sprache</string>
   <string name="dtmf_tone_enable_title">Wahltastentöne</string>
   <string name="edge_mode_back">Zurück</string>
   <string name="edge_mode_back_summary">Die Handykante doppelt antippen, um zurück zu gelangen</string>
