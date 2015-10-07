@@ -13,7 +13,7 @@
   <string name="account_bind_settings">Konten</string>
   <string name="account_binded_phone">Gerät %d</string>
   <string name="account_crop_user_avatar">Bild zuschneiden</string>
-  <string name="account_dspt_provision">"Melde dich von überall für die Mi Cloud, den MIUI Theme Store und andere Mi Dienste an."</string>
+  <string name="account_dspt_provision">"Melden Sie sich von überall für die Mi Cloud, den MIUI Theme Store und andere Mi Dienste an."</string>
   <string name="account_dspt_provision2">Erfahre mehr</string>
   <string name="account_empty_user_name">Füge deinen Mi Benutzernamen ein</string>
   <string name="account_error_longer_user_name">"Der Benutzername darf nicht mehr als 20 Ziffern enthalten"</string>
@@ -245,7 +245,7 @@
   <string name="passport_re_register">Erneut anmelden</string>
   <string name="passport_recycle_account_prompt">Ist das Ihr Mi Konto?</string>
   <string name="passport_reg_failed">"Konto kann nicht erstellt werden"</string>
-  <string name="passport_reg_new">Erstelle kostenlos ein Mi Konto</string>
+  <string name="passport_reg_new">Erstellen Sie kostenlos ein Mi Konto</string>
   <string name="passport_reg_sms_send_prompt">Sende den Bestätigungscode an %s</string>
   <string name="passport_reg_success">Konto erstellt</string>
   <string name="passport_reg_success_summary">%1$s wurde mit dem Konto verknüpft. Sie können es verwenden um sich anzumelden oder Ihr Passwort zu ändern.</string>
@@ -274,7 +274,7 @@
   <string name="passport_reset_password_title">Passwort zurücksetzen</string>
   <string name="passport_restart">Erneut beginnen</string>
   <string name="passport_restart_register_prompt">Eine weitere Bestätigungsnachricht wird für Ihr Konto benötigt.</string>
-  <string name="passport_restart_register_title">Erstelle ein Mi Konto</string>
+  <string name="passport_restart_register_title">Mi Konto erstellen</string>
   <string name="passport_send_too_many_code">Zu viele Bestätigungscodes wurden an die Adresse versendet. Warte 24 Stunden und versuche es erneut.</string>
   <string name="passport_setting">Konfiguriere…</string>
   <string name="passport_sim_index_info">SIM-Karte %1$d - %2$s</string>
@@ -317,11 +317,11 @@
   <string name="quick_login_dialog_title">Passwort verifizieren</string>
   <string name="quick_login_step2_title">2-Schritte Verifizierung</string>
   <string name="quick_login_title">Passwort eingeben</string>
-  <string name="re_register">Erstelle kostenlos ein Mi Konto</string>
+  <string name="re_register">Erstellen Sie kostenlos ein Mi Konto</string>
   <string name="reg_failed">"Konto kann nicht erstellt werden"</string>
   <string name="reging">Konto wird erstellt…</string>
-  <string name="register">Erstelle ein Mi Konto</string>
-  <string name="register_by_email"><u>Nutze andere Möglichkeiten um ein Mi Konto zu erstellen</u></string>
+  <string name="register">Mi Konto erstellen</string>
+  <string name="register_by_email"><u>E-Mail-Adresse verwenden um ein Mi Konto zu erstellen</u></string>
   <string name="relogin">Erneut anmelden</string>
   <string name="remove_account_notice">Was möchten Sie mit Ihren Nachrichten, Kontakten und anderen synchronisierten Daten in Ihrem Mi Konto anstellen?</string>
   <string name="remove_device_success_notice">Wenn Sie das Gerät von den vertrauten Geräten entfernst, müssen Sie den den Anmeldevorgang erneut durchlaufen um sich wieder anzumelden.</string>
@@ -343,7 +343,7 @@
   <string name="theme_store">MIUI Themes Store</string>
   <string name="theme_store_dspt">Passen Sie das Aussehen an. Hunderte frei anpassbare Designs sind verfügbar, um Ihr Gerät einzigartig zu machen.</string>
   <string name="timeout_retry">Zeitüberschreitung. Versuche es erneut.</string>
-  <string name="title_reg">Konto Erstellen</string>
+  <string name="title_reg">Konto erstellen</string>
   <string name="trust_device">Gerät als vertrauenswürdig einstufen</string>
   <string name="trying_read_verify_code_sms">Bestätigungscode versenden…</string>
   <string name="unbind_sns_description">"Nachdem Sie sich vom Konto abgemeldet haben, können Sie Ihr %s Konto nicht mehr verwenden um sich anzumelden."</string>
