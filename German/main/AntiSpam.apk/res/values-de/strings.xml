@@ -165,7 +165,7 @@
   <string name="mark_time_setting_dialog_title">Nummer melden</string>
   <string name="mark_time_text">%d</string>
   <string name="marked_by_others">"%d haben andere Nutzer gemeldet "</string>
-  <string name="marked_by_user">"Du hast es markiert als "</string>
+  <string name="marked_by_user">"Sie markierten es als "</string>
   <string name="menu_add">Hinzufügen</string>
   <string name="menu_add_into_contact">Zu einem bereits vorhandenen Kontakt hinzufügen</string>
   <string name="menu_add_new_contact">Neuer Kontakt</string>

@@ -246,7 +246,7 @@
   <string name="my_photo_desc" />
   <string name="my_video">Videos</string>
   <string name="my_video_desc" />
-  <string name="name_empty">Du mußt einen Namen eingeben.</string>
+  <string name="name_empty">Sie müssen einen Namen eingeben.</string>
   <string name="net_lose_connected">Verbindung unterbrochen.</string>
   <string name="networkView_notConnected">Netzwerk nicht verfügbar</string>
   <string name="network_connect_confirm_des">Kuaipan wird auf das Internet zugreifen. Zulassen?</string>
@@ -254,27 +254,27 @@
   <string name="new_folder_name">Neuer Ordner</string>
   <string name="no">Nein</string>
   <string name="no_app_tags">Empty</string>
-  <string name="no_display_file">"Can't display %1$s"</string>
+  <string name="no_display_file">"%1$s kann nicht angezeigt werden"</string>
   <string name="no_enough_storage_indication">Gerätespeicher ist voll.</string>
   <string name="no_enough_storage_title">Nicht genügend Speicherplatz</string>
   <string name="no_file">Keine Dateien.</string>
   <string name="no_more_space">Nicht genügend Speicherplatz.</string>
-  <string name="no_recent_files">No recent files</string>
+  <string name="no_recent_files">Keine kürzlich verwendeten Dateien</string>
   <string name="no_tasks">Keine Aufgaben.</string>
   <string name="no_wifi">Keine WLAN-Verbindung gefunden.</string>
   <string name="no_wifi_hint">Keine Verbindung</string>
   <string name="notif_server_starting">Starte FTP-Server...</string>
   <string name="notif_title">FTP-Server läuft.</string>
-  <string name="notification_content_hint">Tap to view</string>
+  <string name="notification_content_hint">Zum Anzeigen antippen</string>
   <string name="notification_dialog_confirm">OK</string>
-  <string name="notification_dialog_content">Automatically notify and organize when files are added or changed in %1$s.</string>
-  <string name="notification_dialog_title">Notifications</string>
+  <string name="notification_dialog_content">Benachrichtigen wenn Dateien in %1$s hinzugefügt oder geändert werden.</string>
+  <string name="notification_dialog_title">Benachrichtigungen</string>
   <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
-  <string name="notification_setting">Notifications</string>
-  <string name="notification_summary">"%1$s doesn't support this feature yet"</string>
-  <string name="notification_title">Notify when new files are added to %1$s</string>
-  <string name="notification_wechat_title">Notify me when a WeChat video is about to expire</string>
-  <string name="online_not_support">"Can't view this file online at the moment."</string>
+  <string name="notification_setting">Benachrichtigungen</string>
+  <string name="notification_summary">"%1$s unterstützt diese Funtkion nicht"</string>
+  <string name="notification_title">Benachrichtigen wenn Dateien zu %1$s hinzugefügt werden</string>
+  <string name="notification_wechat_title">Benachrichtigen, wenn WeChat Video abläuft</string>
+  <string name="online_not_support">"Diese Datei kann im Moment nicht online angezeigt werden."</string>
    <string name="open_changed_file_message">"Datei die Sie öffnen möchten wurde geändert. Sie können:
 1. die Datei erneut runterladen
 2. in Ihr KuaiPan konto hochladen"</string>

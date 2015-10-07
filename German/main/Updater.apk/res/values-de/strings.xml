@@ -100,10 +100,10 @@
   <string name="not_open">Auschalten</string>
   <string name="notification_auto_reboot_seccess_title">Gerät wurde automatisch aktualisiert</string>
   <string name="notification_downloading">Update wird heruntergeladen…</string>
-  <string name="notification_load_body_alpha">Lade die neusten Updates für dein Gerät herunter.</string>
-  <string name="notification_load_body_dev">Lade die neusten Updates für dein Gerät herunter.</string>
-  <string name="notification_load_title_alpha">Melde dich mit deinem Mi Account an</string>
-  <string name="notification_load_title_dev">Melde dich mit deinem Mi Account an</string>
+  <string name="notification_load_body_alpha">Laden Sie die neusten Updates für Ihr Gerät herunter.</string>
+  <string name="notification_load_body_dev">Laden Sie die neusten Updates für Ihr Gerät herunter.</string>
+  <string name="notification_load_title_alpha">Melden Sie sich mit Ihrem Mi Konto an</string>
+  <string name="notification_load_title_dev">Melden Sie sich mit Ihrem Mi Konto an</string>
   <string name="notification_reboot_btn">Neustart</string>
   <string name="notification_reboot_seccess_des">Drücke hier, um Informationen über die Update zu teilen.</string>
   <string name="notification_reboot_seccess_title">Gerät wurde erfolgreich aktualisiert</string>
@@ -178,7 +178,7 @@ Sie können aber nächsten Monat mitmachen."</string>
   <string name="update_feedback_need_account">Sie müssen sich zuerst mit Ihrem Mi Account anmelden</string>
   <string name="update_feedback_need_network">Bitte erst mit dem Netzwerk verbinden</string>
   <string name="update_feedback_need_update">Sie müssen zuerst die letzte Aktualisierung (Build) installieren.</string>
-  <string name="update_feel">Was hälst Du von dem Update?</string>
+  <string name="update_feel">Was halten Sie von diesem Update?</string>
   <string name="update_general">So-so</string>
   <string name="update_happy">Zufrieden!</string>
   <string name="update_monthly_build_only">Nur monatliche Aktualisierungen</string>

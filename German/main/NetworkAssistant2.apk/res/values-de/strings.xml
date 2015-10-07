@@ -410,7 +410,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="see_detail">Details</string>
   <string name="setting_traffic_pkg">Datenpakete einstellen</string>
   <string name="settings">Einstellung zur Datennutzung</string>
-  <string name="show_traffic_dialog_message">Deine Datennutzung wird in der Statusleiste angezeigt. Du kannst diese Funktion in den Einstellungen der Datennutzung jederzeit verändern. &gt; </string>
+  <string name="show_traffic_dialog_message">Ihre Datennutzung wird in der Statusleiste angezeigt. Sie können diese Funktion in den Einstellungen der Datennutzung jederzeit verändern.</string>
   <string name="show_traffic_dialog_title">Zeige Verbrauch in der Statusleiste</string>
   <string name="signal_exception_summary">"In diesem Bereich kann zu keinem Netzwerk verbunden werden."</string>
   <string name="signal_exception_title">Teste Signalstärke</string>

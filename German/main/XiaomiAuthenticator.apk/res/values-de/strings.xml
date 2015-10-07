@@ -151,7 +151,7 @@ Das Datum &amp; Zeiteinstellungen auf diesem Gerät wurden nicht geändert."</st
   <string name="timesync_sync_now_time_corrected_dialog_title">Zeit ist korrekt</string>
   <string name="tip1_patternforgotten">Neu installieren und reaktivieren</string>
   <string name="tip2_patternforgotten">Reset antippen, um Kontodaten zu löschen und zu reaktivieren.</string>
-  <string name="tip_lockpattern">Dein Passwort muss länger als 4 Zeichen sein</string>
+  <string name="tip_lockpattern">Ihr Passwort muss länger als 4 Zeichen sein</string>
   <string name="title_change_lockpattern">Entsperrmuster konfigurieren</string>
   <string name="title_createpattern">Passwort erstellen</string>
   <string name="title_forgetpattern">Passwort vergessen</string>
@@ -163,7 +163,7 @@ Das Datum &amp; Zeiteinstellungen auf diesem Gerät wurden nicht geändert."</st
   <string name="title_password">Passwort</string>
   <string name="title_password_threshold">tägliches Limit = ￥%1$s</string>
   <string name="title_patternforgotten">"Passwort vergessen？
-Du kannst："</string>
+Sie können："</string>
   <string name="title_updatepattern">Passwort ändern</string>
   <string name="title_visible_pattern">Muster sichtbar machen</string>
   <string name="type_prompt">Schlüsseltyp</string>

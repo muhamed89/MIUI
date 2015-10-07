@@ -10,7 +10,7 @@
   <string name="add_device">Neues Gerät verbinden</string>
   <string name="add_device_match_desc_bottom">    3. Verbindung bestätigen</string>
   <string name="add_device_match_desc_center">    2. Das Icon darüber antippen</string>
-  <string name="add_device_match_desc_top">    1. Richte dein Mi Gerät auf dein/e %1$s</string>
+  <string name="add_device_match_desc_top">    1. Richten Sie Ihr Mi Gerät auf Ihre %1$s</string>
   <string name="add_device_remote">Verbinde %1$s</string>
   <string name="add_more">Mehr Infrarot-Geräte hinzufügen</string>
   <string name="add_new_control">Neue Fernbedienung verbinden</string>
@@ -234,7 +234,7 @@
   <string name="match_intro_power">Freigeben wenn das Gerät angeht</string>
   <string name="match_is_respond">Stimmt das überein?</string>
   <string name="match_mibox_first">    Mi TV in der Nähe</string>
-  <string name="match_mibox_sencond">    · Kontrolliere dein Mi TV mit diesem Gerät.</string>
+  <string name="match_mibox_sencond">    · Kontrollieren Sie Mi TV mit diesem Gerät.</string>
   <string name="match_mibox_third">    · Verbinde andere Mi Geräte automatisch</string>
   <string name="match_name_power">Power</string>
   <string name="match_stb_intro_left">Freigeben wenn der Cursor sich nach links bewegt</string>
@@ -327,7 +327,7 @@ Um Ihr Konto zu aktivieren, folgen Sie den
   <string name="passport_dspt_provision2">Erfahren Sie mehr</string>
   <string name="passport_email">Email-Adresse</string>
   <string name="passport_email_or_id_hint_text">Email-Adresse oder Mi Account ID</string>
-  <string name="passport_email_reg_success_summary">%1$s wurde mit deinem Konto verbunden. Du kannst dich damit anmelden oder dein Passwort zurücksetzen.</string>
+  <string name="passport_email_reg_success_summary">%1$s wurde mit Ihrem Konto verbunden. Sie können dich damit anmelden oder Ihr Passwort zurücksetzen.</string>
   <string name="passport_error_device_id">"Kann keine Geräte-ID erhalten"</string>
   <string name="passport_error_dup_email">Diese Email ist schon mit einem anderen Konto verbunden</string>
   <string name="passport_error_dup_phone">Diese Telefonnummer ist bereits mit einem anderen Konto verbunden</string>

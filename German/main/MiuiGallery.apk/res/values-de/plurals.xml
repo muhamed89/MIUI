@@ -79,8 +79,8 @@
         <item quantity="one">%d Ordner</item>
     </plurals>
     <plurals name="message_no_delete_access_with_count">
-        <item quantity="other">"Du hast keine Rechte um %d Dateien zu löschen."</item>
-        <item quantity="one">"Du hast keine Rechte um %d Datei zu löschen."</item>
+        <item quantity="other">"Sie haben keine Rechte, um %d Dateien zu löschen."</item>
+        <item quantity="one">"Sie haben keine Rechte, um %d Datei zu löschen."</item>
     </plurals>
     <plurals name="pick_with_limited_upper_bound_title">
         <item quantity="other">Sie können %d Artikel auswählen</item>
