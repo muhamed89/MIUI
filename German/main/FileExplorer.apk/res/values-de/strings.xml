@@ -392,7 +392,7 @@
   <string name="signin_error">Verbindung zum Server fehlgeschlagen. Netzwerkverbindung prüfen.</string>
   <string name="signin_success">"Sie sind angemeldet!
 %1$s kostenlosen Speicherplatz hinzugefügt"</string>
-  <string name="smb_loading">Just a sec…</string>
+  <string name="smb_loading">Einen Moment…</string>
   <string name="space_info">KuaiPan: %1$s von %2$s verfügbar</string>
   <string name="space_usage">Belegter Speicher</string>
   <string name="start_server">Start</string>
@@ -400,7 +400,7 @@
   <string name="stay_awake_summary">Während einer FTP-Übertragung nie ausschalten</string>
   <string name="stay_awake_title">Bildschirm aktiv</string>
   <string name="stop_server">Stopp</string>
-  <string name="storage_info">%1$s available</string>
+  <string name="storage_info">%1$s verfügbar</string>
   <string name="storage_info_detail">Verfügbar:%1$s Gesamt:%1$s</string>
   <string name="storage_internal">Interner Speicher</string>
   <string name="storage_internal_description">Interner Speicher</string>
