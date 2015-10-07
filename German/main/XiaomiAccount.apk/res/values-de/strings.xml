@@ -15,7 +15,7 @@
   <string name="account_crop_user_avatar">Bild zuschneiden</string>
   <string name="account_dspt_provision">"Melde dich von überall für die Mi Cloud, den MIUI Theme Store und andere Mi Dienste an."</string>
   <string name="account_dspt_provision2">Erfahre mehr</string>
-  <string name="account_empty_user_name">Füge deinen Mi Nutzernamen ein</string>
+  <string name="account_empty_user_name">Füge deinen Mi Benutzernamen ein</string>
   <string name="account_error_longer_user_name">"Der Benutzername darf nicht mehr als 20 Ziffern enthalten"</string>
   <string name="account_error_shorter_user_name">Der Benutzername muss mehr als zwei Ziffern enthalten</string>
   <string name="account_error_user_birthday">Das Geburtsdatum ist ungültig</string>

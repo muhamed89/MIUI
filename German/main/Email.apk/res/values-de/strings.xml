@@ -527,7 +527,7 @@
   <string name="more_context">Mehr</string>
   <string name="more_string">+%1$s</string>
   <string name="move_to_selection_dialog_title">Verschiebe in einem anderen Ordner</string>
-  <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt;"   %2$s"</string>
+  <string name="multiple_new_message_notification_item"><b>1$s</b>"   %2$s"</string>
   <string name="mute">Stumm</string>
   <string name="network_error">Keine Verbindung</string>
   <string name="network_not_available">"Verbindung zum Netzwerk fehlgeschlagen"</string>
@@ -832,7 +832,7 @@
   <string name="via_domain">via %1$s</string>
   <string name="view_more_conversations">Weitere Gespräche</string>
   <string name="wait_for_manual_sync_body">"Dieses Konto ist nicht für die automatische Synchronisierung festlegen.
-Tippen Sie "&lt;b&gt;Jetzt synchronisieren&lt;/b&gt; um E-Mails einmal zu synchronisieren, oder &lt;b&gt;Ändere Synchronisationseinstellungen&lt;/b&gt; zum Einrichten dieses Konto, um E-Mails automatisch zu synchronisieren.</string>
+Tippen Sie "<b>Jetzt synchronisieren</b> um E-Mails einmal zu synchronisieren, oder <b>Ändere Synchronisationseinstellungen</b> zum Einrichten dieses Konto, um E-Mails automatisch zu synchronisieren.</string>
   <string name="wait_for_sync_title">Warten auf Synchronisierung</string>
   <string name="widget_all_mail">Alle E-Mails</string>
   <string name="widget_large_unread_count">%d+</string>
