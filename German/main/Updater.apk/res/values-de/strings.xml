@@ -76,9 +76,9 @@
   <string name="loading">Anfrage…</string>
   <string name="log_share">Teilen</string>
   <string name="menu_title_current_version_log">"Was ist neu (Changelog)"</string>
-  <string name="menu_title_download_current_rom">Aktualisierung herunterladen</string>
-  <string name="menu_title_pick_rom_file">Wählen Sie ein Updatepaket</string>
-  <string name="menu_title_recovery">Neustart in den Recovery-Modus</string>
+  <string name="menu_title_download_current_rom">Aktuelles Rom runterladen</string>
+  <string name="menu_title_pick_rom_file">Von SD-Karte installieren</string>
+  <string name="menu_title_recovery">Neustart ins Recovery</string>
   <string name="miui_BBS">" "&lt;a href="http://bbs.miui.com"&gt;Gehe zum MIUI forum&lt;/a&gt;" "</string>
   <string name="miui_summary_has_new_version">" Aktualisierung verfügbar "</string>
   <string name="miui_summary_no_new_version">Keine Aktualisierungen verfügbar</string>
@@ -97,7 +97,7 @@
   <string name="no_log">Keine Zusammenfassung verfügbar</string>
   <string name="no_wifi_msg">"Der Download über das mobile Datennetzwerk wird Ihren Verbrauch deutlich erhöhen. Sollten Sie über keine Internet-Flatrate verfügen, dann könnten zusätzliche Kosten bei Ihrem Betreiber entstehen."</string>
   <string name="no_wifi_title">Datenverbrauch Warnung</string>
-  <string name="not_open">Nicht jetzt</string>
+  <string name="not_open">Auschalten</string>
   <string name="notification_auto_reboot_seccess_title">Gerät wurde automatisch aktualisiert</string>
   <string name="notification_downloading">Update wird heruntergeladen…</string>
   <string name="notification_load_body_alpha">Lade die neusten Updates für dein Gerät herunter.</string>
@@ -115,7 +115,7 @@
   <string name="notification_update_now">Update jetzt durchführen</string>
   <string name="notification_updating">Aktualisiere…</string>
   <string name="on_checking">Überprüfe…</string>
-  <string name="open_now">Anstellen</string>
+  <string name="open_now">Aktivieren</string>
   <string name="particular_build">Einzelheiten</string>
   <string name="pause">Pause</string>
   <string name="previous">Vorherige</string>
