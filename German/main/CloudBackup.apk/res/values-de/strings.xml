@@ -12,7 +12,7 @@
   <string name="button_cancel">Abbrechen</string>
   <string name="button_delete">Löschen</string>
   <string name="button_next">Weiter</string>
-  <string name="cancel_recover_settings">&lt;u&gt;Abbrechen&lt;/u&gt;</string>
+  <string name="cancel_recover_settings"><u>Abbrechen</u></string>
   <string name="click_try_to_restore_again">Berühren, um es noch einmal zu versuchen</string>
   <string name="cloud_app_backup_success">App-Sicherung abgeschlossen</string>
   <string name="cloud_app_check_data">Verbinde mit Mi Cloud…</string>
@@ -30,7 +30,7 @@
   <string name="cloud_restore_from_other_device">"Stoppe Wiederherstellung von %s und lösche diese Sicherung? Sie können diese Aktion nicht rückgängig machen."</string>
   <string name="cloud_restore_task">Wiederherstellung…</string>
   <string name="cloud_task_in_process">"Stoppe %s und lösche diese Sicherung? Sie können diese Aktion nicht rückgängig machen."</string>
-  <string name="customization">&lt;u&gt;Bearbeite&lt;/u&gt;</string>
+  <string name="customization"><u>Benutzerdefiniert</u></string>
   <string name="deskclock_backup">Wecker</string>
   <string name="desktop_downloading">Lade</string>
   <string name="desktop_installing">Installiere</string>

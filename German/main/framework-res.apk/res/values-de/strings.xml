@@ -111,7 +111,7 @@ Der Energiesparmodus endet automatisch, wenn Ihr Gerät aufgeladen wird."</strin
   <string name="bugreport_title">Fehlerbericht abrufen</string>
   <string name="byteShort">B</string>
   <string name="cancel">Abbrechen</string>
-  <string name="candidates_style">&lt;u&gt;Kandidaten&lt;/u&gt;</string>
+  <string name="candidates_style"><u>Kandidaten</u></string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">Skripts können installiert werden, um den Zugriff auf App-Inhalte zu erleichtern.</string>
   <string name="capability_desc_canRequestFilterKeyEvents">Einschließlich personenbezogener Daten wie Kreditkartennummern und Passwörter.</string>
   <string name="capability_desc_canRequestTouchExploration">Berührte Elemente werden laut vorgelesen und der Bildschirm kann über Gesten erkundet werden.</string>

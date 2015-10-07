@@ -500,7 +500,7 @@ Ihr monatlich eingestelltes Limit ist %1$s. Dies unterscheidet sich vom dem manu
   <string name="traffic_protection_next">Weiter</string>
   <string name="traffic_protection_summary">Alarm wenn der Datenverbrauch eine bestimmte Grenze überschreitet</string>
   <string name="traffic_protection_text_hint">Datenlimit für %s einstellen</string>
-  <string name="traffic_protection_unknown">&lt;u&gt;Später einstellen&lt;/u&gt;</string>
+  <string name="traffic_protection_unknown"><u>Später einstellen</u></string>
   <string name="traffic_protection_use_data">Datenverbindung aktiviert</string>
   <string name="traffic_purchase_body">Antippen, um Ihr Guthaben aufzuladen.</string>
   <string name="traffic_purchse_suggestion">Datenlimit überschritten</string>
