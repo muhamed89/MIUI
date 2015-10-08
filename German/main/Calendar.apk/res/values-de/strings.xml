@@ -275,7 +275,7 @@
   <string name="repeat_label_choose_week">Wähle Woche</string>
   <string name="repeat_label_day">Tag</string>
   <string name="repeat_label_frequency">Häufigkeit</string>
-  <string name="repeat_label_interval">Jede</string>
+  <string name="repeat_label_interval">Jeden</string>
   <string name="repeat_label_week">Woche</string>
   <string name="repeat_lunar_yearly"/>
   <string name="repeat_month_day_splitter">" "</string>
