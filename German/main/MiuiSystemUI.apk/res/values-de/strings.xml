@@ -93,7 +93,7 @@ Wenn Sie die Datenverbindung wieder einschalten, können hohe Kosten entstehen."
   <string name="dlg_ok">OK</string>
   <string name="drive_mode_tip">Sie sind im Fahrzeugmodus</string>
   <string name="expanded_confirm_disable_notification">Verbergen</string>
-  <string name="expanded_notification_manager">Ordne Benachrichtigungen</string>
+  <string name="expanded_notification_manager">Benachr. verwalten</string>
   <string name="ext_media_badremoval_notification_message">USB-Speicher vor dem Entfernen abmelden, um Datenverlust zu vermeiden.</string>
   <string name="ext_media_badremoval_notification_title">USB-Speicher unerwartet entfernt</string>
   <string name="ext_media_checking_notification_message">Auf Fehler prüfen.</string>
