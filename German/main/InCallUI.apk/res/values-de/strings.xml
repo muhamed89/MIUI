@@ -32,8 +32,8 @@
   <string name="callFailed_unobtainable_number">Ungültige Nummer</string>
   <string name="callFailed_userBusy">Leitung besetzt</string>
   <string name="callUnanswered_forwarded">Anruf unbeantwortet und weitergeleitet</string>
-  <string name="call_description_recording">Recording…</string>
-  <string name="call_extension_conference_mode">Conference mode</string>
+  <string name="call_description_recording">Aufnahme…</string>
+  <string name="call_extension_conference_mode">Konferenz-Modus</string>
  <string name="call_record_button_label">Aufnahme %s</string>
   <string name="call_record_wait_label">Warte</string>
   <string name="call_recording_error_low_storage">Nicht genügend Speicher: SD-Karte ist voll</string>
@@ -134,7 +134,7 @@
   <string name="ok">OK</string>
   <string name="online_check_provider_info">Identifiziert durch %s</string>
   <string name="online_check_provider_name_by_cmb">China Merchants Bank</string>
-  <string name="online_check_warning_info_by_cmb">"Always verify the identity of the person you're speaking with by phone or video before responding to any messages involving your personal finances."</string>
+  <string name="online_check_warning_info_by_cmb">"Überprüfen Sie immer die Identität der Person, mit der Sie per Telefon oder Video sprechen, bevor Sie Fragen zu Ihren persönlichen Finanzen beantworten."</string>
   <string name="online_check_warning_type_by_cmb">Spam</string>
   <string name="onscreenEndCallText">Ende</string>
   <string name="onscreen_add_call_text">Anruf hinzufügen</string>
@@ -159,7 +159,7 @@
   <string name="separate_from_conference">Seperater Anruf</string>
   <string name="suspect_info">Vorsicht: Sie sollten bei erstem Kontakt immer die Indentität prüfen bevor Sie auf Nachrichten über ihre Finanzen antworten.</string>
   <string name="unknown">Unbekannt</string>
-  <string name="upgrade_vt_prompt">Would you like to upgrade the call to video call?</string>
+  <string name="upgrade_vt_prompt">Möchten Sie den Anruf per Videoanruf weiterführen?</string>
   <string name="upgrade_vt_rx_prompt">Would you like to upgrade the call to video receive only call?</string>
   <string name="upgrade_vt_tx_prompt">Would you like to upgrade the call to video transmit only call?</string>
     <string name="wait_prompt_str">"Folgende Töne senden?
