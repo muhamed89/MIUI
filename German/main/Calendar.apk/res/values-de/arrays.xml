@@ -71,11 +71,11 @@
         <item>Öffentlich</item>
     </string-array>
     <string-array name="ordinal_labels">
-        <item>Ersten</item>
-        <item>Zweiten</item>
-        <item>Dritten</item>
-        <item>Vierten</item>
-        <item>Letzten</item>
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>Letzte</item>
     </string-array>
     <string-array name="response_labels1">
         <item>Keine Antwort</item>
@@ -126,7 +126,7 @@
         <item>30 Minuten</item>
         <item>1 Stunde</item>
         <item>1 Tag</item>
-        <item>2 tage</item>
+        <item>2 Tage</item>
         <item>1 Woche</item>
     </string-array>
     <string-array name="miui_preferences_default_reminder_labels">
@@ -211,10 +211,10 @@
         <item>Dez</item>
     </string-array>
     <string-array name="repeat_choose_week_left">
-        <item>Erste</item>
-        <item>Zweite</item>
-        <item>Dritte</item>
-        <item>Vierte</item>
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
         <item>Letzte</item>
     </string-array>
     <string-array name="repeat_choose_week_right">
