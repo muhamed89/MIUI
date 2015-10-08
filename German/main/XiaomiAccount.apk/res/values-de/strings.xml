@@ -14,7 +14,7 @@
   <string name="account_binded_phone">Gerät %d</string>
   <string name="account_crop_user_avatar">Bild zuschneiden</string>
   <string name="account_dspt_provision">"Melden Sie sich von überall für die Mi Cloud, den MIUI Theme Store und andere Mi Dienste an."</string>
-  <string name="account_dspt_provision2">Erfahren Aie mehr</string>
+  <string name="account_dspt_provision2">Erfahren Sie mehr</string>
   <string name="account_empty_user_name">Mi Konto Benutzernamen eingeben</string>
   <string name="account_error_longer_user_name">"Der Benutzername darf nicht mehr als 20 Ziffern enthalten"</string>
   <string name="account_error_shorter_user_name">Der Benutzername muss mehr als zwei Ziffern enthalten</string>
