@@ -266,7 +266,7 @@
   <string name="repeat_custom_string_suffix">" (%1$s)"</string>
   <string name="repeat_end_label">Stoppe Wiederholung nach</string>
   <string name="repeat_end_times_unit">" mal"</string>
-  <string name="repeat_interval_dialog_title">Aller %1$s</string>
+  <string name="repeat_interval_dialog_title">Jeden %1$s</string>
   <string name="repeat_interval_frequency">%1$d %2$ss</string>
   <string name="repeat_interval_frequency_single">%1$s</string>
   <string name="repeat_label_choose_day">Wähle Tag</string>
@@ -359,7 +359,7 @@
   <string name="view_event_response_label">Teilnehmen?</string>
   <string name="week_view">Woche</string>
   <string name="week_view_today_toast">"Sie schauen sich gerade diese Woche an"</string>
-  <string name="weekly">Wöchentlich (aller %s)</string>
+  <string name="weekly">Wöchentlich (jeden %s)</string>
   <string name="what_label">Was</string>
   <string name="when_label">Wann</string>
   <string name="where_label">Wo</string>
@@ -370,7 +370,7 @@
   <string name="wuxing">Fünf</string>
   <string name="xiaomi_calendar_display_name">Kalender Mi-Konto</string>
   <string name="xingxiu">Sterne</string>
-  <string name="yearly">Jährlich (aller %s)</string>
+  <string name="yearly">Jährlich (jeden %s)</string>
   <string name="yearly_plain">Jählich</string>
   <string name="zhushen">Zhushen</string>
 </resources>
