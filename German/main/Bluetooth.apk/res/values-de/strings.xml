@@ -39,11 +39,11 @@
   <string name="bt_toast_4">Sende Datei zu \"%1$s\"</string>
   <string name="bt_toast_5">Sende %1$s Dateien zu \"%2$s\"</string>
   <string name="bt_toast_6">Senden der Datei zu \"%1$s\" gestoppt."</string>
-  <string name="btopp_live_folder">Bluetooth received</string>
+  <string name="btopp_live_folder">Bluetooth empfangen</string>
   <string name="defaultname">Freisprecheinrichtung</string>
   <string name="defaultnumber">000000</string>
-  <string name="deleteAll_record">Delete all record</string>
-  <string name="delete_record">Delete record</string>
+  <string name="deleteAll_record">Alle Aufnahmen löschen</string>
+  <string name="delete_record">Lösche Aufnahme</string>
   <string name="device_picker">Bluetooth Geräteeinstellungen</string>
   <string name="disconnect">Entkoppeln</string>
   <string name="download_cancel">Anhalten</string>
