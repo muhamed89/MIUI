@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_device_info">Zeige Geräteinformationen</string>
+  <string name="about_device_info">Geräteinformationen anzeigen</string>
   <string name="access_denied">Zugang verweigert</string>
   <string name="access_token_expired_warning">Weibo Konto ist abgelaufen</string>
   <string name="access_token_invalid_warning">Weibo Konto ist ungültig</string>
@@ -14,12 +14,12 @@
   <string name="account_binded_phone">Gerät %d</string>
   <string name="account_crop_user_avatar">Bild zuschneiden</string>
   <string name="account_dspt_provision">"Melden Sie sich von überall für die Mi Cloud, den MIUI Theme Store und andere Mi Dienste an."</string>
-  <string name="account_dspt_provision2">Erfahre mehr</string>
-  <string name="account_empty_user_name">Füge deinen Mi Benutzernamen ein</string>
+  <string name="account_dspt_provision2">Erfahren Aie mehr</string>
+  <string name="account_empty_user_name">Mi Konto Benutzernamen eingeben</string>
   <string name="account_error_longer_user_name">"Der Benutzername darf nicht mehr als 20 Ziffern enthalten"</string>
   <string name="account_error_shorter_user_name">Der Benutzername muss mehr als zwei Ziffern enthalten</string>
   <string name="account_error_user_birthday">Das Geburtsdatum ist ungültig</string>
-  <string name="account_learn_more_title">Erstelle kostenlos ein Mi Konto</string>
+  <string name="account_learn_more_title">Erstellen Sie kostenlos ein Mi Konto</string>
   <string name="account_name">Konto: %1$s</string>
   <string name="account_no_set">Leer</string>
   <string name="account_none">Leer</string>
@@ -127,10 +127,10 @@
   <string name="login_failed">"Anmeldung nicht möglich"</string>
   <string name="login_instead_reg">Nutze diese Mobilrufnummer</string>
   <string name="login_instead_reg_with_email">Nutze diese E-Mail-Adresse</string>
-  <string name="login_title">Melde dich mit deinem Mi Konto an</string>
-  <string name="login_with_email_or_id"><u>Melde dich mit einem anderen Konto an</u></string>
+  <string name="login_title">Melden Sie sich mit deinem Mi Konto an</string>
+  <string name="login_with_email_or_id"><u>Melden Sie sich mit einem anderen Konto an</u></string>
   <string name="logout_failed">"Abmelden nicht möglich"</string>
-  <string name="mi_account_dspt_provision">"Melde dich von überall für die Mi Cloud, den MIUI Theme Store und andere Mi Dienste an."</string>
+  <string name="mi_account_dspt_provision">"Melden Sie sich von überall an der Mi Cloud, dem MIUI Theme Store und anderen Mi Dienste an."</string>
   <string name="mi_account_identity_title">Identität nachweisen</string>
   <string name="mi_pass">Mi Pass</string>
   <string name="micloud_account_name">Mi Konto</string>
@@ -222,11 +222,11 @@
   <string name="passport_input_verify_code_hint">Bestätigungscode eingeben</string>
   <string name="passport_license_host_unreachable">"Netzwerkverbindung kann nicht hergestellt werden. Sie können diese Seite unter %s ansehen."</string>
   <string name="passport_loading">Lade…</string>
-  <string name="passport_login">Melde dich mit einem bestehenden Konto an</string>
+  <string name="passport_login">Melden Sie sich mit einem bestehenden Konto an</string>
   <string name="passport_login_failed">"Anmeldung nicht möglich"</string>
   <string name="passport_login_instead_reg">Nutze diese Nummer</string>
   <string name="passport_login_instead_reg_with_email">Nutze diese E-Mail-Adresse</string>
-  <string name="passport_login_notice">Melde an…</string>
+  <string name="passport_login_notice">Anmelden…</string>
   <string name="passport_login_short">Anmelden</string>
   <string name="passport_login_title">Mit Mi Konto anmelden</string>
   <string name="passport_login_with_email_or_id"><u>Mit E-Mail-Adresse oder Mi Konto ID anmelden</u></string>
@@ -339,7 +339,7 @@
   <string name="service_error">Dienst Fehler</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_register">Schritt überspringen</string>
-  <string name="sns_access_token_expired_warning">Die Anmeldung ist abgelaufen. Melde dich erneut an um dich mit deinem Konto zu verbinden.</string>
+  <string name="sns_access_token_expired_warning">Die Anmeldung ist abgelaufen. Melden Sie sich erneut an um dich mit deinem Konto zu verbinden.</string>
   <string name="theme_store">MIUI Themes Store</string>
   <string name="theme_store_dspt">Passen Sie das Aussehen an. Hunderte frei anpassbare Designs sind verfügbar, um Ihr Gerät einzigartig zu machen.</string>
   <string name="timeout_retry">Zeitüberschreitung. Versuche es erneut.</string>
