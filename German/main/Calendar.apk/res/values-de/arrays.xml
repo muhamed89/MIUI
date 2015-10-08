@@ -71,11 +71,11 @@
         <item>Öffentlich</item>
     </string-array>
     <string-array name="ordinal_labels">
-        <item>Erste</item>
-        <item>Zweite</item>
-        <item>Dritte</item>
-        <item>Vierte</item>
-        <item>Letzte</item>
+        <item>Ersten</item>
+        <item>Zweiten</item>
+        <item>Dritten</item>
+        <item>Vierten</item>
+        <item>Letzten</item>
     </string-array>
     <string-array name="response_labels1">
         <item>Keine Antwort</item>
