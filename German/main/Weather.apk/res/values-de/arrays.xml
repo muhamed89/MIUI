@@ -16,17 +16,17 @@
         <item>Wolkig</item>
         <item>Bedeckt</item>
         <item>Neblig</item>
-        <item>Heftiger Regenschauer</item>
-        <item>Wolkenbruch</item>
+        <item>Starkregen</item>
+        <item>Platzregen</item>
         <item>Regensturm</item>
         <item>Gewitter</item>
-        <item>Regenschauer</item>
+        <item>Schauer</item>
         <item>Schwere Regenfälle</item>
         <item>Mäßiger Regen</item>
         <item>Leichter Regen</item>
         <item>Schneeregen</item>
         <item>Schneesturm</item>
-        <item>Schnee</item>
+        <item>Schneefall</item>
         <item>Starker Schneefall</item>
         <item>Mäßiger Schneefall</item>
         <item>Leichter Schneefall</item>
@@ -36,16 +36,16 @@
         <item>Windig</item>
         <item>Hagel</item>
         <item>Staub</item>
-        <item>Dunst</item>
-        <item>Eisregen</item>
+        <item>Nebel</item>
+        <item>Gefrierender Regen</item>
         <item>Keine Daten</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
-        <item>Schwächster</item>
-        <item>Schwach</item>
-        <item>Mittel</item>
-        <item>Stark</item>
-        <item>Stärkster</item>
+        <item>Niedrig</item>
+        <item>Mäßig</item>
+        <item>Hoch</item>
+        <item>Sehr Hoch</item>
+        <item>Extrem</item>
     </string-array>
     <string-array name="wind_direction">
         <item>Wind N</item>
