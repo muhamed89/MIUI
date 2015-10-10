@@ -21,11 +21,11 @@ Um den Browserverlauf zu löschen, verwenden Sie die Browsereinstellungen."</str
   <string name="cta_declaration_negative_text">Verlassen</string>
   <string name="cta_declaration_positive_text">Erlauben</string>
   <string name="cta_declaration_title">Nutzungsbedingungen</string>
-  <string name="default_search_domain">.google.com</string>
+  .google.de</string>
   <string name="device_settings_category_title">Abkürzungen löschen</string>
   <string name="distance_unit_kilometer">km</string>
   <string name="distance_unit_meter">m</string>
-  <string name="google_app_label">Google Search</string>
+  <string name="google_app_label">Google-Suche</string>
   <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
   <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
   <string name="google_search_description">Google Suchvorschläge</string>
@@ -45,14 +45,14 @@ Um den Browserverlauf zu löschen, verwenden Sie die Browsereinstellungen."</str
   <string name="search_sources">Durchsuchbare Elemente</string>
   <string name="search_sources_summary">Auswählen, was auf dem Telefon durchsucht werden soll</string>
   <string name="search_widget">Suche</string>
-  <string name="searchable_lable_app">app</string>
-  <string name="searchable_lable_browser">browser</string>
-  <string name="searchable_lable_duokan">duokan</string>
-  <string name="searchable_lable_music">music</string>
+  <string name="searchable_lable_app">App</string>
+  <string name="searchable_lable_browser">Browser</string>
+  <string name="searchable_lable_duokan">Duokan</string>
+  <string name="searchable_lable_music">Musik</string>
   <string name="searchable_lable_o2o">o2o</string>
-  <string name="searchable_lable_video">video</string>
+  <string name="searchable_lable_video">Video</string>
   <string name="searchable_sources">Online</string>
-  <string name="send_secret_code">Geheimen Code senden</string>
+  <string name="send_secret_code">Code senden</string>
   <string name="system_search_category_title">Telefon</string>
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
