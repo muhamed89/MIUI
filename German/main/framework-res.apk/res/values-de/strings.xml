@@ -1515,9 +1515,9 @@ Wenn Sie über längere Zeiträume hinweg Musik in hoher Lautstärke hören, kan
   <string name="volume_call">Hörerlautstärke</string>
   <string name="volume_icon_description_bluetooth">Bluetooth-Lautstärke</string>
   <string name="volume_icon_description_incall">Anruflautstärke</string>
-  <string name="volume_icon_description_media">Lautstärke</string>
-  <string name="volume_icon_description_notification">Benachrichtigungslautstärke</string>
   <string name="volume_icon_description_ringer">Lautstärke</string>
+  <string name="volume_icon_description_notification">Benachrichtigungslautstärke</string>
+  <string name="volume_icon_description_ringer">Klingelton</string>
   <string name="volume_music">Medienlautstärke</string>
   <string name="volume_music_hint_playing_through_bluetooth">Wiedergabe durch Bluetooth</string>
   <string name="volume_music_hint_silent_ringtone_selected">Lautlos-Modus festgelegt</string>
