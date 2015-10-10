@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_to_recover">Nur einen Moment…</string>
+  <string name="about_to_recover">Einen Moment…</string>
   <string name="app_name">Sichere Apps</string>
   <string name="back_up_task_in_process">Sichere…</string>
   <string name="back_up_task_unfinished">Sicherung noch nicht abgeschlossen</string>
@@ -13,7 +13,7 @@
   <string name="button_delete">Löschen</string>
   <string name="button_next">Weiter</string>
   <string name="cancel_recover_settings"><u>Abbrechen</u></string>
-  <string name="click_try_to_restore_again">Berühren, um es noch einmal zu versuchen</string>
+  <string name="click_try_to_restore_again">Tippen, um es erneut zu versuchen</string>
   <string name="cloud_app_backup_success">App-Sicherung abgeschlossen</string>
   <string name="cloud_app_check_data">Verbinde mit Mi Cloud…</string>
   <string name="cloud_app_current_device">Aktuelles Gerät</string>
@@ -32,7 +32,7 @@
   <string name="cloud_task_in_process">"%s anhalten und diese Sicherung löschen? Sie können diese Aktion nicht rückgängig machen."</string>
   <string name="customization"><u>Benutzerdefiniert</u></string>
   <string name="deskclock_backup">Wecker</string>
-  <string name="desktop_downloading">Herunteraden</string>
+  <string name="desktop_downloading">Lädt…</string>
   <string name="desktop_installing">Installiere</string>
   <string name="desktop_recovering">Wiederherstellung</string>
   <string name="desktop_wait_wifi">Warten</string>
