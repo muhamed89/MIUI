@@ -169,7 +169,7 @@
   <string name="lastrefresh">Letztes Update</string>
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
-  <string name="loading">&lt;CDATA&gt;Loading &lt;/CDATA&gt;</string>
+  <string name="loading">&lt;CDATA&gt;Laden &lt;/CDATA&gt;</string>
   <string name="loading_video_netplay_label">Wird geladen...</string>
   <string name="loading_video_netplay_label_v5">Wird geladen...</string>
   <string name="local_favorite_empty_title">Leer</string>
