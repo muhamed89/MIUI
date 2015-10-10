@@ -1375,7 +1375,7 @@ Wenn Sie über längere Zeiträume hinweg Musik in hoher Lautstärke hören, kan
   <string name="screen_compat_mode_hint">Eine erneute Aktivierung ist in den Systemeinstellungen unter \"Apps &gt; Heruntergeladen\" möglich.</string>
   <string name="screen_compat_mode_scale">Skalieren</string>
   <string name="screen_compat_mode_show">Immer anzeigen</string>
-  <string name="screen_lock">Display-sperre</string>
+  <string name="screen_lock">Bildschirmsperre</string>
   <string name="search_go">Suchen</string>
   <string name="searchview_description_clear">Anfrage löschen</string>
   <string name="searchview_description_query">Suchanfrage</string>
