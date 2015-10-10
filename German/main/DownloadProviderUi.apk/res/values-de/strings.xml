@@ -64,7 +64,7 @@
   <string name="download_error">fehlgeschlagen</string>
   <string name="download_error_insufficient_space">Unzureichender Speicherplatz</string>
   <string name="download_filesize_unknown">Unbekannt</string>
-  <string name="download_in_process">DOWNLOADING</string>
+  <string name="download_in_process">WIRD HERUNTERGELADEN</string>
   <string name="download_info_count_deleted_tasks">%s Downloads entfernt</string>
   <string name="download_info_start_deleted_tasks">Downloads löschen</string>
   <string name="download_list_get_free_vip">Xunlei testen</string>
