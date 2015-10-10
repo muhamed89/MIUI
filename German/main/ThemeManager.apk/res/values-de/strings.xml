@@ -353,11 +353,11 @@
   <string name="theme_select_others">Durchsuchen</string>
   <string name="theme_setting">Einstellungen</string>
   <string name="theme_user_agreement_allow">Zustimmen</string>
-  <string name="theme_user_agreement_content1">Mit Zustimmmen, akzeptieren Sie die Bedingungen in unserer</string>
-  <string name="theme_user_agreement_content2"> Nutzungsvereinbarung</string>
-  <string name="theme_user_agreement_content3"> und </string>
+  <string name="theme_user_agreement_content1">"Akzeptieren Sie unsere "</string>
+  <string name="theme_user_agreement_content2">Nutzungsbedingungen</string>
+  <string name="theme_user_agreement_content3">" und "</string>
   <string name="theme_user_agreement_content4">Datenschutzerklärung</string>
-  <string name="theme_user_agreement_content5">.</string>
+  <string name="theme_user_agreement_content5">?</string>
   <string name="theme_user_agreement_exit">Beenden</string>
   <string name="theme_user_agreement_remind_again">Nutzungsbedingungen anzeigen</string>
   <string name="theme_user_agreement_remind_never">Nicht mehr anzeigen</string>
