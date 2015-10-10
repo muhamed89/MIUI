@@ -169,7 +169,7 @@
   <string name="handle_text_memory">Speicher</string>
   <string name="handle_text_system">System</string>
   <string name="header_antivirus">"Diese Funktion verschlüsselt Ihre Geräte-ID und sendet Sie dann an Tencent's (%s)."</string>
-  <string name="hints_auto_start_warning_info">"If you restrict autostart, some apps and services won't be able to receive notifications."</string>
+  <string name="hints_auto_start_warning_info">Wenn Sie den Autostart unterdrücken, können einige Apps möglichweise keine Benachrichtigungen empfangen.</string>
   <string name="hints_cleanning_text">Bereinigung…</string>
   <string name="hints_handle_item_text_risk">Risiken: %d</string>
   <string name="hints_handle_item_text_safe">Sicher</string>
@@ -249,7 +249,7 @@
   <string name="menu_item_shortcut_title">Verknüpfungen verwalten</string>
   <string name="menu_item_uninstall">Entfernen</string>
   <string name="menu_item_virus_cloud_scan_summary">Online Definitionen zum scannen verwenden</string>
-  <string name="menu_item_virus_cloud_scan_title">Cloud Viren Definition</string>
+  <string name="menu_item_virus_cloud_scan_title">Online-Definitionen</string>
   <string name="menu_item_virus_install_monitor_summary">Apps vor der Installation auf Viren prüfen</string>
   <string name="menu_item_virus_install_monitor_title">Installationsmonitor</string>
   <string name="menu_item_virus_lib_auto_update_summary">Zuletzt aktualisiert: %s</string>
