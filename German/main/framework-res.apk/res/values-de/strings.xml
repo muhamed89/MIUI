@@ -1347,7 +1347,7 @@ für Konto %s"</string>
   <string name="ringtone_default">Standard-Klingelton</string>
   <string name="ringtone_default_with_actual">Standard-Klingelton (%1$s)</string>
   <string name="ringtone_picker_title">Klingeltöne</string>
-  <string name="ringtone_silent">Keine</string>
+  <string name="ringtone_silent">Lautlos</string>
   <string name="ringtone_unknown">Unbekannter Klingelton</string>
   <string name="roamingText0">Roaming-Anzeige ein</string>
   <string name="roamingText1">Roaming-Anzeige aus</string>
@@ -1375,7 +1375,7 @@ Wenn Sie über längere Zeiträume hinweg Musik in hoher Lautstärke hören, kan
   <string name="screen_compat_mode_hint">Eine erneute Aktivierung ist in den Systemeinstellungen unter \"Apps &gt; Heruntergeladen\" möglich.</string>
   <string name="screen_compat_mode_scale">Skalieren</string>
   <string name="screen_compat_mode_show">Immer anzeigen</string>
-  <string name="screen_lock">Displaysperre</string>
+  <string name="screen_lock">Display-sperre</string>
   <string name="search_go">Suchen</string>
   <string name="searchview_description_clear">Anfrage löschen</string>
   <string name="searchview_description_query">Suchanfrage</string>
@@ -1515,14 +1515,14 @@ Wenn Sie über längere Zeiträume hinweg Musik in hoher Lautstärke hören, kan
   <string name="volume_call">Hörerlautstärke</string>
   <string name="volume_icon_description_bluetooth">Bluetooth-Lautstärke</string>
   <string name="volume_icon_description_incall">Anruflautstärke</string>
-  <string name="volume_icon_description_media">Medienlautstärke</string>
+  <string name="volume_icon_description_media">Lautstärke</string>
   <string name="volume_icon_description_notification">Benachrichtigungslautstärke</string>
-  <string name="volume_icon_description_ringer">Klingeltonlautstärke</string>
+  <string name="volume_icon_description_ringer">Lautstärke</string>
   <string name="volume_music">Medienlautstärke</string>
   <string name="volume_music_hint_playing_through_bluetooth">Wiedergabe durch Bluetooth</string>
   <string name="volume_music_hint_silent_ringtone_selected">Lautlos-Modus festgelegt</string>
   <string name="volume_notification">Benachrichtigungslautstärke</string>
-  <string name="volume_ringtone">Klingeltonlautstärke</string>
+  <string name="volume_ringtone">Lautstärke</string>
   <string name="volume_unknown">Lautstärke</string>
   <string name="vpn_lockdown_config">Zum Konfigurieren berühren</string>
   <string name="vpn_lockdown_connected">Mit durchgehend aktivem VPN verbunden</string>
