@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_bind_prompt">Benutzerdaten werden übertragen... Dies kann ein paar Minuten dauern.</string>
-  <string name="action_mode_deselect_all">Deselect all</string>
-  <string name="action_mode_select_all">Select all</string>
+  <string name="action_mode_deselect_all">Keine</string>
+  <string name="action_mode_select_all">Alle</string>
   <string name="add_task">Hinzufügen</string>
   <string name="adding_upload_tasks">Aufgaben hinzufügen...</string>
   <string name="already_signin_description">Sie sind bereits angemeldet.</string>
@@ -253,7 +253,7 @@
   <string name="never_notify_network_connect">"Nicht mehr anzeigen"</string>
   <string name="new_folder_name">Neuer Ordner</string>
   <string name="no">Nein</string>
-  <string name="no_app_tags">Empty</string>
+  <string name="no_app_tags">Keine vorhanden</string>
   <string name="no_display_file">"%1$s kann nicht angezeigt werden"</string>
   <string name="no_enough_storage_indication">Gerätespeicher ist voll.</string>
   <string name="no_enough_storage_title">Nicht genügend Speicherplatz</string>
