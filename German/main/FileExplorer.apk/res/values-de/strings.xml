@@ -165,7 +165,7 @@
   <string name="group_title_extra_expire">About to expire</string>
   <string name="group_title_extra_new">New</string>
   <string name="instruction">Folgende Adresse im FTP-Client eingeben:</string>
-  <string name="instruction_pre">"Drücken Sie 'Start' um den FTP-Server einzuschalten"</string>
+  <string name="instruction_pre">"Drücken Sie 'Start' um den FTP-Server einzuschalten."</string>
   <string name="just_now">Jetzt</string>
   <string name="kilobyteShort">KB</string>
   <string name="kp_category_all">Kategorie</string>
