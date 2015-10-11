@@ -329,7 +329,7 @@
   <string name="rename_alert">Wenn Sie Erweiterung dieser Datei ändern, können Sie die Datei nicht mehr öffnen.</string>
   <string name="rename_description">Umbenennen…</string>
   <string name="rename_failed">Umbenennen von %1$s fehlgeschlagen</string>
-  <string name="rlv_last_refreshing_time">Zuletzt gesucht %1$s</string>
+  <string name="rlv_last_refreshing_time">Zuletzt gesucht: %1$s</string>
   <string name="rlv_loading_more">Einen Moment…</string>
   <string name="rlv_pull_to_refresh">Ziehen zum aktualisiere</string>
   <string name="rlv_refreshing">Suche Dateien…</string>
