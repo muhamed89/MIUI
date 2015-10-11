@@ -257,7 +257,7 @@
   <string name="no_display_file">"%1$s kann nicht angezeigt werden"</string>
   <string name="no_enough_storage_indication">Gerätespeicher ist voll.</string>
   <string name="no_enough_storage_title">Nicht genügend Speicherplatz</string>
-  <string name="no_file">Keine Dateien.</string>
+  <string name="no_file">Keine Dateien</string>
   <string name="no_more_space">Nicht genügend Speicherplatz.</string>
   <string name="no_recent_files">Keine kürzlich verwendeten Dateien</string>
   <string name="no_tasks">Keine Aufgaben.</string>
