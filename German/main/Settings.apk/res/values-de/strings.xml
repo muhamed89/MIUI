@@ -1819,7 +1819,7 @@ Betriebssystem auswählen:"</string>
   <string name="music_dolby_mode_music">Musik</string>
   <string name="music_dolby_mode_off">Aus</string>
   <string name="music_equalizer">Equalizer</string>
-  <string name="music_equalizer_summary">Passen Sie einzelne Ebenen für verschiedene Arten von Musik</string>
+  <string name="music_equalizer_summary">Individuelle Lautstärkeanpassung für verschiende Musiktypen</string>
   <string name="music_headphone_settings">Kopfhörertyp Einstellungen</string>
   <string name="music_headset_button_settings">Fernbedienungstasten zuweisen</string>
   <string name="music_headset_calibrate">Kopfhörertasten zuweisen</string>
