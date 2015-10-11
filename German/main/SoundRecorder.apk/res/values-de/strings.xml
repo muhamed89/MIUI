@@ -31,7 +31,7 @@
   <string name="low_battery_error">Der Akku hat weniger als 5%. Damit die Aufnahme nicht veloren geht, wurde sie gestoppt und gespeichert.</string>
   <string name="message_file_size_error">Die maximal unterstützte Aufnahmelänge für %s wurde erreicht.</string>
   <string name="no_downloading_file">Momentan werden keine Dateien runtergeladen.</string>
-  <string name="no_file">Keine Aufnahmen.</string>
+  <string name="no_file">Keine Aufnahmen</string>
   <string name="notification_message_all_paused">Kann den mobilen Datenverbrauch erhöhen.</string>
   <string name="notification_playback">Wird abgespielt...</string>
   <string name="notification_recording">Aufnahme läuft...</string>
