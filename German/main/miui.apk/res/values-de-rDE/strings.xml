@@ -22,7 +22,7 @@
   <string name="date_picker_label_year"/>
   <string name="date_time_done">Fertig</string>
   <string name="date_time_picker_dialog_title">Termin und Zeit festlegen</string>
-  <string name="deselect_all">Deselektieren</string>
+  <string name="deselect_all">Alle abwählen</string>
   <string name="early_morning">AM</string>
   <string name="email">Email</string>
   <string name="empty"/>
