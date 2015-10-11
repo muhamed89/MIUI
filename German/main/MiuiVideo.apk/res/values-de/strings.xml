@@ -386,7 +386,7 @@
   <string name="vp_exit">Exit</string>
   <string name="vp_full_high_definition">1080P</string>
   <string name="vp_full_screen">Vollbild</string>
-  <string name="vp_function">Einstellungen</string>
+  <string name="vp_function"></string>
   <string name="vp_get_url_error">"URL des Videos kann nicht gefunden werden."</string>
   <string name="vp_hide_media_info">Hide video info</string>
   <string name="vp_high_definition">HD</string>
@@ -401,7 +401,7 @@
   <string name="vp_media_info">Videoinfo anzeigen</string>
   <string name="vp_media_type_unsported">Dieser Medientyp wird nicht unterstützt</string>
   <string name="vp_milink">Mi Link</string>
-  <string name="vp_milink_function">Auf Bildschirm übertragen</string>
+  <string name="vp_milink_function"></string>
   <string name="vp_mobile_network_using_negative">Abbrechen</string>
   <string name="vp_mobile_network_using_positive">Weiter</string>
   <string name="vp_mobile_network_using_warning">Ihr Datenverbrauch steigt, wenn Sie Videos über die mobile Datenverbindung ansehen. Wenn Sie Ihr Datenvolumen überschreiten, könnte Ihr Mobilfunkanbieter Ihnen zusätzliche Gebühren verrechnen.</string>
@@ -429,9 +429,9 @@
   <string name="vp_player_plugin_dlg_title">Video Player Plugin</string>
   <string name="vp_plugin_message"> Installieren HD video Plugin?</string>
   <string name="vp_retry">Wiederholen</string>
-  <string name="vp_scale_screen">Seitenverhältnis wechseln</string>
+  <string name="vp_scale_screen">Seitenverhältnis</string>
   <string name="vp_screen_shot">Erfassen</string>
-  <string name="vp_select_ci">Episode auswählen</string>
+  <string name="vp_select_ci"></string>
   <string name="vp_select_ep">Episode auswählen</string>
   <string name="vp_select_function">Funktion auswählen</string>
   <string name="vp_select_source">Quelle auswählen</string>
