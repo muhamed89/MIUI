@@ -382,7 +382,7 @@
   <string name="send_to_midrive_failed_message">Dateityp wird nicht unterstützt.</string>
   <string name="server_control_advanced_settings">FTP-Einstellungen</string>
   <string name="server_control_charset">Übertragungscodierung</string>
-  <string name="server_control_settings">Einstellung</string>
+  <string name="server_control_settings">Einstellungen</string>
   <string name="share_box">Geteilt</string>
   <string name="share_box_receive">Empfangen</string>
   <string name="share_box_send">Gesendet</string>
