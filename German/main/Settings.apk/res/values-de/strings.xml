@@ -2828,8 +2828,8 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="title_font_current2">Systemschriftart</string>
   <string name="title_font_size">Schriftgröße</string>
   <string name="title_hdmi_color_calibration">Farbkorrektur Voreinstellung</string>
-  <string name="title_layout_current">Text Größe</string>
-  <string name="title_layout_current2">Text Größe</string>
+  <string name="title_layout_current">Textgröße</string>
+  <string name="title_layout_current2">Textgröße</string>
   <string name="title_local_resource">Lokale Quellen</string>
   <string name="title_system_resource">System Quellen</string>
   <string name="toast_lockscreen_glogin_empty_password">Passwort eingeben</string>
