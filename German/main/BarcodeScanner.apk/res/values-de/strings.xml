@@ -29,7 +29,7 @@
   <string name="email">Email:</string>
   <string name="fail_generate_barcode">"Code konnte nicht erstellt werden"</string>
   <string name="find_cloud_album">Album QR code einscannen</string>
-  <string name="flash_lable">Torch</string>
+  <string name="flash_lable">Lampe</string>
   <string name="import_contact">Kontakte importieren</string>
   <string name="launch_market">Öffne Mi Market</string>
   <string name="launch_qq">Öffne QQ im Browser</string>
@@ -43,7 +43,7 @@
   <string name="open_flash_error">"Taschenlampe konnte nicht aktiviert werden"</string>
   <string name="phone">Telefon:</string>
   <string name="picker_lable">Foto</string>
-  <string name="place_barcode_into_rectangle">BarCode bitte im Fenster zentrieren</string>
+  <string name="place_barcode_into_rectangle">Barcode bitte im Fenster zentrieren</string>
   <string name="qq_details">QQ Details:</string>
   <string name="qr_code_details">QR code details:</string>
   <string name="recognize">Scan</string>
