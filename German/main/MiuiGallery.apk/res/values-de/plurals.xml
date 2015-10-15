@@ -128,6 +128,10 @@
         <item quantity="other">%1$d Tage</item>
         <item quantity="one">%1$d Tag</item>
     </plurals>
+    <plurals name="baby_album_share_user_count_tip">
+        <item quantity="other">%1$d Follower</item>
+        <item quantity="one">%1$d Follower</item>
+    </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d Fotos warten auf Synchronisation</item>
         <item quantity="one">1 Foto wartet auf Synchronisation</item>

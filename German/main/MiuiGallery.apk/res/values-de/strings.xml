@@ -84,6 +84,8 @@
   <string name="autohomemain">Autohomemain</string>
   <string name="baby_album">Baby Album</string>
   <string name="baby_album_new_photo_page_title">"%1$s's Album"</string>
+  <string name="baby_album_new_photo_remind">Es gibt neue Fotos in Ihrem Baby Album.</string>
+  <string name="baby_album_no_share_user_tip">Zurzeit keine Follower</string>
   <string name="baby_album_picker_default_title">"Wähle %1$s's Gesicht"</string>
   <string name="baby_album_setting_title">Baby info</string>
   <string name="baby_album_sharer_accept_dialog_msg">"%1$s's %2$s,
@@ -116,6 +118,7 @@
   <string name="by_email">E-Mail</string>
   <string name="by_others">Andere</string>
   <string name="by_sms">SMS</string>
+  <string name="byteShort">B</string>
   <string name="camera_black_white">Schwarz &amp;Weiß</string>
   <string name="camera_connected">Kamera verbunden.</string>
   <string name="camera_disconnected">Kamera nicht verbunden.</string>
@@ -526,6 +529,7 @@
   <string name="cloud_be_shared_guide_title">Dieses Album kommt von einem Freund</string>
   <string name="cloud_camera_display_name">Kamerafotos</string>
   <string name="cloud_folder_chooser_move">Bilder vom Originalalbum löschen</string>
+  <string name="cloud_full_tip_str">Nicht genug Cloud Speicher</string>
   <string name="cloud_gallery_recyclebin_full">Ihr Papierkorb ist voll. Leeren Sie ihren Papierkorbs auf i.xiaomi.com.</string>
   <string name="cloud_gallery_space_full">Nicht genug Speicherplatz in ihrer Cloud</string>
   <string name="cloud_gallery_space_full_buy_more">"Kann neue Fotos nicht mit Ihrer Mi Cloud synchronisieren. Um mehr Fotos zu synchronisieren, kaufen Sie zusätzlichen Speicherplatz."</string>
@@ -552,9 +556,13 @@
   <string name="confirm_download_video_message">Sie müssen den Download des Videos erst beenden, bevor Sie es ansehen können. Der Download wird fortgesetzt, sobald WLAN verfügbar ist.</string>
   <string name="confirm_download_video_title">Download Video</string>
   <string name="confirm_face">Match</string>
+  <string name="confirm_recommandation_face_is">" "&lt;Data&gt; Sind Sie sicher, dass das &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; ist? Dieses Gesicht wird nach Bestätigung ins \"%2$s\" Album verschoben. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_face_not">" "&lt;Data&gt; Sind Sie sicher, dass das nicht &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; ist? Dieses Gesicht wird nach Bestätigung ins \"%2$s\" Album verschoben. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Sind Sie sicher, dass das &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; sind? Diese Gesichter werden nach Bestätigung ins \"%2$s\" Album verschoben. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; Sind Sie sicher, dass das nicht &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; sind? Diese Gesichter werden nach Bestätigung ins \"%2$s\" Album verschoben. &lt;/Data&gt;" "</string>
   <string name="confirm_merge_face_albums">" "&lt;Data&gt; Zusammenfügen dieses Album mit %s? &lt;/Data&gt;" "</string>
   <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Zusammenfügen dieser Alben mit %s? &lt;/Data&gt;" "</string>
-  <string name="confirm_not_face">Nicht diese Person</string> 
+  <string name="confirm_not_face">Kein Treffer</string> 
   <string name="contact_photo">Als Kontaktfoto</string>
   <string name="context_menu_add_contact">Zu Kontakten hinzufügen</string>
   <string name="context_menu_copy">Kopieren</string>
@@ -619,6 +627,7 @@
   <string name="duration">Dauer</string>
   <string name="early_bird">Earlybird</string>
   <string name="edit">Bearbeiten</string>
+  <string name="edit_baby_info">Baby Informationen bearbeiten</string>
   <string name="edited_photo_bucket_name">Bearbeitet</string>
   <string name="effect">Effekt</string>
   <string name="email_picker_title">Geteilte E-Mail hinzufügen</string>
@@ -630,6 +639,7 @@
   <string name="error_cloud_not_active">Keine Fotos in der Cloud</string>
   <string name="error_forbidden">Synchronisation wurde aufgrund eines Problems mit dem MiKonto ausgeschaltet.</string>
   <string name="error_invalid_link">Ungültiger Link</string>
+  <string name="error_link_has_expired">Link ist abgelaufen</string>
   <string name="error_not_acceptable">Synchronisation ausgeschaltet.</string>
   <string name="error_repeat_apply">Das Album wurde bereits geteilt</string>
   <string name="error_share_not_support">"Diese Funktion wird noch nicht unterstützt"</string>
@@ -674,6 +684,7 @@
   <string name="family_member_invitation_text">Andere Familiemitglieder</string>
   <string name="file_not_exist_message">Datei nicht vorhanden</string>
   <string name="file_size">Größe</string>
+  <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="filllight">Aufhellen</string>
   <string name="filllight_polymorphism">photoeditor_effect_filllight</string>
   <string name="finish_create_baby_album_toast">Erstelle Baby Album für \"%s\" in Mi Cloud</string>
@@ -702,6 +713,7 @@
   <string name="gallery_cloud_provider_name">Cloud-Album</string>
   <string name="gallery_setting">Galerie</string>
   <string name="get_album_info_in_process">"Albumdetails werden geladen..."</string>
+  <string name="gigabyteShort">GB</string>
   <string name="global_setting">Einstellungen</string>
   <string name="go_setting">Einstellungen Anzeigen</string>
   <string name="grain">Filmkörnung</string>
@@ -742,7 +754,7 @@
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Importierung abgeschlossen</string>
   <string name="import_fail">Importierung fehlgeschlagen</string>
-  <string name="impunity_declaration">Die Galerie muss mit dem Internet verbunden sein. Zustimmen?</string>
+  <string name="impunity_declaration">Um dieses Service zu nutzen, Stimmen Sie Xiaomi's %1$s und %2$s zu. Einige Features benötigen eine Internetverbindung, um ordnungsgemäß zu funktionieren.</string>
   <string name="impunity_declaration_ignore">Nicht mehr anzeigen</string>
   <string name="impunity_declaration_positive_text">OK</string>
   <string name="impunity_declaration_settings">Netzwerkhinweis anzeigen</string>
@@ -781,6 +793,7 @@
   <string name="kick_sharer">Benutzer entfernt</string>
   <string name="kick_sharer_failed">Benutzer entfernen fehlgeschlagen</string>
   <string name="kick_sharer_successfully">Benutzer erfolgreich entfernt</string>
+  <string name="kilobyteShort">KB</string>
   <string name="last_chinese_new_year">Letztes Chinese New Year</string>
   <string name="last_new_year">Letztes Sylvester</string>
   <string name="last_valentine_day">Letzter Valentine Tag</string>
@@ -802,6 +815,7 @@
   <string name="maker">Hersteller</string>
   <string name="manual">Handbuch</string>
   <string name="me">Ich</string>
+  <string name="megabyteShort">MB</string>
   <string name="menu_item_sort">Sortieren</string>
   <string name="menu_item_sort_date">Datum</string>
   <string name="menu_item_sort_date_asc">Datum (Aufsteigend)</string>
@@ -1100,6 +1114,7 @@
   <string name="tencent_mobile_qq_img_save">QQ</string>
   <string name="tencent_qq_hd_pic">QQ HD</string>
   <string name="tencent_qzonepic">Qzone</string>
+  <string name="terabyteShort">TB</string>
   <string name="there_is_no_image">Keine Bilder in dieser Datei</string>
   <string name="tieba">Tie Ba</string>
   <string name="time">Uhrzeit</string>
@@ -1123,11 +1138,14 @@
   <string name="unpublishing">Abbrechen...</string>
   <string name="untagged">Nicht markiert</string>
   <string name="upgrade_micloud_space">Bekomme mehr Speicher</string>
+  <string name="user_agreement">" Nutzungsbedingungen"</string>
   <string name="user_alias_self">Ich</string>
+  <string name="user_policy">Datenschutzerklärung</string>
   <string name="video_err">"Video kann nicht abgespielt werden"</string>
   <string name="video_not_exist">"Video existiert nicht"</string>
   <string name="videos">Videos</string>
   <string name="view_baby_album">Zeige Baby Album</string>
+  <string name="view_baby_info">Baby Informationen bearbeiten</string>
   <string name="view_face_album">Zeige Album</string>
   <string name="view_sharers">Benutzer anzeigen</string>
   <string name="vignette">Vignette</string>

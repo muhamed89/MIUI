@@ -292,6 +292,7 @@ Diese Funktion verschlüsselt und sendet ihre Geräte-ID zum Mi-Server."</string
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
   <string name="sync_dspt_provision3">"Sie können diese Funktion jederzeit in den Einstellungen an- oder ausschalten."</string>
+  <string name="sync_dspt_provision_header">Sync</string>
   <string name="sync_dspt_provision_title">Mi Cloud</string>
   <string name="sync_item_calllog_summary">Synchronisiere Aufnahmen, die von ausgehenden und ankommenden Anrufen aufgezeichnet wurden</string>
   <string name="sync_item_calllog_title">Synchronisiere Anruferliste</string>
