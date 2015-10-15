@@ -61,8 +61,8 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen > System > Tasten"</s
   <string name="screen_on_proximity_sensor_title">Ungewollte Anrufe verhindern</string>
   <string name="screen_paper_mode_enter_toast">Lesemodus ist aktiv. Sie können diesen jederzeit aktivieren/deaktivieren in den Einstellungen &gt; Lesemodus.</string>
   <string name="screen_rotation_freeze_message">Auto-Drehen deaktiviert.</string>
-  <string name="select">Wähle</string>
-  <string name="select_all">Alles auswählen</string>
+  <string name="select">Auswählen</string>
+  <string name="select_all">Alles ausw.</string>
   <string name="shutdown_confirm_title">Telefon wird ausgeschaltet.</string>
   <string name="shutdown_progress">Ausschalten…</string>
   <string name="sim_added_reboot_confirm">Neustart</string>
