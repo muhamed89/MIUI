@@ -5,7 +5,7 @@
   <string name="nav_local_all">Alle</string>
   <string name="nav_local_artist">Favorisierte Interpreten</string>
   <string name="nav_local_favorite">Lieblingstitel</string>
-  <string name="nav_local_song">Heruntergeladen</string>
+  <string name="nav_local_song">Downloads</string>
   <string name="nav_online_artist">Interpreten</string>
   <string name="page_local_setting">Einstellungen</string>
   <string name="action_item_add">Hinzufügen</string>
