@@ -47,6 +47,7 @@
   <string name="call_recording_notification_message_sd_unmounted">SD Karte wurde entfernt.</string>
   <string name="call_recording_notification_title">Anruf aufgezeichnet</string>
   <string name="call_recording_notification_title_error">"Anruf kann nicht aufgezeichnet werden"</string>
+  <string name="call_recording_notification_toggle_title">"Benachrichtigung bei Anrufaufzeichnung"</string>
   <string name="call_title_redialing_with_times">%d Wahlwiederholungen</string>
   <string name="caller_manage_header">Konferenzanruf %s</string>
   <string name="calling_via_template">Anruf über %s</string>
