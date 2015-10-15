@@ -49,4 +49,8 @@
         <item>nicht makiert</item>
         <item>andere auswahl</item>
     </string-array>
+    <string-array name="hmode_app_groups">
+        <item>benutzerdefiniert</item>
+        <item>empfohlen</item>
+    </string-array>
 </resources>

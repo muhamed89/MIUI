@@ -15,8 +15,14 @@
   <string name="alter_message_open_hide_title">"Batterieverbrauch der Apps verwalten?"</string>
   <string name="alter_message_switch_mode">Modi umstellen?</string>
   <string name="alter_message_switch_mode_message">Wenn Sie die Modi umstellen, werden Ihre vorherigen Einstellungen nicht mehr für diese App gelten.</string>
+  <string name="app_frozen_app_list_summary">Apps im Hintergrund</string>
+  <string name="app_list_title">Apps auswählen</string>
   <string name="app_name">Batterie Saver</string>
   <string name="background">App läuft im Hintergrund</string>
+  <string name="config_custom_description">Bei Bedarf können Sie eine benutzerdefinierte Konfiguration verwenden</string>
+  <string name="config_custom_title">Benutzerdefiniert</string>
+  <string name="config_suggest_description">Für Anwendungen unterschiedliche Energisparprofile verwenden</string>
+  <string name="config_suggest_title">Empfohlen</string>
   <string name="disabled">Aus</string>
   <string name="empty_title_apps_container_list">Keine Apps</string>
   <string name="error_filename_too_long">Der von Ihnen eingegebene Dateiname ist zu lang.</string>
@@ -29,6 +35,13 @@
   <string name="high">Leistung</string>
   <string name="hints_loading_text">Einen Augenblick…</string>
   <string name="invalid_size_value">"Konnte keine Paketgröße erhalten."</string>
+  <string name="keep_connect_description">Anwendungen können im Hintergrund auf die Netzwerkverbindung zugreifen</string>
+  <string name="keep_connect_title">Verbunden bleiben</string>
+  <string name="location_disable_description">Application in the background holding a brief location is available, and then prohibit the use of location</string>
+  <string name="location_disable_title">Verweigert</string>
+  <string name="location_enable_description">Anwendungen können im Hintergrund auf die Standortinformationen zugreifen</string>
+  <string name="location_enable_title">Erlauben</string>
+  <string name="location_mode_title">Standortdiens im Hintergrund</string>
   <string name="low">Strom sparen</string>
   <string name="low_power_auto_title">Apps einschränken, wenn die Batterie niedrig ist.</string>
   <string name="media">Media Modus</string>
@@ -40,6 +53,7 @@
   <string name="mode_import">Import</string>
   <string name="mode_settings">Einstellungen</string>
   <string name="movie">Movie</string>
+  <string name="network_mode_title">Netzwerkverbindung im Hintergrund</string>
   <string name="new_group_name">benutzerdefinierter Modus</string>
   <string name="no_applications">Leer</string>
   <string name="none">Keine Prozesse</string>
@@ -89,7 +103,6 @@
   <string name="power_event_user_define_title">Neue Events</string>
   <string name="power_event_view_event_title">Auslöser</string>
   <string name="power_hide_mode_app_list_summary">App Einstellungen</string>
-  <string name="power_hide_mode_app_list_title">Apps zur Beschränkung auswählen</string>
   <string name="power_hide_mode_app_list_total">%d Apps</string>
   <string name="power_hide_mode_summary">"Batterie sparen, indem Sie Hintergrundprozesse individueller Apps , WLAN und mobile Datenverbindungen einschränken."</string>
   <string name="power_hide_mode_title">"Batterieverbrauch der Apps verwalten"</string>
@@ -104,6 +117,8 @@
   <string name="power_mode_view_event_title">Events</string>
   <string name="power_mode_view_user_define_title">Neuer Event</string>
   <string name="power_optimize_activity_profile_file_error">Batterie Saver Fehler</string>
+  <string name="quick_disconnect_description">Application in the background holding a brief network is available, and then prohibit the use of network</string>
+  <string name="quick_disconnect_title">Sofort trennen</string>
   <string name="reading">Lesemodus</string>
   <string name="screen_off">Bildschirm aus</string>
   <string name="screen_off_10_min">Bildschirm aus über 10 Minuten</string>
