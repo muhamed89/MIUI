@@ -160,8 +160,8 @@
   <string name="saturday_short">Sa</string>
   <string name="saturday_shortest">S</string>
   <string name="select_all">Alle auswählen</string>
-  <string name="select_item">Wähle aus</string>
-  <string name="send">Sende</string>
+  <string name="select_item">Auswählen</string>
+  <string name="send">Senden</string>
   <string name="send_sms_for_sync_notice">Für die Aktivierung per SMS könnten Gebühren bei Ihrem Betreiber anfallen.</string>
   <string name="send_sms_for_sync_title">Datenverbrauch-Warnung</string>
   <string name="sim_changed_reactivate_int_notice">Für die Reaktivierung ist eine SMS notwendig. Ihr Provider könnte für den internationalen SMS Versand eine Gebühr erheben.</string>
