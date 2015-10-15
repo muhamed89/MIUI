@@ -357,7 +357,7 @@
   <string name="select_lyric">Songtext auswählen</string>
   <string name="select_none">Alles abwählen</string>
   <string name="send_to">Teilen</string>
-  <string name="send_to_title">Sende zu (%1$s)</string>
+  <string name="send_to_title">Senden an (%1$s)</string>
   <string name="server_error">Serverfehler. Bitte versuche es später nochmal</string>
   <string name="service_stop">Dienst eingestellt</string>
   <string name="set_album_successful">Album gespeichert</string>
