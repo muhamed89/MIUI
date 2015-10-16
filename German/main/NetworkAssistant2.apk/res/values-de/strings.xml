@@ -521,7 +521,7 @@ Ihr monatlich eingestelltes Limit ist %1$s. Dies unterscheidet sich vom dem manu
   <string name="traffic_saving_history_total_rate_unit">%</string>
   <string name="traffic_saving_history_total_traffic">Daten reduziert</string>
   <string name="traffic_saving_msg_month">Diesen Monat gespart</string>
-  <string name="traffic_saving_msg_not_started">Ausgeschaltet</string>
+  <string name="traffic_saving_msg_not_started">Data Saver ist AUS</string>
   <string name="traffic_saving_msg_today">heute gespart</string>
   <string name="traffic_saving_need_optimize">Kann optimiert werden</string>
   <string name="traffic_saving_notification_button_start">Aktivieren</string>
@@ -534,7 +534,7 @@ Ihr monatlich eingestelltes Limit ist %1$s. Dies unterscheidet sich vom dem manu
   <string name="traffic_saving_ratio_low">"Datenverbrauch kann nicht deutlich reduziert werden"</string>
   <string name="traffic_saving_recommanded_close">Dieses Element ausschalten</string>
   <string name="traffic_saving_recommanded_open">Dieses Element ausschalten</string>
-  <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Aktiviere automatisch Data Saver, um mobile Datennutzung von Apps zu reduzieren.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Wenn Sie einen monatliche Datenplan haben, denken Sie daran, Data Saver für individuelle Apps abzustellen, um zusätzliche Gebühren von Ihrem Mobilfunkbetreiber zu meiden.&lt;/font&gt;"</string>
+  <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Data Saver automatisch aktivieren, um mobile Datennutzung von Apps zu reduzieren.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Wenn Sie einen monatliche Datentarif haben, denken Sie daran, Data Saver für individuelle Apps abzustellen, um zusätzliche Gebühren von Ihrem Mobilfunkbetreiber zu meiden.&lt;/font&gt;"</string>
   <string name="traffic_saving_start_tip_title">Aktivieren</string>
   <string name="traffic_saving_tecsupport">Bereitgestellt von Opera</string>
   <string name="traffic_saving_title">Data Saver</string>

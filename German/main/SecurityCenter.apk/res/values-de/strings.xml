@@ -315,7 +315,7 @@
   <string name="power_center_custom_title">Akku-Einstellungen</string>
   <string name="power_center_low_battery_summary_default">Profil wechseln wenn der Akkustand niedrig ist</string>
   <string name="power_center_low_battery_summary_dynamic">Ab \"%1$d%%\" Akkustand wechseln auf %2$s</string>
-  <string name="power_center_low_battery_title">Automatisch wechseln</string>
+  <string name="power_center_low_battery_title">Profile</string>
   <string name="power_center_on_time_summary_default">Profil zur geplanten Zeit wechseln</string>
   <string name="power_center_on_time_summary_dynamic">Von %1$s bis %2$s wechseln zu %3$s</string>
   <string name="power_center_on_time_title">Geplant</string>
@@ -435,7 +435,7 @@ Ihr Gerät wechselt bei sehr niedrigem Akkustand auf diese Profil. Sie müssen I
   <string name="power_recovery_mode">Wechseln zu %1$s Modus</string>
   <string name="power_save_choose_mode">Profil auswählen</string>
   <string name="power_save_choose_recovery_mode">Profil auswählen</string>
-  <string name="power_save_low_battery_auto_save_title">Automatisch wechseln</string>
+  <string name="power_save_low_battery_auto_save_title">Profile</string>
   <string name="power_save_low_battery_option_recovery_title">Wenn Akkstand höher, wechseln zu</string>
   <string name="power_save_low_battery_option_summary">Wenn der Akkustand über dem eingestellten Limit ist, wechselt das Gerät wieder auf das zuletzt verwendete Profil</string>
   <string name="power_save_low_battery_option_title">Wechseln zu</string>
@@ -445,7 +445,7 @@ Ihr Gerät wechselt bei sehr niedrigem Akkustand auf diese Profil. Sie müssen I
   <string name="power_save_low_battery_percentage_thirty">30%</string>
   <string name="power_save_low_battery_percentage_twenty">20%</string>
   <string name="power_save_low_battery_seekbar_title">Profil wechseln, wenn Akkustand niedriger ist als %1$d%%</string>
-  <string name="power_save_low_battery_title">Automatisch wechseln</string>
+  <string name="power_save_low_battery_title">Profile</string>
   <string name="power_save_on_time_auto_save_title">Geplant</string>
   <string name="power_save_on_time_default_time">00:00</string>
   <string name="power_save_on_time_end_time_summary">" Ende"</string>

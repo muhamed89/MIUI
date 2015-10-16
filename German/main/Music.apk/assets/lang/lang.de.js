@@ -281,7 +281,7 @@
 	"no_results_return": "Keine Suchergebnisse",
 	"list_item_play_FM_radio": "Berühre um FM Radio zu hören",
 	"baidu_music": "Baidu Musik",
-	"local_tracks_short": "Offline",
+	"local_tracks_short": "Lokal",
 	"tab_local_track_list": "Lieder",
 	"tab_local_folder_list": "Ordner",
 	"folder_songs_count": {
@@ -435,7 +435,7 @@
 	"nav_online_artist": "Künstler",
 	"nav_online_playlist": "Wiedergabelisten",
 	"nav_online_fm": "Radio",
-	"nav_local_song": "Heruntergeladen",
+	"nav_local_song": "Lokal",
 	"nav_local_all": "Alle",
 	"nav_local_favorite": "Lieblingslieder",
 	"nav_local_artist": "Lieblingskünstler",
