@@ -197,7 +197,7 @@
   <string name="body_hint">E-Mail verfassen</string>
   <string name="body_inline_pic_text">[Picture]</string>
   <string name="bottom_bar_more_quickreply">Schnellantwort</string>
-  <string name="bottom_bar_more_share">Teile</string>
+  <string name="bottom_bar_more_share">Teilen</string>
   <string name="bottom_bar_no_quickreply_toast">keine Schnellantwort</string>
   <string name="bytes">%s B</string>
   <string name="cancel">Abbrechen</string>
@@ -223,7 +223,7 @@
   <string name="click_download_all_content">[ Tippen Sie, um Inhalte herunterzuladen ]</string>
   <string name="collapse_recipient_details">Details zum Empfänger Ausblenden</string>
   <string name="colon">:</string>
-  <string name="compose">Verfasssen</string>
+  <string name="compose">Verfassen</string>
   <string name="compose_attachment_number_limit">Die Anzahl an Anhängen darf 10 nicht überschreiten!</string>
   <string name="compose_picturesexceedlimits">Die Anzahl an eingebetteten Bildern darf 5 nicht überschreiten!</string>
   <string name="compose_send">Senden</string>
