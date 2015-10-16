@@ -119,6 +119,7 @@
   <string name="call_recording_notification_summary">Wenn der Anruf aufgezeichnet wurde, Benachrichtigung in der Statusleiste anzeigen</string>
   <string name="call_recording_notification_title">Anrufaufnahme</string>
   <string name="call_recording_notification_title_error">Anrufaufnahme fehlgeschlagen</string>
+  <string name="call_recording_notification_toggle_title">Benachrichtigung bei Anrufaufnahme</string>
   <string name="call_recording_setting">Anrufe aufnehmen</string>
   <string name="call_remove_exception_numbers_confirm">%d Nummern werden gelöscht.</string>
   <string name="call_settings">Anrufeinstellungen</string>
