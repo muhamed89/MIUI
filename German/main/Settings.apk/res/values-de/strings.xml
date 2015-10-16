@@ -1626,13 +1626,14 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="main_running_process_description">Hauptprozess wird verwendet.</string>
   <string name="make_sure_cancel_update">Update abbrechen？</string>
   <string name="man_add_application">App zum Autostart hinzufügen</string>
- <string name="manage_condition_providers">Bedingungsanbieter</string>
+  <string name="manage_condition_providers">Bedingungsanbieter</string>
   <string name="manage_condition_providers_summary_zero">Keine App bietet Bedingungen an</string>
   <string name="manage_device_admin">Geräteadministratoren</string>
   <string name="manage_device_admin_summary">Geräteadministratoren anzeigen oder deaktivieren</string>
   <string name="manage_mobile_plan_title">Mobilfunktarif</string>
- <string name="manage_notification_access_summary_zero">Apps können keine Benachrichtigungen lesen</string>
-  <string name="manage_notification_access_title">Benachrichtigungszugang</string>
+  <string name="manage_notification_access">Benachrichtigungszugriff</string>
+  <string name="manage_notification_access_summary_zero">Apps können keine Benachrichtigungen lesen</string>
+  <string name="manage_notification_access_title">Benachrichtigungszugriff</string>
   <string name="manage_space_text">Leerzeichen verwalten</string>
   <string name="manage_trust_agents">Trust Agenten</string>
   <string name="manage_trust_agents_summary">Trust Agenten anzeigen oder deaktivieren</string>
@@ -3124,6 +3125,8 @@ Jeder Nutzer kann aktualisierte App-Berechtigungen im Namen aller anderen Nutzer
   <string name="user_you">Ich (%s)</string>
   <string name="verify_apps_over_usb_summary">Überprüft installierte Apps über ADB/ADT auf schädliches Verhalten</string>
   <string name="verify_apps_over_usb_title">Apps über USB bestätigen</string>
+  <string name="verify_applications">Apps verifizieren</string>
+ <string name="verify_applications_summary">Vor der Installation von potenziell gefährlichen Apps warnen oder diese verbieten</string>
   <string name="version_text">Version %1$s</string>
   <string name="vibrate_category_title">Vibrieren</string>
   <string name="vibrate_in_normal_title">Vibrieren im Normalmodus</string>
