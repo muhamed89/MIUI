@@ -2120,6 +2120,8 @@ Betriebssystem auswählen:"</string>
   <string name="privacy_mode_dialog_title">Gastmodus</string>
   <string name="privacy_mode_enable_sum">Nachrichten, Notizen, Bilder und eingehende Anrufe werden ausgeblendet</string>
   <string name="privacy_mode_enable_title">Gastmodus</string>
+  <string name="privacy_mode_title">Datenschutz</string>
+  <string name="privacy_mode_summary">Hier können Sie den Zugriff auf Ihre persönlichen Daten einschränken</string>
   <string name="privacy_protect_title">Datenschutz</string>
   <string name="privacy_relative">Datenschutzrelevant</string>
   <string name="privacy_settings">Sichern &amp; Zurücksetzen</string>
