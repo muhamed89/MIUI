@@ -8,7 +8,7 @@
   <string name="alert_message_delete_folders">Möchten Sie die %1$s ausgewählten Ordner wirklich löschen?</string>
   <string name="alert_message_delete_folders_notes">Möchten Sie die %1$s ausgewählten Ordner und %2$s Notizen wirklich löschen?</string>
   <string name="alert_message_edit_anyway">Diese Notiz enthält nicht unterstützte Inhalte. Bearbeiten kann zu Datenverlust führen.</string>
-  <string name="alert_title_delete">Lösche Notiz</string>
+  <string name="alert_title_delete">Notiz löschen</string>
   <string name="alert_title_edit_anyway">Bearbeiten kann zu Datenverlust führen. Wirklich bearbeiten?</string>
   <string name="all_terms">%1$s und %2$s</string>
   <string name="app_name">Notizen</string>
