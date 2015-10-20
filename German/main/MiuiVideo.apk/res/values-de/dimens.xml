@@ -190,9 +190,9 @@
     <dimen name="vp_mc_time_bottom_margin">14.5dip</dimen>
     <dimen name="vp_mc_screen_locker_margin_left">31.299988dip</dimen>
     <dimen name="vp_mc_screen_locker_big_margin_left">-31.0dip</dimen>
-    <dimen name="vp_menu_item_width">40.0dip</dimen>
+    <dimen name="vp_menu_item_width">155.0dip</dimen>
     <dimen name="vp_menu_item_height">49.0dip</dimen>
-    <dimen name="vp_menu_item_line_width">30.0dip</dimen>
+    <dimen name="vp_menu_item_line_width">146.0dip</dimen>
     <dimen name="vp_menu_item_icon_left_margin">6.0dip</dimen>
     <dimen name="vp_menu_item_icon_right_margin">13.0dip</dimen>
     <dimen name="vp_menu_popup_title_height">49.69998dip</dimen>

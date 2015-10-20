@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="server_list_entries">
+        <item>Test Server</item>
+        <item>Online Server</item>
+    </string-array>
+    <string-array name="server_list_entries_value">
+        <item>mv.mitvos.com</item>
+        <item>mvideo.duokanbox.com</item>
+    </string-array>
+	<string-array name="version_list_entries">
+        <item>Stabil</item>
+        <item>Developer</item>
+    </string-array>
+    <string-array name="channel_tabs">
+        <item>Beliebt</item>
+        <item>Mehr</item>
+        <item>Neuheiten</item>
+    </string-array>
+    <string-array name="movie_channel_tabs">
+        <item>Empfohlen</item>
+        <item>Mehr</item>
+        <item>Beliebt</item>
+        <item>Neuheiten</item>
+    </string-array>
+    <string-array name="variety_channel_tabs">
+        <item>Empfohlen</item>
+        <item>Beliebt</item>
+    </string-array>
+</resources>
