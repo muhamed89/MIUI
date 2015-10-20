@@ -181,7 +181,7 @@
   <string name="attachment_open_SecurityException_title">Fehler beim öffnen der Datei</string>
   <string name="attachment_stop_all">Stop</string>
   <string name="attachment_text">Text</string>
-  <string name="attachment_type_blocked">"LEider könen Sie diese Art des Anhangs nicht speichern oder öffnen."</string>
+  <string name="attachment_type_blocked">"Leider könen Sie diese Art des Anhangs nicht speichern oder öffnen."</string>
   <string name="attachment_unknown">%s Datei</string>
   <string name="attachment_video">Video</string>
   <string name="attachments_header">Anhänge</string>
