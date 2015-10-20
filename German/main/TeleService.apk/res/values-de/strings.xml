@@ -634,6 +634,7 @@ Werde stattdessen bevorzugtes Netzwerk nutzen."</string>
   <string name="not_sufficient_funds_content">Nicht genügend Guthaben auf Ihrem Konto. Nutzen Sie stattdessen Ihre SIM Karte für diesen Anruf. Ihr Anbieter wird Ihnen diesen Anruf in Rechnung stellen.</string>
   <string name="not_supported_number_content">"Prepaid Paket unterstützt keine Service-Nummern. Nutzen Sie stattdessen Ihre normale SIM Karte für diesen Anruf. Ihr Anbieter wird Ihnen diesen Anruf in Rechnung stellen."</string>
   <string name="not_voice_capable">Sprachanruf wird nicht unterstützt.</string>
+  <string name="notification_missedCallTitle">Entgangener Anruf</string>
   <string name="notification_missedCallsTitle">Entgangene Anrufe</string>
   <string name="notification_network_selection_text">Ausgewähltes Netzwerk (%s) nicht verfügbar</string>
   <string name="notification_network_selection_title">Kein Dienst</string>
