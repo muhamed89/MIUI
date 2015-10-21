@@ -36,6 +36,8 @@
   <string name="byteShort">B</string>
   <string name="can_not_send_with_too_many">Kann nicht so viele Elemente senden</string>
   <string name="cancel">Abbrechen</string>
+  <string name="cancel_error">"Entfernen fehlgeschlagen, nochmals versuchen?"</string>
+  <string name="cancel_success">Entfernen erfolgreich, alle Dateien wurden nach sdcard/fileexplorer/decryption verschoben</string>
   <string name="category">Kategorien</string>
   <string name="category_all">Alle</string>
   <string name="category_apk">APKs</string>
@@ -94,7 +96,11 @@
   <string name="decompress_title">Entpacken</string>
   <string name="decompress_to">Entpacken nach...</string>
   <string name="decompress_to_here">Hier Entpacken</string>
+  <string name="decrypt">Aus privaten Dateien entfernen</string>
+  <string name="decrypt_error">"Entschlüsseln fehlgeschlagen"</string>
+  <string name="decrypting">Entschlüsseln</string>
   <string name="delete_dialog_button">Löschen</string>
+  <string name="delete_error">"Dateien konnten nicht gelöscht werden, nochmals versuchen"</string>
   <string name="delete_failed">Löschen fehlgeschlagen.</string>
   <string name="delete_file">Diese Datei löschen?</string>
   <string name="delete_file_error">"Datei konnte nicht gelöscht werden"</string>
@@ -118,6 +124,9 @@
   <string name="downloading">Wird geladen</string>
   <string name="downloading_in_3g">Download über 3G...</string>
   <string name="enable_sd_card">SD-Karte einsetzen oder USB-Massenspeicher ausschalten.</string>
+  <string name="encrypt_error">"Dateien konnten nicht privat gemacht werden, nochmals versuchen"</string>
+  <string name="encrypt_success">Alle Dateien sind nun privat</string>
+  <string name="encrypting">Verschlüsseln...</string>
   <string name="error_filename_too_long">Dateiname ist zu lang.</string>
   <string name="error_info_cant_send_folder">Dateityp wird nicht unterstützt.</string>
   <string name="error_open_file_failed_no_app_found">Keine App zum Öffnen dieser Datei gefunden.</string>
@@ -197,9 +206,11 @@
   <string name="loading">Wird geladen...</string>
   <string name="local_image">Fotos</string>
   <string name="local_music">Musik</string>
+  <string name="local_sticker_str">Heruntergeladen</string>
   <string name="local_video">Video</string>
   <string name="login_reg_content">Speichern von Dateien und Synchronisierung auf mehrere Geräte.</string>
   <string name="login_reg_content0">Alle Ihre Inhalte. Wohin Sie auch gehen.</string>
+  <string name="make_private">Privatisieren</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_item_cleanup">Dateibereinigung</string>
   <string name="menu_item_ftp">FTP</string>
@@ -218,6 +229,7 @@
   <string name="month_day_format">MMM dd</string>
   <string name="move_failed">Verschieben fehlgeschlagen.</string>
   <string name="move_to">Verschieben nach…</string>
+  <string name="msg_set_password">Zuerst muss ein Passwort festgelegt werden</string>
   <string name="multi_select_title">%1$s ausgewählt</string>
   <string name="my_app">App-Daten</string>
   <string name="my_app_desc" />
@@ -250,15 +262,29 @@
   <string name="net_lose_connected">Verbindung unterbrochen.</string>
   <string name="networkView_notConnected">Netzwerk nicht verfügbar</string>
   <string name="network_connect_confirm_des">Kuaipan wird auf das Internet zugreifen. Zulassen?</string>
+  <string name="network_spent_reminding">Diese Seite zu öffnen, benötigt einiges an Datenvolumen.</string>
+  <string name="network_spent_reminding_title">Datenverbrauchswarnung</string>
   <string name="never_notify_network_connect">"Nicht mehr anzeigen"</string>
   <string name="new_folder_name">Neuer Ordner</string>
+  <string name="new_function">Über private Ordner</string>
+  <string name="new_function_info">"Private Ordner sind ein neue Funktion in MIUI.
+Sie können Ihre Daten verschlüsseln
+und Sie an einem sicheren Ort speichern.
+
+Auf der Startseite nach unten wischen, um loszulegen."</string>
+  <string name="new_function_str">"WeChat Sticker können automatisch gesammelt werden.
+Herunterladen, wann Sie wollen
+und die coolsten niemals verpassen!"</string>
+  <string name="new_function_title_str">Über WeChat Sticker</string>
   <string name="no">Nein</string>
   <string name="no_app_tags">Keine vorhanden</string>
   <string name="no_display_file">"%1$s kann nicht angezeigt werden"</string>
   <string name="no_enough_storage_indication">Gerätespeicher ist voll.</string>
   <string name="no_enough_storage_title">Nicht genügend Speicherplatz</string>
   <string name="no_file">Keine Dateien</string>
+  <string name="no_local_sticker_tip">"Keine heruntergeladen Sticker gefunden. Sehen Sie sich die geteilten Sticker von anderen Mi Fans an."</string>
   <string name="no_more_space">Nicht genügend Speicherplatz.</string>
+  <string name="no_network_str">"Keine Netzwerkverbindung. Überprüfen und nochmals versuchen."</string>
   <string name="no_recent_files">Keine kürzlich verwendeten Dateien</string>
   <string name="no_tasks">Keine Aufgaben.</string>
   <string name="no_wifi">Keine WLAN-Verbindung gefunden.</string>
@@ -280,6 +306,7 @@
 2. in Ihr KuaiPan konto hochladen"</string>
   <string name="open_changed_file_title">Datei wurde geändert</string>
   <string name="open_file_failed">Öffnen fehlgeschlagen</string>
+  <string name="open_private_folder">Privaten Ordner erstellen...</string>
   <string name="operate_confirm_in_3g">Mobile Datenverbindug zum laden dieser großen Datei verwenden?</string>
   <string name="operating">Processing…</string>
   <string name="operation_add_fav">Adding to starred…</string>
@@ -320,15 +347,27 @@
   <string name="operation_show_sys">Versteckte Dateien anzeigen</string>
   <string name="operation_unfavorite">Demarkieren</string>
   <string name="pan_settting">KuaiPan-Einstellungen</string>
+  <string name="partial_cancel_successful">"Einige Dateien konnten nicht gelöscht werden. Der Rest wurde nach sdcard/fileexplorer/decryption verschoben"</string>
+  <string name="partial_delete_failure">"Einige Dateien konnten nicht gelöscht werden, nochmals versuchen"</string>
+  <string name="partial_encrypt_success">"Einige Dateien konnten nicht verschlüsselt werden, nochmals versuchen"</string>
+  <string name="partial_repair_done">Einige Dateien wurden wiederhergestellt</string>
   <string name="paused">Angehalten</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Telefon</string>
   <string name="port_range">Port muss zwischen 1024-65535 sein</string>
+  <string name="private_files">Privat</string>
+  <string name="private_folder">Privater Ordner</string>
+  <string name="promot_enctypt_password">Passwort eingeben, um Gerät zu entsperren, oder Kindermodus beenden</string>
   <string name="pull_to_signin">Zum Anmelden nach unten ziehen.</string>
   <string name="release_to_signin">Zum Anmelden loslassen</string>
   <string name="rename_alert">Wenn Sie Erweiterung dieser Datei ändern, können Sie die Datei nicht mehr öffnen.</string>
   <string name="rename_description">Umbenennen…</string>
   <string name="rename_failed">Umbenennen von %1$s fehlgeschlagen</string>
+  <string name="repair_done">Wiederhergestellt</string>
+  <string name="repair_error">"Wiederherstellen fehlgeschlagen"</string>
+  <string name="repair_file">Verschlüsselte Dateien wiederherstellen</string>
+  <string name="reset_password">Passwort zurücksetzen</string>
+  <string name="restoring">Wiederherstellen...</string>
   <string name="rlv_last_refreshing_time">Zuletzt gesucht: %1$s</string>
   <string name="rlv_loading_more">Einen Moment…</string>
   <string name="rlv_pull_to_refresh">Ziehen zum aktualisiere</string>
@@ -387,6 +426,13 @@
   <string name="share_box_receive">Empfangen</string>
   <string name="share_box_send">Gesendet</string>
   <string name="share_link_failed">Erstellen eines Links fehlgeschlagen.</string>
+  <string name="shared_sticker_network_permission_tip">"Keine Netzwerkverbindung. Überprüfen und nochmals versuchen."</string>
+  <string name="shared_sticker_page_no_file">"Keine Netzwerkverbindung. Überprüfen und nochmals versuchen."</string>
+  <string name="shared_sticker_str">Von Mi Fans geteilt</string>
+  <string name="shared_sticker_suffix">Sticker bei %s</string>
+  <string name="shared_sticker_use_tip">"Sie können Sticker in WeChat Unterhaltungen senden, als ob Sie Bilder versenden."</string>
+  <string name="shared_sticker_use_tip_title">Wie Sie Sticker verwenden</string>
+  <string name="shared_str">Geteilt von %s</string>
   <string name="show_message">Datei muss zum Öffnen heruntergeladen werden.</string>
   <string name="sign_description">Anmeldung...</string>
   <string name="signin_error">Verbindung zum Server fehlgeschlagen. Netzwerkverbindung prüfen.</string>
@@ -426,7 +472,9 @@
   <string name="toast_file_not_can_read">Keine App zum Öffnen der Datei gefunden.</string>
   <string name="tools">Tools</string>
   <string name="trans_task">Netzwerkübertragung</string>
-  <string name="transing">Sende...</string>
+  <string name="transfer_done">Dateien erfolgreich verschoben.</string>
+  <string name="transfer_private_data">Private Dateien von der SD-Karte verschieben...</string>
+  <string name="transing">Senden...</string>
   <string name="trash_box_capacity">Papierkorb %1$s</string>
   <string name="trash_box_link">Um den Papiekorb zu leeren, besuchen Sie <b>pan.xiaomi.com</b></string>
   <string name="trash_box_message1">Löschen Sie nicht mehr benötigte Dateien um Speicherplatz zu gewinnen.</string>
@@ -453,6 +501,7 @@
   <string name="user_guide_save_file">Speichern Sie Ihre Dateien und Bilder auf Kuaipan.</string>
   <string name="user_guide_summary">Ein kurzer Überblick</string>
   <string name="user_guide_upload_to_kuaipan">Dateien auf KuaiPan speichern</string>
+  <string name="user_not_login">Zuerst anmelden</string>
   <string name="utf8_summary">System FTP-Standardcodierung</string>
   <string name="utf8_title">UTF-8</string>
   <string name="wait_net">Warte auf Netzwerk...</string>
@@ -461,6 +510,7 @@
   <string name="waiting">Warte...</string>
   <string name="wangpan_root_path">Mein Laufwerk</string>
   <string name="wechat_video">Video at %s</string>
+  <string name="weixin_sticker_tag_str">WeChat Sticker</string>
   <string name="wifi_state">WLAN-Verbindung</string>
   <string name="xiaomi_account">Mi-Konto</string>
   <string name="year_month_day_format">MMM dd, yyyy</string>

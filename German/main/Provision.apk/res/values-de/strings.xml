@@ -2,6 +2,8 @@
 <resources>
   <string name="agree">Bestätigen</string>
   <string name="congratulation_label"/>
+  <string name="desc_extra_fingerprint"/>
+  <string name="desc_fingerprint">Benutzen Sie Ihren Fingerabdruck, um das Telefon zu entsperren, Mi Pay Transaktionen zu verifizieren, oder sich bei Apps und Diensten anzumelden.</string>
   <string name="disagree">Abbrechen</string>
   <string name="ime_privacy_policy">Datenschutzbestimmungen für ausgewählte Tastatur</string>
   <string name="ime_privacy_policy_no_network">Keine Verbindung zum Netzwerk. Die Datenschutzbestimmungen für diese Tastatur sehen Sie unter %s</string>
@@ -15,6 +17,7 @@
   <string name="multisim_settings_title">2 SIM - Karten wurden erkannt</string>
   <string name="network_access_warning">Man muss mit dem Internet verbunden sein, um die Mi-Services aktivieren zu können. </string>
   <string name="next">Weiter</string>
+  <string name="next_fingerprint">Weiter</string>
   <string name="other_settings">Weitere Einstellungen</string>
   <string name="other_settings_location">Standort</string>
   <string name="other_settings_location_summary">Erlaube Apps deinen Standort anzuzeigen</string>
@@ -47,6 +50,7 @@ Datenschutzbestimmungen für die aktuelle Tastatur anzeigen"</string>
   <string name="terms_of_use_label">"Ihre Privatsphäre ist uns sehr wichtig. Bitte lesen Sie die Allgemeinen Geschäftsbedinungen und die Datenschutzbestimmungen, um zu sehen, welche Daten wir sammeln, wie wir diese nutzen und welche Möglichkeiten Sie haben.
 Um MIUI benutzen zu können, müssen Sie den Allgemeinen Geschäftsbedingungen und den Datenschutzbestimmungen zustimmen."</string>
   <string name="title_congratulation">"Glückwunsch, jetzt können Sie loslegen!"</string>
+  <string name="title_fingerprint">Fügen Sie Ihren Fingerabdruck hinzu</string>
   <string name="user_agreement">Servicebestimmungen</string>
   <string name="welcome">Willkommen</string>
 </resources>

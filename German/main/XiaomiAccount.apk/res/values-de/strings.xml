@@ -20,6 +20,7 @@
   <string name="account_error_shorter_user_name">Der Benutzername muss mehr als zwei Ziffern enthalten</string>
   <string name="account_error_user_birthday">Das Geburtsdatum ist ungültig</string>
   <string name="account_learn_more_title">Erstellen Sie kostenlos ein Mi Konto</string>
+  <string name="account_limit_update_birthday">Entschuldigung, Ihre Anfrage kann im Moment nicht bearbeitet werden.</string>
   <string name="account_name">Konto: %1$s</string>
   <string name="account_no_set">Leer</string>
   <string name="account_none">Leer</string>

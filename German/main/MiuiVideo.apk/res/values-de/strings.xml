@@ -110,6 +110,7 @@
   <string name="dlna_list_name">DLNA-Gerät</string>
   <string name="dlna_name">Gerät teilen</string>
   <string name="douban_score">Score</string>
+  <string name="download">Download</string>
   <string name="download_add_success">Download hinzugefügt</string>
   <string name="download_error">Offline-Fehler</string>
   <string name="download_fail">Fehlgeschlagen</string>
@@ -276,6 +277,7 @@
   <string name="router_update">Sie benötigen Upgrade Xiaomi Router Anwendung.</string>
   <string name="score">Bewertung  </string>
   <string name="score_by">Bewertung: %s</string>
+  <string name="score_douban">Douban Bewertung: %1$s</string>
   <string name="sdcard_storage">Interner Speicher</string>
   <string name="search">Suche</string>
   <string name="search_hint">Suche Online-Video</string>
