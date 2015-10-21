@@ -100,6 +100,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="additional_system_update_menu"/>  
   <string name="additional_system_update_settings_list_item_title">Zusätzliche Systemupdates</string>
   <string name="adjust_3d_depth_title">"Spiele anpassen' 3D Tiefe"</string>
+  <string name="advanced_security_title">Erweitert</string>
   <string name="advanced_settings">Erweiterte Einstellungen</string>
   <string name="advanced_settings_summary">Weitere Einstellungsoptionen aktivieren</string>
     <string name="advanced_text_layout">Aktivieren Sie erweiterte Textlayouts</string>
