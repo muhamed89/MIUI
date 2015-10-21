@@ -157,8 +157,8 @@
   <string name="msg_update_error_code_unknown_error">Unbekannter Fehler</string>
   <string name="name_optimizer">"Datenschutzrichtlinie von Cheetah Mobile"</string>
   <string name="notification_summary_after_auto_cleanup">%s bereinigt</string>
-  <string name="notification_summary_of_garbage_cleanup">Ihr Müll ist über %s</string>
-  <string name="notification_title_of_garbage_cleanup">Müllgrösse</string>
+  <string name="notification_summary_of_garbage_cleanup">Ihr Müll ist größer als %s</string>
+  <string name="notification_title_of_garbage_cleanup">Müllgröße</string>
   <string name="ok">OK</string>
   <string name="optimizecenter_data_support">Präsentiert von Clean Master</string>
   <string name="positive_confirm">OK</string>

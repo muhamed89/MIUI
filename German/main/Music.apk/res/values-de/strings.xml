@@ -114,10 +114,10 @@
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
-  <string name="empty_page_no_album">Keine Alben.</string>
-  <string name="empty_page_no_artist">Keine Künstler.</string>
-  <string name="empty_page_no_document">Keine Audiodateien.</string>
-  <string name="empty_page_no_track">Keine Titel.</string>
+  <string name="empty_page_no_album">Keine Alben</string>
+  <string name="empty_page_no_artist">Keine Künstler</string>
+  <string name="empty_page_no_document">Keine Audiodateien</string>
+  <string name="empty_page_no_track">Keine Titel</string>
   <string name="enabled">Aktiviert</string>
   <string name="english_female">Weibliche Sänger aus Europa und Amerika</string>
   <string name="english_group">Musikgruppen aus Europa und Amerika</string>

@@ -967,12 +967,12 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="disable_service_title">%1$s beenden?</string>
   <string name="disable_text">Ausschalten</string>
   <string name="disabled">Ausgeschaltet</string>
-  <string name="disabled_because_no_backup_security">Um dies zu verwenden, zunächst eine Bildschirmsperre einstellen</string>
+  <string name="disabled_because_no_backup_security">Um diese Funktion zu verwenden, muss zuerst eine Bildschirmsperre eingerichtet werden</string>
   <string name="disconnect">Trennen</string>
   <string name="display_auto_rotate_rotate">An</string>
   <string name="display_auto_rotate_stay_in_current">Aus</string>
-  <string name="display_auto_rotate_stay_in_landscape">Landschaft sperren</string>
-  <string name="display_auto_rotate_stay_in_portrait">Portrait sperren</string>
+  <string name="display_auto_rotate_stay_in_landscape">Querformat fixieren</string>
+  <string name="display_auto_rotate_stay_in_portrait">Hochformat fixieren</string>
   <string name="display_auto_rotate_title">Automatisch Bildschirm drehen</string>
   <string name="display_font_size_label">Schriftgröße:</string>
   <string name="display_label">Bildschirm</string>
@@ -2963,7 +2963,7 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="unmount_inform_text">USB-Speicher wird getrennt.</string>
   <string name="untitled_apn">Unbenannt</string>
   <string name="update_progress_for_updates">Aktualisiere (%s)</string>
-  <string name="upload_debug_log_summary">Helfen Sie Xiaomi bei der Verbesserung der Produkt-und Servicequalität, indem Sie anonyme Diagnose-und Nutzungsdaten senden</string>
+  <string name="upload_debug_log_summary">Helfen Sie Xiaomi bei der Verbesserung der Produkt- und Servicequalität, indem Sie anonyme Diagnose- und Nutzungsdaten senden</string>
   <string name="upload_debug_log_title">Benutzererfahrungen</string>
   <string name="usage_access_title">Apps mit Nutzungszugang</string>
   <string name="usage_log">App Nutzungsstatistiken</string>
