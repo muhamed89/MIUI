@@ -2,10 +2,10 @@
 <resources>
   <string name="ac_gree">Gree Klimaanlage</string>
   <string name="action_settings">Einstellungen</string>
-  <string name="activity_stb_list_title">Wählen Sie die Set-top-Box</string>
+  <string name="activity_stb_list_title">Wählen Sie die Set-Top-Box</string>
   <string name="actor_intro_title_text">Cast</string>
   <string name="add">Hinzufügen</string>
-  <string name="add_control">Fernbedienung verbinden</string>
+  <string name="add_control">Fernbedienung einrichten</string>
   <string name="add_control_frame">Fernbedienung %1$s hinzufügen</string>
   <string name="add_device">Neues Gerät verbinden</string>
   <string name="add_device_match_desc_bottom">    3. Verbindung bestätigen</string>
@@ -13,7 +13,7 @@
   <string name="add_device_match_desc_top">    1. Richten Sie Ihr Mi Gerät auf Ihre %1$s</string>
   <string name="add_device_remote">Verbinde %1$s</string>
   <string name="add_more">Mehr Infrarot-Geräte hinzufügen</string>
-  <string name="add_new_control">Neue Fernbedienung verbinden</string>
+  <string name="add_new_control">Neue Fernbedienung einrichten</string>
   <string name="agree">Bestätigen</string>
   <string name="airkan_disconnect">Nicht verbunden</string>
   <string name="airkan_disconnect_display_name">Nicht verbunden</string>
@@ -47,7 +47,7 @@
   <string name="application">Apps</string>
   <string name="back">Zurück</string>
   <string name="bedroom">Schlafzimmer</string>
-  <string name="bind_stb_dlg">Verbinde die Set-Top-Box um den Kanal zu wechseln</string>
+  <string name="bind_stb_dlg">Verbinden Sie die Set-Top-Box, um den Kanal zu wechseln</string>
   <string name="bind_stb_dlg_agree">Jetzt verbinden</string>
   <string name="brand_device">%1$s %2$s</string>
   <string name="brand_search_box_hint">Hersteller auswählen</string>
@@ -183,6 +183,8 @@
   <string name="ir_device_fan">Lüfter</string>
   <string name="ir_device_iptv">IPTV</string>
   <string name="ir_device_ir">Infrarot Fernbedienung</string>
+  <string name="ir_device_shared">Verfügbare IR</string>
+  <string name="ir_device_all_ir">Alle IR</string>
   <string name="ir_device_lamp">Licht</string>
   <string name="ir_device_mibox">Mi Box</string>
   <string name="ir_device_milink">WLAN Gerät</string>
@@ -216,7 +218,7 @@
   <string name="match_ac_intro_power">Freigeben wenn die Klimaanlage ausgestellt wird</string>
   <string name="match_ac_name_mode">Kalt</string>
   <string name="match_ac_name_power">Aus</string>
-  <string name="match_count_frame">Paire %1$d/%2$d die Fernbedienung</string>
+  <string name="match_count_frame">Verbinde %1$d/%2$d Fernbedienungen</string>
   <string name="match_data">Pairing Info</string>
   <string name="match_dataset_frame">%1$d/%2$d</string>
   <string name="match_dvd_intro_pause">Freigeben wenn die DVD Abspielung pausiert wird</string>
@@ -268,7 +270,7 @@
   <string name="mitv_assistant_setting_version">Mi TV Kontrol-Version %1$s</string>
   <string name="mode">Modus</string>
   <string name="more">Modus</string>
-  <string name="mute">Mudus</string>
+  <string name="mute">Stumm</string>
   <string name="network_diagnosis">Teste Netzwerk</string>
   <string name="network_no_connection">"Netzwerkverbindung fehlgeschlagen. Überprüfen Sie Ihre Netzwerkverbindung und versuchen Sie es erneut."</string>
   <string name="network_ok">Keine Probleme erkannt</string>
@@ -416,9 +418,9 @@ Um Ihr Konto zu aktivieren, folgen Sie dem
   <string name="passport_title_reg">Ein Konto kreieren</string>
   <string name="passport_trust_device">Diesem Gerät vertrauen</string>
   <string name="passport_user_agreement">Nutzervereinbarung</string>
-  <string name="passport_user_agreement_p1">Zustimmen </string>
+  <string name="passport_user_agreement_p1">Akzeptieren Sie unsere </string>
   <string name="passport_user_agreement_p2">Nutzervereinbarung</string>
-  <string name="passport_user_agreement_p3"> und </string>
+  <string name="passport_user_agreement_p3">" und "</string>
   <string name="passport_user_agreement_p4">Datenschutzerklärung</string>
   <string name="passport_vcode">Bestätigungscode</string>
   <string name="passport_vcode_notification_title">Ihre Anmeldebestätigung ist unvollständig</string>
@@ -463,16 +465,16 @@ Um Ihr Konto zu aktivieren, folgen Sie dem
   <string name="scanning_milink">Sucht nach Geräten…</string>
   <string name="scene_default">Standard</string>
   <string name="scene_name_frame">%1$s %2$s%3$s</string>
+  <string name="search_failed">"Suche fehlgeschlagen"</string>
   <string name="scene_name_frame_short">%1$s%2$s</string>
-  <string name="search_failed">"Konnte nicht suchen"</string>
   <string name="search_history">Suche</string>
   <string name="search_history_clear">History löschen</string>
-  <string name="search_history_empty">Keine Such-History.</string>
+  <string name="search_history_empty">Kein Suchverlauf.</string>
   <string name="search_more_failed">"Konnte keine Ergebnisse laden"</string>
   <string name="search_no_result">Keine Ergebnisse.</string>
   <string name="search_video_app_hint">Suche</string>
   <string name="select_area">Standort auswählen</string>
-  <string name="select_brand">%s ausgewählt</string>
+  <string name="select_brand">%s auswählen</string>
   <string name="select_dvb_carrier">Dienstanbieter auswählen</string>
   <string name="service_info">Dienst Information</string>
   <string name="setting_airkan">WIRELESS ANZEIGE</string>
@@ -501,6 +503,7 @@ Um Ihr Konto zu aktivieren, folgen Sie dem
   <string name="share_media_area">"Land: "</string>
   <string name="share_media_director">"Regisseur: "</string>
   <string name="share_media_score">"Rezension: "</string>
+  <string name="share_switch">Fernbedienung teilen</string>
   <string name="share_title_share_to">Teilen mit</string>
   <string name="share_title_to_mitalk">Teilen mit</string>
   <string name="share_title_to_mitalk_ellipsis">…</string>
@@ -531,7 +534,7 @@ Um Ihr Konto zu aktivieren, folgen Sie dem
   <string name="timer">Timer</string>
   <string name="title_nodata_feedback">"Konnte keine Geräteinfo erhalten"</string>
   <string name="to_qq">Öffne QQ und tritt der Gruppe bei</string>
-  <string name="to_qq_maintext">Betritt unsere QQ Gruppe und gib uns Rückmeldung.</string>
+  <string name="to_qq_maintext">Treten Sie unserer QQ Gruppe bei und geben Sie uns Rückmeldung.</string>
   <string name="to_qq_subtext">QQ Gruppe: 259685862</string>
   <string name="tv_broadcast">Fernseher</string>
   <string name="tv_mirror">Controls anzeigen lassen</string>
