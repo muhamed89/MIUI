@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add_alarm">hinzufügen</string>
+  <string name="add_alarm">"  Neuer Wecker  "</string>
   <string name="alarm_alert">Standard Weckton</string>
   <string name="alarm_alert_alert_silenced">Wecker verstummt nach %d Minuten.</string>
   <string name="alarm_alert_snooze_set">Für %d Minuten schlummern.</string>
@@ -66,7 +66,7 @@
   <string name="legal_workday_invalidate_message">(Daten ungültig. Aktualisiere die Einstellungen)</string>
   <string name="legal_workday_message">" (Wecker an Feiertagen ausgeschaltet)"</string>
   <string name="loading_ringtone">Klingelton wird geladen...</string>
-  <string name="menu_add_worldclock">neue Weltzeit</string>
+  <string name="menu_add_worldclock">Neue Weltzeit</string>
   <string name="menu_desk_clock">Schreibtischuhr</string>
   <string name="menu_edit_timer_item">Timer bearbeiten</string>
   <string name="menu_item_dock_settings">Dock-Einstellungen</string>
@@ -104,7 +104,7 @@
   <string name="timer_item_picker_hour">Stunde</string>
   <string name="timer_item_picker_minute">Min</string>
   <string name="timer_item_picker_second">Sek</string>
-  <string name="timer_new_item">neuer Timer</string>
+  <string name="timer_new_item">Neuer Timer</string>
   <string name="timer_notify_text">Schlummern oder Timer verwerfen</string>
   <string name="timer_start_alarm">Zeit ist abgelaufen!</string>
   <string name="timer_title">Timer</string>
