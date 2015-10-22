@@ -24,9 +24,9 @@
         <item>1GB</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>Zeige</item>
+        <item>Zeigen</item>
         <item>"Nicht anzeigen"</item>
-        <item>Zeige nach</item>
+        <item>Danach anzeigen</item>
     </string-array>
     <string-array name="cache_clean_menu">
         <item>Bereinigen</item>
