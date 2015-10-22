@@ -138,13 +138,13 @@
   <string name="hints_quick_cleanuping">Optimierung…</string>
   <string name="hints_quick_scanning">Scanne…</string>
   <string name="hints_residual_header_left">Rückstände</string>
-  <string name="hints_scanfinish">Kein Müll, versuche eine erweiterte Bereinigung</string>
-  <string name="hints_storage_clean_size">Befreite %s internen Speicher</string>
+  <string name="hints_scanfinish">Kein Datenmüll, versuchen Sie eine erweiterte Bereinigung</string>
+  <string name="hints_storage_clean_size">%s internen Speicher freigegeben</string>
   <string name="hints_storage_free">Frei</string>
   <string name="hints_storage_free_size">%s freier Speicher, weitere Elemente können gelöscht werden</string>
   <string name="hints_storage_news">Sicherheitsnachrichten</string>
-  <string name="hints_title_garbage">Müll</string>
-  <string name="item_title_process_mode">Wähle eine Aktion</string>
+  <string name="hints_title_garbage">Datenmüll</string>
+  <string name="item_title_process_mode">Aktion auswählen</string>
   <string name="last_check_canceled">Vorhergehender Scan wurde abgebrochen</string>
   <string name="mainbtn_text_quick_cleanup">%s bereinigen</string>
   <string name="memeory_check_content">%1$d Apps, RAM %2$s</string>
@@ -157,8 +157,8 @@
   <string name="msg_update_error_code_unknown_error">Unbekannter Fehler</string>
   <string name="name_optimizer">"Datenschutzrichtlinie von Cheetah Mobile"</string>
   <string name="notification_summary_after_auto_cleanup">%s bereinigt</string>
-  <string name="notification_summary_of_garbage_cleanup">Ihr Müll ist größer als %s</string>
-  <string name="notification_title_of_garbage_cleanup">Müllgröße</string>
+  <string name="notification_summary_of_garbage_cleanup">Ihr Datenmüll ist größer als %s</string>
+  <string name="notification_title_of_garbage_cleanup">Datenmüll</string>
   <string name="ok">OK</string>
   <string name="optimizecenter_data_support">Präsentiert von Clean Master</string>
   <string name="positive_confirm">OK</string>
@@ -173,7 +173,7 @@
   <string name="pref_summary_cleanup_white_list">Verhindere, dass ausgewählte Apps bereinigt werden</string>
   <string name="pref_summary_expand_cache_group">Zeige Cache-Einzelheiten automatisch</string>
   <string name="pref_summary_garbage_auto_clean_content">Wähle, welche Dinge automatisch bereinigt werden sollen</string>
-  <string name="pref_summary_garbage_cleanup_check_size">Automatische Bereinigung, wenn Papierkorb eine bestimmte Grösse erreicht</string>
+  <string name="pref_summary_garbage_cleanup_check_size">Automatische Bereinigung, wenn der Datenmüll eine bestimmte Grösse erreicht</string>
   <string name="pref_summary_garbage_cleanup_check_time">Plane Routinebereinigung</string>
   <string name="pref_summary_garbage_process_mode">Benachrichtigungen während der Bereinigung einstellen</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Hochladen und vergleichen unbekannter Dateien mit einer Onlinedefinition</string>
