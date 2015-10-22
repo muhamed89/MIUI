@@ -632,9 +632,9 @@ Note: Nur für Ubuntu 8.04!"</item>
         <item>Hoch</item>
     </string-array>
     <string-array name="handy_mode_size_text_entries">
-        <item>4.5 Inches</item>
-        <item>4.0 Inches</item>
-        <item>3.5 Inches</item>
+        <item>4.5 Zoll</item>
+        <item>4.0 Zoll</item>
+        <item>3.5 Zoll</item>
     </string-array>
     <string-array name="agps_network_entries">
         <item>Heimnetzwerk</item>
