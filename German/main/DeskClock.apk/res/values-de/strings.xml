@@ -84,6 +84,8 @@
   <string name="shutdown_alarm_disable_summary">Standby Alarm ist AUS</string>
   <string name="shutdown_alarm_enable_summary">Standby Alarm ist AN</string>
   <string name="shutdown_alarm_title">Standby Alarm</string>
+  <string name="skip_alarm_date_format">%1$s(%2$s)</string>
+  <string name="skip_alarm_once_hint">Am %s einmalig ausschalten</string>
   <string name="silent_alarm_summary">Lautlosmodus</string>
   <string name="slider_text">Zum Ausschalten nach oben wischen</string>
   <string name="snooze_confirm_cancel">Schlummern abbrechen</string>
@@ -109,6 +111,10 @@
   <string name="timer_start_alarm">Zeit ist abgelaufen!</string>
   <string name="timer_title">Timer</string>
   <string name="timezone_exist_error_message">Diese Zeitzone wird bereits angezeigt</string>
+  <string name="today">Heute</string>
+  <string name="tomorrow">Morgen</string>
+  <string name="turn_off_a_repeat_alarm">Wiederkehrenden Wecker ausschalten</string>
+  <string name="turn_off_this_repeat_alarm">Diesen wiederkehrenden Wecker ausschalten</string>
   <string name="vibrate_pref_summary">Bei Alarm vibrieren</string>
   <string name="vibrate_when_ringing">Vibrieren beim Klingeln</string>
   <string name="volume_button_setting_summary">Verhalten dieser Tasten während Wecker klingelt</string>
