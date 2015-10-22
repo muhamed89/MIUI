@@ -93,6 +93,19 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="add_auto_startup_application">Autostart-Apps hinzufügen</string>
   <string name="add_device_admin">Aktivieren</string>
   <string name="add_device_admin_msg">Geräteadministrator aktivieren?</string>
+  <string name="add_fingerprint_done_msg">Sie können Ihr Gerät nun mit Ihrem Fingerabdruck entsperren.</string>
+  <string name="add_fingerprint_done_title">Fertig!</string>
+  <string name="add_fingerprint_finished_button_text">Fertig</string>
+  <string name="add_fingerprint_instruction_dialog_msg">"Platzieren Sie Ihren Finger auf dem Sensor, um die Fingerabdruckdaten zu speichern.
+Vergewissern Sie sich, dass sich der Finger innerhalb der Sensorkanten befindet"</string>
+  <string name="add_fingerprint_instruction_msg">Entsperren Sie Ihr Gerät oder verifizieren Sie Zahlungen mit Ihrem Fingerabdruck</string>
+  <string name="add_fingerprint_instruction_title">Platzieren Sie Ihren Finger auf dem Sensor</string>
+  <string name="add_fingerprint_move_finger_title">Finger wegnemhme</string>
+  <string name="add_fingerprint_put_finger_edge_msg">Nachdem Sie den Sensor gedrückt haben, nehmen Sie den Finger weg und wiederholen Sie den Vorgang.</string>
+  <string name="add_fingerprint_put_finger_msg">Nachdem Sie den Sensor gedrückt haben, nehmen Sie den Finger weg und wiederholen Sie den Vorgang.</string>
+  <string name="add_fingerprint_put_finger_title">Finger platzieren</string>
+  <string name="add_fingerprint_text">Fingerabdruck hinzufügen</string>
+  <string name="add_fingerprint_toast_text">Legen Sie Ihren Finger jetzt auf den Sensor</string>
   <string name="adding_profile_owner_warning">"Wenn Sie weiter vorgehen, wird Ihr User Konto von Ihrem Administrator verwaltet, der dann auch zugeordneten Daten neben Ihren persönlichen Daten speichern kann.
 
 Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu überwachen und verwalten, die mit diesem User Konto, einschließlich Netzwerkaktivität und Standortinformationen Ihres Geräts, verbunden sind."</string>
@@ -220,7 +233,9 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="applications_settings">Programme</string>
   <string name="applications_settings_header">App-Einstellungen</string>
   <string name="applications_settings_summary">Apps verwalten, Verknüpfungen für Schnellstart festlegen</string>
+  <string name="apply_fingerprint_to_category_title">Fingerabdruck anwenden...</string>
   <string name="apply_now_button_text">Update</string>
+  <string name="apply_password_to_category_title">Passwort anwenden...</string>
   <string name="apply_update_fail">Update fehlgeschlagen.</string>
   <string name="apps_with_restrictions_header">Apps mit Einschränkungen</string>
   <string name="apps_with_restrictions_settings_button">App-Einstellungen erweitern</string>
@@ -909,6 +924,13 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="default_sound">Standard Ton</string>
   <string name="default_usb_mode">USB Verbindung</string>
   <string name="delete">Löschen</string>
+  <string name="delete_backup_process">Löschen...</string>
+  <string name="delete_backup_title">Backup löschen</string>
+  <string name="delete_failed_backup_confirm">Dieses Backup ist fehlerhaft.</string>
+  <string name="delete_fingerprint_confirm_msg">Fingerabdruck löschen?</string>
+  <string name="delete_fingerprint_text">Fingerabdruck löschen</string>
+  <string name="delete_legacy_fingerprint">Löschen</string>
+  <string name="delete_or_keep_legacy_passwords_confirm_msg">Fingerabdruckdaten löschen?</string>
   <string name="deny">Ablehnen</string>
   <string name="deny_sms_message">Installierten Apps das Senden von SMS verbieten</string>
   <string name="deny_sms_title">SMS sperren</string>
@@ -1196,6 +1218,13 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="filter_apps_running">Aktiv</string>
   <string name="filter_apps_third_party">Geladene</string>
   <string name="filter_dlg_title">Filteroptionen auswählen</string>
+  <string name="findlost_contact">Kontakte wiederherstellen</string>
+  <string name="findlost_contact_online">Kontakte aus Mi Cloud wiederherstellen</string>
+  <string name="fingerprint_and_password_entrance_title">Passwort &amp; Fingerabdruck</string>
+  <string name="fingerprint_identificating_msg">Fingerabdruck scannen...</string>
+  <string name="fingerprint_identify_input_password_msg">Passwort eingeben</string>
+  <string name="fingerprint_identify_try_again_msg">"Scan fehlgeschlagen, nochmals versuchen?"</string>
+  <string name="fingerprint_list_title">Fingerabdruck</string>
   <string name="finish_application">Ende</string>
   <string name="finish_button_label">Fertigstellen</string>
   <string name="firmware_version">Android-Version</string>
@@ -1346,6 +1375,7 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="incoming_call_breathing_light_color_title">Anruffarbe</string>
   <string name="incoming_call_breathing_light_freq_title">Anrufe LED Blinkfrequenz</string>
   <string name="incoming_call_volume_title">Klingelton</string>
+  <string name="information_dialog_button_text">Verstanden</string>
   <string name="input_method">Eingabemethode</string>
   <string name="input_method_selector">Auswahl der Eingabemethoden</string>
   <string name="input_method_selector_always_hide_title">Nie anzeigen</string>
@@ -1355,7 +1385,7 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="input_method_selector_show_automatically_title">Automatisch</string>
   <string name="input_method_selector_show_automatically_value">0</string>
   <string name="input_method_selector_visibility_default_value">0</string>
- <string name="input_method_settings">Einstellungen</string>
+  <string name="input_method_settings">Einstellungen</string>
   <string name="input_method_settings_button">Einstellungen</string>
   <string name="input_methods_and_subtype_enabler_title">Aktive Eingabemethoden auswählen</string>
   <string name="input_methods_settings_label_format">%1$s-Einstellungen</string>
@@ -1393,6 +1423,7 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="join_many_items_last">%1$s und %2$s</string>
   <string name="join_many_items_middle">%1$s, %2$s</string>
   <string name="join_two_items">%1$s und %2$s</string>
+  <string name="keep_legacy_fingerprint">Behalten</string>
   <string name="keep_screen_on">Aktiv lassen</string>
   <string name="keep_screen_on_summary">Bildschirm während des Ladevorgangs nicht ausschalten</string>
   <string name="kernel_version">Kernelversion</string>
@@ -1680,6 +1711,7 @@ Um auch Musik, Bilder und sonstige Nutzerdaten zu löschen, muss der "<b>USB-Spe
   <string name="master_clear_title">Auf Werkszustand zurücksetzen</string>
   <string name="max_cpu6_info">Hexa-core Max</string>
   <string name="max_cpu8_info">"Octa-core Max "</string>
+  <string name="max_fingerprint_number_reached">"Es können nicht mehr als 5 Fingerabdrücke gespeichert werden. Um einen weiteren hinzuzufügen, müssen Sie zuerst einen Fingerabdruck löschen."</string>
   <string name="media_button">Medien-Taste</string>
   <string name="media_category">Medien</string>
   <string name="media_feedback_enable_title">Mit dem Beat vibrieren</string>
@@ -1995,6 +2027,7 @@ Betriebssystem auswählen:"</string>
   <string name="page_layout_page2_small_title">Extra Klein</string>
   <string name="page_layout_page2_title">Vorschau</string>
   <string name="page_layout_small_title">Extra Klein</string>
+  <string name="password_entrance_title">Passwort</string>
   <string name="passwordIncorrect">Das eingegebene Passwort ist falsch</string>
   <string name="password_guard">Passwort</string>
   <string name="performance_category">Leistung</string>
@@ -2469,6 +2502,7 @@ Um Screen-Pinning zu nutzen:
   <string name="search_vpn">VPN</string>
   <string name="search_wallpaper">Hintergrund</string>
   <string name="search_wifi">WLAN</string>
+  <string name="secure_keyguard_business_title">Sperrbildschirm-Passwort</string>
   <string name="secure_lock_encryption_warning">"Da Sie einen Barrierefreiheitsdienst eingeschaltet haben, wird das Gerät Ihre Bildschirmsperre nicht verwenden, um die Datenverschlüsselung zu verbessern."</string>
   <string name="security_enable_widgets_disabled_summary">Vom Administrator deaktiviert</string>
   <string name="security_enable_widgets_title">Widgets aktivieren</string>
@@ -2906,9 +2940,11 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="tts_status_ok">%1$s wird unterstützt</string>
   <string name="tts_status_requires_network">%1$s erfordert eine Netzwerkverbindung</string>
   <string name="tts_status_title">Standard Sprache</string>
+  <string name="turn_off_common_password_confirm_msg">Das Passwort wird ebenfalls deaktiviert.</string>
   <string name="turn_off_radio">Mobilfunkverbindung ausschalten</string>
   <string name="turn_off_security_lock">Sperre abschalten</string>
-  <string name="turn_on_radio">Radio anschalten</string>
+  <string name="turn_on_security_lock">Passwort hinzufügen</string>
+  <string name="turn_on_radio">Radio anschalten</string>  
   <string name="uicc_eject">UICC-Speicher auswerfen</string>
   <string name="uicc_eject_summary">Werfen Sie den UICC-Speicher aus, damit Sie Ihn sicher trennen können</string>
   <string name="uicc_format">Lösche UICC-Speicher</string>
