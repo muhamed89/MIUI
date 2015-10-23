@@ -433,7 +433,7 @@
   <string name="vp_retry">Wiederholen</string>
   <string name="vp_scale_screen">Seitenverhältnis</string>
   <string name="vp_screen_shot">Erfassen</string>
-  <string name="vp_select_ci"></string>
+  <string name="vp_select_ci">Episode auswählen</string>
   <string name="vp_select_ep">Episode auswählen</string>
   <string name="vp_select_function">Funktion auswählen</string>
   <string name="vp_select_source">Quelle auswählen</string>
