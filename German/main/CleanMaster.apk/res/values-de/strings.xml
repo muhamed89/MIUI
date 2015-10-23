@@ -64,7 +64,7 @@
   <string name="clean_content_three">3 Stück</string>
   <string name="clean_content_two">2 Stück</string>
   <string name="clean_content_zero">Nichts</string>
-  <string name="clear_bigfiles">Große Dateien löschen, doppelte Fotos und andere unnötige Elemente</string>
+  <string name="clear_bigfiles">Große Dateien, doppelte Fotos und andere unnötige Elemente löschen</string>
   <string name="clear_immediately">Jetzt bereinigen</string>
   <string name="clear_safe_notify">Security Benachrichtigungsleiste</string>
   <string name="confirm_auto_cleaner">OK</string>
@@ -238,6 +238,7 @@
   <string name="privacy_search_type">Google Suche</string>
   <string name="sc_allow_network_dialog_button">Erlaube</string>
   <string name="sc_allow_network_dialog_message">Erlaube der App, sich mit dem Internet zu verbinden, um Updates zu erhalten?</string>
+  <string name="seton_immediately">Einschalten</string>
   <string name="similar_image_desc">Lösche ähnliche Fotos</string>
   <string name="similar_image_empty">Keine Duplikate gefunden</string>
   <string name="similar_image_scaning">Überprüfe…</string>
