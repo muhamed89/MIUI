@@ -210,7 +210,7 @@
   <string name="local_video">Video</string>
   <string name="login_reg_content">Speichern von Dateien und Synchronisierung auf mehrere Geräte.</string>
   <string name="login_reg_content0">Alle Ihre Inhalte. Wohin Sie auch gehen.</string>
-  <string name="make_private">Privatisieren</string>
+  <string name="make_private">Zu privaten Dateien hinzufügen</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_item_cleanup">Dateibereinigung</string>
   <string name="menu_item_ftp">FTP</string>
@@ -266,8 +266,8 @@
   <string name="network_spent_reminding_title">Datenverbrauchswarnung</string>
   <string name="never_notify_network_connect">"Nicht mehr anzeigen"</string>
   <string name="new_folder_name">Neuer Ordner</string>
-  <string name="new_function">Über private Ordner</string>
-  <string name="new_function_info">"Private Ordner sind ein neue Funktion in MIUI.
+  <string name="new_function">Über \"Privater Ordner\"</string>
+  <string name="new_function_info">"\"Privater Ordner\" ist ein neue Funktion in MIUI.
 Sie können Ihre Daten verschlüsseln
 und Sie an einem sicheren Ort speichern.
 
