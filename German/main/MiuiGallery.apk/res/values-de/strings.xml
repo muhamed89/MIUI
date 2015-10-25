@@ -27,8 +27,8 @@
   <string name="add_to_secret_failed_message_with_count">"%2$s Datei kann nicht zu verborgenen Album hinzugefügt werden. %1$s."</string>
   <string name="add_to_secret_successfully_message">Zu verborgenen Album hinzugefügt</string>
   <string name="add_to_secret_unfinished_message_with_count">"%1$s Dateien wurden nicht zu verborgenen Album hinzugefügt."</string>
-  <string name="adding_recipients">Füge Empfänger hinzu...</string>
-  <string name="adjust">Verbessert</string>
+  <string name="adding_recipients">Empfänger hinzufügen...</string>
+  <string name="adjust">Anpassen</string>
   <string name="album_member">Albumbenutzer %s</string>
   <string name="album_name">Albumname</string>
   <string name="album_quota_fulfiled">"Zu viele Alben. Löschen Sie einige Alben und erneut versuchen."</string>
@@ -568,7 +568,7 @@
   <string name="context_menu_copy">Kopieren</string>
   <string name="context_menu_copy_notice">Auswahl in die Zwischenablage kopiert</string>
   <string name="contrast">Kontrast</string>
-  <string name="contrast_abbr">C</string>
+  <string name="contrast_abbr">K</string>
   <string name="contrast_polymorphism">photoeditor_effect_contrast</string>
   <string name="cool">Cool</string>
   <string name="cool_portrait">Portrait</string>
@@ -916,7 +916,7 @@
   <string name="paint_crop_cancel_context">Zugeschnittenes Bild speichern?</string>
   <string name="paint_crop_cancel_title">Änderungen verwerfen</string>
   <string name="paint_crop_tips">Platzieren Sie den Zielbereich des Bildes in der Nähe der Mitte des Rasters.</string>
-  <string name="paint_highlight">Helligkeit</string>
+  <string name="paint_highlight">Kritzeln</string>
   <string name="paint_highlight_cancel_context">Markiertes Bild speichern?</string>
   <string name="paint_highlight_cancel_title">Änderungen verwerfen</string>
   <string name="path">Pfad</string>
