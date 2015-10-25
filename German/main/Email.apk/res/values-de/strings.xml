@@ -57,8 +57,8 @@
   <string name="account_settings_sync_email_summary">Synchronisiere E-Mail für dieses Konto</string>
   <string name="account_settings_unsupported_label">Nicht unterstützte Richtlinien</string>
   <string name="account_settings_unsupported_summary">Nichts</string>
-  <string name="account_settings_using_ringtone">Klingelton</string>
-  <string name="account_settings_vibrate_when_label">Vibriere</string>
+  <string name="account_settings_using_ringtone">Benachrichtigungston</string>
+  <string name="account_settings_vibrate_when_label">Vibrieren</string>
   <string name="account_setup_account_type_instructions">Welche Art von Konto ist das?</string>
   <string name="account_setup_account_type_title">Kontoeinrichtung</string>
   <string name="account_setup_address_label">E-Mail</string>

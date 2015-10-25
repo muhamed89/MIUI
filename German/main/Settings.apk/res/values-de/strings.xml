@@ -660,7 +660,7 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="category_personal">Persönlich</string>
   <string name="category_work">Arbeit</string>
   <string name="cdma_security_settings_summary">Meinen Standort, Bildschirmsperre, SIM-Kartensperrung und Sperrung des Anmeldeinformationsspeichers festlegen</string>
-  <string name="cell_broadcast_settings">Notfallsendungen</string>
+  <string name="cell_broadcast_settings">Notfallbenachrichtigung</string>
   <string name="cellular_data_summary">Datennutzung über Mobilfunknetz zulassen</string>
   <string name="cellular_data_title">Handy-Daten</string>
   <string name="change_password">Passwort ändern</string>
@@ -3002,7 +3002,7 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="update_progress_for_updates">Aktualisiere (%s)</string>
   <string name="upload_debug_log_summary">Helfen Sie Xiaomi bei der Verbesserung der Produkt- und Servicequalität, indem Sie anonyme Diagnose- und Nutzungsdaten senden</string>
   <string name="upload_debug_log_title">Benutzererfahrungen</string>
-  <string name="usage_access_title">Apps mit Nutzungszugang</string>
+  <string name="usage_access_title">Apps mit Datenzugriff</string>
   <string name="usage_log">App Nutzungsstatistiken</string>
   <string name="usage_name_percent">"%1$s - %2$s %%"</string>
   <string name="usage_stats_label">Nutzungsstatistik</string>
@@ -3276,7 +3276,7 @@ Jeder Nutzer kann aktualisierte App-Berechtigungen im Namen aller anderen Nutzer
   <string name="vpn_username">Nutzername</string>
   <string name="wait_for_debugger">Warte auf Debugger</string>
   <string name="wait_for_debugger_summary">App wartet vor der Ausführung auf den Start des Debuggers</string>
-  <string name="wakeup_for_keyguard_notification_title"/>
+  <string name="wakeup_for_keyguard_notification_title">Bei Benachrichtigungen Bildschirmbeleuchtung einschalten</string>
   <string name="wallpaper_attributions">Wallpapers</string>
   <string name="wallpaper_attributions_values">"Satellitenbildanbieter:
 ©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string> 
