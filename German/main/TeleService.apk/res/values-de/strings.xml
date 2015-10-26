@@ -1158,7 +1158,7 @@ Falls dieses Problem weiterhin besteht, setzen Sie sich mit Ihrem Mobilfunkanbie
   <string name="voicemail_settings_number_label">Mailboxnummer</string>
   <string name="voicemail_settings_number_title">Mailboxnummer</string>
   <string name="voip_setting">VoIP settings</string>
-  <string name="wait_prompt_str">"Die folgenden Töne senden?
+  <string name="wait_prompt_str">"Die folgenden Töne senden?</string>
   <string name="wifi_calling_call_assistant">Anrufassistent</string>
   <string name="wifi_calling_call_assistant_configure">Konfigurieren</string>
   <string name="wifi_calling_call_assistant_configure_no_selection">Gesprächsassistent aus</string>
