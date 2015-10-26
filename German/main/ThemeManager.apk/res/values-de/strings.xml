@@ -11,7 +11,7 @@
   <string name="apply_font_btn_exclude">Nicht anwenden</string>
   <string name="apply_font_btn_reboot">Neustarten</string>
   <string name="apply_font_tip">Zum Anwenden der Schriftart ist ein Neustart erforderlich.</string>
-  <string name="apply_theme_with_ringtones">Thema Klingelton verwenden</string>
+  <string name="apply_theme_with_ringtones">Themen-Klingelton verwenden</string>
   <string name="backup_preference_title">Thema sichern</string>
   <string name="backup_theme_dialog_message">Aktuelles Thema sichern?</string>
   <string name="backup_theme_dialog_ok">Sichern</string>
@@ -335,8 +335,8 @@
   <string name="theme_fresh_man_notifaction">Neue Themes verfügbar</string>
   <string name="theme_immediately_apply_tip">Theme Update jetzt anwenden?</string>
   <string name="theme_import_from_sdcard">Importieren</string>
-  <string name="theme_is_external_priority_storage">Auf SD Karte speichern</string>
-  <string name="theme_is_external_priority_storage_summary">Themes App startet neu um die Änderung anzuwenden</string>
+  <string name="theme_is_external_priority_storage">Auf SD-Karte speichern</string>
+  <string name="theme_is_external_priority_storage_summary">Die Themes App startet nach jeder Änderung neu</string>
   <string name="theme_multiple_button_title_customize">Verändern</string>
   <string name="theme_name">%1$s</string>
   <string name="theme_no">Nein</string>

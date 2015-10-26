@@ -59,11 +59,11 @@
   <string name="cache_title_empty_folder2">Leeres Verzeichnis</string>
   <string name="cache_title_system_cache">System-Cache</string>
   <string name="cancel">Abbruch</string>
-  <string name="clean_content_all">Alles</string>
+  <string name="clean_content_all">Alle</string>
   <string name="clean_content_one">1 Stück</string>
   <string name="clean_content_three">3 Stück</string>
   <string name="clean_content_two">2 Stück</string>
-  <string name="clean_content_zero">Nichts</string>
+  <string name="clean_content_zero">Keine</string>
   <string name="clear_bigfiles">Große Dateien, doppelte Fotos und andere unnötige Elemente löschen</string>
   <string name="clear_immediately">Jetzt bereinigen</string>
   <string name="clear_safe_notify">Security Benachrichtigungsleiste</string>
@@ -94,7 +94,7 @@
   <string name="empty_title_ad">Keine Werbung gefunden</string>
   <string name="empty_title_apk">Keine Installationspakete gefunden</string>
   <string name="empty_title_garbage_cache">Nichts zu bereinigen</string>
-  <string name="empty_title_garbage_white_list">Keine Ausnahmen.</string>
+  <string name="empty_title_garbage_white_list">Keine Ausnahmen</string>
   <string name="empty_title_installed_apps">Leer</string>
   <string name="empty_title_large_files">Leer</string>
   <string name="empty_title_residual">Keine Rückstände gefunden</string>
@@ -181,9 +181,9 @@
   <string name="pref_content_cleanup_white_list_none">Nichts</string>
   <string name="pref_summary_auto_clean_and_alert">Automatische Bereinigung einschalten</string>
   <string name="pref_summary_auto_update_cleanup_db">Aktualisiert %s</string>
-  <string name="pref_summary_cleanup_white_list">Verhindere, dass ausgewählte Apps bereinigt werden</string>
-  <string name="pref_summary_expand_cache_group">Zeige Cache-Einzelheiten automatisch</string>
-  <string name="pref_summary_garbage_auto_clean_content">Wähle, welche Dinge automatisch bereinigt werden sollen</string>
+  <string name="pref_summary_cleanup_white_list">Verhindern, dass ausgewählte Apps bereinigt werden</string>
+  <string name="pref_summary_expand_cache_group">Cache-Details automatisch anzeigen</string>
+  <string name="pref_summary_garbage_auto_clean_content">Wählen Sie, welche Dinge automatisch bereinigt werden sollen</string>
   <string name="pref_summary_garbage_cleanup_check_size">Automatische Bereinigung, wenn der Datenmüll eine bestimmte Grösse erreicht</string>
   <string name="pref_summary_garbage_cleanup_check_time">Plane Routinebereinigung</string>
   <string name="pref_summary_garbage_process_mode">Benachrichtigungen während der Bereinigung einstellen</string>
@@ -201,7 +201,7 @@
   <string name="pref_title_garbage_cleanup_check_time">Zeitplan</string>
   <string name="pref_title_garbage_cleanup_size">Papierkorb Größenlimit</string>
   <string name="pref_title_garbage_process_mode">Benachrichtigungen</string>
-  <string name="pref_title_manual_check_cleanup_db_update">Prüfe auf Updates</string>
+  <string name="pref_title_manual_check_cleanup_db_update">Auf Updates prüfen</string>
   <string name="pref_title_open_optimizer_cloud_scan">Hochladen</string>
   <string name="pref_title_open_optimizer_memory_scan">Speicherbereinigung</string>
   <string name="pref_title_auto_deepclean_and_alert">Unbenutzte Apps</string>

@@ -46,14 +46,14 @@ Zuletzt gesichert am %2$s"</string>
   <string name="cloud_space_upgrade_no_quota_info">"Konnte keine Speicherplatzinfo erhalten"</string>
   <string name="cloud_space_upgrade_title">Mehr Speicherplatz für Mi Cloud</string>
   <string name="cloudservice_new_sync">Synchronisiere %s mit Mi Cloud</string>
-  <string name="cmcc_micloud_dspt">Benutze die Mi Cloud um Daten zu synchronisieren, dein Gerät zu finden, und Dinge mit deinen Freunden zu teilen.</string>
+  <string name="cmcc_micloud_dspt">Verwenden Sie Mi Cloud um Ihre Daten zu synchronisieren, Ihr Gerät zu finden und Dinge mit Ihren Freunden zu teilen.</string>
   <string name="contact">Kontakte</string>
   <string name="deskclock_backup">Uhrzeiten Sicherung</string>
   <string name="disable_find_device_error">"Kann Gerätesuche nicht ausschalten. %1$s"</string>
   <string name="enableAll">Synchronisiere alles</string>
   <string name="enable_cloud_service_notification">Sie müssen Mi Cloud aktivieren</string>
   <string name="enable_find_device_error">"Kann Gerätesuche nicht einschalten. %1$s"</string>
-  <string name="enable_micloud">Benutze Mi Cloud</string>
+  <string name="enable_micloud">Mi Cloud verwenden</string>
   <string name="enable_sync">Synchronisiere</string>
   <string name="enable_sync_dspt">"Nicht synchronisieren"</string>
   <string name="error_data_in_transfer">Synchronisation wird in %s Stunden beendet sein.</string>
@@ -127,8 +127,8 @@ Zuletzt gesichert am %2$s"</string>
   <string name="micloud_detail_wlan">%d warte zum synchronisieren</string>
   <string name="micloud_detail_wlan_contact">%d Kontaktfotos warten auf Synchronisation</string>
   <string name="micloud_detail_wlan_mms">%d MMS warten auf Synchronisation</string>
-  <string name="micloud_dspt">Benutzen Sie Mi Cloud um Ihre Daten zu synchronisieren, um Ihr Gerät zu finden,</string>
-  <string name="micloud_dspt_provision">Benutzen Sie Mi Cloud um Ihre Daten zu synchronisieren, um Ihr Gerät zu finden, und Dinge mit Ihren Freunden zu teilen.</string>
+  <string name="micloud_dspt">Verwenden Sie Mi Cloud um Ihre Daten zu synchronisieren, um Ihr Gerät zu finden,</string>
+  <string name="micloud_dspt_provision">Verwenden Sie Mi Cloud um Ihre Daten zu synchronisieren, um Ihr Gerät zu finden, und Dinge mit Ihren Freunden zu teilen.</string>
   <string name="micloud_first_login_summary"/>
   <string name="micloud_first_login_title"/>
   <string name="micloud_full_influence_dspt">"Alle Ihre Fotos, Videos, Notizen und Anwendungen werden in der Cloud gesichert bleiben.
@@ -154,7 +154,7 @@ Berühre den Einstellungsknopf, um mehr Optionen zu sehen"</string>
   <string name="micloud_main_sync_exception">Synchronisationsfehler</string>
   <string name="micloud_main_sync_init">Erhalte Informationen</string>
   <string name="micloud_main_sync_now">Jetzt synchronisieren</string>
-  <string name="micloud_main_sync_on_wifi">Benutze WLAN</string>
+  <string name="micloud_main_sync_on_wifi">WLAN verwenden</string>
   <string name="micloud_main_sync_pause">Synchronisation angehalten</string>
   <string name="micloud_main_sync_setting">Synchronisationseinstellungen</string>
   <string name="micloud_main_sync_stop">Synchronisation gestoppt</string>
@@ -162,7 +162,7 @@ Berühre den Einstellungsknopf, um mehr Optionen zu sehen"</string>
   <string name="micloud_main_syncing">Synchronisiere…</string>
   <string name="micloud_main_title_sync_fail">"Kann nicht synchronisieren"</string>
   <string name="micloud_main_title_sync_off">Synchronisation ausschalten</string>
-  <string name="micloud_main_title_sync_on_wifi">Benutze WLAN</string>
+  <string name="micloud_main_title_sync_on_wifi">WLAN verwenden</string>
   <string name="micloud_main_update_space">Holen Sie sich mehr Speicherplatz.</string>
   <string name="micloud_main_wlan_sync_data_count">%d Dinge warten um synchronisiert zu werden</string>
   <string name="micloud_member">Mi Cloud Mitgliedschaft</string>
@@ -192,7 +192,7 @@ Berühre den Einstellungsknopf, um mehr Optionen zu sehen"</string>
   <string name="micloud_setting_music_summary">Abspiellisten und Favoriten</string>
   <string name="micloud_setting_sms_summary">SMS und MMS Nachrichten</string>
   <string name="micloud_setting_wifi_summary">WLAN Einstellungen</string>
-  <string name="micloud_single_dspt">Benutzen Sie Mi Cloud um Ihre Daten zu synchronisieren, um Ihr Gerät zu finden, und Dinge mit Ihren Freunden zu teilen.</string>
+  <string name="micloud_single_dspt">Verwenden Sie Mi Cloud um Ihre Daten zu synchronisieren, um Ihr Gerät zu finden und Dinge mit Ihren Freunden zu teilen.</string>
   <string name="micloud_space_applist_detail">Verwalte Apps auf dem Startbildschirm</string>
   <string name="micloud_space_applist_title">Verwalte Apps</string>
   <string name="micloud_space_duokan_detail">Herunterladen und Verwalten von E-Books mit der Duokan App.</string>
@@ -209,7 +209,7 @@ Berühre den Einstellungsknopf, um mehr Optionen zu sehen"</string>
   <string name="micloud_sync_alert_dialog_message">Synchronisieren Sie Ihre Fotos, Kontakte, Notizen und mehr auf allen Ihren Geräten.</string>
   <string name="micloud_sync_alert_dialog_negative">Abbrechen</string>
   <string name="micloud_sync_alert_dialog_positive">OK</string>
-  <string name="micloud_sync_alert_dialog_title">Benutze Mi Cloud</string>
+  <string name="micloud_sync_alert_dialog_title">Mi Cloud verwenden</string>
   <string name="micloud_title_dspt" formatted="false">"%s Gesamt
 %s benutzt | %s verbleibend"</string>
   <string name="micloud_title_dspt_remain">%s verbleibend</string>
