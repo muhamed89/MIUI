@@ -11,6 +11,7 @@
   <string name="caller_info_name_delimiter">" oder "</string>
   <string name="copy">Kopieren</string>
   <string name="cut">Ausschneiden</string>
+  <string name="enable_livetalk">Aufladepakete aktivieren</string>
   <string name="fc_dialog_body">Sende Fehlerbericht an Mi zur Analyse? Dieser Fehlerbericht enthält keine persönliche Daten. Ihr Bericht wird verwendet, um diesen Fehler zu beheben und wird nie zu kommerziellen Zwecken genutzt.</string>
   <string name="fc_dialog_jump_to_preview">Zusammenfassung anzeigen</string>
   <string name="first_back_long_press_message">"Langer Druck auf die Zurück-Taste beendet den aktuellen Prozess.
@@ -33,6 +34,7 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen > System > Tasten"</s
   <string name="international_remain_mins">%1$s verbleibende Minuten (%2$s Anrufe)</string>
   <string name="key_btn_ok">OK</string>
   <string name="key_btn_space">Leerzeichen</string>
+  <string name="livetalk_not_enable">Aufladepakete deaktiviert</string>
   <string name="location_usage_restricted_body">Berühren um die Beschränkung aufzuheben.</string>
   <string name="location_usage_restricted_title">Einschränkung der Hintergrundlokalisierung</string>
   <string name="lockscreen_access_pattern_cell_added">Zelle hinzugefügt</string>

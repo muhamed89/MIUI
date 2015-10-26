@@ -15,6 +15,7 @@
   <string name="activity_title_garbage_cleanup">Bereinigung</string>
   <string name="activity_title_license_manager">Rechteverwaltung</string>
   <string name="activity_title_memory">Speicher</string>
+  <string name="activity_title_network_speed_detail">Verbindung</string>
   <string name="activity_title_networkassistants">Datenverbrauch</string>
   <string name="activity_title_notification_bar_manager">Benachrichtigungen</string>
   <string name="activity_title_perm_manager">Rechteverwaltung</string>
@@ -81,6 +82,7 @@
   <string name="brightness_auto_adjust_on">Die Helligkeit wird je nach Umgebungslicht optimiert</string>
   <string name="btn_text_cleanup_all">Bereinige</string>
   <string name="btn_text_done">Fertig</string>
+  <string name="btn_text_network_speed_detail">Verbindung</string>
   <string name="btn_text_power_cleanup">Gründliche Bereinigung</string>
   <string name="btn_text_quick_cleanup">Bereinigen</string>
   <string name="btn_text_quick_optimize">Optimieren</string>
@@ -91,7 +93,7 @@
   <string name="button_antivirus">OK</string>
   <string name="button_text_accept">Akzeptieren</string>
   <string name="button_text_accept_timer">Akzeptieren (%d)</string>
-   <string name="button_text_cancel">Abbrechen</string>
+  <string name="button_text_cancel">Abbrechen</string>
   <string name="button_text_cancel_clean">Abbrechen</string>
   <string name="button_text_cancel_optimize">Abbrechen</string>
   <string name="button_text_cleanup">Bereinigen</string>
@@ -502,6 +504,7 @@ Ihr Gerät wechselt bei sehr niedrigem Akkustand auf diese Profil. Sie müssen I
   <string name="preference_key_root_manager">key_root_manager</string>
   <string name="preference_key_shortcut_antispam">key_shortcut_antispam</string>
   <string name="preference_key_shortcut_network_assistant">key_shortcut_network_assistant</string>
+  <string name="preference_key_shortcut_network_speed_detail">key_shortcut_network_speed_detail</string>
   <string name="preference_key_shortcut_optimize_center">_key_shortcut_optimize_center</string>
   <string name="preference_key_shortcut_perm_center">key_shortcut_perm_center</string>
   <string name="preference_key_shortcut_power_center">key_shortcut_power_center</string>

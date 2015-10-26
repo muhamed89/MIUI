@@ -599,6 +599,7 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="livetalk_nsufficient_balance">Unzureichendes Guthaben</string>
   <string name="livetalk_package_introduction_text">Exklusiv Rabatt für MIUI Nutzer. Weniger Datennutzung und niedrigere Preise.</string>
   <string name="livetalk_package_name">Prepaid-Guthaben</string>
+  <string name="livetalk_provider">Zur Verfügung gestellt von %1$s</string>
   <string name="livetalk_provision">Nutzungsbedingungen</string>
   <string name="livetalk_provision_checkbox">Nutzungsbedingungen aktzeptieren</string>
   <string name="livetalk_provision_second">, und muß mit dem Internet verbunden werden, um normal zu funktionieren.</string>

@@ -156,6 +156,7 @@
   <string name="archive">archivieren</string>
   <string name="archived">archiviert</string>
   <string name="att_download_failed_content">"Anlage zu dieser Nachricht konnte nicht heruntergeladen werden"</string>
+  <string name="att_download_failed_network_slow">Langsame Verbindung, nitte später erneut versuchen</string>
   <string name="att_download_failed_title">"Anhang kann nicht heruntergeladen werden"</string>
   <string name="att_file_not_exists">Datei %s nicht gefunden!</string>
   <string name="att_mgr_no_attachment">Keine Anhänge.</string>
@@ -200,6 +201,13 @@
   <string name="bottom_bar_more_share">Teilen</string>
   <string name="bottom_bar_no_quickreply_toast">keine Schnellantwort</string>
   <string name="bytes">%s B</string>
+  <string name="calendar_remind_dialog_title">Erinnern</string>
+  <string name="calendar_remind_gridview_month_later">Nächsten Monat</string>
+  <string name="calendar_remind_gridview_nextweek">Nächste Woche</string>
+  <string name="calendar_remind_gridview_pick_date">Datum wählen</string>
+  <string name="calendar_remind_gridview_tomorrow">Morgen</string>
+  <string name="calendar_remind_gridview_tonight">Am Abend</string>
+  <string name="calendar_remind_gridview_weekend">Am Wochenende</string>
   <string name="cancel">Abbrechen</string>
   <string name="cancel_action">Abbrechen</string>
   <string name="cant_move_or_change_labels">"Kann nicht bewegt werden, Auswahl enthällt mehrere Konten."</string>
@@ -224,7 +232,7 @@
   <string name="collapse_recipient_details">Details zum Empfänger Ausblenden</string>
   <string name="colon">:</string>
   <string name="compose">Verfassen</string>
-  <string name="compose_attachment_number_limit">Die Anzahl an Anhängen darf 10 nicht überschreiten!</string>
+  <string name="compose_attachment_number_limit">Es können nicht mehr als 10 Anhänge hinzugefügt werden</string>
   <string name="compose_picturesexceedlimits">Die Anzahl an eingebetteten Bildern darf 5 nicht überschreiten!</string>
   <string name="compose_send">Senden</string>
   <string name="compose_sent">E-Mail gesendet</string>
@@ -407,9 +415,10 @@
   <string name="general_preference_text_zoom_small">Klein</string>
   <string name="general_preference_text_zoom_tiny">Winzig</string>
   <string name="generic_attachment_problem">"Kann Datei nicht anhängen"</string>
-  <string name="get_database_exception">"Zum löschen der Daten dieser App gehen Sie unter Einstellungen &gt; System apps und versuchen Sie es erneut."</string>
+  <string name="get_database_exception">"Zum löschen der Daten dieser App gehen Sie unter Einstellungen > System Apps und versuchen Sie es erneut."</string>
   <string name="gmail_acceleration">Benutze Proxyserver für Gmail-Konto</string>
-  <string name="gmail_login_confirm_to_use_proxy">Verwenden Proxy-Server für den Zugriff auf Ihr Gmail-Konto?</string>
+  <string name="gmail_login_confirm_to_use_proxy">Proxy-Server für den Zugriff auf Ihr Gmail-Konto verwenden?</string>
+  <string name="gmail_server_authorization_deleted">"Authentifizierung fehlgeschlagen. Nochmals versuchen."</string>
   <string name="gmail_web_login_go">OK</string>
   <string name="gmail_web_login_required_message">Bei Gmail anmelden</string>
   <string name="header_category_account">Konten</string>
@@ -566,13 +575,14 @@
   <string name="outbox_alert_description_cannot_authenticate">"Konnte nicht bestätigt werden %s."</string>
   <string name="outbox_alert_description_email_size_error">Die maximale Größe der E-Mail ist erreicht.</string>
   <string name="outbox_alert_description_fail_authentication">Benutzername oder Passwort ist nicht korrekt.</string>
+  <string name="outbox_alert_description_fail_network">"Keine Netzwerkverbindung."</string>
   <string name="outbox_alert_description_http_error">HTTP-Fehler beim Synchronisieren von Postausgang.</string>
   <string name="outbox_alert_description_insufficient_storage_error">Unzureichender Speicher auf dem Mail-Server</string>
   <string name="outbox_alert_description_provision_error">Server Bereitstellungsfehler beim Synchronisieren von Postausgang.</string>
   <string name="outbox_alert_description_reject_by_server">Zurückgewiesen von %s</string>
   <string name="outbox_alert_description_sent_failed">"Größe der Anlagen übersteigt des Servers Beschränkung."</string>
   <string name="outbox_alert_description_time_out">Netzwerkverbindung Zeitüberschreitung</string>
-  <string name="outbox_alert_duplicate_click">Synchronisiere noch immer…</string>
+  <string name="outbox_alert_duplicate_click">Noch immer beim Senden…</string>
   <string name="outbox_alert_edit_resend">Bearbeiten und erneut senden</string>
   <string name="outbox_alert_failed_edit_resend">"Konnte nicht gesendet werden. Bearbeiten und erneut versuchen."</string>
   <string name="outbox_alert_mailbox_not_found">E-Mail Adresse nicht gefunden</string>
@@ -706,6 +716,7 @@
   <string name="remove_folder">Entfernen von %1$s</string>
   <string name="remove_star">Unstar</string>
   <string name="reply">Antworten</string>
+  <string name="reply_add_bodycontent">Schnellantwort hinzufügen?</string>
   <string name="reply_all">Allen Antworten</string>
   <string name="reply_attribution" formatted="false">Am %s, %s schrieb:</string>
   <string name="report_phishing">Phishing melden</string>
@@ -715,8 +726,8 @@
   <string name="save_action">Speichern</string>
   <string name="save_attachment">Speichern</string>
   <string name="save_draft_failed">Entwurf speichern gescheitert</string>
-  <string name="save_power_summary">Benachrichtigungen für E-Mails, die ankommen, werden stumm geschaltet werden</string>
-  <string name="save_power_title">Bitte nicht stören</string>
+  <string name="save_power_summary">Zeiten für den Energiesparmodus festlegen</string>
+  <string name="save_power_title">Battery Saver</string>
   <string name="saved">Gespeichert,  %s</string>
   <string name="saving">Speichern…</string>
   <string name="sdcard_cannot_use">"SD-Karte kann nicht verwendet werden"</string>

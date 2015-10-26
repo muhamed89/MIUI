@@ -252,7 +252,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="network_speed_for_apps_close_app_dlg_msg">Diese App beenden?</string>
   <string name="network_speed_for_apps_close_system_app_dlg_msg">System-Apps können nicht beendet werden.</string>
   <string name="network_speed_for_apps_others">Andere</string>
-  <string name="network_speed_for_apps_title">Verbindungsgeschwindigkeit Details</string>
+  <string name="network_speed_for_apps_title">Verbindung</string>
   <string name="network_speed_for_apps_total">Verbindungsgeschwindigkeit</string>
   <string name="networkchanged_exception_summary">Netzwerkverbindung wurde gewechselt. Bitte erneut testen.</string>
   <string name="networkchanged_exception_title">Verbindung gewechselt</string>

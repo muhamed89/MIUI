@@ -333,6 +333,7 @@ und die coolsten niemals verpassen!"</string>
   <string name="operation_move">Verschieben</string>
   <string name="operation_moving">Verschiebe...</string>
   <string name="operation_moving_detail">Verschiebe (%1$d/%2$d)</string>
+  <string name="operation_other_apps">In einer anderen App öffnen</string>
   <string name="operation_paste">Einfügen</string>
   <string name="operation_pasting">Einfügen...</string>
   <string name="operation_pause">Anhalten</string>
@@ -354,6 +355,7 @@ und die coolsten niemals verpassen!"</string>
   <string name="paused">Angehalten</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Telefon</string>
+  <string name="pick_folder">Ordner wählen</string>
   <string name="port_range">Port muss zwischen 1024-65535 sein</string>
   <string name="private_files">Privat</string>
   <string name="private_folder">Privater Ordner</string>
@@ -383,6 +385,7 @@ und die coolsten niemals verpassen!"</string>
   <string name="search_app">Quelle</string>
   <string name="search_app_more">Mehr</string>
   <string name="search_category">Typ</string>
+  <string name="search_description">Alle Dateien auf diesem Gerät durchsuchen</string>
   <string name="search_empty_view_hint">Keine Treffer</string>
   <string name="search_error_hint">Suchbegriff eingeben</string>
   <string name="search_file_type_apk">Apk</string>

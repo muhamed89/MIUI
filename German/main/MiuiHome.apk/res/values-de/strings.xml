@@ -36,6 +36,7 @@
   <string name="buffering">Wird gepuffert…</string>
   <string name="cancel_action">Abbrechen</string>
   <string name="cancel_btn_label">Abbrechen</string>
+  <string name="cant_edit_lock_screen">"Sperrbildschirm-Stil kann nicht bearbeitet werden."</string>
   <string name="cant_remove_folder">"Ordner kann nicht entfernt werden"</string>
   <string name="cant_remove_retained_app">"Anwendung kann nicht entfernt werden"</string>
   <string name="cant_remove_system_app">"Systemanwendung kann nicht entfernt werden"</string>

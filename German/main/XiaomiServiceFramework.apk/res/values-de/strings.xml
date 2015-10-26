@@ -2,6 +2,9 @@
 <resources>
   <string name="accept">OK</string>
   <string name="activate">Aktivieren</string>
+  <string name="activate_auto_sms_notification_desc_1_card">SMS sgesendet um \"Gerät finden\" zu aktivieren</string>
+  <string name="activate_auto_sms_notification_desc_2_cards">SMS von SIM-Karte %s gesendet um \"Find device\" zu aktivieren</string>
+  <string name="activate_auto_sms_notification_title">SIM-Karten Aktivierung</string>
   <string name="activate_feature_call_log_sync">Anrufliste syncen</string>
   <string name="activate_feature_find_device">Gerät orten</string>
   <string name="activate_feature_mms_sync">SMS synchronisieren</string>

@@ -3,7 +3,8 @@
   <string name="app_name">Suche</string>
   <string name="apps_search_activity"/>
   <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
-  <string name="clear_shortcuts">Lösche Verlauf</string>
+  <string name="clear_history">Verlauf löschen</string>
+  <string name="clear_shortcuts">Verlauf löschen</string>
   <string name="clear_shortcuts_agree">Verlauf löschen</string>
   <string name="clear_shortcuts_disagree">Verlauf nicht löschen</string>
   <string name="clear_shortcuts_prompt">"Der ganze Verlauf kürzlich gewählter Suchvorschläge wird gelöscht.
@@ -33,12 +34,15 @@ Um den Browserverlauf zu löschen, verwenden Sie die Browsereinstellungen."</str
   <string name="google_search_label">Google</string>
   <string name="google_settings_category_title">Google-Suche</string>
   <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
+  <string name="hot_search">Hot Search</string>
   <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
+  <string name="loading">Laden</string>
   <string name="menu_help">Hilfe</string>
   <string name="menu_settings">Such-Einstellungen</string>
   <string name="recently_shortcut_label">Kürzliche Abkürzungen</string>
   <string name="remove_from_history">Diesen Eintrag wirklich aus dem Verlauf löschen?</string>
   <string name="remove_from_history_failed">Eintrag kann nicht aus dem Verlauf gelöscht werden.</string>
+  <string name="search_history">Suche im Verlauf</string>
   <string name="search_in_app_store">Suche im Market</string>
   <string name="search_in_web">Suche im Web</string>
   <string name="search_settings">Einstellungen</string>
@@ -53,10 +57,13 @@ Um den Browserverlauf zu löschen, verwenden Sie die Browsereinstellungen."</str
   <string name="searchable_lable_video">Video</string>
   <string name="searchable_sources">Online</string>
   <string name="send_secret_code">Code senden</string>
+  <string name="show_more">Mehr anzeigen</string>
   <string name="system_search_category_title">Telefon</string>
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">Sprechen:</string>
+  <string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
+  <string name="xiaomi_hot_query">http://global.search.xiaomi.net/global/v3/hotquery</string>
   <string name="xiaomi_search_label">Ergebnisse</string>
-  <string name="xiaomi_suggest_base">http://global.search.xiaomi.net/global/v2/sug</string>
+  <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v3/sug</string>
 </resources>
