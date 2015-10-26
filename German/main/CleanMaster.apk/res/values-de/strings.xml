@@ -37,7 +37,7 @@
   <string name="button_text_backup_uninstall">Zuerst Sicherung erstellen</string>
   <string name="button_text_cancel">Abbruch</string>
   <string name="button_text_cleanup">Bereinigen</string>
-  <string name="button_text_delete_from_white_list">Entferne</string>
+  <string name="button_text_delete_from_white_list">Entfernen</string>
   <string name="button_text_delete_pic">Lösche</string>
   <string name="button_text_group_ignore">Ignoriere</string>
   <string name="button_text_group_unlike">Keine Duplikate</string>
