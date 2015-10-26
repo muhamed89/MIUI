@@ -235,7 +235,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="applications_settings_summary">Apps verwalten, Verknüpfungen für Schnellstart festlegen</string>
   <string name="apply_fingerprint_to_category_title">Fingerabdruck anwenden...</string>
   <string name="apply_now_button_text">Update</string>
-  <string name="apply_password_to_category_title">Passwort anwenden...</string>
+  <string name="apply_password_to_category_title">Passwort anwenden auf...</string>
   <string name="apply_update_fail">Update fehlgeschlagen.</string>
   <string name="apps_with_restrictions_header">Apps mit Einschränkungen</string>
   <string name="apps_with_restrictions_settings_button">App-Einstellungen erweitern</string>
