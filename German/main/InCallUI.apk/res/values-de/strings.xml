@@ -8,7 +8,7 @@
   <string name="antispam_provider">Identifiziert von %s</string>
   <string name="description_image_button_dialpad">Tastenfeld</string>
   <string name="jeejen_toggle_dialpad_text">Tastenfeld</string>
-   <string name="notification_missedCallsMsg">%s entgangene Anrufe</string>
+  <string name="notification_missedCallsMsg">%s entgangene Anrufe</string>
   <string name="notification_missedCallsTitle">Entgangene Anrufe</string>
   <string name="callFailed_cb_enabled">Sie können keine Anrufe tätigen, wenn die Anrufsperre aktiviert ist.</string>
   <string name="callFailed_congestion">Netzwerk ausgelastet</string>
