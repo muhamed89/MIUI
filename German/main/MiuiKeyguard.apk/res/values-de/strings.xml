@@ -31,9 +31,7 @@
   <string name="lockscreen_access_pattern_start">Muster gestartet</string>
   <string name="lockscreen_charging_msg">Laden</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Sie haben das Gerät %d Mal fehlerhaft entsperrt. Nach %d weiteren erfolglosen Versuchen wird das Gerät auf die Werkseinstellungen zurückgesetzt. Dabei gehen alle Daten verloren!.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Sie haben das Kennwort %d Mal falsch eingegeben. Nach %d weiteren erfolglosen Versuchen werden Sie aufgefordert das Gerät mit Ihrem Mi-Konto zu entsperren.
-
-In  %d Sekunden erneut versuchen."</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Sie haben das Kennwort %d Mal falsch eingegeben. Nach %d weiteren erfolglosen Versuchen werden Sie aufgefordert das Gerät mit Ihrem Mi-Konto zu entsperren. In  %d Sekunden erneut versuchen."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Sie haben das Gerät %d Mal fehlerhaft entsperrt. Das Gerät wird auf die Werkseinstellungen zurückgesetzt.</string>
   <string name="lockscreen_glogin_checking_password">Überprüfen…</string>
   <string name="lockscreen_glogin_invalid_input">Falscher Benutzername oder Kennwort.</string>
