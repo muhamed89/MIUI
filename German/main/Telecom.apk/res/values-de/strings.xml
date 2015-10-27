@@ -2,11 +2,11 @@
 <resources>
   <string name="Lch_dtmf_key">D</string>
   <string name="accessibility_call_muted">Gespräch stummgeschaltet.</string>
-  <string name="accessibility_speakerphone_enabled">Speakerphone enabled.</string>
+  <string name="accessibility_speakerphone_enabled">Freipsrecher eingeschaltet.</string>
   <string name="add_vm_number_str">Nummer hinzufügen</string>
   <string name="default_connection_manager_component"/>
   <string name="handle_restricted">RESTRICTED</string>
-  <string name="headset_plugin_view_text">Headset ist angesteclt.</string>
+  <string name="headset_plugin_view_text">Headset ist angesteckt.</string>
   <string name="headset_plugin_view_title">Headset</string>
   <string name="incall_error_call_failed">"Anruf fehlgeschlagen."</string>
   <string name="no_vm_number">Sprachboxnummer fehlt</string>
@@ -32,9 +32,9 @@
   <string name="select_account_dialog_title">Konto auswählen</string>
   <string name="telecommAppLabel">Telefon</string>
   <string name="test_account_0_label">Q Mobile</string>
-  <string name="test_account_0_short_description">Account with Q Mobile</string>
+  <string name="test_account_0_short_description">Account mit Q Mobile</string>
   <string name="test_account_1_label">Market Wireless</string>
-  <string name="test_account_1_short_description">Account with Market Wireless</string>
+  <string name="test_account_1_short_description">Account mit Market Wireless</string>
   <string name="test_account_2_label">Sonoma Circles Talk Plus</string>
   <string name="test_account_2_short_description">Talk to everyone in your Circles!</string>
   <string name="test_account_3_label">Bay Voice Chat Pro</string>
