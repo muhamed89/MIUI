@@ -52,4 +52,5 @@
   <string name="unlockscreen_recharge_completed">Aufgeladen</string>
   <string name="unlockscreen_recharging_message">Wird geladen %d%%</string>
   <string name="wrong_password">Ungültiges Passwort</string>
+  <string name="missed_call_text">%d missed calls</string>
 </resources>
