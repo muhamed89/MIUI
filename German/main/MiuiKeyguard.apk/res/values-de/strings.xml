@@ -38,7 +38,6 @@
   <string name="lockscreen_glogin_password_hint">Kennwort</string>
   <string name="lockscreen_glogin_submit_button">Anmelden</string>
   <string name="login_website_in_case_forget_password">Besuchen Sie www.mi.com/micloud, um das Kennwort zurückzusetzen</string>
-  <string name="missed_call_text">%d Anrufe in Abwesenheit</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Mit Bluetooth Gerät entsperrt</string>
   <string name="open_camera_hint_text">Zum Öffnen der Kamera nach links wischen</string>
   <string name="open_remote_center_hint_text">Zum Telefonieren nach rechts wischen</string>
