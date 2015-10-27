@@ -8,6 +8,8 @@
   <string name="antispam_provider">Identifiziert von %s</string>
   <string name="description_image_button_dialpad">Tastenfeld</string>
   <string name="jeejen_toggle_dialpad_text">Tastenfeld</string>
+   <string name="notification_missedCallsMsg">%s entgangene Anrufe</string>
+  <string name="notification_missedCallsTitle">Entgangene Anrufe</string>
   <string name="callFailed_cb_enabled">Sie können keine Anrufe tätigen, wenn die Anrufsperre aktiviert ist.</string>
   <string name="callFailed_congestion">Netzwerk ausgelastet</string>
   <string name="callFailed_dialToDial">DIAL-Anfrage modifiziert, um DIAL mit einer anderen Nummer zu nutzen.</string>
@@ -133,8 +135,6 @@
   <string name="notification_missedCallTitle">Entgangener Anruf</string>
   <string name="notification_missedCall_call_back">Zurückrufen</string>
   <string name="notification_missedCall_message">Nachricht</string>
-  <string name="notification_missedCallsMsg">%s entgangene Anrufe</string>
-  <string name="notification_missedCallsTitle">Entgangene Anrufe</string>
   <string name="notification_network_selection_text">Ausgewähltes Netzwerk (%s) nicht verfügbar</string>
   <string name="notification_network_selection_title">Aein Dienst</string>
   <string name="notification_voicemail_no_vm_number">Nachricht von Unbekannt</string>
