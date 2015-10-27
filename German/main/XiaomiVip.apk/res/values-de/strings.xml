@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+<string name="achieve_condition">Belohnt für:</string>
+  <string name="achieved">VERDIENT</string>
+  <string name="achieved_time">Verdient am %s</string>
+  <string name="achievement_progress" formatted="false">Fortschritt: %d/%d</string>
+  <string name="achievements">Belohnungen</string>
+  <string name="acquired_time_x">Erhalten am %s</string>
   <string name="action">Anzeigen</string>
   <string name="already_used">Schon benutzt</string>
   <string name="app_name">Mi VIP</string>
@@ -7,8 +13,10 @@
   <string name="award_time">Gesammelt am %s</string>
   <string name="awarded_package_is_expired">Abgelaufen</string>
   <string name="awarded_package_was_redeemed">Eingelöst</string>
+  <string name="awards">Belohnungen</string>
   <string name="browse">Anzeigen</string>
   <string name="buff_enable">[ aktivieren ]</string>
+  <string name="copy_and_use">Einlösen</string>
   <string name="cube_ptr_hours_ago"> vor Stunden</string>
   <string name="cube_ptr_last_update">letztes Update: </string>
   <string name="cube_ptr_minutes_ago"> vor Minuten</string>
@@ -18,12 +26,22 @@
   <string name="cube_ptr_refreshing">Aktualisiert...</string>
   <string name="cube_ptr_release_to_refresh">Zum Aktualisieren loslassen</string>
   <string name="cube_ptr_seconds_ago"> Vor Sekunden</string>
+  <string name="daily_task">Tägliche Herausforderungen</string>
   <string name="days">%dd</string>
+  <string name="device_answer_phone_times">Gespräche beantwortet</string>
+  <string name="device_charge_times">Aufgeladen</string>
+  <string name="device_unlock_screen_times">Bildschirm entsperrt</string>
+  <string name="device_usage_data">Nutzungsstatistik</string>
+  <string name="download_message">%s herunterladen?</string>
+  <string name="download_progress">%d%%</string>
+  <string name="download_title">Diese App herunterladen?</string>
+  <string name="downloading">Herunterladen…</string>
   <string name="exp_buff">+%s%% Punkte</string>
   <string name="experience">Pts</string>
   <string name="expired">Abgelaufen</string>
   <string name="fail_reach_server">"Kann sich mit dem Server nicht verbinden"</string>
   <string name="giveup">Aufgeben</string>
+  <string name="go">Fortschritt anzeigen</string>
   <string name="hello">Hallo</string>
   <string name="hours">%dh</string>
   <string name="in_progress">Anfordern…</string>
@@ -33,6 +51,8 @@
   <string name="level_exp_value" formatted="false">Punkte: %d/%d</string>
   <string name="level_info_format" formatted="false">"Level %d %d/%d
 %s"</string>
+  <string name="limit_task">Limitierte Herausforderungen</string>
+  <string name="limit_task_format" formatted="false">%d/%d</string>
   <string name="millis">%dms</string>
   <string name="minutes">%dm</string>
   <string name="my_award">Meine Preise</string>
@@ -45,6 +65,7 @@
   <string name="promote">Herausforderung erledigen, um Punkte zu verdienen</string>
   <string name="query_level_fail">"Kann keine Info erhalten"</string>
   <string name="query_user_tasks_fail">"Kann keine Herausforderungsinfo erhalten"</string>
+  <string name="redeem">Einlösen</string>
   <string name="seconds">%ds</string>
   <string name="take_awarded_package">Einlösen</string>
   <string name="take_awarded_package_failed">"Konnte das Geschenk nicht einlösen. Eine oder zwei Minuten warten und nochmal probieren."</string>
@@ -62,8 +83,10 @@
   <string name="today_task">"Die heutige Herausforderung"</string>
   <string name="today_task_format" formatted="false">%d/%d</string>
   <string name="unlimited_task">Spezielle Herausforderungen</string>
+  <string name="unachieved">VERFÜGBAR</string>
   <string name="upgraded">Konto aktualisiert!</string>
-  <string name="use">Nutze</string>
+  <string name="use">Anwenden</string>
+  <string name="use_immediately">Jetzt anwenden</string>
   <string name="validity">Verfällt am %s</string>
   <string name="validity_unknown">Verfallsdatum unbekannt</string>
 </resources>

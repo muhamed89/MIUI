@@ -512,6 +512,14 @@ Ihr Gerät wechselt bei sehr niedrigem Akkustand auf diese Profil. Sie müssen I
   <string name="preference_key_shortcut_virus_center">key_shortcut_virus_center</string>
   <string name="preference_key_virus_lib_auto_update">key_virus_lib_auto_update</string>
   <string name="preference_screen_key_virus_settings">key_screen_virus_settings</string>
+  <string name="preferred_app_entries_browser">Browser</string>
+  <string name="preferred_app_entries_camera">Kamera</string>
+  <string name="preferred_app_entries_dial">Telefon</string>
+  <string name="preferred_app_entries_email">Mail</string>
+  <string name="preferred_app_entries_gallery">Galerie</string>
+  <string name="preferred_app_entries_launcher">Launcher</string>
+  <string name="preferred_app_entries_messaging">Nachrichten</string>
+  <string name="preferred_app_entries_music">Musik</string>
   <string name="process_kernel_label">Android</string>
   <string name="process_mediaserver_label">Mediaserver</string>
   <string name="protection_category_dangerous_title">Risiko (%d)</string>
@@ -530,6 +538,7 @@ Ihr Gerät wechselt bei sehr niedrigem Akkustand auf diese Profil. Sie müssen I
   <string name="scanning_bar_system_text">App-Berechtigungen</string>
   <string name="scanning_bar_system_title">System durchsuchen…</string>
   <string name="score_pts">%</string>
+  <string name="security_scan_optimizing">Optimieren…</string>
   <string name="settings_title_permission">Berechtigungseinstellungen</string>
   <string name="shutdown_cancel_reminder">Nicht ausgeschaltet</string>
   <string name="shutdown_cancel_reminder_detail">Gerät hat sich nicht ausgeschaltet, weil Sie Mitten in einem Anruf waren</string>
@@ -544,10 +553,13 @@ Ihr Gerät wechselt bei sehr niedrigem Akkustand auf diese Profil. Sie müssen I
   <string name="summary_cleaner_cloudscan">Unbekannte Ordner hochladen und mit Online-Virendefinitionen vergleichen</string>
   <string name="summary_cloud_account">Das optimale aus Ihrem MiGerät herausholen</string>
   <string name="summary_cloud_service">Synchronisieren Sie Ihre Fotos, Kontakte und mehr zwischen all Ihren Geräten</string>
+  <string name="summary_cloud_space_almost_full">Holen Sie sich mehr Speicherplatz</string>
+  <string name="summary_cloud_space_full">Holen Sie sich mehr Speicherplatz und erhalten Sie Zugang zu weiteren Features</string>
   <string name="summary_cmcc_app_check">Einige Apps konnten nicht überprüft werden</string>
   <string name="summary_data_flow">Überschreiten des Monatlichen-Datenvolumen vermeiden</string>
   <string name="summary_default_app">%s ist nicht als Standard System App gesetzt</string>
   <string name="summary_dev">Den Zugriff von Apps auf Benutzerdaten verhindern</string>
+  <string name="summary_find_device">Finden und sperren Sie Ihr Gerät von überall</string>
   <string name="summary_flow_notification">Den monatlichen Datenverbrauch in der Benachrichtigungsleiste anzeigen</string>
   <string name="summary_flow_purchase_beyond">Sie haben Ihr monatliches Datenvolumen um %sMB überschritten</string>
   <string name="summary_flow_purchase_left">Sie haben diesen Monat noch %sMB Ihres Datenvolumens übrig</string>
@@ -555,10 +567,10 @@ Ihr Gerät wechselt bei sehr niedrigem Akkustand auf diese Profil. Sie müssen I
   <string name="summary_garbage_lib">Nutzen Sie die aktuellsten Definitionen, um Spyware, Werbung und andere ungewollte Daten zu entfernen</string>
   <string name="summary_install_virus">Apps vor Installation auf Viren prüfen</string>
   <string name="summary_miui_update">Update für %s verfügbar.</string>
-  <string name="summary_mms">Unerwünschte Nachrichten filtern (Verkäufe, Werbung, usw.)</string>
+  <string name="summary_mms">Spam Nachrichten automatisch blockieren</string>
   <string name="summary_network_switch">Der Sicherheits-App den Zugriff auf das Internet genehmigen</string>
   <string name="summary_never_flow_verify">Diese Nummer wurde von Ihrem Anbieter nicht überprüft</string>
-  <string name="summary_permission">Privatsphäre vor Drittanbieter-Apps schützen</string>
+  <string name="summary_permission">Verhindern Sie unerwünschte Zahlungen und schützen Sie Ihre privaten Daten</string>
   <string name="summary_permission_root">Ihr Telefon und Ihre persönlichen Daten sind weniger vor Apps mit Root-Zugriff geschützt</string>
   <string name="summary_power_optimizer">Reduziert die Leistung, wenn der Akkustand niedrig ist</string>
   <string name="summary_saving_switch">Die Verwendung der Datenverbindung zum Datentransfer durch Apps unterbinden</string>
@@ -569,6 +581,7 @@ Ihr Gerät wechselt bei sehr niedrigem Akkustand auf diese Profil. Sie müssen I
   <string name="summary_virus_cloudscan">App-Namen sowie App-Details hochladen und Online überprüfen</string>
   <string name="summary_virus_update">Viren-Datenbank bei WLAN Verbindung,automatisch aktualisieren</string>
   <string name="system_check_content">%1$d verdächtige Elemente</string>
+  <string name="system_check_content_none">Sicher</string>
   <string name="system_header_title">%1$d Prozesse beenden um %2$s Speicher frei zu machen</string>
   <string name="text_antivirus">App-Namen und Details hochladen</string>
   <string name="text_antivirus_oversea">Virusdefinitionen aktualisieren</string>
@@ -577,6 +590,8 @@ Ihr Gerät wechselt bei sehr niedrigem Akkustand auf diese Profil. Sie müssen I
   <string name="title_cleaner_cloudscan">Ordnernamen hochladen</string>
   <string name="title_cloud_account">MiKonto</string>
   <string name="title_cloud_service">MiCloud</string>
+  <string name="title_cloud_space_almost_full">Cloud-Speicher ist fast voll, es kann zu Synchronisierungsproblemen kommen</string>
+  <string name="title_cloud_space_full">"Cloud-Speicher voll, Synchronisieren nicht möglich"</string>
   <string name="title_cmcc_app_check">Überprüfung unvollständig</string>
   <string name="title_data_flow">Setze Datenverbrauch Warnung</string>
   <string name="title_default_app">"MIUI %s ist nicht der Standard"</string>
@@ -618,6 +633,7 @@ Ihr Gerät wechselt bei sehr niedrigem Akkustand auf diese Profil. Sie müssen I
   <string name="toast_show_notification">In der Benachrichtigungsleiste anpinnen</string>
   <string name="toast_virus_cloudscan">Virusscaner nutzt Online-Definitionen</string>
   <string name="toast_virus_in_cloud_scanning">Cloudscan kann nicht angehalten werden</string>
+  <string name="title_find_device">\"Gerät finden\" einschalten</string>
   <string name="usage_type_audio">Audio</string>
   <string name="usage_type_cpu">CPU insgesamt</string>
   <string name="usage_type_cpu_foreground">CPU Vordergrund</string>

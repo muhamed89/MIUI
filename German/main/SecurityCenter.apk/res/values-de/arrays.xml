@@ -7,16 +7,6 @@
         <item>In 30 Minuten</item>
         <item>Nie</item>
     </string-array>
-    <string-array name="preferred_app_entries">
-        <item>Launcher</item>
-        <item>Telefon</item>
-        <item>SMS</item>
-        <item>Browser</item>
-        <item>Kamera</item>
-        <item>Galerie</item>
-        <item>Musik</item>
-        <item>Email</item>
-    </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Nach 1 Minute</item>
         <item>Nach 5 Minuten</item>

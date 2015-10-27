@@ -2499,6 +2499,7 @@ Um Screen-Pinning zu nutzen:
   <string name="search_sync">Sync</string>
   <string name="search_tether">Tether</string>
   <string name="search_unlock_set">Entsprerren</string>
+  <string name="search_virtual_sim">Virtuelle SIM-Karte</string>
   <string name="search_vpn">VPN</string>
   <string name="search_wallpaper">Hintergrund</string>
   <string name="search_wifi">WLAN</string>
@@ -3175,6 +3176,7 @@ Jeder Nutzer kann aktualisierte App-Berechtigungen im Namen aller anderen Nutzer
   <string name="virtual_sim_category_title">Virtuelle SIM</string>
   <string name="virtual_sim_description">Zuverlässiger internationaler Roaming-Dienst</string>
   <string name="virtual_sim_title">Roaming Datennetzwerk</string>
+  <string name="virtual_sim_search_title">Virtuelle SIM-Karte</string>
   <string name="virus_scan">Antivirus</string>
   <string name="virus_scan_app_continue">Suche fortsetzen</string>
   <string name="virus_scan_app_find_risk">%d potenzielle Bedrohungen gefunden.</string>
