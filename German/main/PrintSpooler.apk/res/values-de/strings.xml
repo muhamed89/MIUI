@@ -32,10 +32,10 @@
   <string name="no_connection_to_printer">Keine Verbindung zum Drucker</string>
   <string name="page_description_template">Seite %1$d von %2$d</string>
   <string name="pages_range_example">e.g. 1—5,8,11—13</string>
-  <string name="permdesc_accessAllPrintJobs">Allows the holder to access print jobs created by another app. Should never be needed for normal apps.</string>
-  <string name="permdesc_startPrintServiceConfigActivity">Allows the holder to start the configuration activities of a print service. Should never be needed for normal apps.</string>
-  <string name="permlab_accessAllPrintJobs">access all print jobs</string>
-  <string name="permlab_startPrintServiceConfigActivity">start print service configuration activities</string>
+  <string name="permdesc_accessAllPrintJobs">Erlaubt dem Besitzer auf Druckaufträge von anderen apps zuzugreifen. Sollte nicht für normale Anwendungen benötigt werden.</string>
+  <string name="permdesc_startPrintServiceConfigActivity">Erlaubt dem Besitzer die Druckdienst Konfiguration zu starten. Sollte nicht für normale Anwendungen benötigt werden.</string>
+  <string name="permlab_accessAllPrintJobs">Zugriff auf alle Druckaufträge</string>
+  <string name="permlab_startPrintServiceConfigActivity">Druckdienst Konfiguration starten</string>
   <string name="print_add_printer">Drucker hinzufügen</string>
   <string name="print_button">Drucken</string>
   <string name="print_dialog">Dialogfeld Drucken</string>
