@@ -139,11 +139,11 @@
         <item>@integer/page_option_value_page_range</item>
     </integer-array>
     <string-array name="color_mode_labels">
-        <item>Black &amp; White</item>
-        <item>Color</item>
+        <item>Schwarz &amp; Weiß</item>
+        <item>Farbe</item>
     </string-array>
     <string-array name="orientation_labels">
         <item>Portrait</item>
-        <item>Landscape</item>
+        <item>Landschaft</item>
     </string-array>
 </resources>
