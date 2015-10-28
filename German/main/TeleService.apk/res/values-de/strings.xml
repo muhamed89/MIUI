@@ -7,6 +7,8 @@
   <string name="active_phone_success_toast">SIM Karte %1$s erkannt</string>
   <string name="phoneAppLabel">Telefon</string>
   <string name="phoneIconLabel">Telefon</string>
+  <string name="notification_missedCallTitle">Entgangener Anruf</string>
+  <string name="notification_missedCallsTitle">Entgangene Anrufe</string>
   <string name="fdn">FDN Nummer</string>
   <string name="fdnListLabel">FDN Liste</string>
   <string name="notification_missedCallTicker">Entgangener Anruf von %s</string>
@@ -739,8 +741,6 @@ Werde stattdessen bevorzugtes Netzwerk nutzen."</string>
   <string name="notification_action_end_call">Auflegen</string>
   <string name="notification_dialing">Wählen</string>
   <string name="notification_incoming_call">Eingehender Anruf</string>
-  <string name="notification_missedCallTitle">Entgangener Anruf</string>
-  <string name="notification_missedCallsTitle">Entgangene Anrufe</string>
   <string name="notification_network_selection_text">Ausgewähltes Netzwerk (%s) nicht verfügbar</string>
   <string name="notification_network_selection_title">Kein Dienst</string>
   <string name="notification_network_selection_without_operator">Ausgewähltes Netzwerk nicht verfügbar</string>
