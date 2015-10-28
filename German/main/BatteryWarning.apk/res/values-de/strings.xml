@@ -2,9 +2,9 @@
 <resources>
   <string name="btn_cancel_msg">Dismiss</string>
   <string name="btn_ok_msg">Schlafen</string>
-  <string name="msg_battery_low_temperature">Ihr Batterietemperatur ist zu niedrig, bitte vom Ladegerät entfernen</string>
-  <string name="msg_battery_over_temperature">Ihr Batterietemperatur ist zu hoch, bitte den Akku entfernen!</string>
-  <string name="msg_battery_over_voltage">Ihr Batterietemperatur hat Überspannung, bitte den Akku entfernen!</string>
+  <string name="msg_battery_low_temperature">Ihre Batterietemperatur ist zu niedrig, bitte vom Ladegerät entfernen</string>
+  <string name="msg_battery_over_temperature">Ihre Batterietemperatur ist zu hoch, bitte den Akku entfernen!</string>
+  <string name="msg_battery_over_voltage">Ihre Batterietemperatur hat Überspannung, bitte den Akku entfernen!</string>
   <string name="msg_charger_over_voltage">Your charger is over voltage, please disconnect the charger!</string>
   <string name="msg_over_current_protection">Your battery is over current-protection, please remove the battery!</string>
   <string name="msg_safety_timer_timeout">Charge time is too long, please disconnect the charger!</string>
