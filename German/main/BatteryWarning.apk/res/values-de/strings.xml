@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="btn_cancel_msg">Ausblenden</string>
-  <string name="btn_ok_msg">Schlafen</string>
+  <string name="btn_ok_msg">Einblenden</string>
   <string name="msg_battery_low_temperature">Die Akkutemperatur ist zu niedrig, bitte vom Ladegerät trennen</string>
   <string name="msg_battery_over_temperature">Die Akkutemperatur ist zu hoch, bitte Akku entfernen!</string>
   <string name="msg_battery_over_voltage">Der Akku hat Überspannung, bitte Akku entfernen!</string>
