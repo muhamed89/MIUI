@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+ï»¿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="deleting">Deleting</string>
   <string name="mipay_add_debit_card">Add debit card</string>
@@ -147,7 +147,7 @@
   <string name="mipay_bill_read_mail_start_download_bill_mail">Start downloading bill mails</string>
   <string name="mipay_bill_read_mail_start_parse_bill_mail">Start searching mails containing bill info</string>
   <string name="mipay_bill_read_mail_start_read_envelop">Start reading mail envelops</string>
-  <string name="mipay_bill_read_mail_start_verify">Verifying…</string>
+  <string name="mipay_bill_read_mail_start_verify">Verifyingâ€¦</string>
   <string name="mipay_bill_read_mail_success_summary">total%1$smails,%2$s of which are bill mails</string>
   <string name="mipay_bill_read_mail_success_title">Read mails success</string>
   <string name="mipay_bill_read_mail_verify_failed">Verify mailbox failed</string>
@@ -282,13 +282,13 @@ Please check your local date and try again."</string>
   <string name="mipay_format_date">MMM. dd, yyyy</string>
   <string name="mipay_format_date_slash">MM/dd/yyyy</string>
   <string name="mipay_format_time">MMM dd, yyyy hh:mmaa</string>
-  <string name="mipay_handle_loading">Processing…</string>
+  <string name="mipay_handle_loading">Processingâ€¦</string>
   <string name="mipay_i_know">I know it</string>
   <string name="mipay_key_text_x">X</string>
   <string name="mipay_license_message">"You're about to use Mi Wallet, which is a service provided by Xiaomi Inc. Before you can use this service, you must agree to the Terms of Service stated in %1$s. You need an internet connection, location and reading contact to use Mi Wallet."</string>
   <string name="mipay_license_message_span">Mi Wallet User Agreement</string>
   <string name="mipay_license_title">Terms and conditions</string>
-  <string name="mipay_loading">Loading…</string>
+  <string name="mipay_loading">Loadingâ€¦</string>
   <string name="mipay_login_error_img_captcha_code">Please check your captcha code</string>
   <string name="mipay_login_error_password">Please check your Xiaomi account password</string>
   <string name="mipay_login_img_captcha_hint">Please enter the image verification code</string>
@@ -301,7 +301,7 @@ Please check your local date and try again."</string>
   <string name="mipay_nfc_bank_card_details_title">Bank card</string>
   <string name="mipay_nfc_bank_card_name_default">A Bank</string>
   <string name="mipay_nfc_bind_card">Bind card</string>
-  <string name="mipay_nfc_bind_card_dialog_title">Binding card …</string>
+  <string name="mipay_nfc_bind_card_dialog_title">Binding card â€¦</string>
   <string name="mipay_nfc_cancel_bind_card">Cancel binding card</string>
   <string name="mipay_nfc_card_balance_title">Balance</string>
   <string name="mipay_nfc_card_recharge">Recharge</string>
@@ -496,14 +496,14 @@ For further questions, please call Xiaomi customer service:"&lt;a href="tel:4001
   <string name="mipay_user_balance_not_enough">Insufficient funds</string>
   <string name="mipay_user_balance_title">Balance</string>
   <string name="mipay_user_license">User Agreement</string>
-  <string name="mipay_wait_retry">Waiting for retry…</string>
+  <string name="mipay_wait_retry">Waiting for retryâ€¦</string>
   <string name="mipay_wallet_app_name">Mi Wallet</string>
   <string name="mipay_web_error_network">"Couldn't connect to network."</string>
   <string name="mipay_web_error_server">Server error. Please try again later</string>
   <string name="mipay_web_login">Login</string>
   <string name="mipay_web_login_app_description">Login %1$s</string>
   <string name="mipay_web_login_description">Login</string>
-  <string name="mipay_web_login_waiting">Please wait…</string>
+  <string name="mipay_web_login_waiting">Please waitâ€¦</string>
   <string name="mipay_withdraw">Withdraw</string>
   <string name="mipay_withdraw_bank_card_info">Card from %1$s ending in %2$s</string>
   <string name="mipay_withdraw_confirm">Withdraw</string>
