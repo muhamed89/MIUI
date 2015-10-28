@@ -2,7 +2,7 @@
 <resources>
   <string name="application_name">Live Wallpaper Picker</string>
   <string name="configure_wallpaper">Einstellungen…</string>
-  <string name="live_wallpaper_empty">Keine live wallpaper.</string>
+  <string name="live_wallpaper_empty">Keine live wallpaper vorhanden</string>
   <string name="live_wallpaper_loading">Lade live wallpaper…</string>
   <string name="live_wallpaper_picker_label">Live</string>
   <string name="live_wallpaper_picker_title">Live wallpaper auswählen</string>
