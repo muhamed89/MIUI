@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="notification_missedCallsMsg">%s entgangene Anrufe</string>
+  <string name="notification_missedCallsTitle">Entgangene Anrufe</string>
+  <string name="notification_missedCallTicker">Entgangener Anruf von %s</string>
+  <string name="notification_missedCallTitle">Entgangener Anruf</string>
   <string name="Lch_dtmf_key">D</string>
   <string name="accessibility_call_muted">Gespräch stummgeschaltet.</string>
   <string name="accessibility_speakerphone_enabled">Freipsrecher eingeschaltet.</string>
@@ -11,12 +15,8 @@
   <string name="incall_error_call_failed">"Anruf fehlgeschlagen."</string>
   <string name="no_vm_number">Sprachboxnummer fehlt</string>
   <string name="no_vm_number_msg">Auf dieser SIM-Karte ist keine Sprachboxnummer gespeichert.</string>
-  <string name="notification_missedCallTicker">Entgangener Anruf von %s</string>
-  <string name="notification_missedCallTitle">Entgangener Anruf</string>
   <string name="notification_missedCall_call_back">Rückruf</string>
   <string name="notification_missedCall_message">Nachricht</string>
-  <string name="notification_missedCallsMsg">%s entgangene Anrufe</string>
-  <string name="notification_missedCallsTitle">Entgangene Anrufe</string>
   <string name="outgoing_call_error_no_phone_number_supplied">Anruf fehlgeschlagen, Nummer ungültig.</string>
   <string name="outgoing_call_not_allowed">Dieser Benutzer darf nur Notrufe tätigen</string>
   <string name="respond_via_sms_canned_response_1">"Ich kann im Moment nicht sprechen. Was gibt's?"</string>
