@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="notification_missedCallsMsg">%s entgangene Anrufe</string>
   <string name="notification_missedCallsTitle">Entgangene Anrufe</string>
+  <string name="notification_missedCallsMsg">%s entgangene Anrufe</string>
   <string name="notification_missedCallTicker">Entgangener Anruf von %s</string>
   <string name="notification_missedCallTitle">Entgangener Anruf</string>
   <string name="Lch_dtmf_key">D</string>
