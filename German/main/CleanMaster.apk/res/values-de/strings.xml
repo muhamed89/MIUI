@@ -178,7 +178,7 @@
   <string name="pref_category_title_cleanup_white_list">Ausnahmen</string>
   <string name="pref_category_title_garbage_cleanup_check">Benachrichtigungen</string>
   <string name="pref_category_title_other_clean_settings">Weitere Einstellungen</string>
-  <string name="pref_content_cleanup_white_list_none">Nichts</string>
+  <string name="pref_content_cleanup_white_list_none">keine</string>
   <string name="pref_summary_auto_clean_and_alert">Automatische Bereinigung einschalten</string>
   <string name="pref_summary_auto_update_cleanup_db">Aktualisiert %s</string>
   <string name="pref_summary_cleanup_white_list">Verhindern, dass ausgewählte Apps bereinigt werden</string>
