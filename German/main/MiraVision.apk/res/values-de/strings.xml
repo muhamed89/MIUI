@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="aal_header">Screen backlight</string>
-  <string name="aal_item">Ambient-light Adaptive Luma</string>
-  <string name="advance_color_header">Advanced tuning</string>
-  <string name="advance_color_item_sharpness">Sharpness</string>
-  <string name="advance_color_item_temperature">Color Temperature</string>
+  <string name="aal_header">Hintergrundbeleuchtung</string>
+  <string name="aal_item">Umgebungslicht Adaptive Luma</string>
+  <string name="advance_color_header">Erweiterte Einstellung</string>
+  <string name="advance_color_item_sharpness">Schärfe</string>
+  <string name="advance_color_item_temperature">Farbtemperatur</string>
   <string name="after_text">After</string>
   <string name="auto">Auto</string>
-  <string name="automatic_smart_backlight">Automatic smart backlight</string>
-  <string name="basic_color_header">Basic color tuning</string>
-  <string name="basic_color_item_brightness">Picture Brightness</string>
-  <string name="basic_color_item_contrast">Contrast</string>
+  <string name="automatic_smart_backlight">Automatische Smart Hintergrundbeleuchtung</string>
+  <string name="basic_color_header">Grundfarbe einstellen</string>
+  <string name="basic_color_item_brightness">Bild Helligkeit</string>
+  <string name="basic_color_item_contrast">Kontrast</string>
   <string name="basic_color_item_saturation">Saturation</string>
-  <string name="brightess_title">Brightness</string>
+  <string name="brightess_title">Helligkeit</string>
   <string name="clear_motion_title">ClearMotion</string>
   <string name="content_sensitive_bright_summary">Adjust brightness according to screen content</string>
   <string name="content_sensitive_bright_title">Content-Sensitive Brightness</string>
-  <string name="contrast_header">Contrast enhancement</string>
-  <string name="contrast_item">Dynamic Contrast</string>
-  <string name="display_effect_categroy">Display effects</string>
+  <string name="contrast_header">Kontrastverstärkung</string>
+  <string name="contrast_item">Dynamischer Kontrast</string>
+  <string name="display_effect_categroy">Display-Effekte</string>
   <string name="drawer_close">Close navigation drawer</string>
   <string name="drawer_open">Open navigation drawer</string>
   <string name="economical_backlight">Economical backlight</string>
