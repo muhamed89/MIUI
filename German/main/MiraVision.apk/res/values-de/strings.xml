@@ -22,7 +22,7 @@
   <string name="drawer_close">Schliese navigation drawer</string>
   <string name="drawer_open">Öffne navigation drawer</string>
   <string name="economical_backlight">sparsame Hintergrundbeleuchtung</string>
-  <string name="intro_str">MiraVision™ bietet Reihe von Funktionen um die Bildwiedergabequalität zu verbessern. Dies ermöglicht interaktives Tuning mit Echtzeitrückmeldungen, so dass es einfach und unkompliziert ist die Bildqualität auf ihre Bedürfnisse zuzuschneiden. Fortgeschrittene Benutzer können den Bildmodus/Benutzermodus wählen, um mehr Tuning-Optionen zu aktivieren.</string>
+  <string name="intro_str">MiraVision™ bietet eine Reihe von Funktionen um die Bildwiedergabequalität zu verbessern. Dies ermöglicht interaktives Tuning mit Echtzeitrückmeldung, so dass es einfach und unkompliziert ist die Bildqualität auf ihre Bedürfnisse anzupassen. Fortgeschrittene Benutzer können den Bildmodus/Benutzermodus wählen, um mehr Tuning-Optionen zu aktivieren.</string>
   <string name="intro_title">Über MiraVision™</string>
   <string name="lcd_header">Panel OverDrive</string>
   <string name="lcd_item">LCD Reaktionszeit</string>
