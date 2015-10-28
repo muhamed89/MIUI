@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="mediasize_to_standard_map">
         <item>NA_LETTER</item>
         <item>@string/mediasize_standard_north_america</item>
         <item>NA_GOVT_LETTER</item>
