@@ -10,7 +10,7 @@
   <string name="msg_safety_timer_timeout">Die Ladezeit ist zu lang, bitte Ladegerät entfernen!</string>
   <string name="title_battery_low_temperature">zu niedrige Akku Temperatur</string>
   <string name="title_battery_over_temperature">zu hohe Akku Temperatur</string>
-  <string name="title_battery_over_voltage">zu hohe Akku Spannung</string>
+  <string name="title_battery_over_voltage">zu hohe Akkuspannung</string>
   <string name="title_charger_over_voltage">zu hohe Ladespannung</string>
   <string name="title_over_current_protection">Überspannungsschutz</string>
   <string name="title_safety_timer_timeout">Über der Ladezeit</string>
