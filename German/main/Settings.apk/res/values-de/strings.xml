@@ -2397,16 +2397,16 @@ Diese Einstellung betrifft alle Nutzer auf diesem Telefon."</string>
   <string name="screen_paper_mode_off_apps_title">"Nutze nicht den Lesemodus"</string>
   <string name="screen_paper_mode_range_title">Einstellungen</string>
   <string name="screen_paper_mode_set_apps_title">Lesemodus-Apps</string>
-  <string name="screen_paper_mode_summary">"Reduzieren Sie die Bildschirm-Hintergrundblendung"</string>
+  <string name="screen_paper_mode_summary">"Optimierte Darstellung zum Lesen von Texten"</string>
   <string name="screen_paper_mode_title">Lesemodus</string>
   <string name="screen_paper_mode_turn_off">Aus</string>
   <string name="screen_paper_mode_turn_on">An</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">"Nicht nochmal zeigen"</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Erlauben</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Um die App-liste, die den Lesemodus nutzt, zu aktualisieren, müssen Sie mit dem Internet verbunden sein.</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Um die App-Liste, die den Lesemodus nutzt, zu aktualisieren, müssen Sie mit dem Internet verbunden sein.</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Internetverbindung</string>
-  <string name="screen_paper_mode_update_white_pkg_list_summary">App-liste, die automatisch den Lesemodus verwenden, aktualisieren</string>
-  <string name="screen_paper_mode_update_white_pkg_list_title">Update automatically</string>
+  <string name="screen_paper_mode_update_white_pkg_list_summary">App-Liste, die automatisch den Lesemodus verwenden, aktualisieren</string>
+  <string name="screen_paper_mode_update_white_pkg_list_title">Automatisch aktualisieren</string>
   <string name="screen_pinning_description">"Wenn eingeschaltet, können Sie Screen-Pinning nutzen, um den aktuellen Bildschirm im Blick zu behalten, bis Sie ihn entfernen.
 
 Um Screen-Pinning zu nutzen:

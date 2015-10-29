@@ -311,7 +311,7 @@
   <string name="nickname_placeholder">Spitzname</string>
   <string name="no">Abbrechen</string>
   <string name="no_block_button_msg">Diese Nummer nicht blockieren.</string>
-  <string name="no_conversations">Keine Unterhaltungen.</string>
+  <string name="no_conversations">Keine Unterhaltungen</string>
   <string name="no_subject">(Kein Betreff)</string>
   <string name="no_subject_view">(Kein Betreff)</string>
   <string name="non_english_subject_limit">Maximal 13 Zeichen.</string>
