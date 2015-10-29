@@ -462,7 +462,7 @@
   <string name="mailbox_name_display_inbox">Posteingang</string>
   <string name="mailbox_name_display_junk">Spam</string>
   <string name="mailbox_name_display_outbox">Postausgang</string>
-  <string name="mailbox_name_display_sent">gesendet</string>
+  <string name="mailbox_name_display_sent">Gesendet</string>
   <string name="mailbox_name_display_starred">Markierte</string>
   <string name="mailbox_name_display_trash">Papierkorb</string>
   <string name="mailbox_name_display_unread">Ungelesen</string>
