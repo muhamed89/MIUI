@@ -79,7 +79,7 @@
   <string name="password_label">"Passwort: "</string>
   <string name="port_number_label">"Port: "</string>
   <string name="proxy_label">"Proxy: "</string>
-  <string name="re_install_notify_message">Aktuelle Einstellungen der Anwendungen werden überschrieben, fortfahren?</string>
+  <string name="re_install_notify_message">Aktuelle Einstellung der Anwendung wird überschrieben, fortfahren?</string>
   <string name="re_install_notify_title">Bestätigung</string>
   <string name="received_label">"Empfangen: "</string>
   <string name="refreshing">Aktualisiere…</string>
