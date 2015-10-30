@@ -119,7 +119,8 @@
   <string name="download_geturl_fail">"URL konnte nicht angefordert werden."</string>
   <string name="download_is_in_tasklist">in Warteschlange</string>
   <string name="download_paused">Pause</string>
-  <string name="download_percent_hint">Downloading %d%%</string>
+  <string name="download_percent_hint">Herunterladen %d%%</string>
+  <string name="download_progress">Herunterladen: %s</string>
   <string name="download_progress_0p">0%</string>
   <string name="download_queue">Info erhalten…</string>
   <string name="download_running">Arbeiten…</string>
@@ -156,6 +157,10 @@
   <string name="hint_apk_install">Diese App installieren</string>
   <string name="hint_apk_text_update">Installieren Sie jezt das Update (%1$s) ?</string>
   <string name="hint_apk_title_update">Update verfügbar (%1$s)</string>
+  <string name="hot_spot_filter">Filter</string>
+  <string name="hot_spot_history">Verlauf</string>
+  <string name="hot_spot_offline">Offline</string>
+  <string name="hot_spot_search">Suche</string>
   <string name="i_will_write_comments">Schreiben Sie hier Ihren Kommentar</string>
   <string name="icntv">iCNTV</string>
   <string name="info_video_loading">Wird geladen...</string>
@@ -218,6 +223,7 @@
   <string name="offline_alert_wifi">Um den Datenverbrauch zu reduzieren, wurden die Aufgaben pausiert und werden fortgesetzt sobald eine WLAN-Verbindung besteht.</string>
   <string name="offline_already_in">\"%1$s\" ist schon in der Warteschlange</string>
   <string name="offline_created_order">Hinzugefügt \"%1$s\" ist %2$s in der Warteschlange</string>
+  <string name="offline_download_fragment">Offline</string>
   <string name="offline_loaded">Offline Video</string>
   <string name="offline_loading">Offline</string>
   <string name="offline_max_promote">Warten auf Cache, es gibt höchstens 2 Zwischenspeicheraufgaben, die zur gleichen Zeit ausgeführt werden können.</string>
@@ -272,6 +278,7 @@
   <string name="reload_title">"Keine Netzwerkverbindung möglich"</string>
   <string name="reload_title_ep">"Die vollständige Serie konnte nicht abgerufen werden"</string>
   <string name="retry">Wiederholen</string>
+  <string name="review_fragment">Kommentare</string>
   <string name="router">Offline Remote</string>
   <string name="router_download_task_with">%d tasks</string>
   <string name="router_update">Sie benötigen Upgrade Xiaomi Router Anwendung.</string>
@@ -282,6 +289,7 @@
   <string name="search">Suche</string>
   <string name="search_hint">Suche Online-Video</string>
   <string name="search_result_empty_text">"Es konnte nichts gefunden werden"</string>
+  <string name="search_result_empty_hint">Kein Treffer</string>
   <string name="second"> Sekunde</string>
   <string name="see_all_count_comment">%d weitere Kommentare</string>
   <string name="select_all">Alle auswählen</string>
