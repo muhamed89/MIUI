@@ -2,7 +2,6 @@
 <resources>
   <string name="app_name">Suche</string>
   <string name="apps_search_activity"/>
-  <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
   <string name="clear_history">Verlauf löschen</string>
   <string name="clear_shortcuts">Verlauf löschen</string>
   <string name="clear_shortcuts_agree">Verlauf löschen</string>
@@ -27,15 +26,11 @@ Um den Browserverlauf zu löschen, verwenden Sie die Browsereinstellungen."</str
   <string name="distance_unit_kilometer">km</string>
   <string name="distance_unit_meter">m</string>
   <string name="google_app_label">Google-Suche</string>
-  <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
-  <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
   <string name="google_search_description">Google Suchvorschläge</string>
   <string name="google_search_hint">Google-Suche</string>
   <string name="google_search_label">Google</string>
   <string name="google_settings_category_title">Google-Suche</string>
-  <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
   <string name="hot_search">Hot Search</string>
-  <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
   <string name="loading">Laden</string>
   <string name="menu_help">Hilfe</string>
   <string name="menu_settings">Such-Einstellungen</string>
@@ -62,8 +57,8 @@ Um den Browserverlauf zu löschen, verwenden Sie die Browsereinstellungen."</str
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">Sprechen:</string>
-  <string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
-  <string name="xiaomi_hot_query">http://global.search.xiaomi.net/global/v3/hotquery</string>
   <string name="xiaomi_search_label">Ergebnisse</string>
-  <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v3/sug</string>
+  <string name="xiaomi_suggest_base"/>
+  <string name="xiaomi_hot_query"/>
+  <string name="xiaomi_hint"/>
 </resources>

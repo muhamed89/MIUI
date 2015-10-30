@@ -101,6 +101,7 @@
   <string name="delete_topic_success">Abbestellen von \"%s\"erfolgreich</string>
   <string name="deleting_calendar">Abbestellen</string>
   <string name="description_label">Beschreibung</string>
+  <string name="departure">Abfahrt</string>
   <string name="directory_searching_fmt">Suche %s…</string>
   <string name="discard_label">Abbrechen</string>
   <string name="dismiss_all_label">Alle verwerfen</string>
@@ -320,7 +321,9 @@
   <string name="timezone_label">Zeitzone</string>
   <string name="today">Heute</string>
   <string name="today_at_time_fmt">Heute um %s</string>
+  <string name="today_flight_event">Flug</string>
   <string name="today_no_events">Keine Termine</string>
+  <string name="today_train_event">Bahn</string>
   <string name="tomorrow">Morgen</string>
   <string name="tomorrow_at_time_fmt">Morgen um %s</string>
   <string name="topic_dialog_title">Abo abmelden</string>

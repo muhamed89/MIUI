@@ -125,6 +125,7 @@
   <string name="downloading_in_3g">Download über 3G...</string>
   <string name="enable_sd_card">SD-Karte einsetzen oder USB-Massenspeicher ausschalten.</string>
   <string name="encrypt_error">"Dateien konnten nicht privat gemacht werden, nochmals versuchen"</string>
+  <string name="encrypt_prefix">PRIVAT</string>
   <string name="encrypt_success">Alle Dateien sind nun privat</string>
   <string name="encrypting">Verschlüsseln...</string>
   <string name="error_filename_too_long">Dateiname ist zu lang.</string>

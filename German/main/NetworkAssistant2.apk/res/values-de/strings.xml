@@ -110,6 +110,8 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="firewall_network_restrict_notify_message">Einstellungen ändern.</string>
   <string name="firewall_network_restrict_notify_mobile">Mobile Daten</string>
   <string name="firewall_network_restrict_notify_title">%1$s ist es nicht erlaubt sich mit %2$s zu verbinden.</string>
+  <string name="firewall_restrict_android_dialog_content">"Wenn Sie Android die Internetverbindung nicht erlauben, werden einige wichtige Funktionen, wie z.B. WLAN Hotspot, davon betroffen sein."</string>
+  <string name="firewall_restrict_android_dialog_title">Achtung</string>
   <string name="firewall_rule_group_title_mobile">Mobil</string>
   <string name="firewall_rule_group_title_roaming">Daten-Roaming</string>
   <string name="firewall_rule_group_title_wifi">WLAN</string>
@@ -136,6 +138,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="international_roaming_setting">Daten-Roaming</string>
   <string name="international_roaming_whitelist_count">%d Apps können auf die mobile Datenverbindung zugreifen, wenn Roaming aktiviert ist</string>
   <string name="ip_address_exception_summary">IP-Adresse konnte nicht abgerufen werden. Wenn der Fehler nochmal auftritt, versuchen Sie eine statische IP-Adresse.</string>
+  <string name="kilobyte_per_second">K/s</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Leer</string>
   <string name="load_fail">Laden fehlgeschlagen</string>
@@ -193,6 +196,7 @@ Peak: %1$s%2$s verbleibend | %3$s verbraucht"</string>
   <string name="main_traffic_used_text">verbraucht</string>
   <string name="manual_input_free_traffic">Off-Peak Datenverbrauch einstellen</string>
   <string name="manual_input_traffic">Datenverbrauch einstellen</string>
+  <string name="megabyte_per_second">M/s</string>
   <string name="mi_service_app_detail">Datenverbrauchsdetails</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
