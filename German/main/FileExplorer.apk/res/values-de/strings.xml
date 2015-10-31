@@ -450,7 +450,7 @@ und die coolsten niemals verpassen!"</string>
   <string name="stay_awake_title">Bildschirm aktiv</string>
   <string name="stop_server">Stopp</string>
   <string name="storage_info">%1$s verfügbar</string>
-  <string name="storage_info_detail">Verfügbar:%1$s Gesamt:%1$s</string>
+  <string name="storage_info_detail">Verfügbar: %1$s Gesamt: %1$s</string>
   <string name="storage_internal">Interner Speicher</string>
   <string name="storage_internal_description">Interner Speicher</string>
   <string name="storage_sd_card">SD-Karte</string>
