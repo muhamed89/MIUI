@@ -264,7 +264,7 @@
   <string name="pptv">PPTV</string>
   <string name="prefix_countdown">"Verbleibende Werbung:"</string>
   <string name="priority_storage">Speichern auf SD-Karte</string>
-  <string name="priority_storage_summary">Speichern Sie automatisch auf externe SD-Karte, falls verfügbar</string>
+  <string name="priority_storage_summary">Automatische Speicherung auf externe SD-Karte, falls verfügbar.</string>
   <string name="pulltorefresh">Zum Aktualisieren ziehen</string>
   <string name="qiyi">iQiyi</string>
   <string name="rank_title_movie">Top Videos</string>
@@ -348,7 +348,7 @@
   <string name="use_cellular_offlinedownload_summary">Benachrichtigung anzeigen, wenn Mobildaten verwendet werden, um Videos herunterzuladen</string>
   <string name="use_cellular_offlinedownload_title">Datennutzungsbenachrichtigung</string>
   <string name="use_cellular_play_summary">Wenn Sie Ihre mobile Datenverbindung nutzen, um Videos anzusehen, dann erhöht das Ihre Nutzungsdaten. Wenn Sie die Grenze Ihres Datentarifs überschreiten, könnte Ihr Anbieter zusätzlich Gebühren verlangen.</string>
-  <string name="use_cellular_play_title">Verwenden Sie mobile Daten, um das Video abzuspielen</string>
+  <string name="use_cellular_play_title">Mobile Datenverbindung verwenden um Videos abzuspielen</string>
   <string name="user_tab">Konto</string>
   <string name="version_select">wählen Version</string>
   <string name="version_select_summary">Wählen Sie, welche Version Sie benutzen</string>
