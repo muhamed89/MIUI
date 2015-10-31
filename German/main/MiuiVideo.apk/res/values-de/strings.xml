@@ -244,7 +244,7 @@
   <string name="online_video_oneweek_ago">vor 1 Woche</string>
   <string name="operator_test">Operator Test</string>
   <string name="operator_test_summary">Im Operator -Modus ausgeführt</string>
-  <string name="other_setting">Weitere</string>
+  <string name="other_setting">Weitere Einstellungen</string>
   <string name="pause">Pause</string>
   <string name="percent_status">%.0f%%</string>
   <string name="performance_mode">Leistungseinstellungen</string>
