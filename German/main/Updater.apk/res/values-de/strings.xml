@@ -122,7 +122,7 @@
   <string name="progress_title_checking">Überprüfe auf Updates…</string>
   <string name="reboot">Neustart</string>
   <string name="recovery_power_not_enough_title">Niedriger Akkustand</string>
-  <string name="recovery_power_not_enough_msg">Zum Aktialisieren schließen Sie Ihr Ladegerät an, wenn der Akkustand weniger als 30% beträgt</string>
+  <string name="recovery_power_not_enough_msg">Zum Aktualisieren schließen Sie Ihr Ladegerät an, wenn der Akkustand weniger als 30% beträgt</string>
   <string name="recovery_power_not_enough_msg_plugged">Der Akkustand muss mehr als 15% betragen, um mit der Aktualisierung zu beginnen</string>
   <string name="recovery_failed_button">OK</string>
   <string name="recovery_failed_msg">"Zu wenig Speicherplatz verfügbar, um in den Recovery-Modus zu booten und die Update zu installieren. Bitte die Mi PC Suite verwenden:
