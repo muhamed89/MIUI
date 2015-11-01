@@ -2713,7 +2713,7 @@ Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerä
   <string name="status_awaiting_tap">TAG antippen um zu schreiben...</string>
   <string name="status_awake_time">Aktivzeit</string>
   <string name="status_bar_and_notification_bar">Benachrichtigungsleiste und Statusleiste</string>
-  <string name="status_bar_app_disable_notification">Benachrichtigungen verstecken</string>
+  <string name="status_bar_app_disable_notification">Benachrichtigungen ausblenden</string>
   <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Sperrbildschirm, Benachrichtigungsblende</string>
   <string name="status_bar_app_enable_on_notificationBar">In der Benachrichtigungsblende anzeigen</string>
   <string name="status_bar_key_position_custom">Benutzerdefinierte Tastenposition</string>
