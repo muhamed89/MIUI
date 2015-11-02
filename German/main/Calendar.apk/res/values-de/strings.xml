@@ -133,12 +133,12 @@
   <string name="event_full_date_format">MM/dd/yyyy</string>
   <string name="event_hide_more">Verstecke</string>
   <string name="event_info_descrip">Desc\u0009\u0009\u0009</string>
-  <string name="event_info_end">End\u0009\u0009\u0009</string>
+  <string name="event_info_end">Ende\u0009\u0009\u0009</string>
   <string name="event_info_organizer">Organizer:</string>
   <string name="event_info_reminders_label">Erinnerungen</string>
   <string name="event_info_reminders_label_1">Erinnerung</string>
   <string name="event_info_reminders_label_more">Erinnerung %d</string>
-  <string name="event_info_repeat">Wiederhole\u0009</string>
+  <string name="event_info_repeat">Wiederholen\u0009</string>
   <string name="event_info_title">Ereignisdetails</string>
   <string name="event_info_title_invite">Besprechungseinladung</string>
   <string name="event_info_when">Wann\u0009\u0009</string>
@@ -374,6 +374,6 @@
   <string name="xiaomi_calendar_display_name">Kalender Mi-Konto</string>
   <string name="xingxiu">Sterne</string>
   <string name="yearly">Jährlich (jeden %s)</string>
-  <string name="yearly_plain">Jählich</string>
+  <string name="yearly_plain">Jährlich</string>
   <string name="zhushen">Zhushen</string>
 </resources>
