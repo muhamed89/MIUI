@@ -148,6 +148,7 @@
   <string name="error_timed_msg">Ungültige Uhrzeit.</string>
   <string name="ex_type_mx">Mi Message</string>
   <string name="ex_type_sms">SMS/MMS</string>
+  <string name="exceed_message_size_limitation_add_slide">Nachrichtengröße reicht nicht, um Folie hinzuzufügen</string>
   <string name="exceed_message_size_limitation">Maximale Nachrichtengröße erreicht.</string>
   <string name="exceed_message_text_limitation">Message text length limit reached.</string>
   <string name="expire_on">Ablaufdatum: %s</string>

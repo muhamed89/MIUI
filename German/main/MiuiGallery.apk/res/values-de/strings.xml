@@ -562,7 +562,8 @@
   <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; Sind Sie sicher, dass das nicht &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; sind? Diese Gesichter werden nach Bestätigung ins \"%2$s\" Album verschoben. &lt;/Data&gt;" "</string>
   <string name="confirm_merge_face_albums">" "&lt;Data&gt; Zusammenfügen dieses Album mit %s? &lt;/Data&gt;" "</string>
   <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Zusammenfügen dieser Alben mit %s? &lt;/Data&gt;" "</string>
-  <string name="confirm_not_face">Kein Treffer</string> 
+  <string name="confirm_not_face">Kein Treffer</string>
+  <string name="contact_tip">Kontakte</string>  
   <string name="contact_photo">Als Kontaktfoto</string>
   <string name="context_menu_add_contact">Zu Kontakten hinzufügen</string>
   <string name="context_menu_copy">Kopieren</string>
@@ -763,11 +764,13 @@
   <string name="in_home_page_long_press_photo_setting_secret_photo">To hide a photo, press &amp; hold it, then select \"Add to hidden album\" from the menu in the lower left corner.</string>
   <string name="initial_cloud_button_text">Anmelden</string>
   <string name="initial_cloud_text">Speichern und betrachten Sie Ihre Fotos jederzeit von überall.</string>
-  <string name="initializing_cloud">Initialisiere...</string>
-  <string name="input_baby_name">Name eingeben</string>
-  <string name="input_baby_nick_name">Spitzname eingeben</string>
+  <string name="initializing_cloud">Initialisieren...</string>
+  <string name="input_a_name">Namen eingeben</string>
+  <string name="input_baby_name">Namen eingeben</string>
+  <string name="input_baby_nick_name">Spitznamen eingeben</string>
   <string name="input_cloudfolder_name">Album Name</string>
   <string name="input_nickname_toast">"Babynamen eingeben"</string>
+  <string name="input_or_select_a_name">Namen eingeben oder auswählen</string>
   <string name="internal_camera_folder_display_name">Interne Kamerafotos</string>
   <string name="internal_miui_capture_screen_folder_display_name">Interne Screenshots</string>
   <string name="internal_sd_card">Interner Speicher</string>
