@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">gallery</string>
+  <string name="cancel">Exit</string>
+  <string name="declaration">"By using this product,you're agreeing to our &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;User Agreement&lt;/a&gt; and &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Privacy Policy&lt;/a&gt;. This app needs to connect to the internet to work normally."</string>
+  <string name="declaration_title">Terms of Use</string>
+  <string name="lockscreen_magazine_subscribe">%1$s followers</string>
+  <string name="lockscreen_magazine_summary">Get wallpapers delivered straight to your lock screen every day.</string>
+  <string name="lockscreen_magazine_system_subscribe">%1$s wallpapers</string>
+  <string name="lockscreen_magazine_system_title">Default</string>
+  <string name="lockscreen_magazine_title">Daily lock screens</string>
+  <string name="no_long_show">"Don't show again"</string>
+  <string name="ok">Agree</string>
+  <string name="resource_apply">Apply</string>
+  <string name="resource_no_network_text">"Can't connect to the network."</string>
+  <string name="theme_apply_failured">"Can't apply lock screen wallpaper"</string>
+  <string name="theme_apply_success">Lock screen applied</string>
+  <string name="theme_applying">Applying…</string>
+</resources>
