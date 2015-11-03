@@ -300,12 +300,13 @@
   <string name="miui_bookmark_action_bar_new_group_title">Neue Gruppe</string>
   <string name="miui_content_copy">Kopieren</string>
   <string name="miui_content_cut">Ausschneiden</string>
+  <string name="miui_content_extent_select">Mehr auswählen</string>
   <string name="miui_content_open_url">URL aufrufen</string>
   <string name="miui_content_paste">Einfügen</string>
   <string name="miui_content_select">Wählen</string>
-  <string name="miui_content_select_all">Alles wählen</string>
+  <string name="miui_content_select_all">Alles auswählen</string>
   <string name="miui_content_share">Teilen</string>
-  <string name="miui_content_web_search">Suche</string>
+  <string name="miui_content_web_search">Suchen</string>
   <string name="miui_quicksearch_enable_pref_summary">Zeige Link zur Suchleiste in der Benachrichtigungsleiste</string>
   <string name="miui_quicksearch_enable_pref_title">Suchleiste in der Benachrichtigungsleiste</string>
   <string name="miui_search_notification_message">Berühre um die Suchleiste zu öffnen.</string>

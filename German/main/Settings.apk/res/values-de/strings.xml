@@ -250,7 +250,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="auto_brightness_title">Adaptive Helligkeit</string>
   <string name="auto_caps">Auto. Groß-/Kleinschr.</string>
   <string name="auto_caps_summary">Jeden Satz mit einem Großbuchstaben beginnen</string>
-  <string name="auto_launch_disable_text">Kein Standards eingestellt.</string>
+  <string name="auto_launch_disable_text">Keine Standards eingestell.</string>
   <string name="auto_launch_enable_text">Sie haben diese App für einige Aktionen als Standard festgelegt.</string>
   <string name="auto_launch_label">Standardmäßig starten</string>
   <string name="auto_launch_label_generic">Standards</string>
@@ -988,7 +988,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="disable_power_key_long_press_under_keyguard">Power-Taste deaktivieren</string>
   <string name="disable_service_message">Wenn Sie OK drücken wird %1$s beendet.</string>
   <string name="disable_service_title">%1$s beenden?</string>
-  <string name="disable_text">Ausschalten</string>
+  <string name="disable_text">Deaktivieren</string>
   <string name="disabled">Ausgeschaltet</string>
   <string name="disabled_because_no_backup_security">Um diese Funktion zu verwenden, muss zuerst eine Bildschirmsperre eingerichtet werden</string>
   <string name="disconnect">Trennen</string>
@@ -1133,7 +1133,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="enable_snapshot_screenlock">Halten Sie den Zurück-Knopf lange gedrückt, um ein Foto zu machen</string>
   <string name="enable_terminal_summary">Aktiviere die Terminal-App, die den lokalen Shell-Zugang ermöglicht</string>
   <string name="enable_terminal_title">Lokales Terminal</string>
-  <string name="enable_text">Einschalten</string>
+  <string name="enable_text">Aktivieren</string>
   <string name="enable_wifi_display">Kabellose Übertragung aktivieren</string>
   <string name="encrypt_dont_require_password">Nein Danke</string>
   <string name="encrypt_dont_require_pattern">Nein Danke</string>
@@ -1225,7 +1225,7 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="fingerprint_identify_input_password_msg">Passwort eingeben</string>
   <string name="fingerprint_identify_try_again_msg">"Scan fehlgeschlagen, nochmals versuchen?"</string>
   <string name="fingerprint_list_title">Fingerabdruck</string>
-  <string name="finish_application">Ende</string>
+  <string name="finish_application">Beenden</string>
   <string name="finish_button_label">Fertigstellen</string>
   <string name="firmware_version">Android-Version</string>
   <string name="floating_window_switch_label">Popup anzeigen</string>
@@ -2713,9 +2713,9 @@ Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerä
   <string name="status_awaiting_tap">TAG antippen um zu schreiben...</string>
   <string name="status_awake_time">Aktivzeit</string>
   <string name="status_bar_and_notification_bar">Benachrichtigungsleiste und Statusleiste</string>
-  <string name="status_bar_app_disable_notification">Benachrichtigungen ausblenden</string>
+  <string name="status_bar_app_disable_notification">ausblenden</string>
   <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Sperrbildschirm, Benachrichtigungsblende</string>
-  <string name="status_bar_app_enable_on_notificationBar">In der Benachrichtigungsblende anzeigen</string>
+  <string name="status_bar_app_enable_on_notificationBar">anzeigen</string>
   <string name="status_bar_key_position_custom">Benutzerdefinierte Tastenposition</string>
   <string name="status_bar_screen_button_key">Virtuelle Tasten anzeigen</string>
   <string name="status_bar_screen_key_back">Zurück-Taste</string>

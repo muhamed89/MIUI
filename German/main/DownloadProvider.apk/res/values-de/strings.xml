@@ -26,12 +26,12 @@
   <string name="notif_title_file_size">%1$d gesamt</string>
   <string name="notif_title_multiple_downloading">Downloading %1$d Dateien</string>
   <string name="notif_title_single_downloading">Downloading %1$s</string>
-  <string name="notification_download_complete">Download beendet.</string>
-  <string name="notification_download_failed">Download nicht erfolgreich.</string>
+  <string name="notification_download_complete">Download beendet</string>
+  <string name="notification_download_failed">Download nicht erfolgreich</string>
   <string name="notification_download_failed_more">"Konnte %1$d Dinge nicht herunterladen"</string>
   <string name="notification_download_success_more">%1$d heruntergeladen</string>
-  <string name="notification_need_wifi_for_size">Downloadgröße erfordert eine WLAN-Verbindung.</string>
-  <string name="notification_paused_in_background">Im Hintergrund pausieren.</string>
+  <string name="notification_need_wifi_for_size">Downloadgröße erfordert eine WLAN-Verbindung</string>
+  <string name="notification_paused_in_background">Im Hintergrund pausieren</string>
   <string name="paused_waiting_for_network">Warte auf Netzwerk</string>
   <string name="permdesc_accessAllDownloads">Erlaubt der App das Betrachten und Bearbeiten aller Downloads, die von jeder App auf dem System getätigt wurden.</string>
   <string name="permdesc_downloadCacheNonPurgeable">"Ermöglicht der App Dateien in den Downloadcache herunterzuladen, die nicht automatisch gelöscht werden können, wenn der Download-Manager mehr Speicherplatz benötigt."</string>
