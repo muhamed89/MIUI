@@ -36,7 +36,7 @@
   <string name="delete">Löschen</string>
   <string name="delete_download">Löschen</string>
   <string name="delete_downloads_records">Downloads löschen</string>
-  <string name="delete_the_downloaded_file">Heruntergeladenen Dateien werden gelöscht.</string>
+  <string name="delete_the_downloaded_file">Heruntergeladenen Dateien werden gelöscht.</string>0
   <string name="deselect_all">Alles abwählen</string>
   <string name="deselect_subfile_all">Alles abwählen</string>
   <string name="determine">OK</string>
@@ -101,6 +101,7 @@
   <string name="editmode_menu_delete">Lösche</string>
   <string name="editmode_menu_share">Teile</string>
   <string name="engine_open">Öffnen</string>
+  <string name="enter_search">Suche</string>
   <string name="experience_xunlei_account_speed">Xunlei Mitglieder können Downloads in hoher Geschwindigkeit genießen.</string>
   <string name="expire_notification_msg">Xunlei Mitgliedschaft endet bald.</string>
   <string name="expire_today_notification_msg">Xunlei Mitgliedschaft endet heute.</string>
@@ -192,6 +193,15 @@
   <string name="revert_default">Zurücksetzen</string>
   <string name="revert_download_path">Standard Downloadverzeichnis verwenden?</string>
   <string name="save_path">"Speichere Downloads in: "</string>
+  <string name="search_clear_history_btn">Suchverlauf löschen</string>
+  <string name="search_clear_history_toast">Verlauf gelöscht</string>
+  <string name="search_history">Suchverlauf</string>
+  <string name="search_hotwords">Schlüsselworte</string>
+  <string name="search_hotwords_switch">Wechseln</string>
+  <string name="search_input_empty_toast">Suchen oder URL eingeben</string>
+  <string name="search_input_hint">Suche oder URL</string>
+  <string name="search_nonetwork_prompt">Überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut</string>
+  <string name="search_nonetwork_refresh">Aktualisieren</string>
   <string name="select_all">Alles auswählen</string>
   <string name="select_operation_items">Elemente auswählen</string>
   <string name="select_sub_file_download">Wähle eine Datei zum runterladen</string>
@@ -201,7 +211,28 @@
   <string name="setting_debug_fail">"Konnte Debug Modus nicht starten"</string>
   <string name="setting_open_debug">Debug Modus eingeschalten. Drücke hier 6 mal um diesen auszuschalten.</string>
   <string name="show_more">Zeige %s mehr</string>
-  <string name="start_analysis">Überprüfe</string>
+  <string name="sniff_bt_text">Torrent file</string>
+  <string name="sniff_btn_text">Quelle suchen</string>
+  <string name="sniff_connect_error_page_tips">"URL konnte nicht geöffnet werden"</string>
+  <string name="sniff_connect_error_refresh">Neu laden</string>
+  <string name="sniff_download_task_already_exist">Dieser Download existiert bereits</string>
+  <string name="sniff_download_task_create_success">Download hinzugefügt</string>
+  <string name="sniff_find_some_prefix"></string>
+  <string name="sniff_find_some_suffix">gefunden</string>
+  <string name="sniff_finding_resource_prompt">Quelle suchen…</string>
+  <string name="sniff_no_network_tip">Überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut</string>
+  <string name="sniff_result_empty_prompt">"Quelle konnte nicht gefunden werden"</string>
+  <string name="sniff_result_num_prefix"></string>
+  <string name="sniff_result_num_video_suffix">gefunden</string>
+  <string name="sniff_result_num_website_suffix">Webseiten</string>
+  <string name="sniff_result_website_intro">共&lt;font color=\"#6699ff\"&gt;%1$d&lt;/font&gt; items | Source: %2$s</string>
+  <string name="sniff_sniffing_btn_text">Quelle Suchen…</string>
+  <string name="sniff_terms_agree">Akzeptieren</string>
+  <string name="sniff_terms_msg">Akzeptieren Sie die \"Nutzungsbedingungen\" um die Suche eines Drittanbieters zu verwenden.</string>
+  <string name="sniff_terms_reject">Ablehnen</string>
+  <string name="sniff_terms_title">Achtung</string>
+  <string name="sniff_text_sniff_next_page">Weiter ></string>
+  <string name="start_analysis">Überprüfen</string>
   <string name="start_download">Download</string>
   <string name="start_xunlei_speedup_info">Melden Sie sich an, um Ihre Downloads zu beschleunigen.</string>
   <string name="starting_analysis">erhalten Informationen…</string>
@@ -238,6 +269,8 @@
   <string name="vip_expire_today_show_info">Xunlei Mitgliedschaft abgelaufen.</string>
   <string name="vip_show_info">"5 Millionen Mitglieder.
 Beschleunige Downloads auf allen Ihren Geräten."</string>
+  <string name="web_dialog_cancel">Abbrechen</string>
+  <string name="web_dialog_confirm">OK</string>
   <string name="xiaomi_account_not_exist_message">"Dieses Mi-Konto existiert nicht"</string>
   <string name="xunlei_account_has_unbind_message">Xunlei Konto entfernt</string>
   <string name="xunlei_brand">Präsentiert von Xunlei</string>
