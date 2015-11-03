@@ -36,7 +36,7 @@
   <string name="delete">Löschen</string>
   <string name="delete_download">Löschen</string>
   <string name="delete_downloads_records">Downloads löschen</string>
-  <string name="delete_the_downloaded_file">Heruntergeladenen Dateien werden gelöscht.</string>0
+  <string name="delete_the_downloaded_file">Heruntergeladene Dateien werden gelöscht.</string>
   <string name="deselect_all">Alles abwählen</string>
   <string name="deselect_subfile_all">Alles abwählen</string>
   <string name="determine">OK</string>
