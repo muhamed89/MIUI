@@ -48,7 +48,7 @@
   <string name="antivirus_privacy_dialog_title">Datenschutzerklärung</string>
   <string name="antivirus_sec_support">Powered by %s</string>
   <string name="antivirus_update_db">%s</string>
-  <string name="app_name_securitycenter">Security</string>
+  <string name="app_name_securitycenter">Sicherheit</string>
   <string name="app_not_installed_toast">"Die App ist nicht installiert."</string>
   <string name="auto_handle_title">ALLGEMEIN</string>
   <string name="back">Zurück</string>

@@ -66,7 +66,7 @@
   <string name="clean_content_zero">Keine</string>
   <string name="clear_bigfiles">Große Dateien, doppelte Fotos und andere unnötige Elemente löschen</string>
   <string name="clear_immediately">Jetzt bereinigen</string>
-  <string name="clear_safe_notify">Security Benachrichtigungsleiste</string>
+  <string name="clear_safe_notify">Sicherheit Benachrichtigungsleiste</string>
   <string name="confirm_auto_cleaner">OK</string>
   <string name="deepclean_app_content">Deinstalliere Apps, welche in den letzten 30 Tagen nicht verwendet wurden</string>
   <string name="deepclean_cache_content">Lösche Daten, welche von Apps erzeugt wurden</string>
@@ -243,6 +243,7 @@
   <string name="similar_image_empty">Keine Duplikate gefunden</string>
   <string name="similar_image_scaning">Überprüfen…</string>
   <string name="similar_image_title">Fotos</string>
+  <string name="set_immediately">Einschalten</string>
   <string name="summary_auto_cleaner">System automatisch alle 3 Tage bereinigen?</string>
   <string name="summary_delete_cache">"Alle Daten dieser App (einschließlich aller Dateien, Einstellungen und Konten) werden endgültig gelöscht."</string>
   <string name="summary_delete_large_file">"Einige große Dateien können sinnvoll sein, wenn Sie keine Internetverbindung haben (z.B. Karten, Zeitpläne, etc.). Vergewissern Sie sich, dass Sie diese Dateien nicht benötigen."</string>
@@ -259,6 +260,10 @@
   <string name="tips_of_traffic_notification">Statistik zur mobilen Datenverbindung in den Benachrichtigungen anzeigen</string>
   <string name="title_of_package_set">Datentarif-Einstellungen</string>
   <string name="tips_of_package_set">Legen Sie Ihren Datentarif fest und kontrollieren Sie Ihren Datenverbrauch</string>
+  <string name="title_of_garbage_cloud_scan">Cloud Scan</string>
+  <string name="tips_of_garbage_cloud_scan">Datenmüll in der Cloud finden</string>
+  <string name="title_of_operators_set">Netzbetreiber-Einstellungen</string>
+  <string name="tips_of_operators_set">Automatische Anpassung der Datenstatistik</string>
   <string name="toast_add_white_list_success">"zu Ausnahmen hinzugefügt"</string>
   <string name="toast_app_no_residual_on_sdcard">"App hat keine Dateien auf ihrer SD-Karte gespeichert"</string>
   <string name="toast_backup_is_running">Sicherung läuft bereits</string>
