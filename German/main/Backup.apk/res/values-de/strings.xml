@@ -245,7 +245,7 @@
   <string name="trans_detail_category_sysdata">Systemdaten</string>
   <string name="trans_detail_category_userdata">Apps</string>
   <string name="trans_device_disconnected">Nicht verbunden</string>
-  <string name="trans_main_tutor">Kontekate, Gesprächsverlauf, Nachrichten, Desktop Layout, Apps, Einstellungen, etc. auf neues Gerät übertragen</string>
+  <string name="trans_main_tutor">Kontakte, Gesprächsverlauf, Nachrichten, Desktop Layout, Apps, Einstellungen, etc. auf neues Gerät übertragen</string>
   <string name="trans_my_device">Mein Telefon</string>
   <string name="trans_one_key_migrate">Übertragung</string>
   <string name="trans_progress_subdescript_br_receiver">%s empfangen</string>
