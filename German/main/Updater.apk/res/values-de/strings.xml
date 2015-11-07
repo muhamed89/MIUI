@@ -2,7 +2,7 @@
 <resources>
   <string name="about_device">Über das Telefon</string>
   <string name="active_xiaomi_account">Aktiv</string>
-  <string name="active_xiaomi_account_msg">Um Ihren Mi Account zu ativieren, bitte https://account.xiaomi.com/pass/serviceLogin aufrufen.</string>
+  <string name="active_xiaomi_account_msg">Um Ihren Mi Account zu aktivieren, bitte https://account.xiaomi.com/pass/serviceLogin aufrufen.</string>
   <string name="active_xiaomi_account_title">Mi Account aktivieren</string>
   <string name="app_name">Updater</string>
   <string name="apply_title">Aktualisierung (%s)</string>
