@@ -681,5 +681,6 @@ Note: Nur für Ubuntu 8.04!"</item>
 	    <string-array name="common_password_business_names">
         <item>Sperrbildschirm</item>
         <item>Kindermodus</item>
+        <item>File explorer</item>
     </string-array>
 </resources>
