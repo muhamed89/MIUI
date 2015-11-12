@@ -173,14 +173,14 @@
   <string name="ftp_username_hint">Benutzername</string>
   <string name="gbk_summary">\"Vereinfachtes Chinesisch\" Windows Standardcodierung</string>
   <string name="gbk_title">GBK</string>
-  <string name="get_cloud_space">Add 500GB</string>
+  <string name="get_cloud_space">500GB hinzufügen</string>
   <string name="gigabyteShort">GB</string>
-  <string name="group_title">%2$s from %1$s</string>
+  <string name="group_title">%2$s von %1$s</string>
   <string name="group_title_extra_backup">Backups</string>
-  <string name="group_title_extra_expire">About to expire</string>
-  <string name="group_title_extra_new">New</string>
+  <string name="group_title_extra_expire">Läuft bald ab</string>
+  <string name="group_title_extra_new">Neu</string>
   <string name="if_cancel">Cancel this operation?</string>
-  <string name="image_loading_error">"Couldn't load image"</string>
+  <string name="image_loading_error">"Bild konnte nicht geladen werden."</string>
   <string name="instruction">Folgende Adresse im FTP-Client eingeben:</string>
   <string name="instruction_pre">"Drücken Sie 'Start' um den FTP-Server einzuschalten."</string>
   <string name="just_now">Jetzt</string>
@@ -205,7 +205,7 @@
   <string name="kuaipan_photo_more_folder_count">%1$s</string>
   <string name="kuaipan_prompt">Hinweis</string>
   <string name="kuaipan_prompt_message">"
- Der Server wurde für Wartungsarbeiten heruntergefahren. Später erneut versuchen.
+ Der Server ist momentan nicht ereichbar. Versuchen Sie es später erneut.
 "</string>
   <string name="kuaipan_root_fooder">Home</string>
   <string name="kuaipan_tech_support">Anmelden bei kuaipan.cn</string>
@@ -274,14 +274,15 @@
   <string name="network_spent_reminding_title">Datenverbrauchswarnung</string>
   <string name="never_notify_network_connect">"Nicht mehr anzeigen"</string>
   <string name="new_folder_name">Neuer Ordner</string>
-  <string name="new_function">Über \"Privater Ordner\"</string>
-  <string name="new_function_info">"\"Privater Ordner\" ist ein neue Funktion in MIUI.
-Sie können Ihre Daten verschlüsseln und Sie an einem sicheren Ort speichern.
+  <string name="new_function">Über Privatordner</string>
+  <string name="new_function_info">"Privatordner sind eine neue MIUI-Funktion.
+Sie können Ihre Dateien verschlüsseln
+und sie an einem sicheren Platz aufbewahren.
 
-Auf der Startseite nach unten wischen, um loszulegen."</string>
-  <string name="new_function_str">"WeChat Sticker können automatisch gesammelt werden.
-Herunterladen, wann Sie wollen
-und die coolsten niemals verpassen!"</string>
+Auf der Startseite herunterziehen, um es zu testen."</string>
+  <string name="new_function_str">"WeChat-Sticker können automatisch heruntergeladen werden.
+Laden Sie sie herunter, wann immer Sie wollen
+und verpassen Sie keine Neuen mehr!"</string>
   <string name="new_function_title_str">Über WeChat Sticker</string>
   <string name="no">Nein</string>
   <string name="no_app_tags">Keine vorhanden</string>
@@ -307,8 +308,8 @@ und die coolsten niemals verpassen!"</string>
   <string name="notification_setting">Benachrichtigungen</string>
   <string name="notification_summary">"%1$s unterstützt diese Funtkion nicht"</string>
   <string name="notification_title">Benachrichtigen wenn Dateien zu %1$s hinzugefügt werden</string>
-  <string name="notification_wechat_expired_empty">WeChat has already deleted these video clips.</string>
-  <string name="notification_wechat_title">WeChat video notifications</string>
+  <string name="notification_wechat_expired_empty">WeChat hat bereits diese Videoclips gelöscht.</string>
+  <string name="notification_wechat_title">Benachrichtigen, wenn WeChat-Video abläuft</string>
   <string name="notify_private_folder_msg">Tap to learn about private folders.</string>
   <string name="notify_private_folder_title">Protect your personal files</string>
   <string name="online_not_support">"Diese Datei kann im Moment nicht online angezeigt werden."</string>
@@ -319,8 +320,8 @@ und die coolsten niemals verpassen!"</string>
   <string name="open_file_failed">Öffnen fehlgeschlagen</string>
   <string name="open_private_folder">Privaten Ordner erstellen...</string>
   <string name="operate_confirm_in_3g">Mobile Datenverbindug zum laden dieser großen Datei verwenden?</string>
-  <string name="operating">Processing…</string>
-  <string name="operation_add_fav">Adding to starred…</string>
+  <string name="operating">Wird verarbeitet…</string>
+  <string name="operation_add_fav">Hinzufügen zu markiert…</string>
   <string name="operation_agree">Zustimmen</string>
   <string name="operation_cancel">Abbrechen</string>
   <string name="operation_compress">Komprimieren</string>
