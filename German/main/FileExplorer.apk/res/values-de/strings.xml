@@ -173,14 +173,14 @@
   <string name="ftp_username_hint">Benutzername</string>
   <string name="gbk_summary">\"Vereinfachtes Chinesisch\" Windows Standardcodierung</string>
   <string name="gbk_title">GBK</string>
-  <string name="get_cloud_space">Add 500GB</string>
+  <string name="get_cloud_space">500GB hinzufügen</string>
   <string name="gigabyteShort">GB</string>
-  <string name="group_title">%2$s from %1$s</string>
+  <string name="group_title">%2$s von %1$s</string>
   <string name="group_title_extra_backup">Backups</string>
   <string name="group_title_extra_expire">About to expire</string>
-  <string name="group_title_extra_new">New</string>
-  <string name="if_cancel">Cancel this operation?</string>
-  <string name="image_loading_error">"Couldn't load image"</string>
+  <string name="group_title_extra_new">Neu</string>
+  <string name="if_cancel">Abbrechen?</string>
+  <string name="image_loading_error">"Bild kann nicht geladen werden"</string>
   <string name="instruction">Folgende Adresse im FTP-Client eingeben:</string>
   <string name="instruction_pre">"Drücken Sie 'Start' um den FTP-Server einzuschalten."</string>
   <string name="just_now">Jetzt</string>
@@ -310,7 +310,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="notification_wechat_expired_empty">WeChat has already deleted these video clips.</string>
   <string name="notification_wechat_title">Benachrichtigen, wenn WeChat-Video abläuft</string>
   <string name="notify_private_folder_msg">Mehr über Private Ordner.</string>
-  <string name="notify_private_folder_title">Protect your personal files</string>
+  <string name="notify_private_folder_title">Schützen Sie ihre Private Dateien</string>
   <string name="online_not_support">"Diese Datei kann im Moment nicht online angezeigt werden."</string>
    <string name="open_changed_file_message">"Datei die Sie öffnen möchten wurde geändert. Sie können:
 1. die Datei erneut runterladen
