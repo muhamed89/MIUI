@@ -63,7 +63,7 @@
     <string-array name="availability">
         <item>Beschäftigt</item>
         <item>Verfügbar</item>
-        <item>Unter Vorbehalt</item>
+        <item>Vorläufig</item>
     </string-array>
     <string-array name="visibility">
         <item>Standard</item>
@@ -84,41 +84,41 @@
         <item>Nein</item>
     </string-array>
     <string-array name="delete_repeating_labels">
-        <item>Nur dieses Ereignis</item>
-        <item>Dieses und folgende Ereignisse</item>
-        <item>Alle Ereignisse</item>
+        <item>Nur dieses Termin</item>
+        <item>Dieser und zukünftige Termine</item>
+        <item>Alle Termine</item>
     </string-array>
     <string-array name="delete_repeating_labels_no_selected">
-        <item>Dieses &amp; folgende Ereignisse</item>
-        <item>Alle Ereignisse</item>
+        <item>Dieser &amp; und zukünftige Termine</item>
+        <item>Alle Termine</item>
     </string-array>
     <string-array name="change_response_labels">
-        <item>Nur dieses Ereigniss</item>
-        <item>Alle Ereignisse in der Serie</item>
+        <item>Nur diesen Termin</item>
+        <item>Alle Termine in der Reihe</item>
     </string-array>
     <string-array name="buttons_list">
         <item>Tag</item>
         <item>Woche</item>
         <item>Monat</item>
-        <item>Ereignisse</item>
+        <item>Termine</item>
     </string-array>
     <string-array name="quick_response_defaults">
-        <item>Hallo, ich bin schon fast da. Bis gleich!</item>
-        <item>Hallo, ich bin in etwa 10 Minuten da!</item>
-        <item>Ich schaffe es nicht rechtzeitig. Bitte fangen Sie ohne mich an!</item>
-        <item>"Entschuldigung, aber ich schaffe es heute nicht. Können wir den Termin verschieben?"</item>
+        <item>Ich komme ein paar Minuten später.</item>
+        <item>Ich werde in 10 Minuten da sein.</item>
+        <item>Fangen Sie schon ohne mich an!</item>
+        <item>"ntschuldigung. Wir müssen den Termin verschieben."</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Immer</item>
-        <item>Nur wenn Ton stumm</item>
+        <item>Nur wenn lautlos</item>
         <item>Niemals</item>
     </string-array>
     <string-array name="widget_style_list">
-        <item>Durchsichtig</item>
+        <item>Transparent</item>
         <item>Weißer Hintergrund</item>
     </string-array>
     <string-array name="miui_reminder_minutes_labels">
-        <item>Keine Erinnerung</item>
+        <item>Nicht erinnern</item>
         <item>0 Minuten</item>
         <item>5 Minuten</item>
         <item>10 Minuten</item>
@@ -130,7 +130,7 @@
         <item>1 Woche</item>
     </string-array>
     <string-array name="miui_preferences_default_reminder_labels">
-        <item>Keine Erinnerung</item>
+        <item>Nicht erinnern</item>
         <item>0 Minuten</item>
         <item>5 Minuten</item>
         <item>10 Minuten</item>
@@ -155,10 +155,10 @@
         <item>Jahr</item>
     </string-array>
     <string-array name="repeat_frequency_spinner_plural">
-        <item>days</item>
-        <item>weeks</item>
-        <item>months</item>
-        <item>years</item>
+        <item>Tag</item>
+        <item>Woche</item>
+        <item>Monat</item>
+        <item>Jahr</item>
     </string-array>
     <string-array name="repeat_choose_day">
         <item>1.</item>
@@ -229,7 +229,7 @@
         <item>Ganze Woche</item>
     </string-array>
     <string-array name="repeat_choose_end">
-        <item>Nie</item>
+        <item>Niemals</item>
         <item>Zeit</item>
         <item>Anzahl</item>
     </string-array>
