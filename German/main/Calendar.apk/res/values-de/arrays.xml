@@ -153,6 +153,7 @@
         <item>Woche</item>
         <item>Monat</item>
         <item>Jahr</item>
+    </string-array>
     <string-array name="repeat_frequency_spinner_plural">
         <item>days</item>
         <item>weeks</item>
