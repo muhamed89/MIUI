@@ -106,7 +106,7 @@
         <item>Ich komme ein paar Minuten später.</item>
         <item>Ich werde in 10 Minuten da sein.</item>
         <item>Fangen Sie schon ohne mich an!</item>
-        <item>"ntschuldigung. Wir müssen den Termin verschieben."</item>
+        <item>"Entschuldigung. Wir müssen den Termin verschieben."</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Immer</item>
