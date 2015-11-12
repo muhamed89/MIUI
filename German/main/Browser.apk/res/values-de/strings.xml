@@ -173,6 +173,9 @@
   <string name="copy_to_clipboard_failure_message">Kopieren in die Zwischenablage fehlgeschlagen</string>
   <string name="copy_url">Kopiere URL</string>
   <string name="create_qr_code">QR-Code</string>
+  <string name="current_version_pad">Pad</string>
+  <string name="current_version_pc">Desktop</string>
+  <string name="current_version_phone">Phone</string>
   <string name="data_traffic_prompt_change">Videos ansehem mit mobiler Datenverbindung wird ihr Datenverbrauch erhöhen. Es könnten zusätzliche Kosten durch Ihren Anbieter entstehen, wenn Ihr Datenverbrauch über ihr derzeitiges Limit gerät.</string>
   <string name="data_traffic_prompt_message">Videos durchsuchen mit mobiler Datenverbindung wird ihr Datenverbrauch erhöhen. Es könnten zusätzliche Kosten durch Ihren Anbieter entstehen, wenn Ihr Datenverbrauch über ihr derzeitiges Limit gerät.</string>
   <string name="data_traffic_prompt_title">Datenverbrauchswarnung</string>
@@ -338,6 +341,7 @@
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">SD-Karte wird benötigt um diesen Pfad zu bearbeiten.</string>
   <string name="month_picker_dialog_title">Monat festlegen</string>
+  <string name="more_option">More options</string>
   <string name="nav_bottom_bar_back">Zurück</string>
   <string name="nav_bottom_bar_close_all">Alle schließen</string>
   <string name="nav_bottom_bar_new_tab">Neuer Tab</string>
