@@ -215,7 +215,6 @@
   <string name="local_image">Fotos</string>
   <string name="local_music">Musik</string>
   <string name="local_sticker_str">Heruntergeladen</string>
-  <string name="local_sticker_str">Offline</string>
   <string name="local_video">Video</string>
   <string name="login_reg_content">Speichern von Dateien und Synchronisierung auf mehreren Geräten.</string>
   <string name="login_reg_content0">Alle Ihre Inhalte. Wohin Sie auch gehen.</string>
@@ -312,7 +311,6 @@ und die coolsten niemals verpassen!"</string>
   <string name="notification_wechat_title">WeChat video notifications</string>
   <string name="notify_private_folder_msg">Tap to learn about private folders.</string>
   <string name="notify_private_folder_title">Protect your personal files</string>
-  <string name="notification_wechat_expired_empty">WeChat has already deleted these video clips.</string>
   <string name="online_not_support">"Diese Datei kann im Moment nicht online angezeigt werden."</string>
    <string name="open_changed_file_message">"Datei die Sie öffnen möchten wurde geändert. Sie können:
 1. die Datei erneut runterladen
