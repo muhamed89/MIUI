@@ -159,8 +159,6 @@
         <item>months</item>
         <item>years</item>
     </string-array>
-        
-    </string-array>
     <string-array name="repeat_choose_day">
         <item>1.</item>
         <item>2.</item>
