@@ -3,8 +3,10 @@
   <string name="account_bind_prompt">Benutzerdaten werden übertragen... Dies kann ein paar Minuten dauern.</string>
   <string name="action_mode_deselect_all">Keine</string>
   <string name="action_mode_select_all">Alle</string>
+  <string name="add_private_files">Add files</string>
   <string name="add_task">Hinzufügen</string>
   <string name="adding_upload_tasks">Aufgaben hinzufügen...</string>
+  <string name="already_liked">"You've already starred this item"</string>
   <string name="already_signin_description">Sie sind bereits angemeldet.</string>
   <string name="app_name">Dateien</string>
   <string name="app_name_bluetooth">Bluetooth</string>
@@ -37,7 +39,9 @@
   <string name="can_not_send_with_too_many">Kann nicht so viele Elemente senden</string>
   <string name="cancel">Abbrechen</string>
   <string name="cancel_error">"Entfernen fehlgeschlagen, nochmals versuchen?"</string>
+  <string name="cancel_operation">Cancel operation</string>
   <string name="cancel_success">Entfernen erfolgreich, alle Dateien wurden nach sdcard/fileexplorer/decryption verschoben</string>
+  <string name="cancelled_by_user">Operation cancelled</string>
   <string name="category">Kategorien</string>
   <string name="category_all">Alle</string>
   <string name="category_apk">APKs</string>
@@ -121,6 +125,7 @@
   <string name="download_current_progress">%1$d%%</string>
   <string name="download_failed">Download fehlgeschlagen</string>
   <string name="download_link_completed">%1$s über KuaiPan geteilt. Zum Ansehen auf folgenden Link drücken:</string>
+  <string name="downloaded_sticker_str">Downloaded</string>
   <string name="downloading">Wird geladen</string>
   <string name="downloading_in_3g">Download über 3G...</string>
   <string name="enable_sd_card">SD-Karte einsetzen oder USB-Massenspeicher ausschalten.</string>
@@ -174,6 +179,8 @@
   <string name="group_title_extra_backup">Backups</string>
   <string name="group_title_extra_expire">About to expire</string>
   <string name="group_title_extra_new">New</string>
+  <string name="if_cancel">Cancel this operation?</string>
+  <string name="image_loading_error">"Couldn't load image"</string>
   <string name="instruction">Folgende Adresse im FTP-Client eingeben:</string>
   <string name="instruction_pre">"Drücken Sie 'Start' um den FTP-Server einzuschalten."</string>
   <string name="just_now">Jetzt</string>
@@ -208,6 +215,7 @@
   <string name="local_image">Fotos</string>
   <string name="local_music">Musik</string>
   <string name="local_sticker_str">Heruntergeladen</string>
+  <string name="local_sticker_str">Offline</string>
   <string name="local_video">Video</string>
   <string name="login_reg_content">Speichern von Dateien und Synchronisierung auf mehreren Geräten.</string>
   <string name="login_reg_content0">Alle Ihre Inhalte. Wohin Sie auch gehen.</string>
@@ -279,6 +287,7 @@ und die coolsten niemals verpassen!"</string>
   <string name="no">Nein</string>
   <string name="no_app_tags">Keine vorhanden</string>
   <string name="no_display_file">"%1$s kann nicht angezeigt werden"</string>
+  <string name="no_downloaded_sticker_tip">"Couldn't find downloaded stickers. Check out the stickers shared by Mi fans."</string>
   <string name="no_enough_storage_indication">Gerätespeicher ist voll.</string>
   <string name="no_enough_storage_title">Nicht genügend Speicherplatz</string>
   <string name="no_file">Keine Dateien</string>
@@ -291,7 +300,7 @@ und die coolsten niemals verpassen!"</string>
   <string name="no_wifi_hint">Keine Verbindung</string>
   <string name="notif_server_starting">Starte FTP-Server...</string>
   <string name="notif_title">FTP-Server läuft.</string>
-  <string name="notification_content_hint">Zum Anzeigen antippen</string>
+  <string name="notification_content_hint">View WeChat videos that are about to expire.</string>
   <string name="notification_dialog_confirm">OK</string>
   <string name="notification_dialog_content">Benachrichtigen wenn Dateien in %1$s hinzugefügt oder geändert werden.</string>
   <string name="notification_dialog_title">Benachrichtigungen</string>
@@ -299,7 +308,11 @@ und die coolsten niemals verpassen!"</string>
   <string name="notification_setting">Benachrichtigungen</string>
   <string name="notification_summary">"%1$s unterstützt diese Funtkion nicht"</string>
   <string name="notification_title">Benachrichtigen wenn Dateien zu %1$s hinzugefügt werden</string>
-  <string name="notification_wechat_title">Benachrichtigen, wenn WeChat Video abläuft</string>
+  <string name="notification_wechat_expired_empty">WeChat has already deleted these video clips.</string>
+  <string name="notification_wechat_title">WeChat video notifications</string>
+  <string name="notify_private_folder_msg">Tap to learn about private folders.</string>
+  <string name="notify_private_folder_title">Protect your personal files</string>
+  <string name="notification_wechat_expired_empty">WeChat has already deleted these video clips.</string>
   <string name="online_not_support">"Diese Datei kann im Moment nicht online angezeigt werden."</string>
    <string name="open_changed_file_message">"Datei die Sie öffnen möchten wurde geändert. Sie können:
 1. die Datei erneut runterladen
@@ -330,6 +343,7 @@ und die coolsten niemals verpassen!"</string>
   <string name="operation_favorite">Markieren</string>
   <string name="operation_hide_sys">Versteckte Dateien ausblenden</string>
   <string name="operation_info">Details</string>
+  <string name="operation_like">Star</string>
   <string name="operation_move">Verschieben</string>
   <string name="operation_moving">Verschiebe...</string>
   <string name="operation_moving_detail">Verschiebe (%1$d/%2$d)</string>
@@ -361,6 +375,7 @@ und die coolsten niemals verpassen!"</string>
   <string name="private_folder">Privater Ordner</string>
   <string name="promot_enctypt_password">Passwort eingeben, um Gerät zu entsperren, oder Kindermodus beenden</string>
   <string name="pull_to_signin">Zum Anmelden nach unten ziehen.</string>
+  <string name="qq_not_installed">"QQ isn't installed"</string>
   <string name="release_to_signin">Zum Anmelden loslassen</string>
   <string name="rename_alert">Wenn Sie Erweiterung dieser Datei ändern, können Sie die Datei nicht mehr öffnen.</string>
   <string name="rename_description">Umbenennen…</string>
@@ -375,6 +390,7 @@ und die coolsten niemals verpassen!"</string>
   <string name="rlv_pull_to_refresh">Ziehen zum aktualisiere</string>
   <string name="rlv_refreshing">Suche Dateien…</string>
   <string name="rlv_release_to_refresh">Loslassen zum aktualisieren</string>
+  <string name="save_to_local">Download</string>
   <string name="sd_card_available">Verfügbar: %1$s</string>
   <string name="sd_card_size">SD-Karte: %1$s</string>
   <string name="sd_full">SD-Karte ist voll.</string>
@@ -402,6 +418,7 @@ und die coolsten niemals verpassen!"</string>
   <string name="search_keyword_messge">Express</string>
   <string name="search_keyword_news">News</string>
   <string name="search_keyword_wallet">Wallet</string>
+  <string name="search_result">Results</string>
   <string name="search_result_hint1">Verwandte</string>
   <string name="search_result_hint2">Alle</string>
   <string name="search_result_hint3">" "</string>
@@ -417,11 +434,13 @@ und die coolsten niemals verpassen!"</string>
   <string name="search_statistic_tag">tag</string>
   <string name="search_title">Suche</string>
   <string name="search_title_hint">Suchen</string>
-   <string name="select_image">Fotos auswählen</string>
+  <string name="select_image">Fotos auswählen</string>
   <string name="select_music">Musik auswählen</string>
   <string name="select_video">Videos auswählen</string>
   <string name="send_to_midrive">KuaiPan</string>
   <string name="send_to_midrive_failed_message">Dateityp wird nicht unterstützt.</string>
+  <string name="send_to_qq">Send to QQ</string>
+  <string name="send_to_weixin">Send to WeChat</string>
   <string name="server_control_advanced_settings">FTP-Einstellungen</string>
   <string name="server_control_charset">Übertragungscodierung</string>
   <string name="server_control_settings">Einstellungen</string>
@@ -482,6 +501,7 @@ und die coolsten niemals verpassen!"</string>
   <string name="trash_box_link">Um den Papiekorb zu leeren, besuchen Sie <b>pan.xiaomi.com</b></string>
   <string name="trash_box_message1">Löschen Sie nicht mehr benötigte Dateien um Speicherplatz zu gewinnen.</string>
   <string name="trash_box_message2">Leeren Sie den Papierkorb um Speicherplatz zu gewinnen.</string>
+  <string name="type_not_support">"This file format isn't supported. Unpack this file and try again."</string>
   <string name="ui_filechange_btn_download">Datei laden?</string>
   <string name="ui_filechange_btn_upload">Upload files</string>
   <string name="ui_main_menu_option_sign_in">Anmelden</string>
@@ -489,6 +509,7 @@ und die coolsten niemals verpassen!"</string>
   <string name="ui_main_progress_txt_open_file">Lade...</string>
   <string name="ui_main_toast_favorite_removed">Demarkiert</string>
   <string name="ui_main_toast_operation_failed">Demarkieren von %1$s fehlgeschlagen.</string>
+  <string name="ui_main_toast_favorite_added">Starred successfully</string>
   <string name="unmount_inform_text">USB-Speicher trennen?</string>
   <string name="upload_failed">Upload fehlgeschlagen</string>
   <string name="upload_file_toolarge_message">%1$d Dateien nicht hochgeladen. Dateien größer als 300MB können nicht hochgeladen werden.</string>
@@ -513,6 +534,7 @@ und die coolsten niemals verpassen!"</string>
   <string name="waiting">Warte...</string>
   <string name="wangpan_root_path">Mein Laufwerk</string>
   <string name="wechat_video">Video at %s</string>
+  <string name="weixin_not_installed">"WeChat isn't installed"</string>
   <string name="weixin_sticker_tag_str">WeChat Sticker</string>
   <string name="wifi_state">WLAN-Verbindung</string>
   <string name="xiaomi_account">Mi-Konto</string>
