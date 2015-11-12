@@ -307,7 +307,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="notification_setting">Benachrichtigungen</string>
   <string name="notification_summary">"%1$s unterstützt diese Funtkion nicht"</string>
   <string name="notification_title">Benachrichtigen wenn Dateien zu %1$s hinzugefügt werden</string>
-  <string name="notification_wechat_expired_empty">WeChat has already deleted these video clips.</string>
+  <string name="notification_wechat_expired_empty">WeChat hat bereits diese Videos gelöscht.</string>
   <string name="notification_wechat_title">Benachrichtigen, wenn WeChat-Video abläuft</string>
   <string name="notify_private_folder_msg">Mehr über Private Ordner.</string>
   <string name="notify_private_folder_title">Schützen Sie ihre Private Dateien</string>
@@ -319,8 +319,8 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="open_file_failed">Öffnen fehlgeschlagen</string>
   <string name="open_private_folder">Privaten Ordner erstellen...</string>
   <string name="operate_confirm_in_3g">Mobile Datenverbindug zum laden dieser großen Datei verwenden?</string>
-  <string name="operating">Processing…</string>
-  <string name="operation_add_fav">Adding to starred…</string>
+  <string name="operating">Einen Moment…</string>
+  <string name="operation_add_fav">Zu Favoriten hinzufügen…</string>
   <string name="operation_agree">Zustimmen</string>
   <string name="operation_cancel">Abbrechen</string>
   <string name="operation_compress">Komprimieren</string>
@@ -331,7 +331,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="operation_create_folder">Neuer Ordner</string>
   <string name="operation_create_folder_message">Ordnername eingeben</string>
   <string name="operation_decompressing">Entpacke...</string>
-  <string name="operation_del_fav">Removing from starred…</string>
+  <string name="operation_del_fav">Von Favoriten entfernen…</string>
   <string name="operation_delete">Löschen</string>
   <string name="operation_delete_confirm_message">Löschen?</string>
   <string name="operation_delete_confirm_message_folder">"Alle im Ordner enthaltenen Dateien werden gelöscht. "</string>
@@ -373,7 +373,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="private_folder">Privater Ordner</string>
   <string name="promot_enctypt_password">Passwort eingeben, um Gerät zu entsperren, oder Kindermodus beenden</string>
   <string name="pull_to_signin">Zum Anmelden nach unten ziehen.</string>
-  <string name="qq_not_installed">"QQ isn't installed"</string>
+  <string name="qq_not_installed">"QQ ist nicht installiert"</string>
   <string name="release_to_signin">Zum Anmelden loslassen</string>
   <string name="rename_alert">Wenn Sie Erweiterung dieser Datei ändern, können Sie die Datei nicht mehr öffnen.</string>
   <string name="rename_description">Umbenennen…</string>
@@ -437,8 +437,8 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="select_video">Videos auswählen</string>
   <string name="send_to_midrive">KuaiPan</string>
   <string name="send_to_midrive_failed_message">Dateityp wird nicht unterstützt.</string>
-  <string name="send_to_qq">Send to QQ</string>
-  <string name="send_to_weixin">Send to WeChat</string>
+  <string name="send_to_qq">An QQ senden</string>
+  <string name="send_to_weixin">An WeChat senden</string>
   <string name="server_control_advanced_settings">FTP-Einstellungen</string>
   <string name="server_control_charset">Übertragungscodierung</string>
   <string name="server_control_settings">Einstellungen</string>
