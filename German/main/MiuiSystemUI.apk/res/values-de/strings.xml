@@ -114,7 +114,6 @@ Wenn Sie die Datenverbindung wieder einschalten, können hohe Kosten entstehen."
   <string name="headset_custom">Benutzerdefiniert</string>
   <string name="headset_info">Tastenfunktionen definieren</string>
   <string name="headset_settings">Kopfhörer verbunden</string>
-  <string name="hint_for_long_press_app_switch_key">Drücken Sie &amp; und für das Menü gedrückt halten</string>
   <string name="invalid_charger">"Aufladen über USB wird nicht unterstützt.
 Bitte Ladegerät benutzen."</string>
   <string name="kilobyte_per_second">K/s</string>
@@ -164,8 +163,8 @@ Bitte Ladegerät benutzen."</string>
   <string name="screen_pinning_negative">Nein Danke</string>
   <string name="screen_pinning_positive">Hab es</string>
   <string name="screen_pinning_title">Bildschirm ist gepinnt</string>
-  <string name="screenshot_failed_text">"Screenshot konnte nicht gespeichert werden."</string>
-  <string name="screenshot_saved_text">Berühren zum Anzeigen</string>
+  <string name="screenshot_failed_text">"Screenshot konnte nicht gespeichert werden (zu wenig Speicher oder von der App verweigert)."</string>
+  <string name="screenshot_saved_text">Zum Anzeigen antippen</string>
   <string name="screenshot_saved_title">Screenshot erstellt</string>
   <string name="screenshot_saving_text">Screenshot wurde gespeichert.</string>
   <string name="screenshot_saving_ticker">Screenshot wird gespeichert...</string>

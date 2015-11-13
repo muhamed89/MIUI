@@ -48,6 +48,7 @@
   <string name="bmp_quality_mode_desc">Geprüfte, qualitativ hochwertige Show-Modus.</string>
   <string name="buffering">Wird gepuffert…</string>
   <string name="buffering_video_netplay_label_v5">Wird gepuffert…</string>
+  <string name="buy_vip">VIP kaufen</string>
   <string name="cancel">Abbrechen</string>
   <string name="cancel_favorite_success">Demarkiert</string>
   <string name="check_app_version">Suchen nach Updates...</string>
@@ -62,6 +63,9 @@
   <string name="clear_search_history">Suchverlauf löschen</string>
   <string name="click_star_rate">Zum Bewerten auf die Sterne tippen</string>
   <string name="click_to_login">Zum Anmelden berühren</string>
+  <string name="clubber">Clubber</string>
+  <string name="clubber_center">Clubber Center</string>
+  <string name="clubber_info">Clubber Info</string>
   <string name="cnlive">cnlive</string>
   <string name="comment">Kommentare</string>
   <string name="comment_count_less_tip">Kommentar muss mindestens %d Zeichen lang sein</string>
@@ -138,6 +142,7 @@
   <string name="episode_suffix">"Ep. %d "</string>
   <string name="error_empty_filter_title">Keine Ergebnisse</string>
   <string name="error_empty_title">Irgendetwas ging schief.</string>
+  <string name="expire_time">Ablaufdatum</string>
   <string name="favorite">Favorit</string>
   <string name="fenghuang">iFeng</string>
   <string name="file_error">Dateifehler</string>
@@ -188,6 +193,7 @@
   <string name="memory_mode_desc">Speicherauslastung verringern</string>
   <string name="menu_item_enable_audio_enhance">Audio verbessern</string>
   <string name="menu_name">Menü</string>
+  <string name="mibi">mibi</string>
   <string name="mine_info_account_summary_none">Nicht angemeldet</string>
   <string name="mine_info_account_title">Konto Info</string>
   <string name="minute"> Minute</string>
@@ -211,7 +217,10 @@
   <string name="netease">NetEase</string>
   <string name="no_login_xiaomi_account">Um Kommentare zu schreiben, melden Sie sich bei Ihrem MiKonto an.</string>
   <string name="no_longer_tips">"Nicht mehr anzeigen"</string>
+  <string name="no_pay_record">Kein Zahlungsverlauf</string>
   <string name="no_sdcard_no_download">Nicht genügend Speicherplatz.</string>
+  <string name="not_buy_vip">Kein VIP</string>
+  <string name="not_exist_openid">Kontoinformation wird geladen, bitte warten...</string>
   <string name="not_login">Nicht angemeldet</string>
   <string name="nowifi_alert_dialog_continue">OK</string>
   <string name="nowifi_alert_dialog_exit">Abbrechen</string>
@@ -244,8 +253,10 @@
   <string name="online_video_oneweek_ago">vor 1 Woche</string>
   <string name="operator_test">Operator Test</string>
   <string name="operator_test_summary">Im Operator -Modus ausgeführt</string>
+  <string name="original_price">Originalpreis</string>
   <string name="other_setting">Weitere Einstellungen</string>
   <string name="pause">Pause</string>
+  <string name="pay_record">Zahlungsverlauf</string>
   <string name="percent_status">%.0f%%</string>
   <string name="performance_mode">Leistungseinstellungen</string>
   <string name="performance_mode_desc">Maximale Leistung</string>
@@ -368,6 +379,7 @@
   <string name="video_plugin">Video plug-in</string>
   <string name="video_plugin_downloading">Downloading(%1$s), warten Sie eine Weile.</string>
   <string name="video_plugin_prepare">einen Moment…</string>
+  <string name="vip_package">VIP Paket</string>
   <string name="vp_VideoView_error_button">OK</string>
   <string name="vp_VideoView_error_network_not_available">"Kann nicht mit dem Netzwerk verbinden."</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">"Dieser Dateityp wird vom Gerät nicht unterstützt."</string>
@@ -375,6 +387,7 @@
   <string name="vp_VideoView_error_title">Unbekannter Fehler</string>
   <string name="vp_adapt_height">Höhe anpassen</string>
   <string name="vp_adapt_width">Breite anpassen</string>
+  <string name="vp_app_download">App Download</string>
   <string name="vp_app_name">Video Player</string>
   <string name="vp_audio">Lautstärke</string>
   <string name="vp_auto_select">Auto-Auswahl</string>
@@ -391,6 +404,7 @@
   <string name="vp_datastream_alert_positive_button">Weiter</string>
   <string name="vp_datastream_alert_title">Daten-Nutzungswarnung</string>
   <string name="vp_device_list">Geräte</string>
+  <string name="vp_download_apk_from_video_ad">App installieren</string>
   <string name="vp_download_connect_fail">"URL konnte nicht gefunden werden. Verbindung überprüfen und erneut versuchen."</string>
   <string name="vp_download_file_fail">"Download fehlgeschlagen. Speicherplatz überprüfen."</string>
   <string name="vp_exit">Exit</string>

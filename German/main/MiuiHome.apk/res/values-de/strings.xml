@@ -26,6 +26,7 @@
   <string name="apply_as_lock_wallpaper_message">Hintergrund auch auf dem Sperrbildschirm anwenden?</string>
   <string name="apply_as_wallpaper">Startbildschirm</string>
   <string name="apply_both">Für beide anwenden</string>
+  <string name="apply_negative_action">"Nicht anwenden"</string>
   <string name="aqi_quality_index_dangerous">Riskant</string>
   <string name="aqi_quality_index_good">Gut</string>
   <string name="aqi_quality_index_hazardous">Gefährlich</string>
@@ -195,7 +196,7 @@
   <string name="process"/>
   <string name="recommend_apps_default_title">Leer</string>
   <string name="recommend_apps_notice">Empfohlene Apps</string>
-  <string name="recommend_apps_switch_summary">Empfohlene Apps unten anzeigen.</string>
+  <string name="recommend_apps_switch_summary">Empfohlene Apps unten anzeigen</string>
   <string name="recommend_apps_switch_title">Empfohlene Apps</string>
   <string name="recommend_apps_tips">Diese Funktion benötigt eine Internetverbindung. Um die Funktion auszuschalten, Tippen Sie auf den Ordnernamen.</string>
   <string name="reset_scene_prompt">Standardlayout zurücksetzen</string>

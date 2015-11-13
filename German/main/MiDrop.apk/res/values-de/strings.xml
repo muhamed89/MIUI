@@ -30,8 +30,8 @@
   <string name="intro_midrop">Mi Drop</string>
   <string name="intro_page1_text1">Teilen Sie Dateien mit Freunden in der Nähe</string>
   <string name="intro_page1_text2">"Es war nie einfacher"</string>
-  <string name="intro_page2_choose_files">Dateien auswählen und \"Teilen\" antippen</string>
-  <string name="intro_page2_click_to_send">\"Teilen\" antippen</string>
+  <string name="intro_page2_choose_files">Dateien auswählen und \"Senden\" antippen</string>
+  <string name="intro_page2_click_to_send">\"Senden\" antippen</string>
   <string name="intro_page3_choose_midrop">\"Mi Drop\" auswählen</string>
   <string name="intro_page3_choose_midrop2">\"Mi Drop\" auswählen und Ihre Dateien werden sofort gesendet</string>
   <string name="i_know">Verstanden</string>

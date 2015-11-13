@@ -84,6 +84,7 @@
   <string name="hms_uri_param_err">"Adresse darf nicht leer sein"</string>
   <string name="invalid_conversation">ungültiges Gespräch</string>
   <string name="left_cancel">nach Links wischen zum abbrechen</string>
+  <string name="low_memory">Wenig Speicher!</string>
   <string name="menu_add_black">Nummer blockieren</string>
   <string name="menu_add_contact">Zu bestehendem Kontakt hinzufügen</string>
   <string name="menu_call">Anrufen</string>
@@ -186,6 +187,7 @@
   <string name="restore_blocked_message">Nachricht wiederherstellen</string>
   <string name="retrive_hms_tips">Abrufen…</string>
   <string name="save">Sichern</string>
+  <string name="scan_result">Scan Ergebnis</string>
   <string name="search_empty">keine Einträge</string>
   <string name="search_hint">Nachricht suchen</string>
   <string name="search_label">Nachricht</string>
