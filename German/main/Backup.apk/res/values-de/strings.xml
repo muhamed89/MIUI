@@ -27,11 +27,13 @@
   <string name="backup_delete">Lösche:</string>
   <string name="backup_empty">Keine Backups.</string>
   <string name="backup_empty_info">"Sicherung Ihrer Daten, Einstellungen und Apps"</string>
+  <string name="backup_empty_info_onpad">"Sichern Sie ihre Daten, Einstellungen und Apps"</string>
   <string name="backup_error">"Backup konnte nicht angelegt werden"</string>
   <string name="backup_failed">"Backup konnte nicht angelegt werden"</string>
   <string name="backup_file_error">"Backup konnte nicht angelegt werden"</string>
   <string name="backup_finished">Backup erfolgreich erstellt</string>
   <string name="backup_hint">Schalten Sie Ihr Gerät bitte nicht aus</string>
+  <string name="backup_hint_onpad">Schalten Sie Ihr Gerät bitte nicht aus</string>
   <string name="backup_is_running">Backup wird angelegt</string>
   <string name="backup_items_app_tailer">" App-Daten"</string>
   <string name="backup_items_sysdata_tailer">" Systemdaten,"</string>
@@ -69,7 +71,8 @@
   <string name="compute_delete_contact_info">Getting info…</string>
   <string name="contact_title">Kontakte</string>
   <string name="current_account">Hi %s</string>
-  <string name="current_phone_location">Phone</string>
+  <string name="current_pad_location">Pad</string>
+  <string name="current_phone_location">Telefon</string>
   <string name="current_sim">Momentane SIM-Karte</string>
   <string name="custom_progress">%d items</string>
   <string name="data_item_desc">Data</string>
