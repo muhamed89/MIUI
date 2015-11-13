@@ -85,8 +85,8 @@
   <string name="call_radio">Anruf (Funktelefon)</string>
   <string name="call_record_setting_miui">Aufnahmeeinstellungen</string>
   <string name="call_settings">Einstellungen</string>
-  <string name="call_sim1_menu_title">Wählen Sie SIM-Karte 1</string>
-  <string name="call_sim2_menu_title">Wählen Sie SIM-Karte 2</string>
+  <string name="call_sim1_menu_title">Mit SIM-Karte 1 anrufen</string>
+  <string name="call_sim2_menu_title">Mit SIM-Karte 2 anrufen</string>
   <string name="call_telex">Telex anrufen</string>
   <string name="call_tty_tdd">TTY/TDD anrufen</string>
   <string name="call_type_and_date">%1$s %2$s</string>
