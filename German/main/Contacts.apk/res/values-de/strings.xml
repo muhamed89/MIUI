@@ -497,14 +497,14 @@ Grund: \"%s\""</string>
   <string name="in_call_show_delete_title">Video löschen?</string>
   <string name="in_call_show_demo_present">Vorschau</string>
   <string name="in_call_show_filter_brannan">Dawn</string>
-+  <string name="in_call_show_filter_earlybird">Autumn</string>
-+  <string name="in_call_show_filter_jstyle">Japanese</string>
-+  <string name="in_call_show_filter_mono">Mono</string>
-+  <string name="in_call_show_filter_nashvile">Indigo</string>
-+  <string name="in_call_show_filter_none">Normal</string>
-+  <string name="in_call_show_filter_process_error">An error occurred, please retry.</string>
-+  <string name="in_call_show_filter_processing">Processing...</string>
-+  <string name="in_call_show_filter_vivid">Vivid</string>
+  <string name="in_call_show_filter_earlybird">Autumn</string>
+  <string name="in_call_show_filter_jstyle">Japanese</string>
+  <string name="in_call_show_filter_mono">Mono</string>
+  <string name="in_call_show_filter_nashvile">Indigo</string>
+  <string name="in_call_show_filter_none">Normal</string>
+  <string name="in_call_show_filter_process_error">An error occurred, please retry.</string>
+  <string name="in_call_show_filter_processing">Processing...</string>
+  <string name="in_call_show_filter_vivid">Vivid</string>
   <string name="in_call_show_guide_intro">"Nehmen Sie ein Profilvideo auf,
  welches anderen MIUI-Nutzern angezeigt wird, wenn Sie anrufen"</string>
   <string name="in_call_show_guide_start_recording">Jetzt Aufnehmen</string>
