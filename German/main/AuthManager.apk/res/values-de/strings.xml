@@ -85,6 +85,8 @@ Hinweis: Eine Berechtigung könnte zur Systeminstabiltät, Datenverlust oder zu 
   <string name="HIPS_Perm_Bluetooth_Connectivity">Bluetooth</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">App kann Bluetooth aktivieren</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">%1$s Apps können Bluetooth aktivieren</string>
+  <string name="HIPS_Perm_Body_Sensors">Körpersensoren</string>
+  <string name="HIPS_Perm_Body_Sensors_Desc">Körpersensoren (z.B., Herzfrequenzsensor)</string>
   <string name="HIPS_Perm_Calendar">Kalender</string>
   <string name="HIPS_Perm_Calendar_Desc">App kann den Kalender einsehen</string>
   <string name="HIPS_Perm_Calendar_Hint">%1$s Apps können den Kalender einsehen</string>
@@ -111,6 +113,8 @@ Hinweis: Eine Berechtigung könnte zur Systeminstabiltät, Datenverlust oder zu 
   <string name="HIPS_Perm_DisableKeyguard_Desc">App kann den Lockscreen deaktivieren</string>
   <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s Apps können den Lockscreen deaktivieren</string>
   <string name="HIPS_Perm_EndCall">App kann Anrufe beenden</string>
+  <string name="HIPS_Perm_External_Storage">Access and change files on internal storage</string>
+  <string name="HIPS_Perm_External_Storage_Desc">"Add and delete files on device's internal storage"</string>
   <string name="HIPS_Perm_GetCallState">App kann den Anrufstatus erhalten (z.B. Eingehend, Besetzt)</string>
   <string name="HIPS_Perm_ListenCallState">App kann den Anrufstatus einsehen (z.B. Eingehend, Besetzt)</string>
   <string name="HIPS_Perm_Location">Standort</string>
@@ -215,6 +219,14 @@ Hinweis: Eine Berechtigung könnte zur Systeminstabiltät, Datenverlust oder zu 
   <string name="HIPS_Perm_Xiaomi_Account">Mi Account</string>
   <string name="HIPS_Perm_Xiaomi_Account_Desc">auf deinen Mi Account zugreifen</string>
   <string name="HIPS_Perm_Xiaomi_Account_Hint">%1$s Apps können auf deinen Mi Account zugreifen</string>
+  <string name="HIPS_Perm_add_voicemail">Voice messages</string>
+  <string name="HIPS_Perm_add_voicemail_Desc">Add system voice messages</string>
+  <string name="HIPS_Perm_get_accounts">Access accounts on device</string>
+  <string name="HIPS_Perm_get_accounts_Desc">Access all accounts stored on device</string>
+  <string name="HIPS_Perm_process_outgoing_calls">Access Phone app</string>
+  <string name="HIPS_Perm_process_outgoing_calls_Desc">Monitor and end calls</string>
+  <string name="HIPS_Perm_use_sip">Video services</string>
+  <string name="HIPS_Perm_use_sip_Desc">Use Session Initiation Protocol to stream video</string>
   <string name="HIPS_SecurityPrompt_Accept">Zulassen (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Zulassen</string>
   <string name="HIPS_SecurityPrompt_Accept_Once">Einmalig zulassen (%d)</string>
@@ -253,6 +265,24 @@ Hinweis: Eine Berechtigung könnte zur Systeminstabiltät, Datenverlust oder zu 
   <string name="SysOpt_Boost_Boot">Boot</string>
   <string name="SysOpt_Boost_Receiver">Background</string>
   <string name="app_name">Permission manager</string>
+  <string name="current_permission_template">%1$s of %2$s</string>
+  <string name="default_permission_description">perform an unknown action</string>
+  <string name="grant_confirm_question">Do you want to grant the following permissions? It will get access to:</string>
+  <string name="grant_dialog_button_allow">Allow</string>
+  <string name="grant_dialog_button_deny">Deny</string>
+  <string name="location_settings">Location Settings</string>
+  <string name="location_warning">%1$s is a provider of location services for this device. Location access can be modified from location settings.</string>
+  <string name="never_ask_again">Never ask again</string>
+  <string name="ok">OK</string>
+  <string name="permission_group_title_charges_related">Charges</string>
+  <string name="permission_group_title_media_related">Multimedia</string>
+  <string name="permission_group_title_privacy_related">Privacy</string>
+  <string name="permission_group_title_settings_related">Settings</string>
+  <string name="permission_request_title">Permission request</string>
+  <string name="permission_warning_template">Allow %1$s to %2$s ?</string>
   <string name="permisson_reject_notice_toast_text">"\"%1$s\" hat keine Berechtigung um %2$s. Sie können die Appberechtigungen jederzeit unter Sicherheit &gt; Berechtigungen."</string>
+  <string name="screen_overlay_button">Open settings</string>
+  <string name="screen_overlay_message">To change this permission setting, you first have to turn off the screen overlay from Settings &gt; Apps</string>
+  <string name="screen_overlay_title">Screen overlay detected</string>
   <string name="static_cache_db_md5">d3bcc85e9ff1f1f8f1e641ea19e7b30f</string>
 </resources>
