@@ -208,7 +208,6 @@
   <string name="not_synced">nicht synchronisiert</string>
   <string name="notice_button_ok">Zustimmen</string>
   <string name="notice_button_exit">Beenden</string>
-  <string name="notice_button_ok">OK</string>
   <string name="notice_declaration_ignore">"Nicht nochmal anzeigen"</string>
   <string name="notice_title_agreement">Internetverbindung</string>
   <string name="notice_title_request">Anfordern</string>
