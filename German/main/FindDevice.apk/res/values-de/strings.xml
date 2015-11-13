@@ -39,6 +39,6 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="unlock_error_unknown">"Can't sign in"</string>
   <string name="unlock_error_user_name">Invalid username</string>
   <string name="unlock_wrong_captcha">The code you entered is incorrect</string>
-  <string name="unlocking">Activating...</string>
+  <string name="unlocking">Activating..</string>
   <string name="verify_password_failed">"Couldn't verify Mi Account ID. %s."</string>
 </resources>
