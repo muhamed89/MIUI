@@ -160,6 +160,8 @@
   <string name="huangli_bad_type">Meiden</string>
   <string name="huangli_good_type">Passend</string>
   <string name="huangli_label"/>
+  <string name="internet_connection_notification">Benachrichtigung bei Internetverbindung</string>
+  <string name="internet_connection_notification_descrip">Benachrichtigung über die Internetverbindung immer anzeigen wenn der Kalender geöffnet wird.</string>
   <string name="jump_date">Wechseln</string>
   <string name="jump_date_full">Wechseln zu Datum</string>
   <string name="label_recent_events">jüngste Ereignisse</string>
@@ -205,8 +207,10 @@
   <string name="not_exist_topic_list">Kann nicht eine Liste der abonnierten Kalender abrufen</string>
   <string name="not_synced">nicht synchronisiert</string>
   <string name="notice_button_ok">Zustimmen</string>
-  <string name="notice_button_ok_and_go_on">Zustimmen und fortfahren</string>
-  <string name="notice_title_agreement">Allgemeine Geschäftsbedingungen</string>
+  <string name="notice_button_exit">Beenden</string>
+  <string name="notice_button_ok">OK</string>
+  <string name="notice_declaration_ignore">"Nicht nochmal anzeigen"</string>
+  <string name="notice_title_agreement">Internetverbindung</string>
   <string name="notice_title_request">Anfordern</string>
   <string name="online_calendar_activity_label">Kalender abonnieren</string>
   <string name="online_notice_message">Um einen Kalender abonnieren zu können, müssen Sie %1$s und %2$s vor der Nutzung zustimmen. Wenn Sie den Kalender abonnieren möchten, müssen Sie sich mit dem Netzwerk verbinden. Sind Sie einverstanden?</string>
