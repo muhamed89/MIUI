@@ -32,6 +32,7 @@
   <string name="confirm">OK</string>
   <string name="confirm_delete_downloads_message">%d Downloads werden gelöscht.</string>
   <string name="confirm_delete_the_download_item_message">Downloads löschen?</string>
+  <string name="creat_task_success">Zur Warteschlange hinzugefügt</string>
   <string name="create_task">Aufgabe erstellen</string>
   <string name="delete">Löschen</string>
   <string name="delete_download">Löschen</string>
@@ -226,9 +227,12 @@
   <string name="sniff_result_num_video_suffix">gefunden</string>
   <string name="sniff_result_num_website_suffix">Webseiten</string>
   <string name="sniff_result_website_intro">共&lt;font color=\"#6699ff\"&gt;%1$d&lt;/font&gt; items | Source: %2$s</string>
+  <string name="sniff_search_assoicate_sizeinfo">Größe: %1$s</string>
+  <string name="sniff_search_install">Installieren</string>
   <string name="sniff_sniffing_btn_text">Quelle Suchen…</string>
   <string name="sniff_terms_agree">Akzeptieren</string>
   <string name="sniff_terms_msg">Akzeptieren Sie die \"Nutzungsbedingungen\" um die Suche eines Drittanbieters zu verwenden.</string>
+  <string name="sniff_terms_msg_bold">Nutzungsbedingungen</string>
   <string name="sniff_terms_reject">Ablehnen</string>
   <string name="sniff_terms_title">Achtung</string>
   <string name="sniff_text_sniff_next_page">Weiter ></string>
@@ -251,7 +255,7 @@
   <string name="third_web_filename_hint">Name</string>
   <string name="third_web_filesize">Größe</string>
   <string name="third_web_savepath">Speicherort</string>
-  <string name="third_web_title">Speichern</string>
+  <string name="third_web_title">Runterladen</string>
   <string name="title_tips">Vorsicht</string>
   <string name="title_unbind_xunlei">Xunlei Konto entfernen</string>
   <string name="toast_xunlei_engine_open">Xunlei Download Accelerator eingeschaltet</string>
