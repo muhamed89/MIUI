@@ -128,6 +128,7 @@
   <string name="callrecordview_menu_show_sim">%s Anrufe</string>
   <string name="callrecordview_menu_show_stranger">Unbekannte Anrufe</string>
   <string name="callrecordview_menu_show_title">Anruflistenanzeige</string>
+  <string name="calls_voip_prompt">VOIP</string>
   <string name="cancel_confirmation_dialog_message">Änderungen verwerfen?</string>
   <string name="cancel_confirmation_dialog_title">Abbrechen</string>
   <string name="cancel_export_confirmation_message">Export von %s abbrechen?</string>
@@ -218,6 +219,7 @@ Kontaktkarten sind ausgeschaltet"</string>
   <string name="contact_detail_profile_switch_on_subtitle">Tippen, um Kontaktkarten zu aktivieren.</string>
   <string name="contact_detail_profile_switch_on_success_toast">Kontaktkarten sind bereits eingeschaltet</string>
   <string name="contact_directory_description">Verzeichnis %1$s</string>
+  <string name="contact_edit_save_error_empty">Kontakt ist leer</string>
   <string name="contact_edit_title_edit">Kontakt bearbeiten</string>
   <string name="contact_edit_title_insert">Speichern unter %s</string>
   <string name="contact_edit_title_readonly">Kontakt schreibgeschützt</string>
@@ -244,6 +246,7 @@ Kontaktkarten sind ausgeschaltet"</string>
   <string name="create_group_dialog_title">Neue Gruppe erstellen</string>
   <string name="create_group_item_label">Neue Gruppe erstellen</string>
   <string name="create_qrcode_fail_message">Erstellung des QR-Code fehlgeschlagen</string>
+  <string name="create_voip_shortcut_success">Favorit erstellt</string>
   <string name="customLabelPickerTitle">Eigener Label-Name</string>
   <string name="custom_list_filter">Ansicht festlegen</string>
   <string name="custom_nickname_hint">Spitzname eingeben</string>
@@ -455,6 +458,7 @@ Grund: \"%s\""</string>
   <string name="import_all_vcard_string">Alle vCard-Dateien importieren</string>
   <string name="import_contact_card_button">Kontakt importieren</string>
   <string name="import_failure_no_vcard_file">Keine vCard-Dateien im Speicher gefunden.</string>
+  <string name="import_from_onekey_migrate">Importieren</string>
   <string name="import_from_other_phone">Von anderem Telefon importieren</string>
   <string name="import_from_sdcard">aus Speicher importieren</string>
   <string name="import_from_sim">Importiere aus der SIM-Karte</string>
@@ -492,6 +496,15 @@ Grund: \"%s\""</string>
   <string name="in_call_show_delete_message">Dieses Video löschen?</string>
   <string name="in_call_show_delete_title">Video löschen?</string>
   <string name="in_call_show_demo_present">Vorschau</string>
+  <string name="in_call_show_filter_brannan">Dawn</string>
++  <string name="in_call_show_filter_earlybird">Autumn</string>
++  <string name="in_call_show_filter_jstyle">Japanese</string>
++  <string name="in_call_show_filter_mono">Mono</string>
++  <string name="in_call_show_filter_nashvile">Indigo</string>
++  <string name="in_call_show_filter_none">Normal</string>
++  <string name="in_call_show_filter_process_error">An error occurred, please retry.</string>
++  <string name="in_call_show_filter_processing">Processing...</string>
++  <string name="in_call_show_filter_vivid">Vivid</string>
   <string name="in_call_show_guide_intro">"Nehmen Sie ein Profilvideo auf,
  welches anderen MIUI-Nutzern angezeigt wird, wenn Sie anrufen"</string>
   <string name="in_call_show_guide_start_recording">Jetzt Aufnehmen</string>
@@ -747,6 +760,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="no_contacts_dialog_title">"Keine Kontakte gefunden."</string>
   <string name="no_contacts_selected">Keine Kontakte ausgewählt.</string>
   <string name="no_sdcard_message">Keinen Speicher gefunden.</string>
+  <string name="no_voip_contacts">No Mi Voice contacts</string>
   <string name="non_phone_add_to_contacts">Zu Kontakten hinzufügen</string>
   <string name="non_phone_caption">Telefonnummer</string>
   <string name="non_phone_close">Schließen</string>
@@ -775,7 +789,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="percent_sign">%</string>
   <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Telefon</string>
-  <string name="phone_call_type_voip">VoIP</string>
+  <string name="phone_call_type_voip">Mi Voice</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_primary">Primär</string>
   <string name="photoPickerNotFoundText">Auf dem Telefon sind keine Bilder verfügbar.</string>
@@ -1083,6 +1097,12 @@ Wählen Sie eine der folgenden Optionen:"</string>
   <string name="voicemail_status_configure_voicemail">Mailbox einrichten.</string>
   <string name="voicemail_status_messages_waiting">Verbindung zum Server nicht möglich. Neue Sprachnachrichten werden pausiert.</string>
   <string name="voicemail_status_voicemail_not_available">Es kann keine Verbindung zum Mailbox-Server hergestellt werden.</string>
+  <string name="voip_contact_label">Mi Voice</string>
+  <string name="voip_contacts_entry">Mi Voice</string>
+  <string name="voip_loading_contact">Einen Moment…</string>
+  <string name="voip_name">Mi Voice</string>
+  <string name="voip_recommend_msg">Tap to use Mi Voice</string>
+  <string name="voip_shortcut_name">Mi Voice</string>
   <string name="websiteLabelsGroup">Webseite</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Daten löschen</string>
