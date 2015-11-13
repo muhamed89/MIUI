@@ -2,7 +2,7 @@
 <resources>
   <string name="Parse_error_dlg_text">Beim Lesen des Paketes ist ein Fehler aufgetreten.</string>
   <string name="Parse_error_dlg_title">Lesefehler</string>
-  <string name="activity_package_delete_confirm_title">Wichtige Warnung</string>
+  <string name="activity_package_delete_confirm_title">Wichtige Hinweis</string>
   <string name="allow_source_dlg_text">"%1$s möchte andere Apps installieren.
 Möchten Sie dies jetzt und in Zukunft zulassen?"</string>
   <string name="allow_source_dlg_title">Apps aus unbekannter Quelle installieren?</string>
@@ -10,13 +10,13 @@ Möchten Sie dies jetzt und in Zukunft zulassen?"</string>
   <string name="app_not_found_dlg_text">Die App wurde nicht in der Liste der installierten Apps gefunden.</string>
   <string name="app_not_found_dlg_title">App nicht gefunden</string>
   <string name="app_store_install_hint">Jetzt installieren</string>
-  <string name="app_store_installing_message">Installing…</string>
-  <string name="app_store_missing_message">"Si haben unseren offiziellen App Store nit installiert. Jetzt installieren?"</string>
+  <string name="app_store_installing_message">Installiere…</string>
+  <string name="app_store_missing_message">"Sie haben unseren offiziellen App Store nicht installiert. Jetzt installieren?"</string>
   <string name="app_store_missing_title">"App Store ist nicht installiert"</string>
-  <string name="auto_startup_dialog_msg">Diese App kann ohne Ihre Zustimmung starten.</string>
+  <string name="auto_startup_dialog_msg">MIUI genehmigt dieser App ohne Nachfrage automatisch zu starten.</string>
   <string name="button_text_cancel">Abbrechen</string>
   <string name="button_text_delete">Löschen</string>
-  <string name="button_text_delete_timer">Lösche (%d)</string>
+  <string name="button_text_delete_timer">Löschen (%d)</string>
   <string name="button_text_next_step">Weiter</string>
   <string name="button_text_next_step_timer">Weiter (%d)</string>
   <string name="caller_app">Berechtigungsanfrage von %1$s</string>
