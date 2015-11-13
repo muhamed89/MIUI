@@ -29,5 +29,5 @@
   <string name="privacy_prompt_traffic_purchase_message">"Your phone number and carrier details will be encrypted and uploaded to Mi's servers to get more info about data purchasing options."</string>
   <string name="share">Teilen</string>
   <string name="title_share_link">Teilen URL</string>
-  <string name="usage_sorted_loading_text">einen Moment…</string>
+  <string name="usage_sorted_loading_text">Einen Moment…</string>
 </resources>
