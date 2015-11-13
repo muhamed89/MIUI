@@ -7,7 +7,7 @@
   <string name="declaration">"Durch die Verwendung dieser App akzeptieren Sie die &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Nutzungsbedingungen&lt;/a&gt; und &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Datenschutzbestimmungen&lt;/a&gt;. Es wird eine Internetverbindung benötigt."</string>
   <string name="declaration_title">Nutzungsbedingungen</string>
   <string name="hour_1">jede Stunde</string>
-  <string name="hour_3">alle 3 Stunden</string></string>
+  <string name="hour_3">alle 3 Stunden</string>
   <string name="lockscreen_magazine_subscribe">%1$s folgen</string>
   <string name="lockscreen_magazine_summary">Legen Sie fest welche Hintergrundbilder auf dem Sperrbildschirm angezeigt werden sollen</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s Hintergrundbilder</string>
