@@ -25,6 +25,7 @@
   <string name="no_network_btn">Versuch es noch einmal</string>
   <string name="ok_button">OK</string>
   <string name="open_browser">Im Browser öffnen</string>
+  <string name="pm_lable_name">Über Rootzugriff</string>
   <string name="privacy_declare_dialog_title">Allgemeine Nutzungsbedingungen</string>
   <string name="privacy_prompt_traffic_purchase_message">"Your phone number and carrier details will be encrypted and uploaded to Mi's servers to get more info about data purchasing options."</string>
   <string name="share">Teilen</string>
