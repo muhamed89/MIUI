@@ -224,7 +224,10 @@
   <string name="passport_license_host_unreachable">"Netzwerkverbindung kann nicht hergestellt werden. Sie können diese Seite unter %s ansehen."</string>
   <string name="passport_loading">Lade…</string>
   <string name="passport_login">Melden Sie sich mit einem bestehenden Konto an</string>
+  <string name="passport_login_check_find_device">Checking Find device status…</string>
+  <string name="passport_login_check_find_device_failed">"Couldn't check Find device status. Check your network connection."</string>
   <string name="passport_login_failed">"Anmeldung nicht möglich"</string>
+  <string name="passport_login_find_device_bind">This device is associated with existing Mi Account ID (%s). Sign in to activate this device.</string>
   <string name="passport_login_instead_reg">Nutze diese Nummer</string>
   <string name="passport_login_instead_reg_with_email">Nutze diese E-Mail-Adresse</string>
   <string name="passport_login_notice">Anmelden…</string>
