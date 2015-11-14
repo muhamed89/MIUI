@@ -20,6 +20,7 @@
   <string name="button_new_note">Neue Notiz</string>
   <string name="call_record_folder_name">Anrufsnotizen</string>
   <string name="default_folder_name">Notizen</string>
+  <string name="dlg_delete_message">Löschen…</string>
   <string name="dlg_desc_confirm_alarm_silent">Nach Deaktivierung ertönt der Alarm des Weckers und der Notizen nicht im Lautlos Modus.</string>
   <string name="dlg_info_creating_message">Erstelle Nachricht…</string>
   <string name="dlg_title_confirm_alarm_silent">Alarm im Lautlos Modus wirklich ausschalten?</string>
@@ -69,6 +70,7 @@
   <string name="pref_title_common">Weitere Einstellungen</string>
   <string name="pref_title_font_size">Schriftgröße</string>
   <string name="pref_title_note_style">Notizenstil</string>
+  <string name="pref_title_recover_help">Noitzen wiederherstellen</string>
   <string name="redo">Wiederholen</string>
   <string name="search">Notizen</string>
   <string name="search_hint">Notizen durchsuchen</string>
