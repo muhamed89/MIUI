@@ -46,6 +46,7 @@
   <string name="download_current_rom">Neustart durchführen, damit die Update übernommen werden </string>
   <string name="download_diff">OTA herunterladen</string>
   <string name="download_error">Downloadfehler. Warten Sie ein oder zwei Minuten und versuchen Sie es erneut.</string>
+  <string name="download_failed">Download fehlgeschlagen</string>
   <string name="download_full">Update herunterladen</string>
   <string name="download_success_reboot_immediately">Neustart durchführen, damit die Aktualisierungen übernommen werden</string>
   <string name="download_title">Lade (%s)</string>
@@ -118,6 +119,17 @@
   <string name="open_now">Aktivieren</string>
   <string name="particular_build">Einzelheiten</string>
   <string name="pause">Pause</string>
+  <string name="pm_root_acquired_button">Root Zugriff</string>
+  <string name="pm_root_acquired_notification_title">Erlaube Root Zugriff</string>
+  <string name="pm_root_acquired_rooting">Erlaube Root Zugriff %s</string>
+  <string name="pm_root_checking">Überprüfe Systeminformationen…</string>
+  <string name="pm_root_fail_button_retry">Wiederholen</string>
+  <string name="pm_root_fail_msg">"Diese App hat kein Root Zugriff. Bitte nochmal versuchen."</string>
+  <string name="pm_root_fail_service_busy">Warten Sie bis die Aktualisierung fertig ist bevor Sie es erneut versuchen.</string>
+  <string name="pm_root_fail_title">"Kein Root Zugriff"</string>
+  <string name="pm_root_notification_download_title">Downloading</string>
+  <string name="pm_root_success_msg">Starten Sie ihr Gerät Neu um den letzten Schritt abzuschliesen.</string>
+  <string name="pm_root_success_title">Root Zugriff Aktiviert</string>
   <string name="previous">Zurück</string>
   <string name="progress_title_checking">Überprüfe auf Updates…</string>
   <string name="reboot">Neustart</string>
@@ -130,6 +142,9 @@ http://zhushou.xiaomi.com"</string>
   <string name="recovery_failed_notification_msg">Kann nicht in das Recovery starten</string>
   <string name="recovery_failed_title">Verwenden Sie die Mi-PC-Suite um Ihr System zu aktualisieren</string>
   <string name="repeat">Wiederholen</string>
+  <string name="root_acquired">Erlaube Root Zugriff</string>
+  <string name="root_agree_check_box_title">Die Risiken einens Root Zugriffs sind mir bewusst.</string>
+  <string name="root_dangerous_msg">Root Zugriff ist riskant und kann Ihr Gerät sowie persönlichen Daten für Angreifer oder Schadprogramme verfügbar machen. Sie stimmen zu , dass Sie für alle Schäden an Ihrem Gerät oder Datenverluste, die aus der Gewährung des root-Zugriff führen können allein verantwortlich sind.</string>
   <string name="set_auto">Updates automatisch suchen</string>
   <string name="set_auto_msg">Updates automatisch über WLAN herunterladen</string>
   <string name="set_auto_update_title">Updates automatisch herunterladen</string>
@@ -138,6 +153,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="set_installfail_title">Update erneut herunterladen?</string>
   <string name="set_installfail_title_full">Update fehlgeschlagen</string>
   <string name="set_network_msg">Um die Update herunterzuladen, bitte mit dem WLAN-Netzwerk verbinden.</string>
+   <string name="set_network_root_msg">Für Root Zugriff WLAN Verbindung benötigt.</string>
   <string name="set_network_title">WLAN-Verbindung aufbauen</string>
   <string name="set_only_wifi">Nur über WLAN</string>
   <string name="share">Teile</string>
@@ -193,11 +209,12 @@ Sie können aber nächsten Monat mitmachen."</string>
   <string name="updater_nolog">Keine Zusammenfassung für das Update.</string>
   <string name="updater_nonetwork">"Verbindung zum Netzwerk kann nicht hergestellt werden"</string>
   <string name="updater_nonetwork_clause">"Verbindung zum Netzwerk kann nicht hergestellt werden"</string>
+  <string name="updater_service_busy_msg">Diese App nutzt den Updateservice um Root-Zugriff auf die benötigten Quelldateien zu erhalten.</string>
+  <string name="updater_service_busy_title">Update Server ist überlastet</string>
   <string name="updater_wait_for_unzip">Update wird entpackt…</string>
   <string name="upgrade_close">Schließen</string>
   <string name="upgrade_kernel">System-Kernel ist veraltet</string>
-  <string name="upgrade_kernel_msg">"Ihr verwendeter Kernel entspricht nicht der MIUI-Version. Sie müssen den Kernel manuell aktualisieren. Siehe Xiaomi Aktualisierungsanleitung: 
-"</string>
+  <string name="upgrade_kernel_msg">"Ihr verwendeter Kernel entspricht nicht der MIUI-Version. Sie müssen den Kernel manuell aktualisieren. Siehe Xiaomi Aktualisierungsanleitung: "</string>
   <string name="user_begin">Download</string>
   <string name="user_intertup_download_msg">Downloads pausiert. Sie können sie jederzeit über den Updater fortsetzen.</string>
   <string name="user_intertup_download_title">Download pausiert</string>
