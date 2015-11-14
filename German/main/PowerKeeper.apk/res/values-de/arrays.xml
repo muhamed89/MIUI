@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="broadcast_general_type_restricted">
+         <item>android.intent.action.SCREEN_ON</item>
+         <item>android.intent.action.SCREEN_OFF</item>
+         <item>android.net.wifi.RSSI_CHANGED</item>
+         <item>android.net.wifi.SCAN_RESULTS</item>
+         <item>android.intent.action.USER_PRESENT</item>
+    </string-array>
+    <integer-array name="alarm_general_type_restricted">
+         <item>-1</item>
+    </integer-array>
     <string-array name="group_name_translate">
         <item>Standard</item>
         <item>Ausgeblendeter Modus</item>
