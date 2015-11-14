@@ -17,6 +17,7 @@
   <string name="alter_message_switch_mode_message">Wenn Sie die Modi umstellen, werden Ihre vorherigen Einstellungen nicht mehr für diese App gelten.</string>
   <string name="app_frozen_app_list_summary">Apps im Hintergrund</string>
   <string name="app_list_title">Apps auswählen</string>
+  <string name="app_list_total">%d apps</string>
   <string name="app_name">Batterie Saver</string>
   <string name="background">App läuft im Hintergrund</string>
   <string name="config_custom_description">Bei Bedarf können Sie eine benutzerdefinierte Konfiguration verwenden</string>
@@ -74,6 +75,10 @@
   <string name="power_config_cpu_mode_title">CPU Modus</string>
   <string name="power_config_data_connect_summary">Apps erlauben sich im Hintergrund mit dem Netzwerk  zu verbinden</string>
   <string name="power_config_data_connect_title">Datenverbindung</string>
+  <string name="power_config_disable_description">MIUI???</string>
+  <string name="power_config_disable_title">???</string>
+  <string name="power_config_enhance_description">MIUI???</string>
+  <string name="power_config_enhance_title">???</string>
   <string name="power_config_event_delete">Löschen</string>
   <string name="power_config_idle_notification_summary">Nur die erste Benachrichtigung der App anzeigen</string>
   <string name="power_config_idle_notification_title">Nur die erste Benachrichtigung anzeigen</string>
@@ -83,11 +88,16 @@
   <string name="power_config_lcd_mode_title">LCD Modus</string>
   <string name="power_config_location_summary">"Der App erlauben den Standort Ihres Gerätes anzuzeigen"</string>
   <string name="power_config_location_title">Standort Zugriff</string>
+  <string name="power_config_mode_title">???</string>
+  <string name="power_config_normal_description">???，MIUI???</string>
+  <string name="power_config_normal_title">???</string>
   <string name="power_config_phone_charging_title">Lädt</string>
   <string name="power_config_phone_idle_title">Inaktiv</string>
   <string name="power_config_select_apps_empty">Tippen um Apps auszuwählen</string>
   <string name="power_config_select_apps_title">Apps</string>
   <string name="power_config_title">Einstellungen</string>
+  <string name="power_config_ultimate_description">MIUI???</string>
+  <string name="power_config_ultimate_title">???</string>
   <string name="power_configure_screen_brightness_enable">Bildschirmhelligkeit regeln</string>
   <string name="power_customize_giveup_change">Änderungen verwerfen?</string>
   <string name="power_dialog_cancel">Abbrechen</string>
