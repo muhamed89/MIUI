@@ -24,7 +24,9 @@
   <string name="activity_title_power_manager">Akkuverbrauch</string>
   <string name="activity_title_risk">Risiken</string>
   <string name="activity_title_risk_detail">Risiken im Detail</string>
+  <string name="activity_title_root_acquired">Erlaube Root-Zugriff</string>
   <string name="activity_title_root_manager">Root-Zugriff</string>
+  <string name="activity_title_root_note">Übert Root-Zugriff</string>
   <string name="activity_title_settings">Einstellungen</string>
   <string name="activity_title_system">System</string>
   <string name="activity_title_trash">Cache</string>
@@ -288,6 +290,7 @@
   <string name="permission_send_sms_descx">Apps können SMS und MMS senden</string>
   <string name="permission_with_SMS_and_MMS">SMS- und MMS-Berechtigungen</string>
   <string name="permission_with_call_and_contact">Telefonanruf-, Kontaktdetails- und Anruflistenberechtigungen.</string>
+  <string name="pm_root_success_notification_title">Root-Zugriff aktiviert</string>
   <string name="power_20s_enter_mode">Wechseln von %1$ds zu %2$s</string>
   <string name="power_20s_shutdown">Telefon schaltet sich in 20 Sekunden aus</string>
   <string name="power_apply_toast">Wechseln auf %s Modus</string>
@@ -509,6 +512,7 @@ Ihr Gerät wechselt bei sehr niedrigem Akkustand auf diese Profil. Sie müssen I
   <string name="preferred_app_entries_music">Musik</string>
   <string name="process_kernel_label">Android</string>
   <string name="process_mediaserver_label">Mediaserver</string>
+  <string name="prompt_input_time_illegal">"Falsche Zeitangabe, bitte ändern und nochmal versuchen"</string>
   <string name="protection_category_dangerous_title">Risiko (%d)</string>
   <string name="protection_category_recommend_title">Empfohlene Änderungen(%d)</string>
   <string name="protection_category_security_title">Löschen (%d)</string>
