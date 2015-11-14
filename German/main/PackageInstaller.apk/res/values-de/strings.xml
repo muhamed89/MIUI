@@ -14,6 +14,12 @@ Möchten Sie dies jetzt und in Zukunft zulassen?"</string>
   <string name="app_store_missing_message">"Sie haben unseren offiziellen App Store nicht installiert. Jetzt installieren?"</string>
   <string name="app_store_missing_title">"App Store ist nicht installiert"</string>
   <string name="auto_startup_dialog_msg">MIUI genehmigt dieser App ohne Nachfrage automatisch zu starten.</string>
+  <string name="btn_text_install_new_version">Letzte version</string>
+  <string name="btn_text_install_origin">Original version</string>
+  <string name="btn_text_install_security_version_in_appstore">Ersetzen durch sichere Version</string>
+  <string name="btn_text_scaning">Scannen…</string>
+  <string name="btn_text_security_install">Ersetzen durch sichere Version</string>
+  <string name="btn_text_security_scan">Sicherheitsscan</string>
   <string name="button_text_cancel">Abbrechen</string>
   <string name="button_text_delete">Löschen</string>
   <string name="button_text_delete_timer">Löschen (%d)</string>
@@ -46,6 +52,7 @@ Alle bisherigen Nutzerdaten werden gespeichert."</string>
   <string name="install_failed_system_incompatible">App ist nicht mit MIUI kompatibel.</string>
   <string name="install_failed_verify_failed">Das Paket hat die Prüfung nicht bestanden und kann daher nicht installiert werden.</string>
   <string name="install_failed_verify_timeout">Zeitüberschreitung bei Paketüberprüfung. Installation erneut ausführen.</string>
+  <string name="install_from_appstore_hint">We recommend you to install the app from &lt;u&gt;&lt;font color=#91c727&gt;AppStore&lt;/font&gt;&lt;/u&gt;</string>
   <string name="installing">Wird installiert...</string>
   <string name="launch">Öffnen</string>
   <string name="lift_ban">Aufheben</string>
@@ -53,6 +60,12 @@ Alle bisherigen Nutzerdaten werden gespeichert."</string>
   <string name="low_risk_perms">Rechte mit geringem Risiko</string>
   <string name="manage_applications">Anwendungen verwalten</string>
   <string name="manage_device_administrators">Geräteadministratoren verwalten</string>
+  <string name="message_apk_checking">Apk checking…</string>
+  <string name="message_appstore_verify_has_new_version">A newer version of this app is available in our App Store. Do you want to install it?</string>
+  <string name="message_appstore_verify_inconsistent">"This app's signature is different from that in App Store, it will be safer to install the app from there."</string>
+  <string name="message_appstore_verify_ok">The version of this app in App Store has passed our security tests, we recommend you to install the app from there.</string>
+  <string name="message_install_in_market">We recommend you to install the app from AppStore</string>
+  <string name="message_security_scaning">Scanning…</string>
   <string name="ok">OK</string>
   <string name="other_relative">Andere Rechte</string>
   <string name="out_of_space_dlg_text">"%1$s nicht installiert: Nicht genügend freier Speicher."</string>
@@ -108,4 +121,5 @@ Alle bisherigen Nutzerdaten werden gespeichert."</string>
   <string name="virus_scan_install"><u>Installation fortsetzen</u></string>
   <string name="virus_scan_is_risk">Anwendung stellt ein Risiko dar.</string>
   <string name="virus_scan_is_virus">Anwendung enthält ein Virus.</string>
+  <string name="waiting_tip">Dies kann eine Weile dauern, aber es lohnt sich</string>
 </resources>
