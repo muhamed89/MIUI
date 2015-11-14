@@ -255,8 +255,8 @@
   <string name="msg_type_hint_mms">Multimedia-Nachricht (MMS)</string>
   <string name="msg_type_hint_mms_omit">MMS</string>
   <string name="msg_type_hint_mx">Mi Message</string>
-  <string name="msg_type_hint_mx_b2c">Network notification</string>
-  <string name="msg_type_hint_mx_b2c_omit">Network notification</string>
+  <string name="msg_type_hint_mx_b2c">Netzwerk Nachrichten</string>
+  <string name="msg_type_hint_mx_b2c_omit">Netzwerk Nachrichten</string>
   <string name="msg_type_hint_mx_omit">Mi Msg</string>
   <string name="msg_type_hint_sms">Textnachricht</string>
   <string name="msg_type_hint_sms_omit">SMS</string>
