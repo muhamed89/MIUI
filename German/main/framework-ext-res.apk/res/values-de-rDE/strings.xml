@@ -11,7 +11,9 @@
   <string name="caller_info_name_delimiter">" oder "</string>
   <string name="copy">Kopieren</string>
   <string name="cut">Ausschneiden</string>
-  <string name="enable_livetalk">Aufladepakete aktivieren</string>
+  <string name="default_name">Default</string>
+  <string name="enable_livetalk_summary">¥ 0.05 per minute for domestic calls</string>
+  <string name="enable_livetalk_title">Turn on Top-up package</string>
   <string name="fc_dialog_body">Sende Fehlerbericht an Mi zur Analyse? Dieser Fehlerbericht enthält keine persönliche Daten. Ihr Bericht wird verwendet, um diesen Fehler zu beheben und wird nie zu kommerziellen Zwecken genutzt.</string>
   <string name="fc_dialog_jump_to_preview">Zusammenfassung anzeigen</string>
   <string name="first_back_long_press_message">"Langer Druck auf die Zurück-Taste beendet den aktuellen Prozess.
@@ -24,14 +26,17 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen > System > Tasten"</s
   <string name="global_actions_reboot">Neustart</string>
   <string name="global_actions_shutdown">Herunterfahren</string>
   <string name="global_actions_silent_mode">Lautlos</string>
+  <string name="group_name_contacts">Contacts</string>
+  <string name="group_name_coworkers">Colleagues</string>
+  <string name="group_name_family">Family</string>
+  <string name="group_name_friends">Friends</string>
   <string name="handy_mode_enter_dlg_msg">Einhandmodus einschalten?</string>
   <string name="handy_mode_enter_dlg_title">Einhandmodus einschalten</string>
   <string name="handy_mode_summary">Zum Schließen, tippen Sie auf eine leere Stelle des Bildschirms</string>
   <string name="handy_mode_title">Einhandmodus</string>
+  <string name="ignore_home_when_fingerprint_enrolling_msg">Place your finger on the Home button</string>
   <string name="internal_livetalk_enable">Anrufpakete für nationale Anrufe verwenden</string>
-  <string name="internal_remain_mins">%1$s Minuten verbleiben (Nationale Anrufe)</string>
   <string name="international_livetalk_enable">Anrufpakete für internationale Anrufe verwenden</string>
-  <string name="international_remain_mins">%1$s verbleibende Minuten (%2$s Anrufe)</string>
   <string name="key_btn_ok">OK</string>
   <string name="key_btn_space">Leerzeichen</string>
   <string name="livetalk_not_enable">Aufladepakete deaktiviert</string>
@@ -41,6 +46,7 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen > System > Tasten"</s
   <string name="lockscreen_access_pattern_cleared">Muster gelöscht</string>
   <string name="lockscreen_access_pattern_detected">Muster vollständig</string>
   <string name="lockscreen_access_pattern_start">Muster gestartet</string>
+  <string name="maml_component_customization_title">Einstellungen</string>
   <string name="memory_clear_nothing_result">Nichts zum Löschen im Cache vorhanden</string>
   <string name="memory_clear_result">%1$sB gelöscht | %2$sB verfügbar</string>
   <string name="miui">MIUI</string>
@@ -54,6 +60,7 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen > System > Tasten"</s
   <string name="reboot_info_shutdown_alarm">Ihr Telefon wird um %s neu starten und den Alarm auslösen</string>
   <string name="reboot_progress">Neustart…</string>
   <string name="replace">Ersetzen</string>
+  <string name="resource_select">Auswählen</string>
   <string name="screen_button_disabled_message">Navigationstasten deaktiviert. Zum Reaktivieren drücken Sie gleichzeitig die Home- und Powertaste.</string>
   <string name="screen_button_enabled_message">Navigationstasten aktiviert.</string>
   <string name="screen_button_notification_text">Zum Einschalten, die Home- und Powertaste gleichzeitig drücken.</string>
