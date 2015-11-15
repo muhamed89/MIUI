@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_label">Download Manager</string>
-  <string name="auto_restart_under_wifi">Datei wird automatisch bei WLAN heruntergeladen</string>
+  <string name="app_label">Download-Manager</string>
+  <string name="auto_restart_under_wifi">Runterladen der Datei bei aktiver WLAN-Verbindung automatisch gestartet</string>
   <string name="button_cancel_download">Abbrechen</string>
   <string name="button_download_now">Jetzt herunterladen</string>
   <string name="button_queue_for_wifi">Warteschlange</string>
   <string name="button_start_now">Jetzt starten</string>
-  <string name="button_wait_for_wifi">Warte</string>
-  <string name="dialog_insufficient_space_on_cache">Nicht genug Speicherplatz auf internem Datenträger</string>
-  <string name="dialog_insufficient_space_on_external">Nicht genug Speicherplatz auf externem Datenträger</string>
+  <string name="button_wait_for_wifi">Warten</string>
+  <string name="dialog_insufficient_space_on_cache">Nicht genügend Speicherplatz auf internen Speicher</string>
+  <string name="dialog_insufficient_space_on_external">Nicht genügend Speicherplatz auf externen Speicher</string>
   <string name="dialog_not_show_again">"Nicht mehr anzeigen"</string>
   <string name="download_apk_desktop_installing">Installiert</string>
   <string name="download_apk_desktop_pause">Angehalten</string>
   <string name="download_apk_desktop_pending">Ausstehend</string>
   <string name="download_apk_desktop_running">Runtergeladen</string>
-  <string name="download_error">Nicht erfolgreich</string>
+  <string name="download_error">Fehlgeschlagen</string>
   <string name="download_no_application_title">"Datei kann nicht geöffnet werden"</string>
   <string name="download_percent">%d%%</string>
   <string name="download_queued">in der Warteschlange</string>
@@ -23,53 +23,53 @@
   <string name="download_running_percent">In Bearbeitung, %d%%</string>
   <string name="download_unknown_title">&lt;Ohne Titel&gt;</string>
   <string name="enter_garbage_clean">Internen Speicher bereinigen.</string>
-  <string name="insufficient_space">"Nicht genügend Platz im internen Speicher Ihres Geräts"</string>
-  <string name="mobile_recommended_title">Mobile Datennutzung</string>
-  <string name="notif_text_engine_off">Xunlei Accelerator ist aus.</string>
-  <string name="notif_text_engine_on">Beschleunige…</string>
-  <string name="notif_title_file_size">%1$d gesamt</string>
-  <string name="notif_title_multiple_downloading">Downloading %1$d Dateien</string>
-  <string name="notif_title_single_downloading">Downloading %1$s</string>
-  <string name="notification_download_complete">Download beendet</string>
-  <string name="notification_download_failed">Download nicht erfolgreich</string>
-  <string name="notification_download_failed_more">"Konnte %1$d Dinge nicht herunterladen"</string>
-  <string name="notification_download_success_more">%1$d heruntergeladen</string>
-  <string name="notification_need_wifi_for_size">Downloadgröße erfordert eine WLAN-Verbindung</string>
-  <string name="notification_paused_in_background">Im Hintergrund pausieren</string>
-  <string name="paused_waiting_for_network">Warte auf Netzwerk</string>
-  <string name="permdesc_accessAllDownloads">Erlaubt der App das Betrachten und Bearbeiten aller Downloads, die von jeder App auf dem System getätigt wurden.</string>
-  <string name="permdesc_downloadCacheNonPurgeable">"Ermöglicht der App Dateien in den Downloadcache herunterzuladen, die nicht automatisch gelöscht werden können, wenn der Download-Manager mehr Speicherplatz benötigt."</string>
-  <string name="permdesc_downloadCompletedIntent">Ermöglicht der App, Benachrichtigungen über abgeschlossene Downloads zu senden. Schädliche Apps können so andere Anwendungen, die Dateien herunterladen, verwirren.</string>
-  <string name="permdesc_downloadManager">Ermöglicht der App, auf den Download-Manager zuzugreifen und diesen zu verwenden, um Dateien herunterzuladen. Schädliche Apps können damit Downloads unterbrechen und Zugriff auf private Informationen erhalten.</string>
-  <string name="permdesc_downloadManagerAdvanced">"Ermöglicht der App, auf die erweiterten Funktionen des Download-Manager zuzugreifen. Schädliche Apps können damit Downloads unterbrechen und Zugriff auf private Informationen erhalten."</string>
-  <string name="permdesc_downloadWithoutNotification">Ermöglicht der App, Dateien über den Download-Manager herunterzuladen, ohne dem Benutzer Benachrichtigungen anzuzeigen.</string>
-  <string name="permdesc_seeAllExternal">Ermöglicht der App, alle Downloads auf der SD-Karte zu sehen, unabhängig davon, welche App diese heruntergeladen hat.</string>
-  <string name="permlab_accessAllDownloads">Zugriff auf alle Systemdownloads</string>
-  <string name="permlab_downloadCacheNonPurgeable">Speicherplatz im Downloadzwischenspeicher reservieren</string>
-  <string name="permlab_downloadCompletedIntent">Sende Downloadbenachrichtigungen</string>
-  <string name="permlab_downloadManager">Zugang Download Manager.</string>
-  <string name="permlab_downloadManagerAdvanced">Download Manager, erweiterte Funktionen.</string>
-  <string name="permlab_downloadWithoutNotification">Lade Dateien ohne Benachrichtigung</string>
-  <string name="permlab_seeAllExternal">Zeige alle Downloads auf USB Datenträger</string>
-  <string name="privacy_notif_content">Berühre, um Details anzuzeigen.</string>
-  <string name="privacy_notif_title">Xunlei Download Accelerator ist eingeschalten</string>
+  <string name="insufficient_space">"Nicht genügend Platz auf dem internen Speicher"</string>
+  <string name="mobile_recommended_title">Mobiler Datenverbrauch</string>
+  <string name="notif_text_engine_off">Xunlei-Beschleuniger ist aus.</string>
+  <string name="notif_text_engine_on">Beschleunigen…</string>
+  <string name="notif_title_file_size">Insgesamt %1$d Datei(en)</string>
+  <string name="notif_title_multiple_downloading">%1$d Dateien werden heruntergeladen</string>
+  <string name="notif_title_single_downloading">%1$s wird heruntergeladen</string>
+  <string name="notification_download_complete">Download abgeschlossen.</string>
+  <string name="notification_download_failed">Download fehlgeschlagen.</string>
+  <string name="notification_download_failed_more">"%1$d Elemente konnten nicht runtergeladen werden"</string>
+  <string name="notification_download_success_more">%1$d runtergeladen</string>
+  <string name="notification_need_wifi_for_size">Downloadgröße erfordert WLAN</string>
+  <string name="notification_paused_in_background">Im Hintergrund pausiert</string>
+  <string name="paused_waiting_for_network">Warten auf Netzwerk</string>
+  <string name="permdesc_accessAllDownloads">Ermöglicht der App, alle Downloads anzuzeigen und zu ändern, die von Apps auf dem System gestartet wurden</string>
+  <string name="permdesc_downloadCacheNonPurgeable">"Ermöglicht der App, Dateien in den Download-Cache herunterzuladen, die nicht automatisch gelöscht werden können, wenn der Download-Manager mehr Speicher benötigt"</string>
+  <string name="permdesc_downloadCompletedIntent">Ermöglicht der App, Benachrichtigungen über abgeschlossene Downloads zu senden. Schadprogramme können dadurch andere Apps, die Dateien herunterladen, beeinträchtigen.</string>
+  <string name="permdesc_downloadManager">Ermöglicht der App, auf den Download-Manager zuzugreifen, um Dateien herunterzuladen. Schadprogramme könnten damit Downloads unterbrechen und auf persönliche Informationen zugreifen.</string>
+  <string name="permdesc_downloadManagerAdvanced">"Ermöglicht der App, auf die erweiterten Funktionen des Download-Managers zuzugreifen. Schadprogramme könnten damit Downloads unterbrechen und auf persönliche Informationen zugreifen."</string>
+  <string name="permdesc_downloadWithoutNotification">Ermöglicht der App, Dateien über den Download-Manager herunterzuladen, ohne dass dem Nutzer Benachrichtigungen angezeigt werden</string>
+  <string name="permdesc_seeAllExternal">Ermöglicht der App, alle Downloads auf die SD-Karte anzuzeigen, unabhängig davon, von welcher App diese heruntergeladen wurden</string>
+  <string name="permlab_accessAllDownloads">Zugriff auf alle System-Downloads</string>
+  <string name="permlab_downloadCacheNonPurgeable">Speicherplatz im Download-Cache reservieren</string>
+  <string name="permlab_downloadCompletedIntent">Benachrichtigungen zu Ladevorgängen senden</string>
+  <string name="permlab_downloadManager">Auf Download-Manager zugreifen</string>
+  <string name="permlab_downloadManagerAdvanced">Erweiterte Funktionen des Download-Managers.</string>
+  <string name="permlab_downloadWithoutNotification">Dateien ohne Benachrichtigung herunterladen</string>
+  <string name="permlab_seeAllExternal">Alle USB-Speicherdownloads anz.</string>
+  <string name="privacy_notif_content">Berühren, um Details anzuzeigen.</string>
+  <string name="privacy_notif_title">Xunlei-Downloadbeschleuniger ist an</string>
   <string name="privacy_tip_cancel">Abbrechen</string>
-  <string name="privacy_tip_content">"Xunlei Accelerator benutzen, um Downloads zu beschleunigen? Die URL des Download's wird auf die Xunlei Server hochgeladen. Ihre Mi Kontodetails werden ebenfalls hochgeladen, um zu prüfen, ob Sie ein aktives Abonnement für diesen Dienst haben."</string>
+  <string name="privacy_tip_content">"Xunlei-Beschleuniger zum schnelleren Download verwenden? Die Download-URL wird auf die Xiaomi-Server hochgeladen. Ihre MiKonto-Details werden ebenfalls hochgeladen, um zu überprüfen, ob Sie bestimmte Dienste aktiviert haben."</string>
   <string name="privacy_tip_ok">OK</string>
-  <string name="recommended_file_size_download_in_mobile">%s der Mobilen Datenverbindung für diesen Download nutzen?</string>
-  <string name="recommended_no_file_size_download_in_mobile">Mobile Datenverbindung für diesen Download nutzen?</string>
+  <string name="recommended_file_size_download_in_mobile">%s der Mobilen Daten verwenden um diese Datei runterzuladen?</string>
+  <string name="recommended_no_file_size_download_in_mobile">Mobile Datenverbindung zum runterladen dieser Datei verwenden?</string>
   <string name="root_downloads">Downloads</string>
-  <string name="task_already_exist">Aufgabe existiert bereits</string>
+  <string name="task_already_exist">Bereits vorhanden</string>
   <string name="warning_tip_cancel">Download</string>
-  <string name="warning_tip_content">"Sie sind nicht länger mit dem WLAN verbunden. Bei Benutzung der mobilen Datenverbindung, um diesen Download zu beenden, wird sich Ihr mobiler Datenverbrauch erhöhen. Wenn Sie über Ihr geplantes Volumen geraten, kann Ihnen Ihr Anbieter weitere Gebühren berechnen."</string>
+  <string name="warning_tip_content">"Sie sind nicht mehr mit einem WLAN verbunden. Fertigstellen dieses Downloads wird Ihren Mobilen Datenverbrauch merklich erhöhen."</string>
   <string name="warning_tip_ok">Pause</string>
   <string name="warning_tip_title">Datenverbrauchswarnung</string>
-  <string name="wifi_recommended_body" formatted="false">"Starten dieses %s Downloads wird einen erhöhten mobilen Datenverbrauch nach sich ziehen, welches zu weiteren Kosten, entsprechend Ihres Datenplanes, durch Ihren Anbieter führen kann.
+  <string name="wifi_recommended_body" formatted="false">"Der Download von %s erfordert eine große Datenmenge über die mobile Datenverbindung, welche zu erhöhten Kosten führen kann.
 
-Berühre hier %s um den Download zu starten, wenn Sie das nächste mal eine WLAN Verbindung besitzen."</string>
-  <string name="wifi_recommended_title">In die Warteschlange, um später herunterzuladen?</string>
-  <string name="wifi_required_body" formatted="false">"Sie müssen WLAN benutzen, um diesen Download  %s zu beenden.
+Berühren Sie %s, um den Download erst bei aktiver WLAN-Verbindung herunterzuladen."</string>
+  <string name="wifi_recommended_title">Zum späteren Download auf die Warteschlange setzen?</string>
+  <string name="wifi_required_body" formatted="false">"Dieser Download (%s) ist nur über WLAN möglich.
 
-Berühre hier %s um den Download zu starten, wenn Sie das nächste mal eine WLAN Verbindung besitzen."</string>
-  <string name="wifi_required_title">Download zu groß für den Netzbetreiber</string>
+Berühren Sie %s, um den Download erst bei aktiver WLAN-Verbindung herunterzuladen."</string>
+  <string name="wifi_required_title">Downloadgröße überschreitet Limit des Netzwerkbetreibers.</string>
 </resources>
