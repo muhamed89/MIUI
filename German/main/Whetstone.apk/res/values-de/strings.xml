@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Whetstone</string>
-  <string name="permstep_description">"Lassen Sie Anwendung auf Schritt Informationen Ihres Telefons lesen"</string>
-  <string name="permstep_label">Lesen Sie die Schritte</string>
+  <string name="permstep_description">"Erlauben Sie der App die Daten ihres Telefons für den Benchmark zu lesen"</string>
+  <string name="permstep_label">Einzelne Punkte anschauen</string>
 </resources>
