@@ -11,10 +11,10 @@
   <string name="caller_info_name_delimiter">" oder "</string>
   <string name="copy">Kopieren</string>
   <string name="cut">Ausschneiden</string>
-  <string name="default_name">Default</string>
-  <string name="enable_livetalk_summary">¥ 0.05 per minute for domestic calls</string>
-  <string name="enable_livetalk_title">Turn on Top-up package</string>
-  <string name="fc_dialog_body">Sende Fehlerbericht an Mi zur Analyse? Dieser Fehlerbericht enthält keine persönliche Daten. Ihr Bericht wird verwendet, um diesen Fehler zu beheben und wird nie zu kommerziellen Zwecken genutzt.</string>
+  <string name="default_name">Standard</string>
+  <string name="enable_livetalk_summary">¥ 0,05 pro Minute für Inlandsgespräche</string>
+  <string name="enable_livetalk_title">Schalten Sie Auflade-Paket</string>
+  <string name="fc_dialog_body">Fehlerbericht zur Analyse an Xiaomi senden? Dieser Bericht enthält möglicherweise persönliche Informationen. Ihr Bericht wird nicht mit Dritten geteilt, sondern ausschließlich zum Beheben des Fehler verwendet.</string>
   <string name="fc_dialog_jump_to_preview">Zusammenfassung anzeigen</string>
   <string name="first_back_long_press_message">"Langer Druck auf die Zurück-Taste beendet den aktuellen Prozess.
 
@@ -34,7 +34,7 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen > System > Tasten"</s
   <string name="handy_mode_enter_dlg_title">Einhandmodus einschalten</string>
   <string name="handy_mode_summary">Zum Schließen, tippen Sie auf eine leere Stelle des Bildschirms</string>
   <string name="handy_mode_title">Einhandmodus</string>
-  <string name="ignore_home_when_fingerprint_enrolling_msg">Place your finger on the Home button</string>
+  <string name="ignore_home_when_fingerprint_enrolling_msg">Drücken Sie auf die Home-Taste</string>
   <string name="internal_livetalk_enable">Anrufpakete für nationale Anrufe verwenden</string>
   <string name="international_livetalk_enable">Anrufpakete für internationale Anrufe verwenden</string>
   <string name="key_btn_ok">OK</string>
