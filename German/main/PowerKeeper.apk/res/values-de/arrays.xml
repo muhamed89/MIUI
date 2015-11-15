@@ -12,55 +12,55 @@
     </integer-array>
     <string-array name="group_name_translate">
         <item>Standard</item>
-        <item>Ausgeblendeter Modus</item>
-        <item>Leser Modus</item>
-        <item>Media Modus</item>
+        <item>Versteckt</item>
+        <item>Lesen</item>
+        <item>Medien</item>
     </string-array>
     <string-array name="event_name_translate">
-        <item>App läuft im Vordergrund</item>
-        <item>Bildschirm an</item>
-        <item>Bildschirm aus</item>
-        <item>Bildschirm über 10 Minuten aus</item>
+        <item>App im Vordergrund</item>
+        <item>Bildschirm An</item>
+        <item>Bildschirm Aus</item>
+        <item>Bildschirm nach 10 Minuten Aus</item>
         <item>Vollbild</item>
         <item>Vollbild beenden</item>
-        <item>App läuft im Hintergrund</item>
-        <item>Handy lädt</item>
-        <item>"Handy lädt nicht"</item>
-        <item>Handy im Ruhezustand</item>
+        <item>App im Hintergrund</item>
+        <item>Telefon ist am laden</item>
+        <item>"Telefon ist nicht am laden"</item>
+        <item>Telefon im Ruhezustand</item>
     </string-array>
     <string-array name="action_name_translate">
         <item>Max Bildschirmhelligkeit</item>
         <item>Max CPU Frequenz</item>
-        <item>Bildschirm Modus</item>
-        <item>CPU Nutzung</item>
+        <item>Bildschirmmodus</item>
+        <item>CPU Auslastung</item>
         <item>Datenverbindung</item>
         <item>Standort</item>
         <item>Erste Benachrichtigung</item>
-        <item>Bildschirmsperrenbenachrichtigung</item>
-        <item>Beschränken Sie Hintergrund-Datenverbindungen</item>
+        <item>Tastensperre Benachrichtigung</item>
+        <item>Hintergrunddaten beschränken</item>
     </string-array>
     <string-array name="action_param_translate">
-        <item>Nichts</item>
+        <item>Keine Vorgänge</item>
         <item>Standard</item>
         <item>Bild</item>
         <item>Film</item>
-        <item>Batterie Saver</item>
-        <item>Balance</item>
+        <item>Energie sparen</item>
+        <item>Ausgewogen</item>
         <item>Leistung</item>
-        <item>An</item>
-        <item>Aus</item>
+        <item>Einschalten</item>
+        <item>Ausschalten</item>
         <item>Sofort</item>
         <item>Nach 10 Min</item>
         <item>Nach 30 Min</item>
         <item>Wenn der Bildschirm aus ist</item>
     </string-array>
     <string-array name="app_groups">
-        <item>ausgewählt</item>
-        <item>nicht makiert</item>
-        <item>andere auswahl</item>
+        <item>Ausgewählt</item>
+        <item>Nicht ausgewählt</item>
+        <item>andere ausgewählt</item>
     </string-array>
     <string-array name="hmode_app_groups">
-        <item>benutzerdefiniert</item>
-        <item>empfohlen</item>
+        <item>Benutzerdefiniert</item>
+        <item>Empfohlen</item>
     </string-array>
 </resources>
