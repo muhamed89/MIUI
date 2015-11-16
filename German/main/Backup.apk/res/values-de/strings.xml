@@ -180,7 +180,7 @@
   <string name="sc_request_timeout">Zeitüberschreitung der Anforderung</string>
   <string name="sc_service_unavailable">MiCloud nicht verfügbar</string>
   <string name="sc_unaccess_password_file">"WLAN-Kennwörter nicht speichern"</string>
-  <string name="sc_unauthorized">Bitte erneut anmelden<</string>
+  <string name="sc_unauthorized">Bitte erneut anmelden</string>
   <string name="sd_not_available">Keine SD-Karte gefunden</string>
   <string name="sdcard_no_enough_space">Nicht genügend Speicherplatz</string>
   <string name="sdcard_no_enough_space_message">"Es ist nicht genügend Speicherplatz auf Ihrer SD-Karte vorhanden."</string>
