@@ -76,9 +76,7 @@
   <string name="power_config_data_connect_summary">Apps erlauben sich im Hintergrund mit dem Netzwerk zu verbinden</string>
   <string name="power_config_data_connect_title">Datenverbindung</string>
   <string name="power_config_disable_description">MIUI???</string>
-  <string name="power_config_disable_title">???</string>
   <string name="power_config_enhance_description">MIUI???</string>
-  <string name="power_config_enhance_title">???</string>
   <string name="power_config_event_delete">Löschen</string>
   <string name="power_config_idle_notification_summary">Nur die erste Benachrichtigung der App anzeigen</string>
   <string name="power_config_idle_notification_title">Nur die erste Benachrichtigung anzeigen</string>
@@ -97,7 +95,6 @@
   <string name="power_config_select_apps_title">Apps</string>
   <string name="power_config_title">Einstellungen</string>
   <string name="power_config_ultimate_description">MIUI...</string>
-  <string name="power_config_ultimate_title">???</string>
   <string name="power_configure_screen_brightness_enable">Bildschirmhelligkeit einstellen</string>
   <string name="power_customize_giveup_change">Änderungen verwerfen?</string>
   <string name="power_dialog_cancel">Abbrechen</string>
