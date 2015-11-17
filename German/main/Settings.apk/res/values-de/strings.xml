@@ -3623,7 +3623,7 @@ Das Einrichten des Telefons kann eine erhöhte Netzwerkaktivität erfordern."</s
   <string name="wifi_tether_checkbox_text">Mobiler WLAN-Hotspot</string>
   <string name="wifi_tether_configure_ap_text">WLAN-Hotspot einrichten</string>
   <string name="wifi_tether_configure_ssid_default">MiuiHotspot</string>
-  <string name="wifi_tether_configure_subtext">\"%1$s\" (%2$s) mobiler WLAN-Hotspot</string>
+  <string name="wifi_tether_configure_subtext">"%1$s" %2$s mobiler WLAN-Hotspot</string>
   <string name="wifi_tether_enabled_subtext">Mobiler Hotspot "%1$s" aktiv</string>
   <string name="wifi_tether_failed_subtext">Fehler beim mobilen WLAN-Hotspot</string>
   <string name="wifi_tether_setting_title">Basis Einstellungen</string>
