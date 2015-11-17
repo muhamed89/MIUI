@@ -41,8 +41,8 @@
         <item quantity="one">%d App kann Benachrichtigungen lesen</item>
     </plurals>
     <plurals name="wrong_pin_code">
-        <item quantity="other">Falscher PIN-Code. Sie haben noch %d Versuche.</item>
-        <item quantity="one">Falscher PIN-Code. Sie haben noch %d Versuch, bevor Sie das Gerät von Ihrem Mobilfunkanbieter entsperren lassen müssen.</item>
+        <item quantity="other">Falsche PIN. Sie haben noch %d Versuche.</item>
+        <item quantity="one">Falsche PIN. Sie haben noch %d Versuch, bevor Sie das Gerät von Ihrem Mobilfunkanbieter entsperren lassen müssen.</item>
     </plurals>
     <plurals name="print_search_result_count_utterance">
         <item quantity="other">%1$s Drucker gefunden</item>
