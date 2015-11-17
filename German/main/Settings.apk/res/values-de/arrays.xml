@@ -117,7 +117,7 @@
     <string-array name="usage_stats_display_order_types">
         <item>Nutzungszeit</item>
         <item>Startanzahl</item>
-        <item>App Name</item>
+        <item>App-Name</item>
     </string-array>
     <string-array name="wifi_eap_entries">
         <item>PEAP</item>
@@ -179,7 +179,7 @@
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Interner Gerätespeicher</item>
-        <item>Entnehmbare SD Karte</item>
+        <item>Entnehmbare SD-Karte</item>
         <item>Das Gerät entscheiden lassen</item>
     </string-array>
     <string-array name="app_ops_categories">
@@ -209,10 +209,10 @@
         <item>SMS erhalten</item>
         <item>Not-SMS erhalten</item>
         <item>MMS erhalten</item>
-        <item>WAP Push erhalten</item>
+        <item>WAP-Push erhalten</item>
         <item>SMS senden</item>
-        <item>ICC SMS lesen</item>
-        <item>ICC SMS schreiben</item>
+        <item>ICC-SMS lesen</item>
+        <item>ICC-SMS schreiben</item>
         <item>Einstellungen modifizieren</item>
         <item>Obenauf zeichnen</item>
         <item>Benachrichtigungen abrufen</item>
@@ -222,17 +222,17 @@
         <item>Zwischenablage lesen</item>
         <item>Zwischenablage modifizieren</item>
         <item>Medienknöpfe</item>
-        <item>Audio-Fokus</item>
-        <item>Master-Lautstärke</item>
+        <item>Audiofokus</item>
+        <item>Masterlautstärke</item>
         <item>Sprachlautstärke</item>
         <item>Ruftonlautstärke</item>
         <item>Medienlautstärke</item>
         <item>Alarmlautstärke</item>
         <item>Benachrichtigungslautstärke</item>
-        <item>Bluetooth Lautstärke</item>
+        <item>Bluetoothlautstärke</item>
         <item>Wach bleiben</item>
         <item>Standort überwachen</item>
-        <item>Hochleistungs Ort überwachen</item>
+        <item>Hochleistungsort überwachen</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Standort</item>
@@ -267,14 +267,14 @@
         <item>Zwischenablage lesen</item>
         <item>Zwischenablage modifizieren</item>
         <item>Medienknöpfe</item>
-        <item>Audio-Fokus</item>
-        <item>Master-Lautstärke</item>
+        <item>Audiofokus</item>
+        <item>Masterlautstärke</item>
         <item>Sprachlautstärke</item>
         <item>Ruftonlautstärke</item>
         <item>Medienlautstärke</item>
         <item>Alarmlautstärke</item>
         <item>Benachrichtigungslautstärke</item>
-        <item>Bluetooth Lautstärke</item>
+        <item>Bluetoothlautstärke</item>
         <item>Wach bleiben</item>
         <item>Standort</item>
         <item>Standort</item>
@@ -313,22 +313,22 @@
     <string-array name="select_runtime_titles">
         <item>Dalvik</item>
         <item>ART</item>
-        <item>ART (debug)</item>
+        <item>ART (Debug)</item>
     </string-array>
     <string-array name="select_runtime_summaries">
         <item>Dalvik benutzen</item>
         <item>ART benuten</item>
-        <item>ART Debug-Build benutzen</item>
+        <item>ART-Debug-Build benutzen</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Niemals überprüfen</item>
-        <item>Nur bei DRM Inhalten überprüfen</item>
+        <item>Nur bei DRM-Inhalten überprüfen</item>
         <item>Immer prüfen</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>Nie HDCP Überprüfung nutzen</item>
-        <item>HDCP Überprüfung nur bei DRM Inhalten nutzen</item>
-        <item>Immer HDCP Überprüfung nutzen</item>
+        <item>Nie HDCP-Überprüfung nutzen</item>
+        <item>HDCP Überprüfung nur bei DRM-Inhalten nutzen</item>
+        <item>Immer HDCP-Überprüfung nutzen</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animation aus</item>
@@ -381,7 +381,7 @@
         <item>Zeige Überzeichnungszähler</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-        <item>Standard Limit</item>
+        <item>Standardlimit</item>
         <item>Keine Hintergrundprozesse</item>
         <item>Höchstens 1 Prozess</item>
         <item>Höchstens 2 Prozesse</item>
@@ -400,9 +400,9 @@
         <item>PPTP VPN</item>
         <item>L2TP/IPSec VPN mit vor-geteilten Schlüsseln</item>
         <item>L2TP/IPSec VPN mit Zertifikaten</item>
-        <item>IPSec VPN  mit vor-geteilten Schlüsseln und Xauth Authentifizierung</item>
-        <item>IPSec VPN mit Zertifikaten und Xauth Authentifizierung</item>
-        <item>IPSec VPN mit Zertifikaten und hybrid Authentifizierung</item>
+        <item>IPSec VPN  mit vor-geteilten Schlüsseln und Xauth-Authentifizierung</item>
+        <item>IPSec VPN mit Zertifikaten und Xauth-Authentifizierung</item>
+        <item>IPSec VPN mit Zertifikaten und Hybrid-Authentifizierung</item>
     </string-array>
     <string-array name="vpn_states">
         <item>Getrennt</item>
@@ -443,7 +443,7 @@
     <string-array name="usb_connection_mode_entries">
         <item>Beim Verbinden fragen</item>
         <item>Nur aufladen</item>
-        <item>SD Karte anbringen</item>
+        <item>SD-Karte anbringen</item>
     </string-array>
     <string-array name="led_freq_entries">
         <item>2 Sekunden</item>
@@ -520,7 +520,7 @@
     <string-array name="msd_pc_system">
         <item>Windows XP und älter</item>
         <item>Windows Vista und neuer</item>
-        <item>OSX</item>
+        <item>OS X</item>
         <item>Linux</item>
     </string-array>
     <string-array name="msd_pc_system_install_summary">
@@ -532,7 +532,7 @@
     <string-array name="msd_pc_system_install_finish_summary">
         <item>@string/msd_pc_system_install_finish_summary_xp</item>
         <item>@string/msd_pc_system_install_finish_summary_vista</item>
-        <item>USB Speicher öffnet sich automatisch, sobald er mit einem PC verbunden ist.</item>
+        <item>USB-Speicher öffnet sich automatisch, sobald er mit einem PC verbunden ist.</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_retry_xp">
@@ -554,7 +554,7 @@ Note: Nur für Ubuntu 8.04!"</item>
         <item>Kalt</item>
     </string-array>
     <string-array name="screen_saturation_title">
-        <item>Brilliant</item>
+        <item>Brillant</item>
         <item>Standard</item>
     </string-array>
     <string-array name="screen_optimize_title">
@@ -577,8 +577,8 @@ Note: Nur für Ubuntu 8.04!"</item>
         <item>Verbieten</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
-        <item>Single-Mikro Geräuschunterdrückung</item>
-        <item>Dual-Mikro Geräuschunterdrückung</item>
+        <item>Single-Mikro-Geräuschunterdrückung</item>
+        <item>Dual-Mikro-Geräuschunterdrückung</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>Gesichtsentsperrung</item>
@@ -681,6 +681,6 @@ Note: Nur für Ubuntu 8.04!"</item>
 	    <string-array name="common_password_business_names">
         <item>Sperrbildschirm</item>
         <item>Jugendschutz</item>
-        <item>File explorer</item>
+        <item>File-Explorer</item>
     </string-array>
 </resources>
