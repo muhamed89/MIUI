@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Accounts_settings_title">Konten</string>
-  <string name="about_settings">Über das Telefon</string>
+  <string name="about_settings">Über das Gerät</string>
   <string name="about_settings_summary">Rechtliche Hinweise, Status und Softwareversion anzeigen</string>
-  <string name="ac_enable_title">Zugriffssteuerung</string>
+  <string name="ac_enable_title">Apps sperren</string>
   <string name="ac_privacy_mode_sum">Zum Beenden des Gastmodus ist ein Passwort erforderlich</string>
   <string name="ac_privacy_mode_title">Passwort</string>
-  <string name="ac_set_apps_title">Anwendungen schützen</string>
-  <string name="accelerometer_summary_off">Ausrichtung beim Drehen des Telefons automatisch ändern</string>
-  <string name="accelerometer_summary_on">Ausrichtung beim Drehen des Telefons automatisch ändern</string>
+  <string name="ac_set_apps_title">Apps auswählen</string>
+  <string name="accelerometer_summary_off">Ausrichtung beim Drehen des Geräts automatisch ändern</string>
+  <string name="accelerometer_summary_on">Ausrichtung beim Drehen des Geräts automatisch ändern</string>
   <string name="accelerometer_title">Automatisch drehen</string>
   <string name="access_control_app_entry_multiple">Starten %s</string>
   <string name="access_control_app_entry_single">App starten</string>
-  <string name="access_control_need_password">"%s ist geschützt"</string>
+  <string name="access_control_need_password">"%s wurde gesperrt"</string>
   <string name="access_control_need_to_unlock">Passwort erforderlich:</string>
   <string name="access_control_no_back_footer">Zum Beenden [icon] drücken</string>
   <string name="access_control_password_title">Passwort</string>
   <string name="access_control_recording_intro_header">Zeichnen Sie ein Entsperrmuster:</string>
   <string name="access_control_reset_by_account">Um Ihr Passwort zurückzusetzen, melden Sie sich bei Ihrem Mi-Konto an.</string>
   <string name="access_point_names">Zugangspunktnamen</string>
-  <string name="accessibility_captioning_title">Bildunterschriften</string>
+  <string name="accessibility_captioning_title">Beschriftungen</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Dieses Feature ist experimentell und kann die Leistung beeinträchtigen.</string>
   <string name="accessibility_display_daltonizer_preference_title">Farbkorrektur</string>
   <string name="accessibility_display_inversion_preference_subtitle">(Experimentell) Kann die Leistung beeinträchtigen</string>
@@ -73,7 +73,7 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="accessibility_toggle_speak_password_preference_title">Passwörter aussprechen</string>
   <string name="account_add">Hinzufügen</string>
   <string name="account_autostar_label">Autostart</string>
-  <string name="account_list">Andere Konten</string>
+  <string name="account_list">Alle</string>
   <string name="account_settings">Konten</string>
   <string name="account_settings_menu_auto_sync">Auto-synce Daten</string>
   <string name="account_settings_menu_auto_sync_personal">Auto-synce persönl. Daten</string>
@@ -81,10 +81,10 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="account_settings_title">Konten</string>
   <string name="account_sync_settings_title">Synchronisierung</string>
   <string name="activate_miui_screensaver">Bildschirmschoner</string>
-  <string name="activating">Einschalten...</string>
+  <string name="activating">Einschalten…</string>
   <string name="active_device_admin_msg">Geräteadministrator</string>
   <string name="active_input_method_subtypes">Aktive Eingabemethoden</string>
-  <string name="activity_not_found">App ist nicht auf dem Telefon installiert.</string>
+  <string name="activity_not_found">App ist nicht auf dem Gerät installiert.</string>
   <string name="activity_picker_label">Aktivität auswählen</string>
   <string name="adb_keys_warning_message">"Zugriff auf USB-Debugging von allen Computern, die Sie vorher autorisiert haben widerrufen?"</string>
   <string name="adb_warning_message">USB-Debugging ist nur für Entwicklungszwecke vorgesehen. Damit können Sie Daten zwischen Ihrem Computer und Ihrem Gerät kopieren, Apps auf Ihrem Gerät ohne Benachrichtigung installieren und Protokolldaten lesen.</string>
@@ -96,22 +96,22 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="add_fingerprint_done_msg">Sie können Ihr Gerät nun mit Ihrem Fingerabdruck entsperren.</string>
   <string name="add_fingerprint_done_title">Fertig!</string>
   <string name="add_fingerprint_finished_button_text">Fertig</string>
-  <string name="add_fingerprint_instruction_dialog_msg">"Platzieren Sie Ihren Finger auf dem Sensor, um die Fingerabdruckdaten zu speichern.
-Vergewissern Sie sich, dass sich der Finger innerhalb der Sensorkanten befindet"</string>
+  <string name="add_fingerprint_instruction_dialog_msg">"Um Ihre Fingerabdruckdetails hinzuzufügen, legen Sie Ihren Finger auf dem Sensor.
+Stellen Sie sicher, dass Ihr Finger die Innenkante des Sensors bedeckt"</string>
   <string name="add_fingerprint_instruction_msg">Entsperren Sie Ihr Gerät oder verifizieren Sie Zahlungen mit Ihrem Fingerabdruck</string>
   <string name="add_fingerprint_instruction_title">Platzieren Sie Ihren Finger auf dem Sensor</string>
-  <string name="add_fingerprint_move_finger_title">Finger wegnemhme</string>
-  <string name="add_fingerprint_put_finger_edge_msg">Nachdem Sie den Sensor gedrückt haben, nehmen Sie den Finger weg und wiederholen Sie den Vorgang.</string>
-  <string name="add_fingerprint_put_finger_msg">Nachdem Sie den Sensor gedrückt haben, nehmen Sie den Finger weg und wiederholen Sie den Vorgang.</string>
+  <string name="add_fingerprint_move_finger_title">Finger entfernen</string>
+  <string name="add_fingerprint_put_finger_edge_msg">Nach dem drücken des Sensor, entfernen Sie den Finger und versuchen es erneut.</string>
+  <string name="add_fingerprint_put_finger_msg">Nach dem drücken des Sensor, entfernen Sie den Finger und versuchen es erneut.</string>
   <string name="add_fingerprint_put_finger_title">Finger platzieren</string>
   <string name="add_fingerprint_text">Fingerabdruck hinzufügen</string>
-  <string name="add_fingerprint_toast_text">Legen Sie Ihren Finger jetzt auf den Sensor</string>
+  <string name="add_fingerprint_toast_text">Legen Sie Ihren Finger jetzt auf den Scanner</string>
   <string name="adding_profile_owner_warning">"Wenn Sie weiter vorgehen, wird Ihr User Konto von Ihrem Administrator verwaltet, der dann auch zugeordneten Daten neben Ihren persönlichen Daten speichern kann.
 
 Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu überwachen und verwalten, die mit diesem User Konto, einschließlich Netzwerkaktivität und Standortinformationen Ihres Geräts, verbunden sind."</string>
     <string name="additional_system_update"/>
   <string name="additional_system_update_menu"/>  
-  <string name="additional_system_update_settings_list_item_title">Zusätzliche Systemupdates</string>
+  <string name="additional_system_update_settings_list_item_title">Zusätzliche System-Updates</string>
   <string name="adjust_3d_depth_title">"Spiele anpassen' 3D Tiefe"</string>
   <string name="advanced_security_title">Erweitert</string>
   <string name="advanced_settings">Erweiterte Einstellungen</string>
@@ -124,8 +124,8 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="airplane_mode">Flugmodus</string>
   <string name="alarm_volume_option_title">Alarmlautstärke</string>
   <string name="alarm_volume_title">Wecker</string>
-  <string name="alert_show_screensaver_when_not_charging_msg">Wenn der Bildschirmschoner angezeigt wird und das Gerät nicht am Laden ist, erhöht sich der Energieverbrauch. Möchten Sie diese Option ausschalten?</string>
-  <string name="alert_show_screensaver_when_not_charging_title">Achtung</string>
+  <string name="alert_show_screensaver_when_not_charging_msg">Der Bildschirmschoner verursacht einen erhöhten Stromverbrauch.</string>
+  <string name="alert_show_screensaver_when_not_charging_title">Akkuverbrauch</string>
   <string name="all_volume_title">Lautstärke</string>
   <string name="allow">Zulassen</string>
   <string name="allow_bind_app_widget_activity_allow_bind">Nach der Erstellung des Widgets hat %1$s Zugriff auf alle von ihm angezeigten Daten.</string>
@@ -270,10 +270,10 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="background_data_dialog_message">Durch das Ausschalten von Hintergrunddaten kann die Akkulaufzeit verlängert und die Verwendung von Daten verringert werden. Einige Apps nutzen die Hintergrunddatenverbindung eventuell weiterhin.</string>
   <string name="background_data_dialog_title">Hintergrunddaten ausschalten?</string>
   <string name="background_data_summary">Apps können jederzeit Daten synchronisieren, senden und empfangen</string>
-  <string name="background_location_control_summary">Erlauben oder verhindern Sie die Standortlokalisierung für Apps im Hintergrund</string>
-  <string name="background_location_control_title">Standortlokalisierung im Hintergrund</string>
-  <string name="background_location_deselect_apps">Alle abwählen</string>
-  <string name="background_location_requests_summary">Erlauben Sie Apps die Standortlokalisierung zu verwenden</string>
+  <string name="background_location_control_summary">Schütze od. Erlaube den Zugriff von Apps auf Standortinfos vom Gerät im Hintergrund</string>
+  <string name="background_location_control_title">Standortzugriff im Hintergrund</string>
+  <string name="background_location_deselect_apps">Auswahl aufheben</string>
+  <string name="background_location_requests_summary">Erlaube Apps Zugriff auf Standortservice wenn du sie nicht benutzt</string>
   <string name="background_location_requests_title">Standortlokalisierung im Hintergrund zulassen</string>
   <string name="background_location_select_apps">Alle auswählen</string>
   <string name="background_process_stop_description">Hierbei handelt es sich um einen alten App-Prozess, der für den Fall, dass er wieder benötigt wird, beibehalten wird. Normalerweise gibt es keinen Grund ihn zu beenden.</string>
@@ -756,7 +756,7 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="crypt_keeper_cooldown">Versuchen Sie es in ^1 Sekunden erneut.</string>
   <string name="crypt_keeper_data_corrupt_summary">"Das eingegebene Passwort ist korrekt, aber leider sind Ihre Daten korrupt. 
 
-Um Ihr Handy wieder nutzen zu können, müssen Sie es auf Werkszustand zurücksetzen. Wenn Sie Ihr Telefon nach dem Reset eingestellt haben, haben Sie die Möglichkeit, alle Daten, die auf Ihr Google-Konto gesichert wurden, wiederherzustellen."</string>
+Um Ihr Telefon wieder nutzen zu können, müssen Sie es auf Werkszustand zurücksetzen. Wenn Sie Ihr Telefon nach dem Reset eingestellt haben, haben Sie die Möglichkeit, alle Daten, die auf Ihr Google-Konto gesichert wurden, wiederherzustellen."</string>
   <string name="crypt_keeper_data_corrupt_title">Entschlüsselung fehlgeschlagen</string>
   <string name="crypt_keeper_desc">"Sie können Ihre Konten, Einstellungen, heruntergeladenen Apps mit den dazugehörigen Daten sowie Multimedia- und andere Dateien verschlüsseln. Nach der Verschlüsselung Ihres Geräts ist bei jedem Einschalten die Eingabe einer PIN-Nummer oder eines Passworts erforderlich. Sie können die Verschlüsselung Ihres Geräts nur aufheben, indem Sie das Gerät auf die Werkseinstellungen zurücksetzen. Dabei werden alle Ihre Daten gelöscht.
 
@@ -924,13 +924,13 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="default_sound">Standard Ton</string>
   <string name="default_usb_mode">USB Verbindung</string>
   <string name="delete">Löschen</string>
-  <string name="delete_backup_process">Löschen...</string>
-  <string name="delete_backup_title">Backup löschen</string>
-  <string name="delete_failed_backup_confirm">Dieses Backup ist fehlerhaft.</string>
-  <string name="delete_fingerprint_confirm_msg">Fingerabdruck löschen?</string>
-  <string name="delete_fingerprint_text">Fingerabdruck löschen</string>
+  <string name="delete_backup_process">wird gelöscht...</string>
+  <string name="delete_backup_title">Sicherung löschen</string>
+  <string name="delete_failed_backup_confirm">Dieses Sicherung ist fehlerhaft.</string>
+  <string name="delete_fingerprint_confirm_msg">Fingerabdruck entfernen?</string>
+  <string name="delete_fingerprint_text">Fingerabdruck entfernen</string>
   <string name="delete_legacy_fingerprint">Löschen</string>
-  <string name="delete_or_keep_legacy_passwords_confirm_msg">Fingerabdruckdaten löschen?</string>
+  <string name="delete_or_keep_legacy_passwords_confirm_msg">Fingerabdruckdaten entfernen?</string>
   <string name="deny">Ablehnen</string>
   <string name="deny_sms_message">Installierten Apps das Senden von SMS verbieten</string>
   <string name="deny_sms_title">SMS sperren</string>
@@ -964,7 +964,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="device_memory">Arbeitsspeicher</string>
   <string name="device_miui_version">MIUI-Version</string>
   <string name="device_name">Gerätename</string>
-  <string name="device_name_input_error">Gerätename speichern fehlgeschlagen.</string>
+  <string name="device_name_input_error">Gerätename konnte nicht gespeichert werden</string>
   <string name="device_name_input_hint">Name eingeben</string>
   <string name="device_name_usage_point">Dieser Name wird bei Bluetooth Verbindungen, Tethering, usw angezeigt.</string>
   <string name="device_picker">Bluetooth-Geräteauswahl</string>
@@ -1221,7 +1221,7 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="findlost_contact">Kontakte wiederherstellen</string>
   <string name="findlost_contact_online">Kontakte aus Mi Cloud wiederherstellen</string>
   <string name="fingerprint_and_password_entrance_title">Passwort &amp; Fingerabdruck</string>
-  <string name="fingerprint_identificating_msg">Fingerabdruck scannen...</string>
+  <string name="fingerprint_identificating_msg">Fingerabdruck wird gescannt…</string>
   <string name="fingerprint_identify_input_password_msg">Passwort eingeben</string>
   <string name="fingerprint_identify_try_again_msg">"Scan fehlgeschlagen, nochmals versuchen?"</string>
   <string name="fingerprint_list_title">Fingerabdruck</string>
