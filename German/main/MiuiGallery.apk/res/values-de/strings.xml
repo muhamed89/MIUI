@@ -755,7 +755,7 @@
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Importierung abgeschlossen</string>
   <string name="import_fail">Importierung fehlgeschlagen</string>
-  <string name="impunity_declaration">Durch die Verwendung dieses Dienstes akzeptieren Sie Xiaomi's %1$s und %2$s. Einige Funktionen erfordern eine Internetverbindung, um normal funktionieren.</string>
+  <string name="impunity_declaration">Durch die Verwendung dieses Dienstes akzeptieren Sie Xiaomi\'s %1$s und %2$s. Einige Funktionen erfordern eine Internetverbindung, um normal funktionieren.</string>
   <string name="impunity_declaration_ignore">Nicht mehr anzeigen</string>
   <string name="impunity_declaration_positive_text">Akzeptieren</string>
   <string name="impunity_declaration_settings">Netzwerkhinweis anzeigen</string>
