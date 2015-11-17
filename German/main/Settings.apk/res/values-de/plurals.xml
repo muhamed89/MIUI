@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="status_bar_settings_disabled_header_title">
+        <item quantity="other">"%s Apps dürfen keine Benachrichtigungen anzeigen"</item>
+        <item quantity="one">"1 App darf keine Benachrichtigungen anzeigen"</item>
+    </plurals>
+    <plurals name="status_bar_settings_enabled_header_title">
+        <item quantity="other">%s Apps dürfen Benachrichtungen anzeigen</item>
+        <item quantity="one">1 App darf Benachrichtigungen anzeigen</item>
+    </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">In %1$d Schritten sind Sie ein Entwickler.</item>
         <item quantity="one">In %1$d Schritt sind Sie ein Entwickler.</item>
