@@ -2714,6 +2714,9 @@ Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerä
   <string name="status_awake_time">Aktivzeit</string>
   <string name="status_bar_and_notification_bar">Benachrichtigungsleiste und Statusleiste</string>
   <string name="status_bar_app_disable_notification">ausblenden</string>
+  <string name="status_bar_app_enable_floating">Schwebende Benachrichtigungen</string>
+  <string name="status_bar_app_enable_keyguard">Sperrbildschirm</string>
+  <string name="status_bar_app_enable_message">einblenden</string>
   <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Sperrbildschirm, Benachrichtigungsblende</string>
   <string name="status_bar_app_enable_on_notificationBar">anzeigen</string>
   <string name="status_bar_key_position_custom">Benutzerdefinierte Tastenposition</string>
@@ -2741,6 +2744,8 @@ Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerä
   <string name="status_bar_settings_notification_sound_vibrate">Ton &amp; Vibration</string>
   <string name="status_bar_settings_show_carrier">Netzanbieter anzeigen</string>
   <string name="status_bar_settings_show_carrier_summary">Nur auf dem Sperrbildschirm anzeigen</string>
+  <string name="status_bar_settings_show_floating_notification">Schwebende Benachrichtigungen</string>
+  <string name="status_bar_settings_show_floating_notification_summary">"Schwebende Benachrichtigungen automatisch ausblenden sobald diese am oberen Bildschirmrand angezeigt wurden."</string>
   <string name="status_bar_settings_show_flow_info">Datenverbrauch anzeigen</string>
   <string name="status_bar_settings_show_home_message">App-Icon Symbol</string>
   <string name="status_bar_settings_show_keyguard_notification">Popup Benachrichtigungen und Sperrbildschirm</string>
