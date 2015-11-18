@@ -62,7 +62,7 @@
   <string name="button_week">W</string>
   <string name="calendar_network_error">Netzwerkfehler</string>
   <string name="calendar_refresh">Aktualisieren</string>
-  <string name="calendar_server_error">Netzwerkfehler</</string>
+  <string name="calendar_server_error">Netzwerkfehler</string>
   <string name="can_not_create_long_event">Ereignisinhalt ist zu lang</string>
   <string name="can_not_modify_allday_event">Ganztägige Ereignisse können nicht verändert werden</string>
   <string name="can_not_modify_event">"Ereignis kann nicht verändert werden"</string>
