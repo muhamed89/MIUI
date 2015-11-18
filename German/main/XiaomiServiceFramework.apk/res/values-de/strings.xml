@@ -68,9 +68,9 @@ Geben Sie die mit Ihrer neuen SIM Karte verknüpften Rufnummer ein, um %s zu rea
   <string name="activate_status_desc_checking_xiaomi_account_server_error">Bei der Prüfung des Mi-Kontos ist ein Serverfehler aufgetreten</string>
   <string name="activate_status_desc_completed_with_sms_sent">Sent SMS to activate SIM</string>
   <string name="activate_status_desc_failed_getting_gateway">Nachricht konnte nicht gesendet werden</string>
-  <string name="activate_status_desc_getting_gateway">Kommuniziere mit dem Server</string>
+  <string name="activate_status_desc_getting_gateway">SMS-Gateway wird abgerufen…</string>
   <string name="activate_status_desc_prepare_sending_sms">Aktivierungs SMS wird vorbereitet</string>
-  <string name="activate_status_desc_query_activation_info">Kommuniziere mit dem Server</string>
+  <string name="activate_status_desc_query_activation_info">Aktivierungsdetails werden abgerufen…</string>
   <string name="activate_status_desc_query_activation_info_downlink_sms_error">Server konnte keine Aktivierungs SMS senden.</string>
   <string name="activate_status_desc_query_activation_info_no_info">Keine Aktivierungs Infos auf dem Server</string>
   <string name="activate_status_desc_query_activation_info_server_error">Da lief was, während der Aktivierung Ihres Kontos, mit dem Server falsch.</string>
