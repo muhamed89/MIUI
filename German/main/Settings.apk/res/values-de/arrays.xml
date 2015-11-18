@@ -542,7 +542,7 @@
     <string-array name="msd_pc_system_retry_linux">
         <item>Installations-Tool: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
         <item>Erstellen Sie folgendes Verzeichnis: mkdir /media/mtp</item>
-        <item>Bestätigen Sie die Benutzergruppen-Rechte in der aktuellen 'fuse user group'</item>
+        <item>"Bestätigen Sie die Benutzergruppen-Rechte in der aktuellen 'fuse user group'"</item>
         <item>Erneut anmelden</item>
         <item>Zugang zum gemounteten Gerät über: mtpfs /media/mtp via Dateimanager; Lokalverzeichnis</item>
         <item>"Gerät entfernen: fusermount -u /media/mtp
