@@ -7,7 +7,7 @@
         <item>Alarm</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
-        <item>Keine Erinnerung</item>
+        <item>Aus</item>
         <item>0 Minuten</item>
         <item>5 Minuten</item>
         <item>10 Minuten</item>
@@ -31,7 +31,7 @@
         <item>10080</item>
     </integer-array>
     <string-array name="preferences_default_reminder_labels">
-        <item>Keine Erinnerung</item>
+        <item>Keine</item>
         <item>0 Minuten</item>
         <item>5 Minuten</item>
         <item>10 Minuten</item>
@@ -55,7 +55,7 @@
         <item>10080</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Gebietsschema</item>
+        <item>Lokaler Standard</item>
         <item>Samstag</item>
         <item>Sonntag</item>
         <item>Montag</item>
@@ -75,7 +75,7 @@
         <item>2.</item>
         <item>3.</item>
         <item>4.</item>
-        <item>Letzten</item>
+        <item>Letzte</item>
     </string-array>
     <string-array name="response_labels1">
         <item>Keine Antwort</item>
@@ -84,7 +84,7 @@
         <item>Nein</item>
     </string-array>
     <string-array name="delete_repeating_labels">
-        <item>Nur dieses Termin</item>
+        <item>Nur dieser Termin</item>
         <item>Dieser und zukünftige Termine</item>
         <item>Alle Termine</item>
     </string-array>
