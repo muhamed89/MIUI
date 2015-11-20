@@ -33,15 +33,15 @@
         <item quantity="other">%s Elemente löschen?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">%s Fotos aus der Cloud löschen?</item>
-        <item quantity="one">%s Foto aus der Cloud löschen?</item>
+        <item quantity="other">%s Fotos aus der Mi Cloud löschen?</item>
+        <item quantity="one">%s Foto aus der Mi Cloud löschen?</item>
     </plurals>
     <plurals name="confirm_delete_has_local_image">
         <item quantity="other">%s Fotos löschen?</item>
         <item quantity="one">%s Foto löschen?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">%s Videos aus der Cloud löschen?</item>
+        <item quantity="other">%s Videos aus der Mi Cloud löschen?</item>
         <item quantity="one">%s Video aus der Mi Cloud löschen?</item>
     </plurals>
     <plurals name="confirm_delete_has_local_video">
@@ -49,12 +49,12 @@
         <item quantity="one">%s Video löschen?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">%s Fotos lokal und aus der Cloud löschen?</item>
-        <item quantity="one">%s Foto lokal und aus der Cloudlöschen?</item>
+        <item quantity="other">%s Fotos lokal und aus der Mi Cloud löschen?</item>
+        <item quantity="one">%s Foto lokal und aus der Mi Cloud löschen?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video">
-        <item quantity="other">%s Videos lokal und aus der Cloud löschen?</item>
-        <item quantity="one">%s Video lokal und aus der Cloud löschen?</item>
+        <item quantity="other">%s Videos lokal und aus der Mi Cloud löschen?</item>
+        <item quantity="one">%s Video lokal und aus der Mi Cloud löschen?</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d ausgewählt</item>
@@ -79,8 +79,8 @@
         <item quantity="one">%d Ordner</item>
     </plurals>
     <plurals name="message_no_delete_access_with_count">
-        <item quantity="other">"Sie haben keine Rechte, um %d Dateien zu löschen."</item>
-        <item quantity="one">"Sie haben keine Rechte, um %d Datei zu löschen."</item>
+        <item quantity="other">Sie haben keine Rechte, um %d Dateien zu löschen</item>
+        <item quantity="one">Sie haben keine Rechte, um %d Datei zu löschen</item>
     </plurals>
     <plurals name="pick_with_limited_upper_bound_title">
         <item quantity="other">Sie können %d Artikel auswählen</item>
