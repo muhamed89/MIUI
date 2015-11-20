@@ -2510,6 +2510,7 @@ Um Screen-Pinning zu nutzen:
   <string name="security_keyguard_category_name">Bildschirmsperre</string>
   <string name="security_password_category_name">Passwort</string>
   <string name="security_passwords_title">Passwörter</string>
+  <string name="security_patch">Android Sicherheitsupdate</string>
   <string name="security_privacy_settings_title">Sicherheit</string>
   <string name="security_relative">Sicherheitsrelevant</string>
   <string name="security_settings_billing_desc">Für diese App können Gebühren anfallen:</string>
