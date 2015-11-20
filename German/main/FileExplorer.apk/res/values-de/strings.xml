@@ -311,6 +311,9 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="notification_wechat_title">Benachrichtigen, wenn WeChat-Video abläuft</string>
   <string name="notify_private_folder_msg">Mehr über Private Ordner.</string>
   <string name="notify_private_folder_title">Schützen Sie ihre Private Dateien</string>
+  <string name="private_toast_hint1">Tippen um Dateien zu einem verteckten Ordner hinzuzufügen</string>
+  <string name="private_toast_hint2">Um eine Datei zu verstecken berühren und halten Sie diese und schieben Sie nun in einen versteckten Ordner.</string>
+  <string name="private_toast_hint3">Nach unten ziehen um versteckte Ordner anzuzeigen</string>
   <string name="online_not_support">"Diese Datei kann im Moment nicht online angezeigt werden."</string>
   <string name="open_changed_file_message">"Datei die Sie öffnen möchten wurde geändert. Sie können:
 1. die Datei erneut runterladen
