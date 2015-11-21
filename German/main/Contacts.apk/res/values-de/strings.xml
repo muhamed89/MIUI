@@ -1050,6 +1050,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="toast_making_personal_copy">Persönliche Kopie wird erstellt…</string>
   <string name="toast_text_copied">Text kopiert</string>
   <string name="today">Heute</string>
+  <string name="transfer_accounts">Konten übertragen</string>
   <string name="type_incoming">Eingehender Anruf</string>
   <string name="type_missed">Entgangener Anruf</string>
   <string name="type_mx_msg">Cloud-Nachrichten</string>
