@@ -58,6 +58,7 @@
   <string name="cache_title_empty_folder">Leerer Ordner (%d)</string>
   <string name="cache_title_empty_folder2">Leerer Ordner</string>
   <string name="cache_title_system_cache">System-Cache</string>
+  <string name="cached_garbage">Cache</string>
   <string name="cancel">Abbrechen</string>
   <string name="clean_content_all">Alles</string>
   <string name="clean_content_one">1 Element</string>
@@ -98,8 +99,10 @@
   <string name="empty_title_installed_apps">Leer</string>
   <string name="empty_title_large_files">Leer</string>
   <string name="empty_title_residual">Keine Reste gefunden</string>
+  <string name="flow_rank_title">Datenverbrauch</string>
   <string name="go_to">Fortfahren</string>
   <string name="goto_set">Einrichten</string>
+  <string name="grabage_rank_title">heute bereinigt</string>
   <string name="header_optimizer">Bei Verwendung dieses Dienstes akzeptieren Sie %s.</string>
   <string name="hint_bar_select_image">%d ausgewählt</string>
   <string name="hint_clean_select_similar_image">Duplikate Löschen…</string>
@@ -283,6 +286,9 @@
   <string name="toast_selecte_group_restore_succeed">Fotos wiederhergestellt</string>
   <string name="toast_uninstall_success">Entfernen abgeschlossen</string>
   <string name="total_clean">Gesamt bereinigt: %s</string>
+  <string name="total_clean_text">Löschen</string>
+  <string name="traffic_top">TOP 5 Datenverbrauch der Apps</string>
+  <string name="unlike">Nein Danke</string>
   <string name="virus_scan">Virenscan</string>
   <string name="white_list_ad_header">Werbung: %d</string>
   <string name="white_list_apk_header">Installationspakete: %d</string>
