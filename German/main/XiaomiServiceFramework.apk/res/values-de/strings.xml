@@ -7,6 +7,7 @@
   <string name="activate_auto_sms_notification_title">SIM-Karten Aktivierung</string>
   <string name="activate_feature_call_log_sync">Anrufliste syncen</string>
   <string name="activate_feature_find_device">Gerät orten</string>
+  <string name="activate_feature_live_talk">Phone Top-up package</string>
   <string name="activate_feature_mms_sync">SMS synchronisieren</string>
   <string name="activate_feature_mx">Mi Nachrichten</string>
   <string name="activate_feature_mx_and_voip">Mi Nachricht und Sprache</string>
