@@ -28,6 +28,8 @@
   <string name="button_text_update">Update</string>
   <string name="cancel_download">Download der Aktualisierung abbrechen?</string>
   <string name="cancel_download_buton_text">Abbrechen</string>
+  <string name="check_local_package_validate_error_button">OK</string>
+  <string name="check_local_package_validate_error_msg">"Updatepaket konnte nicht verifiziert werden"</string>
   <string name="check_new_version">Überprüfe</string>
   <string name="check_update_policy">Einstellungen</string>
   <string name="check_update_when_wifi_available">Überprüfung nur, wenn WLAN-Verbindung besteht</string>
