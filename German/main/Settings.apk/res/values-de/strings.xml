@@ -1173,7 +1173,7 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="erase_application_description">Löscht heruntergeladene Anwendungen</string>
   <string name="erase_data">Löschen</string>
   <string name="erase_external_storage">USB-Speicher löschen</string>
-  <string name="erase_external_storage_description">Alle Daten, z. B. Musik und Fotos, aus dem internen USB-Speicher löschen</string>
+  <string name="erase_external_storage_description">Alle Daten, z.B. Musik und Fotos, aus dem internen USB-Speicher löschen</string>
   <string name="erase_internal_storage">Gespeicherte Inhalte löschen</string>
   <string name="erase_internal_storage_description">Löscht Musik, Fotos, Videos und andere Benutzerdaten.</string>
   <string name="erase_optional">Inhalt</string>
@@ -1409,7 +1409,7 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="intent_sender_sendbroadcast_text">Broadcast senden</string>
   <string name="intent_sender_startactivity_text">Aktivität starten</string>
   <string name="internal_format">Internen Speicher löschen</string>
-  <string name="internal_format_summary">Löscht alle Daten auf den internen Speicher, z. B. Musik und Fotos</string>
+  <string name="internal_format_summary">Löscht alle Daten auf den internen Speicher, z.B. Musik und Fotos</string>
   <string name="internal_media_format_button_text">Internen Speicher löschen</string>
   <string name="internal_media_format_desc">Internen Speicher löschen? Es werden <b>alle</b> gespeicherten Daten gelöscht und das Telefon neugestartet!</string>
   <string name="internal_media_format_final_desc">Internen Speicher und alle darin enthaltenen Daten löschen? Dieser Vorgang kann nicht rückgängig gemacht werden! Das Telefon startet nach Abschluß des Vorgangs neu.</string>
@@ -2444,7 +2444,7 @@ Um Screen-Pinning zu nutzen:
   <string name="sd_ejecting_summary">Trennung...</string>
   <string name="sd_ejecting_title">Trennen...</string>
   <string name="sd_format">SD Karte formatieren</string>
-  <string name="sd_format_summary">Löscht alle Daten, z. B. Musik und Fotos von der SD Karte</string>
+  <string name="sd_format_summary">Löscht alle Daten, z.B. Musik und Fotos von der SD Karte</string>
   <string name="sd_insert_summary">SD Karte für bereitst. einlegen</string>
   <string name="sd_memory">USB-Speicher</string>
   <string name="sd_mount">USB-Speicher bereitst.</string>
