@@ -9,11 +9,11 @@
         <item>Name</item>
     </string-array>
     <string-array name="installed_app_sort_type">
-        <item>Häufig verwendete</item>
+        <item>Häufig verwendet</item>
         <item>Größe</item>
     </string-array>
     <string-array name="auto_clean_time">
-        <item>Jeden Tag</item>
+        <item>Täglich</item>
         <item>Alle 3 Tage</item>
         <item>Alle 7 Tage</item>
     </string-array>
@@ -24,14 +24,14 @@
         <item>1GB</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>Zeigen</item>
+        <item>Anzeigen</item>
         <item>"Nicht anzeigen"</item>
         <item>Danach anzeigen</item>
     </string-array>
     <string-array name="cache_clean_menu">
         <item>Bereinigen</item>
         <item>Datei</item>
-        <item>Ausnahmen</item>
+        <item>Ausnahme</item>
     </string-array>
     <string-array name="empty_floder_clean_menu">
         <item>Bereinigen</item>
@@ -39,13 +39,13 @@
     <string-array name="apk_clean_menu">
         <item>Bereinigen</item>
         <item>Datei</item>
-        <item>Ausnahmen</item>
+        <item>Ausnahme</item>
         <item>Installieren</item>
     </string-array>
     <string-array name="app_clean_menu">
         <item>Details</item>
         <item>Datei</item>
-        <item>Sichern und deinstallieren</item>
-        <item>Deinstallieren</item>
+        <item>Sichern und entfernen</item>
+        <item>Entfernen</item>
     </string-array>
 </resources>
