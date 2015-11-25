@@ -729,7 +729,6 @@
   <string name="retry_download">Wiederholen</string>
   <string name="unknown_title">Unbekannt</string>
   <string name="action_menu_current_version">Aktuelle Version</string>
-  <string name="current_version_pad">Tablett</string>
   <string name="current_version_pc">PC</string>
   <string name="current_version_phone">Smartphone</string>
   <string name="pref_nav_mode_summary_pad">Tablett</string>
