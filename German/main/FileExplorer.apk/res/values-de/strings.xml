@@ -7,7 +7,7 @@
   <string name="add_task">Hinzufügen</string>
   <string name="adding_upload_tasks">Aufgaben hinzufügen…</string>
   <string name="already_liked">Schon in den Favoriten vorhanden</string>
-  <string name="already_signin_description">Sie sind bereits angemeldet.</string>
+  <string name="already_signin_description">Sie sind bereits angemeldet</string>
   <string name="app_name">Dateien</string>
   <string name="app_name_bluetooth">Bluetooth</string>
   <string name="app_name_camera">Kamera</string>
@@ -80,7 +80,7 @@
   <string name="copy_file_to_kuaipan">Datei auf Kuaipan kopieren</string>
   <string name="create_kuaipan_shortcut_pref">Auf Homescreen hinzufügen</string>
   <string name="create_new_folder_desctiption">Erstelle Ordner…</string>
-  <string name="create_new_folder_failed">Ordnererstellung fehlgeschlagen.</string>
+  <string name="create_new_folder_failed">Ordnererstellung fehlgeschlagen</string>
   <string name="create_share_link_description">Erstelle Link…</string>
   <string name="cution">Tipps</string>
   <string name="data_capacity">Daten %1$s</string>
@@ -92,10 +92,10 @@
   <string name="decompress_cancel">Abbrechen</string>
   <string name="decompress_confirm">Entpacken</string>
   <string name="decompress_destination_error">Dateien können nicht hierher entpackt werden</string>
-  <string name="decompress_encrypted_rar_not_supported">Verschlüsselte RAR Dateien werden nicht unterstützt.</string>
+  <string name="decompress_encrypted_rar_not_supported">Verschlüsselte RAR Dateien werden nicht unterstützt</string>
   <string name="decompress_fail">Entpacken fehlgeschlagen. Archiv defekt oder Datei bereits vorhanden.</string>
   <string name="decompress_input_password">Passwort eingeben</string>
-  <string name="decompress_password_error">Das eingegebene Passwort ist falsch.</string>
+  <string name="decompress_password_error">Das eingegebene Passwort ist falsch</string>
   <string name="decompress_success">Entpacken abgeschlossen</string>
   <string name="decompress_title">Entpacken</string>
   <string name="decompress_to">Entpacken nach…</string>
@@ -105,14 +105,14 @@
   <string name="decrypting">Entschlüsseln</string>
   <string name="delete_dialog_button">Löschen</string>
   <string name="delete_error">"Löschen der Dateien fehlgeschlagen. Versuchen Sie es erneut.</string>
-  <string name="delete_failed">Löschen fehlgeschlagen.</string>
+  <string name="delete_failed">Löschen fehlgeschlagen</string>
   <string name="delete_file">Datei löschen?</string>
   <string name="delete_file_error">Datei kann nicht gelöscht werden</string>
   <string name="delete_files">%1$d Dateien löschen?</string>
   <string name="delete_folder">Ordner löschen?</string>
   <string name="delete_folders">%1$d Ordner löschen?</string>
   <string name="delete_selected_tasks">Ausgewählte löschen?</string>
-  <string name="des_running_trans">%1$d Dateien wurden noch nicht übertragen.</string>
+  <string name="des_running_trans">%1$d Dateien wurden noch nicht übertragen</string>
   <string name="dialog_confirm">OK</string>
   <string name="dialog_select_type">Typ auswählen</string>
   <string name="dialog_type_audio">Audio</string>
@@ -121,24 +121,24 @@
   <string name="dialog_type_video">Video</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Leer</string>
-  <string name="dlg_error_unmount_text">USB-Speicher konnte nicht getrennt werden.</string>
+  <string name="dlg_error_unmount_text">USB-Speicher konnte nicht getrennt werden</string>
   <string name="download_current_progress">%1$d%%</string>
   <string name="download_failed">Download fehlgeschlagen</string>
   <string name="download_link_completed">%1$s über KuaiPan geteilt. Zum Ansehen auf folgenden Link drücken:</string>
   <string name="downloaded_sticker_str">Downloaded</string>
   <string name="downloading">Wird geladen</string>
   <string name="downloading_in_3g">Download über 3G…</string>
-  <string name="enable_sd_card">SD-Karte einsetzen oder USB-Massenspeicher ausschalten.</string>
+  <string name="enable_sd_card">SD-Karte einsetzen oder USB-Massenspeicher ausschalten</string>
   <string name="encrypt_error">Dateien können nicht Privat gesetzt werden. Versuchen Sie es erneut.</string>
   <string name="encrypt_prefix">PRIVATE</string>
   <string name="encrypt_success">Alle Dateien auf Privat gesetzt</string>
   <string name="encrypting">Verschlüsseln…</string>
-  <string name="error_filename_too_long">Dateiname ist zu lang.</string>
-  <string name="error_info_cant_send_folder">Dateityp wird nicht unterstützt.</string>
-  <string name="error_open_file_failed_no_app_found">Keine App zum Öffnen dieser Datei gefunden.</string>
+  <string name="error_filename_too_long">Dateiname ist zu lang</string>
+  <string name="error_info_cant_send_folder">Dateityp wird nicht unterstützt</string>
+  <string name="error_open_file_failed_no_app_found">Keine App zum Öffnen dieser Datei gefunden</string>
   <string name="expand_all">Alle</string>
   <string name="extract">Entpacken</string>
-  <string name="fail_to_create_folder">Nicht genug Speicher oder Ordner ist bereits vorhanden.</string>
+  <string name="fail_to_create_folder">Nicht genug Speicher oder Ordner ist bereits vorhanden</string>
   <string name="fail_to_create_folder_unknown">Ordner konnte nicht erstellt werden</string>
   <string name="fail_to_rename">Datei bereits vorhanden.</string>
   <string name="favorite_photo">Foto</string>
@@ -199,7 +199,7 @@
   <string name="kuaipan_delete_success">Foto gelöscht</string>
   <string name="kuaipan_info">KuaiPan-Dateien</string>
   <string name="kuaipan_label">KuaiPan</string>
-  <string name="kuaipan_over_space">Nicht genügend freier Speicher.</string>
+  <string name="kuaipan_over_space">Nicht genügend freier Speicher</string>
   <string name="kuaipan_photo_folder_divider">,</string>
   <string name="kuaipan_photo_locate">Standort %1$s</string>
   <string name="kuaipan_photo_more_folder_count">%1$s</string>
@@ -209,14 +209,14 @@
 "</string>
   <string name="kuaipan_root_fooder">Home</string>
   <string name="kuaipan_tech_support">Anmelden bei kuaipan.cn</string>
-  <string name="load_err">Laden fehlgeschlagen.</string>
+  <string name="load_err">Laden fehlgeschlagen</string>
   <string name="load_more">Mehr anzeigen</string>
   <string name="loading">Wird geladen…</string>
   <string name="local_image">Fotos</string>
   <string name="local_music">Musik</string>
   <string name="local_sticker_str">Lokal</string>
   <string name="local_video">Video</string>
-  <string name="login_reg_content">Speichern von Dateien und Synchronisierung auf mehreren Geräten.</string>
+  <string name="login_reg_content">Speichern von Dateien und Synchronisierung auf mehreren Geräten</string>
   <string name="login_reg_content0">Alle Ihre Inhalte. Wohin Sie auch gehen.</string>
   <string name="make_private">Auf Privat setzen</string>
   <string name="megabyteShort">MB</string>
@@ -275,10 +275,7 @@
   <string name="never_notify_network_connect">"Nicht mehr anzeigen"</string>
   <string name="new_folder_name">Neuer Ordner</string>
   <string name="new_function">Über \"Privater Ordner\"</string>
-  <string name="new_function_info">"\"Privater Ordner\" ist ein neue Funktion in MIUI.
-Sie können Ihre Daten verschlüsseln und Sie an einem sicheren Ort speichern.
-
-Auf der Startseite nach unten wischen, um loszulegen."</string>
+  <string name="new_function_info">"\"Privater Ordner\". Auf der Startseite nach unten wischen, um loszulegen."</string>
   <string name="new_function_str">"WeChat-Sticker können automatisch heruntergeladen werden.
 Laden Sie sie herunter, wann immer Sie wollen
 und verpassen Sie keine Neuen mehr!"</string>
@@ -295,19 +292,19 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="no_network_str">Keine Netzwerkverbindung. Überprüfen und nochmals versuchen.</string>
   <string name="no_recent_files">Keine kürzlich verwendeten Dateien</string>
   <string name="no_tasks">Keine Aufgaben.</string>
-  <string name="no_wifi">Keine WLAN-Verbindung gefunden.</string>
+  <string name="no_wifi">Keine WLAN-Verbindung gefunden</string>
   <string name="no_wifi_hint">Keine Verbindung</string>
   <string name="notif_server_starting">Starte FTP-Server…</string>
   <string name="notif_title">FTP-Server läuft.</string>
   <string name="notification_content_hint">Zum Anzeigen tippen</string>
   <string name="notification_dialog_confirm">OK</string>
-  <string name="notification_dialog_content">Benachrichtigen wenn Dateien in %1$s hinzugefügt oder geändert werden.</string>
+  <string name="notification_dialog_content">Benachrichtigen wenn Dateien in %1$s hinzugefügt oder geändert werden</string>
   <string name="notification_dialog_title">Benachrichtigungen</string>
   <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
   <string name="notification_setting">Benachrichtigungen</string>
   <string name="notification_summary">%1$s unterstützt diese Funtkion nicht</string>
   <string name="notification_title">Benachrichtigen wenn Dateien zu %1$s hinzugefügt werden</string>
-  <string name="notification_wechat_expired_empty">WeChat hat bereits diese Videos gelöscht.</string>
+  <string name="notification_wechat_expired_empty">WeChat hat bereits diese Videos gelöscht</string>
   <string name="notification_wechat_title">Benachrichtigen, wenn WeChat-Video abläuft</string>
   <string name="notify_private_folder_msg">Mehr über Private Ordner.</string>
   <string name="notify_private_folder_title">Schützen Sie ihre Private Dateien</string>
@@ -541,4 +538,12 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="year_month_day_format">MMM dd, yyyy</string>
   <string name="yes">Ja</string>
   <string name="yesterday">Gestern</string>
+  <string name="clean_hint">Tippen, um Speicherplatz freizugeben</string>
+  <string name="private_toast_hint1">Tippen, um die Dateien zum versteckten Ordner hinzufügen</string>
+  <string name="private_toast_hint2">Um eine Datei zu verstecken, drücken und halten Sie drauf und fügen Sie diese dann zu einem versteckten Ordner hinzu</string>
+  <string name="private_toast_hint3">Nach unten ziehen, um versteckte Ordner zu öffnen</string>
+  <string name="encrypt_success_first_five">Erfolgreich verschlüsselt. Ziehen Sie nach unten auf der Startseite des Datei-Explorers, um die Dateien anzuzeigen.</string>
+  <string name="add_private">Dateien zum versteckten Ordner hinzufügen</string>
+  <string name="private_folder_no_file_hints">Halten Sie eine Datei oder einen Ordner, um sie zu verstecken</string>
+  <string name="private_folder_update">Aktualisiere versteckte Ordner</string>
 </resources>
