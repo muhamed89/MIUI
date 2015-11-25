@@ -539,9 +539,6 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="yes">Ja</string>
   <string name="yesterday">Gestern</string>
   <string name="clean_hint">Tippen, um Speicherplatz freizugeben</string>
-  <string name="private_toast_hint1">Tippen, um die Dateien zum versteckten Ordner hinzufügen</string>
-  <string name="private_toast_hint2">Um eine Datei zu verstecken, drücken und halten Sie drauf und fügen Sie diese dann zu einem versteckten Ordner hinzu</string>
-  <string name="private_toast_hint3">Nach unten ziehen, um versteckte Ordner zu öffnen</string>
   <string name="encrypt_success_first_five">Erfolgreich verschlüsselt. Ziehen Sie nach unten auf der Startseite des Datei-Explorers, um die Dateien anzuzeigen.</string>
   <string name="add_private">Dateien zum versteckten Ordner hinzufügen</string>
   <string name="private_folder_no_file_hints">Halten Sie eine Datei oder einen Ordner, um sie zu verstecken</string>
