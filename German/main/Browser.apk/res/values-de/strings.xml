@@ -193,7 +193,7 @@
   <string name="dialog_cannot_resume">Download wurde unterbrochen</string>
   <string name="dialog_confirm_delete_checkbox_message">Datei aus internem Speicher löschen</string>
   <string name="dialog_confirm_delete_downloads_message">%s Aufgaben löschen?</string>
-  <string name="dialog_confirm_delete_the_download_item_message">Diesen Aufgabe löschen?</string>
+  <string name="dialog_confirm_delete_the_download_item_message">Diese Aufgabe löschen?</string>
   <string name="dialog_failed_body">Später nochmals versuchen oder Datei aus der Downloadswarteschlange entfernen??</string>
   <string name="dialog_file_already_exists">"Diese Datei wurde bereits heruntergeladen"</string>
   <string name="dialog_file_missing_body">"Datei nicht gefunden. Vielleicht wurde sie verschoben oder gelöscht?"</string>
