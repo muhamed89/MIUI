@@ -827,7 +827,7 @@
   <string name="unread_string">Konversation ungelesen</string>
   <string name="unsent_messages_in_outbox">%1$s nicht gesendete Nachricht(en) in %2$s</string>
   <string name="unzip_file_failed">Datei konnte nicht entpackt werden</string>
-  <string name="update_date_format_templete">HH:mm aa, dd. MMMM</string>
+  <string name="update_date_format_templete">HH:mm dd.MM.yyyy</string>
   <string name="updated_at">Letzte Aktualisierung: %1$s</string>
   <string name="upload_log">Logs hochladen</string>
   <string name="upload_log_failed">Logs konnten nicht gesendet werden</string>
