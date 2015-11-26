@@ -110,7 +110,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="firewall_network_restrict_notify_message">Einstellungen ändern.</string>
   <string name="firewall_network_restrict_notify_mobile">Mobile Daten</string>
   <string name="firewall_network_restrict_notify_title">%1$s ist es nicht erlaubt sich mit %2$s zu verbinden.</string>
-  <string name="firewall_restrict_android_dialog_content">"Wenn Sie Android die Internetverbindung nicht erlauben, werden einige wichtige Funktionen, wie z.B. WLAN Hotspot, davon betroffen sein."</string>
+  <string name="firewall_restrict_android_dialog_content">"Damit ihr Gerät ordnungsgemäß funktioniert, benötigen einige Android System Apps eine Internetverbindung. Diese Apps verwenden Ihre Datenverbindung und können minimale Kosten verursachen"</string>
   <string name="firewall_restrict_android_dialog_title">Achtung</string>
   <string name="firewall_rule_group_title_mobile">Mobil</string>
   <string name="firewall_rule_group_title_roaming">Daten-Roaming</string>
@@ -199,7 +199,6 @@ Peak: %1$s%2$s verbleibend | %3$s verbraucht"</string>
   <string name="megabyte_per_second">M/s</string>
   <string name="mi_service_app_detail">Datenverbrauchsdetails</string>
   <string name="mi_service_framework">Mi Service Framework</string>
-  <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
   <string name="mi_service_traffic_detail">Framework Details</string>
   <string name="mian_page_primary_txt">Internationales Roaming</string>
   <string name="miuishare_title_more">Mehr</string>
@@ -529,6 +528,7 @@ Ihr monatlich eingestelltes Limit ist %1$s. Dies unterscheidet sich vom dem manu
   <string name="traffic_saving_msg_today">heute gespart</string>
   <string name="traffic_saving_need_optimize">Kann optimiert werden</string>
   <string name="traffic_saving_notification_button_start">Aktivieren</string>
+  <string name="traffic_saving_notify_no_apps_saving">Datenverbrauch reduzieren</string>
   <string name="traffic_saving_notify_start_content">Diesen Monat %s gespart.</string>
   <string name="traffic_saving_notify_start_title">Datenverbrauch reduziert</string>
   <string name="traffic_saving_one_key_optimize">Optimieren, um Datenverbrauch zu reduzieren</string>
