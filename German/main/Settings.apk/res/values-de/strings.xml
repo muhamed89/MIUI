@@ -100,10 +100,9 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
 Stellen Sie sicher, dass Ihr Finger die Innenkante des Sensors bedeckt"</string>
   <string name="add_fingerprint_instruction_msg">Entsperren Sie Ihr Gerät oder verifizieren Sie Zahlungen mit Ihrem Fingerabdruck</string>
   <string name="add_fingerprint_instruction_title">Platzieren Sie Ihren Finger auf dem Sensor</string>
-  <string name="add_fingerprint_move_finger_title">Finger entfernen</string>
   <string name="add_fingerprint_put_finger_edge_msg">Nach dem drücken des Sensor, entfernen Sie den Finger und versuchen es erneut.</string>
   <string name="add_fingerprint_put_finger_msg">Nach dem drücken des Sensor, entfernen Sie den Finger und versuchen es erneut.</string>
-  <string name="add_fingerprint_put_finger_title">Finger platzieren</string>
+  <string name="add_fingerprint_put_finger_title">Finger platzieren und wieder wegnehmen</string>
   <string name="add_fingerprint_text">Fingerabdruck hinzufügen</string>
   <string name="add_fingerprint_toast_text">Legen Sie Ihren Finger jetzt auf den Scanner</string>
   <string name="adding_profile_owner_warning">"Wenn Sie weiter vorgehen, wird Ihr User Konto von Ihrem Administrator verwaltet, der dann auch zugeordneten Daten neben Ihren persönlichen Daten speichern kann.
@@ -1674,6 +1673,9 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="manageapplications_settings_title">Apps verwalten</string>
   <string name="managed_device_admin_title">Arbeit</string>
   <string name="managed_profile_device_admin_info">Um den Zugriff von %1$s auf Ihr Arbeitsprofil zu stoppen, entfernen Sie das Profil in den Einstellungen &gt; Konten</string>
+  <string name="managed_profile_location_category">Arbeitsprofil</string>
+  <string name="managed_profile_location_switch_lockdown">Von Ihrem Unternehmen deaktiviert</string>
+  <string name="managed_profile_location_switch_title">Ort für Ihr Arbeitsprofil</string>
   <string name="managed_profile_not_available_label">"Arbeitsprofil ist noch nicht verfügbar"</string>
   <string name="managed_user_title">Arbeitsprofil</string>
   <string name="manually_add_network">Netzwerk hinzufügen</string>

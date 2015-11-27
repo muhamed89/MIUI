@@ -89,7 +89,7 @@
   <string name="btn_text_quick_cleanup">Bereinigen</string>
   <string name="btn_text_quick_optimize">Optimieren</string>
   <string name="btn_text_quick_scan">Scannen</string>
-  <string name="btn_text_start_check">Prüfen</string>
+  <string name="btn_text_start_check">Überprüfen</string>
   <string name="btn_text_stop">Anhalten</string>
   <string name="btn_text_virus_scan">Scannen</string>
   <string name="button_antivirus">OK</string>
@@ -100,7 +100,7 @@
   <string name="button_text_cancel_optimize">Abbrechen</string>
   <string name="button_text_cleanup">Bereinigen</string>
   <string name="button_text_clear">Löschen</string>
-  <string name="button_text_create_shortcut">Verknüpfung erstellen</string>
+  <string name="button_text_create_shortcut">Verknüpfung aud Startseite erstellen</string>
   <string name="button_text_fix">Beheben</string>
   <string name="button_text_ignore">Ignorieren</string>
   <string name="button_text_ignore_alert_title">Diese Warnung ignorieren?</string>
@@ -112,7 +112,7 @@
   <string name="button_text_reject_timer">Ablehnen (%d)</string>
   <string name="button_text_security">Sicherheit</string>
   <string name="button_text_start_optimize">Prüfen</string>
-  <string name="button_text_uninstall_shortcut">Entfernen</string>
+  <string name="button_text_uninstall_shortcut">Verknüpfung von Startseite entfernen</string>
   <string name="button_text_view">Optimieren</string>
   <string name="button_text_view_power">Anzeigen</string>
   <string name="cache_header_title">%1$d Dateien im Cache löschen um %2$s Speicher frei zu machen</string>
