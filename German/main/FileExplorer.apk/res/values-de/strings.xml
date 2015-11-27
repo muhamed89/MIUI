@@ -64,6 +64,7 @@
   <string name="category_zip">Archive</string>
   <string name="choose_send_type">Methode auswählen</string>
   <string name="choose_upload_location">Zum KuaiPan-Ordner hochladen</string>
+  <string name="clean_hint">Tippen, um Speicherplatz freizugeben</string>
   <string name="clean_message">%1$s Speicherplatz freigegeben</string>
   <string name="clean_title">Dateien älter als 30 Tage löschen</string>
   <string name="clean_trash_box">Papierkorb leeren</string>
@@ -373,6 +374,8 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="port_range">Port muss zwischen 1024-65535 sein</string>
   <string name="private_files">Privat</string>
   <string name="private_folder">Privatordner</string>
+  <string name="private_folder_no_file_hints">Halten Sie eine Datei oder einen Ordner, um sie zu verstecken.</string>
+  <string name="private_folder_update">Aktualisiere versteckte Ordner</string>
   <string name="promot_enctypt_password">Um das Gerät zu entsperren, geben Sie das Passwort ein oder schalten Sie die Kindersicherung aus</string>
   <string name="pull_to_signin">Zum Anmelden nach unten ziehen.</string>
   <string name="qq_not_installed">QQ ist nicht installiert</string>
@@ -540,9 +543,4 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="year_month_day_format">MMM dd, yyyy</string>
   <string name="yes">Ja</string>
   <string name="yesterday">Gestern</string>
-  <string name="clean_hint">Tippen, um Speicherplatz freizugeben</string>
-  <string name="encrypt_success_first_five">Erfolgreich verschlüsselt. Ziehen Sie nach unten auf der Startseite des Datei-Explorers, um die Dateien anzuzeigen.</string>
-  <string name="add_private">Dateien zum versteckten Ordner hinzufügen</string>
-  <string name="private_folder_no_file_hints">Halten Sie eine Datei oder einen Ordner, um sie zu verstecken</string>
-  <string name="private_folder_update">Aktualisiere versteckte Ordner</string>
 </resources>
