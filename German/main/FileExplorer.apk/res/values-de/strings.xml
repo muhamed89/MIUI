@@ -3,6 +3,7 @@
   <string name="account_bind_prompt">Benutzerdaten werden übertragen…</string>
   <string name="action_mode_deselect_all">Keine</string>
   <string name="action_mode_select_all">Alle</string>
+  <string name="add_private">Dateien privatem Ordner hinzufügen</string>
   <string name="add_private_files">Dateien hinzufügen</string>
   <string name="add_task">Hinzufügen</string>
   <string name="adding_upload_tasks">Aufgaben hinzufügen…</string>
@@ -76,7 +77,7 @@
   <string name="confirm_know">OK</string>
   <string name="connect_network_setting_des">Bei einer Internetverbindung nachfragen</string>
   <string name="connection_error">Verbindung fehlgeschlagen</string>
-  <string name="copy_failed">Kopieren fehlgeschlagen</string>
+  <string name="copy_failed">Kopieren fehlgeschlagen, sieht so aus, als wäre der Speicher voll</string>
   <string name="copy_file_to_kuaipan">Datei auf Kuaipan kopieren</string>
   <string name="create_kuaipan_shortcut_pref">Auf Homescreen hinzufügen</string>
   <string name="create_new_folder_desctiption">Erstelle Ordner…</string>
@@ -132,6 +133,7 @@
   <string name="encrypt_error">Dateien können nicht Privat gesetzt werden. Versuchen Sie es erneut.</string>
   <string name="encrypt_prefix">PRIVATE</string>
   <string name="encrypt_success">Alle Dateien auf Privat gesetzt</string>
+  <string name="encrypt_success_first_five">"Erfolgreich verschlüsselt. Auf der Startseite nach unten wischen, um private Dateien anzuzeigen."</string>
   <string name="encrypting">Verschlüsseln…</string>
   <string name="error_filename_too_long">Dateiname ist zu lang</string>
   <string name="error_info_cant_send_folder">Dateityp wird nicht unterstützt</string>
@@ -381,7 +383,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="repair_done">Wiederhergestellt</string>
   <string name="repair_error">"Wiederherstellung fehlgeschlagen"</string>
   <string name="repair_file">Verschlüsselte Dateien wiederherstellen</string>
-  <string name="reset_password">Passwort zurücksetzen</string>
+  <string name="reset_password">Passwort ändern</string>
   <string name="restoring">Wiederherstellen…</string>
   <string name="rlv_last_refreshing_time">Zuletzt gesucht: %1$s</string>
   <string name="rlv_loading_more">Einen Moment…</string>
