@@ -457,7 +457,7 @@
   <string name="mail">E-Mail</string>
   <string name="mail_body_turncated">Diese Email ist zu groß zum laden. Es wird nur ein Teil angezeigt. Vollständige Email am Pc abrufen</string>
   <string name="mail_header_network_not_available">Keine Netzwerkverbindung verfügbar.</string>
-  <string name="mailbox_list_account_selector_combined_view">Kombinierter Ansicht</string>
+  <string name="mailbox_list_account_selector_combined_view">Kombinierte Ansicht</string>
   <string name="mailbox_name_display_drafts">Entwürfe</string>
   <string name="mailbox_name_display_inbox">Posteingang</string>
   <string name="mailbox_name_display_junk">Spam</string>
