@@ -104,7 +104,7 @@
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Dies ist die letzte Registerkarte</string>
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Zum Schliessen nach oben wischen</string>
   <string name="browserFrameFileErrorLabel">Dateifehler</string>
-  <string name="browserFrameFormResubmitLabel" />
+  <string name="browserFrameFormResubmitLabel"/>
   <string name="browserFrameFormResubmitMessage">"Die Seite, welche Sie versuchen anzusehen, enthält Daten, welche schon übermittelt wurden. Wenn Sie die Daten erneut senden, werden vorhergehende Aktionen (z.Bsp.: Suchaufträge oder Kaufe) wiederholt."</string>
   <string name="browserFrameNetworkErrorLabel">Verbindungsproblem</string>
   <string name="cancel">Abbrechen</string>
@@ -143,6 +143,7 @@
   <string name="color_picker_dialog_title">Wähle Farbe</string>
   <string name="color_picker_hue">Schattierung</string>
   <string name="color_picker_saturation">Sättigung</string>
+  <string name="color_picker_value">Value</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
   <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
   <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
@@ -509,6 +510,8 @@
   <string name="pref_ua_string">User Agent</string>
   <string name="pref_version_info">Versionsinfo</string>
   <string name="pref_volume_key_action">Blättern mit den Lautstärketasten</string>
+  <string name="pref_weather_location_summary">"Used by the browser's weather plug-in"</string>
+  <string name="pref_weather_location_title">Weather location</string>
   <string name="private_browsing_warning">Diese Funktionalität wird in dieser Androidversion leider nicht unterstützt.</string>
   <string name="profiler_error_toast">Konnte Profiler nicht starten</string>
   <string name="profiler_no_storage_toast">"Konnte Profiler nicht starten, da der externe Speicher nicht bereit ist"</string>
@@ -562,6 +565,7 @@
   <string name="save_dialog_title">Speichern</string>
   <string name="save_file_already_exist_alert_message">Eine Datei mit dem selben Namen existiert bereits, wollen Sie diese überschreiben?</string>
   <string name="save_file_already_exist_alert_title">Überschreibe Datei?</string>
+  <string name="save_form_data_confirm_message">Turning this feature off may affect usage.</string>
   <string name="save_image_failed">"Bild konnte nicht gespeichert werden"</string>
   <string name="save_image_success">Bild gespeichert</string>
   <string name="save_page_capture_tip">Öffne Nachrichtenleiste um den Screenshot zu sehen.</string>
@@ -601,6 +605,8 @@
   <string name="share_page_text">"Ich genieße 【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">"Die Adresse dieser Seite wird an Xiaomi's Server gesendet, um deren Sicherheit zu prüfen. Sie können diese Funktion jederzeit inden Einstellungen deaktivieren."</string>
   <string name="show_check_security_url_check_tip_dialog_title">Überprüfe URL Sicherheit</string>
+  <string name="show_security_tip_dialog_title">Terms of Service</string>
+  <string name="show_weather_location_getter_tip_dialog_description">Weather services need your location info to provide you with up-to-date weather information in your browser. You can turn this feature off in Settings.</string>
   <string name="sign_in_to" formatted="false">Anmelden zu %s1 \"%s2\"</string>
   <string name="skip_button_label">Überspringen</string>
   <string name="skip_current_version">Überspringe diese Version</string>
@@ -713,6 +719,7 @@
   <string name="video_fragment_name_offine">Offline</string>
   <string name="video_group_noupdates_list">Keine Updates verfügbar</string>
   <string name="video_group_updates_list">Updates</string>
+  <string name="video_history_empty">No history</string>
   <string name="video_project_button">Stop</string>
   <string name="video_project_msg">Video is casting to %s</string>
   <string name="video_project_title">Video casting</string>
