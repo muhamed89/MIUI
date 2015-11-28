@@ -179,8 +179,8 @@
   <string name="current_version_pad">Pad</string>
   <string name="current_version_pc">PC</string>
   <string name="current_version_phone">Smartphone</string>
-  <string name="data_traffic_prompt_change">Die Nutzung Ihrer mobile Datenverbindung zum Anschauen von Videos erhöht Ihren Datenverbrauch. Falls Sie Ihr Datenvolumen überschreiten, kann Ihr Mobilfunkanbieter Ihnen dies in Rechnung stellen.</string>
-  <string name="data_traffic_prompt_message">Die Nutzung Ihrer mobile Datenverbindung zum Anschauen von Videos erhöht Ihren Datenverbrauch. Falls Sie Ihr Datenvolumen überschreiten, kann Ihr Mobilfunkanbieter Ihnen dies in Rechnung stellen.</string>
+  <string name="data_traffic_prompt_change">Die Nutzung der mobilen Datenverbindung zum Anschauen von Videos erhöht Ihren Datenverbrauch. Falls Sie Ihr Datenvolumen überschreiten, kann Ihr Mobilfunkanbieter Ihnen dies in Rechnung stellen.</string>
+  <string name="data_traffic_prompt_message">Die Nutzung der mobilen Datenverbindung zum Anschauen von Videos erhöht Ihren Datenverbrauch. Falls Sie Ihr Datenvolumen überschreiten, kann Ihr Mobilfunkanbieter Ihnen dies in Rechnung stellen.</string>
   <string name="data_traffic_prompt_title">Datenverbrauchswarnung</string>
   <string name="date_picker_dialog_clear">Löschen</string>
   <string name="date_picker_dialog_other_button_label">Andere</string>
