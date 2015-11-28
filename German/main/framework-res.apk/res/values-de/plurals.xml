@@ -88,8 +88,8 @@
         <item quantity="one">WLAN-Netzwerk verfügbar</item>
     </plurals>
     <plurals name="wifi_available_detailed">
-        <item quantity="other">Verfügbare WLAN-Netzwerke öffnen</item>
-        <item quantity="one">Verfügbares WLAN-Netzwerk öffnen</item>
+        <item quantity="other">Offene WLAN-Netzwerke verfügbar</item>
+        <item quantity="one">Offene WLAN-Netzwerke verfügbar</item>
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d von %2$d</item>
