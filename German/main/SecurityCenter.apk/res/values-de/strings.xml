@@ -100,7 +100,7 @@
   <string name="button_text_cancel_optimize">Abbrechen</string>
   <string name="button_text_cleanup">Bereinigen</string>
   <string name="button_text_clear">Löschen</string>
-  <string name="button_text_create_shortcut">Verknüpfung aud Startseite erstellen</string>
+  <string name="button_text_create_shortcut">Verknüpfung aus Startseite erstellen</string>
   <string name="button_text_fix">Beheben</string>
   <string name="button_text_ignore">Ignorieren</string>
   <string name="button_text_ignore_alert_title">Diese Warnung ignorieren?</string>
