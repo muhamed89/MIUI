@@ -4,7 +4,7 @@
         <item>Privat</item>
         <item>Geschäftlich</item>
         <item>Andere</item>
-        <item>Benutzerdefiniert</item>
+        <item>Eigene</item>
     </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
@@ -19,7 +19,7 @@
     <string-array name="organizationTypes">
         <item>Geschäftlich</item>
         <item>Andere</item>
-        <item>Benutzerdefiniert</item>
+        <item>Eigene</item>
     </string-array>
     <string-array name="phoneTypes">
         <item>Privat</item>
@@ -29,18 +29,18 @@
         <item>Fax (privat)</item>
         <item>Pager</item>
         <item>Andere</item>
-        <item>Benutzerdefiniert</item>
+        <item>Eigene</item>
     </string-array>
     <string-array name="postalAddressTypes">
         <item>Privat</item>
         <item>Geschäftlich</item>
         <item>Andere</item>
-        <item>Benutzerdefiniert</item>
+        <item>Eigene</item>
     </string-array>
     <string-array name="imAddressTypes">
         <item>Privat</item>
         <item>Geschäftlich</item>
         <item>Andere</item>
-        <item>Benutzerdefiniert</item>
+        <item>Eigene</item>
     </string-array>
 </resources>
