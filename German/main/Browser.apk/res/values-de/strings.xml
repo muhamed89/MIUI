@@ -143,7 +143,7 @@
   <string name="color_picker_dialog_title">Wähle Farbe</string>
   <string name="color_picker_hue">Schattierung</string>
   <string name="color_picker_saturation">Sättigung</string>
-  <string name="color_picker_value">Value</string>
+  <string name="color_picker_value">Wert</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
   <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
   <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
@@ -301,7 +301,9 @@
   <string name="is_last_tab">Dies ist die letzte Registerkarte</string>
   <string name="is_page_bottom">"Seitenende"</string>
   <string name="is_page_top">"Seitenanfang"</string>
-  <string name="js_dialog_before_unload">"%s Diese Seite verlassen?"</string>
+  <string name="js_dialog_before_unload">"%s
+
+Diese Seite verlassen?"</string>
   <string name="js_dialog_before_unload_negative_button">Bleibe</string>
   <string name="js_dialog_before_unload_positive_button">Verlassen</string>
   <string name="js_dialog_before_unload_title">Confirm Navigation</string>
@@ -510,8 +512,8 @@
   <string name="pref_ua_string">User Agent</string>
   <string name="pref_version_info">Versionsinfo</string>
   <string name="pref_volume_key_action">Blättern mit den Lautstärketasten</string>
-  <string name="pref_weather_location_summary">"Used by the browser's weather plug-in"</string>
-  <string name="pref_weather_location_title">Weather location</string>
+  <string name="pref_weather_location_summary">"Wird von dem Wetter Plugin des Browsers verwendet"</string>
+  <string name="pref_weather_location_title">Wetterstandort</string>
   <string name="private_browsing_warning">Diese Funktionalität wird in dieser Androidversion leider nicht unterstützt.</string>
   <string name="profiler_error_toast">Konnte Profiler nicht starten</string>
   <string name="profiler_no_storage_toast">"Konnte Profiler nicht starten, da der externe Speicher nicht bereit ist"</string>
@@ -565,7 +567,7 @@
   <string name="save_dialog_title">Speichern</string>
   <string name="save_file_already_exist_alert_message">Eine Datei mit dem selben Namen existiert bereits, wollen Sie diese überschreiben?</string>
   <string name="save_file_already_exist_alert_title">Überschreibe Datei?</string>
-  <string name="save_form_data_confirm_message">Turning this feature off may affect usage.</string>
+  <string name="save_form_data_confirm_message">Das Deaktivieren dieser Funktion kann die Anwendung beeinflussen.</string>
   <string name="save_image_failed">"Bild konnte nicht gespeichert werden"</string>
   <string name="save_image_success">Bild gespeichert</string>
   <string name="save_page_capture_tip">Öffne Nachrichtenleiste um den Screenshot zu sehen.</string>
@@ -605,8 +607,8 @@
   <string name="share_page_text">"Ich genieße 【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">"Die Adresse dieser Seite wird an Xiaomi's Server gesendet, um deren Sicherheit zu prüfen. Sie können diese Funktion jederzeit inden Einstellungen deaktivieren."</string>
   <string name="show_check_security_url_check_tip_dialog_title">Überprüfe URL Sicherheit</string>
-  <string name="show_security_tip_dialog_title">Terms of Service</string>
-  <string name="show_weather_location_getter_tip_dialog_description">Weather services need your location info to provide you with up-to-date weather information in your browser. You can turn this feature off in Settings.</string>
+  <string name="show_security_tip_dialog_title">Nutzungsbedingungen</string>
+  <string name="show_weather_location_getter_tip_dialog_description">Der Wetterdienst des Browsers benötigt Ihre Position um Sie mit aktuellen Wetterinfos versorgen zu können. Sie können diese Funktion in den Einstellungen deaktivieren.</string>
   <string name="sign_in_to" formatted="false">Anmelden zu %s1 \"%s2\"</string>
   <string name="skip_button_label">Überspringen</string>
   <string name="skip_current_version">Überspringe diese Version</string>
@@ -719,7 +721,7 @@
   <string name="video_fragment_name_offine">Offline</string>
   <string name="video_group_noupdates_list">Keine Updates verfügbar</string>
   <string name="video_group_updates_list">Updates</string>
-  <string name="video_history_empty">No history</string>
+  <string name="video_history_empty">Keine Verlaufseinträge gefunden</string>
   <string name="video_project_button">Stop</string>
   <string name="video_project_msg">Video is casting to %s</string>
   <string name="video_project_title">Video casting</string>
@@ -735,7 +737,7 @@
   <string name="voice_title_listening">Zuhören…</string>
   <string name="voice_title_please">Sprechen Sie…</string>
   <string name="voice_title_speech_again">"Konnte Sie nicht verstehen"</string>
-  <string name="weather_location_confirm_message">Das Deaktivieren dieser Funktion kann die Bedieung beeinflussen.</string>
+  <string name="weather_location_confirm_message">Das Deaktivieren dieser Funktion kann die Anwendung beeinflussen.</string>
   <string name="webpage_bookmark_title">Lesezeichen</string>
   <string name="webpage_history_title">Verlauf</string>
   <string name="webpage_title">Lesezeichen &amp; Verlauf</string>
