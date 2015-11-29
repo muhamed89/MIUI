@@ -167,7 +167,7 @@
   <string name="cloudfolder_cannot_start_with">"Ordnername darf nicht mit '%s' anfangen"</string>
   <string name="cloudfolder_contain_invalidate_char">"Ordnername darf nicht '%s' enthalten"</string>
   <string name="cloudfolder_fail_to_load_data">Daten konnten nicht geladen werden. Ein Moment warten und erneut versuchen.</string>
-  <string name="cloudfolder_loading_data">(Wird geladen…)</string>
+  <string name="cloudfolder_loading_data">Einen Moment…</string>
   <string name="cloudfolder_name_cannot_empty">Ordnernamen eingeben</string>
   <string name="cloudfolder_name_reserved">Ordnername ist reserviert</string>
   <string name="comfirm_delete_current_album">Dieses Album löschen?</string>

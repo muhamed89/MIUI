@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_album">
-        <item quantity="other">%1$s Alben löschen(%2$s total)?</item>
-        <item quantity="one">Dieses Album löschen(%s total)?</item>
+        <item quantity="other">Lösche %1$s Alben (%2$s total)?</item>
+        <item quantity="one">Lösche %1$s Album (%2$s total)?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
         <item quantity="other">Die ausgewählten Elemente beinhalten Fotos oder Videos in der Mi Cloud, %s Elemente jeweils von diesem Gerät und aus der Mi Cloud löschen?</item>
     </plurals>
-    <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
-        <item quantity="other">Die ausgewählten Elemente beinhalten Fotos in der Mi Cloud, %s Fotos jeweils von diesem Gerät und aus der Mi Cloud löschen?</item>
-        <item quantity="one">Das ausgewählte Element ist ein Foto in der Mi Cloud, das Foto jeweils von diesem Gerät und aus der Mi Cloud löschen?</item>
+    <plurals name="confirm_delete_has_cloud_local_image_from_homepage">        
+		<item quantity="other">"%s Fotos vom internen Speicher und aus der Mi Cloud löschen?"</item>
+        <item quantity="one">"Dieses Foto vom internen Speicher und aus der Mi Cloud löschen?"</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
-        <item quantity="other">Die ausgewählten Elemente beinhalten Videos in der Mi Cloud, %s Videos jeweils von diesem Gerät und aus der Mi Cloud löschen?</item>
-        <item quantity="one">Das ausgewählte Element ist ein Video in der Mi Cloud, das Video jeweils von diesem Gerät und aus der Mi Cloud löschen?</item>
+        <item quantity="other">%s Videos vom internen Speicher und aus der Mi Cloud löschen?</item>
+        <item quantity="one">Das Video vom internen Speicher und aus der Mi Cloud löschen?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
-        <item quantity="other">Die ausgewählten Elemente beinhalten Fotos oder Videos in der Mi Cloud, %s Elemente aus der Mi Cloud löschen?</item>
+        <item quantity="other">%s Elemente aus der Mi Cloud löschen?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_from_homepage">
-        <item quantity="other">Die ausgewählten Elemente beinhalten Fotos in der Mi Cloud, %s Fotos aus der Mi Cloud löschen?</item>
-        <item quantity="one">Das ausgewählte Element ist ein Foto in der Mi Cloud, das Foto aus der Mi Cloud löschen?</item>
+        <item quantity="other">%s Fotos aus der Mi Cloud löschen?</item>
+        <item quantity="one">Dieses Foto aus der Mi Cloud löschen?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video_from_homepage">
-        <item quantity="other">Die ausgewählten Elemente beinhalten Videos in der Mi Cloud, %s Videos aus der Mi Cloud löschen?</item>
-        <item quantity="one">Das ausgewählte Element Video in der Mi Cloud, das Video aus der Mi Cloud löschen?</item>
+        <item quantity="other">%s Videos aus der Mi Cloud löschen?</item>
+        <item quantity="one">Dieses Video aus der Mi Cloud löschen?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_video">
         <item quantity="other">%s Elemente von diesem Album löschen?</item>
@@ -38,7 +38,7 @@
     </plurals>
     <plurals name="confirm_delete_has_local_image">
         <item quantity="other">%s Fotos löschen?</item>
-        <item quantity="one">%s Foto löschen?</item>
+        <item quantity="one">Dieses Foto löschen?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video">
         <item quantity="other">%s Videos aus der Mi Cloud löschen?</item>
@@ -46,16 +46,16 @@
     </plurals>
     <plurals name="confirm_delete_has_local_video">
         <item quantity="other">%s Videos löschen?</item>
-        <item quantity="one">%s Video löschen?</item>
+        <item quantity="one">Dieses Video löschen?</item>
     </plurals>
-    <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">%s Fotos lokal und aus der Mi Cloud löschen?</item>
-        <item quantity="one">%s Foto lokal und aus der Mi Cloud löschen?</item>
-    </plurals>
-    <plurals name="confirm_delete_has_cloud_local_video">
-        <item quantity="other">%s Videos lokal und aus der Mi Cloud löschen?</item>
-        <item quantity="one">%s Video lokal und aus der Mi Cloud löschen?</item>
-    </plurals>
+	<plurals name="confirm_delete_video_from_many_albums">
+         <item quantity="other">%1$d Videos aus %2$d Alben löschen?</item>
+         <item quantity="one">Dieses Video aus %2$d Alben löschen?</item>
+     </plurals>
+     <plurals name="confirm_delete_image_from_many_albums">
+         <item quantity="other">%1$d Fotos aus %2$d Alben löschen?</item>
+         <item quantity="one">Dieses Foto aus %2$d Alben löschen?</item>
+     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d ausgewählt</item>
         <item quantity="zero">%1$d ausgewählt</item>
@@ -80,7 +80,7 @@
     </plurals>
     <plurals name="message_no_delete_access_with_count">
         <item quantity="other">Sie haben keine Rechte, um %d Dateien zu löschen</item>
-        <item quantity="one">Sie haben keine Rechte, um %d Datei zu löschen</item>
+        <item quantity="one">Sie haben keine Rechte, um diese Datei zu löschen</item>
     </plurals>
     <plurals name="pick_with_limited_upper_bound_title">
         <item quantity="other">Sie können %d Artikel auswählen</item>
@@ -101,8 +101,8 @@
         <item quantity="one">1 Sekunde</item>
     </plurals>
     <plurals name="ignore_faces_alert_msg">
-        <item quantity="other">"Zeige diese Gesichter nicht?"</item>
-        <item quantity="one">"Zeige dieses Gesicht nicht?"</item>
+        <item quantity="other">Zeige diese Gesichter nicht?</item>
+        <item quantity="one">Zeige dieses Gesicht nicht?</item>
     </plurals>
     <plurals name="more_face">
         <item quantity="other">%1$s Fotos von %2$s</item>
@@ -145,15 +145,23 @@
         <item quantity="one">1 item waiting to sync</item>
     </plurals>
     <plurals name="number_of_uploading_images">
-        <item quantity="other">Synchronisiere %1$d Fotos…</item>
-        <item quantity="one">Synchronisiere 1 Foto…</item>
+        <item quantity="other">%1$d Fotos werden synchronisiert…</item>
+        <item quantity="one">Foto wird synchronisiert…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
-        <item quantity="other">Synchronisiere %1$d Videos…</item>
-        <item quantity="one">Synchronisiere 1 Video…</item>
+        <item quantity="other">%1$d Videos werden synchronisiert…</item>
+        <item quantity="one">Video wird synchronisiert…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
-        <item quantity="other">Synchronisiere %1$d Artikel…</item>
-        <item quantity="one">Synchronisiere 1 Artikel…</item>
+        <item quantity="other">%1$d Artikel werden synchronisiert…</item>
+        <item quantity="one">1 Artikel wird synchronisiert…</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image">
+        <item quantity="other">%s Fotos lokal und aus der Mi Cloud löschen?</item>
+        <item quantity="one">%s Foto lokal und aus der Mi Cloud löschen?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video">
+        <item quantity="other">%s Videos lokal und aus der Mi Cloud löschen?</item>
+        <item quantity="one">%s Video lokal und aus der Mi Cloud löschen?</item>
     </plurals>
 </resources>
