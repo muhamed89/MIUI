@@ -9,14 +9,14 @@
         <item>Blau</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Standardstartseite</item>
-        <item>Benutzerdefiniert</item>
+        <item>Startseite</item>
+        <item>Anpassen</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
-        <item>Winzig</item>
+        <item>Sehr Klein</item>
         <item>Klein</item>
         <item>Normal</item>
         <item>Groß</item>
-        <item>Riesig</item>
+        <item>Sehr Groß</item>
     </string-array>
 </resources>
