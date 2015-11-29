@@ -100,7 +100,7 @@
   <string name="no_log">Keine Zusammenfassung verfügbar</string>
   <string name="no_wifi_msg">Der Download über das mobile Datennetzwerk wird Ihren Verbrauch deutlich erhöhen. Sollten Sie über keine Internet-Flatrate verfügen, dann könnten zusätzliche Kosten bei Ihrem Betreiber entstehen.</string>
   <string name="no_wifi_title">Datenverbrauch Warnung</string>
-  <string name="not_open">Auschalten</string>
+  <string name="not_open">Ausschalten</string>
   <string name="notification_auto_reboot_seccess_title">Gerät wurde automatisch aktualisiert</string>
   <string name="notification_downloading">Update wird heruntergeladen…</string>
   <string name="notification_load_body_alpha">Laden Sie die neusten Updates für Ihr Gerät herunter</string>
