@@ -110,7 +110,7 @@ Der Energiesparmodus endet automatisch, wenn Ihr Gerät aufgeladen wird."</strin
   <string name="bugreport_message">Bei diesem Fehlerbericht werden Daten zum aktuellen Status Ihres Geräts erfasst und als E-Mail versandt. Vom Start des Berichts bis zu seinem Versand kann es eine Weile dauern. Bitte haben Sie etwas Geduld.</string>
   <string name="bugreport_title">Fehlerbericht abrufen</string>
   <string name="byteShort">B</string>
-  <string name="cancel">Abbrechen</string>
+  <string name="cancel">Abbruch</string>
   <string name="candidates_style"><u>Kandidaten</u></string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">Skripts können installiert werden, um den Zugriff auf App-Inhalte zu erleichtern.</string>
   <string name="capability_desc_canRequestFilterKeyEvents">Einschließlich personenbezogener Daten wie Kreditkartennummern und Passwörter.</string>
@@ -151,12 +151,12 @@ mit %s erstellen"</string>
   <string name="data_usage_3g_limit_title">2G-/3G-Datenlimit erreicht</string>
   <string name="data_usage_4g_limit_snoozed_title">4G-Datenlimit überschritten</string>
   <string name="data_usage_4g_limit_title">4G-Datenlimit erreicht</string>
-  <string name="data_usage_limit_body">Daten für restl. Zeitraum deakt.</string>
+  <string name="data_usage_limit_body">Zum Aktivieren berühren</string>
   <string name="data_usage_limit_snoozed_body">%s über dem vorgegebenen Limit</string>
-  <string name="data_usage_mobile_limit_snoozed_title">Mobilfunkdatenlimit überschritten</string>
-  <string name="data_usage_mobile_limit_title">Mobilfunkdatenlimit erreicht</string>
+  <string name="data_usage_mobile_limit_snoozed_title">Mobildatenlimit überschritten</string>
+  <string name="data_usage_mobile_limit_title">Mobildatenlimit erreicht</string>
   <string name="data_usage_restricted_body">Beschränkung durch Berühren entfernen</string>
-  <string name="data_usage_restricted_title">Hintergrunddaten beschränkt</string>
+  <string name="data_usage_restricted_title">Hintergrunddaten eingeschränkt</string>
   <string name="data_usage_warning_body">Für Verbrauch/Einstell. berühren</string>
   <string name="data_usage_warning_title">Warnung zum Datenverbrauch</string>
   <string name="data_usage_wifi_limit_snoozed_title">WLAN-Datenlimit überschritten</string>
@@ -378,15 +378,15 @@ Möchten Sie diese Seite wirklich verlassen?"</string>
   <string name="keyguard_accessibility_camera">Kamera</string>
   <string name="keyguard_accessibility_expand_lock_area">Entsperr-Bereich maximieren</string>
   <string name="keyguard_accessibility_face_unlock">Face Unlock</string>
-  <string name="keyguard_accessibility_password_unlock">Entsperrung mit Passwort</string>
+  <string name="keyguard_accessibility_password_unlock">Entsperrung mit Kennwort</string>
   <string name="keyguard_accessibility_pattern_area">Bereich für Muster</string>
   <string name="keyguard_accessibility_pattern_unlock">Entsperrung mit Muster</string>
   <string name="keyguard_accessibility_pin_unlock">Entsperrung mit PIN</string>
   <string name="keyguard_accessibility_slide_area">Bereich für Fingerbewegung</string>
   <string name="keyguard_accessibility_slide_unlock">Entsperrung mit Fingerbewegung</string>
   <string name="keyguard_accessibility_status">Status</string>
-  <string name="keyguard_accessibility_unlock_area_collapsed">Entsperr-Bereich mminimiert</string>
-  <string name="keyguard_accessibility_unlock_area_expanded">Entsperr-Bereich maximiert</string>
+  <string name="keyguard_accessibility_unlock_area_collapsed">Entsperrbereich mminimiert</string>
+  <string name="keyguard_accessibility_unlock_area_expanded">Entsperrbereich maximiert</string>
   <string name="keyguard_accessibility_user_selector">Nutzerauswahl</string>
   <string name="keyguard_accessibility_widget">Widget %1$s</string>
   <string name="keyguard_accessibility_widget_changed">%1$s. Widget %2$d von %3$d.</string>
@@ -395,7 +395,7 @@ Möchten Sie diese Seite wirklich verlassen?"</string>
   <string name="keyguard_accessibility_widget_reorder_end">Neuordnung der Widgets abgeschlossen</string>
   <string name="keyguard_accessibility_widget_reorder_start">Neuordnung der Widgets gestartet</string>
   <string name="keyguard_label_text">Drücken Sie zum Entsperren die Menütaste und dann auf \"0\".</string>
-  <string name="keyguard_password_enter_password_code">Passwort zum Entsperren eingeben</string>
+  <string name="keyguard_password_enter_password_code">Kennwort zum Entsperren eingeben</string>
   <string name="keyguard_password_enter_pin_code">PIN-Code eingeben</string>
   <string name="keyguard_password_enter_pin_password_code">PIN zum Entsperren eingeben</string>
   <string name="keyguard_password_enter_pin_prompt">Neuer PIN-Code</string>
@@ -419,12 +419,12 @@ Möchten Sie diese Seite wirklich verlassen?"</string>
 Besuchen Sie "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="kg_login_checking_password">Konto wird geprüft…</string>
   <string name="kg_login_instructions">Melden Sie sich zum Entsperren mit Ihrem Google-Konto an.</string>
-  <string name="kg_login_invalid_input">Ungültiger Nutzername oder ungültiges Passwort</string>
-  <string name="kg_login_password_hint">Passwort</string>
+  <string name="kg_login_invalid_input">Ungültiger Nutzername oder ungültiges Kennwort</string>
+  <string name="kg_login_password_hint">Kennwort</string>
   <string name="kg_login_submit_button">Anmelden</string>
   <string name="kg_login_too_many_attempts">Zu viele Musterversuche</string>
   <string name="kg_login_username_hint">Nutzername (E-Mail)</string>
-  <string name="kg_password_instructions">Passwort eingeben</string>
+  <string name="kg_password_instructions">Kennwort eingeben</string>
   <string name="kg_password_wrong_pin_code">Falscher PIN-Code</string>
   <string name="kg_pattern_instructions">Muster zeichnen</string>
   <string name="kg_pin_instructions">PIN eingeben</string>
@@ -513,10 +513,12 @@ Besuchen Sie "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_permanent_disabled_sim_message_short">SIM-Karte unbrauchbar</string>
   <string name="lockscreen_plugged_in">Wird aufgeladen... (%d %%)</string>
   <string name="lockscreen_return_to_call">Zurück zum Anruf</string>
-  <string name="lockscreen_screen_locked">Display gesperrt</string>
+  <string name="lockscreen_screen_locked">Bildschirm gesperrt</string>
   <string name="lockscreen_sim_locked_message">PIN eingeben</string>
-  <string name="lockscreen_sim_puk_locked_instructions">Weitere Informationen erhalten Sie im Nutzerhandbuch oder beim Kundendienst.</string>
-  <string name="lockscreen_sim_puk_locked_message">PUK-Sperre auf SIM</string>
+  <string name="lockscreen_sim_puk_locked_instructions">PIN1 gesperrt. Bitte PUK1 eingeben.
+oder
+ Weitere Informationen erhalten Sie im Nutzerhandbuch oder beim Kundendienst.</string>
+  <string name="lockscreen_sim_puk_locked_message">SIM-Karte ist gesperrt. PUK-Eingabe erforderlich.</string>
   <string name="lockscreen_sim_unlock_progress_dialog_message">SIM-Karte wird entsperrt...</string>
   <string name="lockscreen_sound_off_label">Ton aus</string>
   <string name="lockscreen_sound_on_label">Ton ein</string>
@@ -540,8 +542,8 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="lockscreen_unlock_label">Entsperren</string>
   <string name="low_internal_storage_view_text">Einige Systemfunktionen funktionieren möglicherweise nicht.</string>
   <string name="low_internal_storage_view_text_no_boot">Der Speicherplatz reicht nicht für das System aus. Stellen Sie sicher, dass 250 MB freier Speicherplatz vorhanden ist, und starten Sie das Gerät dann neu.</string>
-  <string name="low_internal_storage_view_title">Der Speicherplatz wird knapp</string>
-  <string name="low_memory">Der Handyspeicher ist voll! Löschen Sie Dateien, um Speicherplatz freizugeben.</string>
+  <string name="low_internal_storage_view_title">Speicherplatz neigt sich dem Ende</string>
+  <string name="low_memory">Der Telefonspeicher ist voll. Löschen Sie Dateien, um Speicherplatz freizugeben.</string>
   <string name="managed_profile_label">Geschäftlich</string>
   <string name="managed_profile_label_badge">%1$s (geschäftlich)</string>
   <string name="me">Eigene</string>
@@ -630,8 +632,8 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="mediasize_japanese_kaku2">Kaku2</string>
   <string name="mediasize_japanese_oufuku">Oufuku</string>
   <string name="mediasize_japanese_you4">You4</string>
-  <string name="mediasize_na_foolscap">Foolscap</string>
-  <string name="mediasize_na_gvrnmt_letter">Government Letter</string>
+  <string name="mediasize_na_foolscap">Kanzleipapier</string>
+  <string name="mediasize_na_gvrnmt_letter">Regierungsschreiben</string>
   <string name="mediasize_na_index_3x5">Karteikarte 3x5</string>
   <string name="mediasize_na_index_4x6">Karteikarte 4x6</string>
   <string name="mediasize_na_index_5x8">Karteikarte 5x8</string>
