@@ -111,6 +111,6 @@
     <string-array name="answer">
         <item>"Dein Gerät kann sich nur mit Mi TV, Mi Box und einer Handvoll anderer Android-Geräte per WLAN verbinden."</item>
         <item>"Achten Sie darauf während des Pairing-Prozesses A/C auszuwählen. Folgen Sie den Anweisungen auf dem Gerät, bis die Anmeldung abgeschlossen ist."</item>
-        <item>Leider unterstützt im Moment nur Mi 4 Infrarotsteuerung.</item>
+        <item>Nein. Derzeit können nur Mi 4, Mi 4c und Redmi Note 2 als Infrarotfernbedienung verwendet werden</item>
     </string-array>
 </resources>
