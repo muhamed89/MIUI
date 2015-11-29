@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_album">
-        <item quantity="other">Lösche %1$s Alben (%2$s total)?</item>
-        <item quantity="one">Lösche %1$s Album (%2$s total)?</item>
+        <item quantity="other">%1$s Alben löschen (%2$s total)?</item>
+        <item quantity="one">Dieses Album löschen (%2$s total)?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
         <item quantity="other">Die ausgewählten Elemente beinhalten Fotos oder Videos in der Mi Cloud, %s Elemente jeweils von diesem Gerät und aus der Mi Cloud löschen?</item>
