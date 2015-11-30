@@ -222,6 +222,10 @@
   <string name="not_buy_vip">Kein VIP</string>
   <string name="not_exist_openid">Kontoinformation wird geladen, bitte warten...</string>
   <string name="not_login">Nicht angemeldet</string>
+  <string name="notification_default_title">Offline Video</string>
+  <string name="notification_sub_title">%d Download(s) abgeschlossen</string>
+  <string name="notification_ticker_text">Offline Video Download Abschluss</string>
+  <string name="notification_title">\"%s\" Download Abschluss</string>
   <string name="nowifi_alert_dialog_continue">OK</string>
   <string name="nowifi_alert_dialog_exit">Abbrechen</string>
   <string name="nowifi_alert_dialog_message">"Das Streaming von Videos mit der mobilen Datenverbindung kann zu erhöhten Kosten führen."</string>
