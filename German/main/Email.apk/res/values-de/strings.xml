@@ -246,10 +246,11 @@
   <string name="confirm_send_message_with_no_body">Diese Nachricht ist leer.</string>
   <string name="confirm_send_message_with_no_subject">"Diese Nachricht hat keinen Betreff."</string>
   <string name="confirm_send_title">Nachricht senden?</string>
-  <string name="contact_edit_set_black_list">Sperrliste einrichten</string>
-  <string name="contact_edit_set_black_list_from">Alle E-Mails von diesem Absender löschen</string>
-  <string name="contact_edit_set_black_list_receive">Alle E-Mails mit diesem Empfänger löschen</string>
+  <string name="contact_edit_set_black_list_filtering">Filtern...</string>  
+  <string name="contact_edit_set_black_list_from">Alle E-Mails von diesem Absender in den Junk Ordner verschieben</string>
+  <string name="contact_edit_set_black_list_receive">Alle E-Mails mit diesem Empfänger in den Junk Ordner verschieben (nur neue Mails)</string>
   <string name="contact_edit_set_black_list_receive_summary">Alle E-Mails mit diesem Empfänger im An/Cc Feld löschen</string>
+  <string name="contact_edit_set_black_list_title">Schwarze Liste einrichten</string>
   <string name="contact_edit_set_phone_contact">Telefonkontakte bearbeiten</string>
   <string name="contact_edit_title_phone_contact">Kontaktliste</string>
   <string name="contact_in_filter_call_phone_str">anrufen: %s</string>
@@ -354,6 +355,7 @@
   <string name="exchange_name">Microsoft Exchange</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
   <string name="expand_recipient_details">Empfängerdetails erweitern</string>
+  <string name="fail_get_email_message">Nachricht Laden fehlgeschlagen.</string>
   <string name="failed">Bild kann nicht geladen werden</string>
   <string name="feedback">Feedback senden</string>
   <string name="feedback_body">Nachricht</string>
@@ -373,6 +375,8 @@
   <string name="folder_junk_name_cn0">Spam-Ordner</string>
   <string name="folder_junk_name_cn1">Papierkorb</string>
   <string name="folder_junk_name_en0">Papierkorb</string>
+  <string name="folder_junk_name_en2">Junk Mail</string>
+  <string name="folder_junk_name_en3">Junk E-Mail</string>
   <string name="folder_junk_name_en1">Massenversand</string>
   <string name="folder_list_display_all">Alle Ordner anzeigen</string>
   <string name="folder_list_display_only_import">Nur wichtige Ordner anzeigen</string>

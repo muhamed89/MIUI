@@ -3,7 +3,7 @@
   <string name="account_bind_prompt">Benutzerdaten werden übertragen…</string>
   <string name="action_mode_deselect_all">Keine</string>
   <string name="action_mode_select_all">Alle</string>
-  <string name="add_private">Dateien privatem Ordner hinzufügen</string>
+  <string name="add_private">Dateien jetzt verbergen</string>
   <string name="add_private_files">Dateien hinzufügen</string>
   <string name="add_task">Hinzufügen</string>
   <string name="adding_upload_tasks">Aufgaben hinzufügen…</string>
@@ -84,6 +84,12 @@
   <string name="create_new_folder_desctiption">Erstelle Ordner…</string>
   <string name="create_new_folder_failed">Ordnererstellung fehlgeschlagen</string>
   <string name="create_share_link_description">Erstelle Link…</string>
+  <string name="create_shortcut_cancel">Nein</string>
+  <string name="create_shortcut_checkbox_hint">"Nicht wieder anzeigen"</string>
+  <string name="create_shortcut_confirm">Erstellen</string>
+  <string name="create_shortcut_message">Verknüpfung am Startbildschirm erstellen?</string>
+  <string name="create_shortcut_success">Verknüpfung erstellt</string>
+  <string name="create_shortcut_title">Verknüpfung erstellen?</string>
   <string name="cution">Tipps</string>
   <string name="data_capacity">Daten %1$s</string>
   <string name="data_consumption_cancel">Beenden</string>
@@ -134,7 +140,7 @@
   <string name="encrypt_error">Dateien können nicht Privat gesetzt werden. Versuchen Sie es erneut.</string>
   <string name="encrypt_prefix">PRIVATE</string>
   <string name="encrypt_success">Alle Dateien auf Privat gesetzt</string>
-  <string name="encrypt_success_first_five">"Erfolgreich verschlüsselt. Auf der Startseite nach unten wischen, um private Dateien anzuzeigen."</string>
+  <string name="encrypt_success_first_five">"Datei verschlüsselt und verborgen. Auf der Startseite nach unten wischen, um private Dateien anzuzeigen."</string>
   <string name="encrypting">Verschlüsseln…</string>
   <string name="error_filename_too_long">Dateiname ist zu lang</string>
   <string name="error_info_cant_send_folder">Dateityp wird nicht unterstützt</string>
@@ -369,13 +375,13 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="partial_repair_done">Einige Dateien erfolgreich wiederhergestellt</string>
   <string name="paused">Angehalten</string>
   <string name="petabyteShort">PB</string>
-  <string name="phone">Telefon</string>
+  <string name="phone">Interner Speicher</string>
   <string name="pick_folder">Ordner auswählen</string>
   <string name="port_range">Port muss zwischen 1024-65535 sein</string>
   <string name="private_files">Privat</string>
   <string name="private_folder">Privatordner</string>
-  <string name="private_folder_no_file_hints">Halten Sie eine Datei oder einen Ordner, um sie zu verstecken.</string>
-  <string name="private_folder_update">Aktualisiere versteckte Ordner</string>
+  <string name="private_folder_no_file_hints">Keine versteckten Dateien.</string>
+  <string name="private_folder_update">Versteckte Dateien aktualisieren…</string>
   <string name="promot_enctypt_password">Um das Gerät zu entsperren, geben Sie das Passwort ein oder schalten Sie die Kindersicherung aus</string>
   <string name="pull_to_signin">Zum Anmelden nach unten ziehen.</string>
   <string name="qq_not_installed">QQ ist nicht installiert</string>

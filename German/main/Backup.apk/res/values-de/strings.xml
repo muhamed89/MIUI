@@ -243,9 +243,20 @@
   <string name="trans_detail_category_sysdata">Systemdaten</string>
   <string name="trans_detail_category_userdata">Apps</string>
   <string name="trans_device_disconnected">">Gerät getrennt</string>
+  <string name="trans_generate_qr_code_failed">"QR Code konnte nicht erstellt werden"</string>
   <string name="trans_main_tutor">Kontakte, Anrufverlauf, Nachrichten, Bildschirmlayout, Apps, Einstellungen, usw. auf eine neues Gerät übertragen</string>
   <string name="trans_my_device">Mein Gerät</string>
   <string name="trans_one_key_migrate">Übertragung</string>
+  <string name="trans_operate_new_phone_tips">"QR Code mit neuem Gerät scannen
+Gehen Sie zu Einstellungen > weitere Einstellungen > Transfer
+ [Ich bin Empfänger] antippen, um QR Code zu erstellen"</string>
+  <string name="trans_operate_old_phone_tips1">"Methode A
+1. Installiren Sie die Transfer App auf Ihrem alten Gerät
+2. App öffnen und [Ich bin Sender] antippen
+3. QR Code mit dem alten Gerät scannen"</string>
+  <string name="trans_operate_old_phone_tips2">"Methode B
+Gehen Sie zu Einstellungen > weitere Einstellungen > Transfer
+ [Ich bin Sender] antippen"</string>
   <string name="trans_progress_subdescript_br_receiver">Empfange %s</string>
   <string name="trans_progress_subdescript_br_sender">Sichere %s</string>
   <string name="trans_progress_subdescript_transing_receiver">Empfange %s</string>
@@ -257,6 +268,8 @@
   <string name="trans_receiving_completed">Daten empfangen</string>
   <string name="trans_restoring">Wiederherstellen…</string>
   <string name="trans_restoring_no_items">Elemente synchronisieren</string>
+  <string name="trans_scan_invalid_qrcode">QR Code ungültig</string>
+  <string name="trans_scan_qr_code_tips">QR Code mit Ihrem neuen Gerät scannen</string>
   <string name="trans_select_device_receive">Wählen Sie ein Gerät, um Daten zu empfangen.</string>
   <string name="trans_select_device_send">Wählen Sie ein Gerät um Daten zu senden.</string>
   <string name="trans_sender">"Ich bin ein Sender"</string>
@@ -265,6 +278,7 @@
   <string name="trans_sender_searching_ensurance">"Stelle sicher, das dein altes Gerät eingeschaltet ist
 Warte auf das altes Gerät eine Verbindung herzustellen"</string>
   <string name="trans_sending_completed">Daten senden</string>
+  <string name="trans_show_qr_code_tips">QR Code mit Ihrem alten Gerät scannen</string>
   <string name="trans_time_format_second">weniger als einer Minute</string>
   <string name="trans_time_remained">, fertig in</string>
   <string name="trans_waiting_ensurance">"Stelle sicher, das dein altes Gerät eingeschaltet ist
