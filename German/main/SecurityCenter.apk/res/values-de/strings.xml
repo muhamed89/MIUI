@@ -71,7 +71,7 @@
   <string name="battery_history_seconds">%1$ds</string>
   <string name="battery_stats_charging_label">Aufladen</string>
   <string name="battery_stats_gps_on_label">GPS</string>
-  <string name="battery_stats_on_battery">%1$s verbleiben</string>
+  <string name="battery_stats_on_battery">%1$s verbleibend</string>
   <string name="battery_stats_phone_signal_label">Mobilfunksignal</string>
   <string name="battery_stats_screen_on_label">Bildschirm</string>
   <string name="battery_stats_wake_lock_label">Aufwachen</string>
@@ -266,6 +266,7 @@
   <string name="menu_text_networkassistants_remain">%s verbleiben</string>
   <string name="menu_text_power_manager">Energieverwaltung</string>
   <string name="menu_text_power_percent">%s Akku</string>
+  <string name="menu_text_power_percent_title">Akku %s</string>
   <string name="month_report_month_report_switch">Monatsbericht anzeigen</string>  
   <string name="never">1 Mal</string>
   <string name="notification_button_text_of_low_memory">Bereinigen</string>
@@ -300,7 +301,7 @@
   <string name="power_center_auto_shutdown">Wechseln</string>
   <string name="power_center_auto_shutdown_summary">Zeit zum Ausschalten oder Starten</string>
   <string name="power_center_battery_full">Akku ist voll aufgeladen</string>
-  <string name="power_center_charge_time">Aufladen fertig in %1$s</string>
+  <string name="power_center_charge_time">Aufgeladen in %1$s</string>
   <string name="power_center_consume_rank">Akkuverbrauch</string>
   <string name="power_center_consume_time">%1$s verbleibend</string>
   <string name="power_center_custom_summary_default">Optimierte Einstellungen spart Energie</string>
