@@ -4,11 +4,9 @@
   <string name="notification_missedCallsMsg">%s entgangene Anrufe</string>
   <string name="notification_missedCallTicker">Entgangener Anruf von %s</string>
   <string name="notification_missedCallTitle">Entgangener Anruf</string>
-  <string name="Lch_dtmf_key">D</string>
   <string name="accessibility_call_muted">Gespräch stummgeschaltet.</string>
   <string name="accessibility_speakerphone_enabled">Freipsrecher eingeschaltet.</string>
   <string name="add_vm_number_str">Nummer hinzufügen</string>
-  <string name="default_connection_manager_component"/>
   <string name="handle_restricted">RESTRICTED</string>
   <string name="headset_plugin_view_text">Headset ist angesteckt.</string>
   <string name="headset_plugin_view_title">Headset</string>
