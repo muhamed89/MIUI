@@ -2444,11 +2444,11 @@ Um Screen-Pinning zu nutzen:
   <string name="sd_eject_summary">SD Karte auswerfen</string>
   <string name="sd_ejecting_summary">Trennung...</string>
   <string name="sd_ejecting_title">Trennen...</string>
-  <string name="sd_format">SD Karte formatieren</string>
-  <string name="sd_format_summary">Löscht alle Daten, z.B. Musik und Fotos von der SD Karte</string>
-  <string name="sd_insert_summary">SD Karte für bereitst. einlegen</string>
+  <string name="sd_format">USB-Speicher löschen</string>
+  <string name="sd_format_summary">Löscht alle Daten, z. B. Musik und Fotos, aus dem internen USB-Speicher</string>
+  <string name="sd_insert_summary">USB-Speicher für Bereitstellung einlegen</string>
   <string name="sd_memory">USB-Speicher</string>
-  <string name="sd_mount">USB-Speicher bereitst.</string>
+  <string name="sd_mount">USB-Speicher bereitstellen</string>
   <string name="sd_mount_summary" />
   <string name="sdcard_changes_instructions">Die Änderungen werden nach dem erneuten Anschließen des USB-Kabels übernommen.</string>
   <string name="sdcard_format">USB-Speicher löschen</string>
@@ -3044,7 +3044,7 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="usb_format_summary">Löscht alle Daten auf dem USB-Speicher, wie z.B. Musik und Fotos</string>
   <string name="usb_host_mode_subtext">Für die Verwendung von Game-Controller und anderen Geräten über den USB-Anschluss. Die Laufzeit des Akkus wird verringert</string>
   <string name="usb_host_mode_text">USB Hostmodus einschalten</string>
-  <string name="usb_insert_summary">Legen Sie ein USB-Speicher ein, um es zu mounten</string>
+  <string name="usb_insert_summary">Legen Sie einen USB-Speicher ein, um ihn zu mounten</string>
   <string name="usb_label_installer_cd">Installieren Sie Datentransfer-Tools</string>
   <string name="usb_media_format_button_text">USB-Speicher löschen</string>
   <string name="usb_media_format_desc">Wollen Sie den USB-Speicher löschen? Sie werden &lt;b&gt;alle&lt;/b&gt; Daten auf dem Speicher verlieren!</string>
