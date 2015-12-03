@@ -15,7 +15,7 @@
   <string name="backup_preference_title">Thema sichern</string>
   <string name="backup_theme_dialog_message">Aktuelles Thema sichern?</string>
   <string name="backup_theme_dialog_ok">Sichern</string>
-  <string name="backup_theme_fail_trial_rights_message">"Ressourcen von Testversionen können nicht gesichert werden"</string>
+  <string name="backup_theme_fail_trial_rights_message">"Test-Themen können nicht gesichert werden"</string>
   <string name="backup_theme_name">Thema Sicherung</string>
   <string name="backup_theme_progress_message">Sicherung läuft...</string>
   <string name="backup_theme_success_message">Sicherung abgeschlossen.</string>
