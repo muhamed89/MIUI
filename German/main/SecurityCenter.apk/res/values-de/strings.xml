@@ -568,7 +568,7 @@ Sie müssen Ihre Akku-Einstellungen ändern bevor Sie dieses Profil löschen kö
   <string name="summary_saving_switch">Die Verwendung der Datenverbindung zum Datentransfer durch Apps unterbinden</string>
   <string name="summary_show_notification">Steuerung des PIN-Sicherheitscenter in der Benachrichtigungsleiste anzeigen</string>
   <string name="summary_telecom_operator">Monatlichen Datenverbrauch über Ihren Anbieter abfragen</string>
-  <string name="summary_usb">Vermeiden, das sich Viren über den USB-Anschluiß verbreiten</string>
+  <string name="summary_usb">Vermeiden, das sich Viren über den USB-Anschluss verbreiten</string>
   <string name="summary_virus">%2$d Viren gefunden</string>
   <string name="summary_virus_cloudscan">App-Namen sowie App-Details hochladen und Online überprüfen</string>
   <string name="summary_virus_update">Viren-Datenbank bei WLAN Verbindung,automatisch aktualisieren</string>
