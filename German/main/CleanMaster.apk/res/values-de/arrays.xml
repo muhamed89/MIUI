@@ -31,8 +31,14 @@
     <string-array name="cache_clean_menu">
         <item>Bereinigen</item>
         <item>Datei</item>
-        <item>Ausnahme</item>
+        <item>Datei zu Ausnahmen hinzufügen</item>
+        <item>App zu Ausnahmen hinzufügen</item>
     </string-array>
+	<string-array name="trash_clean_menu">
+        <item>Aufräumen</item>
+        <item>Datei</item>
+        <item>Datei zu Ausnahmen hinzufügen</item>
+     </string-array>
     <string-array name="empty_floder_clean_menu">
         <item>Bereinigen</item>
     </string-array>
@@ -43,9 +49,6 @@
         <item>Installieren</item>
     </string-array>
     <string-array name="app_clean_menu">
-        <item>Details</item>
-        <item>Datei</item>
-        <item>Sichern und entfernen</item>
         <item>Entfernen</item>
     </string-array>
 </resources>

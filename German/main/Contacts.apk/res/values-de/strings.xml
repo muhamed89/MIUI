@@ -104,8 +104,10 @@
   <string name="callrecordview_item_op_time_rejected">Abgelehnt</string>
   <string name="callrecordview_item_op_time_short_incoming">"Eingehend: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Ausgehend: "</string>
+  <string name="callrecordview_item_op_video">Video</string>
   <string name="callrecordview_menu_add_call_note">Anrufnotiz hinzufügen</string>
   <string name="callrecordview_menu_batch_delete">Mehrere Kontakte löschen</string>
+  <string name="callrecordview_menu_conference">Telefonkonferenz</string>
   <string name="callrecordview_menu_delete">Anrufliste löschen</string>
   <string name="callrecordview_menu_delete_accepted">Angenommene Anrufe löschen</string>
   <string name="callrecordview_menu_delete_all">Anrufliste löschen</string>
@@ -659,6 +661,11 @@ Grund: \"%s\"."</string>
   <string name="miprofile_switch_on_alertdialog_title">Profilfoto Update</string>
   <string name="missing_name">(Kein Name)</string>
   <string name="move_and_resize">Verschieben und Skalieren</string>
+  <string name="multi_number_menu_call">Anruf</string>
+  <string name="multi_number_menu_delete">Löschen</string>
+  <string name="multi_number_menu_group">Neue Gruppe</string>
+  <string name="multi_number_menu_message">Nachricht</string>
+  <string name="multi_number_title">Telefonkonferenz</string>
   <string name="multipleContactDeleteConfirmation">Wenn Sie diesen Kontakt löschen, werden Informationen aus mehreren Konten gelöscht</string>
   <string name="multipleContactDeleteConfirmationDetail">Wenn Sie \"%s\" löschen, werden Daten aus mehreren Konten gelöscht</string>
   <string name="my_in_call_show">Mein Video</string>
@@ -935,6 +942,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="search_settings_description">Namen Ihrer Kontakte</string>
   <string name="searching_vcard_message">Suche nach vCard-Daten im Speicher…</string>
   <string name="select_all">Alle</string>
+  <string name="select_done">Keine weitere Auswahl möglich</string>
   <string name="select_groups">Gruppen auswählen</string>
   <string name="select_none">Nichts ausgewählt</string>
   <string name="select_show_contacts">Kontaktliste</string>
@@ -1078,6 +1086,7 @@ Wählen Sie eine der folgenden Optionen:"</string>
   <string name="vcard_import_will_start_message">%s wird in Kürze importiert</string>
   <string name="vcard_import_will_start_message_with_default_name">Die Datei wird in Kürze importiert</string>
   <string name="vcard_unknown_filename">Kontakt</string>
+  <string name="video_call">Videoanruf</string>
   <string name="video_chat">Videochat</string>
   <string name="viewContactDesription">Kontakt anzeigen</string>
   <string name="viewContactTitle">Kontaktdetails</string>

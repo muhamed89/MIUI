@@ -25,5 +25,6 @@
   <string name="upgrade_out_of_memory_notification_text">Aktualisierung abschließen.</string>
   <string name="upgrade_out_of_memory_notification_ticker">Kontaktaktualisierung erfordert mehr Speicher.</string>
   <string name="upgrade_out_of_memory_notification_title">Kontaktspeicher wird aktualisiert</string>
+  <string name="video_call">Videoanruf</string>
   <string name="voicemail_from_column">"Sprachnachricht von "</string>
 </resources>
