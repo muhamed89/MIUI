@@ -51,7 +51,7 @@
   <string name="confirm_local_package_wipe_btn">Löschen und aktualisieren</string>
   <string name="confirm_local_package_wipe_msg">Ihre persönlichen Daten werden debei gelöscht. Vergewissern Sie sich, dass sie alle wichtigen Daten gesichert haben, bevor Sie diesen Vorgang starten.</string>
   <string name="confirm_local_package_wipe_title">Daten löschen?</string>
-  <string name="daily_build">Nächtlich</string>
+  <string name="daily_build">Nightly</string>
   <string name="download_again">Erneut versuchen</string>
   <string name="download_cancel">Abbrechen</string>
   <string name="download_current_rom">Neustart durchführen, damit die Update übernommen werden </string>

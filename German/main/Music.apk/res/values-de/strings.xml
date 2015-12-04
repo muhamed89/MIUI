@@ -262,7 +262,7 @@
   <string name="miuishare_account_login_confirmation">Anmeldung nötig</string>
   <string name="miuishare_account_login_ok">Anmelden</string>
   <string name="miuishare_account_need_activate">Zum Teilen verknüpfen Sie Ihr Weibo Konto mit Ihrem Mi Konto, welches noch nicht aktiviert wurde. Möchten Sie es jetzt aktivieren?</string>
-  <string name="miuishare_account_need_login">um Teilen verknüpfen Sie Ihr Weibo Konto mit Ihrem Mi Konto.</string>
+  <string name="miuishare_account_need_login">Zum Teilen verknüpfen Sie Ihr Weibo Konto mit Ihrem Mi Konto.</string>
   <string name="miuishare_app_name">MIUI Share</string>
   <string name="miuishare_no_network">Keine Netzwerkverbindung</string>
   <string name="miuishare_publish">Senden</string>
