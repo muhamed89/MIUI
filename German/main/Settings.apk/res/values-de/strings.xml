@@ -3331,7 +3331,7 @@ WLAN Assistent"</string>
   <string name="wifi_assistant_open_app">OFFENE APP</string>
   <string name="wifi_assistant_setup">EINSTELLEN</string>
   <string name="wifi_assistant_title">WLAN Assistent</string>
-  <string name="wifi_assistant_title_message">%1$s verbindet Sie automatisch mit dem besten verfügbaren WLAN</string>
+  <string name="wifi_assistant_title_message">%1$s verbinden Sie automatisch mit dem besten verfügbaren WLAN</string>
   <string name="wifi_auto_connect">Auto Verbinden</string>
   <string name="wifi_automatically_manage_summary">%1$s läßt Sie Ihre WLAN-Verbindung verwalten</string>
   <string name="wifi_automatically_manage_title">Verwalte automatisch das WLAN</string>
