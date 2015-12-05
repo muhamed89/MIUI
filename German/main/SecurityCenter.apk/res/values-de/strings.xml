@@ -74,7 +74,7 @@
   <string name="battery_stats_on_battery">%1$s im Akkubetrieb</string>
   <string name="battery_stats_phone_signal_label">Mobilfunksignal</string>
   <string name="battery_stats_screen_on_label">Bildschirm</string>
-  <string name="battery_stats_wake_lock_label">wach</string>
+  <string name="battery_stats_wake_lock_label">Aktiv</string>
   <string name="battery_stats_wifi_running_label">WLAN</string>
   <string name="boot_reminder">Telefon nach voreingestellter Zeit einschalten</string>
   <string name="boot_time">Einschalten um: %1$s</string>
