@@ -34,7 +34,7 @@
   <string name="app_name">Video</string>
   <string name="app_plugin_ready">%1$s installiert</string>
   <string name="app_update_background">Update App im Hintergrund.</string>
-  <string name="app_upgrade_hint">Click to watch the full polymerization, HD online video.</string>
+  <string name="app_upgrade_hint">Klicken Sie hier, um die vollständige Polymerisation, HD online-Videos zu sehen.</string>
   <string name="app_upgrade_title">Mi Video ist bereits auf der letzten Version.</string>
   <string name="app_upgrade_version">Update verfügbar</string>
   <string name="app_version">Version</string>
