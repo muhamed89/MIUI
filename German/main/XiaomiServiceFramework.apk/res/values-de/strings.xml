@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!-- Parsed by jbart3h -->
+  <string name="activate_popup_confirm_error_device_id">Retry</string>
+  <string name="activate_popup_desc_error_device_id">Dial *#06# to check IMEI</string>
+  <string name="activate_popup_title_error_device_id">Invalid IMEI</string>
+  <string name="activate_status_desc_device_id_error">Invalid IMEI</string>
   <string name="accept">OK</string>
   <string name="activate">Aktivieren</string>
   <string name="activate_auto_sms_notification_desc_1_card">SMS sgesendet um \"Gerät finden\" zu aktivieren</string>
