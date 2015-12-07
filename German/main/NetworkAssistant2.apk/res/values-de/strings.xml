@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="traffic_alert_auto_modify_notification_sumarry">Monthly plan changed to %s.</string>
+  <string name="traffic_alert_auto_modify_notification_titile">Updated data plan</string>
+  <string name="traffic_alert_auto_modify_package_summary">"Automatically adjust data package according to the carrier's info"</string>
+  <string name="traffic_config_alert_auto_modify">Update data plan automatically</string>
+  <string name="traffic_config_alert_package">"
+Rolled over extra data"</string>
+  <string name="traffic_limit_error_alert_package">"
+
+Remaining data includes data that has been rolled over from the previous month."</string>
   <string name="add_miservice_dialog_content">Für %s ist es erforderlich das Sie die MIUI Service-Framework zur Ausnahmeliste hinzufügen.</string>
   <string name="add_miservice_dialog_title">MIUI Service Framework</string>
   <string name="add_to_whitelist_button">Ausnahmen verwalten</string>
