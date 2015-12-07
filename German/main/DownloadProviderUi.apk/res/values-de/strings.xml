@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="sniff_associate_text">Tap the keyword below to find more sources</string>
+  <string name="sniff_no_result_text">No results found</string>
   <string name="DOWNLOAD_UNIT_BIT">B</string>
   <string name="DOWNLOAD_UNIT_GB">GB</string>
   <string name="DOWNLOAD_UNIT_KB">KB</string>
