@@ -3318,7 +3318,7 @@ Jeder Nutzer kann aktualisierte App-Berechtigungen im Namen aller anderen Nutzer
   <string name="wifi_advanced_mac_address_title">MAC-Adresse</string>
   <string name="wifi_advanced_settings_label">IP-Einstellungen</string>
   <string name="wifi_advanced_titlebar">Erweiterte WLAN-Einstellungen</string>
-  <string name="wifi_aggressive_handover">Aggressive WLAN auf Handyübergabe</string>
+  <string name="wifi_aggressive_handover">Aggressives Umschalten von WLAN auf Mobilfunk-Daten</string>
   <string name="wifi_aggressive_handover_summary">Wenn aktiviert, wird WLAN aggressiver Datenverbindung zum Handy übergeben, wenn das WLAN-Signal gering ist</string>
   <string name="wifi_allow_scan_with_traffic">Erlaube immer WLAN Roam Scans</string>
   <string name="wifi_allow_scan_with_traffic_summary">Erlaube/Verbiete WLAN Roam Scans bezogen auf die Menge des Datenverkehrs an der Schnittstelle</string>
