@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="invalid_sim_pin_hint">Type a PIN that is 4 to 8 numbers</string>
+  <string name="invalid_sim_puk_hint">PUK code should be 8 numbers or more</string>
   <string name="click_to_enter_text">Zum Anzeigen antippen</string>
   <string name="confirm_pin_msg">PIN erneut eingeben</string>
   <string name="default_lockscreen_unlock_hint_text">Zum Entsperren nach oben wischen</string>
@@ -7,7 +9,7 @@
   <string name="emergency_call_string">Notruf</string>
   <string name="experimental_try_string">Versuchen</string>
   <string name="experimental_validate">Bestätigen</string>
-  <string name="experimental_validate_fail">"Anmeldung fehlgeschlagen"</string>
+  <string name="experimental_validate_fail">Anmeldung fehlgeschlagen</string>
   <string name="experimental_validate_password">Kennwort</string>
   <string name="experimental_validate_progress">Anmelden…</string>
   <string name="experimental_validate_thanks">Danke!</string>
@@ -22,7 +24,7 @@
   <string name="input_password_hint_text">Kennwort eingeben</string>
   <string name="input_pin_code">PIN eingeben</string>
   <string name="input_puk_code">PUK eingeben</string>
-  <string name="invalid_confirm_pin_hint">"PINs stimmen nicht überein"</string>
+  <string name="invalid_confirm_pin_hint">PINs stimmen nicht überein</string>
   <string name="keyguard_torch_cover_text">Halten Sie die Einschalttaste gedrückt, um die Lampe dauerhaft einzuschalten</string>
   <string name="lock_screen_date">EEEE, dd. MMMM</string>
   <string name="lockscreen_access_pattern_cell_added">Knoten hinzugefügt</string>
@@ -31,10 +33,10 @@
   <string name="lockscreen_access_pattern_start">Muster gestartet</string>
   <string name="lockscreen_charging_msg">Laden</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Sie haben das Gerät %d Mal fehlerhaft entsperrt. Nach %d weiteren erfolglosen Versuchen wird das Gerät auf die Werkseinstellungen zurückgesetzt. Dabei gehen alle Daten verloren!.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Sie haben das Kennwort %d Mal falsch eingegeben. Nach %d weiteren erfolglosen Versuchen werden Sie aufgefordert das Gerät mit Ihrem Mi-Konto zu entsperren. In  %d Sekunden erneut versuchen."</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Sie haben das Kennwort %d Mal falsch eingegeben. Nach %d weiteren erfolglosen Versuchen werden Sie aufgefordert das Gerät mit Ihrem Mi Konto zu entsperren. In  %d Sekunden erneut versuchen."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Sie haben das Gerät %d Mal fehlerhaft entsperrt. Das Gerät wird auf die Werkseinstellungen zurückgesetzt.</string>
   <string name="lockscreen_glogin_checking_password">Überprüfen…</string>
-  <string name="lockscreen_glogin_invalid_input">Falscher Benutzername oder Kennwort.</string>
+  <string name="lockscreen_glogin_invalid_input">Falscher Benutzername oder Kennwort</string>
   <string name="lockscreen_glogin_password_hint">Kennwort</string>
   <string name="lockscreen_glogin_submit_button">Anmelden</string>
   <string name="login_website_in_case_forget_password">Besuchen Sie www.mi.com/micloud, um das Kennwort zurückzusetzen</string>
