@@ -131,8 +131,8 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="allow_bind_app_widget_activity_allow_bind_title">Widget erstellen und Zugriff erlauben?</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">%1$s immer das Erstellen von Widgets und den Zugriff auf Ihre Daten erlauben</string>
   <string name="allow_data_usage_title">Gestatten Sie die Datennutzung beim Roaming</string> 
-  <string name="allow_mock_location">Falsche Standorte</string>
-  <string name="allow_mock_location_summary">Falsche Standorte zulassen</string>
+  <string name="allow_mock_location">Manipulierte Standortdaten</string>
+  <string name="allow_mock_location_summary">Manipulierte Standortdaten zulassen</string>
   <string name="allow_usage_access_message">Wenn Sie Zugang erlauben, dann kann diese App allgemeine Informationen zu den Apps auf Ihrem Gerät,  wie zum Beispiel, wie oft Sie diese verwenden, anzeigen.</string>
   <string name="allow_usage_access_title">Zugang erlauben?</string>
   <string name="alpha_build">" | Alpha"</string>
