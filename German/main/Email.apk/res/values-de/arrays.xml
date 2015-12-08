@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="calendar_remind_string_array">
+        <item>Tonight</item>
+        <item>Tomorrow</item>
+        <item>Weekend</item>
+        <item>Next week</item>
+        <item>Next month</item>
+        <item>Pick date</item>
+     </string-array>
     <string-array name="compose_modes">
         <item>Antworten</item>
         <item>Allen Antworten</item>
