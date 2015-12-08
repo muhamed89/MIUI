@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="apply_as_lockwallpaper_action">Lock screen</string>
   <string name="activity_not_found">Anwendung nicht installiert</string>
   <string name="app_already_exist">App bereits vorhanden</string>
   <string name="app_being_backup_message">App wurde gesichert</string>
@@ -26,7 +27,7 @@
   <string name="apply_as_lock_wallpaper_message">Hintergrund auch auf dem Sperrbildschirm anwenden?</string>
   <string name="apply_as_wallpaper">Startbildschirm</string>
   <string name="apply_both">Für beide anwenden</string>
-  <string name="apply_negative_action">"Nicht anwenden"</string>
+  <string name="apply_negative_action">Nicht anwenden</string>
   <string name="aqi_quality_index_dangerous">Riskant</string>
   <string name="aqi_quality_index_good">Gut</string>
   <string name="aqi_quality_index_hazardous">Gefährlich</string>
@@ -37,13 +38,13 @@
   <string name="buffering">Wird gepuffert…</string>
   <string name="cancel_action">Abbrechen</string>
   <string name="cancel_btn_label">Abbrechen</string>
-  <string name="cant_edit_lock_screen">"Sperrbildschirm-Stil kann nicht bearbeitet werden."</string>
-  <string name="cant_remove_folder">"Ordner kann nicht entfernt werden"</string>
-  <string name="cant_remove_retained_app">"Anwendung kann nicht entfernt werden"</string>
+  <string name="cant_edit_lock_screen">Sperrbildschirm-Stil kann nicht bearbeitet werden</string>
+  <string name="cant_remove_folder">Ordner kann nicht entfernt werden</string>
+  <string name="cant_remove_retained_app">Anwendung kann nicht entfernt werden</string>
   <string name="cant_remove_system_app">"Systemanwendung kann nicht entfernt werden"</string>
   <string name="children_folder_title">Kinder Ordner</string>
   <string name="children_mode_exit">Beenden</string>
-  <string name="children_mode_tips">Zurück zu Einstellungen um den Zugriff auf Anwendungen verwalten.</string>
+  <string name="children_mode_tips">Zurück zu Einstellungen um den Zugriff auf Anwendungen verwalten</string>
   <string name="choose_wallpaper">Hintergrund auswählen</string>
   <string name="chooser_wallpaper">Hintergrund auswählen</string>
   <string name="cloud_app_restore_title">Ausstehend</string>
@@ -95,21 +96,21 @@
   <string name="free_style_edit_tab_free_component">Komponenten</string>
   <string name="free_style_edit_tab_shortcut">Verknüpfungen</string>
   <string name="free_style_edit_tab_widget">Widgets</string>
-  <string name="free_style_enter_tip">Mit zwei Fingern nach unten wischen, um MiSpace anzuzeigen</string>
-  <string name="free_style_exit_tip">Mit zwei Fingern nach oben ziehen, um MiSpace zu beenden.</string>
+  <string name="free_style_enter_tip">Mit zwei Fingern nach unten wischen, um Mi Space anzuzeigen</string>
+  <string name="free_style_exit_tip">Mit zwei Fingern nach oben ziehen, um Mi Space zu beenden</string>
   <string name="free_style_londing_text">Wird geladen…</string>
   <string name="gadget_calculator_label">Rechner</string>
-  <string name="gadget_calendar_label">Kalender</string>
+  <string name="gadget_calendar_label">Kalender </string>
   <string name="gadget_clear_button_label">Taskmanager</string>
   <string name="gadget_clock_12_label">Uhr 2x1</string>
   <string name="gadget_clock_22_label">Uhr 2x2</string>
   <string name="gadget_clock_24_label">Uhr 4x2</string>
-  <string name="gadget_clock_label">Uhr</string>
+  <string name="gadget_clock_label">Uhr </string>
   <string name="gadget_error_text">Laden des Widgets fehlgeschlagen</string>
   <string name="gadget_google_search_label">Google-Suche</string>
   <string name="gadget_load_error">Wird geladen…</string>
-  <string name="gadget_mtz_label">Mi-Gadgets</string>
-  <string name="gadget_notes_label">Notizen</string>
+  <string name="gadget_mtz_label">Mi-Gadgets </string>
+  <string name="gadget_notes_label">Notizen </string>
   <string name="gadget_photo_22_label">Bild 2x2</string>
   <string name="gadget_photo_24_label">Bild 4x2</string>
   <string name="gadget_photo_44_label">Bild 4x4</string>
@@ -126,7 +127,7 @@
   <string name="gadget_weather_low_temp">Niedrige Temperatur</string>
   <string name="gadget_weather_theme_type">Gadget-Typ</string>
   <string name="gadget_weather_time_format">EEE, d.MM</string>
-  <string name="gadget_weather_title">Wetter</string>
+  <string name="gadget_weather_title">Wetter </string>
   <string name="gadget_weather_title_14">Wetter</string>
   <string name="gadget_weather_title_24">Wetter</string>
   <string name="global_search_hint">Suche</string>
@@ -165,11 +166,11 @@
   <string name="multi_selecting_tips">Icon berühren, um App auszuwählen</string>
   <string name="online_wallpaper">Online</string>
   <string name="out_of_space">Nicht genügend Platz auf dem Homescreen</string>
-  <string name="permdesc_install_shortcut">Ermöglicht einer Anwendung das Hinzufügen von Verknüpfungen ohne Eingriff des Nutzers.</string>
-  <string name="permdesc_install_widget">Ermöglicht einer Anwendung, Widgets ohne Eingreifen des Benutzers hinzuzufügen.</string>
-  <string name="permdesc_read_settings">Ermöglicht einer Anwendung, die Einstellungen und Verknüpfungen auf der Startseite zu lesen.</string>
-  <string name="permdesc_uninstall_shortcut">Ermöglicht einer Anwendung das Entfernen von Verknüpfungen ohne Eingriff des Nutzers.</string>
-  <string name="permdesc_write_settings">Ermöglicht einer Anwendung, die Einstellungen und Verknüpfungen auf der Startseite zu ändern.</string>
+  <string name="permdesc_install_shortcut">Ermöglicht einer Anwendung das Hinzufügen von Verknüpfungen ohne Eingriff des Nutzers</string>
+  <string name="permdesc_install_widget">Ermöglicht einer Anwendung, Widgets ohne Eingreifen des Benutzers hinzuzufügen</string>
+  <string name="permdesc_read_settings">Ermöglicht einer Anwendung, die Einstellungen und Verknüpfungen auf der Startseite zu lesen</string>
+  <string name="permdesc_uninstall_shortcut">Ermöglicht einer Anwendung das Entfernen von Verknüpfungen ohne Eingriff des Nutzers</string>
+  <string name="permdesc_write_settings">Ermöglicht einer Anwendung, die Einstellungen und Verknüpfungen auf der Startseite zu ändern</string>
   <string name="permlab_install_shortcut">Verknüpfungen installieren</string>
   <string name="permlab_install_widget">Widgets installieren</string>
   <string name="permlab_read_settings">Einstellungen und Verknüpfungen für Startseite lesen</string>
@@ -185,7 +186,7 @@
   <string name="pref_icon_shadow_title">Grafik-Cache</string>
   <string name="pref_keep_in_memory_summary">Launcher im Speicher behalten</string>
   <string name="pref_keep_in_memory_title">MIUI im Speicher behalten</string>
-  <string name="pref_keep_layout_summary">App-Positionen bei Änderung des Rasters beibehalten.</string>
+  <string name="pref_keep_layout_summary">App-Positionen bei Änderung des Rasters beibehalten</string>
   <string name="pref_keep_layout_title">App-Position beibehalten</string>
   <string name="pref_render_in_truecolor_summary">Abschaltung verbessert die Darstellung</string>
   <string name="pref_render_in_truecolor_title">Hochwertige Grafiken</string>
@@ -250,6 +251,6 @@
   <string name="widget_favorite_contacts_edit">Editor</string>
   <string name="widget_favorite_contacts_label">Favoriten</string>
   <string name="widget_favorite_contacts_style">Größe ändern</string>
-  <string name="widget_gadget_player">Musik</string>
+  <string name="widget_gadget_player">Musik </string>
   <string name="widget_global_search">Suche</string>
 </resources>
