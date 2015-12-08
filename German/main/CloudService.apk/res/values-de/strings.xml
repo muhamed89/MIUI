@@ -1,6 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_denied">Zugriff verweigert</string>
+  <string name="cloud_back_up_summary">Back up when connected to WLAN</string>
+  <string name="cloud_backup_have_data">Found backup in Mi Cloud</string>
+  <string name="cloud_backup_select_recover">Choose backup from Mi Cloud</string>
+  <string name="cloud_restore_title">Restore from backup</string>
+  <string name="header_cloud_backup_settings">Back up and restore</string>
+  <string name="header_cloud_restore_summary">Reinstall apps and restore Home screen layout and system settings from a backup in Mi Cloud</string>
+  <string name="header_find_device_settings">Find device</string>
   <string name="account">Konto</string>
   <string name="activate">Aktiviere</string>
   <string name="activate_number_change_dialog_message">Wählen Sie eine Telefonnummer, welche sichtbar für andere Geräte ist, wenn Sie per VoIP telefonieren.</string>
