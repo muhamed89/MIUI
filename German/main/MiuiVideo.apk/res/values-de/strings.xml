@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="sniff">Sniff</string>
+  <string name="vp_downloading_apk_title">Downloading %1$s</string>
+  <string name="vp_notify_apk_installed">Install application %1$s successfully</string>
   <string name="about_app_name">Video Player</string>
   <string name="about_title">Über</string>
   <string name="about_version">1.0.1</string>
