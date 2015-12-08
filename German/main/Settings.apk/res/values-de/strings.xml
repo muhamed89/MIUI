@@ -3076,7 +3076,7 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="use_default_tts_settings_title">Immer meine Einstellungen verwenden</string>
   <string name="use_location_summary">Google darf Suchergebnisse und andere Dienste an Ihren Standort anpassen</string>
   <string name="use_location_title">Standort &amp; Google-Suche</string>
-  <string name="use_nuplayer">Use NuPlayer (experimental)</string>
+  <string name="use_nuplayer">NuPlayer benutzen (experimental)</string>
   <string name="use_nuplayer_summary">Verwenden Sie NuPlayer anstatt dem AwesomePlayer</string>
   <string name="use_system_language_to_select_input_method_subtypes">Systemsprache</string>
   <string name="user_account_title">Konto für Inhalte</string>
@@ -3169,7 +3169,7 @@ Jeder Nutzer kann aktualisierte App-Berechtigungen im Namen aller anderen Nutzer
   <string name="user_summary_restricted_profile">Eingeschränktes Profil</string>
   <string name="user_you">Ich (%s)</string>
   <string name="verify_apps_over_usb_summary">Überprüft installierte Apps über ADB/ADT auf schädliches Verhalten</string>
-  <string name="verify_apps_over_usb_title">Apps über USB bestätigen</string>
+  <string name="verify_apps_over_usb_title">Über USB installierte Apps überprüfen</string>
   <string name="verify_applications">Apps verifizieren</string>
  <string name="verify_applications_summary">Vor der Installation von potenziell gefährlichen Apps warnen oder diese verbieten</string>
   <string name="version_text">Version %1$s</string>
@@ -3637,7 +3637,7 @@ Das Einrichten des Telefons kann eine erhöhte Netzwerkaktivität erfordern."</s
   <string name="wifi_unchanged">(nicht geändert)</string>
   <string name="wifi_unspecified">(keine Angabe)</string>
   <string name="wifi_update">Statistik aktualisieren</string>
-  <string name="wifi_verbose_logging">Aktivieren Sie WLAN-Ausführliche-Protokollierung</string>
+  <string name="wifi_verbose_logging">Detailliertes WLAN Logging aktivieren</string>
   <string name="wifi_verbose_logging_summary">Erhöhen Sie die WLAN-Protokollierungsebene, pro SSID RSSI im WLAN-Leser anzeigen lassenr</string>
   <string name="wifi_wapi_as_cert">AS Zertifikat</string>
   <string name="wifi_wapi_cert_cancel_button">Abbrechen</string>
