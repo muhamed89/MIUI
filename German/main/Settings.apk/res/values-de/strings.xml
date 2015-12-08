@@ -358,7 +358,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="battery_saver">Akku-Sparer</string>
   <string name="battery_saver_turn_on_automatically_never">Nie</string>
   <string name="battery_saver_turn_on_automatically_pct">bei %1$d%% an Akku</string>
-  <string name="battery_saver_turn_on_automatically_title">Automatisch anstellen</string>
+  <string name="battery_saver_turn_on_automatically_title">Automatisch aktivieren</string>
   <string name="battery_settings">Akku</string>
   <string name="battery_settings_title">Akku</string>
   <string name="battery_since_reset">Akkuverbrauch seit dem Zurücksetzen</string>
@@ -389,21 +389,21 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="bluetooth_a2dp_profile_summary_use_for">Für Audiosystem von Medien verwenden</string>
   <string name="bluetooth_advanced_titlebar">Bluetooth - Erweitert</string>
   <string name="bluetooth_ask_discovery">Eine App versucht, Ihr Telefon für %1$d Sekunden für andere Bluetooth-Geräte sichtbar zu machen. Erlauben?</string>
-  <string name="bluetooth_ask_enablement">Eine App versucht, Bluetooth einzuschalten.</string>
-  <string name="bluetooth_ask_enablement_and_discovery">Eine App versucht, Bluetooth einzuschalten und Ihr Telefon für %1$d Sekunden für andere Telefone sichtbar zu machen. Erlauben?</string>
-  <string name="bluetooth_ask_enablement_and_discovery_detected">" möchte Bluetooth anschalten und Ihr Telefon für andere Geräte %1$d Sekunden lang sichtbar machen."</string>  
-  <string name="bluetooth_ask_enablement_and_lasting_discovery">Eine App versucht, Bluetooth einzuschalten und Ihr Telefon für andere Geräte sichtbar zu machen. Erlauben?</string>
+  <string name="bluetooth_ask_enablement">Eine App versucht, Bluetooth zu aktivieren.</string>
+  <string name="bluetooth_ask_enablement_and_discovery">Eine App versucht, Bluetooth zu aktivieren und Ihr Telefon für %1$d Sekunden für andere Telefone sichtbar zu machen. Erlauben?</string>
+  <string name="bluetooth_ask_enablement_and_discovery_detected">" möchte Bluetooth aktivieren und Ihr Telefon für andere Geräte %1$d Sekunden lang sichtbar machen."</string>  
+  <string name="bluetooth_ask_enablement_and_lasting_discovery">Eine App versucht, Bluetooth zu aktivieren und Ihr Telefon für andere Geräte sichtbar zu machen. Erlauben?</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" möchte Bluetooth aktivieren und Ihr Telefon für andere Geräte sichtbar zu machen. Sie können das in den Bluetooth-Einstellungen ändern."</string>
-  <string name="bluetooth_ask_enablement_and_start_broadcast">%1$s möchte Bluetooth und Bluetooth-Broadcasting anstellen, um mit anderen Geräten in der Umgebung zu kommunizieren. Sie können das später in den Bluetooth-Einstellungen ändern.</string>
-  <string name="bluetooth_ask_enablement_detected">" möchte Bluetooth anschalten."</string>
+  <string name="bluetooth_ask_enablement_and_start_broadcast">%1$s möchte Bluetooth und Bluetooth-Broadcasting aktivieren, um mit anderen Geräten in der Umgebung zu kommunizieren. Sie können das später in den Bluetooth-Einstellungen ändern.</string>
+  <string name="bluetooth_ask_enablement_detected">" möchte Bluetooth aktivieren."</string>
   <string name="bluetooth_ask_lasting_discovery">Eine App versucht Ihr Gerät für andere Bluetooth-Geräte sichtbar zu machen. Dies kann in den Bluetooth-Einstellungen geändert werden.</string>
-  <string name="bluetooth_ask_start_broadcast">%1$s möchte Bluetooth-Broadcasting anstellen, um mit anderen Geräten in der Umgebung zu kommunizieren. Sie können das später in den Bluetooth-Einstellungen ändern.</string>
+  <string name="bluetooth_ask_start_broadcast">%1$s möchte Bluetooth-Broadcasting aktivieren, um mit anderen Geräten in der Umgebung zu kommunizieren. Sie können das später in den Bluetooth-Einstellungen ändern.</string>
   <string name="bluetooth_auto_connect">Automatisch Verbinden</string>
   <string name="bluetooth_broadcasting">Broadcasting</string>
   <string name="bluetooth_broadcasting_explaination">"Wenn diese Funktion angestellt ist, dann kann Ihr Handy mit anderen Geräten in der Umgebung kommunizieren.
 
 Broadcasting nutzt Low-Power Bluetooth Signale."</string>
-  <string name="bluetooth_confirm_passkey_msg">Zum Paaren mit:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Stellen Sie sicher, das dieser Hauptschlüssel angezeigt wird:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_confirm_passkey_msg">Zum Paaren mit: %1$s Stellen Sie sicher, das dieser Hauptschlüssel angezeigt wird: %2$s</string>
   <string name="bluetooth_connect_specific_profiles_title">Verbinden…</string>
   <string name="bluetooth_connected">Verbunden</string>
   <string name="bluetooth_connected_no_a2dp">Verbunden (außer Audiomedien)</string>
@@ -433,10 +433,10 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="bluetooth_device_name">Name:</string>
   <string name="bluetooth_device_searchable">Sichtbarkeit</string>
   <string name="bluetooth_devices">Bluetooth-Geräte</string>
-  <string name="bluetooth_disable_profile_message">Ausgeschaltet:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Von:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_disable_profile_message">Ausgeschaltet: %1$s Von: %2$s</string>
   <string name="bluetooth_disable_profile_title">Profil ausschalten?</string>
   <string name="bluetooth_disconnect_a2dp_profile">%1$s wird von Audiogerät getrennt.</string>
-  <string name="bluetooth_disconnect_all_profiles">Dies beendet Ihre Verbindung mit&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
+  <string name="bluetooth_disconnect_all_profiles">Dies beendet Ihre Verbindung mit %1$s</string>
   <string name="bluetooth_disconnect_headset_profile">%1$s wird von der Freisprecheinrichtung getrennt.</string>
   <string name="bluetooth_disconnect_hid_profile">%1$s wird vom Eingabegerät getrennt.</string>
   <string name="bluetooth_disconnect_pan_nap_profile">Die Freigabe der Internetverbindung dieses Telefons wird für %1$s ausgeschaltet.</string>
@@ -444,7 +444,7 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="bluetooth_disconnect_title">Trennen?</string>
   <string name="bluetooth_disconnected">Nicht verbunden</string>
   <string name="bluetooth_disconnecting">Verbindung wird getrennt...</string>
-  <string name="bluetooth_display_passkey_pin_msg">Geben Sie zum Paaren mit &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt; ein und drücken Sie anschließend die Eingabetaste.</string>
+  <string name="bluetooth_display_passkey_pin_msg">Geben Sie zum Paaren mit %1$s %2$s ein und drücken Sie anschließend die Eingabetaste.</string>
   <string name="bluetooth_dock_settings">Dock-Einstellungen</string>
   <string name="bluetooth_dock_settings_a2dp">Für Musik und Medien</string>
   <string name="bluetooth_dock_settings_headset">Als Lautsprechertelefon</string>
@@ -456,9 +456,9 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="bluetooth_empty_list_user_restricted">"Sie haben keine Erlaubnis die Bluetooth-Einstellungen zu ändern."</string>
   <string name="bluetooth_enable">Bluetooth</string>
   <string name="bluetooth_enable_alphanumeric_pin">PIN enthält Buchstaben oder Symbole</string>
-  <string name="bluetooth_enter_passkey_msg">"Geben Sie zum Paaren mit &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; den erforderlichen Schlüssel des Geräts ein:"</string>
+  <string name="bluetooth_enter_passkey_msg">"Geben Sie zum Paaren mit %1$s den erforderlichen Schlüssel des Geräts ein:"</string>
   <string name="bluetooth_enter_passkey_other_device">Möglicherweise müssen Sie diesen Schlüssel auch auf dem anderen Gerät eingeben.</string>
-  <string name="bluetooth_enter_pin_msg">"Geben Sie zum Paaren mit &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; die erforderliche PIN des Geräts ein:"</string>
+  <string name="bluetooth_enter_pin_msg">"Geben Sie zum Paaren mit %1$s die erforderliche PIN des Geräts ein:"</string>
   <string name="bluetooth_enter_pin_msg_hs">Gerät benötigt einen High-SecurityHauptschlüssel mit 16 Zeichen</string>
   <string name="bluetooth_enter_pin_other_device">Möglicherweise müssen Sie diese PIN auch auf dem anderen Gerät eingeben.</string>
   <string name="bluetooth_error_title" />
@@ -466,7 +466,7 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="bluetooth_headset_profile_summary_use_for">Für Audio des Telefons verwenden</string>
   <string name="bluetooth_hid_profile_summary_connected">Mit einem Eingabegerät verbunden</string>
   <string name="bluetooth_hid_profile_summary_use_for">Für Eingabe verwenden</string>
-  <string name="bluetooth_incoming_pairing_msg">Von:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Paaren mit diesem Gerät durchführen?</string>
+  <string name="bluetooth_incoming_pairing_msg">Von: %1$s Paaren mit diesem Gerät durchführen?</string>
   <string name="bluetooth_is_disconnect_question">Trenne %1$s?</string>
   <string name="bluetooth_is_discoverable">Sichtbar für alle Bluetooth-Geräte in der Nähe (%1$s)</string>
   <string name="bluetooth_is_discoverable_always">Sichtbar für alle Bluetooth-Geräte in der Nähe</string>
@@ -535,7 +535,7 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
 <string name="bluetooth_profile_pbap">Kontakt freigeben</string>
   <string name="bluetooth_profile_pbap_summary">Für die Kontaktfreigabe nutzen</string>
   <string name="bluetooth_profile_sap">SIM Zugang</string>
-  <string name="bluetooth_quick_toggle_summary">Bluetooth anstellen</string>
+  <string name="bluetooth_quick_toggle_summary">Bluetooth aktivieren</string>
   <string name="bluetooth_quick_toggle_title">Bluetooth</string>
   <string name="bluetooth_remember_choice">Nicht mehr fragen</string>
   <string name="bluetooth_rename_button">Umbenennen</string>
@@ -608,7 +608,7 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="cache_size_label">Cache</string>
   <string name="cached">Hintergrundprozess im Cache</string>
   <string name="call_manager_enable_summary">Diesem Dienst die Verwaltung, wie Ihre Anrufe getätigt werden, erlauben.</string>
-  <string name="call_manager_enable_title">Anruf-Manager anstellen</string>
+  <string name="call_manager_enable_title">Anruf-Manager aktivieren</string>
   <string name="call_manager_summary">%1$s</string>
   <string name="call_manager_title">Anruf-Manager</string>
   <string name="call_settings_summary">Voicemail, Anrufweiterleitung, Anklopfen, Anrufer-ID einrichten</string>
@@ -917,7 +917,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="debug_layout_summary">Clip-Begrenzungen, Ränder usw. anzeigen</string>
   <string name="debug_log">Fehlerbericht</string>
   <string name="debug_monitoring_category">Überwachung</string>
-  <string name="debug_view_attributes">Attributprüfungsansicht anstellen</string>
+  <string name="debug_view_attributes">Attributprüfungsansicht aktivieren</string>
   <string name="default_date_format">MM/dd/yyyy</string>
   <string name="default_input_method">Standard Eingabemethode wählen</string>
   <string name="default_sound">Standard Ton</string>
@@ -1124,10 +1124,10 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="enable_quick_setting">Quick-Einstellungen anzeigen lassen</string>
   <string name="enable_quickboot_summary">Das Gerät in den QuickBoot-Modus anstelle der normalen Abschaltung setzen</string>
   <string name="enable_quickboot_title">Aktiviere QuickBoot-Modus</string>
-  <string name="enable_service_encryption_warning">Falls Sie %1$s anstellen, wird Ihr Gerät nicht Ihre Bildschirmsperre anschalten, um die Datenverschlüsselung zu verbessern.</string>
-  <string name="enable_service_password_reason">Weil %1$s anstellen sich auf die Datenverschlüsselung auswirkt, müssen Sie Ihr Passwort bestätigen.</string>
-  <string name="enable_service_pattern_reason">Weil %1$s anstellen sich auf die Datenverschlüsselung auswirkt, müssen Sie Ihr Entsperrmuster bestätigen.</string>
-  <string name="enable_service_pin_reason">Weil %1$s anstellen sich auf die Datenverschlüsselung auswirkt, müssen Sie Ihren PIN-Code bestätigen.</string>
+  <string name="enable_service_encryption_warning">Falls Sie %1$s aktivieren, wird Ihr Gerät nicht die Bildschirmsperre nutzen, um die Datenverschlüsselung zu verbessern.</string>
+  <string name="enable_service_password_reason">Weil das Aktivieren von %1$s sich auf die Datenverschlüsselung auswirkt, müssen Sie Ihr Passwort bestätigen.</string>
+  <string name="enable_service_pattern_reason">Weil das Aktivieren von %1$s sich auf die Datenverschlüsselung auswirkt, müssen Sie Ihr Entsperrmuster bestätigen.</string>
+  <string name="enable_service_pin_reason">Weil das Aktivieren von %1$s sich auf die Datenverschlüsselung auswirkt, müssen Sie Ihren PIN-Code bestätigen.</string>
   <string name="enable_service_title">Aktiviere %1$s?</string>
   <string name="enable_snapshot_screenlock">Halten Sie den Zurück-Knopf lange gedrückt, um ein Foto zu machen</string>
   <string name="enable_terminal_summary">Aktiviere die Terminal-App, die den lokalen Shell-Zugang ermöglicht</string>
@@ -3068,7 +3068,7 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="usb_tethering_button_text">USB-Tethering</string>
   <string name="usb_tethering_errored_subtext">USB-Tethering-Fehler</string>
   <string name="usb_tethering_storage_active_subtext">Tethering bei Verwendung des USB-Speichers nicht möglich</string>
-  <string name="usb_tethering_turnon_subtext">Zum Anstellen verbinden</string>
+  <string name="usb_tethering_turnon_subtext">Zum aktivieren, verbinden</string>
   <string name="usb_tethering_unavailable_subtext">Keine USB-Verbindung</string>
   <string name="usb_title">USB</string>
   <string name="usb_unmount_inform_text">USB-Speicher wird ausgeworfen.</string>
@@ -3452,7 +3452,7 @@ WLAN Assistent"</string>
   <string name="wifi_notify_open_networks_summary">Benachrichtigen, wenn ein offenes Netzwerk verfügbar ist.</string>
   <string name="wifi_off_airplane_on_cancel">Abbrechen</string>
   <string name="wifi_off_airplane_on_confirm">OK</string>
-  <string name="wifi_off_airplane_on_content">Sie können WLAN manuell anstellen, wenn Sie im Flugmodus sind.</string>
+  <string name="wifi_off_airplane_on_content">Sie können WLAN manuell aktivieren, wenn Sie sich im Flugmodus befinden.</string>
   <string name="wifi_off_airplane_on_not_remind">"Nicht nochmal anzeigen"</string>
   <string name="wifi_off_airplane_on_title">WLAN im Flugmodus</string>
   <string name="wifi_on_time">WLAN-Aktivzeit</string>
@@ -3710,7 +3710,7 @@ Das Einrichten des Telefons kann eine erhöhte Netzwerkaktivität erfordern."</s
   <string name="zen_mode_end_time">Endzeit</string>
   <string name="zen_mode_end_time_summary_format">%s nächster Tag</string>
   <string name="zen_mode_entry_conditions_summary_none">Nie</string>
-  <string name="zen_mode_entry_conditions_title">Automatisch anstellen</string>
+  <string name="zen_mode_entry_conditions_title">Automatisch aktivieren</string>
   <string name="zen_mode_events">Events und Erinnerungen</string>
   <string name="zen_mode_from">Anrufe/Nachrichten von</string>
   <string name="zen_mode_from_anyone">Jeden</string>
