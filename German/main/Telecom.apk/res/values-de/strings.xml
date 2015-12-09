@@ -4,13 +4,13 @@
   <string name="notification_missedCallsMsg">%s entgangene Anrufe</string>
   <string name="notification_missedCallTicker">Entgangener Anruf von %s</string>
   <string name="notification_missedCallTitle">Entgangener Anruf</string>
-  <string name="accessibility_call_muted">Gespräch stummgeschaltet.</string>
-  <string name="accessibility_speakerphone_enabled">Freipsrecher eingeschaltet.</string>
+  <string name="accessibility_call_muted">Gespräch stummgeschaltet</string>
+  <string name="accessibility_speakerphone_enabled">Freipsrecher eingeschaltet</string>
   <string name="add_vm_number_str">Nummer hinzufügen</string>
   <string name="handle_restricted">RESTRICTED</string>
-  <string name="headset_plugin_view_text">Headset ist angesteckt.</string>
+  <string name="headset_plugin_view_text">Headset ist angesteckt</string>
   <string name="headset_plugin_view_title">Headset</string>
-  <string name="incall_error_call_failed">"Anruf fehlgeschlagen."</string>
+  <string name="incall_error_call_failed">Anruf fehlgeschlagen</string>
   <string name="no_vm_number">Sprachboxnummer fehlt</string>
   <string name="no_vm_number_msg">Auf dieser SIM-Karte ist keine Sprachboxnummer gespeichert.</string>
   <string name="notification_missedCall_call_back">Rückruf</string>
@@ -38,7 +38,10 @@
   <string name="test_account_3_label">Bay Voice Chat Pro</string>
   <string name="test_account_3_short_description">Chat with Chat Network users</string>
   <string name="unknown">Unbekannt</string>
-  <string name="video_call_not_allowed_if_tty_enabled">Deaktivieren Sie den TTY Modus, um Videoanrufe zu tätigen.</string>
+  <string name="video_call_not_allowed_if_tty_enabled">Deaktivieren Sie den TTY Modus, um Videoanrufe zu tätigen</string>
   <string name="voice_report_incoming_call">Eingehender Anruf</string>
   <string name="voice_report_unknown_num">Unbekannte Nummer</string>
+  <string name="dial_conference_fail_prompt">Die Telefonkonferenz kann nicht direkt einrichtet werden. Das aktuelle Netzwerk unterstützt VoLTE nicht.</string>
+  <string name="dial_vt_fail_prompt"> Das aktuelle Netzwerk unterstützt VoLTE nicht. Standardtelefonie verwenden? </string>
+  <string name="voice_dial_out">OK</string>
 </resources>
