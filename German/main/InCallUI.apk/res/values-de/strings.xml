@@ -12,7 +12,7 @@
   <string name="onscreen_change_to_video">Video</string>
   <string name="onscreen_change_to_voice">Sprache</string>
   <string name="onscreen_close_preview_camera">Kamera schließen</string>
-  <string name="onscreen_rcs_text">Mitteilung</string>
+  <string name="onscreen_rcs_text">Nachricht</string>
   <string name="onscreen_switch_camera">Kamera wechseln</string>
   <string name="accept_modify_call_request_prompt">Modifizierten Anruf annehmen?</string>
   <string name="add_vm_number_str">Nummer hinzufügen</string>
