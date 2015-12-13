@@ -1,5 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="card_title_incoming_conference_call">Eingehende Konferenz</string>
+  <string name="card_title_upgrade_video_call_error">Video konnte nicht aktualisiert werden</string>
+  <string name="card_title_upgrade_video_call_rejected_by_remote">Video konnte nicht aktualisiert werden</string>
+  <string name="card_title_upgrade_video_call_requesting">Videoabfrage</string>
+  <string name="card_title_upgrade_video_call_timed_out">Video konnte nicht aktualisiert werden</string>
+  <string name="card_title_video_call_paused">Video wurde angehalten</string>
+  <string name="conference_caller_info_name">Konferenz %1$s</string>
+  <string name="conference_caller_name_me">Ich</string>
+  <string name="incoming_answer_voice_text">Mit Sprache antworten</string>
+  <string name="onscreen_change_to_video">Video</string>
+  <string name="onscreen_change_to_voice">Sprache</string>
+  <string name="onscreen_close_preview_camera">Kamera schließen</string>
+  <string name="onscreen_rcs_text">Nachricht</string>
+  <string name="onscreen_switch_camera">Kamera wechseln</string>
   <string name="accept_modify_call_request_prompt">Modifizierten Anruf annehmen?</string>
   <string name="add_vm_number_str">Nummer hinzufügen</string>
   <string name="antispam_marked_count">Gemeldet von %1$d MIUI users</string>
