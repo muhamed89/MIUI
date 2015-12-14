@@ -65,7 +65,7 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="accessibility_sync_error">Synchronisierungsfehler</string>
   <string name="accessibility_sync_in_progress">Synchronisiert jetzt</string>
   <string name="accessibility_system_title">System</string>
-  <string name="accessibility_toggle_high_text_contrast_preference_title">Hoher kontrastreicher Text</string>
+  <string name="accessibility_toggle_high_text_contrast_preference_title">Text mit erhöhtem Kontrast</string>
   <string name="accessibility_toggle_large_text_preference_title">Großer Text</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Vergrößerung bei App-Übergängen aktualisieren</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Vergrößerung autom. aktualisieren</string>
