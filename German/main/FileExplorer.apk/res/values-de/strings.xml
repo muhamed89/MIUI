@@ -1,8 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="backup_checkbox_msg">Always back up and show notifications</string>
+  <string name="category_file">Files</string>
+  <string name="category_photo">Photos</string>
+  <string name="compress_fail_unknown">"Couldn't compress. Storage is full or unknown error occurred."</string>
+  <string name="dir_not_support">"Can't hide this folder"</string>
   <string name="make_private_msg_1">Hide this file?</string>
   <string name="make_private_msg_2">Hide these files?</string>
-  <string name="make_private_msg_3">All files in this folder will be hidden</string>
+  <string name="make_private_msg_3">All files in this folder will be hidden.</string>
+  <string name="menu_item_sort_add_time">"Created "</string>
+  <string name="menu_item_sort_by_added_time">Added</string>
+  <string name="move_icon_to_desktop_hint">Create a Home screen shortcut for Explorer to manage files more efficiently.</string>
+  <string name="move_to_confirm">Create</string>
+  <string name="notification_wechat_auto_backup_hint">Tap to learn more.</string>
+  <string name="notification_wechat_auto_backup_switch_title">Back up WeChat videos</string>
+  <string name="notification_wechat_sticker_hint">Show notification when new WeChat stickers are available</string>
+  <string name="notification_wechat_sticker_switch_title">New stickers daily notification</string>
   <string name="account_bind_prompt">Benutzerdaten werden übertragen…</string>
   <string name="action_mode_deselect_all">Keine</string>
   <string name="action_mode_select_all">Alle</string>
