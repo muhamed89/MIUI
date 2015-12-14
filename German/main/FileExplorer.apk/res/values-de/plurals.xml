@@ -161,11 +161,19 @@
         <item quantity="many">%1$d Videos von WeChat Konversationen laufen ab. Wollen Sie eine Sicherung erstellen?</item>
     </plurals>
 	<plurals name="file_notify_title_wechat_video_auto_backup">
-        <item quantity="other">%1$d WeChat Videos gesichert.</item>
-        <item quantity="zero">%1$d WeChat Videos gesichert.</item>
-        <item quantity="one">%1$d WeChat Video gesichert.</item>
-        <item quantity="two">%1$d WeChat Videos gesichert.</item>
-        <item quantity="few">%1$d WeChat Videos gesichert.</item>
-        <item quantity="many">%1$d WeChat Videos gesichert.</item>
+        <item quantity="other">%1$d WeChat Videos gesichert</item>
+        <item quantity="zero">%1$d WeChat Videos gesichert</item>
+        <item quantity="one">%1$d WeChat Video gesichert</item>
+        <item quantity="two">%1$d WeChat Videos gesichert</item>
+        <item quantity="few">%1$d WeChat Videos gesichert</item>
+        <item quantity="many">%1$d WeChat Videos gesichert</item>
     </plurals>
+    <plurals name="file_notify_title_wechat_sticker">
+        <item quantity="other">%1$d new WeChat stickers today</item>
+        <item quantity="zero">%1$d new WeChat sticker today</item>
+        <item quantity="one">%1$d new WeChat sticker today</item>
+        <item quantity="two">%1$d new WeChat stickers today</item>
+        <item quantity="few">%1$d new WeChat stickers today</item>
+        <item quantity="many">%1$d new WeChat stickers today</item>
+     </plurals>
 </resources>
