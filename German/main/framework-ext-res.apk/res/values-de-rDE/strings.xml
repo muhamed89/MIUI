@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="apply_password_confirm_dlg_msg">Require password for %s?</string>
+  <string name="apply_password_confirm_dlg_title">This password will be used for %s</string>
+  <string name="subinfo_default_name">SIM %d</string>
   <string name="all_call_livetalk_enable">Aufladepakete für nationale und internationale Anrufe verwenden</string>
   <string name="all_call_livetalk_remain_mins">Minuten übrig: (%1$s National) | (%2$s %3$s)</string>
   <string name="alwaysUsePrompt">Auswahl merken</string>
@@ -18,10 +21,10 @@
   <string name="fc_dialog_jump_to_preview">Zusammenfassung anzeigen</string>
   <string name="first_back_long_press_message">"Langer Druck auf die Zurück-Taste beendet den aktuellen Prozess.
 
-Um die Funktion zu aktivieren, gehen Sie auf Einstellungen > System > Tasten"</string>
+Um die Funktion zu aktivieren, gehen Sie auf Einstellungen > System > Tasten."</string>
   <string name="fm_record_smaple_prefix_miui">FM Aufnahme</string>
   <string name="force_exit_message">Beenden erzwingen in %1$s</string>
-  <string name="force_exit_skip_message">"%1$s kann nicht geschlossen werden, da es vom System benötigt wird."</string>
+  <string name="force_exit_skip_message">%1$s kann nicht geschlossen werden, da es vom System benötigt wird</string>
   <string name="global_actions_airplane_mode">Flugmodus</string>
   <string name="global_actions_reboot">Neustart</string>
   <string name="global_actions_shutdown">Herunterfahren</string>
@@ -40,7 +43,7 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen > System > Tasten"</s
   <string name="key_btn_ok">OK</string>
   <string name="key_btn_space">Leerzeichen</string>
   <string name="livetalk_not_enable">Aufladepakete deaktiviert</string>
-  <string name="location_usage_restricted_body">Berühren um die Beschränkung aufzuheben.</string>
+  <string name="location_usage_restricted_body">Berühren um die Beschränkung aufzuheben</string>
   <string name="location_usage_restricted_title">Einschränkung der Hintergrundlokalisierung</string>
   <string name="lockscreen_access_pattern_cell_added">Zelle hinzugefügt</string>
   <string name="lockscreen_access_pattern_cleared">Muster gelöscht</string>
@@ -53,23 +56,23 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen > System > Tasten"</s
   <string name="paste">Einfügen</string>
   <string name="perm_send_push_dspt">Mi-Push-Nachrichten erlauben</string>
   <string name="perm_send_push_lab">Push-Nachrichten senden</string>
-  <string name="permdesc_manageLocationPolicy">Erlaubt der App die Lokalisierungsregeln zu verwalten.</string>
+  <string name="permdesc_manageLocationPolicy">Erlaubt der App die Lokalisierungsregeln zu verwalten</string>
   <string name="permlab_manageLocationPolicy">Lokalisierungsregeln verwalten</string>
-  <string name="reboot_confirm_title">Ihr Gerät wird neu gestartet.</string>
+  <string name="reboot_confirm_title">Ihr Gerät wird neu gestartet</string>
   <string name="reboot_info_auto_boot">Ihr Telefon wird aufgrund des Startplans um %s neu gestartet</string>
   <string name="reboot_info_shutdown_alarm">Ihr Telefon wird um %s neu starten und den Alarm auslösen</string>
   <string name="reboot_progress">Neustart…</string>
   <string name="replace">Ersetzen</string>
   <string name="resource_select">Auswählen</string>
   <string name="screen_button_disabled_message">Navigationstasten deaktiviert. Zum Reaktivieren drücken Sie gleichzeitig die Home- und Powertaste.</string>
-  <string name="screen_button_enabled_message">Navigationstasten aktiviert.</string>
-  <string name="screen_button_notification_text">Zum Einschalten, die Home- und Powertaste gleichzeitig drücken.</string>
+  <string name="screen_button_enabled_message">Navigationstasten aktiviert</string>
+  <string name="screen_button_notification_text">Zum Einschalten, die Home- und Powertaste gleichzeitig drücken</string>
   <string name="screen_button_notification_title">Navigationstasten deaktiviert</string>
   <string name="screen_on_proximity_sensor_hint">Um die Funktion zu deaktivieren, die Zurück- und Lautstärke-Hoch-Taste gleichzeitig drücken.</string>
   <string name="screen_on_proximity_sensor_summary">Bedecken Sie nicht den orangen Bereich des Bildschirms</string>
   <string name="screen_on_proximity_sensor_title">Ungewollte Anrufe verhindern</string>
   <string name="screen_paper_mode_enter_toast">Lesemodus ist aktiv. Sie können diesen jederzeit aktivieren/deaktivieren in den Einstellungen &gt; Lesemodus.</string>
-  <string name="screen_rotation_freeze_message">Auto-Drehen deaktiviert.</string>
+  <string name="screen_rotation_freeze_message">Auto-Drehen deaktiviert</string>
   <string name="select">Auswählen</string>
   <string name="select_all">Alles</string>
   <string name="cancel_action">Abbrechen</string>
@@ -77,10 +80,10 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen > System > Tasten"</s
   <string name="set_password_action">Passwort festlegen</string>
   <string name="set_password_title">Passwort festlegen</string>
   <string name="set_password_message">Ein neues Passwort festlegen?</string>
-  <string name="shutdown_confirm_title">Telefon wird ausgeschaltet.</string>
+  <string name="shutdown_confirm_title">Telefon wird ausgeschaltet</string>
   <string name="shutdown_progress">Ausschalten…</string>
   <string name="sim_added_reboot_confirm">Neustart</string>
-  <string name="sim_added_reboot_title">SIM-Karte wird nach einem Neustart aktiviert.</string>
+  <string name="sim_added_reboot_title">SIM-Karte wird nach einem Neustart aktiviert</string>
   <string name="softap_notifif_summary">%d verbunden</string>
   <string name="softap_notifif_title">Hotspot \"%s\" ist aktiv</string>
   <string name="status_bar_toggle_ac">Zugriff</string>
