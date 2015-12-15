@@ -1085,7 +1085,7 @@ Wählen Sie eine der folgenden Optionen:"</string>
   <string name="user_profile_contacts_list_header">Ich</string>
   <string name="vcard_export_request_rejected_message">Die vCard-Exportanfrage wurde abgelehnt. Später erneut versuchen.</string>
   <string name="vcard_export_will_start_message">%s wird in Kürze exportiert</string>
-  <string name="vcard_import_failed">Importieren der vCard nicht möglich</string>
+  <string name="vcard_import_failed">Importieren der vCard %s nicht möglich</string>
   <string name="vcard_import_request_rejected_message">Die vCard-Importanfrage wurde abgelehnt. Später erneut versuchen.</string>
   <string name="vcard_import_will_start_message">%s wird in Kürze importiert</string>
   <string name="vcard_import_will_start_message_with_default_name">Die Datei wird in Kürze importiert</string>
