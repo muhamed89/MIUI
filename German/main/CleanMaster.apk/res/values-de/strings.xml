@@ -133,7 +133,7 @@
   <string name="go_to">Fortfahren</string>
   <string name="goto_set">Einrichten</string>
   <string name="grabage_rank_title">heute bereinigt</string>
-  <string name="header_optimizer">Bei Verwendung dieses Dienstes akzeptieren Sie %s.</string>
+  <string name="header_optimizer">Bei Verwendung dieses Dienstes akzeptieren Sie %s</string>
   <string name="hint_bar_select_image">%d ausgewählt</string>
   <string name="hint_clean_select_similar_image">Duplikate Löschen…</string>
   <string name="hints_ad_header_left">Werbung</string>
@@ -180,7 +180,7 @@
   <string name="hints_scanfinish">Nichts gefunden. Versuchen Sie eine gründliche Bereinigung</string>
   <string name="hints_storage_clean_size">%s internen Speicher bereinigt</string>
   <string name="hints_storage_free">Frei</string>
-  <string name="hints_storage_free_size">%s verfügbar, weitere Elemente können bereinigt werden​</string>
+  <string name="hints_storage_free_size">Total %1$s | Available %2$s</string>
   <string name="hints_storage_news">Sicherheitsnachrichten</string>
   <string name="hints_title_garbage">Datenmüll</string>
   <string name="item_title_process_mode">Aktion wählen</string>
