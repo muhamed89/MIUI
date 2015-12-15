@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="app_name_edit_picture">Edit picture</string>
+  <string name="buy_member_tip">become a member.</string>
+  <string name="calculated_pictures_time_tip">Sorted photos from %1$s till now. Remaining photos will be sorted gradually. To speed up this process, %2$s</string>
+  <string name="calculated_pictures_time_tip_for_no_vip">Sorted photos from %1$s till now. Remaining photos will be sorted gradually.</string>
+  <string name="calculated_pictures_time_tip_for_vip">Sorted photos from %1$s till now. Remaining photos will be sorted soon.</string>
+  <string name="not_ask_any_more">"Don't ask again for \"%s\" answers"</string>
+  <string name="petabyteShort">PB</string>
+  <string name="sync_battery_low">Low battery</string>
+  <string name="ubifocus_refocus_data_invalid">"Can't refocus because some of this image's data is invalid"</string>
+  <string name="view_queuing_status">Check status</string>
   <string name="Import">Importieren</string>
   <string name="abandon">Abbrechen</string>
   <string name="accept">Annehmen</string>
