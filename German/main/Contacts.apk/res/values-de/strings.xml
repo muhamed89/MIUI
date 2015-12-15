@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="exporting_contact_list_progress" formatted="false">%s of %s contacts</string>
+  <string name="fail_reason_could_not_open_file" formatted="false">"Couldn't open \"%s\": %s"</string>
+  <string name="importing_vcard_finished_title">Finished importing vCard %s</string>
+  <string name="more_call_logs">View detailed call history at i.mi.com</string>
   <string name="accessibility_calllog_detail">Anruflistendetails</string>
   <string name="account_container_title">Importiert von</string>
   <string name="account_default">Telefon</string>
