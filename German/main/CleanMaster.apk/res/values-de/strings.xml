@@ -180,7 +180,7 @@
   <string name="hints_scanfinish">Nichts gefunden. Versuchen Sie eine gründliche Bereinigung</string>
   <string name="hints_storage_clean_size">%s internen Speicher bereinigt</string>
   <string name="hints_storage_free">Frei</string>
-  <string name="hints_storage_free_size">Total %1$s | Available %2$s</string>
+  <string name="hints_storage_free_size">%1$s gesamt | %2$s frei</string>
   <string name="hints_storage_news">Sicherheitsnachrichten</string>
   <string name="hints_title_garbage">Datenmüll</string>
   <string name="item_title_process_mode">Aktion wählen</string>
