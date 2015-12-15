@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="zen_mode_duration_hours_summary">
+        <item quantity="other">For %1$d hours (until %2$s)</item>
+        <item quantity="one">For one hour (until %2$s)</item>
+     </plurals>
+     <plurals name="zen_mode_duration_minutes_summary">
+        <item quantity="other">For %1$d minutes (until %2$s)</item>
+        <item quantity="one">For one minute (until %2$s)</item>
+     </plurals>
     <plurals name="pinpuk_attempts">
-        <item quantity="other">Sie haben noch %d Versuche, bevor Ihre SIM-Karte gesperrt wird.</item>
-        <item quantity="one">Sie haben noch %d Versuch, bevor Ihre SIM-Karte gesperrt wird.</item>
+        <item quantity="other">Sie haben noch %d Versuche, bevor Ihre SIM-Karte gesperrt wird</item>
+        <item quantity="one">Sie haben noch %d Versuch, bevor Ihre SIM-Karte gesperrt wird</item>
     </plurals>
     <plurals name="num_seconds_ago">
         <item quantity="other">vor %d Sekunden</item>
