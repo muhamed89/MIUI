@@ -1,5 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="activity_title_brightness_image">Under and overexposed</string>
+     <string name="activity_title_screenshot">Screenshots</string>
+     <string name="activity_title_similar_image">Duplicate photos</string>
+     <string name="activity_title_tedious_image">Accidental photos</string>
+     <string name="button_text_deselect_all_photos">Deselect all</string>
+     <string name="button_text_photo_selected">Selected</string>
+     <string name="button_text_select_all_photos">Select all</string>
+     <string name="close">Close</string>
+     <string name="deepclean_app_summary_empty">Everything looks good, no apps to delete​</string>
+     <string name="deepclean_cache_summary_empty">Everything looks good, no data to clear</string>
+     <string name="deepclean_large_summary_empty">Everything looks good, no files to delete</string>
+     <string name="deepclean_list_item_from_miui">miui</string>
+     <string name="deepclean_list_item_from_music">music</string>
+     <string name="deepclean_similar_summary_empty">Everything looks good, no photos to delete</string>
+     <string name="deepclean_size_summary_less">Not enough space</string>
+     <string name="deepclean_size_summary_more">Enough storage space available</string>
+     <string name="deepclean_size_summary_normal">Storage space available</string>
+     <string name="hints_quick_deep_clean">Clean now</string>
+     <string name="hints_quick_deep_scanning">Scanning</string>
+     <string name="hints_quick_deep_uninstall">Delete now</string>
+     <string name="hot_today">Popular today</string>
+     <string name="label_image_list_none">None</string>
+     <string name="label_preserve_the_best_image">Save the sharpest photos</string>
+     <string name="see_more">More</string>
+     <string name="sponsored">Sponsored</string>
   <string name="activity_title_ad">Werbung</string>
   <string name="activity_title_apk">Pakete</string>
   <string name="activity_title_cache">Cache</string>
