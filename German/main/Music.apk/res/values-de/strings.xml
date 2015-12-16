@@ -1,5 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="auto_payment_date">Next payment: %s</string>
+  <string name="being_disable_auto_payment">Turning off…</string>
+  <string name="being_enable_auto_payment">Turning on…</string>
+  <string name="cloud_space_full">No storage space left</string>
+  <string name="cloud_space_full_message">Not enough room in your Mi Cloud to add more songs. To get more space, upgrade your Mi Account.</string>
+  <string name="confirm_to_renew">Renew</string>
+  <string name="disable_auto_payment_fail">"Couldn't turn off"</string>
+  <string name="disable_auto_payment_fail_message">"Couldn't turn off automatic renewal"</string>
+  <string name="disable_auto_payment_success">Turned off</string>
+  <string name="disable_auto_payment_success_message">"Turned off automatic renewal. After your current subscription expires, you'll have to subscribe again to download songs."</string>
+  <string name="do_not_remind_again">"Don't show again"</string>
+  <string name="enable_auto_payment_fail">"Couldn't turn on"</string>
+  <string name="enable_auto_payment_fail_message">"Couldn't turn on automatic renewal"</string>
+  <string name="enable_auto_payment_success">Renew automatically</string>
+  <string name="enable_auto_payment_success_message">Turned on automatic renewal. Next payment due on %s.</string>
+  <string name="not_now">Not now</string>
+  <string name="repeat_all_notif">Repeating all songs</string>
+  <string name="repeat_current_notif">Repeating current song</string>
+  <string name="shuffle_off_notif">Shuffle is off</string>
+  <string name="shuffle_on_notif">Shuffle is on</string>
+  <string name="to_mi_pay">Mi Credits</string>
+  <string name="upgrade_membership">Get more space</string>
+  <string name="vip_auto_renew_message">Your Music subscription will be renewed automatically this evening. Make sure you have enough Mi Credits in your account to complete this payment.</string>
+  <string name="vip_auto_renew_notification_message">Add Mi Credits to renew your Music subscription.</string>
+  <string name="vip_auto_renew_notification_title">Subscription payment</string>
+  <string name="vip_auto_renew_title">Subscription renewal</string>
+  <string name="vip_renew_message">"You won't be able to stream high quality audio, but some songs will be available in regular quality."</string>
+  <string name="vip_renew_notification_message">"You won't be able to stream high quality audio after your subscription expires."</string>
+  <string name="vip_renew_notification_title">Subscription expires tomorrow</string>
+  <string name="vip_renew_title">Subscription expired</string>
   <string name="account">Konto</string>
   <string name="account_and_cloud">Konto</string>
   <string name="nav_local_all">Alle</string>
