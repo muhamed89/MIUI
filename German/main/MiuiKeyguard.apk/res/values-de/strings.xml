@@ -1,7 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="fingerprint_not_identified_msg">To unlock your device, enter your password.</string>
+  <string name="fingerprint_not_identified_title">"Can't read fingerprint"</string>
+  <string name="fingerprint_try_again_text">Try again</string>
   <string name="invalid_sim_pin_hint">Type a PIN that is 4 to 8 numbers</string>
   <string name="invalid_sim_puk_hint">PUK code should be 8 numbers or more</string>
+  <string name="lock_screen_date_12">EEEE, MMMM d</string>
+  <string name="set_lock_wallpaper_failed">No new wallpaper</string>
   <string name="click_to_enter_text">Zum Anzeigen antippen</string>
   <string name="confirm_pin_msg">PIN erneut eingeben</string>
   <string name="default_lockscreen_unlock_hint_text">Zum Entsperren nach oben wischen</string>
