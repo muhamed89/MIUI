@@ -1,5 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="add_card">添加卡片</string>
+     <string name="book_card_free">免费</string>
+     <string name="book_card_rating_text">|   %1$s 条评论</string>
+     <string name="card_manager">卡片管理</string>
+     <string name="card_title_change">换一换</string>
+     <string name="horoscope_card_comprehensive">综合运势：</string>
+     <string name="horoscope_card_financial">财富运势：</string>
+     <string name="horoscope_card_love">爱情运势：</string>
+     <string name="horoscope_card_working">事业运势：</string>
+     <string name="horoscope_select_activity_label">选择星座</string>
+     <string name="joke_card_icon_text">|  %1$s 人笑过</string>
+     <string name="jump_text">%1$s ></string>
+     <string name="ticket_card_date">%1$s月%2$s日</string>
+     <string name="ticket_card_description">今日可预定</string>
+     <string name="ticket_card_dialog_positive_button_text">安装</string>
+     <string name="ticket_card_lunar">%1$s的火车票</string>
+     <string name="ticket_card_phase">- 第%1$s期</string>
   <string name="accessibility_add_attendee">Teilnehmer hinzufügen</string>
   <string name="accessibility_add_reminder">Erinnerung hinzufügen</string>
   <string name="accessibility_all_day">Ganztägiges Termin</string>
