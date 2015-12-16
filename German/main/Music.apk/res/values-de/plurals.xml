@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="Nalert_msg_vip_songs_for_download_limited">
+        <item quantity="other">You can download %d Premium songs this month. Download selected songs?</item>
+     </plurals>
+     <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
+        <item quantity="other">You can download %d Premium songs this month. Update your Premium subscription to download more.</item>
+     </plurals>
     <plurals name="Ntracks_search_result">
         <item quantity="other">%d Lieder gefunden</item>
         <item quantity="one">%d Lied gefunden</item>
