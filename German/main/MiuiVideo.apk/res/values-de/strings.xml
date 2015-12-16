@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="download_url_waiting_no_wifi">Pending for WLAN unavailable</string>
   <string name="sniff">Sniff</string>
   <string name="vp_downloading_apk_title">Downloading %1$s</string>
   <string name="vp_notify_apk_installed">Install application %1$s successfully</string>
