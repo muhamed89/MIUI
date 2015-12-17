@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="apply_password_confirm_dlg_msg">Require password for %s?</string>
-  <string name="apply_password_confirm_dlg_title">This password will be used for %s</string>
+  <string name="apply_password_confirm_dlg_msg">Kennwort für %s erforderlich?</string>
+  <string name="apply_password_confirm_dlg_title">Dieses Passwort wird für %s verwendet</string>
   <string name="subinfo_default_name">SIM %d</string>
   <string name="all_call_livetalk_enable">Aufladepakete für nationale und internationale Anrufe verwenden</string>
   <string name="all_call_livetalk_remain_mins">Minuten übrig: %1$s National oder %2$s Ausland</string>
