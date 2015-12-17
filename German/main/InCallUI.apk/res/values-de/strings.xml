@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="card_title_video_call">Video Anruf</string>
-  <string name="livetalk_dial">Topping up</string>
+  <string name="livetalk_dial">Aufladen</string>
   <string name="livetalk_left_minute">%sm übrig</string>
   <string name="notification_incoming_video_call">Ankommender Video Anruf</string>
   <string name="picking_participant">Kontaktinfo erhalten…</string>
