@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="logo_title">Bug Report Center</string>
   <string name="action_cancel">Abbrechen</string>
   <string name="action_confirm">Auswählen</string>
   <string name="action_submit">Senden</string>
