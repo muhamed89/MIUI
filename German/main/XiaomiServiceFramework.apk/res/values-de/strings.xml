@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="activate_popup_desc_find_device_postfix">An activation SMS may be sent after you switch SIM cards</string>
+  <string name="activate_sms_postfix">This SMS is used to activate your Mi device</string>
   <string name="accept">OK</string>
   <string name="activate">Aktivieren</string>
   <string name="activate_auto_sms_notification_desc_1_card">SMS sgesendet um \"Gerät finden\" zu aktivieren</string>
