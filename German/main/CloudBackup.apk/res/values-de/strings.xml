@@ -2,62 +2,62 @@
 <resources>
   <string name="about_to_recover">Einen Moment…</string>
   <string name="app_name">Homescreen-Layout sichern​</string>
-  <string name="as_new_device">Replace previous Home screen and settings</string>
-  <string name="as_new_device_summary">Erase previous Mi Cloud backups</string>
-  <string name="cloud_back_up_date_format">HH:mm MM/dd/yyyy</string>
-  <string name="cloud_back_up_detail_discription">"Back up the data will be backed up to your Mi Cloud when your device is connected to WLAN: 
-*\u0009\u0009\u0009\u0009Apps and Home screen layout 
-*\u0009\u0009\u0009\u0009Ringtones, wallpapers, and fonts 
-*\u0009\u0009\u0009\u0009Alarm clock and time settings 
-*\u0009\u0009\u0009\u0009Notification settings 
-*\u0009\u0009\u0009\u0009Do not disturb mode settings 
-*\u0009\u0009\u0009\u0009MIUI and system settings 
-Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
-  <string name="cloud_back_up_frequence_choice_title">Backup schedule</string>
-  <string name="cloud_back_up_frequence_long">Every 7 days</string>
-  <string name="cloud_back_up_frequence_short">Everyday</string>
-  <string name="cloud_back_up_interval_long">7 days</string>
-  <string name="cloud_back_up_interval_short">Every day</string>
-  <string name="cloud_back_up_no_network_warn">"Can't connect to the network"</string>
+  <string name="as_new_device">Vorherige Einstellungen und Startbildschirm ersetzen</string>
+  <string name="as_new_device_summary">Vorherige Mi Cloud Sicherungen löschen</string>
+  <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
+  <string name="cloud_back_up_detail_discription">"Folgende Daten werden in Ihrer Mi Cloud gesichert, wenn eine WLAN Verbindung besteht: 
+*\u0009\u0009\u0009\u0009Apps and das Startbildschirm Layout 
+*\u0009\u0009\u0009\u0009Klingeltöne, Hintergrundbilder, und Schriftarten 
+*\u0009\u0009\u0009\u0009Wecker and Zeiteinstellungen 
+*\u0009\u0009\u0009\u0009Benachrichtigungseinstellungen 
+*\u0009\u0009\u0009\u0009Einstellungen des \"Bitte nicht stören Modus\" 
+*\u0009\u0009\u0009\u0009MIUI und Systemeinstellungen 
+Wichtig: Die Daten der einzelnen Apps werden dabei nicht in der Mi Cloud gesichert."</string>
+  <string name="cloud_back_up_frequence_choice_title">Sicherungszeitplan</string>
+  <string name="cloud_back_up_frequence_long">Alle 7 Tage</string>
+  <string name="cloud_back_up_frequence_short">Täglich</string>
+  <string name="cloud_back_up_interval_long">7 Tage</string>
+  <string name="cloud_back_up_interval_short">Täglich</string>
+  <string name="cloud_back_up_no_network_warn">"Verbindung zum Netzwerk fehlgeschlagen"</string>
   <string name="cloud_back_up_ok_btn">OK</string>
-  <string name="cloud_back_up_opening">Just a sec…</string>
+  <string name="cloud_back_up_opening">Einen Moment…</string>
   <string name="cloud_back_up_share_activity_confirm">Upgrade</string>
-  <string name="cloud_back_up_share_activity_discription">Get more storage space, daily backups, and more.</string>
-  <string name="cloud_back_up_share_activity_title">Upgrade Mi Account</string>
-  <string name="cloud_backup_detail_frequence">Backup schedule</string>
-  <string name="cloud_backup_detail_frequence_day">%1$s Back up one time</string>
-  <string name="cloud_backup_detail_manage">Manage back up</string>
-  <string name="cloud_backup_detail_manage_summary">%1$s Back up, occupy size:%2$s</string>
-  <string name="cloud_backup_detail_state">Mi Cloud backup</string>
-  <string name="cloud_backup_detail_state_summary">Apps, Home screen and system settings</string>
-  <string name="cloud_backup_detail_time">, Back up time:%1$s</string>
-  <string name="confirm_restore">Restore</string>
-  <string name="confirm_restore_summary">Home screen will restart and apps will be downloaded automatically when connected to WLAN</string>
-  <string name="confirm_restore_title">Restore</string>
-  <string name="query_restore_back_view">Mi Cloud backup</string>
-  <string name="query_restore_description">Restore Home screen apps and settings using this backup. This will overwrite app data for duplicate apps already installed on this device. Apps not included in the backup will be moved to the last Home screen.</string>
-  <string name="query_restore_summary">Found a Mi Cloud backup for this device. Restore Home screen apps and settings or use it as a new device and erase previous Mi Cloud backups?</string>
-  <string name="restore_data_summary">This feature requires an internet connection.</string>
-  <string name="restore_from_this_device">Restore using this backup</string>
-  <string name="restore_home_screen_apps">Restore from Mi Cloud backup</string>
-  <string name="success_open_cloudbackup">Turned on backups for Home screen apps</string>
+  <string name="cloud_back_up_share_activity_discription">Holen Sie sich mehr Speicherplatz, tägliche Sicherungen und vieles mehr.</string>
+  <string name="cloud_back_up_share_activity_title">Mi Account upgraden</string>
+  <string name="cloud_backup_detail_frequence">Sicherungszeitplan</string>
+  <string name="cloud_backup_detail_frequence_day">%1$s einmalig sichern</string>
+  <string name="cloud_backup_detail_manage">Sicherung verwalten</string>
+  <string name="cloud_backup_detail_manage_summary">%1$s Sicherung, belegte Größe:%2$s</string>
+  <string name="cloud_backup_detail_state">Mi Cloud Sicherung</string>
+  <string name="cloud_backup_detail_state_summary">Apps, Startbildschirm und Systemeinstellungen</string>
+  <string name="cloud_backup_detail_time">, Sicherung Datum:%1$s</string>
+  <string name="confirm_restore">Wiederherstellen</string>
+  <string name="confirm_restore_summary">Der Startbildschirm wird neu gestartet und Ihre Apps werden automatisch geladen, vorausgesetzt eine WLAN Verbindung besteht</string>
+  <string name="confirm_restore_title">Wiederherstellen</string>
+  <string name="query_restore_back_view">Mi Cloud Sicherung</string>
+  <string name="query_restore_description">Startbildschirm Apps und Einstellungen aus dieser Sicherung wiederherstellen. Apps die bereits vorhanden sind, werden dabei überschrieben. Apps die nicht in der Sicherung enthalten sind, werden auf den letzten Startbildschirm verschoben.</string>
+  <string name="query_restore_summary">Eine Mi Cloud Sicherung wurde für dieses Gerät gefunden. Startbildschirm Apps und Einstellungen aus der Sicherung wiederherstellen oder dieses Gerät als Neu behandeln und alle älteren Sicherungen löschen?</string>
+  <string name="restore_data_summary">Diese Funktion benötigt eine Internetverbindung.</string>
+  <string name="restore_from_this_device">Diese Sicherung wiederherstellen</string>
+  <string name="restore_home_screen_apps">Wiederherstellen mit einer Sicherung aus der Mi Cloud</string>
+  <string name="success_open_cloudbackup">Sicherung der Startbildschirm Apps aktiviert</string>
   <string name="back_up_task_in_process">Sichern…</string>
   <string name="back_up_task_unfinished">Sicherung nicht vollständig</string>
   <string name="backing_up_to_micloud">Sichern…</string>
   <string name="backup_fail">"Sicherung der Homescreen-Apps fehlgeschlagen"</string>
   <string name="backup_size">Größe: %s</string>
-  <string name="backup_success">App-Sicherung erfolgreich</string>
-  <string name="backup_to_cloud">App Sichern</string>
+  <string name="backup_success">App Sicherung erfolgreich</string>
+  <string name="backup_to_cloud">App sichern</string>
   <string name="button_cancel">Abbrechen</string>
   <string name="button_delete">Löschen</string>
   <string name="button_next">Weiter</string>
   <string name="cancel_recover_settings"><u>Abbrechen</u></string>
   <string name="click_try_to_restore_again">Tippen, um es erneut zu versuchen</string>
-  <string name="cloud_app_backup_success">App-Sicherung abgeschlossen</string>
+  <string name="cloud_app_backup_success">App Sicherung abgeschlossen</string>
   <string name="cloud_app_check_data">Mit Mi Cloud verbinden…</string>
   <string name="cloud_app_current_device">Aktuelles Gerät</string>
   <string name="cloud_app_dont_restore">Nicht wiederherstellen</string>
-  <string name="cloud_app_no_data">Keine vorherigen App-Installationen gefunden</string>
+  <string name="cloud_app_no_data">Keine vorherigen App Installationen gefunden</string>
   <string name="cloud_app_no_network">"Verbindung zum Netzwerk nicht möglich"</string>
   <string name="cloud_app_other_devices">Andere Geräte</string>
   <string name="cloud_app_restore_app_and_data">Gerät einrichten</string>
