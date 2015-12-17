@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="livetalk_network_unavailable">Network unavailable</string>
-	 <string name="Result_title">SIM card contact</string>
-     <string name="advanced_settings_container">advanced settings container</string>
+  <string name="Result_title">SIM card contact</string>
      <string name="badPin">"The old PIN you typed isn't correct. Try again."</string>
      <string name="badPin2">"The old PIN2 you typed isn't correct. Try again."</string>
      <string name="badPuk2">"The PUK2 you typed isn't correct. Try again."</string>
