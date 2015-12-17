@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="card_title_video_call">Video call</string>
+  <string name="card_title_video_call">Video Anruf</string>
   <string name="livetalk_dial">Topping up</string>
-  <string name="livetalk_left_minute">%sm remaining</string>
-  <string name="notification_incoming_video_call">Incoming video call</string>
-  <string name="picking_participant">Getting contact info…</string>
-  <string name="video_call_not_allowed_if_tty_enabled">Turn off TTY mode first</string>
-  <string name="video_switch_to_voice_call_prompt">Switch to voice call</string>
-  <string name="voicemail">Voicemail</string>
+  <string name="livetalk_left_minute">%sm übrig</string>
+  <string name="notification_incoming_video_call">Ankommender Video Anruf</string>
+  <string name="picking_participant">Kontaktinfo erhalten…</string>
+  <string name="video_call_not_allowed_if_tty_enabled">Als erstes TTY Modus abschalten</string>
+  <string name="video_switch_to_voice_call_prompt">Wechsle zu Sprach Telefonie</string>
+  <string name="voicemail">Sprach Nachricht</string>
   <string name="card_title_incoming_conference_call">Eingehende Konferenz</string>
   <string name="card_title_upgrade_video_call_error">Video konnte nicht aktualisiert werden</string>
   <string name="card_title_upgrade_video_call_rejected_by_remote">Video konnte nicht aktualisiert werden</string>
