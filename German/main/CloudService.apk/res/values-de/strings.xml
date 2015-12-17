@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_denied">Zugriff verweigert</string>
-  <string name="cloud_back_up_summary">Back up when connected to WLAN</string>
-  <string name="cloud_backup_have_data">Found backup in Mi Cloud</string>
-  <string name="cloud_backup_select_recover">Choose backup from Mi Cloud</string>
-  <string name="cloud_restore_title">Restore from backup</string>
-  <string name="header_cloud_backup_settings">Back up and restore</string>
-  <string name="header_cloud_restore_summary">Reinstall apps and restore Home screen layout and system settings from a backup in Mi Cloud</string>
-  <string name="header_find_device_settings">Find device</string>
+  <string name="cloud_back_up_summary">Sichern, falls eine WLAN Verbindung besteht</string>
+  <string name="cloud_backup_have_data">Sicherung in Ihrer Mi Cloud gefunden</string>
+  <string name="cloud_backup_select_recover">Wählen Sie eine Sicherung aus Ihrer Mi Cloud</string>
+  <string name="cloud_restore_title">Sicherung wiederherstellen</string>
+  <string name="header_cloud_backup_settings">Sichern und wiederherstellen</string>
+  <string name="header_cloud_restore_summary">Apps neu installieren und Wiederherstellung des Startbildschirm Layouts und der Systemeinstellungen aus einer Mi Cloud Sicherung</string>
+  <string name="header_find_device_settings">Gerät finden</string>
   <string name="account">Konto</string>
   <string name="activate">Aktiviere</string>
   <string name="activate_number_change_dialog_message">Wählen Sie eine Telefonnummer, welche sichtbar für andere Geräte ist, wenn Sie per VoIP telefonieren.</string>
@@ -18,12 +18,12 @@
   <string name="apple_10gb">20GB</string>
   <string name="apple_cloud">Apple Cloud Service</string>
   <string name="apple_cloud_eng">iCloud</string>
-  <string name="apple_cloud_price">Etwa RMB 72 pro Jahr</string>
+  <string name="apple_cloud_price">Etwa 72 RMB pro Jahr</string>
   <string name="bad_authentication">Ungültiges Konto oder Passwort</string>
   <string name="btn_return">Zurück</string>
   <string name="button_cancel">Abbrechen</string>
   <string name="buy_more_space_b_class">"Loggen Sie sich bei mi.com/micloud ein, um mehr Speicherplatz zu erhalten.
-Sie benötigen eine Mainland China Bank Karte, um zusätzlichen Speicherplatz zu kaufen."</string>
+Sie benötigen eine Mainland China Bank Karte, um zusätzlichen Speicherplatz zu erwerben."</string>
   <string name="buy_more_space_c_class">"Diese Funtion setzt eine Mainland China Bank Karte voraus.
 Um mehr Speicherplatz zu erhalten, besuchen Sie mi.com/micloud."</string>
   <string name="buy_space_expire">Gekaufter Speicherplatz wird in %s verfallen</string>
