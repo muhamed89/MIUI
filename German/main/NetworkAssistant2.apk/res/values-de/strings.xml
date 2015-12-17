@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="traffic_alert_auto_modify_notification_sumarry">Monthly plan changed to %s.</string>
-  <string name="traffic_alert_auto_modify_notification_titile">Updated data plan</string>
-  <string name="traffic_alert_auto_modify_package_summary">"Automatically adjust data package according to the carrier's info"</string>
-  <string name="traffic_config_alert_auto_modify">Update data plan automatically</string>
-  <string name="traffic_config_alert_package">"
-Rolled over extra data"</string>
-  <string name="traffic_limit_error_alert_package">"
-
-Remaining data includes data that has been rolled over from the previous month."</string>
   <string name="add_miservice_dialog_content">Für %s ist es erforderlich das Sie die MIUI Service-Framework zur Ausnahmeliste hinzufügen.</string>
   <string name="add_miservice_dialog_title">MIUI Service Framework</string>
   <string name="add_to_whitelist_button">Ausnahmen verwalten</string>
@@ -476,7 +467,11 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="tips_dialog_title">"Limit ist nicht bekannt"</string>
   <string name="tips_message">"Um Ihre Tarifdetails zu erhalten, wählen Sie %2$s (%1$s)."</string>
   <string name="title_limit_traffic_per_day">Tägliche Datennnutzungsbeschränkung</string>
-  <string name="traffic_config_alert_body">"Ihr Anbieter übermittelt einen monatliches Datenlimit von %s.
+  <string name="traffic_alert_auto_modify_notification_sumarry">Monatlicher Plan geändert zu %s.</string>
+  <string name="traffic_alert_auto_modify_notification_titile">Datenverbauchsplan aktualisiert</string>
+  <string name="traffic_alert_auto_modify_package_summary">"Datenpakete automatisch anpassen, je nach Trägerinformationen"</string>
+  <string name="traffic_config_alert_auto_modify">Datenverbauchsplan automatisch aktualisieren</string>
+  <string name="traffic_config_alert_body">"Ihr Anbieter übermittelt ein monatliches Datenlimit von %s.
 
 Wollen Sie diese Daten übernehmen?"</string>
   <string name="traffic_config_alert_body_extra">"
@@ -492,6 +487,8 @@ Ihr monatlich eingestelltes Limit ist %1$s. Dies unterscheidet sich vom dem manu
   <string name="traffic_config_alert_cancel">Abbrechen</string>
   <string name="traffic_config_alert_nomore">"Nicht mehr zeigen"</string>
   <string name="traffic_config_alert_ok">OK</string>
+  <string name="traffic_config_alert_package">"
+Extra Datenverbauch überschritten"</string>
   <string name="traffic_config_alert_setted">Einstellungen wurden übernommen</string>
   <string name="traffic_config_alert_title">%s Korrektur</string>
   <string name="traffic_correction_failed">"Information nicht verfügbar"</string>
@@ -501,6 +498,9 @@ Ihr monatlich eingestelltes Limit ist %1$s. Dies unterscheidet sich vom dem manu
   <string name="traffic_correction_success_notify_message">Details anzeigen.</string>
   <string name="traffic_limit_error_alert_body">Ihr Anbieter übermittelt, dass Ihnen noch %1$s diesen Monat verbleiben. Das ist mehr, als das %2$s Limit, was Sie eingestellt haben.</string>
   <string name="traffic_limit_error_alert_iknow">OK</string>
+  <string name="traffic_limit_error_alert_package">"
+
+Der verbleibende Datenverbauch beinhalten auch jenen Verbrauch, welcher in dem letzten Monat überschritten wurde."</string>
   <string name="traffic_limit_error_alert_reset">Limit zurücksetzen</string>
   <string name="traffic_limit_error_alert_title">Erinnerung der Datenbeschränkung %s</string>
   <string name="traffic_none">Keine</string>
