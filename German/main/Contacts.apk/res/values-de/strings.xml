@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="miprofile_nick_name_divider">"  |  "</string>
+  <string name="miprofile_nick_name_edit_dialog_hint">Input nick name, like zhangsan</string>
+  <string name="miprofile_nick_name_edit_dialog_message">Nick name will show in calllog and detail</string>
+  <string name="miprofile_nick_name_edit_dialog_title">Edit nick name</string>
+  <string name="phone_number_too_long_toast">Number is too long</string>
   <string name="exporting_contact_list_progress" formatted="false">%s of %s contacts</string>
   <string name="fail_reason_could_not_open_file" formatted="false">"Couldn't open \"%s\": %s"</string>
   <string name="importing_vcard_finished_title">Finished importing vCard %s</string>
