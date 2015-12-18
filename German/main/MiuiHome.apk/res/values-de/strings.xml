@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="apply_as_lockwallpaper_action">Bildschirm sperren</string>
+  <string name="apply_as_lockwallpaper_action">Sperrbildschirm</string>
   <string name="activity_not_found">Anwendung nicht installiert</string>
   <string name="app_already_exist">App bereits vorhanden</string>
   <string name="app_being_backup_message">App wurde gesichert</string>
