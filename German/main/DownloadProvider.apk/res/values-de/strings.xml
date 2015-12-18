@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="privacy_tip_title">Use Xunlei Accelerator?</string>
+  <string name="privacy_tip_title">Benutze Xunlei Accelerator?</string>
   <string name="app_label">Download-Manager</string>
   <string name="auto_restart_under_wifi">Runterladen der Datei bei aktiver WLAN-Verbindung automatisch gestartet</string>
   <string name="button_cancel_download">Abbrechen</string>
