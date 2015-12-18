@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="activate_popup_desc_find_device_postfix">An activation SMS may be sent after you switch SIM cards</string>
-  <string name="activate_sms_postfix">This SMS is used to activate your Mi device</string>
   <string name="accept">OK</string>
   <string name="activate">Aktivieren</string>
   <string name="activate_auto_sms_notification_desc_1_card">SMS sgesendet um \"Gerät finden\" zu aktivieren</string>
@@ -41,6 +39,7 @@ Geben Sie die zugehörige Telefonnummer  ein, um %s zu reaktiviren"</string>
   <string name="activate_popup_desc_failed_receive_sms">Bitte überprüfen Sie die eingegebene Nummer und stellen Sie sicher das Ihre SIM-Karte im Netz angemeldet ist.</string>
   <string name="activate_popup_desc_failed_send_sms">Aktivierungs SMS konnte nicht gesendet werden. Bitte stellen Sie sicher, dass Ihre SIM-Karte im Netz angemeldet ist.</string>
   <string name="activate_popup_desc_failed_server">Serverfehler. Bitte prüfen Sie Ihrer Netzwerkverbindung.</string>
+  <string name="activate_popup_desc_find_device_postfix">Wenn Sie die Sim-Karte wechseln, wird möglicherweise eine Aktivierungs-SMS gesendet</string>
   <string name="activate_popup_desc_intl_sim_card">Zum aktivieren Ihrer SIM-Karte wird eine internationale SMS verschickt, damit Funktionen wie %s verwendet werden können (Tarif Ihres Mobilfunkanbieters)</string>
   <string name="activate_popup_desc_mixed_sim_cards">Zum aktivieren Ihrer 2 SIM-Karten werden ein SMS und eine internationale SMS verschickt, damit Funktionen wie %s verwendet werden können (Tarif Ihres Mobilfunkanbieters)</string>
   <string name="activate_popup_desc_new_2_intl_sim_cards">Ihre SIM-Karten wurden gewechselt. Um die 2 neuen SIM-Karten zu aktivieren werden 2 internationale SMS verschickt, damit Funktionen wie %s verwendet werden können (Tarif Ihres Mobilfunkanbieters).</string>
