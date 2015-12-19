@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="livetalk_network_unavailable">Network unavailable</string>
-  <string name="Result_title">SIM card contact</string>
-     <string name="badPin">"The old PIN you typed isn't correct. Try again."</string>
-     <string name="badPin2">"The old PIN2 you typed isn't correct. Try again."</string>
-     <string name="badPuk2">"The PUK2 you typed isn't correct. Try again."</string>
+  <string name="livetalk_network_unavailable">Netzwerk nicht verfügbar</string>
+  <string name="Result_title">SIM-Karte Kontakt</string>
+     <string name="badPin">"Die alte PIN wurde falsch eingegeben. Versuch es noch einmal."</string>
+     <string name="badPin2">"Der alte PIN2 wurde falsch eingegeben. Versuch es noch einmal."</string>
+     <string name="badPuk2">"Der PUK2 wurde falsch eingegeben. Versuch es noch einmal."</string>
      <string name="callFailed_incoming_cb_enabled">Party has barred all Incoming calls.</string>
      <string name="callUnanswered_forwarded">Call Unanswered and Forwarded</string>
      <string name="call_ind_services">Call Independent Services</string>
