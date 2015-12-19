@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="passport_xiaomi_account_sec_dspt2_vip">Signing in to your Mi Account requires an internet connection. In addition, location access, Mi Cloud, and Mi VIP will be turned on automatically.</string>
+  <string name="passport_xiaomi_account_sec_dspt2_vip">Anmelden bei Ihrem MiKonto erfordert eine Internetverbindung. Darüber hinaus werden zugangsdaten wie, Mi-Cloud und Mi-VIP automatisch aktiviert.</string>
   <string name="about_device_info">Geräteinfo anzeigen</string>
   <string name="access_denied">Zugang verweigert</string>
   <string name="access_token_expired_warning">Weibo Konto ist abgelaufen</string>
