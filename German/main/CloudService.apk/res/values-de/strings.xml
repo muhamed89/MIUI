@@ -98,7 +98,7 @@ Zuletzt gesichert am %2$s"</string>
   <string name="find_device_status_ok">Finde dein Gerät überall auf i.mi.com</string>
   <string name="find_device_status_ok_international">Finde dein Gerät überall auf www.mi.com/micloud</string>
   <string name="find_device_success_title">Finde Gerät</string>
-  <string name="forget_password">&lt;u&gt;Forgot password&lt;/u&gt;</string>
+  <string name="forget_password">&lt;u&gt;Passwort vergessen&lt;/u&gt;</string>
   <string name="free_space_has_received">Sie haben bereits freien Speicher diesen Monat hinzugefügt</string>
   <string name="free_space_receive_fail">"Upgrade fehlgeschlagen"</string>
   <string name="get_first_month_gb">Erhalte %s freien Speicher</string>
