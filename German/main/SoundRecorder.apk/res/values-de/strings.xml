@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="cloud_record_open">Sync recordings</string>
-  <string name="cloud_record_tip">Sync recordings with Mi Cloud</string>
-  <string name="cloud_status_full_dialog_cancel">Not now</string>
-  <string name="cloud_status_full_dialog_msg">"Your cloud storage is full, can't sync recordings. Upgrade your account to get more storage space."</string>
-  <string name="cloud_status_full_dialog_ok">Upgrade</string>
-  <string name="cloud_status_full_dialog_title">Mi Cloud storage full</string>
-  <string name="record_download_msg">Recordings can only be played after they have finished downloading</string>
+  <string name="cloud_record_open">Aufnahmen synchronisieren</string>
+  <string name="cloud_record_tip">Aufnahmen mit der MiCloud synchronisieren.</string>
+  <string name="cloud_status_full_dialog_cancel">Nicht jetzt</string>
+  <string name="cloud_status_full_dialog_msg">"Die Aufnahmen können nicht synchronisiert werden, weil Ihr Cloud-Speicher voll ist. Erweitern Sie Ihr Konto, um mehr Speicherplatz zu erhalten."</string>
+  <string name="cloud_status_full_dialog_ok">Erweitern</string>
+  <string name="cloud_status_full_dialog_title">Der MiCloud-Speicher ist voll</string>
+  <string name="record_download_msg">Aufnahmen können erst abgespielt werden nachdem sie vollständig runtergeladen sind.</string>
   <string name="alert_message_delete_record">Ausgewählte Aufnahme(n) löschen?</string>
   <string name="alert_message_delete_record_title">Lösche Aufnahme</string>
   <string name="app_name">Rekorder</string>
