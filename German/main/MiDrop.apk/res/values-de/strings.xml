@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="receiver_apk_file_current">Receiving %2$d apps from %1$s</string>
-  <string name="receiver_audio_file_current">Receiving %2$d songs from %1$s</string>
-  <string name="receiver_clean">Free up space</string>
-  <string name="receiver_file_current">Receiving %2$d files from %1$s</string>
-  <string name="receiver_insufficient_storage">Not enough memory</string>
-  <string name="receiver_insufficient_storage_cannot_send">"Can't send: not enough memory"</string>
-  <string name="receiver_pic_file_current">Receiving %2$d images from %1$s</string>
-  <string name="receiver_video_file_current">Receiving %2$d​ videos from %1$s</string>
-  <string name="sender_reject_kick_off">Please try it later</string>
+  <string name="receiver_apk_file_current">Empfange %2$d Apps von %1$s</string>
+  <string name="receiver_audio_file_current">Empfange %2$d Lieder von %1$s…</string>
+  <string name="receiver_clean">Speicher bereinigen</string>
+  <string name="receiver_file_current">Empfange %2$d Dateien von %1$s…</string>
+  <string name="receiver_insufficient_storage">Ungenügend Speicher</string>
+  <string name="receiver_insufficient_storage_cannot_send">"Senden fehlgeschlagen: Ungenügend Speicher"</string>
+  <string name="receiver_pic_file_current">Empfange %2$d Bilder von %1$s…</string>
+  <string name="receiver_video_file_current">Empfange %2$d​ Videos von %1$s…</string>
+  <string name="sender_reject_kick_off">Bitte versuchen Sie es später erneut</string>
   <string name="Connect">Verbinden</string>
   <string name="Disconnect">Trennen</string>
   <string name="Register">Registrieren</string>
