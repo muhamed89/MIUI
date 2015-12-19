@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="miprofile_nick_name_divider">"  |  "</string>
-  <string name="miprofile_nick_name_edit_dialog_hint">Input nick name, like zhangsan</string>
-  <string name="miprofile_nick_name_edit_dialog_message">Nick name will show in calllog and detail</string>
-  <string name="miprofile_nick_name_edit_dialog_title">Edit nick name</string>
-  <string name="phone_number_too_long_toast">Number is too long</string>
-  <string name="exporting_contact_list_progress" formatted="false">%s of %s contacts</string>
-  <string name="fail_reason_could_not_open_file" formatted="false">"Couldn't open \"%s\": %s"</string>
-  <string name="importing_vcard_finished_title">Finished importing vCard %s</string>
-  <string name="more_call_logs">View detailed call history at i.mi.com</string>
+  <string name="miprofile_nick_name_edit_dialog_hint">Spitzname eingeben, wie zhangsan</string>
+  <string name="miprofile_nick_name_edit_dialog_message">Spitzname wird in calllog und Detail anzeigen</string>
+  <string name="miprofile_nick_name_edit_dialog_title">Spitznamen bearbeiten</string>
+  <string name="phone_number_too_long_toast">Nummer ist zu lang</string>
+  <string name="exporting_contact_list_progress" formatted="false">%s von %s Kontakten</string>
+  <string name="fail_reason_could_not_open_file" formatted="false">"Konnte nicht geöffnet werden \"%s\": %s"</string>
+  <string name="importing_vcard_finished_title">Fertige vCard importieren %s</string>
+  <string name="more_call_logs">Detaillierte Anrufliste anzeigen auf i.mi.com</string>
   <string name="accessibility_calllog_detail">Anruflistendetails</string>
   <string name="account_container_title">Importiert von</string>
   <string name="account_default">Telefon</string>
