@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="notify_daily_data_usage_body">To limit data usage automatically, set up your monthly data plan</string>
+  <string name="notify_daily_data_usage_body">Um den Datenverbrauch automatisch zu begrenzen, richten Sie Ihren monatlichen Datenplan ein.</string>
   <string name="traffic_saving_detail">Details</string>
-  <string name="traffic_saving_mobile_usage">Mobile usage</string>
-  <string name="traffic_saving_notify_no_apps_saving_content">Tap to turn on Data saver</string>
+  <string name="traffic_saving_mobile_usage">Mobilverbrauch</string>
+  <string name="traffic_saving_notify_no_apps_saving_content">Tippen, um die Datenreduzierung zu aktivieren.</string>
   <string name="traffic_saving_tecsupport_international">Powered by Opera Max</string>
-  <string name="traffic_saving_wifi_usage">WLAN usage</string>
+  <string name="traffic_saving_wifi_usage">WLAN-Verbrauch</string>
   <string name="add_miservice_dialog_content">Für %s ist es erforderlich das Sie die MIUI Service-Framework zur Ausnahmeliste hinzufügen.</string>
   <string name="add_miservice_dialog_title">MIUI Service Framework</string>
   <string name="add_to_whitelist_button">Ausnahmen verwalten</string>
