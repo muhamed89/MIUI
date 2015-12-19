@@ -3,7 +3,7 @@
   <string name="China_Mobile">China Mobile</string>
   <string name="China_Telecom">China Telecom</string>
   <string name="China_Unicom">China Unicom</string>
-  <string name="android_start_title">Android wird startet…</string>
+  <string name="android_start_title">Android wird gestartet…</string>
   <string name="android_upgrading_fstrim">Optimieren von Speichersystemen</string>
   <string name="bugreport_status" formatted="false">%s (%s)</string>
   <string name="config_defaultNetworkScorerPackageName" />
