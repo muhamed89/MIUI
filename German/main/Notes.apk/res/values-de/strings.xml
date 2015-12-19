@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="alert_message_delete_note">Delete this note?</string>
-  <string name="sns_message_disconnect">"Can't connect to the network. Check your connection and try again."</string>
-  <string name="widget_under_privacy_mode">"Can't view notes in Guest mode"</string>
+  <string name="alert_message_delete_note">Diese Notiz löschen?</string>
+  <string name="sns_message_disconnect">"Netzwerkverbindungsfehler. Überprüfen Sie Ihre Verbindung und versuchen es erneut."</string>
+  <string name="widget_under_privacy_mode">"Notizen können im Gastmodus nicht angezeigt werden"</string>
   <string name="add_account_desc">Notizen mit dem Mi Konto synchronisieren?</string>
   <string name="alarm_bar_title">Erinnerung</string>
   <string name="alert_action_edit_anyway">Bearbeiten fortsetzen</string>
