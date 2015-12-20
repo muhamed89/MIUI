@@ -1,19 +1,19 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_setup_failed_dlg_unknown_auth_message">Unknown error</string>
+  <string name="account_setup_failed_dlg_unknown_auth_message">Unbekannter Fehler</string>
   <string name="account_setup_options_mail_window_label_imap_or_pop3">Keep for</string>
-  <string name="del_account_questionnair_hint">"Could you tell us why you're deleting this account?"</string>
+  <string name="del_account_questionnair_hint">"Könnten Sie uns sagen, warum Sie dieses Konto löschen wollen?"</string>
   <string name="dialog_change_sync_lookback">The mail received %s ago will be deleted automatically. Tap to change.</string>
   <string name="folder_junk_name_en4">Junk</string>
-  <string name="questionnair_body_invisibility">"Messages aren't displayed"</string>
-  <string name="questionnair_confirm_delete">Delete</string>
-  <string name="questionnair_instability">Unstable app, crashes frequently</string>
-  <string name="questionnair_not_send">"Can't send mail"</string>
+  <string name="questionnair_body_invisibility">"Nachrichten werden nicht angezeigt"</string>
+  <string name="questionnair_confirm_delete">Löschen</string>
+  <string name="questionnair_instability">Unstable app stürzt häufig ab.</string>
+  <string name="questionnair_not_send">"kann keine e-Mails senden"</string>
   <string name="questionnair_not_sync">Unstable sync</string>
-  <string name="questionnair_other_reasons">Other reasons</string>
-  <string name="questionnair_title">Deleting account</string>
-  <string name="questionnair_ui_not_pretty">"Don't like the design"</string>
-  <string name="questionnair_waste_resource">Deleting might free up storage</string>
+  <string name="questionnair_other_reasons">Andere Gründe</string>
+  <string name="questionnair_title">Konto löschen</string>
+  <string name="questionnair_ui_not_pretty">"Das Design mag ich nicht"</string>
+  <string name="questionnair_waste_resource">Um mehr Speicher freizugeben, müssen löschen</string>
   <string name="SMTP_independent_verification_text">SMTP unabhängige Überprüfung</string>
   <string name="SMTP_password_text">Passwort</string>
   <string name="SMTP_username_text">Benutzername</string>
