@@ -17,7 +17,7 @@
   <string name="activity_main_alert"/>
   <string name="activity_main_one_alert"/>
   <string name="activity_main_refresh_fail">"Verbindung zum Netzwerk konnte nicht aufgebaut werden"</string>
-  <string name="activity_main_time_format">dd/MM</string>
+  <string name="activity_main_time_format">d. MMMM, E</string>
   <string name="activity_main_update_time">Aktualisiert %1$s</string>
   <string name="activity_main_update_time_right_now">Gerade eben</string>
   <string name="activity_weathermain_locationg">Lokalisieren…</string>
@@ -52,7 +52,6 @@
   <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s später.</string>
   <string name="daily_forcast_wind_connect">%1$s %2$s</string>
-  <string name="data_source_time_fromat">"dd-MM-yyyy'T'HH:mm:ss"</string>
   <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_alert_city_title"/>
   <string name="edit_city">Bearbeiten</string>
@@ -62,13 +61,13 @@
   <string name="gps_hint">Aktueller Standort</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="hourly_forcast_now">Jetzt</string>
-  <string name="indices_desc_Precip1hr">%1$smm</string>
+  <string name="indices_desc_Precip1hr">%1$s mm</string>
   <string name="indices_desc_feel">Fühlt sich wie %1$s°C an</string>
   <string name="indices_desc_feel_without_pic">%1$s°C</string>
   <string name="indices_desc_humidity">Luftfeuchtigkeit %1$s%%</string>
   <string name="indices_desc_humidity_without_pic">%1$s%%</string>
   <string name="indices_desc_pressure">%1$s hPa</string>
-  <string name="indices_desc_visibility">%1$skm</string>
+  <string name="indices_desc_visibility">%1$s km</string>
   <string name="indices_no_restriction">Keine</string>
   <string name="indices_title_Precip1hr">Niederschlag pro Stunde</string>
   <string name="indices_title_car_wash">Auto waschen</string>
@@ -87,8 +86,8 @@
   <string name="location_management">Standorte</string>
   <string name="location_tag">Lokalisieren</string>
   <string name="menu_location">Orte</string>
-  <string name="network_not_available">"Kann nicht mit Netzwerk verbinden"</string>
-  <string name="network_unavailable">"Verbindung zum Netzwerk nicht möglich."</string>
+  <string name="network_not_available">Kann nicht mit Netzwerk verbinden</string>
+  <string name="network_unavailable">Verbindung zum Netzwerk nicht möglich</string>
   <string name="no_network_btn">Wiederholen</string>
   <string name="open_browser">In Browser öffnen</string>
   <string name="share">Teilen</string>
@@ -100,7 +99,7 @@
   <string name="share_title">Teile Wetterbericht</string>
   <string name="share_weather_desc">\#MIUI Weather#Heute %1$s %2$s</string>
   <string name="share_weather_desc_alert">%1$s%2$s</string>
-  <string name="share_weather_desc_split">,</string>
+  <string name="share_weather_desc_split">", "</string>
   <string name="share_weather_save_pic_fail">"Screenshot konnte nicht aufgenommen werden"</string>
   <string name="sunrise">Sonnenaufgang</string>
   <string name="sunset">Sonnenuntergang</string>
