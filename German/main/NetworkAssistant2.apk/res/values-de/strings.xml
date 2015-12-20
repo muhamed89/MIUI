@@ -1,11 +1,5 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="notify_daily_data_usage_body">Um den Datenverbrauch automatisch zu begrenzen, richten Sie Ihren monatlichen Datenplan ein.</string>
-  <string name="traffic_saving_detail">Details</string>
-  <string name="traffic_saving_mobile_usage">Mobilverbrauch</string>
-  <string name="traffic_saving_notify_no_apps_saving_content">Tippen, um die Datenreduzierung zu aktivieren.</string>
-  <string name="traffic_saving_tecsupport_international">Powered by Opera Max</string>
-  <string name="traffic_saving_wifi_usage">WLAN-Verbrauch</string>
   <string name="add_miservice_dialog_content">Für %s ist es erforderlich das Sie die MIUI Service-Framework zur Ausnahmeliste hinzufügen.</string>
   <string name="add_miservice_dialog_title">MIUI Service Framework</string>
   <string name="add_to_whitelist_button">Ausnahmen verwalten</string>
@@ -267,6 +261,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="networkchanged_exception_title">Verbindung gewechselt</string>
   <string name="no_network_btn">Erneut versuchen</string>
   <string name="none_mi_service_app_detail">Leer</string>
+  <string name="notify_daily_data_usage_body">Um den Datenverbrauch automatisch zu begrenzen, richten Sie Ihren monatlichen Datenplan ein.</string>
   <string name="notify_daily_limit_body">Antippen, um Limit festzulegen.</string>
   <string name="notify_daily_limit_title">Heute %s verbraucht.</string>
   <string name="notify_daily_limit_title_for_slotnum">Tageslimit für %s festlegen</string>
@@ -462,7 +457,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="tc_sms_report_upload_success">"Datenverbrauchs SMS übermittelt. Wir werden uns gleich darum kümmern!"</string>
   <string name="tc_sms_report_upload_when_net">Vielen Dank für Ihr Feedback!</string>
   <string name="ten_percent_total_pkg">%s (10%% der monatlichen Daten)</string>
-  <string name="text_day"/>
+  <string name="text_day" />
   <string name="three_percent_total_pkg">%s (3%% der monatlichen Daten)</string>
   <string name="timeshow_h">%.1fh</string>
   <string name="timeshow_h_int">%dh</string>
@@ -528,6 +523,7 @@ Der verbleibende Datenverbauch beinhalten auch jenen Verbrauch, welcher in dem l
   <string name="traffic_saving_button_start">Einschalten</string>
   <string name="traffic_saving_button_stop">Ausschalten</string>
   <string name="traffic_saving_can_optimized">Optimieren</string>
+  <string name="traffic_saving_detail">Details</string>
   <string name="traffic_saving_history_title">Verlauf</string>
   <string name="traffic_saving_history_total_money">Gesamt gespart</string>
   <string name="traffic_saving_history_total_money_unit">RMB</string>
@@ -538,12 +534,14 @@ Der verbleibende Datenverbauch beinhalten auch jenen Verbrauch, welcher in dem l
   <string name="traffic_saving_history_total_rate">Tarif</string>
   <string name="traffic_saving_history_total_rate_unit">%</string>
   <string name="traffic_saving_history_total_traffic">Daten reduziert</string>
+  <string name="traffic_saving_mobile_usage">Mobilverbrauch</string>
   <string name="traffic_saving_msg_month">Diesen Monat gespart</string>
   <string name="traffic_saving_msg_not_started">Data Saver ist AUS</string>
   <string name="traffic_saving_msg_today">heute gespart</string>
   <string name="traffic_saving_need_optimize">Kann optimiert werden</string>
   <string name="traffic_saving_notification_button_start">Aktivieren</string>
   <string name="traffic_saving_notify_no_apps_saving">Datenverbrauch reduzieren</string>
+  <string name="traffic_saving_notify_no_apps_saving_content">Tippen, um die Datenreduzierung zu aktivieren.</string>
   <string name="traffic_saving_notify_start_content">Diesen Monat %s gespart.</string>
   <string name="traffic_saving_notify_start_title">Datenverbrauch reduziert</string>
   <string name="traffic_saving_one_key_optimize">Optimieren, um Datenverbrauch zu reduzieren</string>
@@ -556,6 +554,7 @@ Der verbleibende Datenverbauch beinhalten auch jenen Verbrauch, welcher in dem l
   <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Data Saver automatisch aktivieren, um mobile Datennutzung von Apps zu reduzieren.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Wenn Sie einen monatliche Datentarif haben, denken Sie daran, Data Saver für individuelle Apps abzustellen, um zusätzliche Gebühren von Ihrem Mobilfunkbetreiber zu meiden.&lt;/font&gt;"</string>
   <string name="traffic_saving_start_tip_title">Aktivieren</string>
   <string name="traffic_saving_tecsupport">Bereitgestellt von Opera</string>
+  <string name="traffic_saving_tecsupport_international">Powered by Opera Max</string>
   <string name="traffic_saving_title">Data Saver</string>
   <string name="traffic_saving_toast_start_mobile">Data Saver ist ein</string>
   <string name="traffic_saving_toast_start_none_mobile">Data Saver startet automatisch, wenn Sie die mobile Datenverbindung nutzen</string>
@@ -568,6 +567,7 @@ Der verbleibende Datenverbauch beinhalten auch jenen Verbrauch, welcher in dem l
   <string name="traffic_saving_whitelist_btn_removed">Die App wurde von der Liste entfernt</string>
   <string name="traffic_saving_whitelist_count">"&lt;font color='#4DAA0F'&gt;%1$d&lt;/font&gt; Apps' Datennutzung ist nicht begrenzt"</string>
   <string name="traffic_saving_whitelist_no_app">Keine Apps</string>
+  <string name="traffic_saving_wifi_usage">WLAN-Verbrauch</string>
   <string name="traffic_setting_app_count">%d Apps</string>
   <string name="traffic_setting_completed">OK</string>
   <string name="traffic_setting_extra_pkg_oversea_summary">Datentarif und Verbrauchslimit festlegen</string>
