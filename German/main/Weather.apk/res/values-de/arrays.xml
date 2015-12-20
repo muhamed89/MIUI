@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="moon_desc">
-        <item>Neumond</item>
-        <item>Zunehmender Halbmond</item>
-        <item>Erstes Viertel</item>
-        <item>Zunehmender Dreiviertelmond</item>
-        <item>Vollmond</item>
-        <item>Abnehmender Dreiviertelmond</item>
-        <item>Letztes Viertel</item>
-        <item>Abnehmender Halbmond</item>
-        <item>Neumond (Black Moon)</item>
-    </string-array>
     <string-array name="weather_type">
         <item>Sonnig</item>
         <item>Wolkig</item>
@@ -38,23 +27,44 @@
         <item>Staub</item>
         <item>Nebel</item>
         <item>Gefrierender Regen</item>
-        <item>Keine Daten</item>
+        <item></item>
     </string-array>
-    <string-array name="weather_indexes_uv_level">
-        <item>Niedrig</item>
-        <item>Mäßig</item>
-        <item>Hoch</item>
-        <item>Sehr Hoch</item>
-        <item>Extrem</item>
+    <string-array name="indices_uv_level">
+        <item>Schwach</item>
+        <item>Mittel</item>
+        <item>Stark</item>
+    </string-array>
+    <string-array name="indices_sport">
+        <item>Geeignet</item>
+        <item>Nicht geeignet</item>
+    </string-array>
+    <string-array name="indices_car_wash">
+        <item>Geeignet</item>
+        <item>Nicht geeignet</item>
     </string-array>
     <string-array name="wind_direction">
-        <item>Wind N</item>
-        <item>Wind NO</item>
-        <item>Wind O</item>
-        <item>Wind SO</item>
-        <item>Wind S</item>
-        <item>Wind SW</item>
-        <item>Wind W</item>
-        <item>Wind NW</item>
+        <item>N</item>
+        <item>NE</item>
+        <item>E</item>
+        <item>SE</item>
+        <item>S</item>
+        <item>SW</item>
+        <item>W</item>
+        <item>NW</item>
+    </string-array>
+    <string-array name="wind_power">
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
     </string-array>
 </resources>
