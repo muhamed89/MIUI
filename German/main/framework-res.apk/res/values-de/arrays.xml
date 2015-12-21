@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="app_ops_labels">
-        <item>Trying to access location</item>
-        <item>Trying to access location</item>
-        <item>Trying to access location</item>
-        <item>Trying to use vibrate</item>
-        <item>Trying to read contacts</item>
-        <item>Trying to write contacts</item>
-        <item>Trying to read call log</item>
-        <item>Trying to write call log</item>
-        <item>Trying to read calendar</item>
-        <item>Trying to modify calendar</item>
-        <item>Trying to access location</item>
-        <item>Trying to post notification</item>
-        <item>Trying to access location</item>
-        <item>Trying to make phone call</item>
-        <item>Trying to read SMS</item>
-        <item>Trying to write SMS</item>
-        <item>Trying to receive SMS</item>
-        <item>Trying to receive emergency SMS</item>
-        <item>Trying to receive MMS</item>
-        <item>Trying to receive WAP push</item>
-        <item>Trying to send SMS</item>
-        <item>Trying to read ICC SMS</item>
-        <item>Trying to write ICC SMS</item>
-        <item>Trying to modify settings</item>
-        <item>Trying to draw on top</item>
-        <item>Trying to access notifications</item>
-        <item>Trying to access Camera</item>
-        <item>Trying to record audio</item>
-        <item>Trying to play audio</item>
-        <item>Trying to read clipboard</item>
-        <item>Trying to modify clipboard</item>
-        <item>Trying to use media buttons</item>
-        <item>Trying to use audio focus</item>
-        <item>Trying to use master volume</item>
-        <item>Trying to use voice volume</item>
-        <item>Trying to use ring volume</item>
-        <item>Trying to use media volume</item>
-        <item>Trying to use alarm volume</item>
-        <item>Trying to use notification volume</item>
-        <item>Trying to use bluetooth volume</item>
-        <item>Trying to Keep device awake</item>
-        <item>Trying to access location</item>
-        <item>Trying to access location</item>
-        <item>Trying to get usage stats</item>
-        <item>Trying to mute microphone</item>
-        <item>Trying to toast window</item>
-        <item>Trying to project media</item>
-        <item>Trying to activate vpn</item>
-        <item>Trying to turn on/off WLAN</item>
-        <item>Trying to trun on/off bluetooth</item>
-        <item>Trying to send MMS</item>
-        <item>Trying to read MMS</item>
-        <item>Trying to write MMS</item>
-        <item>Trying to start at bootup</item>
-        <item>Trying to turn on/off NFC</item>
-        <item>Trying to delete SMS</item>
-        <item>Trying to delete MMS</item>
-        <item>Trying to delete contacts</item>
-        <item>Trying to delete call log</item>
-        <item>Trying to turn on mobile data</item>
++        <item>Versucht den Standort zu ermitteln</item>
++        <item>Versucht den Standort zu ermitteln</item>
++        <item>Versucht den Standort zu ermitteln</item>
++        <item>Versucht Vibration zu nutzen</item>
++        <item>Versucht Kontakte zu lesen</item>
++        <item>Versucht Kontakte zu ändern</item>
++        <item>Versucht Anrufliste zu lesen</item>
++        <item>Versucht Anrufliste zu ändern</item>
++        <item>Versucht Kalender zu lesen</item>
++        <item>Versucht Kalender zu ändern</item>
++        <item>Versucht den Standort zu ermitteln</item>
++        <item>Versucht eine Benachrichtigung zu senden</item>
++        <item>Versucht den Standort zu ermitteln</item>
++        <item>Versucht eine Anruf zu tätigen</item>
++        <item>Versucht eine SMS zu lesen</item>
++        <item>Versucht eine SMS zu ändern</item>
++        <item>Versucht eine SMS zu empfangen</item>
++        <item>Versucht eine SMS zu empfangen</item>
++        <item>Versucht eine MMS zu empfangen</item>
++        <item>Versucht eine SMS zu empfangen</item>
++        <item>Versucht eine SMS zu senden</item>
++        <item>Versucht eine SMS zu lesen</item>
++        <item>Versucht eine SMS zu ändern</item>
++        <item>Versucht die Einstellungen zu ändern</item>
++        <item>Versucht an der Spitze zu ziehen</item>
++        <item>Versucht zugriff auf die Benachrichtigung zu erhalten</item>
++        <item>Versucht auf die Kamera zu zugreifen</item>
++        <item>Versucht Audio aufzunehmen</item>
++        <item>Versucht Audio abzuspielen</item>
++        <item>Versucht die Zwischenablage zu lesen</item>
++        <item>Versucht die Zwischenablage zu ändern</item>
++        <item>Versucht die Mediatasten zu nutzen</item>
++        <item>Versucht den Audiofokus zu nutzen</item>
++        <item>Versucht die Hauptlautstärke zu nutzen</item>
++        <item>Versucht die Sprachlautstärke zu nutzen</item>
++        <item>Versucht die Klingeltonlautstärke zu nutzen</item>
++        <item>Versucht die Medialautstärke zu nutzen</item>
++        <item>Versucht die Alarmlautstärke zu nutzen</item>
++        <item>Versucht die Benachrichtigungslautstärke zu nutzen</item>
++        <item>Versucht die Bluetooth-Lautstärke zu nutzen</item>
++        <item>Versucht das Gerät wach zuhalten</item>
++        <item>Versucht den Standort abzufragen</item>
++        <item>Versucht den Standort abzufragen</item>
++        <item>Versucht Nutzungsstatistiken zu erhalten</item>
++        <item>Versucht das Mikrofon stumm zu schalten</item>
++        <item>Versucht das toast Fenster zu nutzen</item>
++        <item>Versucht Medienprojekt zu lesen</item>
++        <item>Versucht VPN zu aktivieren</item>
++        <item>Versucht WLAN An-/Auszuschalten</item>
++        <item>Versucht Bluetooth An-/Auszuschalten</item>
++        <item>Versucht MMS zu senden</item>
++        <item>Versucht MMS zu lesen</item>
++        <item>Versucht MMS zu schreiben</item>
++        <item>Versucht automatisch zu starten</item>
++        <item>Versucht NFC An-/Auszuschalten</item>
++        <item>Versucht SMS zu löschen</item>
++        <item>Versucht MMS zu löschen</item>
++        <item>Versucht Kontakte zu löschen</item>
++        <item>Versucht Anrufliste zu löschen</item>
++        <item>Versucht Datenverbindung An/Auszuschalten</item>
      </string-array>
     <string-array name="emailAddressTypes">
         <item>Privat</item>
