@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="default_lock_msg_words">Hi! I lost my phone. I will contact you later. Thank you for understanding!</string>
+  <string name="default_lock_msg_words_with_phone">Hi! I lost my phone. Could you please contact me? Thanks!</string>
+  <string name="device_lost">This device is lost</string>
+  <string name="lock_msg_phone">Contact information: %s</string>
   <string name="activate_xiaomi_account">Dieses Gerät aktivieren</string>
   <string name="app_name">Gerät finden</string>
   <string name="captcha">Captcha</string>
