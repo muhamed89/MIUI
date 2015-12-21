@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="select_message_send_sim">Choose SIM card</string>
   <string name="action_firewall_setting">Sperrliste</string>
   <string name="activity_not_found">Anhang konnte nicht geöffnet werden</string>
   <string name="activity_not_found_uri">Keine Anwendung zum Öffnen der Datei gefunden</string>
