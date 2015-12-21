@@ -23,10 +23,10 @@
   <string name="to_mi_pay">MiCredits</string>
   <string name="upgrade_membership">Mehr Platz</string>
   <string name="vip_auto_renew_message">Ihre Musik-Abonnement wird heute Abend automatisch verlängert. Stellen Sie sicher, dass Sie genügend Mi-Credits haben um diese Zahlung abzuschließen.</string>
-  <string name="vip_auto_renew_notification_message">Fügen Sie MiCredits um Ihr Musik-Abonnement verlängern.</string>
+  <string name="vip_auto_renew_notification_message">Fügen Sie MiCredits um Ihr Musik-Abonnement zu verlängern.</string>
   <string name="vip_auto_renew_notification_title">Abonnement-Zahlung</string>
   <string name="vip_auto_renew_title">Abo-Verlängerung</string>
-  <string name="vip_renew_message">"You won't be able to stream high quality audio, but some songs will be available in regular quality."</string>
+  <string name="vip_renew_message">"Es ist nicht möglich hochwertige Audio zu streamen, aber einige Songs werden in regelmäßigen Qualität verfügbar sein."</string>
   <string name="vip_renew_notification_message">"Es ist nicht möglich hochwertige Audio zu streamen, nachdem Ihr Abonnement abläuft."</string>
   <string name="vip_renew_notification_title">Abonnement gültig bis morgen</string>
   <string name="vip_renew_title">Abonnement abgelaufen</string>
