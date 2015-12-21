@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="sim_card_num">SIM%s</string>
   <string name="livetalk_network_unavailable">Netzwerk nicht verfügbar</string>
   <string name="Result_title">SIM-Karte Kontakt</string>
   <string name="badPin">"Die alte PIN wurde falsch eingegeben. Versuch es noch einmal."</string>
