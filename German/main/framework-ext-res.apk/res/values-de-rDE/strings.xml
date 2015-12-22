@@ -71,7 +71,7 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen > System > Tasten."</
   <string name="screen_on_proximity_sensor_hint">Um die Funktion zu deaktivieren, die Zurück- und Lautstärke-Hoch-Taste gleichzeitig drücken.</string>
   <string name="screen_on_proximity_sensor_summary">Bedecken Sie nicht den orangen Bereich des Bildschirms</string>
   <string name="screen_on_proximity_sensor_title">Ungewollte Anrufe verhindern</string>
-  <string name="screen_paper_mode_enter_toast">Lesemodus ist aktiv. Sie können diesen jederzeit aktivieren/deaktivieren in den Einstellungen &gt; Lesemodus.</string>
+  <string name="screen_paper_mode_enter_toast">Lesemodus ist aktiv. Sie können ihn jederzeit unter Einstellungen &gt; Lesemodus aktivieren oder deaktivieren.</string>
   <string name="screen_rotation_freeze_message">Auto-Drehen deaktiviert</string>
   <string name="select">Auswählen</string>
   <string name="select_all">Alles</string>
