@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources>
-  <string name="information_manager_information">Weather Information</string>
-  <string name="information_manager_wlan">Load when connected to WLAN</string>
+<resources>  
   <string name="act_find_city_hint">Ort eingeben</string>
   <string name="act_find_city_hot_title">Hinzufügen</string>
   <string name="act_set_city_find_side">Lokalisieren…</string>
@@ -80,7 +78,9 @@
   <string name="indices_title_sport">Sport</string>
   <string name="indices_title_uv">UV Index</string>
   <string name="indices_title_visibility">Sichtweite</string>
-  <string name="information_manager">Lade wenn mit WLAN verbunden</string>
+  <string name="information_manager">Laden wenn mit WLAN verbunden</string>
+  <string name="information_manager_information">Wetter Information</string>
+  <string name="information_manager_wlan">Laden wenn mit WLAN verbunden</string>
   <string name="information_menu_title"/>
   <string name="information_time_source">%1$s | %2$s</string>
   <string name="information_views"/>
