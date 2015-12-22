@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <resources>
+     <string-array name="cabl_level_values">
+         <item>Niedrig</item>
+         <item>Mittel</item>
+         <item>Hoch</item>
+         <item>Automatisch</item>
+     </string-array>
+ </resources>
