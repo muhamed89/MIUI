@@ -54,7 +54,7 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen > System > Tasten."</
   <string name="memory_clear_result">%1$sB gelöscht | %2$sB verfügbar</string>
   <string name="miui">MIUI</string>
   <string name="paste">Einfügen</string>
-  <string name="perm_send_push_dspt">Mi-Push-Nachrichten erlauben</string>
+  <string name="perm_send_push_dspt">Push-Nachrichten erlauben</string>
   <string name="perm_send_push_lab">Push-Nachrichten senden</string>
   <string name="permdesc_manageLocationPolicy">Erlaubt der App die Lokalisierungsregeln zu verwalten</string>
   <string name="permlab_manageLocationPolicy">Lokalisierungsregeln verwalten</string>
