@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources>
-  <string name="default_lock_msg_words">Hallo! Ich habe mein Telefon verloren. Ich werde Ihnen in Verbindung setzen. Danke für ihre Verständnis!</string>
-  <string name="default_lock_msg_words_with_phone">Hallo! Ich habe mein Telefon verloren. Können wir uns kontaktieren? Vielen Dank!</string>
-  <string name="device_lost">Dieses Gerät ist verloren</string>
-  <string name="lock_msg_phone">Kontakt information: %s</string>
+<resources>      
   <string name="activate_xiaomi_account">Dieses Gerät aktivieren</string>
   <string name="app_name">Gerät finden</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">"Entsperren fehlgeschlagen. %s."</string>
+  <string name="default_lock_msg_words">Hallo! Ich habe mein Telefon verloren. Ich werde mich mit Ihnen in Verbindung setzen. Danke für Ihr Verständnis!</string>
+  <string name="default_lock_msg_words_with_phone">Hallo! Ich habe mein Telefon verloren. Könnten Sie mich bitte kontaktieren? Vielen Dank!</string>
+  <string name="device_lost">Dieses Gerät wurde verloren</string>
   <string name="disable_find_device_error">"\"Gerät finden\" konnte nicht deaktiviert werden. %1$s"</string>
   <string name="disable_find_device_success">"\"Gerät finden\" ist deaktiviert"</string>
   <string name="enable_find_device_error">"\"Gerät finden\" konnte nicht aktiviert werden. %1$s"</string>
@@ -26,6 +25,7 @@ Wenn Sie die SIM-Karte tauschen, wird automatisch eine SMS gesendet, um diese Fu
   <string name="find_device_stop_noise">OK antippen, um stumm zu schalten</string>
   <string name="find_device_success_title">Gerät finden</string>
   <string name="i_know">OK</string>
+  <string name="lock_msg_phone">Kontakt-Information: %s</string>
   <string name="login_failed">"Einloggen fehlgeschlagen"</string>
   <string name="password">Passwort</string>
   <string name="phone_locked">Dieses Gerät ist möglicherweise mit einem bestehenden Mi Konto(%s) verknüpft. Melden Sie sich an, um das Gerät zu aktivieren.</string>
