@@ -1,15 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources>
-  <string name="activate_email_notice">Make sure to activate your account within 24 hours</string>
-  <string name="change_activate_email">Change email address</string>
-  <string name="confirm_activate_email">Verified</string>
-  <string name="input_email_address_notice">"We'll use this address to verify your account"</string>
-  <string name="resend_active_email">Resend</string>
-  <string name="resend_email_reach_limit_message">"You've requested too many verification emails. Make sure that the verification email isn't in your inbox's Spam folder."</string>
-  <string name="resend_email_reach_limit_title">"Can't send email"</string>
-  <string name="resend_email_success">Resent email</string>
-  <string name="send_email_activate_message">Sent verification email</string>
-  <string name="passport_xiaomi_account_sec_dspt2_vip">Anmelden bei Ihrem MiKonto erfordert eine Internetverbindung. Darüber hinaus werden zugangsdaten wie, Mi-Cloud und Mi-VIP automatisch aktiviert.</string>
+<resources>      
   <string name="about_device_info">Geräteinfo anzeigen</string>
   <string name="access_denied">Zugang verweigert</string>
   <string name="access_token_expired_warning">Weibo Konto ist abgelaufen</string>
@@ -61,6 +51,7 @@
   <string name="account_vip_task">Fortschritt</string>
   <string name="account_xiaomi_service">Dienste</string>
   <string name="add_account">Konto hinzufügen</string>
+  <string name="activate_email_notice">Aktivieren Sie Ihr Konto innerhalb von 24 Stunden</string>  
   <string name="alert_title_remove_account">Konto entfernen?</string>
   <string name="app_name">Mi Konto</string>
   <string name="authorize_title">Genehmigung</string>
@@ -77,7 +68,8 @@
   <string name="btn_return">Zurück</string>
   <string name="button_cancel">Abbrechen</string>
   <string name="button_unbind">Abmelden</string>
-  <string name="change_email_address">E-Mail-Adresse ändern</string>
+  <string name="change_activate_email">E-Mail Adresse ändern</string>
+  <string name="change_email_address">E-Mail-Adresse ändern</string>  
   <string name="change_password">Passwort ändern</string>
   <string name="change_phone_number">Telefonnummer ändern</string>
   <string name="checking_account">Passwort wird geprüft…</string>
@@ -87,6 +79,7 @@
   <string name="cloud_service_dspt">Synchronisieren Sie Ihre Fotos, Kontakte, Notizen, Apps und mehr auf all Ihren Geräten</string>
   <string name="completed">Fertig</string>
   <string name="confirm">Überprüfungscode</string>
+  <string name="confirm_activate_email">Überprüft</string>
   <string name="confirm_email_address_dialog_message">Überprüfungscode wird gesendet an: %s</string>
   <string name="confirm_email_address_dialog_title">E-Mail-Adresse bestätigen</string>
   <string name="confirm_phone_number_dialog_message">Überprüfungscode wird gesendet an: %s</string>
@@ -128,6 +121,7 @@
   <string name="get_email_verifycode_exceed_limit">Es wurden zu viele Überprüfungscodes an diese E-Mail-Adresse versendet. Warten Sie 24 Stunden und versuchen es erneut.</string>
   <string name="get_phone_verifycode_exceed_limit">Es wurden zu viele Überprüfungscodes an diese Telefonnummer versendet. Warten Sie 24 Stunden und versuchen es erneut.</string>
   <string name="input_captcha_hint">Code eingeben</string>
+  <string name="input_email_address_notice">"Wir verwenden diese Adresse, um Ihr Konto zu überprüfen"</string>  
   <string name="input_password_hint">Passwort eingeben</string>
   <string name="input_vcode_hint">Bestätigungscode eingeben</string>
   <string name="just_a_second">Einen Moment…</string>
@@ -165,7 +159,7 @@
   <string name="no_response_retry">Keine Rückmeldung. Versuche es erneut.</string>
   <string name="no_sim_card">Keine SIM-Karte</string>
   <string name="nobind">Nicht verbunden</string>
-  <string name="other_devices">Weitere Geräte</string>
+  <string name="other_devices">Weitere Geräte</string>  
   <string name="passport_access_denied">Zugang verweigert</string>
   <string name="passport_account_hint_text">E-Mail oder Telefonnummer</string>
   <string name="passport_account_identity_title">Bestätigen Sie Ihre Identität</string>
@@ -317,6 +311,7 @@
   <string name="passport_xiaomi_account_dspt">Nutzen Sie Ihr Mi Konto um überall auf die Mi Cloud, den MIUI Theme Store und weitere Dienste zuzugreifen.</string>
   <string name="passport_xiaomi_account_sec_dspt"/>
   <string name="passport_xiaomi_account_sec_dspt2">Zur Anmeldung deines Mi Kontos wird eine Internetverbindung benötigt. Anschließend wird die Standortbestimmung, die Mi Cloud und Mi VIP automatisch eingeschaltet.</string>
+  <string name="passport_xiaomi_account_sec_dspt2_vip">Anmelden bei Ihrem MiKonto erfordert eine Internetverbindung. Darüber hinaus werden Zugangsdaten wie, Mi-Cloud und Mi-VIP automatisch aktiviert.</string>
   <string name="password">Passwort eingeben</string>
   <string name="phone_activated">%s aktiviert</string>
   <string name="phone_send_verify_code_prompt">Sende Bestätigungscode an %s</string>
@@ -344,12 +339,17 @@
   <string name="removing_account">Abmelden…</string>
   <string name="rename_current_device">Gerätenamen bearbeiten</string>
   <string name="replace_binded_phone">Gerät ersetzen</string>
+  <string name="resend_active_email">Erneut senden</string>
+  <string name="resend_email_reach_limit_message">"Sie haben zu viele Überprüfungs-Mails angefordert. Vergewissern Sie sich, dass sie nicht in Ihrem Spam Ordner gelandet sind."</string>
+  <string name="resend_email_reach_limit_title">"E-Mail kann nicht gesendet werden"</string>
+  <string name="resend_email_success">E-Mail erneut gesendet</string>
   <string name="restart_action">Neustart</string>
   <string name="restart_email_bind_message">Eine E-Mail mit dem Bestätigungscode wird an Ihre Adresse gesendet</string>
   <string name="restart_email_bind_title">Ändere die E-Mail-Adresse zum Zurücksetzen des Passworts</string>
   <string name="restart_phone_bind_message">Eine Nachricht mit dem Bestätigungscode wird an Ihre Nummer gesendet</string>
   <string name="restart_phone_bind_title">Ändere die Mobilrufnummer zum Zurücksetzen des Passworts</string>
   <string name="scan_barcode_title">Scannen Sie den QR-Code, um sich an Ihrem Mi Konto anzumelden</string>
+  <string name="send_email_activate_message">Überprüfungs-Mail gesendet</string>
   <string name="service_error">Dienst Fehler</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_register">Schritt überspringen</string>
