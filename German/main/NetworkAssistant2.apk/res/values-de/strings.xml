@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="sim_location_error_dialog_message">"The SIM you're using is from %1$s. This is different from the location you set manually (%2$s). Change SIM location to %3$s?"</string>
+  <string name="sim_location_error_notify_message">Tap to change SIM location</string>
+  <string name="sim_location_error_notify_title">SIM card error</string>
+  <string name="traffic_setting_fragment_loacation_alert_nomore">"Don't show again"</string>
   <string name="add_miservice_dialog_content">Für %s ist es erforderlich das Sie die MIUI Service-Framework zur Ausnahmeliste hinzufügen.</string>
   <string name="add_miservice_dialog_title">MIUI Service Framework</string>
   <string name="add_to_whitelist_button">Ausnahmen verwalten</string>
