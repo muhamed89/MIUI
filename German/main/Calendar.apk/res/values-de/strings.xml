@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="birthday_event_description_a_week_ago">Vor einer Woche</string>
-  <string name="birthday_event_description_a_week_later">A week later</string>
+  <string name="birthday_event_description_a_week_later">Eine Woche später</string>
   <string name="birthday_event_description_day_after_tomorrow">Day after tomorrow</string>
   <string name="birthday_event_description_day_before_yesterday">The day before yesterday</string>
   <string name="birthday_event_description_days_ago">%1$s days ago</string>
