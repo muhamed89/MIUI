@@ -8,7 +8,7 @@
   <string name="alwaysUsePrompt">Auswahl merken</string>
   <string name="auto_start_warning_allow">Erlauben</string>
   <string name="auto_start_warning_deny">Verweigern</string>
-  <string name="auto_start_warning_title">%s automatischen Start erlauben?</string>
+  <string name="auto_start_warning_title">Automatischen Start von %s erlauben?</string>
   <string name="call_record_or">" oder "</string>
   <string name="call_record_sample_prefix_miui">Anruf</string>
   <string name="caller_info_name_delimiter">" oder "</string>
