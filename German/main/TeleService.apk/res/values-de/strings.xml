@@ -1,10 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources>
-  <string name="livetalk_common_problem">FQA</string>
-  <string name="livetalk_provision_title">Provision</string>
-  <string name="sim_card_num">SIM %s</string>
-  <string name="livetalk_network_unavailable">Netzwerk nicht verfügbar</string>
-  <string name="Result_title">SIM-Karte Kontakt</string>
+<resources>    
   <string name="badPin">"Die alte PIN wurde falsch eingegeben. Versuch es noch einmal."</string>
   <string name="badPin2">"Der alte PIN2 wurde falsch eingegeben. Versuch es noch einmal."</string>
   <string name="badPuk2">"Der PUK2 wurde falsch eingegeben. Versuch es noch einmal."</string>
@@ -57,9 +52,12 @@
   <string name="invalidPin2">Type a PIN2 that is 4 to 8 numbers</string>
   <string name="invalidPuk2">Type a PUK2 that is 8 numbers</string>
   <string name="labelNwService">Network service settings</string>
-  <string name="livetalk_about">About</string>
+  <string name="livetalk_about">About</string>  
   <string name="livetalk_before_provision">"I've read and accepted"</string>
+  <string name="livetalk_common_problem">FAQ</string>
   <string name="livetalk_continue_button_creat_account">Creating account</string>
+  <string name="livetalk_network_unavailable">Netzwerk nicht verfügbar</string>
+  <string name="livetalk_provision_title">Bereitstellung</string>
   <string name="livetalk_welcome_description_text">"• Save 70% on your calling charges.
 • Call any phone in the world, there are no carrier restrictions.
 • Top up and start calling, there are no complicated settings."</string>
@@ -72,7 +70,7 @@
   <string name="lte_select_title">Default 4G/3G SIM card</string>
   <string name="lte_set">Set</string>
   <string name="lte_setting">Default 4G/3G SIM card is being set</string>
-  <string name="lte_switch_unavailable">4G/3G SIM cards switcher is unavailable</string>
+  <string name="lte_switch_unavailable">4G/3G SIM cards switcher is unavailable</string>    
   <string name="manageConferenceLabel">Manage conference call</string>
   <string name="managed_roaming_title_sub">Managed Roaming (SUB%d)</string>
   <string name="mismatchPin">"The PINs you typed don't match. Try again."</string>
@@ -189,12 +187,14 @@ There are %d remaining attempts."</string>
   <string name="remain_mins_domestic">Remaining (domestic)</string>
   <string name="remain_mins_international">Remaining (international)</string>
   <string name="remain_mins_unit">min</string>
+  <string name="Result_title">SIM-Karte Kontakt</string>
   <string name="search_networks">Search networks</string>
   <string name="select_cancel">Cancel</string>
   <string name="select_continue">Continue</string>
   <string name="select_ok">OK</string>
   <string name="simContacts_empty">No contacts on your SIM card.</string>
   <string name="sim_absent">Absent</string>
+  <string name="sim_card_num">SIM %s</string>    
   <string name="sim_description_default">SIM card, slot: %s</string>
   <string name="sim_description_emergency_calls">Emergency calling only</string>
   <string name="sim_info">SIM card info</string>
