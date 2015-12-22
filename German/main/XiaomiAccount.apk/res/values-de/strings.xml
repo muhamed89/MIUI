@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="activate_email_notice">Make sure to activate your account within 24 hours</string>
+  <string name="change_activate_email">Change email address</string>
+  <string name="confirm_activate_email">Verified</string>
+  <string name="input_email_address_notice">"We'll use this address to verify your account"</string>
+  <string name="resend_active_email">Resend</string>
+  <string name="resend_email_reach_limit_message">"You've requested too many verification emails. Make sure that the verification email isn't in your inbox's Spam folder."</string>
+  <string name="resend_email_reach_limit_title">"Can't send email"</string>
+  <string name="resend_email_success">Resent email</string>
+  <string name="send_email_activate_message">Sent verification email</string>
   <string name="passport_xiaomi_account_sec_dspt2_vip">Anmelden bei Ihrem MiKonto erfordert eine Internetverbindung. Darüber hinaus werden zugangsdaten wie, Mi-Cloud und Mi-VIP automatisch aktiviert.</string>
   <string name="about_device_info">Geräteinfo anzeigen</string>
   <string name="access_denied">Zugang verweigert</string>
