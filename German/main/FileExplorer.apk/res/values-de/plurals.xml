@@ -153,12 +153,12 @@
         <item quantity="many">%1$d Dateien von WeChat Video werden ablaufen</item>
     </plurals>
     <plurals name="backup_message_wechat_video">
-        <item quantity="other">%1$d Videos von WeChat Konversationen laufen ab. Wollen Sie eine Sicherung erstellen?</item>
-        <item quantity="zero">%1$d Videos von WeChat Konversationen laufen ab. Wollen Sie eine Sicherung erstellen?</item>
-        <item quantity="one">%1$d Video von WeChat Konversationen läuft ab. Wollen Sie eine Sicherung erstellen?</item>
-        <item quantity="two">%1$d Videos von WeChat Konversationen laufen ab. Wollen Sie eine Sicherung erstellen?</item>
-        <item quantity="few">%1$d Videos von WeChat Konversationen laufen ab. Wollen Sie eine Sicherung erstellen?</item>
-        <item quantity="many">%1$d Videos von WeChat Konversationen laufen ab. Wollen Sie eine Sicherung erstellen?</item>
+        <item quantity="other">%1$d temporäre Dateien von WeChat-Video werden gelöscht. Benötigen Sie eine Sicherung?</item>
+        <item quantity="zero">%1$d temporäre Datei von WeChat-Video wird gelöscht. Benötigen Sie eine Sicherung?</item>
+        <item quantity="one">%1$d temporäre Datei von WeChat-Video wird gelöscht. Benötigen Sie eine Sicherung?</item>
+        <item quantity="two">%1$d temporäre Dateien von WeChat-Video werden gelöscht. Benötigen Sie eine Sicherung?</item>
+        <item quantity="few">%1$d temporäre Dateien von WeChat-Video werden gelöscht. Benötigen Sie eine Sicherung?</item>
+        <item quantity="many">%1$d temporäre Dateien von WeChat-Video werden gelöscht. Benötigen Sie eine Sicherung?</item>
     </plurals>
 	<plurals name="file_notify_title_wechat_video_auto_backup">
         <item quantity="other">%1$d WeChat Videos gesichert</item>
@@ -169,11 +169,11 @@
         <item quantity="many">%1$d WeChat Videos gesichert</item>
     </plurals>
     <plurals name="file_notify_title_wechat_sticker">
-        <item quantity="other">%1$d new WeChat stickers today</item>
-        <item quantity="zero">%1$d new WeChat sticker today</item>
-        <item quantity="one">%1$d new WeChat sticker today</item>
-        <item quantity="two">%1$d new WeChat stickers today</item>
-        <item quantity="few">%1$d new WeChat stickers today</item>
-        <item quantity="many">%1$d new WeChat stickers today</item>
+        <item quantity="other">%1$d neue WeChat-Sticker</item>
+        <item quantity="zero">%1$d neuer WeChat-Sticker</item>
+        <item quantity="one">%1$d neuer WeChat-Sticker</item>
+        <item quantity="two">%1$d neue WeChat-Sticker</item>
+        <item quantity="few">%1$d neue WeChat-Sticker</item>
+        <item quantity="many">%1$d neue WeChat-Sticker</item>
      </plurals>
 </resources>
