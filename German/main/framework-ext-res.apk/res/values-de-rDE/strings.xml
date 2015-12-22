@@ -23,7 +23,7 @@
 
 Um die Funktion zu aktivieren, gehen Sie auf Einstellungen > System > Tasten."</string>
   <string name="fm_record_smaple_prefix_miui">FM Aufnahme</string>
-  <string name="force_exit_message">Beenden erzwingen in %1$s</string>
+  <string name="force_exit_message">%1$s wurde beendet</string>
   <string name="force_exit_skip_message">%1$s kann nicht geschlossen werden, da es vom System benötigt wird</string>
   <string name="global_actions_airplane_mode">Flugmodus</string>
   <string name="global_actions_reboot">Neustart</string>
