@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="information_manager_information">Weather Information</string>
+  <string name="information_manager_wlan">Load when connected to WLAN</string>
   <string name="act_find_city_hint">Ort eingeben</string>
   <string name="act_find_city_hot_title">Hinzufügen</string>
   <string name="act_set_city_find_side">Lokalisieren…</string>
