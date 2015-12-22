@@ -2,14 +2,14 @@
 <resources>
   <string name="birthday_event_description_a_week_ago">Vor einer Woche</string>
   <string name="birthday_event_description_a_week_later">Eine Woche später</string>
-  <string name="birthday_event_description_day_after_tomorrow">Day after tomorrow</string>
-  <string name="birthday_event_description_day_before_yesterday">The day before yesterday</string>
-  <string name="birthday_event_description_days_ago">%1$s days ago</string>
-  <string name="birthday_event_description_days_later">%1$s days later</string>
+  <string name="birthday_event_description_day_after_tomorrow">Übermorgen</string>
+  <string name="birthday_event_description_day_before_yesterday">Vorgestern</string>
+  <string name="birthday_event_description_days_ago">vor %1$s Tagen</string>
+  <string name="birthday_event_description_days_later">%1$s Tage später</string>
   <string name="birthday_event_description_default">"%1$s's %2$s%3$s%4$s"</string>
-  <string name="birthday_event_description_special">"%1$s is %2$s's %3$s%4$s%5$s"</string>
-  <string name="birthday_event_description_today">Today</string>
-  <string name="birthday_event_description_tomorrow">Tomorrow</string>
+  <string name="birthday_event_description_special">"%1$s ist %2$s's %3$s%4$s%5$s"</string>
+  <string name="birthday_event_description_today">Heute</string>
+  <string name="birthday_event_description_tomorrow">Morgen</string>
   <string name="birthday_event_description_yesterday">Yesterday</string>
   <string name="birthday_notification_text_days_later">%1$s days until %4$s (%5$s)</string>
   <string name="birthday_notification_title_days_later">"%1$s's %2$s is coming up."</string>
