@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources>
-  <string name="convenience_key_category_title">Convenience key</string>
-  <string name="fp_nav_center_back_to_home_title">Tap Home button to go back to Home screen</string>
+<resources>  
   <string name="Accounts_settings_title">Konten</string>
   <string name="about_settings">Über das Gerät</string>
   <string name="about_settings_summary">Rechtliche Hinweise, Status und Softwareversion anzeigen</string>
@@ -725,6 +723,7 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="contributors_title">Mitwirkende</string>
   <string name="controls_label">Steuerung</string>
   <string name="controls_subtitle">Energieverbrauch anpassen</string>
+  <string name="convenience_key_category_title">Komfortschlüssel</string>
   <string name="copyright_title">Urheberrecht</string>
   <string name="country_name">%s (system)</string>
   <string name="create">Erstellen</string>
@@ -1257,6 +1256,7 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="forget">VERGESSEN</string>
   <string name="forget_wifi_message">Die Netzwerkverbindung wird automatisch beendet.</string>
   <string name="found_new_version">Update verfügbar</string>
+  <string name="fp_nav_center_back_to_home_title">Home-Taste antippen, um zurück zur Startseite zu gelangen</string>
   <string name="free_wifi_agreement_remind_never">"Nicht mehr anzeigen"</string>
   <string name="free_wifi_confirm">Bestätigen</string>
   <string name="free_wifi_connect">Verbinden</string>
