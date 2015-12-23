@@ -456,9 +456,9 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="bluetooth_empty_list_user_restricted">"Sie haben keine Erlaubnis die Bluetooth-Einstellungen zu ändern."</string>
   <string name="bluetooth_enable">Bluetooth</string>
   <string name="bluetooth_enable_alphanumeric_pin">PIN enthält Buchstaben oder Symbole</string>
-  <string name="bluetooth_enter_passkey_msg">"Geben Sie zum Paaren mit %1$s den erforderlichen Schlüssel des Geräts ein:"</string>
+  <string name="bluetooth_enter_passkey_msg">Type the pairing code then press Return or Enter</string>
   <string name="bluetooth_enter_passkey_other_device">Möglicherweise müssen Sie diesen Schlüssel auch auf dem anderen Gerät eingeben.</string>
-  <string name="bluetooth_enter_pin_msg">"Geben Sie zum Paaren mit %1$s die erforderliche PIN des Geräts ein:"</string>
+  <string name="bluetooth_enter_pin_msg">Gerät</string>
   <string name="bluetooth_enter_pin_msg_hs">Gerät benötigt einen High-SecurityHauptschlüssel mit 16 Zeichen</string>
   <string name="bluetooth_enter_pin_other_device">Möglicherweise müssen Sie diese PIN auch auf dem anderen Gerät eingeben.</string>
   <string name="bluetooth_error_title" />
