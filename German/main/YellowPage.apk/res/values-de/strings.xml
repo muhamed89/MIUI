@@ -8,7 +8,7 @@
   <string name="account_order">Bestellverlauf</string>
   <string name="account_title">Profil</string>
   <string name="account_type_name">Mi Konto</string>
-  <string name="account_updating_device">Wird aktualisiert</string>
+  <string name="account_updating_device">Wird aktualisiert</string>
   <string name="account_updating_device_failed">"Anmeldung fehlgeschlagen"</string>
   <string name="account_verify_password">"Sie verwenden diesen Dienst auf einem anderen Gerät. Zu Ihrer Sicherheit müssen Sie Ihr Mi-Konto auf diesem Gerät erneut bestätigen."</string>
   <string name="account_yellowpage_favorite">Favoriten</string>
@@ -85,10 +85,10 @@
   <string name="express_company_phone_prefix">"Kontakt: "</string>
   <string name="express_company_pricing_details">Preisdetails</string>
   <string name="express_contact_address">Adresse eingeben</string>
-  <string name="express_contact_address_finding">Wird lokalisiert</string>
+  <string name="express_contact_address_finding">Wird lokalisiert</string>
   <string name="express_contact_label">Informationen für Package Pickup Dienst</string>
   <string name="express_contact_phone">Telefonnummer eingeben</string>
-  <string name="express_contact_phone_finding">Telefonnummer erhalten</string>
+  <string name="express_contact_phone_finding">Telefonnummer erhalten</string>
   <string name="express_contact_prefix">"Kontakt "</string>
   <string name="express_copied">Sendungsverfolgung Nummer wird kopiert</string>
   <string name="express_copy_number">Kopieren</string>
@@ -136,7 +136,7 @@ Bitte überprüfen Sie Ihre Paketnummer."</string>
   <string name="express_no_order_info">Keine Bestellinformationen</string>
   <string name="express_order_confirmation">Auftragsbestätigung</string>
   <string name="express_order_failed">Fehlgeschlagen</string>
-  <string name="express_order_ongoing">Wird bestellt</string>
+  <string name="express_order_ongoing">Wird bestellt</string>
   <string name="express_order_result">Treffer</string>
   <string name="express_order_state">%1$s / %2$s</string>
   <string name="express_order_state_accepted">Akzeptiert</string>
@@ -164,7 +164,7 @@ Bitte überprüfen Sie Ihre Paketnummer."</string>
   <string name="express_select_sender">Von</string>
   <string name="express_send">Versand</string>
   <string name="express_send_mms">Senden</string>
-  <string name="express_send_mms_format">Ein Paket wird geliefert an Sie von %1$ s, Sendungnummer ist %2$ s.</string>
+  <string name="express_send_mms_format">Ein Paket wird geliefert an Sie von %1$s, Sendungnummer ist %2$s.</string>
   <string name="express_send_notice">Über verbotene Gegenstände</string>
   <string name="express_sender_info">Absenderinfo</string>
   <string name="express_sender_name">Absendername</string>
@@ -247,7 +247,7 @@ Bitte überprüfen Sie Ihre Paketnummer."</string>
   <string name="navigation_search_default_hint">Suchstandorte</string>
   <string name="navigation_search_hot_cities">Beliebt</string>
   <string name="navigation_search_no_city_list">"Nichts gefunden"</string>
-  <string name="navigation_search_positioning">Standortsuche</string>
+  <string name="navigation_search_positioning">Standortsuche</string>
   <string name="navigation_search_positioning_failed">Stadt auswählen</string>
   <string name="nearby_average_price">Durchschnittlich %d RMB</string>
   <string name="nearby_no_yellow_page">Keine Treffer in der Nähe</string>
@@ -287,12 +287,12 @@ Bitte überprüfen Sie Ihre Paketnummer."</string>
   <string name="payment_failed_common_problems">Während der Zahlung ist ein Problem aufgetreten</string>
   <string name="payment_unknown_status_summary">Netzwerkverbindung prüfen und erneut versuchen.</string>
   <string name="payment_unknown_status_title">"Bezahlstatus kann nicht bestätigt werden"</string>
-  <string name="phone_event_setting_notice_text">"Gelbe Seiten will verifizierte Service-Nummern (wie Ihre Zelle Dienstleister) an der Mi-Server hochladen, damit Sie dienstbezogene Updates erhalten können."</string>
+  <string name="phone_event_setting_notice_text">"Unknown number identification helps you understand which service providers call or text you. A message containing service provider's info will be pushed to your phone after it's verified by Xiaomi. You should read and agree with %1$s and %2$s to use this feature."</string>
   <string name="phone_info_divider">" | "</string>
   <string name="photo_count">%d Total</string>
-  <string name="pull_to_refresh_pull_label">Ziehen um zu aktualisieren</string>
-  <string name="pull_to_refresh_refreshing_label">Einen Moment</string>
-  <string name="pull_to_refresh_release_label">Version aktualisieren</string>
+  <string name="pull_to_refresh_pull_label">Ziehen um zu aktualisieren</string>
+  <string name="pull_to_refresh_refreshing_label">Einen Moment</string>
+  <string name="pull_to_refresh_release_label">Version aktualisieren</string>
   <string name="quick_yellow_page_tab_call_log">Anrufliste</string>
   <string name="quick_yellow_page_tab_phones">Telefon</string>
   <string name="recharge_actual_price">Preis:</string>
@@ -344,8 +344,8 @@ Gesamtbetrag: %3$s RMB"</string>
   <string name="sim1">SIM 1</string>
   <string name="sim2">SIM 2</string>
   <string name="sina_share_fail">Senden fehlgeschlagenc</string>
-  <string name="sina_share_fail_content_repeat">"Teilen fehlgeschlagen, Inhalt existiert bereits"</string>
-  <string name="sina_share_pendding">Wird gesendetc</string>
+  <string name="sina_share_fail_content_repeat">Teilen fehlgeschlagen, Inhalt existiert bereits</string>
+  <string name="sina_share_pendding">Wird gesendet</string>
   <string name="sina_share_success">Gesendet</string>
   <string name="sina_token_expired_warning">Weibo-Konto ist abgelaufen: Bitte erneut verknüpfen</string>
   <string name="sina_token_invalid_warning">Weibo-Konto ist ungültig: Bitte erneut verknüpfenc</string>
