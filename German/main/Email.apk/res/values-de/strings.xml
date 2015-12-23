@@ -554,7 +554,7 @@
   <string name="more_context">Mehr</string>
   <string name="more_string">+%1$s</string>
   <string name="move_to_selection_dialog_title">Verschieben nach</string>
-  <string name="multiple_new_message_notification_item"><b>1$s</b>"   %2$s"</string>
+  <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
   <string name="mute">Ignorieren</string>
   <string name="network_error">Keine Verbindung</string>
   <string name="network_not_available">Netzwerkverbindung nicht verfügbar. Versuchen Sie es später erneut</string>
@@ -776,9 +776,9 @@
   <string name="ser_resp_err_map_certificate_validator_err">"Serverzertifikat konnte nicht validiert werden
 \u0009 (Stellen Sie sicher, dass die 'Autom. Zeitsynchronisation' in den Einstellungen eingeschaltet ist)"</string>
   <string name="ser_resp_err_map_nouser">Benutzer nicht vorhanden</string>
-  <string name="ser_resp_err_map_or">oder</string>
+  <string name="ser_resp_err_map_or">%1$s oder %2$s</string>
   <string name="ser_resp_err_map_pserr">Falscher Benutzername oder Passwort</string>
-  <string name="ser_resp_err_map_serclosed">Server ist geschlossen</string>
+  <string name="ser_resp_err_map_serclosed">%s Server ist geschlossen</string>
   <string name="ser_resp_err_map_ssl">"Wählen Sie in 'Sicherheitstyp' 'SSL/TLS (Alle Zertifikate akzeptieren)'"</string>
   <string name="set_network">Netzwerk konfigurieren</string>
   <string name="setting_default_lable"/>
