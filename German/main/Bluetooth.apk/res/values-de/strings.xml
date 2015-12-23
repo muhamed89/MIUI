@@ -13,8 +13,6 @@
   <string name="ble_device_profile_header_title">Profile</string>
   <string name="ble_device_profile_title">Verbundenes Bluetooth-Gerät</string>
   <string name="ble_device_rename">Umbenennen</string>
-  <string name="ble_profile_1">ble_profile_mi_band</string>
-  <string name="ble_profile_2">ble_profile_mi_key</string>
   <string name="bluetooth_connected">Verbunden</string>
   <string name="bluetooth_connecting">Verbinden…</string>
   <string name="bluetooth_disconnected">Getrennt</string>
@@ -72,7 +70,7 @@
   <string name="incoming_file_confirm_Notification_caption">Datei empfangen?</string>
   <string name="incoming_file_confirm_Notification_title">Bluetooth: Eingehende Datei</string>
   <string name="incoming_file_confirm_cancel">Ablehnen</string>
-  <string name="incoming_file_confirm_content">"\"%1$s\" möchte Ihnen %2$s (%3$s) senden. Datei annehmen?"</string>
+  <string name="incoming_file_confirm_content">Accept incoming file?</string>
   <string name="incoming_file_confirm_ok">Akzeptieren</string>
   <string name="incoming_file_confirm_timeout_content">Zeitüberschreitung der eingehenden Datei von \"%1$s\".</string>
   <string name="incoming_file_confirm_timeout_ok">OK</string>
