@@ -50,7 +50,7 @@
   <string name="ims_vt_call_quality_unknown">Unbekannt</string>
   <string name="invalidPin">Geben Sie eine PIN, die 4 bis 8 Zahlen ist</string>
   <string name="invalidPin2">Geben Sie einen PIN2, die 4 bis 8 Zahlen ist</string>
-  <string name="invalidPuk2">Geben Sie einen PUK2, die 4 bis 8 Zahlen ist</string>
+  <string name="invalidPuk2">Geben Sie einen PUK2, die 8 Zahlen ist</string>
   <string name="labelNwService">Netzwerkdiensteinstellungen</string>
   <string name="livetalk_about">Über</string>  
   <string name="livetalk_before_provision">"Ich habe gelesen und akzeptiert"</string>
