@@ -4,10 +4,6 @@
         <item>Test Server</item>
         <item>Online Server</item>
     </string-array>
-    <string-array name="server_list_entries_value">
-        <item>mv.mitvos.com</item>
-        <item>mvideo.duokanbox.com</item>
-    </string-array>
 	<string-array name="version_list_entries">
         <item>Stabil</item>
         <item>Developer</item>
