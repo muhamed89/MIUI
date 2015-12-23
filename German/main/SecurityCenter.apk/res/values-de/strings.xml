@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="confirm_reject_all_permission">Beschränken Sie alle Apps aus der Verwendung dieser Funktion?</string>
-  <string name="reject_all">alle beschränken</string>
+  <string name="reject_all">Alle beschränken</string>
   <string name="SMS_and_MMS">SMS und MMS</string>
   <string name="Settings_title_anti_spam">Speerlisten-Einstellungen</string>
   <string name="Settings_title_anti_virus">Antivirus-Einstellungen</string>
