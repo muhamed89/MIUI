@@ -74,8 +74,8 @@
   <string name="clubber_info">Clubber Info</string>
   <string name="cnlive">cnlive</string>
   <string name="comment">Kommentare</string>
-  <string name="comment_count_less_tip">Kommentar muss mindestens %d Zeichen lang sein</string>
-  <string name="comment_count_much_tip">Kommentar darf %d Zeichen nicht überschreiten</string>
+  <string name="comment_count_less_tip">Kommentar muss mindestens %1$s Zeichen lang sein</string>
+  <string name="comment_count_much_tip">Kommentar darf %1$s Zeichen nicht überschreiten</string>
   <string name="comment_edit_et_hint">Kommentar eingeben</string>
   <string name="comment_edit_start_hint">Zum Bewerten Sterne berühren</string>
   <string name="connect_error">Verbindungsfehler</string>
@@ -134,7 +134,7 @@
   <string name="download_progress_0p">0%</string>
   <string name="download_queue">Info erhalten…</string>
   <string name="download_running">Arbeiten…</string>
-  <string name="download_start_message">Herunterladen und Installieren von %1$ s?</string>
+  <string name="download_start_message">Herunterladen und installieren %1$s?</string>
   <string name="download_task_with">%d Aufgaben</string>
   <string name="download_url_waiting">URL Info erhalten…</string>
   <string name="download_with">Downloading %1$s/%2$s</string>
@@ -241,7 +241,7 @@
   <string name="offline_alert_title">Datenverbrauch optimieren</string>
   <string name="offline_alert_wifi">Um den Datenverbrauch zu reduzieren, wurden die Aufgaben pausiert und werden fortgesetzt sobald eine WLAN-Verbindung besteht.</string>
   <string name="offline_already_in">\"%1$s\" ist schon in der Warteschlange</string>
-  <string name="offline_created_order">Hinzugefügt \"%1$s\" ist %2$s in der Warteschlange</string>
+  <string name="offline_created_order">Hinzugefügt \"%1$s\" ist in der Warteschlange</string>
   <string name="offline_download_fragment">Offline</string>
   <string name="offline_loaded">Offline Video</string>
   <string name="offline_loading">Offline</string>
