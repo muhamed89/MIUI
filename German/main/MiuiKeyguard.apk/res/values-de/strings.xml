@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="input_password_after_boot_msg">"You'll have to enter password after the device reboots"</string>
   <string name="fingerprint_not_identified_msg">Um Ihr Gerät zu entsperren, geben Sie Ihr Passwort ein.</string>
   <string name="fingerprint_not_identified_title">"Fingerabdruck konnte nicht erkannt werden"</string>
   <string name="fingerprint_try_again_text">Erneut versuchen</string>
