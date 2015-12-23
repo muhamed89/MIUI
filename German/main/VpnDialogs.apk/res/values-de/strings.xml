@@ -8,7 +8,7 @@
   <string name="disconnect">Trennen</string>
   <string name="duration">Dauer:</string>
   <string name="legacy_title">VPN verbunden</string>
-  <string name="prompt">%s versucht, eine VPN-Verbindung zu erstellen.</string>
+  <string name="prompt">Connection request</string>
   <string name="session">Sitzung:</string>
-  <string name="warning">Wenn Sie fortfahren, gestatten Sie der App, den gesamten Netzwerkverkehr abzufangen. </string>
+  <string name="warning">%s wants to set up a VPN connection that allows it to monitor network traffic. Only accept if you trust the source. &lt;br /> &lt;br /> &lt;img src=vpn_icon /> appears at the top of your screen when VPN is active.</string>
 </resources>
