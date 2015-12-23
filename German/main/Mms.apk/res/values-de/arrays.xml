@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="wild_msg_sync_options">
+        <item>Sync all messages</item>
+        <item>Sync messages from selected SIM cards</item>
+     </string-array>
     <string-array name="default_smiley_names">
         <item>Happy</item>
         <item>Sad</item>
