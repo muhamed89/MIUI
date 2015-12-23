@@ -268,7 +268,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="notify_daily_data_usage_body">Um den Datenverbrauch automatisch zu begrenzen, richten Sie Ihren monatlichen Datenplan ein.</string>
   <string name="notify_daily_limit_body">Antippen, um Limit festzulegen.</string>
   <string name="notify_daily_limit_title">Heute %s verbraucht.</string>
-  <string name="notify_daily_limit_title_for_slotnum">Tageslimit für %s festlegen</string>
+  <string name="notify_daily_limit_title_for_slotnum">%1$s used %2$s today</string>
   <string name="notify_month_traffic_body">Legen Sie ein Limit fest, um das monatliche Datenvolumen nicht zu überschreiten.</string>
   <string name="notify_month_traffic_title">Diesen Monat %s verbraucht</string>
   <string name="notify_month_traffic_title_for_slotnum">%1$s %2$s diesen Monat verbraucht</string>
