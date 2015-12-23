@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="power_checker_group_prefix">
+        <item>using</item>
+        <item></item>
+        <item></item>
+     </string-array>
+     <string-array name="power_checker_group_suffix">
+        <item></item>
+        <item>too much right now</item>
+        <item>too much in these day</item>
+     </string-array>
+     <string-array name="power_checker_recent_group_titles">
+        <item>Kernel WakeLock</item>
+        <item>WakeLock</item>
+        <item>WIFI scan</item>
+        <item>GPS</item>
+        <item>CPU</item>
+        <item>Wake Up</item>
+     </string-array>
+     <string-array name="power_checker_running_group_titles">
+        <item>Kernel WakeLock</item>
+        <item>WakeLock</item>
+        <item>WIFI scan</item>
+        <item>GPS</item>
+        <item>CPU</item>
+        <item>Wake Up</item>
+     </string-array>
     <string-array name="group_name_translate">
         <item>Standard</item>
         <item>Versteckt</item>
