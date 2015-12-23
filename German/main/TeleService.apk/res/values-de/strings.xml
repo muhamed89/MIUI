@@ -48,9 +48,9 @@
   <string name="ims_vt_call_quality_set_failed">Fehler beim Festlegen der Videoqualität</string>
   <string name="ims_vt_call_quality_title">VT Call Quality</string>
   <string name="ims_vt_call_quality_unknown">Unbekannt</string>
-  <string name="invalidPin">Geben Sie eine PIN, die 4 bis 8 Zahlen ist</string>
-  <string name="invalidPin2">Geben Sie einen PIN2, die 4 bis 8 Zahlen ist</string>
-  <string name="invalidPuk2">Geben Sie einen PUK2, die 8 Zahlen ist</string>
+  <string name="invalidPin">Geben Sie eine 4- bis 8-stellige PIN ein</string>
+  <string name="invalidPin2">Geben Sie eine 4- bis 8-stellige PIN2 ein</string>
+  <string name="invalidPuk2">Geben Sie einen 8-stelligen PUK2 ein</string>
   <string name="labelNwService">Netzwerkdiensteinstellungen</string>
   <string name="livetalk_about">Über</string>  
   <string name="livetalk_before_provision">"Ich habe gelesen und akzeptiert"</string>
@@ -73,11 +73,11 @@
   <string name="lte_switch_unavailable">4G/3G SIM cards switcher is unavailable</string>    
   <string name="manageConferenceLabel">Manage conference call</string>
   <string name="managed_roaming_title_sub">Managed Roaming (SUB%d)</string>
-  <string name="mismatchPin">"The PINs you typed don't match. Try again."</string>
-  <string name="mismatchPin2">"The PIN2s you typed don't match. Try again."</string>
+  <string name="mismatchPin">"Die eingegebenen PINs stimmen nicht überein. Versuchen Sie es nochmal."</string>
+  <string name="mismatchPin2">"Die eingegebenen PIN2 stimmen nicht überein. Versuchen Sie es nochmal."</string>
   <string name="mobile_data">"Mobile Data: "</string>
-  <string name="mobile_data_off">off</string>
-  <string name="mobile_data_on">on</string>
+  <string name="mobile_data_off">aus</string>
+  <string name="mobile_data_on">ein</string>
   <string name="mobile_network_settings_not_available">Cellular network settings are not available for this user</string>
   <string name="multi_sim_settings_title">Dual SIM settings</string>
   <string name="network_1x">1x</string>
@@ -683,7 +683,7 @@ Next period starts in %2$d days (%3$s)"</string>
   <string name="fdn_invalid_number">FDN wurde nicht aktualisiert. Die Nummer darf nicht mehr als 20 Stellen haben.</string>
   <string name="fdn_summary">Beschränkt ausgehende Anrufe auf eingetragene Nummern oder auf bestimmte Vorwahlen</string>
  <string name="feedback">Feedback</string>
-  <string name="flash_when_ring_summary">Benachrichtigungs-LED für eingehende Anrufe blinken lassen</string>
+  <string name="flash_when_ring_summary">Benachrichtigungs-LED für eingehende Anrufe blinke8n lassen</string>
   <string name="flash_when_ring_title">Beim Klingeln blinken lassen</string>
   <string name="fw_change_failed">"Die Weiterleitungsnummer konnte nicht geändert werden.
 Kontaktieren Sie Ihren Provider, falls das Problem weiterhin besteht."</string>
@@ -730,8 +730,8 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="incall_error_supp_service_hangup">Gespräch(e) beenden nicht möglich</string>
   <string name="incall_error_supp_service_reject">Gespräche abweisen nicht möglich</string>
   <string name="incall_error_supp_service_separate">Gespräche trennen nicht möglich</string>
-  <string name="incall_error_supp_service_switch">Unable to switch calls</string>
-  <string name="incall_error_supp_service_transfer">Unable to transfer call</string>
+  <string name="incall_error_supp_service_switch">Zwischen Gesprächen umschalten nicht möglich</string>
+  <string name="incall_error_supp_service_transfer">Gespräch übergeben nicht möglich</string>
   <string name="incall_error_supp_service_unknown">Service wird nicht unterstützt</string>
   <string name="incall_status_dialed_mmi">MMI Sequenz starten…</string>
   <string name="incoming_video_show_pref_summary">Zeigen Sie das vom Anrufer festgelegte Profil-Video an. Um diese Funktion zu nutzen, schalten Sie Kontaktkarten an.</string>
@@ -744,11 +744,11 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="international_enable">Internationale Nachrichten eingeschaltet</string>
   <string name="international_roaming_setting">Internationales Roaming</string>
   <string name="internet_phone">VOIP</string>
-  <string name="invalid_password">4 Stelliges Passwort eingeben</string>
-  <string name="invalid_pin">PIN mit 4 bis 8 Nummern eingeben</string>
-  <string name="invalid_pin2">PIN2 mit 4 bis 8 Nummern eingeben</string>
-  <string name="invalid_puk">PUK mit 4 bis 8 Nummern eingeben</string>
-  <string name="invalid_puk2">PUK2 mit 8 Nummern eingeben</string>
+  <string name="invalid_password">4-stelliges Passwort eingeben</string>
+  <string name="invalid_pin">4- bis 8-stellige PIN eingeben</string>
+  <string name="invalid_pin2">4- bis 8-stellige PIN2 eingeben</string>
+  <string name="invalid_puk">4- bis 8-stelligen PUK eingeben</string>
+  <string name="invalid_puk2">8-stelligen PUK2 eingeben</string>
   <string name="ivr_mo_area_code_settings">Jetzige Vorwahl</string>
   <string name="ivr_mo_area_code_settings_hint">Jetzige Vorwahl eingeben</string>
   <string name="ivr_parameter_settings">IVR Parameter-Einstellungen</string>
@@ -871,8 +871,8 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="messageCFNRc">Nummer nicht erreichbar</string>
   <string name="messageCFNRy">Nummer wenn unbeantwortet</string>
   <string name="messageCFU">Immer diese Nummer verwenden</string>
-  <string name="mhh_disable">Medizin, Gesundheit, und Krankenhaus ausgeschaltet</string>
-  <string name="mhh_enable">Medizin, Gesundheit, und Krankenhaus eingeschaltet</string>
+  <string name="mhh_disable">Medizin, Gesundheit und Krankenhaus ausgeschaltet</string>
+  <string name="mhh_enable">Medizin, Gesundheit und Krankenhaus eingeschaltet</string>
   <string name="mismatch_password">Die eingegebenen Passwörter stimmen nicht überein</string>
   <string name="mismatch_pin">Die eingegebenen PINs sind nicht identisch. Versuchen Sie es erneut.</string>
   <string name="mismatch_pin2">Die eingegebenen PIN2s sind nicht identisch. Versuchen Sie es erneut.</string>
