@@ -8,7 +8,7 @@
   <string name="import_button">Importieren</string>
   <string name="import_complete">Importieren abgeschlossen</string>
   <string name="import_message">Möchten Sie # zum Kalender hinzufügen?</string>
-  <string name="import_title">Ereignis zum Kalender hinzufügen</string>
+  <string name="import_title">Termin zum Kalender hinzufügen</string>
   <string name="import_to">Hinzufügen zu</string>
   <string name="import_vcs_failed">Hinzufügen fehlgeschlagen.</string>
   <string name="importing">Importieren ...</string>
