@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="fp_nav_center_action_choose_dlg_msg">You can go back to your Home screen by pressing the Home button. But you can choose to do that with just a tap. Customize your Home button in Settings > Additional settings > Buttons.</string>
-  <string name="fp_nav_center_action_choose_dlg_negative_btn_text">No thanks</string>
-  <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Customize</string>
-  <string name="fp_nav_center_action_choose_dlg_title">Customize Home button</string>
+  <string name="fp_nav_center_action_choose_dlg_msg">Sie können durch Drücken der Home-Taste zurück zu Ihrem Home-Bildschirm gehen. Aber Sie können auch wählen, dass nur mit einem Fingertipp funktioniert. Die Home-Taste in den Einstellungen anpassen > Erweiterte Einstellungen > Tasten.</string>
+  <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Nein Danke</string>
+  <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Anpassen</string>
+  <string name="fp_nav_center_action_choose_dlg_title">Home-taste anpassen </string>
   <string name="apply_password_confirm_dlg_msg">Kennwort für %s erforderlich?</string>
   <string name="apply_password_confirm_dlg_title">Dieses Passwort wird für %s verwendet</string>
   <string name="subinfo_default_name">SIM %d</string>
