@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="power_checker_recent_btn_title">Setting Power</string>
-  <string name="power_checker_recent_group_title">Recently</string>
-  <string name="power_checker_running_btn_title">Kill Process</string>
-  <string name="power_checker_running_group_title">Running</string>
+  <string name="power_checker_recent_btn_title">Energie-Einstellung</string>
+  <string name="power_checker_recent_group_title">Vor kurzem</string>
+  <string name="power_checker_running_btn_title">Process unterbrechen</string>
+  <string name="power_checker_running_group_title">Ausführen</string>
   <string name="power_checker_title">PowerChecker</string>
   <string name="action_bar_delete">Löschen</string>
   <string name="action_settings">Einstellungen</string>
