@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="card_insert_to_contact">Import contact</string>
-  <string name="found_wild_messages_guide_sync_not_started">Sync not started yet</string>
-  <string name="wild_msg_processing">Processing…</string>
-  <string name="wild_msg_title">Enable cloud syncing</string>
+  <string name="card_insert_to_contact">Kontakte Importieren</string>
+  <string name="found_wild_messages_guide_sync_not_started">Synchronisierung hat noch nicht begonnen</string>
+  <string name="wild_msg_processing">Verarbeitung…</string>
+  <string name="wild_msg_title">Aktivieren Sie die Synchronisierung von Cloud</string>
   <string name="select_message_send_sim">SIM-Karte wählen</string>
   <string name="action_firewall_setting">Sperrliste</string>
   <string name="activity_not_found">Anhang konnte nicht geöffnet werden</string>
