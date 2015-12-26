@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="power_checker_group_prefix">
-        <item>using</item>
+        <item>Verwendung</item>
         <item></item>
         <item></item>
      </string-array>
      <string-array name="power_checker_group_suffix">
         <item></item>
-        <item>too much right now</item>
-        <item>too much in these day</item>
+        <item>zu viel im Moment</item>
+        <item>zu viel an diesen Tag</item>
      </string-array>
      <string-array name="power_checker_recent_group_titles">
         <item>Kernel WakeLock</item>
         <item>WakeLock</item>
-        <item>WIFI scan</item>
+        <item>Wlan suchen</item>
         <item>GPS</item>
         <item>CPU</item>
-        <item>Wake Up</item>
+        <item>Aufwachen</item>
      </string-array>
      <string-array name="power_checker_running_group_titles">
         <item>Kernel WakeLock</item>
         <item>WakeLock</item>
-        <item>WIFI scan</item>
+        <item>Wlan suchen</item>
         <item>GPS</item>
         <item>CPU</item>
-        <item>Wake Up</item>
+        <item>Aufwachen</item>
      </string-array>
     <string-array name="group_name_translate">
         <item>Standard</item>
