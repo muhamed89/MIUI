@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="sim_location_error_dialog_message">"The SIM you're using is from %1$s. This is different from the location you set manually (%2$s). Change SIM location to %3$s?"</string>
-  <string name="sim_location_error_notify_message">Tap to change SIM location</string>
-  <string name="sim_location_error_notify_title">SIM card error</string>
-  <string name="traffic_setting_fragment_loacation_alert_nomore">"Don't show again"</string>
+  <string name="sim_location_error_notify_message">Tippen Sie auf SIM- Speicherort ändern</string>
+  <string name="sim_location_error_notify_title">SIM-Kartenfehler</string>
+  <string name="traffic_setting_fragment_loacation_alert_nomore">"Nicht mehr anzeigen"</string>
   <string name="add_miservice_dialog_content">Für %s ist es erforderlich das Sie die MIUI Service-Framework zur Ausnahmeliste hinzufügen.</string>
   <string name="add_miservice_dialog_title">MIUI Service Framework</string>
   <string name="add_to_whitelist_button">Ausnahmen verwalten</string>
@@ -268,7 +268,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="notify_daily_data_usage_body">Um den Datenverbrauch automatisch zu begrenzen, richten Sie Ihren monatlichen Datenplan ein.</string>
   <string name="notify_daily_limit_body">Antippen, um Limit festzulegen.</string>
   <string name="notify_daily_limit_title">Heute %s verbraucht.</string>
-  <string name="notify_daily_limit_title_for_slotnum">%1$s used %2$s today</string>
+  <string name="notify_daily_limit_title_for_slotnum">%1$s verwendet %2$s heute</string>
   <string name="notify_month_traffic_body">Legen Sie ein Limit fest, um das monatliche Datenvolumen nicht zu überschreiten.</string>
   <string name="notify_month_traffic_title">Diesen Monat %s verbraucht</string>
   <string name="notify_month_traffic_title_for_slotnum">%1$s %2$s diesen Monat verbraucht</string>
