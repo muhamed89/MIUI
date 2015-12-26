@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="notification_fail_msg">Try downloading full ROM</string>
-  <string name="notification_restart">Update again</string>
+  <string name="notification_fail_msg">Versuchen Sie, die ROM zu laden</string>
+  <string name="notification_restart">erneut aktualisieren</string>
   <string name="about_device">Über das Telefon</string>
   <string name="active_xiaomi_account">Aktiv</string>
   <string name="active_xiaomi_account_msg">Um Ihren Mi Account zu aktivieren, bitte https://account.xiaomi.com/pass/serviceLogin aufrufen</string>
