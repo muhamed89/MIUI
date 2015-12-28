@@ -667,7 +667,7 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
   <string name="check_update">Updates suchen</string>
   <string name="checkbox_notification_same_as_incoming_call">Lautstärke von eingehenden Anrufen für Benachrichtigungen verwenden.</string>
-  <string name="checking_find_device_status">Checking Find device status…</string>
+  <string name="checking_find_device_status">Gerätelokalisierungsstatus wird überprüft…</string>
   <string name="checking_for_updates">Prüfe auf Updates...</string>
   <string name="children_mode_enable_title">Jugendschutz</string>
   <string name="children_mode_set_apps_title">Erlaubte Apps</string>
@@ -718,7 +718,7 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="confirm_action">OK</string>
   <string name="confirm_download_cancelation_dialog_message">Download abbrechen?</string>
   <string name="confirm_erase">Löschen</string>
-  <string name="confirm_fingerprint_msg">Place your finger on the fingerprint scanner</string>
+  <string name="confirm_fingerprint_msg">Legen Sie Ihren Finger auf den Fingerabdruckscanner</string>
   <string name="confirm_new_backup_pw_prompt">Neues Passwort für vollständige Sicherung erneut eingeben</string>
   <string name="connect_to_internet">Verbindung zum Netzwerk</string>
   <string name="connected_wifi">Verbunden</string>
@@ -1197,11 +1197,11 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="extreme_threats_summary">Erhalten Sie Benachrichtigungen, die Bedrohungen für Leben und Eigentum darstellen</string>
   <string name="extreme_threats_title">Extreme Bedrohungen</string>
   <string name="factory_reset_summary">"Alle Daten aus dem internen Telefonspeicher löschen"</string>
-  <string name="failed_to_check_find_device_status_content">Failed to check find device status, Wait a minute or two and try again.</string>
-  <string name="failed_to_check_find_device_status_title">Failed to check Find device status</string>
+  <string name="failed_to_check_find_device_status_content">Gerätelokalisierungsstatus konnte nicht überprüft werden. Warten Sie einen Moment und versuchen Sie es dann erneut.</string>
+  <string name="failed_to_check_find_device_status_title">Gerätelokalisierungsstatus konnte nicht überprüft werden</string>
   <string name="failed_to_open_app_settings_toast">Einstellungen für %1$s konnten nicht geöffnet werden.</string>
-  <string name="failed_to_shut_down_find_device_content">"Couldn't turn off Find device. Wait a minute or two and try again."</string>
-  <string name="failed_to_shut_down_find_device_title">"Couldn't turn off Find device"</string>
+  <string name="failed_to_shut_down_find_device_content">"Gerätelokalisierung konnte nicht deaktiviert werden. Warten Sie einen Moment und versuchen Sie es dann erneut."</string>
+  <string name="failed_to_shut_down_find_device_title">"Gerätelokalisierung konnte nicht deaktiviert werden"</string>
   <string name="fcc_equipment_id">Geräte-ID</string>
   <string name="field_info_card_label">Karte wählen:</string>
   <string name="field_info_cell_id_label">Handy ID:</string>
@@ -1259,7 +1259,7 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="force_stop_dlg_text">Das Beenden der App zu erzwingen kann zu unerwünschtem Verhalten führen.</string>
   <string name="force_stop_dlg_title">Beenden erzwingen?</string>
   <string name="forget">VERGESSEN</string>
-  <string name="forget_password_button_text">&lt;u&gt;Forgot password&lt;/u&gt;</string>
+  <string name="forget_password_button_text">&lt;u&gt;Passwort vergessen&lt;/u&gt;</string>
   <string name="forget_wifi_message">Die Netzwerkverbindung wird automatisch beendet.</string>
   <string name="found_new_version">Update verfügbar</string>
   <string name="fp_nav_center_back_to_home_title">Home-Taste antippen, um zurück zur Startseite zu gelangen</string>
@@ -1851,7 +1851,7 @@ Betriebssystem auswählen:"</string>
   <string name="music_dirac_mode_headset">Mi-Kopfhörer</string>
   <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
   <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
-  <string name="music_dirac_mode_off">Dirac off</string>
+  <string name="music_dirac_mode_off">Dirac aus</string>
   <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
   <string name="music_dirac_mode_piston_100">Mi Piston</string>
   <string name="music_dirac_mode_piston_2">Mi Piston-2</string>
@@ -1972,7 +1972,7 @@ Betriebssystem auswählen:"</string>
   <string name="oldman_mode_settings_caption">Seniorenmodus Einstellungen</string>
   <string name="oldman_mode_summary">Vereinfachten Startbildschirm und Menüs verwenden</string>
   <string name="oldman_mode_summary_cta">Der Seniorenmodus muss auf das Internet zugreifen und Ihre Kontakte, Nachrichten und Standort auslesen, um normal zu funktionieren.</string>
-  <string name="onekey_migrate">Transfer</string>
+  <string name="onekey_migrate">Übertragen</string>
   <string name="online_resource_entry">Online Quellen</string>
   <string name="only_one_home_message">Launcher Einstellungen werden ausgeblendet, bis Sie einen anderen Launcher installieren.</string>
   <string name="only_when_charging">Nur während des Ladevorgangs</string>
@@ -2135,7 +2135,7 @@ Betriebssystem auswählen:"</string>
   <string name="print_blocked_state_title_template">Drucker hat %1$s blockiert.</string>
   <string name="print_cancel">Abbrechen</string>
   <string name="print_cancelling_state_title_template">%1$s wird abgebrochen...</string>
-  <string name="print_enable">Enable printing</string>
+  <string name="print_enable">Drucker aktivieren</string>
   <string name="print_failed_state_title_template">Druckerfehler %1$s</string>
   <string name="print_feature_state_off">Aus</string>
   <string name="print_feature_state_on">An</string>
@@ -2151,7 +2151,7 @@ Betriebssystem auswählen:"</string>
   <string name="print_print_job">Druckauftrag</string>
   <string name="print_print_jobs">Druckaufträge</string>
   <string name="print_printing_state_title_template">%1$s wird gedruckt</string>
-  <string name="print_remind">Enable printing first</string>
+  <string name="print_remind">Aktivieren Sie zuerst den Drucker</string>
   <string name="print_restart">Neu starten</string>
   <string name="print_search_box_hidden_utterance">Suchfeld ausgeblendet</string>
   <string name="print_search_box_shown_utterance">Suchfeld angezeigt</string>
