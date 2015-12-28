@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="notification_missedCall_call_back_miui">Call</string>
+  <string name="notification_missedCall_call_back_miui">Anrufe</string>
   <string name="notification_missedCallsTitle">Entgangene Anrufe</string>
   <string name="notification_missedCallsMsg">%s entgangene Anrufe</string>
   <string name="notification_missedCallTicker">Entgangener Anruf von %s</string>
