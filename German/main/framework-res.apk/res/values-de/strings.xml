@@ -1224,7 +1224,7 @@ für Konto %s"</string>
   <string name="permlab_modifyNetworkAccounting">Zuordnung für Netzwerknutzung ändern</string>
   <string name="permlab_modifyParentalControls">Jugendschutzeinstellungen ändern</string>
   <string name="permlab_modifyPhoneState">Telefonstatus ändern</string>
-  <string name="permlab_mount_format_filesystems">USB-Speicher löschen</string>
+  <string name="permlab_mount_format_filesystems">SD Speicher löschen</string>
   <string name="permlab_mount_unmount_filesystems">Auf Dateisystem des USB-Speichers zugreifen</string>
   <string name="permlab_movePackage">App-Ressourcen verschieben</string>
   <string name="permlab_nfc">Nahfeldkommunikation steuern</string>
