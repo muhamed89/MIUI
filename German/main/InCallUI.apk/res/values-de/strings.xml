@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="conference_call_single_description" formatted="false">%s etc. | Total %s</string>
   <string name="card_title_video_call">Video Anruf</string>
   <string name="livetalk_dial">Aufladen</string>
   <string name="livetalk_left_minute">%sm übrig</string>
