@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>  
+  <string name="cloud_backup_section_title">Backup Mi Cloud</string>
+  <string name="cloud_restore_section_title">Wiederherstellung aus Mi Cloud</string>
+  <string name="cloud_restore_section_summary">Wiederherstellung der Apps, Home-Screens und Systemeinstellungen</string>
+  <string name="cloud_backup_settings_section_title">Sicherungseinstellungen</string>
   <string name="Accounts_settings_title">Konten</string>
   <string name="about_settings">Über das Gerät</string>
   <string name="about_settings_summary">Rechtliche Hinweise, Status und Softwareversion anzeigen</string>
