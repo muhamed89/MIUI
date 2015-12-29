@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="user_notice_button_exit">Exit</string>
+  <string name="user_notice_button_exit">Beenden</string>
   <string name="user_notice_button_ok">OK</string>
-  <string name="user_notice_declaration_ignore">"Don't show again"</string>
-  <string name="user_notice_message">"By using this product, you agree to Xiaomi's %1$s and %2$s. Some features require an internet connection, location and contact access to work normally."</string>
-  <string name="user_notice_title">User Notification</string>
-  <string name="user_notification">User notification</string>
-  <string name="user_notification_descrip">Show user notification every time you open Calendar</string>
+  <string name="user_notice_declaration_ignore">"Nicht mehr anzeigen"</string>
+  <string name="user_notice_message">"Der Verwendung dieser Funktion akzeptieren Sie Xiaomis %1$s und %2$s. Diese App benötigt eine Internetverbindung, um ordnungsgemäß ausgeführt werden zu können."</string>
+  <string name="user_notice_title">Benutzerbenachrichtigung</string>
+  <string name="user_notification">Benutzerbenachrichtigung</string>
+  <string name="user_notification_descrip">Benutzerbenachrichtigung immer beim Öffnen des Kalenders anzeigen</string>
   <string name="birthday_event_description_a_week_ago">Vor einer Woche</string>
   <string name="birthday_event_description_a_week_later">Eine Woche später</string>
   <string name="birthday_event_description_day_after_tomorrow">Übermorgen</string>
