@@ -71,16 +71,15 @@ Zuletzt gesichert am %2$s"</string>
   <string name="error_network">"Kann mich nicht mit Netzwerk verbinden"</string>
   <string name="error_not_acceptable">Synchronisation wurde ausgeschaltet.</string>
   <string name="error_server">Serverfehler</string>
-  <string name="error_title">"Konnte nicht synchronisieren"</string>
+  <string name="error_title">Konnte nicht synchronisieren</string>
   <string name="error_unauthorized">Synchronisation wurde abgeschalten, wegen zu vieler Log-In Versuche.</string>
-  <string name="error_unknown">"Anmeldung fehlgeschlagen"</string>
+  <string name="error_unknown">Anmeldung fehlgeschlagen</string>
   <string name="find_device">Gerät suchen</string>
   <string name="find_device_disabled_notice">"Sie können diese Funtion jederzeit in den Mi-Cloud Einstellungen ein- oder ausschalten."</string>
   <string name="find_device_disabled_title">Gerätesuche ist ausgeschaltet</string>
   <string name="find_device_disabling">Wird deaktiviert…</string>
   <string name="find_device_dspt">Finden, Sperren oder Zurücksetzen deines Gerätes aus der Ferne</string>
-  <string name="find_device_dspt_provision">"Wenn Sie Ihr Gerät verloren haben, können Sie auf %s gehen, um es zu lokalisieren, zu sperren, oder es in den Werkszustand zurückversetzen. Sie können diese Funktion jederzeit in den Einstellungen ändern.
-"</string>
+  <string name="find_device_dspt_provision">Wenn Sie Ihr Gerät verloren haben, können Sie auf %s gehen, um es zu lokalisieren, zu sperren, oder es in den Werkszustand zurückversetzen. Sie können diese Funktion jederzeit in den Einstellungen ändern.</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
   <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
   <string name="find_device_dspt_provision_3">Sie können diese Funktion jederzeit in den Einstellungen ändern.</string>
@@ -119,19 +118,19 @@ Zuletzt gesichert am %2$s"</string>
   <string name="master_alert_notif_dspt_no">Synchronisiert</string>
   <string name="master_alert_notif_title">Zuletzt vor %s Tagen synchronisiert</string>
   <string name="micloud_buy_member">Konto</string>
-  <string name="micloud_all_sub_1_intl_sms">"Es wird eine internationale Textnachricht gesendet, um Ihre SIM Karte zu aktivieren. Es können Kosten bei Ihrem Netzbetreiber entstehen. Wenn Sie die Funktion 'Gerät finden' einschalten, wird eine Aktivierungs SMS gesendet, sobald Sie die SIM Karte wechseln."</string>
-  <string name="micloud_all_sub_1_sms">"Es wird eine Textnachricht gesendet, um Ihre SIM Karte zu aktivieren. Es können Kosten bei Ihrem Netzbetreiber entstehen. Wenn Sie die Funktion 'Gerät finden' einschalten, wird eine Aktivierungs SMS gesendet, sobald Sie die SIM Karte wechseln."</string>
-  <string name="micloud_all_sub_1_sms_1_intl_sms">"2 Textnachrichten (national und international), um Ihre SIM Karte zu aktivieren. Es können Kosten bei Ihrem Netzbetreiber entstehen. Wenn Sie die Funktion 'Gerät finden' einschalten, wird eine Aktivierungs SMS gesendet, sobald Sie die SIM Karte wechseln."</string>
-  <string name="micloud_all_sub_2_intl_sms">"2 internationale Textnachrichten werden gesendet, um Ihre SIM Karte zu aktivieren. Es können Kosten bei Ihrem Netzbetreiber entstehen. Wenn Sie die Funktion 'Gerät finden' einschalten, wird eine Aktivierungs SMS gesendet, sobald Sie die SIM Karte wechseln."</string>
-  <string name="micloud_all_sub_2_sms">"2 nationale Textnachrichten werden gesendet, um Ihre SIM Karte zu aktivieren. Es können Kosten bei Ihrem Netzbetreiber entstehen. Wenn Sie die Funktion 'Gerät finden' einschalten, wird eine Aktivierungs SMS gesendet, sobald Sie die SIM Karte wechseln."</string>
-  <string name="micloud_all_sub_resend_sms">"Wenn Sie 'Gerätelokalisierung' aktivieren, wird möglicherweise eine Aktivierungs-SMS versendet, nachdem Sie Ihre SIM-Karten gewechselt haben."</string>
+  <string name="micloud_all_sub_1_intl_sms">Es wird eine internationale Textnachricht gesendet, um Ihre SIM Karte zu aktivieren. Es können Kosten bei Ihrem Netzbetreiber entstehen. Wenn Sie die Funktion 'Gerät finden' einschalten, wird eine Aktivierungs SMS gesendet, sobald Sie die SIM Karte wechseln.</string>
+  <string name="micloud_all_sub_1_sms">Es wird eine Textnachricht gesendet, um Ihre SIM Karte zu aktivieren. Es können Kosten bei Ihrem Netzbetreiber entstehen. Wenn Sie die Funktion 'Gerät finden' einschalten, wird eine Aktivierungs SMS gesendet, sobald Sie die SIM Karte wechseln.</string>
+  <string name="micloud_all_sub_1_sms_1_intl_sms">2 Textnachrichten (national und international), um Ihre SIM Karte zu aktivieren. Es können Kosten bei Ihrem Netzbetreiber entstehen. Wenn Sie die Funktion 'Gerät finden' einschalten, wird eine Aktivierungs SMS gesendet, sobald Sie die SIM Karte wechseln.</string>
+  <string name="micloud_all_sub_2_intl_sms">2 internationale Textnachrichten werden gesendet, um Ihre SIM Karte zu aktivieren. Es können Kosten bei Ihrem Netzbetreiber entstehen. Wenn Sie die Funktion 'Gerät finden' einschalten, wird eine Aktivierungs SMS gesendet, sobald Sie die SIM Karte wechseln.</string>
+  <string name="micloud_all_sub_2_sms">2 nationale Textnachrichten werden gesendet, um Ihre SIM Karte zu aktivieren. Es können Kosten bei Ihrem Netzbetreiber entstehen. Wenn Sie die Funktion 'Gerät finden' einschalten, wird eine Aktivierungs SMS gesendet, sobald Sie die SIM Karte wechseln.</string>
+  <string name="micloud_all_sub_resend_sms">Wenn Sie Gerätelokalisierung aktivieren, wird möglicherweise eine Aktivierungs-SMS versendet, nachdem Sie Ihre SIM-Karten gewechselt haben.</string>
   <string name="micloud_battery_low_notification_message">Zum Synchronisieren Aufladegerät verbinden</string>
   <string name="micloud_battery_low_notification_title">Geringer Akkustand</string>
   <string name="micloud_check_sim_notify_text">"Anscheinend haben Sie Ihre SIM-Karte gewechselt. Melden Sie sich bei Ihrem MiKonto an, um die MiCloud zu reaktivieren."</string>
   <string name="micloud_check_sim_notify_title">MiCloud reaktivieren</string>
-  <string name="micloud_check_sim_title">"Anscheinend haben Sie Ihre SIM-Karte gewechselt. Melden Sie sich bei Ihrem MiKonto an, um die MiCloud zu reaktivieren."</string>
-  <string name="micloud_confusion_account_hint">"Änderungen auf diesem Gerät werden mit all Ihren Geräten synchronisiert. Um Ihr Konto zu schützen, empfehlen wir Ihnen die Synchronisierung für Ihre nicht verwendeten Geräte auszuschalten."</string>
-  <string name="micloud_confusion_account_name">"MiKonto-ID: "</string>
+  <string name="micloud_check_sim_title">Anscheinend haben Sie Ihre SIM-Karte gewechselt. Melden Sie sich bei Ihrem MiKonto an, um die MiCloud zu reaktivieren.</string>
+  <string name="micloud_confusion_account_hint">Änderungen auf diesem Gerät werden mit all Ihren Geräten synchronisiert. Um Ihr Konto zu schützen, empfehlen wir Ihnen die Synchronisierung für Ihre nicht verwendeten Geräte auszuschalten.</string>
+  <string name="micloud_confusion_account_name">MiKonto-ID: </string>
   <string name="micloud_confusion_account_notify_text">Ihr MiKonto wurde von einem anderem Gerät geändert.</string>
   <string name="micloud_confusion_account_notify_title">Konto überprüfen</string>
   <string name="micloud_confusion_account_question">Gehört dieses MiKonto %s zu Ihnen?</string>
@@ -243,9 +242,7 @@ Für mehr Optionen tippen Sie auf Einstellungen"</string>
   <string name="micloud_main_wlan_sync_data_count">%d Elemente warten auf Synchronisierung über WLAN</string>
   <string name="micloud_member">MiCloud-Mitgliedschaft</string>
   <string name="micloud_member_advantage">Mehr Speicherplatz kaufen.</string>
-  <string name="micloud_member_buy_content" formatted="false">"Gültig für %s-%s-%s
-
-%s Mi Credits"</string>
+  <string name="micloud_member_buy_content" formatted="false">"Gültig für %s-%s-%s%s Mi Credits"</string>
   <string name="micloud_member_buy_title">Bestellung bestätigen</string>
   <string name="micloud_member_net_error_alert_message">"Sie haben keine Internetverbindung."</string>
   <string name="micloud_member_net_error_alert_title">"Verbindung zum Netzwerk fehlgeschlagen"</string>
