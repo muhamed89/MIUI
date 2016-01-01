@@ -38,10 +38,10 @@ Um mehr Speicherplatz zu erhalten, besuchen Sie mi.com/micloud."</string>
   <string name="click_to_enabled">Berühre, um zu synchronisieren.</string>
   <string name="cloud_back_up_button_ok">Sofort Stoppen</string>
   <string name="cloud_back_up_close_info">Berühre zum Sichern.</string>
-  <string name="cloud_back_up_dialog_content">"Laufende Sicherung stoppen? Wenn Sie diese jetzt stoppen, können Sie diese Sicherung nicht zur Wiederherstellung benutzen."</string>
+  <string name="cloud_back_up_dialog_content">Laufende Sicherung stoppen? Wenn Sie diese jetzt stoppen, können Sie diese Sicherung nicht zur Wiederherstellung benutzen.</string>
   <string name="cloud_back_up_interval_long">7 Tage</string>
   <string name="cloud_back_up_interval_short">1 Tag</string>
-  <string name="cloud_back_up_network_unavailable">"Konnte nichts entfernen. Verbinden Sie sich mit einem WLAN und versuchen Sie es erneut."</string>
+  <string name="cloud_back_up_network_unavailable">Konnte nichts entfernen. Verbinden Sie sich mit einem WLAN und versuchen Sie es erneut.</string>
   <string name="cloud_back_up_open_info">"Sichere Apps, wenn Sie mit einem WLAN verbunden sind, einmal aller %1$s
 Zuletzt gesichert am %2$s"</string>
   <string name="cloud_back_up_open_info_no_backuptime">Sichere Apps, wenn Sie mit einem WLAN verbunden sind, einmal aller %1$s</string>
@@ -50,7 +50,7 @@ Zuletzt gesichert am %2$s"</string>
   <string name="cloud_backup_dialog_title">Sicher mit Mi Cloud</string>
   <string name="cloud_find_device">Suche Gerät</string>
   <string name="cloud_space_upgrade_message">Berühre, um %sGB zu deiner Cloud hinzuzufügen.</string>
-  <string name="cloud_space_upgrade_no_quota_info">"Konnte keine Speicherplatzinfo erhalten"</string>
+  <string name="cloud_space_upgrade_no_quota_info">Konnte keine Speicherplatzinfo erhalten</string>
   <string name="cloud_space_upgrade_title">Mehr Speicherplatz für Mi Cloud</string>
   <string name="cloudservice_new_sync">Synchronisiere %s mit Mi Cloud</string>
   <string name="cmcc_micloud_dspt">Verwenden Sie Mi Cloud um Ihre Daten zu synchronisieren, Ihr Gerät zu finden und Dinge mit Ihren Freunden zu teilen.</string>
@@ -83,7 +83,7 @@ Zuletzt gesichert am %2$s"</string>
 "</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
   <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
-  <string name="find_device_dspt_provision_3">. Sie können diese Funktion jederzeit in den Einstellungen ändern.</string>
+  <string name="find_device_dspt_provision_3">Sie können diese Funktion jederzeit in den Einstellungen ändern.</string>
   <string name="find_device_dspt_provision_4">Wenn Sie Ihre SIM-Karte wechseln, wird automatisch eine SMS Nachricht gesendet, um diese Funktion zu reaktivieren.</string>
   <string name="find_device_enabling">Wird aktiviert…</string>
   <string name="find_device_error_network">Überprüfen Sie Ihre Datenverbindung und versuchen Sie es erneut.</string>
@@ -91,14 +91,14 @@ Zuletzt gesichert am %2$s"</string>
   <string name="find_device_error_unknown">Unbekannter Fehler</string>
   <string name="find_device_notice_p1">Gehe auf</string>
   <string name="find_device_notice_p2">i.mi.com</string>
-  <string name="find_device_notice_p3">"um dein Telefon zu lokalisieren, zu sperren, oder es wiederherzustellen. Wenn Sie Ihre SIM-Karte wechseln, wird eine weitere SMS-Nachricht versendet, um diese Funktion zu reaktivieren."</string>
+  <string name="find_device_notice_p3">um dein Telefon zu lokalisieren, zu sperren, oder es wiederherzustellen. Wenn Sie Ihre SIM-Karte wechseln, wird eine weitere SMS-Nachricht versendet, um diese Funktion zu reaktivieren.</string>
   <string name="find_device_reading_status">Status wird geladen…</string>
-  <string name="find_device_reading_status_failure">"Status konnte nicht geladen werden."</string>
-  <string name="find_device_send_sms_alert">"Wenn Sie Ihre SIM-Karte wechseln, wird eine weitere SMS-Nachricht versendet, um diese Funktion zu reaktivieren."</string>
+  <string name="find_device_reading_status_failure">Status konnte nicht geladen werden.</string>
+  <string name="find_device_send_sms_alert">Wenn Sie Ihre SIM-Karte wechseln, wird eine weitere SMS-Nachricht versendet, um diese Funktion zu reaktivieren.</string>
   <string name="find_device_status_ok">Finde dein Gerät überall auf i.mi.com</string>
   <string name="find_device_status_ok_international">Finde dein Gerät überall auf www.mi.com/micloud</string>
   <string name="find_device_success_title">Finde Gerät</string>
-  <string name="forget_password">&lt;u&gt;Passwort vergessen&lt;/u&gt;</string>
+  <string name="forget_password">Passwort vergessen</string>
   <string name="free_space_has_received">Sie haben bereits freien Speicher diesen Monat hinzugefügt</string>
   <string name="free_space_receive_fail">"Upgrade fehlgeschlagen"</string>
   <string name="get_first_month_gb">Erhalte %s freien Speicher</string>
@@ -112,7 +112,7 @@ Zuletzt gesichert am %2$s"</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">Passwort eingeben</string>
   <string name="internet_access_dspt">Diese App benötigt Internetzugriff, um ordnungsgemäß ausgeführt werden zu können.</string>
-  <string name="license_host_unreachable">"Keine Verbindung zum Netzwerk möglich. Um diese Informationen abzurufen, gehe auf %s."</string>
+  <string name="license_host_unreachable">Keine Verbindung zum Netzwerk möglich. Um diese Informationen abzurufen, gehe auf %s.</string>
   <string name="loading">Einen Moment…</string>
   <string name="loading_hint">Wird geladen</string>
   <string name="master_alert_notif_dspt_add">%s Elemente warten auf Synchronisierung</string>
