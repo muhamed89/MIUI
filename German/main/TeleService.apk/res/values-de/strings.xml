@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>    
+  <string name="loading_order">Just a sec…</string>
   <string name="badPin">"Die alte PIN wurde falsch eingegeben. Versuch es noch einmal."</string>
   <string name="badPin2">"Der alte PIN2 wurde falsch eingegeben. Versuch es noch einmal."</string>
   <string name="badPuk2">"Der PUK2 wurde falsch eingegeben. Versuch es noch einmal."</string>
