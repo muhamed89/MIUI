@@ -217,7 +217,7 @@ Next period starts in %4$d days (%5$s)"</string>
 Next period starts in %2$d days (%3$s)"</string>
   <string name="top_up_first">Top-up first</string>
   <string name="tty_mode_not_allowed_vt_call">TTY Mode change is not allowed during a VT call</string>
-  <string name="updating_title">Call settings</string>
+  <string name="updating_title">Anrufeinstellungen</string>
   <string name="use_range">Features</string>
   <string name="verified">Verified</string>
   <string name="verify_fialed">"Couldn't verify"</string>
