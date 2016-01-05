@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="cit_finger_check_title">Finger Print Test(FPC)</string>
+  <string name="cit_fpc_checkerboard_test">CHECKERBOARD TEST</string>
+  <string name="cit_fpc_selftest">SELF-TEST</string>
+  <string name="cit_fpc_sensor_check_summary">FPC sensor test, press the button and wait for the pass info highlighted in green is correct.</string>
+  <string name="cit_fpc_sensor_check_title">FPC fingerprint sensor</string>
   <string name="cit_apk_signature_failed">APK-Signatur FEHLGESCHLAGEN</string>
   <string name="cit_apk_signature_passed">APK-Signatur ERFOLGREICH</string>
   <string name="cit_build_finger_failed">Build-Fingerabdruck FEHLGESCHLAGEN</string>
