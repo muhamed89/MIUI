@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>    
-  <string name="loading_order">Just a sec…</string>
   <string name="badPin">"Die alte PIN wurde falsch eingegeben. Versuch es noch einmal."</string>
   <string name="badPin2">"Der alte PIN2 wurde falsch eingegeben. Versuch es noch einmal."</string>
   <string name="badPuk2">"Der PUK2 wurde falsch eingegeben. Versuch es noch einmal."</string>
@@ -64,6 +63,7 @@
 • Aufladen und lostelefonieren, es gibt keine komplizierten Einstellungen."</string>
   <string name="livetalk_welcome_notes_text">"Hinweis: Jeder Anruf erfordert 1KB der mobilen Daten ; Service und Kurznummern werden nicht unterstützt. Wenn Sie für eingehende Anrufe zahlen, werden Sie durch ihren Anbieter beim Roaming in Rechnung. Ihre Anbieter kann eine SMS verschicken, um dieses Telefonnummer zum überprüfen verlangen."</string>
   <string name="loading_product">Einen Moment…</string>
+  <string name="loading_order">Einen Moment…</string>
   <string name="lte_checkbox_text">Stellen Sie mobile Daten an die ausgewählte SIM-Karte, sobald Standard 4G/3G SIM-Karte geändert wird</string>
   <string name="lte_recognition_title">Anerkennung der SIM-Karte</string>
   <string name="lte_recognize_summary">Zwei 4G/3G SIM-Karten werden erkannt, müssen Sie die Standard 4G/3G SIM-Karte festlegen:</string>
