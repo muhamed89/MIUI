@@ -2,5 +2,6 @@
 <resources>
     <string-array name="config_operatorConsideredNonRoaming">
         <item>26207</item>
+        <item>26208</item>
     </string-array>
 </resources>
