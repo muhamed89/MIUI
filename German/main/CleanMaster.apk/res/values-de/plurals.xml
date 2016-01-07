@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="deepclean_apk_summary">
+        <item quantity="other">Found %d APKs, you can delete the unnecessary ones.</item>
+        <item quantity="one">Found %d APK, you can delete this one.</item>
+     </plurals>
+     <plurals name="deepclean_video_summary">
+        <item quantity="other">Found %d videos, you can delete the unnecessary ones.​</item>
+        <item quantity="one">Found %d video, you can delete this one.</item>
+     </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d Gruppen</item>
         <item quantity="one">%d Gruppe</item>
