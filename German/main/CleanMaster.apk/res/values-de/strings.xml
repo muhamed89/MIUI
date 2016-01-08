@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="activity_title_deep_apk">Delete APKs</string>
+  <string name="activity_title_video">Delete videos</string>
+  <string name="deepclean_apk_content">Delete APKs or unnecessary apps</string>
+  <string name="deepclean_apk_summary_empty">Everything looks good, no APKs to delete</string>
+  <string name="deepclean_apk_version_error">Unknown</string>
+  <string name="deepclean_video_content">Delete already viewed or unnecessary videos</string>
+  <string name="deepclean_video_summary_empty">Everything looks good</string>
+  <string name="empty_title_video">No videos to delete​</string>
+  <string name="hints_cache_msd_desc">"Deleting delta updates won't influence app usage"</string>
+  <string name="hints_cache_msd_title">Delta update</string>
+  <string name="hints_installed_app_fewer">Rarely used</string>
+  <string name="hints_installed_app_near">Used recently</string>
+  <string name="hints_installed_app_never">Never used</string>
+  <string name="hints_video_camera">Captured videos</string>
+  <string name="hints_video_download">Downloaded videos</string>
+  <string name="summary_delete_apk">Delete selected APKs permanently?</string>
+  <string name="summary_delete_video">>Delete selected videos permanently?</string>
+  <string name="title_delete_deepclean">Delete</string>
   <string name="activity_title_brightness_image">Unter und überbelichtet</string>
   <string name="activity_title_screenshot">Screenshots</string>
   <string name="activity_title_similar_image">doppelte Fotos</string>
