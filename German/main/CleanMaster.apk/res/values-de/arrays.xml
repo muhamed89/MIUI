@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="video_clean_menu">
+        <item>Clean up this file</item>
+        <item>Open</item>
+        <item>Add file to exceptions</item>
+     </string-array>
     <string-array name="cache_sort_type">
         <item>Größe</item>
         <item>Name</item>
