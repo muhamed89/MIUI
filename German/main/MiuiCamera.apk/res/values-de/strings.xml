@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Can't use Quick snap mode while \"Use volume buttons to wake\" is on"</string>
   <string name="access_sd_fail">"Kein Zugriff auf den USB-Speicher möglich."</string>
   <string name="accessibility_camera_picker">Front- und Rückkamera wechseln</string>
   <string name="accessibility_flash_mode_button">FlashButton</string>
