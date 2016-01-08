@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>  
-  <string name="close_miui_optimization_title">Turn off MIUI optimization</string>
-  <string name="close_miui_optimization_warning_message">Your device will reboot to apply this change. Note: turning this feature off will bring major changes to layouts and other elements of the UI.</string>
-  <string name="miui_experience_optimization">Turn on MIUI optimization</string>
-  <string name="open_miui_optimization_title">Turn on MIUI optimization</string>
-  <string name="open_miui_optimization_warning_message">Your device will reboot to apply this change</string>
-  <string name="optimization_cancel">Cancel</string>
-  <string name="optimization_close">Turn off &amp; reboot</string>
-  <string name="optimization_open">Turn on</string>
+  <string name="close_miui_optimization_title">MIUI Optimierung abschalten</string>
+  <string name="close_miui_optimization_warning_message">Ihr Gerät wird neu starten um die Änderungen zu übernehmen. Anmerkung: Wenn diese Funktion ausgeschaltet wird, werden sehr große Änderungen in der Benutzeroberfläche auftreten.</string>
+  <string name="miui_experience_optimization">MIUI Optimierung einschalten</string>
+  <string name="open_miui_optimization_title">MIUI Optimierung einschalten</string>
+  <string name="open_miui_optimization_warning_message">Ihr Gerät wird neu starten um die Änderungen zu übernehmen</string>
+  <string name="optimization_cancel">Abbrechen</string>
+  <string name="optimization_close">Ausschalten &amp; reboot</string>
+  <string name="optimization_open">Einschalten</string>
   <string name="cloud_backup_section_title">Backup Mi Cloud</string>
   <string name="cloud_restore_section_title">Wiederherstellung aus Mi Cloud</string>
   <string name="cloud_restore_section_summary">Wiederherstellung der Apps, Home-Screens und Systemeinstellungen</string>
