@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="deepclean_apk_summary">
-        <item quantity="other">Found %d APKs, you can delete the unnecessary ones.</item>
-        <item quantity="one">Found %d APK, you can delete this one.</item>
+        <item quantity="other">%d APKs gefunden, Sie können die unnötigen Daten löschen.</item>
+        <item quantity="one">Sie können unwichtige Daten für %d App löschen</item>
      </plurals>
      <plurals name="deepclean_video_summary">
-        <item quantity="other">Found %d videos, you can delete the unnecessary ones.​</item>
-        <item quantity="one">Found %d video, you can delete this one.</item>
+        <item quantity="other">%d Videos gefunden, Sie können die unnötigen Daten löschen.</item>
+        <item quantity="one">Sie können unwichtige Daten für %d Video löschen</item>
      </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d Gruppen</item>
@@ -21,20 +21,20 @@
         <item quantity="many">Vor %1$d Tagen</item>
      </plurals>
      <plurals name="deepclean_app_summary">
-        <item quantity="other">%d apps installed, you can delete rarely used apps</item>
-        <item quantity="one">%d app installed, you can delete this one</item>
+        <item quantity="other">%d apps installiert, Sie können selten genutzte apps entfernen</item>
+        <item quantity="one">%d App installiert, Sie können unwichtige Daten entfernen</item>
      </plurals>
      <plurals name="deepclean_cache_summary">
-        <item quantity="other">You can clear unimportant data for %d apps</item>
-        <item quantity="one">You can clear unimportant data for %d app</item>
+        <item quantity="other">Sie können unwichtige Daten für %d App löschen</item>
+        <item quantity="one">Sie können unwichtige Daten für %d App löschen</item>
      </plurals>
      <plurals name="deepclean_large_summary">
-        <item quantity="other">Found %d big files, you can delete the unimporntant ones</item>
-        <item quantity="one">Found %d big file, you can delete this one</item>
+        <item quantity="other">%d große Dateien gefunden, Sie können die unnötigen Dateien entfernen</item>
+        <item quantity="one">%d große Dateien gefunden, Sie können diese Dateien löschen.</item>
      </plurals>
      <plurals name="deepclean_similar_summary">
-        <item quantity="other">Found %d photos, you can delete duplicates or redundant images</item>
-        <item quantity="one">Found %d photo, you can delete duplicates or redundant images</item>
+        <item quantity="other">%d Fotos gefunden, Sie können doppelte oder unnötige Bilder entfernen</item>
+        <item quantity="one">%d Foto gefunden, Sie können doppelte oder unnötige Bilder entfernen</item>
      </plurals>
      <plurals name="hours_ago">
         <item quantity="other">Vor %1$d Stunden</item>
