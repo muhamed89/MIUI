@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="download">Download</string>
-  <string name="set_as_wallpaper">Set as wallpaper</string>
+  <string name="set_as_wallpaper">Als Hintergrundbildschirm festlegen</string>
   <string name="user_notice_button_exit">Beenden</string>
   <string name="user_notice_button_ok">OK</string>
   <string name="user_notice_declaration_ignore">"Nicht mehr anzeigen"</string>
