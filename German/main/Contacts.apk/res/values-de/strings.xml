@@ -642,6 +642,14 @@ Grund: \"%s\"."</string>
   <string name="miprofile_error_not_set">Ihre Kontaktkarte wurde nicht mit dem Server synchronisiert</string>
   <string name="miprofile_error_unknown">Unbekannter Fehler</string>
   <string name="miprofile_name">Mein Profil</string>
+  <string name="miprofile_find_miprofile_title">Add profile</string>
+  <string name="miprofile_find_profile_batch_add">Add all profile</string>
+  <string name="miprofile_find_profile_batch_finish">Finish</string>
+  <string name="miprofile_find_profile_batch_request_failed">Failed to add profile</string>
+  <string name="miprofile_find_profile_loading">Loading</string>
+  <string name="miprofile_find_profile_no_recommend">No recommend profile</string>
+  <string name="miprofile_find_profile_subtitle">Add to view photo and more info</string>
+  <string name="miprofile_finding_label">Find contact cards</string>
   <string name="miprofile_notice_text">Tippen, um das Profilfoto anzuzeigen</string>
   <string name="miprofile_request_agenda_date">%1$s möchte die Kontaktkarten austauschen</string>
   <string name="miprofile_request_agenda_today">%1$s möchte die Kontaktkarten austauschen</string>
