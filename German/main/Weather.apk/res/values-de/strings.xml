@@ -40,7 +40,7 @@
   <string name="aqi_quality_index_pure_short_desc">%1$s</string>
   <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
   <string name="aqi_quality_index_unhealthy_short_desc">%1$s</string>
-  <string name="aqi_short_desc">"AQI "</string>
+  <string name="aqi_short_desc">"AQI %1$s"</string>
   <string name="button_abandon">Veränderungen verwerfen</string>
   <string name="button_allow">OK</string>
   <string name="button_confirm">Erlauben</string>
@@ -51,6 +51,7 @@
   <string name="daily_forcast_no_wind">Kein Wind</string>
   <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s später.</string>
+  <string name="daily_forcast_whirl_wind">Whirl wind</string>
   <string name="daily_forcast_wind_connect">%1$s %2$s</string>
   <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_alert_city_title"/>
@@ -92,6 +93,7 @@
   <string name="network_unavailable">Verbindung zum Netzwerk nicht möglich</string>
   <string name="no_network_btn">Wiederholen</string>
   <string name="open_browser">In Browser öffnen</string>
+  <string name="realtime_aqi_connection">%1$s</string>
   <string name="share">Teilen</string>
   <string name="share_btn_cancel">Abbrechen</string>
   <string name="share_btn_confirm">Teilen</string>
