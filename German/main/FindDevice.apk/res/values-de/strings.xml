@@ -12,6 +12,7 @@
   <string name="enable_find_device_error">"\"Gerät finden\" konnte nicht aktiviert werden. %1$s"</string>
   <string name="enable_find_device_success">"\"Gerät finden\" ist aktiviert"</string>
   <string name="find_device">Gerät finden</string>
+  <string name="find_device_crash">Find device closed unexpectedly</string>
   <string name="find_device_error_account_sys_timeout">"Konnte nicht mit Mi-Konto verbinden."</string>
   <string name="find_device_error_network">Verbindung zum netzwerk fehlgeschlagen, versuchen Sie es später erneut</string>
   <string name="find_device_error_password_changed">Passwort wurde vor kurzem geändert.</string>
