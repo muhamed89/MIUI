@@ -1118,7 +1118,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="edge_mode_clean_summary">An beiden Kanten gleichzeitig schieben, um den System-Cache zu säubern</string>
   <string name="edge_mode_guide_title">Die hervorgehobene Fläche berühren, um die Kantensteuerung zu nutzen</string>
   <string name="edge_mode_notification_summary">Antippen, um mehr zu erfahren.</string>
-  <string name="edge_mode_notification_title">Nutze die Kanten-Controls</string>
+  <string name="edge_mode_notification_title">Nutze die Kantensteuerung</string>
   <string name="edge_mode_photo">Ein Foto machen</string>
   <string name="edge_mode_photo_summary">In der Kamera-App tippen Sie auf den Rand des Telefons, um den Blendenverschluss auszulösen und erneut antippen, um ein Foto zu machen</string>
   <string name="edge_mode_screenshot">Screenshot</string>
