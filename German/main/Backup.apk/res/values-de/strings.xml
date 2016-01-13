@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="trans_receiver_time_remained">"%s remaining. Keep device charged.Don't turn off Hotspot. Keep both devices close to each other."</string>
-  <string name="trans_sender_time_remained">"%s remaining. Keep device charged.Don't turn off WLAN. Keep both devices close to each other."</string>
+  <string name="trans_receiver_time_remained">"%s Übrig. Das Gerät muss aufgeladen sein. Schalten Sie nicht das Hotspot an. Halten Sie beide Geräte in der Nähe."</string>
+  <string name="trans_sender_time_remained">"%s Übrig. Das Gerät muss aufgeladen sein. Schalten Sie nicht das WLAN an. Halten Sie beide Geräte in der Nähe."</string>
   <string name="abort_backup_confirm">"Sicherung nicht abgeschlossen. Trotzdem abbrechen?"</string>
   <string name="account_contact_backup_info">Google, MiKonto und Kontaktdaten</string>
   <string name="account_login">Anmelden</string>
