@@ -46,7 +46,7 @@
         <item>Website</item>
         <item>Adresse</item>
         <item>Notiz</item>
-        <item>Relation</item>
+        <item>Beziehung</item>
     </string-array>
     <string-array name="entries_date_type">
         <item>Empfangszeit</item>
