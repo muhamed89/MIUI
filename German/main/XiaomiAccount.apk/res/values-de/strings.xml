@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>      
-  <string name="account_vip_achievements">Achievements</string>
+  <string name="account_vip_achievements">Leistung</string>
   <string name="about_device_info">Geräteinfo anzeigen</string>
   <string name="access_denied">Zugang verweigert</string>
   <string name="access_token_expired_warning">Weibo Konto ist abgelaufen</string>
