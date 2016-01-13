@@ -1116,7 +1116,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="edge_mode_back_summary">Die Handykante doppelt antippen, um zurück zu gelangen</string>
   <string name="edge_mode_clean">Säubere System-Cache</string>
   <string name="edge_mode_clean_summary">An beiden Kanten gleichzeitig schieben, um den System-Cache zu säubern</string>
-  <string name="edge_mode_guide_title">Die hervorgehobene Fläche berühren, um die Kanten-Controls zu nutzen</string>
+  <string name="edge_mode_guide_title">Die hervorgehobene Fläche berühren, um die Kantensteuerung zu nutzen</string>
   <string name="edge_mode_notification_summary">Antippen, um mehr zu erfahren.</string>
   <string name="edge_mode_notification_title">Nutze die Kanten-Controls</string>
   <string name="edge_mode_photo">Ein Foto machen</string>
