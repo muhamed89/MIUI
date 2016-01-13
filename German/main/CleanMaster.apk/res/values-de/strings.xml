@@ -82,7 +82,7 @@
   <string name="deepclean_apk_content">APKs oder nicht benötigte Apps löschen</string>
   <string name="deepclean_apk_summary_empty">Es müssen keine APKs gelöscht werden.</string>
   <string name="deepclean_apk_version_error">Unbekannt</string>
-  <string name="deepclean_app_content">Apps die seit 30 Tagen nicht verwendet wurden entfernen</string>
+  <string name="deepclean_app_content">Apps die seit 30 Tagen nicht verwendet wurden entfernt</string>
   <string name="deepclean_app_summary_empty">Alles sieht gut aus, keine apps löschen</string>
   <string name="deepclean_cache_content">Von Apps erstellte Daten löschen</string>
   <string name="deepclean_cache_header_left">Datendateien: %d</string>
@@ -141,7 +141,7 @@
   <string name="hints_apk_version">Version %s</string>
   <string name="hints_app_uninstall_residual">Deinstallations Reste entfernen?</string>
   <string name="hints_cache_header_left">Cache</string>
-  <string name="hints_cache_msd_desc">"Deleting delta updates won't influence app usage"</string>
+  <string name="hints_cache_msd_desc">"Löschen von Delta-Updates werden app Nutzung nicht beeinflussen"</string>
   <string name="hints_cache_msd_title">Delta update</string>
   <string name="hints_cleanfinish">Bereinigung abgeschlossen</string>
   <string name="hints_deepclean_list_item_from">Aus %s</string>
