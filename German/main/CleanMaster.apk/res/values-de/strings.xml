@@ -79,7 +79,7 @@
   <string name="clear_safe_notify">Sicherheitsbenachrichtigungsleiste</string>
   <string name="close">Schließen</string>
   <string name="confirm_auto_cleaner">OK</string>
-  <string name="deepclean_apk_content">APKs oder nicht benötigte Apps läschen</string>
+  <string name="deepclean_apk_content">APKs oder nicht benötigte Apps löschen</string>
   <string name="deepclean_apk_summary_empty">Es müssen keine APKs gelöscht werden.</string>
   <string name="deepclean_apk_version_error">Unbekannt</string>
   <string name="deepclean_app_content">Apps die seit 30 Tagen nicht verwendet wurden entfernen</string>
