@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="disallow_add_to_fm">FM is read only</string>
   <string name="auto_payment_date">Nächste Bezahlung: %s</string>
   <string name="being_disable_auto_payment">Wird deaktiviert…</string>
   <string name="being_enable_auto_payment">Wird aktiviert…</string>
