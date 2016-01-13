@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessibility_managed_profile">Work profile</string>
+  <string name="managed_profile_foreground_toast">"You're using your work profile"</string>
   <string name="accessibility_airplane_mode">Flugmodus.</string>
   <string name="accessibility_back">Zurück</string>
   <string name="accessibility_battery_level">Akku %d Prozent.</string>
