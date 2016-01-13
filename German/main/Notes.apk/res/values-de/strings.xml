@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="alert_message_delete_note">Diese Notiz löschen?</string>
-  <string name="sns_message_disconnect">"Netzwerkverbindungsfehler. Überprüfen Sie Ihre Verbindung und versuchen es erneut."</string>
-  <string name="widget_under_privacy_mode">"Notizen können im Gastmodus nicht angezeigt werden"</string>
   <string name="add_account_desc">Notizen mit dem Mi Konto synchronisieren?</string>
   <string name="alarm_bar_title">Erinnerung</string>
   <string name="alert_action_edit_anyway">Bearbeiten fortsetzen</string>
@@ -11,6 +8,7 @@
   <string name="alert_message_delete">%1$s löschen?</string>
   <string name="alert_message_delete_folders">Möchten Sie die %1$s ausgewählten Ordner wirklich löschen?</string>
   <string name="alert_message_delete_folders_notes">Möchten Sie die %1$s ausgewählten Ordner und %2$s Notizen wirklich löschen?</string>
+  <string name="alert_message_delete_note">Diese Notiz löschen?</string>
   <string name="alert_message_edit_anyway">Diese Notiz enthält nicht unterstützte Inhalte. Bearbeiten kann zu Datenverlust führen.</string>
   <string name="alert_title_delete">Notiz löschen</string>
   <string name="alert_title_edit_anyway">Bearbeiten kann zu Datenverlust führen. Wirklich bearbeiten?</string>
@@ -99,6 +97,7 @@
   <string name="sns_hint_content">Was sind Ihre Gedanken?</string>
   <string name="sns_hint_title">Betreff (Optional)</string>
   <string name="sns_message_building">Post wird erstellt…</string>
+  <string name="sns_message_disconnect">"Netzwerkverbindungsfehler. Überprüfen Sie Ihre Verbindung und versuchen es erneut."</string>
   <string name="sns_title_edit">Titel bearbeiten</string>
   <string name="sns_title_send">Nachricht senden</string>
   <string name="sns_toast_empty">Leerer Post kann nicht gesendet werden</string>
@@ -122,5 +121,6 @@ http://en.miui.com/forum.php
 "</string>
   <string name="widget_content_loading">Wird geladen…</string>
   <string name="widget_havenot_content">Keine passende Notiz gefunden. Drücken um zu erstellen.</string>
+  <string name="widget_under_privacy_mode">"Notizen können im Gastmodus nicht angezeigt werden"</string>
   <string name="widget_under_visit_mode">Notizen werden im Gastmodus nicht angezeigt</string>
 </resources>

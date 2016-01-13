@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="apply_as_lockwallpaper_action">Sperrbildschirm</string>
   <string name="activity_not_found">Anwendung nicht installiert</string>
   <string name="app_already_exist">App bereits vorhanden</string>
   <string name="app_being_backup_message">App wurde gesichert</string>
@@ -25,6 +24,7 @@
   <string name="apply_action">Anwenden</string>
   <string name="apply_as_lock_screen">Sperrbildschirm</string>
   <string name="apply_as_lock_wallpaper_message">Hintergrund auch auf dem Sperrbildschirm anwenden?</string>
+  <string name="apply_as_lockwallpaper_action">Sperrbildschirm</string>
   <string name="apply_as_wallpaper">Startbildschirm</string>
   <string name="apply_both">Für beide anwenden</string>
   <string name="apply_negative_action">Nicht anwenden</string>

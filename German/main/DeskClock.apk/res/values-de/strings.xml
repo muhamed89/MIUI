@@ -84,9 +84,9 @@
   <string name="shutdown_alarm_disable_summary">Standby Alarm ist AUS</string>
   <string name="shutdown_alarm_enable_summary">Standby Alarm ist AN</string>
   <string name="shutdown_alarm_title">Standby Alarm</string>
+  <string name="silent_alarm_summary">Lautlosmodus</string>
   <string name="skip_alarm_date_format">%1$s(%2$s)</string>
   <string name="skip_alarm_once_hint">Am %s einmalig ausschalten</string>
-  <string name="silent_alarm_summary">Lautlosmodus</string>
   <string name="slider_text">Zum Ausschalten nach oben wischen</string>
   <string name="snooze_confirm_cancel">Schlummern abbrechen</string>
   <string name="snooze_duration_title">Schlummerdauer</string>

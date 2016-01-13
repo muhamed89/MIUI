@@ -1,15 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name_edit_picture">Bild bearbeiten</string>
-  <string name="buy_member_tip">werden Sie Mitglied.</string>
-  <string name="calculated_pictures_time_tip">Sortierte Fotos von %1$s bis jetzt. Die restlichen Fotos werden allmählich sortiert. Um diesen Vorgang zu beschleunigen, %2$s</string>
-  <string name="calculated_pictures_time_tip_for_no_vip">Sortierte Fotos von %1$s bis jetzt. Die restlichen Fotos werden allmählich sortiert.</string>
-  <string name="calculated_pictures_time_tip_for_vip">Sortierte Fotos von %1$s bis jetzt. Die restlichen Fotos werden bald sortiert.</string>
-  <string name="not_ask_any_more">"Fragen Sie nicht wieder nach \"%s\" Antworten"</string>
-  <string name="petabyteShort">PB</string>
-  <string name="sync_battery_low">Niedriger Akkustand</string>
-  <string name="ubifocus_refocus_data_invalid">"Refokussieren nicht möglich, da einige Bildinformationen ungültig sind"</string>
-  <string name="view_queuing_status">Status überprüfen</string>
   <string name="Import">Importieren</string>
   <string name="abandon">Abbrechen</string>
   <string name="accept">Annehmen</string>
@@ -28,7 +18,7 @@
   <string name="add_to_cloud_folder">Zum Ordner hinzufügen</string>
   <string name="add_to_cloud_image_limit_exceeded_message">Max. Bildanzahl überschritten</string>
   <string name="add_to_cloud_local_space_full_message">Speicher ist voll oder nicht verfügbar</string>
-  <string name="add_to_cloud_reasons" />
+  <string name="add_to_cloud_reasons"/>
   <string name="add_to_cloud_space_full_message">Cloud-Album ist voll</string>
   <string name="add_to_cloud_successfully_message">Zum Cloud-Album hinzufügen</string>
   <string name="add_to_cloud_type_not_support_message">Dateityp wird nicht unterstützt</string>
@@ -72,6 +62,7 @@
   <string name="androidesk_wallpapers">Android-Hintergründe</string>
   <string name="aperture">Blende</string>
   <string name="app_name">Galerie</string>
+  <string name="app_name_edit_picture">Bild bearbeiten</string>
   <string name="app_name_view_picture">Zeige Bilder</string>
   <string name="apply">Übernehmen</string>
   <string name="appwidget_empty_text">Keine Fotos</string>
@@ -124,10 +115,14 @@
   <string name="black_white">Flat B&amp;W</string>
   <string name="brannan">Brannan</string>
   <string name="browse_category">Anzeigen</string>
+  <string name="buy_member_tip">werden Sie Mitglied.</string>
   <string name="by_email">E-Mail</string>
   <string name="by_others">Andere</string>
   <string name="by_sms">SMS</string>
   <string name="byteShort">B</string>
+  <string name="calculated_pictures_time_tip">Sortierte Fotos von %1$s bis jetzt. Die restlichen Fotos werden allmählich sortiert. Um diesen Vorgang zu beschleunigen, %2$s</string>
+  <string name="calculated_pictures_time_tip_for_no_vip">Sortierte Fotos von %1$s bis jetzt. Die restlichen Fotos werden allmählich sortiert.</string>
+  <string name="calculated_pictures_time_tip_for_vip">Sortierte Fotos von %1$s bis jetzt. Die restlichen Fotos werden bald sortiert.</string>
   <string name="camera_black_white">Schwarz &amp;Weiß</string>
   <string name="camera_connected">Kamera verbunden</string>
   <string name="camera_disconnected">Kamera nicht verbunden</string>
@@ -190,15 +185,15 @@
   <string name="confirm_download_video_message">Sie müssen den Download des Videos erst beenden, bevor Sie es ansehen können. Der Download wird fortgesetzt, sobald WLAN verfügbar ist.</string>
   <string name="confirm_download_video_title">Download Video</string>
   <string name="confirm_face">Match</string>
+  <string name="confirm_merge_face_albums">" "&lt;Data&gt; Zusammenfügen dieses Album mit %s? &lt;/Data&gt;" "</string>
+  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Zusammenfügen dieser Alben mit %s? &lt;/Data&gt;" "</string>
+  <string name="confirm_not_face">Kein Treffer</string>
   <string name="confirm_recommandation_face_is">" "&lt;Data&gt; Sind Sie sicher, dass das &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; ist? Dieses Gesicht wird nach Bestätigung ins \"%2$s\" Album verschoben. &lt;/Data&gt;" "</string>
   <string name="confirm_recommandation_face_not">" "&lt;Data&gt; Sind Sie sicher, dass das nicht &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; ist? Dieses Gesicht wird nach Bestätigung ins \"%2$s\" Album verschoben. &lt;/Data&gt;" "</string>
   <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Sind Sie sicher, dass das &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; sind? Diese Gesichter werden nach Bestätigung ins \"%2$s\" Album verschoben. &lt;/Data&gt;" "</string>
   <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; Sind Sie sicher, dass das nicht &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; sind? Diese Gesichter werden nach Bestätigung ins \"%2$s\" Album verschoben. &lt;/Data&gt;" "</string>
-  <string name="confirm_merge_face_albums">" "&lt;Data&gt; Zusammenfügen dieses Album mit %s? &lt;/Data&gt;" "</string>
-  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Zusammenfügen dieser Alben mit %s? &lt;/Data&gt;" "</string>
-  <string name="confirm_not_face">Kein Treffer</string>
-  <string name="contact_tip">Kontakte</string>  
   <string name="contact_photo">Einem Kontakt als Foto zuweisen</string>
+  <string name="contact_tip">Kontakte</string>
   <string name="context_menu_add_contact">Zu Kontakten hinzufügen</string>
   <string name="context_menu_copy">Kopieren</string>
   <string name="context_menu_copy_notice">Auswahl in die Zwischenablage kopiert</string>
@@ -314,9 +309,9 @@
   <string name="fail_to_pick_email">Ungültige E-Mail</string>
   <string name="fail_to_sync_album">Synchronisation des Albums fehlgeschlagen. Netzwerkverbindung prüfen erneut versuchen.</string>
   <string name="family_member_invitation_text">Andere Familiemitglieder</string>
+  <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="file_not_exist_message">Datei nicht vorhanden</string>
   <string name="file_size">Größe</string>
-  <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="filllight">Aufhellen</string>
   <string name="finish_create_baby_album_toast">Album für \"%s\" in der Mi Cloud erstellt</string>
   <string name="finish_fill_baby">Erstellen</string>
@@ -499,6 +494,7 @@
   <string name="no_such_item">Element nicht gefunden</string>
   <string name="no_thumbnail">Keine Miniaturansicht</string>
   <string name="none_picture">Keine Bilder</string>
+  <string name="not_ask_any_more">"Fragen Sie nicht wieder nach \"%s\" Antworten"</string>
   <string name="not_auto_create_recent_album">Auto-Favoriten entfernen</string>
   <string name="not_is">nicht</string>
   <string name="not_now">Nicht jetzt</string>
@@ -549,6 +545,7 @@
   <string name="path">Dateipfad</string>
   <string name="people">Personen</string>
   <string name="pet_album_display_name">Tierfotos</string>
+  <string name="petabyteShort">PB</string>
   <string name="phone_number_empty_alert">Telefonnummer hinzufügen</string>
   <string name="photo_page_always_rotate">Bilder automatisch Drehen</string>
   <string name="photo_page_detail_show_in_the_map">Standort auf der Karte anzeigen</string>
@@ -718,6 +715,7 @@
   <string name="sync_album_in_proecess">Album wird synchronisiert…</string>
   <string name="sync_album_set_error">Laden der Albenliste fehlgeschlagen. Versuchen Sie es später erneut.</string>
   <string name="sync_album_summary">Speichern Sie Ihre Fotos in der Mi Cloud</string>
+  <string name="sync_battery_low">Niedriger Akkustand</string>
   <string name="sync_cloud_space_full">Nicht genügend Cloudspeicher verfügbar</string>
   <string name="sync_history_power_on">Bilderverlauf nur während des Ladevorgangs synchronisieren</string>
   <string name="sync_in_progress_message">Alben werden heruntergeladen…</string>
@@ -749,6 +747,7 @@
   <string name="ubifocus_data_invalid">Einige der Daten für diesen Bild sind ungültig</string>
   <string name="ubifocus_data_missing">Einige Daten für diesen Bild fehlen</string>
   <string name="ubifocus_guide_text">Lange drücken, um neu zu fokussieren</string>
+  <string name="ubifocus_refocus_data_invalid">"Refokussieren nicht möglich, da einige Bildinformationen ungültig sind"</string>
   <string name="ubifocus_refocus_data_missing">Daten zu diesem Bild fehlen</string>
   <string name="ubifocus_refocus_download_tip">Sie müssen die Daten des Bildes erst herunterladen, bevor Sie es refokussieren können</string>
   <string name="uc">UC</string>
@@ -768,6 +767,7 @@
   <string name="view_baby_album">Babyalbum anzeigen</string>
   <string name="view_baby_info">Babyinfos bearbeiten</string>
   <string name="view_face_album">Album anzeigen</string>
+  <string name="view_queuing_status">Status überprüfen</string>
   <string name="view_sharers">Benutzer anzeigen</string>
   <string name="vignette">Vignette</string>
   <string name="wallpaper">Hintergrundbild</string>

@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_managed_profile">Arbeits-Profil</string>
-  <string name="managed_profile_foreground_toast">"Sie verwenden Ihre Arbeit-Profil"</string>
   <string name="accessibility_airplane_mode">Flugmodus.</string>
   <string name="accessibility_back">Zurück</string>
   <string name="accessibility_battery_level">Akku %d Prozent.</string>
@@ -22,6 +20,7 @@
   <string name="accessibility_data_three_bars">Daten 3 Balken.</string>
   <string name="accessibility_data_two_bars">Daten 2 Balken.</string>
   <string name="accessibility_home">Home</string>
+  <string name="accessibility_managed_profile">Arbeits-Profil</string>
   <string name="accessibility_menu">Menü</string>
   <string name="accessibility_no_data">Kein Datenempfang.</string>
   <string name="accessibility_no_phone">Kein Empfang.</string>
@@ -122,6 +121,7 @@ Bitte Ladegerät benutzen."</string>
   <string name="label_view">Anzeigen</string>
   <string name="lland">L Land</string>
   <string name="lockscreen_carrier_default">Kein Dienst</string>
+  <string name="managed_profile_foreground_toast">"Sie verwenden Ihre Arbeit-Profil"</string>
   <string name="mdb_entering">Wird gestartet...</string>
   <string name="mdb_restore_cancel">Abbrechen</string>
   <string name="mdb_restore_info1">"Daten Ihres Telefons wiederherstellen"</string>
@@ -215,7 +215,7 @@ Zum Sperren runterwischen"</string>
   <string name="usb_debugging_title">USB-Debugging erlauben?</string>
   <string name="usb_device_confirm_prompt">%1$s öffnen, wenn dieses USB-Gerät angeschlossen wird?</string>
   <string name="usb_device_permission_prompt">Der App %1$s erlauben, auf das USB-Gerät zuzugreifen?</string>
-    <string name="usb_function_charging_text">Verbunden im Auflade-Modus</string>
+  <string name="usb_function_charging_text">Verbunden im Auflade-Modus</string>
   <string name="usb_mode_dont_ask">Nicht mehr fragen</string>
   <string name="usb_mode_mount_storage_title">USB-Speicher öffnen?</string>
   <string name="usb_mode_notification">USB-Speicher</string>

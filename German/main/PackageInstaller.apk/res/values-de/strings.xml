@@ -118,7 +118,7 @@ Alle bisherigen Nutzerdaten werden gespeichert."</string>
   <string name="unknown_installer">Unbekannte PC-Tools</string>
   <string name="virus_scan_caller_unknown">Unbekannt</string>
   <string name="virus_scan_clear">Löschen</string>
-  <string name="virus_scan_install"><u>Installation fortsetzen</u></string>
+  <string name="virus_scan_install">&lt;u&gt;Installation fortsetzen&lt;/u&gt;</string>
   <string name="virus_scan_is_risk">Anwendung stellt ein Risiko dar.</string>
   <string name="virus_scan_is_virus">Anwendung enthält ein Virus.</string>
   <string name="waiting_tip">Dies kann eine Weile dauern, aber es lohnt sich</string>

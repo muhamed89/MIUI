@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="fp_nav_center_action_choose_dlg_msg">Sie können durch Drücken der Home-Taste zurück zu Ihrem Home-Bildschirm gehen. Aber Sie können auch wählen, dass nur mit einem Fingertipp funktioniert. Die Home-Taste in den Einstellungen anpassen > Erweiterte Einstellungen > Tasten.</string>
-  <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Nein Danke</string>
-  <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Anpassen</string>
-  <string name="fp_nav_center_action_choose_dlg_title">Home-taste anpassen </string>
-  <string name="apply_password_confirm_dlg_msg">Kennwort für %s erforderlich?</string>
-  <string name="apply_password_confirm_dlg_title">Dieses Passwort wird für %s verwendet</string>
-  <string name="subinfo_default_name">SIM %d</string>
   <string name="all_call_livetalk_enable">Aufladepakete für nationale und internationale Anrufe verwenden</string>
   <string name="all_call_livetalk_remain_mins">Minuten übrig: %1$s National oder %2$s Ausland</string>
   <string name="alwaysUsePrompt">Auswahl merken</string>
+  <string name="apply_password_action">Passwort festlegen</string>
+  <string name="apply_password_confirm_dlg_msg">Kennwort für %s erforderlich?</string>
+  <string name="apply_password_confirm_dlg_title">Dieses Passwort wird für %s verwendet</string>
   <string name="auto_start_warning_allow">Erlauben</string>
   <string name="auto_start_warning_deny">Verweigern</string>
   <string name="auto_start_warning_title">Automatischen Start von %s erlauben?</string>
   <string name="call_record_or">" oder "</string>
   <string name="call_record_sample_prefix_miui">Anruf</string>
   <string name="caller_info_name_delimiter">" oder "</string>
+  <string name="cancel_action">Abbrechen</string>
   <string name="copy">Kopieren</string>
   <string name="cut">Ausschneiden</string>
   <string name="default_name">Standard</string>
@@ -25,10 +22,14 @@
   <string name="fc_dialog_jump_to_preview">Zusammenfassung anzeigen</string>
   <string name="first_back_long_press_message">"Langer Druck auf die Zurück-Taste beendet den aktuellen Prozess.
 
-Um die Funktion zu aktivieren, gehen Sie auf Einstellungen > System > Tasten."</string>
+Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; System &gt; Tasten."</string>
   <string name="fm_record_smaple_prefix_miui">FM Aufnahme</string>
   <string name="force_exit_message">%1$s wurde beendet</string>
   <string name="force_exit_skip_message">Systemkomponente %1$s kann nicht beendet werden</string>
+  <string name="fp_nav_center_action_choose_dlg_msg">Sie können durch Drücken der Home-Taste zurück zu Ihrem Home-Bildschirm gehen. Aber Sie können auch wählen, dass nur mit einem Fingertipp funktioniert. Die Home-Taste in den Einstellungen anpassen &gt; Erweiterte Einstellungen &gt; Tasten.</string>
+  <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Nein Danke</string>
+  <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Anpassen</string>
+  <string name="fp_nav_center_action_choose_dlg_title">Home-taste anpassen </string>
   <string name="global_actions_airplane_mode">Flugmodus</string>
   <string name="global_actions_reboot">Neustart</string>
   <string name="global_actions_shutdown">Herunterfahren</string>
@@ -79,11 +80,9 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen > System > Tasten."</
   <string name="screen_rotation_freeze_message">Auto-Drehen deaktiviert</string>
   <string name="select">Auswählen</string>
   <string name="select_all">Alles</string>
-  <string name="cancel_action">Abbrechen</string>
-  <string name="apply_password_action">Passwort festlegen</string>
   <string name="set_password_action">Passwort festlegen</string>
-  <string name="set_password_title">Passwort festlegen</string>
   <string name="set_password_message">Ein neues Passwort festlegen?</string>
+  <string name="set_password_title">Passwort festlegen</string>
   <string name="shutdown_confirm_title">Telefon wird ausgeschaltet</string>
   <string name="shutdown_progress">Ausschalten…</string>
   <string name="sim_added_reboot_confirm">Neustart</string>
@@ -111,5 +110,6 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen > System > Tasten."</
   <string name="status_bar_toggle_vibrate">Vibration</string>
   <string name="status_bar_toggle_wifi">WLAN</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
+  <string name="subinfo_default_name">SIM %d</string>
   <string name="unknown_caller">Unbekannte Nummer</string>
 </resources>

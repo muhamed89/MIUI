@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="confirm_reject_all_permission">Beschränken Sie alle Apps aus der Verwendung dieser Funktion?</string>
-  <string name="reject_all">Alle beschränken</string>
   <string name="SMS_and_MMS">SMS und MMS</string>
   <string name="Settings_title_anti_spam">Speerlisten-Einstellungen</string>
   <string name="Settings_title_anti_virus">Antivirus-Einstellungen</string>
@@ -124,6 +122,7 @@
   <string name="cmcc_app_check_dialog_negative">Später</string>
   <string name="cmcc_app_check_dialog_positive">Jetzt neu starten</string>
   <string name="cmcc_app_check_dialog_title">System repariert</string>
+  <string name="confirm_reject_all_permission">Beschränken Sie alle Apps aus der Verwendung dieser Funktion?</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Abbrechen</string>
   <string name="cta_checkbox_title">Nicht mehr anzeigen</string>
@@ -193,7 +192,7 @@
   <string name="hints_loading_text">Wird geladen...</string>
   <string name="hints_need_quick_scan">Schneller Scan empfohlen</string>
   <string name="hints_need_regular_scan">Das Gerät regelmäßig scannen</string>
-  <string name="hints_power_percent_title">Akku</string> 
+  <string name="hints_power_percent_title">Akku</string>
   <string name="hints_remember_choice">Einstellungen merken</string>
   <string name="hints_risk_apk_list_item_summary">Risiko (apk)</string>
   <string name="hints_risk_app_list_item_summary">Risiko (app)</string>
@@ -269,7 +268,7 @@
   <string name="menu_text_power_manager">Energieverwaltung</string>
   <string name="menu_text_power_percent">%s Akku</string>
   <string name="menu_text_power_percent_title">Akku %s</string>
-  <string name="month_report_month_report_switch">Monatsbericht anzeigen</string>  
+  <string name="month_report_month_report_switch">Monatsbericht anzeigen</string>
   <string name="never">1 Mal</string>
   <string name="notification_button_text_of_low_memory">Bereinigen</string>
   <string name="notification_summary_cmcc_app_check">Berühren für mehr Details.</string>
@@ -482,6 +481,7 @@ Sie müssen Ihre Akku-Einstellungen ändern bevor Sie dieses Profil löschen kö
   <string name="protection_category_dangerous_title">Risiko (%d)</string>
   <string name="protection_category_recommend_title">Empfohlene Änderungen(%d)</string>
   <string name="protection_category_security_title">Löschen (%d)</string>
+  <string name="reject_all">Alle beschränken</string>
   <string name="risk_list_header_title">%d verdächtige App(s) gefunden!</string>
   <string name="root_apply_step_1">%s Root-Zugriff gewähren?</string>
   <string name="root_apply_step_2">Apps Root-Zugriff zu gewähren kann Ihr Gerät instabil machen.</string>
@@ -554,6 +554,7 @@ Sie müssen Ihre Akku-Einstellungen ändern bevor Sie dieses Profil löschen kö
   <string name="title_default_app">"MIUI %s ist nicht der Standard"</string>
   <string name="title_dev_no">Entwickleroptionen an</string>
   <string name="title_dev_yes">Entwickleroptionen aus</string>
+  <string name="title_find_device">\"Gerät finden\" einschalten</string>
   <string name="title_flow_notification">Datenverbrauch Report</string>
   <string name="title_flow_purchase">Zeit zum Aufladen</string>
   <string name="title_flow_verify">Vergleichen</string>
@@ -590,7 +591,6 @@ Sie müssen Ihre Akku-Einstellungen ändern bevor Sie dieses Profil löschen kö
   <string name="toast_show_notification">In der Benachrichtigungsleiste anpinnen</string>
   <string name="toast_virus_cloudscan">Virusscaner nutzt Online-Definitionen</string>
   <string name="toast_virus_in_cloud_scanning">Cloudscan kann nicht angehalten werden</string>
-  <string name="title_find_device">\"Gerät finden\" einschalten</string>
   <string name="usage_type_audio">Audio</string>
   <string name="usage_type_cpu">CPU insgesamt</string>
   <string name="usage_type_cpu_foreground">CPU Vordergrund</string>

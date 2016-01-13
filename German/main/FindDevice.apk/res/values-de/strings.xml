@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources>      
+<resources>
   <string name="activate_xiaomi_account">Dieses Gerät aktivieren</string>
   <string name="app_name">Gerät finden</string>
   <string name="captcha">Captcha</string>

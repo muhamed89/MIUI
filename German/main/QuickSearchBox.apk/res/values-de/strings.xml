@@ -57,8 +57,8 @@ Um den Browserverlauf zu löschen, verwenden Sie die Browsereinstellungen."</str
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">Sprechen:</string>
+  <string name="xiaomi_hint"/>
+  <string name="xiaomi_hot_query"/>
   <string name="xiaomi_search_label">Ergebnisse</string>
   <string name="xiaomi_suggest_base"/>
-  <string name="xiaomi_hot_query"/>
-  <string name="xiaomi_hint"/>
 </resources>

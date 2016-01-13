@@ -1,19 +1,5 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_setup_failed_dlg_unknown_auth_message">Unbekannter Fehler</string>
-  <string name="account_setup_options_mail_window_label_imap_or_pop3">Keep for</string>
-  <string name="del_account_questionnair_hint">"Könnten Sie uns sagen, warum Sie dieses Konto löschen wollen?"</string>
-  <string name="dialog_change_sync_lookback">The mail received %s ago will be deleted automatically. Tap to change.</string>
-  <string name="folder_junk_name_en4">Junk</string>
-  <string name="questionnair_body_invisibility">"Nachrichten werden nicht angezeigt"</string>
-  <string name="questionnair_confirm_delete">Löschen</string>
-  <string name="questionnair_instability">Unstable app stürzt häufig ab.</string>
-  <string name="questionnair_not_send">"kann keine e-Mails senden"</string>
-  <string name="questionnair_not_sync">Unstable sync</string>
-  <string name="questionnair_other_reasons">Andere Gründe</string>
-  <string name="questionnair_title">Konto löschen</string>
-  <string name="questionnair_ui_not_pretty">"Das Design mag ich nicht"</string>
-  <string name="questionnair_waste_resource">Um mehr Speicher freizugeben, müssen löschen</string>
   <string name="SMTP_independent_verification_text">SMTP unabhängige Überprüfung</string>
   <string name="SMTP_password_text">Passwort</string>
   <string name="SMTP_username_text">Benutzername</string>
@@ -103,6 +89,7 @@
   <string name="account_setup_failed_dlg_server_message">"Verbindung zum Server fehlgeschlagen"</string>
   <string name="account_setup_failed_dlg_server_message_fmt">"Verbindung zum Server fehlgeschlagen. (%s)"</string>
   <string name="account_setup_failed_dlg_title">"Konto konnte nicht eingerichtet werden"</string>
+  <string name="account_setup_failed_dlg_unknown_auth_message">Unbekannter Fehler</string>
   <string name="account_setup_failed_ioerror">"Verbindung zum Server konnte nicht geöffnet werden."</string>
   <string name="account_setup_failed_protocol_unsupported">"Sie haben eine falsche Serveradresse eingegeben, oder der Server verlangt eine Protokollversion, die keine E-Mails unterstützt."</string>
   <string name="account_setup_failed_security">"Wegen eines Sicherheitsfehler konnte die Verbindung zum Server nicht geöffnet werden."</string>
@@ -141,6 +128,7 @@
   <string name="account_setup_options_mail_window_auto">Automatisch</string>
   <string name="account_setup_options_mail_window_default">Kontostandard verwenden</string>
   <string name="account_setup_options_mail_window_label">Synchronisationszeitraum</string>
+  <string name="account_setup_options_mail_window_label_imap_or_pop3">Keep for</string>
   <string name="account_setup_options_title">Kontoeinstellungen</string>
   <string name="account_setup_outgoing_port_label">Port</string>
   <string name="account_setup_outgoing_require_login_label">Anmeldung erforderlich</string>
@@ -260,7 +248,7 @@
   <string name="confirm_send_message_with_no_body">Diese Nachricht ist leer.</string>
   <string name="confirm_send_message_with_no_subject">"Diese Nachricht hat keinen Betreff."</string>
   <string name="confirm_send_title">Nachricht senden?</string>
-  <string name="contact_edit_set_black_list_filtering">Filtern...</string>  
+  <string name="contact_edit_set_black_list_filtering">Filtern...</string>
   <string name="contact_edit_set_black_list_from">Alle E-Mails von diesem Absender in den Junk Ordner verschieben</string>
   <string name="contact_edit_set_black_list_receive">Alle E-Mails mit diesem Empfänger in den Junk Ordner verschieben (nur neue Mails)</string>
   <string name="contact_edit_set_black_list_receive_summary">Alle E-Mails mit diesem Empfänger im An/Cc Feld löschen</string>
@@ -311,6 +299,7 @@
   <string name="default_pop3">POP3</string>
   <string name="default_setup">STANDARD</string>
   <string name="default_signature">Gesendet von meinem Mi Telefon</string>
+  <string name="del_account_questionnair_hint">"Könnten Sie uns sagen, warum Sie dieses Konto löschen wollen?"</string>
   <string name="delete">Löschen</string>
   <string name="deleted">Gelöscht</string>
   <string name="device_activity_btn_str">Aktivieren</string>
@@ -321,6 +310,7 @@
   <string name="device_not_activiey_lint2">E-Mail Dienst funktioniert nicht mit Exchange</string>
   <string name="dialog_account_auto_sync_setting_no_open">Neue Nachrichten können nicht empfangen werden. Synchronisation ist aus.</string>
   <string name="dialog_auto_sync_setting_no_open">Neue Nachrichten können nicht empfangen werden. Synchronisation ist aus.</string>
+  <string name="dialog_change_sync_lookback">The mail received %s ago will be deleted automatically. Tap to change.</string>
   <string name="dialog_gmail_proxy_server_is_error">Gmail-Proxyserver Fehler.</string>
   <string name="dialog_insufficient_space_on_external">Anhang kann nicht heruntergeladen werden. Nicht genügend externer Speicher.</string>
   <string name="dialog_insufficient_space_on_internal">Nicht genügend interner Speicher.</string>
@@ -389,9 +379,10 @@
   <string name="folder_junk_name_cn0">Spam-Ordner</string>
   <string name="folder_junk_name_cn1">Papierkorb</string>
   <string name="folder_junk_name_en0">Papierkorb</string>
+  <string name="folder_junk_name_en1">Massenversand</string>
   <string name="folder_junk_name_en2">Junk Mail</string>
   <string name="folder_junk_name_en3">Junk E-Mail</string>
-  <string name="folder_junk_name_en1">Massenversand</string>
+  <string name="folder_junk_name_en4">Junk</string>
   <string name="folder_list_display_all">Alle Ordner anzeigen</string>
   <string name="folder_list_display_only_import">Nur wichtige Ordner anzeigen</string>
   <string name="folder_picker_title">Ordner auswählen</string>
@@ -433,7 +424,7 @@
   <string name="general_preference_text_zoom_small">Klein</string>
   <string name="general_preference_text_zoom_tiny">Sehr klein</string>
   <string name="generic_attachment_problem">Die Datei konnte nicht hinzugefügt werden.</string>
-  <string name="get_database_exception">"Zum löschen der Daten dieser App gehen Sie unter Einstellungen > System Apps und versuchen Sie es erneut."</string>
+  <string name="get_database_exception">"Zum löschen der Daten dieser App gehen Sie unter Einstellungen &gt; System Apps und versuchen Sie es erneut."</string>
   <string name="gmail_acceleration">Für Gmail Konto Proxy-Server verwenden</string>
   <string name="gmail_login_confirm_to_use_proxy">Proxy-Server für den Zugriff auf Ihr Gmail Konto verwenden?</string>
   <string name="gmail_server_authorization_deleted">"Authentifizierung fehlgeschlagen. Nochmals versuchen."</string>
@@ -554,7 +545,7 @@
   <string name="more_context">Mehr</string>
   <string name="more_string">+%1$s</string>
   <string name="move_to_selection_dialog_title">Verschieben nach</string>
-  <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
+  <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt;"   %2$s"</string>
   <string name="mute">Ignorieren</string>
   <string name="network_error">Keine Verbindung</string>
   <string name="network_not_available">Netzwerkverbindung nicht verfügbar. Versuchen Sie es später erneut</string>
@@ -686,6 +677,15 @@
   <string name="push_wps_confirm_message">Versuchen Sie diesen Anhang mit WPS Office zu öffnen.</string>
   <string name="push_wps_confirm_title">WPS Office empfohlen</string>
   <string name="push_wps_no_response_app">Keine APP installiert, um diese Aktion auszuführen</string>
+  <string name="questionnair_body_invisibility">"Nachrichten werden nicht angezeigt"</string>
+  <string name="questionnair_confirm_delete">Löschen</string>
+  <string name="questionnair_instability">Unstable app stürzt häufig ab.</string>
+  <string name="questionnair_not_send">"kann keine e-Mails senden"</string>
+  <string name="questionnair_not_sync">Unstable sync</string>
+  <string name="questionnair_other_reasons">Andere Gründe</string>
+  <string name="questionnair_title">Konto löschen</string>
+  <string name="questionnair_ui_not_pretty">"Das Design mag ich nicht"</string>
+  <string name="questionnair_waste_resource">Um mehr Speicher freizugeben, müssen löschen</string>
   <string name="quick_1">Vielen Dank!</string>
   <string name="quick_2">Hört sich gut an!</string>
   <string name="quick_3">Ich lese die Nachricht später und melde mich dann.</string>
@@ -862,7 +862,7 @@
   <string name="via_domain">über %1$s</string>
   <string name="view_more_conversations">Weitere Konversationen ansehen</string>
   <string name="wait_for_manual_sync_body">"Für dieses Konto ist keine automatische Synchronisierung eingerichtet.
-Tippen Sie auf "<b>Jetzt syncen</b> um Ihre Mails einmalig zu syncen oder <b>Sync Einstellungen ändern</b> um dieses Konto automatisch zu syncen.</string>
+Tippen Sie auf "&lt;b&gt;Jetzt syncen&lt;/b&gt; um Ihre Mails einmalig zu syncen oder &lt;b&gt;Sync Einstellungen &amp;#228;ndern&lt;/b&gt; um dieses Konto automatisch zu syncen.</string>
   <string name="wait_for_sync_title">Auf Synchronisierung warten</string>
   <string name="widget_all_mail">Alle Mails</string>
   <string name="widget_large_unread_count">%d+</string>

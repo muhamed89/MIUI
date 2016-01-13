@@ -1,82 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="China_Mobile">China Mobile</string>
-  <string name="China_Telecom">China Telecom</string>
-  <string name="China_Unicom">China Unicom</string>
-  <string name="android_start_title">Android wird gestartet…</string>
-  <string name="android_upgrading_fstrim">Optimieren von Speichersystemen</string>
-  <string name="bugreport_status" formatted="false">%s (%s)</string>
-  <string name="config_defaultNetworkScorerPackageName" />
-  <string name="config_mobile_hotspot_provision_app_no_ui" />
-  <string name="config_mobile_hotspot_provision_response" />
-  <string name="config_persistentDataPackageName" />
-  <string name="def_custom_sys_alarm" />
-  <string name="def_custom_sys_mms" />
-  <string name="def_custom_sys_notification" />
-  <string name="def_custom_sys_ringtone" />
-  <string name="def_custom_sys_ringtone2" />
-  <string name="def_custom_sys_ringtone3" />
-  <string name="def_wifi_direct_name" />
-  <string name="def_wifi_wifihotspot_pass" />
-  <string name="def_wifi_wifihotspot_ssid" />
-  <string name="downtime_condition_line_one">Bis Ihre Ausfallzeiten endet</string>
-  <string name="durationMinute">%1$d min</string>
-  <string name="factory_reset_message">"Die Admin-App fehlt oder ist beschädigt und kann nicht verwendet werden. Ihr Gerät wird nun gelöscht. Kontaktieren Sie Ihren Administrator um Hilfe."</string>
-  <string name="factory_reset_warning">Ihr Gerät wird gelöscht</string>
-  <string name="global_action_reboot">Neustarten</string>
-  <string name="locale_codes" />
-  <string name="lockscreen_airplane_mode_on">Flugzeug Modus</string>
-  <string name="lockscreen_sim_error_message_short">Ungültige Karte</string>
-  <string name="muted_by">Stummgeschaltet durch %1$s</string>
-  <string name="peerTtyModeFull">Peer angefordert TTY Mode FULL</string>
-  <string name="peerTtyModeHco">Peer angefordert TTY Mode HCO</string>
-  <string name="peerTtyModeOff">Peer angefordert TTY Mode Aus</string>
-  <string name="peerTtyModeVco">Peer angefordert TTY Mode VCO</string>
-  <string name="permdesc_bindCarrierMessagingService">Ermöglicht dem Inhaber die Bindung an die Top-Level-Schnittstelle einer Fluggesellschaft, die messaging-Dienst. Sollte nie für normale Anwendungen benötigt werden.</string>
-  <string name="permdesc_broadcastNetworkPrivileged">Ermöglicht die app privilegierten Netzwerkübertragungen zu senden. Nie gebraucht, für normale Anwendungen.</string>
-  <string name="permdesc_connection_manager">Ermöglicht die app auf Telekom-Verbindungen verwalten</string>
-  <string name="permdesc_controlVpn">Ermöglicht die app zur Steuerung von Low-Level Funktionen von VPN</string>
-  <string name="permdesc_fm">Ermöglicht der App, den Zugang UKW-Radio , um die Programme zu hören</string>
-  <string name="permdesc_register_call_provider">Ermöglicht der App, neue Telekom- Anschlüsse registrieren</string>
-  <string name="permdesc_register_sim_subscription">Ermöglicht der App, neue Telekom- SIM -Verbindungen registrieren</string>
-  <string name="permission">Erlauben</string>
-  <string name="permission_remember_choice">Erinnern</string>
-  <string name="permlab_bindCarrierMessagingService">auf einen Träger Messaging-Dienst binden</string>
-  <string name="permlab_broadcastNetworkPrivileged">privilegierte Netzwerkübertragungen senden</string>
-  <string name="permlab_connection_manager">Telekom- Verbindungen verwalten</string>
-  <string name="permlab_controlVpn">Kontrolle VPN</string>
-  <string name="permlab_fm">Zugriff FM Radio</string>
-  <string name="permlab_register_call_provider">Registrieren neue Telekom-Verbindungen</string>
-  <string name="permlab_register_sim_subscription">Registrieren Sie neue Telekom-SIM-Verbindungen</string>
-  <string name="progress_nomediapresent">Keine Wechseldatenträger vorhanden…</string>
-  <string name="reboot_confirm">Das Telefon wird neu gestartet</string>
-  <string name="reboot_title">Neustart</string>
-  <string name="search_hint">Suche…</string>
-  <string name="ssl_ca_cert_noti_by_administrator">Durch Ihre Arbeit Profilverwalter</string>
-  <string name="stk_cc_ss_to_dial">SS Anfrage wird auf DIAL-Anforderung geändert</string>
-  <string name="stk_cc_ss_to_ss">SS Anfrage wird auf neue SS-Anforderung geändert</string>
-  <string name="stk_cc_ss_to_ussd">SS Anfrage wird auf USSD-Anforderung geändert</string>
-  <string name="stk_cc_ussd_to_dial">USSD Anfrage wird auf DIAL-Anforderung geändert</string>
-  <string name="stk_cc_ussd_to_ss">USSD Anfrage wird auf SS-Anforderung geändert</string>
-  <string name="stk_cc_ussd_to_ussd">USSD Anfrage wird auf neue USSD-Anforderung geändert</string>
-  <string name="storage_uicc">UICC-Speicher</string>
-  <string name="system_error_manufacturer">"Es gibt ein internes Problem mit dem Gerät. Kontaktieren Sie Ihren Hersteller für weitere Einzelheiten."</string>
-  <string name="system_error_wipe_data">"Es ist ein internes Problem mit Ihrem Gerät und es kann instabil sein, bis Sie factory data reset durchführen."</string>
-  <string name="tethered_notification_multi_device_message">%1$s angeschlossenen Geräte</string>
-  <string name="tethered_notification_no_device_message">Kein angeschlossenes Gerät</string>
-  <string name="tethered_notification_one_device_message">%1$s angeschlossene Gerät</string>
-  <string name="time_placeholder">--</string>
-  <string name="toolbar_collapse_description">Zusammenbruch</string>
-  <string name="usb_charging_notification_title">In Lademodus verbunden</string>
-  <string name="usb_choose_notification_title">Berühren für USB Optionen wählen</string>
-  <string name="volume_icon_description_media">Media</string>
-  <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
-  <string name="work_profile_deleted">Arbeitsprofil gelöscht</string>
-  <string name="work_profile_deleted_description">Arbeitsprofil aufgrund fehlender Admin app gelöscht</string>
-  <string name="work_profile_deleted_details">Die Arbeit Profil Admin app fehlt oder ist beschädigt. Infolgedessen wurden Ihre Arbeit Profil und die zugehörigen Daten gelöscht. Kontaktieren Sie Ihren Administrator um Hilfe.</string>
-  <string name="zen_mode_next_alarm_line_one">Bis nächster alarm</string>
-  <string name="zen_mode_next_alarm_summary">Bis zum nächsten Alarm bei %1$s</string>
-  <string name="zen_mode_until">Bis %1$s</string>
   <string name="BaMmi">Anrufsperre</string>
   <string name="CLIRDefaultOffNextCallOff">Rufnummernanzeige ist standardmäßig aktiviert. Nächster Anruf: Aktiviert</string>
   <string name="CLIRDefaultOffNextCallOn">Rufnummernanzeige ist standardmäßig aktiviert. Nächster Anruf: Deaktiviert</string>
@@ -84,6 +7,9 @@
   <string name="CLIRDefaultOnNextCallOn">Rufnummernanzeige ist standardmäßig deaktiviert. Nächster Anruf: Deaktiviert</string>
   <string name="CLIRPermanent">Die Einstellung für die Rufnummernanzeige kann nicht geändert werden.</string>
   <string name="CfMmi">Rufweiterleitung</string>
+  <string name="China_Mobile">China Mobile</string>
+  <string name="China_Telecom">China Telecom</string>
+  <string name="China_Unicom">China Unicom</string>
   <string name="ClipMmi">Rufnummernanzeige für eingehenden Anruf</string>
   <string name="ClirMmi">Rufnummernanzeige für ausgehenden Anruf</string>
   <string name="CndMmi">Rufnummernübermittlung</string>
@@ -140,9 +66,11 @@
   <string name="aerr_title"/>
   <string name="allow">Zulassen</string>
   <string name="alwaysUse">Immer für diese Aktion verwenden</string>
+  <string name="android_start_title">Android wird gestartet…</string>
   <string name="android_system_label">Android-System</string>
   <string name="android_upgrading_apk">App %1$d von %2$d wird optimiert...</string>
   <string name="android_upgrading_complete">Start wird abgeschlossen...</string>
+  <string name="android_upgrading_fstrim">Optimieren von Speichersystemen</string>
   <string name="android_upgrading_starting_apps">Apps werden gestartet...</string>
   <string name="android_upgrading_title">Android wird aktualisiert...</string>
   <string name="anr_activity_application">"%2$s reagiert nicht.
@@ -185,10 +113,11 @@ Der Energiesparmodus endet automatisch, wenn Ihr Gerät aufgeladen wird."</strin
   <string name="beforeOneMonthDurationPast">Vor mehr als 1 Monat</string>
   <string name="bluetooth_a2dp_audio_route_name">Bluetooth-Audio</string>
   <string name="bugreport_message">Bei diesem Fehlerbericht werden Daten zum aktuellen Status Ihres Geräts erfasst und als E-Mail versandt. Vom Start des Berichts bis zu seinem Versand kann es eine Weile dauern. Bitte haben Sie etwas Geduld.</string>
+  <string name="bugreport_status" formatted="false">%s (%s)</string>
   <string name="bugreport_title">Fehlerbericht abrufen</string>
   <string name="byteShort">B</string>
   <string name="cancel">Abbruch</string>
-  <string name="candidates_style"><u>Kandidaten</u></string>
+  <string name="candidates_style">&lt;u&gt;Kandidaten&lt;/u&gt;</string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">Skripts können installiert werden, um den Zugriff auf App-Inhalte zu erleichtern.</string>
   <string name="capability_desc_canRequestFilterKeyEvents">Einschließlich personenbezogener Daten wie Kreditkartennummern und Passwörter.</string>
   <string name="capability_desc_canRequestTouchExploration">Berührte Elemente werden laut vorgelesen und der Bildschirm kann über Gesten erkundet werden.</string>
@@ -213,6 +142,10 @@ Der Energiesparmodus endet automatisch, wenn Ihr Gerät aufgeladen wird."</strin
   <string name="clearDefaultHintMsg">Das Löschen der Standardeinstellungen ist in den Systemeinstellungen unter \"Apps &gt; Heruntergeladen\" möglich.</string>
   <string name="common_name">Allgemeiner Name:</string>
   <string name="condition_provider_service_binding_label">Bedingungsprovider</string>
+  <string name="config_defaultNetworkScorerPackageName"/>
+  <string name="config_mobile_hotspot_provision_app_no_ui"/>
+  <string name="config_mobile_hotspot_provision_response"/>
+  <string name="config_persistentDataPackageName"/>
   <string name="configure_input_methods">Tastatur auswählen</string>
   <string name="contentServiceSync">Synchronisierung</string>
   <string name="contentServiceSyncNotificationTitle">Synchronisierung</string>
@@ -253,6 +186,15 @@ mit %s erstellen"</string>
   <string name="day_picker_description">Monatsraster mit einzelnen Tagen</string>
   <string name="days">Tage</string>
   <string name="decline">Ablehnen</string>
+  <string name="def_custom_sys_alarm"/>
+  <string name="def_custom_sys_mms"/>
+  <string name="def_custom_sys_notification"/>
+  <string name="def_custom_sys_ringtone"/>
+  <string name="def_custom_sys_ringtone2"/>
+  <string name="def_custom_sys_ringtone3"/>
+  <string name="def_wifi_direct_name"/>
+  <string name="def_wifi_wifihotspot_pass"/>
+  <string name="def_wifi_wifihotspot_ssid"/>
   <string name="defaultMsisdnAlphaTag">MSISDN1</string>
   <string name="defaultVoiceMailAlphaTag">Mailbox</string>
   <string name="default_audio_route_category_name">System</string>
@@ -279,6 +221,7 @@ mit %s"</string>
   <string name="dlg_ok">OK</string>
   <string name="done_label">Fertig</string>
   <string name="double_tap_toast">Tipp: Zum Rein- und Rauszoomen 2 mal tippen</string>
+  <string name="downtime_condition_line_one">Bis Ihre Ausfallzeiten endet</string>
   <string name="downtime_condition_summary">Bis zum Ende der Downtime um %1$s</string>
   <string name="durationDayHour">%1$d Tag %2$d Std.</string>
   <string name="durationDayHours">%1$d Tag %2$d Std.</string>
@@ -286,6 +229,7 @@ mit %s"</string>
   <string name="durationHourMinute">%1$d Std. %2$d Min.</string>
   <string name="durationHourMinutes">%1$d Std. %2$d Min.</string>
   <string name="durationHours">%1$d Std.</string>
+  <string name="durationMinute">%1$d min</string>
   <string name="durationMinuteSecond">%1$d Min. %2$d Sek.</string>
   <string name="durationMinuteSeconds">%1$d Min. %2$d Sek.</string>
   <string name="durationMinutes">%1$d Min.</string>
@@ -332,6 +276,8 @@ mit %s"</string>
   <string name="extmedia_format_title">USB-Speicher formatieren?</string>
   <string name="extract_edit_menu_button">Bearbeiten</string>
   <string name="faceunlock_multiple_failures">Die maximal zulässige Anzahl an Face Unlock-Versuchen wurde überschritten.</string>
+  <string name="factory_reset_message">"Die Admin-App fehlt oder ist beschädigt und kann nicht verwendet werden. Ihr Gerät wird nun gelöscht. Kontaktieren Sie Ihren Administrator um Hilfe."</string>
+  <string name="factory_reset_warning">Ihr Gerät wird gelöscht</string>
   <string name="factorytest_failed">Werkstest fehlgeschlagen</string>
   <string name="factorytest_no_action">Es wurden kein Paket mit der Aktion FACTORY_TEST gefunden.</string>
   <string name="factorytest_not_system">Die Aktion FACTORY_TEST wird nur für unter \"/system/app\" gespeicherte Pakete unterstützt.</string>
@@ -356,6 +302,7 @@ mit %s"</string>
   <string name="global_action_lock">Bildschirmsperre</string>
   <string name="global_action_lockdown">Jetzt sperren</string>
   <string name="global_action_power_off">Ausschalten</string>
+  <string name="global_action_reboot">Neustarten</string>
   <string name="global_action_settings">Einstellungen</string>
   <string name="global_action_silent_mode_off_status">Ton ist AN.</string>
   <string name="global_action_silent_mode_on_status">Ton ist AUS.</string>
@@ -532,6 +479,7 @@ Versuchen Sie es in %d Sekunden erneut."</string>
   <string name="launch_warning_title">App umgeleitet</string>
   <string name="list_delimeter">", "</string>
   <string name="loading">Wird geladen…</string>
+  <string name="locale_codes"/>
   <string name="lock_to_app_description">"Mit der Bildschirmfixierung wird die Anzeige in einer einzelnen Ansicht gesperrt.
 
 Um die Fixierung aufzuheben, berühren und halten Sie gleichzeitig \"Zurück\" und \"Übersicht\"."</string>
@@ -553,6 +501,7 @@ Um die Fixierung aufzuheben, berühren und halten Sie \"Übersicht\"."</string>
   <string name="lockscreen_access_pattern_cleared">Muster gelöscht</string>
   <string name="lockscreen_access_pattern_detected">Muster abgeschlossen</string>
   <string name="lockscreen_access_pattern_start">Muster gestartet</string>
+  <string name="lockscreen_airplane_mode_on">Flugzeug Modus</string>
   <string name="lockscreen_battery_short">%d %%</string>
   <string name="lockscreen_carrier_default">Kein Dienst</string>
   <string name="lockscreen_charged">Aufgeladen</string>
@@ -591,6 +540,7 @@ Besuchen Sie "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_plugged_in">Wird aufgeladen... (%d %%)</string>
   <string name="lockscreen_return_to_call">Zurück zum Anruf</string>
   <string name="lockscreen_screen_locked">Bildschirm gesperrt</string>
+  <string name="lockscreen_sim_error_message_short">Ungültige Karte</string>
   <string name="lockscreen_sim_locked_message">PIN eingeben</string>
   <string name="lockscreen_sim_puk_locked_instructions">PIN1 gesperrt. Bitte PUK1 eingeben.
 oder
@@ -738,6 +688,7 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="mmiFdnError">Der Vorgang ist nur für Ihre zugelassenen Rufnummern möglich.</string>
   <string name="month_day_year" formatted="false">%-e. %B %Y</string>
   <string name="more_item_label">Mehr</string>
+  <string name="muted_by">Stummgeschaltet durch %1$s</string>
   <string name="needPuk">Ihre SIM-Karte ist mit einem PUK gesperrt. Geben Sie zum Entsperren den PUK-Code ein.</string>
   <string name="needPuk2">Geben Sie zum Entsperren der SIM-Karte den PUK2 ein.</string>
   <string name="network_available_sign_in">Im Netzwerk anmelden</string>
@@ -775,6 +726,10 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="password_keyboard_label_alt_key">ALT</string>
   <string name="password_keyboard_label_symbol_key">\?123</string>
   <string name="paste">Einfügen</string>
+  <string name="peerTtyModeFull">Peer angefordert TTY Mode FULL</string>
+  <string name="peerTtyModeHco">Peer angefordert TTY Mode HCO</string>
+  <string name="peerTtyModeOff">Peer angefordert TTY Mode Aus</string>
+  <string name="peerTtyModeVco">Peer angefordert TTY Mode VCO</string>
   <string name="perm_costs_money">Hierfür können Gebühren anfallen.</string>
   <string name="permdesc_accessCoarseLocation">Ermöglicht der App, Ihren ungefähren Standort zu ermitteln. Diese Standortangabe stammt von Standortdiensten, die Netzwerkstandortquellen wie etwa Sendemasten oder WLAN verwenden. Diese Standortdienste müssen auf Ihrem Gerät verfügbar und aktiviert sein, damit die App sie verwenden kann. Apps können Ihren ungefähren Standort anhand dieser Daten ermitteln.</string>
   <string name="permdesc_accessContentProvidersExternally">Berechtigt den Inhaber, extern auf Content-Anbieter zuzugreifen. Bei normalen Apps nicht notwendig</string>
@@ -803,6 +758,7 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="permdesc_backup">Ermöglicht der App, den Sicherungs- und Wiederherstellungsmechanismus des Systems zu steuern. Nicht für normale Apps vorgesehen.</string>
   <string name="permdesc_batteryStats">Ermöglicht der App, den momentan niedrigen Akkustand zu erkennen. Unter Umständen erhält die App detaillierte Informationen darüber, welche Apps Sie verwenden.</string>
   <string name="permdesc_bindAccessibilityService">Ermöglicht dem Halter, sich an die Oberfläche einer Bedienungshilfe auf oberster Ebene zu binden. Sollte nie für normale Apps benötigt werden.</string>
+  <string name="permdesc_bindCarrierMessagingService">Ermöglicht dem Inhaber die Bindung an die Top-Level-Schnittstelle einer Fluggesellschaft, die messaging-Dienst. Sollte nie für normale Anwendungen benötigt werden.</string>
   <string name="permdesc_bindConditionProviderService">Ermöglicht dem Inhaber, sich an die Oberfläche eines Bedingungsproviderdienstes auf oberster Ebene zu binden. Für normale Apps sollte dies nie erforderlich sein.</string>
   <string name="permdesc_bindDeviceAdmin">Ermöglicht dem Halter, Intents an einen Geräteadministrator zu senden. Sollte nie für normale Apps benötigt werden.</string>
   <string name="permdesc_bindDreamService">Ermöglicht der App, sich an die Oberfläche eines Dream-Dienstes auf oberster Ebene zu binden. Für normale Apps sollte dies nie erforderlich sein.</string>
@@ -830,6 +786,7 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="permdesc_bluetoothPriv">Ermöglicht der App, Pairing mit Remote-Geräten ohne Eingriff des Nutzers durchzuführen</string>
   <string name="permdesc_bodySensors">Ermöglicht der App den Zugriff auf Daten von Sensoren, mit denen Ihre Vitalfunktionen, etwa die Herzfrequenz, gemessen werden.</string>
   <string name="permdesc_brick">Ermöglicht der App, das gesamte Telefon dauerhaft zu deaktivieren. Dies birgt hohe Risiken.</string>
+  <string name="permdesc_broadcastNetworkPrivileged">Ermöglicht die app privilegierten Netzwerkübertragungen zu senden. Nie gebraucht, für normale Anwendungen.</string>
   <string name="permdesc_broadcastPackageRemoved">Ermöglicht der App, eine Benachrichtigung zu senden, dass ein App-Paket entfernt wurde. Schädliche Apps können so eine andere aktive App beenden.</string>
   <string name="permdesc_broadcastSmsReceived">Ermöglicht der App, eine Benachrichtigung zu senden, dass eine SMS empfangen wurde. Schädliche Apps können so eingehende SMS fälschen.</string>
   <string name="permdesc_broadcastSticky">Ermöglicht der App, dauerhafte Broadcasts zu senden, die auch nach Ende des Broadcasts bestehen bleiben. Ein zu intensiver Einsatz kann das Telefon langsam oder instabil machen, weil zu viel Arbeitsspeicher belegt wird.</string>
@@ -856,6 +813,8 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="permdesc_clearAppUserData">Ermöglicht der App das Löschen von Nutzerdaten</string>
   <string name="permdesc_configureWifiDisplay">Erlaubt der App, WLAN-Anzeigen zu konfigurieren und eine Verbindung zu diesen herzustellen</string>
   <string name="permdesc_confirm_full_backup">Ermöglicht der App, die Benutzeroberfläche zur Bestätigung der vollständigen Sicherung zu starten. Kann nicht von jeder App verwendet werden.</string>
+  <string name="permdesc_connection_manager">Ermöglicht die app auf Telekom-Verbindungen verwalten</string>
+  <string name="permdesc_controlVpn">Ermöglicht die app zur Steuerung von Low-Level Funktionen von VPN</string>
   <string name="permdesc_controlWifiDisplay">Erlaubt der App, untergeordnete Funktionen von WLAN-Anzeigen zu steuern</string>
   <string name="permdesc_control_incall_experience">Die App kann Anrufoptionen für den Nutzer bereitstellen.</string>
   <string name="permdesc_control_keyguard">Apps können den Keyguard steuern.</string>
@@ -872,6 +831,7 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="permdesc_factoryTest">Führt einen systemnahen Herstellertest durch, in dessen Rahmen auf die gesamte Telefon-Hardware zugegriffen werden kann. Nur verfügbar, wenn ein Telefon im Herstellertestmodus ausgeführt wird.</string>
   <string name="permdesc_filter_events">Ermöglicht der App, einen Eingabefilter zu registrieren, der den Stream aller Nutzerereignisse vor ihrem Versand filtert. Eine schädliche App kann die System-UI ohne Eingriff des Nutzers kontrollieren.</string>
   <string name="permdesc_flashlight">Ermöglicht der App, die Lichtanzeige zu steuern</string>
+  <string name="permdesc_fm">Ermöglicht der App, den Zugang UKW-Radio , um die Programme zu hören</string>
   <string name="permdesc_forceBack">Ermöglicht der App, alle Aktivitäten, die im Vordergrund ausgeführt werden, zu beenden und in den Hintergrund zu verschieben. Sollte nie für normale Apps benötigt werden.</string>
   <string name="permdesc_forceStopPackages">Ermöglicht der App, das Beenden anderer Apps zu erzwingen</string>
   <string name="permdesc_frameStats">Berechtigt eine App zur Erfassung von Framestatistiken. Bösartige Apps können möglicherweise die Framestatistiken für Fenster von anderen Apps beobachten.</string>
@@ -953,6 +913,8 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="permdesc_receiveWapPush">Ermöglicht der App, WAP-Nachrichten zu empfangen und zu verarbeiten. Mit der Berechtigung können Nachrichten, die an Sie gesendet wurden, überwacht und gelöscht werden, bevor sie Ihnen angezeigt werden.</string>
   <string name="permdesc_recordAudio">Ermöglicht der App, Ton mithilfe des Mikrofons aufzunehmen. Die Berechtigung erlaubt der App, Tonaufnahmen jederzeit und ohne Ihre Bestätigung durchzuführen.</string>
   <string name="permdesc_recovery">Ermöglicht einer App die Interaktion mit dem Wiederherstellungssystem und den Systemupdates</string>
+  <string name="permdesc_register_call_provider">Ermöglicht der App, neue Telekom- Anschlüsse registrieren</string>
+  <string name="permdesc_register_sim_subscription">Ermöglicht der App, neue Telekom- SIM -Verbindungen registrieren</string>
   <string name="permdesc_removeDrmCertificates">Ermöglicht einer App das Entfernen von DRM-Zertifikaten. Sollte für normale Apps nie benötigt werden.</string>
   <string name="permdesc_removeTasks">Ermöglicht der App, Aufgaben zu entfernen und die entsprechenden Apps zu beenden. Schädliche Apps können das Verhalten anderer Apps stören.</string>
   <string name="permdesc_reorderTasks">Ermöglicht der App, Aufgaben in den Vorder- und Hintergrund zu verschieben, ohne dass dazu ein Eingreifen Ihrerseits notwendig ist.</string>
@@ -1082,6 +1044,8 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="permgrouplab_voicemail">Mailbox</string>
   <string name="permgrouplab_wallpaper">Hintergrund</string>
   <string name="permgrouplab_writeDictionary">In Ihrem Wörterbuch schreiben</string>
+  <string name="permission">Erlauben</string>
+  <string name="permission_remember_choice">Erinnern</string>
   <string name="permission_request_notification_title">Berechtigung angefordert</string>
   <string name="permission_request_notification_with_subtitle">"Berechtigung angefordert
 für Konto %s"</string>
@@ -1112,6 +1076,7 @@ für Konto %s"</string>
   <string name="permlab_backup">Systemsicherung und -wiederherstellung kontrollieren</string>
   <string name="permlab_batteryStats">Akkudaten lesen</string>
   <string name="permlab_bindAccessibilityService">An eine Bedienungshilfe binden</string>
+  <string name="permlab_bindCarrierMessagingService">auf einen Träger Messaging-Dienst binden</string>
   <string name="permlab_bindConditionProviderService">An einen Bedingungsproviderdienst binden</string>
   <string name="permlab_bindDeviceAdmin">Interaktion mit einem Geräteadministrator</string>
   <string name="permlab_bindDreamService">An Dream-Dienst binden</string>
@@ -1139,6 +1104,7 @@ für Konto %s"</string>
   <string name="permlab_bluetoothPriv">Bluetooth-Pairing nach jeweiliger App ermöglichen</string>
   <string name="permlab_bodySensors">Körpersensoren (wie Herzfrequenzmesser)</string>
   <string name="permlab_brick">Telefon dauerhaft deaktivieren</string>
+  <string name="permlab_broadcastNetworkPrivileged">privilegierte Netzwerkübertragungen senden</string>
   <string name="permlab_broadcastPackageRemoved">Broadcast ohne Paket senden</string>
   <string name="permlab_broadcastSmsReceived">Per SMS empfangenen Broadcast senden</string>
   <string name="permlab_broadcastSticky">Dauerhaften Broadcast senden</string>
@@ -1165,6 +1131,8 @@ für Konto %s"</string>
   <string name="permlab_clearAppUserData">Daten anderer Apps löschen</string>
   <string name="permlab_configureWifiDisplay">WLAN-Anzeigen konfigurieren</string>
   <string name="permlab_confirm_full_backup">Vollständige Sicherung oder Wiederherstellung bestätigen</string>
+  <string name="permlab_connection_manager">Telekom- Verbindungen verwalten</string>
+  <string name="permlab_controlVpn">Kontrolle VPN</string>
   <string name="permlab_controlWifiDisplay">WLAN-Anzeigen steuern</string>
   <string name="permlab_control_incall_experience">Anrufoptionen anzeigen</string>
   <string name="permlab_control_keyguard">Anzeige und Ausblenden des Keyguard steuern</string>
@@ -1181,6 +1149,7 @@ für Konto %s"</string>
   <string name="permlab_factoryTest">In Werkstestmodus ausführen</string>
   <string name="permlab_filter_events">Ereignisse filtern</string>
   <string name="permlab_flashlight">Lichtanzeige steuern</string>
+  <string name="permlab_fm">Zugriff FM Radio</string>
   <string name="permlab_forceBack">Schließen der App erzwingen</string>
   <string name="permlab_forceStopPackages">Beenden anderer Apps erzwingen</string>
   <string name="permlab_frameStats">Framestatistiken abrufen</string>
@@ -1262,6 +1231,8 @@ für Konto %s"</string>
   <string name="permlab_receiveWapPush">Textnachrichten (WAP) empfangen</string>
   <string name="permlab_recordAudio">Audio aufnehmen</string>
   <string name="permlab_recovery">Mit Update- und Wiederherstellungssystem interagieren</string>
+  <string name="permlab_register_call_provider">Registrieren neue Telekom-Verbindungen</string>
+  <string name="permlab_register_sim_subscription">Registrieren Sie neue Telekom-SIM-Verbindungen</string>
   <string name="permlab_removeDrmCertificates">DRM-Zertifikate entfernen</string>
   <string name="permlab_removeTasks">Aktive Apps beenden</string>
   <string name="permlab_reorderTasks">Aktive Apps neu ordnen</string>
@@ -1332,7 +1303,6 @@ für Konto %s"</string>
   <string name="perms_description_app">Zur Verfügung gestellt von %1$s</string>
   <string name="perms_new_perm_prefix">&lt;font size="12" fgcolor="#ff33b5e5"&gt;Neu: &lt;/font&gt;</string>
   <string name="petabyteShort">PB</string>
-  <string name="storage_phone">Interner Speicher</string>
   <string name="phoneTypeAssistant">Zweite Nummer</string>
   <string name="phoneTypeCallback">Rückruf</string>
   <string name="phoneTypeCar">Auto</string>
@@ -1387,12 +1357,15 @@ für Konto %s"</string>
   <string name="print_service_installed_message">Zum Aktivieren tippen</string>
   <string name="print_service_installed_title">Dienst %s installiert</string>
   <string name="progress_erasing">USB-Speicher wird gelöscht...</string>
+  <string name="progress_nomediapresent">Keine Wechseldatenträger vorhanden…</string>
   <string name="progress_unmounting">USB-Speicher wird getrennt...</string>
   <string name="quick_contacts_not_available">Es wurde keine App zum Anzeigen dieses Kontakts gefunden.</string>
   <string name="reason_service_unavailable">Druckdienst nicht aktiviert</string>
   <string name="reason_unknown">Unbekannt</string>
+  <string name="reboot_confirm">Das Telefon wird neu gestartet</string>
   <string name="reboot_safemode_confirm">Möchten Sie im abgesicherten Modus neu starten? Dadurch werden alle Apps von Drittanbietern deaktiviert, die Sie installiert haben. Sie werden jedoch nach einem weiteren Neustart wiederhergestellt.</string>
   <string name="reboot_safemode_title">Im abgesicherten Modus starten</string>
+  <string name="reboot_title">Neustart</string>
   <string name="recent_tasks_title">Kürzlich geöffnet</string>
   <string name="relationTypeAssistant">Assistent</string>
   <string name="relationTypeBrother">Bruder</string>
@@ -1457,6 +1430,7 @@ Wenn Sie über längere Zeiträume hinweg Musik in hoher Lautstärke hören, kan
   <string name="screen_compat_mode_show">Immer anzeigen</string>
   <string name="screen_lock">Bildschirmsperre</string>
   <string name="search_go">Suchen</string>
+  <string name="search_hint">Suche…</string>
   <string name="searchview_description_clear">Anfrage löschen</string>
   <string name="searchview_description_query">Suchanfrage</string>
   <string name="searchview_description_search">Suche</string>
@@ -1532,14 +1506,23 @@ Wenn Sie über längere Zeiträume hinweg Musik in hoher Lautstärke hören, kan
   <string name="sms_short_code_remember_undo_instruction">Sie können dies unter \"Einstellungen &gt; Apps\" ändern.</string>
   <string name="smv_application">Die App %1$s (Prozess %2$s) hat gegen ihre selbsterzwungene StrictMode-Richtlinie verstoßen.</string>
   <string name="smv_process">Der Prozess %1$s hat gegen seine selbsterzwungene StrictMode-Richtlinie verstoßen.</string>
+  <string name="ssl_ca_cert_noti_by_administrator">Durch Ihre Arbeit Profilverwalter</string>
   <string name="ssl_ca_cert_noti_by_unknown">Von einem unbekannten Dritten</string>
   <string name="ssl_ca_cert_noti_managed">Von %s</string>
   <string name="ssl_ca_cert_warning">Das Netzwerk wird möglicherweise überwacht.</string>
   <string name="ssl_certificate">Sicherheitszertifikat</string>
   <string name="ssl_certificate_is_valid">Dies ist ein gültiges Zertifikat.</string>
   <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="stk_cc_ss_to_dial">SS Anfrage wird auf DIAL-Anforderung geändert</string>
+  <string name="stk_cc_ss_to_ss">SS Anfrage wird auf neue SS-Anforderung geändert</string>
+  <string name="stk_cc_ss_to_ussd">SS Anfrage wird auf USSD-Anforderung geändert</string>
+  <string name="stk_cc_ussd_to_dial">USSD Anfrage wird auf DIAL-Anforderung geändert</string>
+  <string name="stk_cc_ussd_to_ss">USSD Anfrage wird auf SS-Anforderung geändert</string>
+  <string name="stk_cc_ussd_to_ussd">USSD Anfrage wird auf neue USSD-Anforderung geändert</string>
   <string name="storage_internal">Interner Speicher</string>
+  <string name="storage_phone">Interner Speicher</string>
   <string name="storage_sd_card">SD-Karte</string>
+  <string name="storage_uicc">UICC-Speicher</string>
   <string name="storage_usb">USB-Speicher</string>
   <string name="submit">Senden</string>
   <string name="sync_binding_label">Synchronisieren</string>
@@ -1548,8 +1531,13 @@ Wenn Sie über längere Zeiträume hinweg Musik in hoher Lautstärke hören, kan
   <string name="sync_too_many_deletes">Löschbegrenzung überschritten</string>
   <string name="sync_too_many_deletes_desc">Es sind %1$d gelöschte Elemente für %2$s, Konto %3$s, vorhanden. Wie möchten Sie fortfahren?</string>
   <string name="sync_undo_deletes">Löschen rückgängig machen</string>
+  <string name="system_error_manufacturer">"Es gibt ein internes Problem mit dem Gerät. Kontaktieren Sie Ihren Hersteller für weitere Einzelheiten."</string>
+  <string name="system_error_wipe_data">"Es ist ein internes Problem mit Ihrem Gerät und es kann instabil sein, bis Sie factory data reset durchführen."</string>
   <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Zum Einrichten berühren</string>
+  <string name="tethered_notification_multi_device_message">%1$s angeschlossenen Geräte</string>
+  <string name="tethered_notification_no_device_message">Kein angeschlossenes Gerät</string>
+  <string name="tethered_notification_one_device_message">%1$s angeschlossene Gerät</string>
   <string name="tethered_notification_title">Tethering oder Hotspot aktiv</string>
   <string name="textSelectionCABTitle">Textauswahl</string>
   <string name="text_copied">Text in Zwischenablage kopiert.</string>
@@ -1561,6 +1549,8 @@ Wenn Sie über längere Zeiträume hinweg Musik in hoher Lautstärke hören, kan
   <string name="time_picker_increment_hour_button">Stunden verlängern</string>
   <string name="time_picker_increment_minute_button">Minuten verlängern</string>
   <string name="time_picker_increment_set_pm_button">Zeit festlegen</string>
+  <string name="time_placeholder">--</string>
+  <string name="toolbar_collapse_description">Zusammenbruch</string>
   <string name="turn_off_radio">Funk ausschalten</string>
   <string name="turn_on_radio">Funk einschalten</string>
   <string name="tutorial_double_tap_to_zoom_message_short">Für Zoomeinstellung zweimal berühren</string>
@@ -1569,6 +1559,8 @@ Wenn Sie über längere Zeiträume hinweg Musik in hoher Lautstärke hören, kan
   <string name="upload_file">Datei auswählen</string>
   <string name="usb_accessory_notification_title">Mit USB-Zubehör verbunden</string>
   <string name="usb_cd_installer_notification_title">Als Installationsprogramm angeschlossen</string>
+  <string name="usb_charging_notification_title">In Lademodus verbunden</string>
+  <string name="usb_choose_notification_title">Berühren für USB Optionen wählen</string>
   <string name="usb_mtp_notification_title">Als Mediengerät angeschlossen</string>
   <string name="usb_notification_message">Für mehr USB-Optionen berühren</string>
   <string name="usb_ptp_notification_title">Als Kamera angeschlossen</string>
@@ -1595,6 +1587,7 @@ Wenn Sie über längere Zeiträume hinweg Musik in hoher Lautstärke hören, kan
   <string name="volume_call">Hörerlautstärke</string>
   <string name="volume_icon_description_bluetooth">Bluetooth-Lautstärke</string>
   <string name="volume_icon_description_incall">Anruflautstärke</string>
+  <string name="volume_icon_description_media">Media</string>
   <string name="volume_icon_description_notification">Benachrichtigungslautstärke</string>
   <string name="volume_icon_description_ringer">Klingelton</string>
   <string name="volume_music">Medienlautstärke</string>
@@ -1642,9 +1635,13 @@ Möchten Sie die Seite schließen?"</string>
   <string name="wifi_p2p_show_pin_message">PIN:</string>
   <string name="wifi_p2p_to_message">An:</string>
   <string name="wifi_p2p_turnon_message">Wi-Fi Direct-Betrieb starten. Hierdurch wird der WLAN-Client-/-Hotspot-Betrieb deaktiviert.</string>
+  <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
   <string name="wifi_watchdog_network_disabled">Es konnte keine WLAN-Verbindung hergestellt werden.</string>
   <string name="wifi_watchdog_network_disabled_detailed">" hat eine schlechte Internetverbindung."</string>
   <string name="wireless_display_route_description">Kabellose Übertragung (WiDi)</string>
+  <string name="work_profile_deleted">Arbeitsprofil gelöscht</string>
+  <string name="work_profile_deleted_description">Arbeitsprofil aufgrund fehlender Admin app gelöscht</string>
+  <string name="work_profile_deleted_details">Die Arbeit Profil Admin app fehlt oder ist beschädigt. Infolgedessen wurden Ihre Arbeit Profil und die zugehörigen Daten gelöscht. Kontaktieren Sie Ihren Administrator um Hilfe.</string>
   <string name="write_fail_reason_cancelled">Abgebrochen</string>
   <string name="write_fail_reason_cannot_write">Fehler beim Schreiben von Inhalten</string>
   <string name="year">Jahr</string>
@@ -1652,4 +1649,7 @@ Möchten Sie die Seite schließen?"</string>
   <string name="years">Jahre</string>
   <string name="yes">OK</string>
   <string name="zen_mode_forever">Unbegrenzt</string>
+  <string name="zen_mode_next_alarm_line_one">Bis nächster alarm</string>
+  <string name="zen_mode_next_alarm_summary">Bis zum nächsten Alarm bei %1$s</string>
+  <string name="zen_mode_until">Bis %1$s</string>
 </resources>

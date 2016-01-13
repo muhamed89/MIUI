@@ -1,14 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="receiver_apk_file_current">Empfange %2$d Apps von %1$s</string>
-  <string name="receiver_audio_file_current">Empfange %2$d Lieder von %1$s…</string>
-  <string name="receiver_clean">Speicher bereinigen</string>
-  <string name="receiver_file_current">Empfange %2$d Dateien von %1$s…</string>
-  <string name="receiver_insufficient_storage">Ungenügend Speicher</string>
-  <string name="receiver_insufficient_storage_cannot_send">"Senden fehlgeschlagen: Ungenügend Speicher"</string>
-  <string name="receiver_pic_file_current">Empfange %2$d Bilder von %1$s…</string>
-  <string name="receiver_video_file_current">Empfange %2$d​ Videos von %1$s…</string>
-  <string name="sender_reject_kick_off">Bitte versuchen Sie es später erneut</string>
   <string name="Connect">Verbinden</string>
   <string name="Disconnect">Trennen</string>
   <string name="Register">Registrieren</string>
@@ -32,6 +23,7 @@
   <string name="cancel_stop">Senden halten</string>
   <string name="file_not_support">"Dieser Dateityp wird nicht unterstützt"</string>
   <string name="help">Hilfe</string>
+  <string name="i_know">Verstanden</string>
   <string name="intro_midrop">Mi Drop</string>
   <string name="intro_page1_text1">Dateien mit Geräten in der Nähe teilen</string>
   <string name="intro_page1_text2">"Leichter, als je zuvor"</string>
@@ -39,7 +31,6 @@
   <string name="intro_page2_click_to_send">Auf \"Teilen\" tippen</string>
   <string name="intro_page3_choose_midrop">\"Mi Drop\" auswählen</string>
   <string name="intro_page3_choose_midrop2">Die Dateien werden sofort gesendet!</string>
-  <string name="i_know">Verstanden</string>
   <string name="newText">Neuer Text</string>
   <string name="notif_receive_cancel">%1$s Dateien nicht übertragen</string>
   <string name="notif_receive_lockscreen">Tippen, um Details anzuzeigen</string>
@@ -51,23 +42,30 @@
   <string name="notif_send_success">Gesendet an %1$s</string>
   <string name="notif_send_success_multi">An %1$d Personen gesendet</string>
   <string name="receiver_accept">Annehmen</string>
+  <string name="receiver_apk_file_current">Empfange %2$d Apps von %1$s</string>
   <string name="receiver_apk_file_current_multi">Empfange %2$d​ App(s) von %1$s</string>
   <string name="receiver_apk_file_current_single">%2$d​ App von %1$s empfangen</string>
   <string name="receiver_apk_file_num">%2$d​ App(s) von %1$s</string>
+  <string name="receiver_audio_file_current">Empfange %2$d Lieder von %1$s…</string>
   <string name="receiver_audio_file_current_multi">Empfange %2$d​ Lied(er) von %1$s​​…</string>
   <string name="receiver_audio_file_current_single">%2$d​ Lied von %1$s empfangen​​…</string>
   <string name="receiver_audio_file_num">%2$d​ Lied(er) von %1$s</string>
   <string name="receiver_cancel">Abbrechen</string>
+  <string name="receiver_clean">Speicher bereinigen</string>
   <string name="receiver_file_cancel">Dateiempfang von %1$s unterbrochen</string>
+  <string name="receiver_file_current">Empfange %2$d Dateien von %1$s…</string>
   <string name="receiver_file_current_multi">Empfange %2$d Datei(en) von %1$s…</string>
   <string name="receiver_file_current_single">%2$d Datei von %1$s empfangen…</string>
   <string name="receiver_file_num">%2$d Datei(en) von %1$s</string>
   <string name="receiver_in_progress_summary">Warten Sie bis die aktuelle Übertragung abgeschlossen ist</string>
   <string name="receiver_in_progress_title">Sende…</string>
+  <string name="receiver_insufficient_storage">Ungenügend Speicher</string>
+  <string name="receiver_insufficient_storage_cannot_send">"Senden fehlgeschlagen: Ungenügend Speicher"</string>
   <string name="receiver_interrupt_summary">"WLAN während der Dateiübertragung nicht ausschalten"</string>
   <string name="receiver_interrupt_summary_v21">"WLAN-Hotspot während der Dateiübertragung nicht ausschalten"</string>
   <string name="receiver_notification_turn_on">Empfänger muss MiDrop einschalten</string>
   <string name="receiver_notification_turn_on_help">Einschalten, um Geräte zu finden und Dateien zu senden.</string>
+  <string name="receiver_pic_file_current">Empfange %2$d Bilder von %1$s…</string>
   <string name="receiver_pic_file_current_multi">Empfange %2$d Datei(en) von %1$s…</string>
   <string name="receiver_pic_file_current_single">%2$d Bild von %1$s empfangen​…</string>
   <string name="receiver_pic_file_num">%2$d Bilder von %1$s</string>
@@ -75,6 +73,7 @@
   <string name="receiver_succeed_ok">OK</string>
   <string name="receiver_succeed_view">Anzeigen</string>
   <string name="receiver_transfer_interrupt">"Übertragung abgebrochen. WLAN-Hotspot während der Übertragung nicht ausschalten."</string>
+  <string name="receiver_video_file_current">Empfange %2$d​ Videos von %1$s…</string>
   <string name="receiver_video_file_current_multi">Empfange %2$d​ Video(s) von %1$s…</string>
   <string name="receiver_video_file_current_single">%2$d​ Video von %1$s empfagnen…</string>
   <string name="receiver_video_file_num">%2$d​ Videos von %1$s</string>
@@ -91,6 +90,7 @@
   <string name="sender_interrupt_summary">"WLAN während der Übertragung nicht ausschalten"</string>
   <string name="sender_interupt">Übertragung abgebrochen</string>
   <string name="sender_reject">"Nicht annehmen"</string>
+  <string name="sender_reject_kick_off">Bitte versuchen Sie es später erneut</string>
   <string name="sender_return">Zurück</string>
   <string name="sender_scan_error">"Scan fehlgeschlagen. Erneut senden"</string>
   <string name="sender_select_device">Gerät auswählen</string>

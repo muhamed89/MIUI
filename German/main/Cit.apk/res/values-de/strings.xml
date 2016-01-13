@@ -1,18 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="cit_finger_check_title">Finger Print Test(FPC)</string>
-  <string name="cit_fpc_checkerboard_test">CHECKERBOARD TEST</string>
-  <string name="cit_fpc_selftest">SELF-TEST</string>
-  <string name="cit_fpc_sensor_check_summary">FPC-Sensor Test, drücken Sie die Taste und warten Sie auf den Pass info, grün Positiv ist korrekt.</string>
-  <string name="cit_fpc_sensor_check_title">FPC Fingerabdruck-Sensor</string>
-  <string name="cit_apk_signature_failed">APK-Signatur FEHLGESCHLAGEN</string>
-  <string name="cit_apk_signature_passed">APK-Signatur ERFOLGREICH</string>
-  <string name="cit_build_finger_failed">Build-Fingerabdruck FEHLGESCHLAGEN</string>
-  <string name="cit_build_finger_passed">Build-Fingerabdruck ERFOLGREICH</string>
-  <string name="cit_get_signature_failed">get Signature FEHLGESCHLAGEN</string>
-  <string name="cit_recovery_signature_failed">Recovery-Signature FEHLGESCHLAGEN</string>
-  <string name="cit_recovery_signature_passed">Recovery-Signature ERFOLGREICH</string>
-  <string name="cit_signature_check_label">Signaturprüfung:</string>
   <string name="cit_OTG_plugin_check_summary">Wenn ein OTG-Gerät verbunden ist, sollte \"USB OTG-Gerät erkannt\" unten angezeigt werden.</string>
   <string name="cit_OTG_plugin_check_title">OTG (Erkennung)</string>
   <string name="cit_OTG_plugout_check_summary">Wenn ein OTG-Gerät getrennt wurde, sollte \"USB OTG-gerät getrennt\" unten angezeigt werden.</string>
@@ -25,6 +12,8 @@
 
 Vor Kalibrierung das Telefon auf einer ebenen Oberfläche legen"</string>
   <string name="cit_accelermeter_sensor_check_title">Beschleunigungssensor</string>
+  <string name="cit_apk_signature_failed">APK-Signatur FEHLGESCHLAGEN</string>
+  <string name="cit_apk_signature_passed">APK-Signatur ERFOLGREICH</string>
   <string name="cit_aud_spkcal">Kalibrieren</string>
   <string name="cit_audio_cali_done">Kalibrierung abgeschlossen.</string>
   <string name="cit_audio_cali_failed">Kalibrierung fehlgeschlagen, bitte versuchen Sie erneut!</string>
@@ -84,6 +73,8 @@ Telefon, wie bei einem Anruf halten, ins Mikrofon sprechen. Die Stimme sollte mi
   <string name="cit_bluetooth_scanning_bluetooth_done">"Scan abgeschlossen."</string>
   <string name="cit_bluetooth_scanning_bluetooth_error">Fehler beim Öffnen der Bluetooth-Geräte.</string>
   <string name="cit_bluetooth_scanning_opening_bluetooth">Bluetooth-Geräte wird geöffnet…</string>
+  <string name="cit_build_finger_failed">Build-Fingerabdruck FEHLGESCHLAGEN</string>
+  <string name="cit_build_finger_passed">Build-Fingerabdruck ERFOLGREICH</string>
   <string name="cit_button_light_off">Tastenbeleuchtung ausschalten</string>
   <string name="cit_button_light_on">Tastenbeleuchtung anschalten</string>
   <string name="cit_calibration_fail">Kalibrierung fehlgeschlagen</string>
@@ -108,6 +99,7 @@ Telefon, wie bei einem Anruf halten, ins Mikrofon sprechen. Die Stimme sollte mi
   <string name="cit_exit_test_summary">Aktive Tests beenden führt zum Datenverlust, wirklich fortfahren?</string>
   <string name="cit_exit_test_title">Test anhalten</string>
   <string name="cit_fail">Fehlgeschlagen</string>
+  <string name="cit_finger_check_title">Finger Print Test(FPC)</string>
   <string name="cit_fm_audio_path">Audiopfad festlegen</string>
   <string name="cit_fm_audio_path_headset">Headset</string>
   <string name="cit_fm_audio_path_speaker">Lautsprecher</string>
@@ -119,6 +111,10 @@ Telefon, wie bei einem Anruf halten, ins Mikrofon sprechen. Die Stimme sollte mi
   <string name="cit_fm_open_2">FM - 107.9</string>
   <string name="cit_fm_open_bluetooth">Aktiviere Bluetooth…</string>
   <string name="cit_fm_start_service">Aktiviere Radio</string>
+  <string name="cit_fpc_checkerboard_test">CHECKERBOARD TEST</string>
+  <string name="cit_fpc_selftest">SELF-TEST</string>
+  <string name="cit_fpc_sensor_check_summary">FPC-Sensor Test, drücken Sie die Taste und warten Sie auf den Pass info, grün Positiv ist korrekt.</string>
+  <string name="cit_fpc_sensor_check_title">FPC Fingerabdruck-Sensor</string>
   <string name="cit_front_camera_check_summary">"Testverlauf:
 
 1. Auf den Kamera-Button drücken, um Systemkamera zu öffnen.
@@ -129,6 +125,7 @@ Telefon, wie bei einem Anruf halten, ins Mikrofon sprechen. Die Stimme sollte mi
 
 4. Vorschau anschauen. Wenn Sie zufrieden sind, können Sie die Vorschau löschen."</string>
   <string name="cit_front_camera_check_title">Frontkamera (Frontkamera) testen</string>
+  <string name="cit_get_signature_failed">get Signature FEHLGESCHLAGEN</string>
   <string name="cit_gps_check_summary">Dieser Test zeigt GPS-Informationen.</string>
   <string name="cit_gps_check_title">GPS testen</string>
   <string name="cit_gps_disabled">"GPS ist nicht aktiviert.
@@ -197,7 +194,7 @@ Aktiviere GPS über die Schnellauswahl"</string>
   <string name="cit_not_available">"Nutzerversion unterstütz diesen Test nicht, nur Werkstest verfügbar"</string>
   <string name="cit_notificationlight">Benachrichtigungs-LED</string>
   <string name="cit_notificationlight_off">Benachrichtigungs-LED ausschalten</string>
-  <string name="cit_notificationlight_on">">Benachrichtigungs-LED einschalten</string>
+  <string name="cit_notificationlight_on">"&gt;Benachrichtigungs-LED einschalten</string>
   <string name="cit_otg_not_supported">"Dieses Modell unterstützt den OTG-Test nicht."</string>
   <string name="cit_pass">Erfolgreich</string>
   <string name="cit_play_sd_mp3_hifi_summary">"Bestätigen, dass sich eine Datei namens \"music.mp3\" auf der SD-Karte befindet. Die Datei \"music.mp3\" sollte auf dem Gerät wiedergegeben werden."</string>
@@ -213,6 +210,8 @@ Aktiviere GPS über die Schnellauswahl"</string>
   <string name="cit_proximity_sensor_check_summary">"Bewegungssensor mit dem Finger abdecken (befindet sich am oberen Ende des Telefons), dann nehmen Sie Ihre weg. Wenn Sie Ihre Hand weiter vom Telefon wegnehmen wird der Wert von 0.0 an steigen.
 Stellen Sie sicher, dass sich bei der Kalibrierung nichts zwischen dem Sensor und Ihrer Hand befindet (z.B. Schutzfolien oder Handschuhe)."</string>
   <string name="cit_proximity_sensor_check_title">Bewegungssensor testen</string>
+  <string name="cit_recovery_signature_failed">Recovery-Signature FEHLGESCHLAGEN</string>
+  <string name="cit_recovery_signature_passed">Recovery-Signature ERFOLGREICH</string>
   <string name="cit_reset_check_summary">Test erzeugt einen System-Neustart.</string>
   <string name="cit_reset_check_title">Neustart testen</string>
   <string name="cit_reset_test">Neustart-Test</string>
@@ -229,6 +228,7 @@ Datei hinzufügen und Test erneut starten."</string>
   <string name="cit_sd_plugout_check_title">SD-Karte (Entfernung)</string>
   <string name="cit_sd_unmount">SD-Karte aushängen</string>
   <string name="cit_sd_unmount_sucess">SD-Karte erfolgreich ausgehängt</string>
+  <string name="cit_signature_check_label">Signaturprüfung:</string>
   <string name="cit_sim_check_summary">Überprüfen Sie, ob die Infos und der Status der SIM Karte korrekt dargestellt werden.</string>
   <string name="cit_sim_check_title">SIM-Karte testen</string>
   <string name="cit_sim_error_unknown">Unbekannter SIM-Fehler</string>

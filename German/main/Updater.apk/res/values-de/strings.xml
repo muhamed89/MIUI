@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="notification_fail_msg">Versuchen Sie, die ROM zu laden</string>
-  <string name="notification_restart">erneut aktualisieren</string>
   <string name="about_device">Über das Telefon</string>
   <string name="active_xiaomi_account">Aktiv</string>
   <string name="active_xiaomi_account_msg">Um Ihren Mi Account zu aktivieren, bitte https://account.xiaomi.com/pass/serviceLogin aufrufen</string>
@@ -114,6 +112,7 @@
   <string name="not_open">Ausschalten</string>
   <string name="notification_auto_reboot_seccess_title">Gerät wurde automatisch aktualisiert</string>
   <string name="notification_downloading">Update wird heruntergeladen…</string>
+  <string name="notification_fail_msg">Versuchen Sie, die ROM zu laden</string>
   <string name="notification_load_body_alpha">Laden Sie die neusten Updates für Ihr Gerät herunter</string>
   <string name="notification_load_body_dev">Laden Sie die neusten Updates für Ihr Gerät herunter</string>
   <string name="notification_load_title_alpha">Melden Sie sich mit Ihrem Mi Konto an</string>
@@ -124,6 +123,7 @@
   <string name="notification_reboot_summary_hm">Berühren, um Telefon neu zu starten</string>
   <string name="notification_reboot_title">Neustart erforderlich, damit Update übernommen wird</string>
   <string name="notification_reboot_title_hm">Neustart erforderlich, damit Update übernommen wird</string>
+  <string name="notification_restart">erneut aktualisieren</string>
   <string name="notification_share">Teile</string>
   <string name="notification_update_new_version">Update verfügbar</string>
   <string name="notification_update_now">Update jetzt durchführen</string>
@@ -146,14 +146,14 @@
   <string name="previous">Zurück</string>
   <string name="progress_title_checking">Überprüfe auf Updates…</string>
   <string name="reboot">Neustart</string>
-  <string name="recovery_power_not_enough_title">Niedriger Akkustand</string>
-  <string name="recovery_power_not_enough_msg">Zum Aktualisieren schließen Sie Ihr Ladegerät an, wenn der Akkustand weniger als 30% beträgt</string>
-  <string name="recovery_power_not_enough_msg_plugged">Der Akkustand muss mehr als 15% betragen, um mit der Aktualisierung zu beginnen</string>
   <string name="recovery_failed_button">OK</string>
   <string name="recovery_failed_msg">"Zu wenig Speicherplatz verfügbar, um in den Recovery-Modus zu booten und die Update zu installieren. Bitte die Mi PC Suite verwenden:
 http://zhushou.xiaomi.com"</string>
   <string name="recovery_failed_notification_msg">Kann nicht in das Recovery starten</string>
   <string name="recovery_failed_title">Verwenden Sie die Mi-PC Suite um Ihr System zu aktualisieren</string>
+  <string name="recovery_power_not_enough_msg">Zum Aktualisieren schließen Sie Ihr Ladegerät an, wenn der Akkustand weniger als 30% beträgt</string>
+  <string name="recovery_power_not_enough_msg_plugged">Der Akkustand muss mehr als 15% betragen, um mit der Aktualisierung zu beginnen</string>
+  <string name="recovery_power_not_enough_title">Niedriger Akkustand</string>
   <string name="repeat">Wiederholen</string>
   <string name="root_acquired">Erlaube Root Zugriff</string>
   <string name="root_agree_check_box_title">Die Risiken einens Root Zugriffs sind mir bewusst</string>

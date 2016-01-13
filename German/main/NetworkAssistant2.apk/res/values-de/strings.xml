@@ -1,9 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="sim_location_error_dialog_message">"The SIM you're using is from %1$s. This is different from the location you set manually (%2$s). Change SIM location to %3$s?"</string>
-  <string name="sim_location_error_notify_message">Tippen Sie auf SIM- Speicherort ändern</string>
-  <string name="sim_location_error_notify_title">SIM-Kartenfehler</string>
-  <string name="traffic_setting_fragment_loacation_alert_nomore">"Nicht mehr anzeigen"</string>
   <string name="add_miservice_dialog_content">Für %s ist es erforderlich das Sie die MIUI Service-Framework zur Ausnahmeliste hinzufügen.</string>
   <string name="add_miservice_dialog_title">MIUI Service Framework</string>
   <string name="add_to_whitelist_button">Ausnahmen verwalten</string>
@@ -367,7 +363,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Datenreduzierung für neu installierte Apps automatisch aktivieren</string>
   <string name="pref_traffic_saving_compressed">Komprimiert</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
-  <string name="pref_traffic_saving_issue_content">&lt;b> 1. Wirkt sich die Datenreduzierung auf meine Privatsphäre aus? &lt;/b>&lt;br />&lt;br />&lt;br />Nein, Ihre Daten bleiben privat und werden nicht an Dritte weitergegeben. &lt;br />&lt;br />&lt;br />&lt;b> Warum funktioniert die Datenreduzierung nicht? &lt;/b>&lt;br />&lt;br /> Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden sind und Inhalte senden oder herunterladen.</string>
+  <string name="pref_traffic_saving_issue_content">&lt;b&gt; 1. Wirkt sich die Datenreduzierung auf meine Privatsphäre aus? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Nein, Ihre Daten bleiben privat und werden nicht an Dritte weitergegeben. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; Warum funktioniert die Datenreduzierung nicht? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt; Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden sind und Inhalte senden oder herunterladen.</string>
   <string name="pref_traffic_saving_no_compress">Nicht komprimiert</string>
   <string name="pref_traffic_saving_notify_switch">In Statusleiste anzeigen</string>
   <string name="pref_traffic_saving_notify_switch_hint">Datenreduzierung in der Statusleiste anzeigen</string>
@@ -380,7 +376,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="pref_version">Version %s</string>
   <string name="pref_warning_values">Verbrauchswarnung ab</string>
   <string name="pref_whitelist_setting">Ausnahmen verwalten</string>
-  <string name="privacy_declare_dialog_message">"Wenn Sie diesen Dienst nutzen, akzeptieren Sie Opera's &lt;a href=%s> Geschäftsbedingungen&lt;/a>."</string>
+  <string name="privacy_declare_dialog_message">"Wenn Sie diesen Dienst nutzen, akzeptieren Sie Opera's &lt;a href=%s&gt; Geschäftsbedingungen&lt;/a&gt;."</string>
   <string name="privacy_declare_dialog_title">Geschäftsbedingungen</string>
   <string name="privacy_prompt_tc_sms_report_message">Ihre Telefonnummer und Anbieterdetails werden verschlüsselt und an die MiServer gesendet, um Ihren Datenverbrauchsdetails zu aktualisieren.</string>
   <string name="privacy_prompt_traffic_adjust_message">Diese Funktion verschlüsselt und sendet Ihre Geräte-IMEI, Telefonnummer und Anbieterdetails an die MiServer, um Datenverbrauchsdetails vom Anbieter abzurufen.</string>
@@ -422,6 +418,9 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="show_traffic_dialog_title">Zeige Verbrauch in der Statusleiste</string>
   <string name="signal_exception_summary">"In diesem Bereich kann zu keinem Netzwerk verbunden werden."</string>
   <string name="signal_exception_title">Teste Signalstärke</string>
+  <string name="sim_location_error_dialog_message">"The SIM you're using is from %1$s. This is different from the location you set manually (%2$s). Change SIM location to %3$s?"</string>
+  <string name="sim_location_error_notify_message">Tippen Sie auf SIM- Speicherort ändern</string>
+  <string name="sim_location_error_notify_title">SIM-Kartenfehler</string>
   <string name="sim_state_exception_summary">Es ist ein Fehler bei der SIM-Karte aufgetreten.</string>
   <string name="songs_number">18 Songs</string>
   <string name="songs_unit">" Songs"</string>
@@ -450,7 +449,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="tc_sms_report_notify_get_timeout_body">Zeitüberschreitung. Stellen Sie sicher, dass der eingegebene Code korrekt ist.</string>
   <string name="tc_sms_report_notify_get_timeout_title">Datenverbrauchsübersicht anfordern fehlgeschlagen</string>
   <string name="tc_sms_report_receive_content">SMS-Nutzungsberichtinhalt (Nutzungsbericht bestätigen)</string>
-  <string name="tc_sms_report_receive_content_null">Helfen Sie bei der Verbesserung dieser Funktion mit!&lt;br/>So geht es:&lt;br/>1. Gehen Sie auf \"SMS-Befehl überprüfen\" und \"Empfängernummer\"&lt;br/>2. Wählen Sie \"SMS-Vorlage abrufen\";br/>3. Warten Sie auf die SMS Ihres Anbieters ;br/>4. Wählen Sie \"Zu MIUI hochladen\"</string>
+  <string name="tc_sms_report_receive_content_null">Helfen Sie bei der Verbesserung dieser Funktion mit!&lt;br/&gt;So geht es:&lt;br/&gt;1. Gehen Sie auf \"SMS-Befehl überprüfen\" und \"Empfängernummer\"&lt;br/&gt;2. Wählen Sie \"SMS-Vorlage abrufen\";br/&gt;3. Warten Sie auf die SMS Ihres Anbieters ;br/&gt;4. Wählen Sie \"Zu MIUI hochladen\"</string>
   <string name="tc_sms_report_receive_num">Nummer des Empfängers</string>
   <string name="tc_sms_report_send_num">Anbieternummer</string>
   <string name="tc_sms_report_summary">Helfen Sie uns diese Funktion zu verbessern, indem Sie uns eine fehlerhafte Datenverbrauchsübersicht oder Aktualisierungsfehler melden</string>
@@ -461,7 +460,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="tc_sms_report_upload_success">"Datenverbrauchs SMS übermittelt. Wir werden uns gleich darum kümmern!"</string>
   <string name="tc_sms_report_upload_when_net">Vielen Dank für Ihr Feedback!</string>
   <string name="ten_percent_total_pkg">%s (10%% der monatlichen Daten)</string>
-  <string name="text_day" />
+  <string name="text_day"/>
   <string name="three_percent_total_pkg">%s (3%% der monatlichen Daten)</string>
   <string name="timeshow_h">%.1fh</string>
   <string name="timeshow_h_int">%dh</string>
@@ -510,14 +509,14 @@ Der verbleibende Datenverbauch beinhalten auch jenen Verbrauch, welcher in dem l
   <string name="traffic_limit_error_alert_title">Erinnerung der Datenbeschränkung %s</string>
   <string name="traffic_none">Keine</string>
   <string name="traffic_over_purchase_body">Antippen, um Details anzuzeigen.</string>
-  <string name="traffic_over_purchase_link">"Sie haben Ihr mobiles Datenlimit überschritten.&lt;br/>Wenn Sie das Datenlimit überschreiten, kann dies zu erhöhten Kosten führen.&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Top up now and save 50%.&lt;/U>&lt;/font>"</string>
+  <string name="traffic_over_purchase_link">"Sie haben Ihr mobiles Datenlimit überschritten.&lt;br/&gt;Wenn Sie das Datenlimit überschreiten, kann dies zu erhöhten Kosten führen.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Top up now and save 50%.&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_over_purchase_title">Datenlimit überschritten</string>
   <string name="traffic_protection_data_usage_summary">Einstellen einer Datenverbrauchswarnung, um Ihr monatliches Limit nicht zu überschreiten.</string>
   <string name="traffic_protection_label">Datenverbrauchswarnung</string>
   <string name="traffic_protection_next">Weiter</string>
   <string name="traffic_protection_summary">Alarm wenn der Datenverbrauch eine bestimmte Grenze überschreitet</string>
   <string name="traffic_protection_text_hint">Datenlimit für %s einstellen</string>
-  <string name="traffic_protection_unknown"><u>Später einstellen</u></string>
+  <string name="traffic_protection_unknown">&lt;u&gt;Sp&amp;#228;ter einstellen&lt;/u&gt;</string>
   <string name="traffic_protection_use_data">Datenverbindung aktiviert</string>
   <string name="traffic_purchase_body">Antippen, um Ihr Guthaben aufzuladen.</string>
   <string name="traffic_purchse_suggestion">Datenlimit überschritten</string>
@@ -533,8 +532,8 @@ Der verbleibende Datenverbauch beinhalten auch jenen Verbrauch, welcher in dem l
   <string name="traffic_saving_history_total_money_unit">RMB</string>
   <string name="traffic_saving_history_total_month">"Diesen Monat gespart: "</string>
   <string name="traffic_saving_history_total_month_default">Durchschnittliche Ersparnis pro Monat</string>
-  <string name="traffic_saving_history_total_month_value">"&lt;font color='#45c487'>&lt;b>&lt;big>%1$s&lt;/big>&lt;/b>&lt;/font> Lieder hören / Chaten für &lt;font color='#45c487'>&lt;b>&lt;big>%2$s&lt;/big>&lt;/b>&lt;/font> Stunden / &lt;font color='#45c487'>&lt;b>&lt;big>%3$s&lt;/big>&lt;/b>&lt;/font> Artikel lesen"</string>
-  <string name="traffic_saving_history_total_month_value_default">"&lt;font color='#45c487'>&lt;b>&lt;big>%1$s&lt;/big>&lt;/b>&lt;/font> Lieder hören / Chaten für &lt;font color='#45c487'>&lt;b>&lt;big>%2$s&lt;/big>&lt;/b>&lt;/font> Stunden / &lt;font color='#45c487'>&lt;b>&lt;big>%3$s&lt;/big>&lt;/b>&lt;/font> Artikel lesen"</string>
+  <string name="traffic_saving_history_total_month_value">"&lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Lieder hören / Chaten für &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Stunden / &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Artikel lesen"</string>
+  <string name="traffic_saving_history_total_month_value_default">"&lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Lieder hören / Chaten für &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Stunden / &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Artikel lesen"</string>
   <string name="traffic_saving_history_total_rate">Tarif</string>
   <string name="traffic_saving_history_total_rate_unit">%</string>
   <string name="traffic_saving_history_total_traffic">Daten reduziert</string>
@@ -584,6 +583,7 @@ Der verbleibende Datenverbauch beinhalten auch jenen Verbrauch, welcher in dem l
   <string name="traffic_setting_fragment_button1_text">Abbrechen</string>
   <string name="traffic_setting_fragment_button2_text">Speichern</string>
   <string name="traffic_setting_fragment_get_template_falure">"Kann nicht zum Netzwerk verbinden. Überprüfe die Verbindung und versuche es erneut."</string>
+  <string name="traffic_setting_fragment_loacation_alert_nomore">"Nicht mehr anzeigen"</string>
   <string name="traffic_setting_fragment_loading_text">Fordere Netzwerkinformationen an…</string>
   <string name="traffic_setting_fragment_no_network">"Kann nicht zum Netzwerk verbunden werden"</string>
   <string name="traffic_setting_fragment_null">Leer</string>

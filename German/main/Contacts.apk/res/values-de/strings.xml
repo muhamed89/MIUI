@@ -1,26 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="miprofile_nick_name_divider">"  |  "</string>
-  <string name="miprofile_nick_name_edit_dialog_hint">Spitzname eingeben, wie zhangsan</string>
-  <string name="miprofile_nick_name_edit_dialog_message">Spitzname wird in calllog und Detail anzeigen</string>
-  <string name="miprofile_nick_name_edit_dialog_title">Spitznamen bearbeiten</string>
-  <string name="phone_number_too_long_toast">Nummer ist zu lang</string>
-  <string name="exporting_contact_list_progress" formatted="false">%s von %s Kontakten</string>
-  <string name="fail_reason_could_not_open_file" formatted="false">"Konnte nicht geöffnet werden \"%s\": %s"</string>
-  <string name="importing_vcard_finished_title">Fertige vCard importieren %s</string>
-  <string name="more_call_logs">Detaillierte Anrufliste anzeigen auf i.mi.com</string>
   <string name="accessibility_calllog_detail">Anruflistendetails</string>
   <string name="account_container_title">Importiert von</string>
   <string name="account_default">Telefon</string>
-  <string name="menu_dialpad_text">Tastenfeld</string>
   <string name="account_phone">Telefon nicht synchronisiert</string>
   <string name="account_sim">SIM-Karte</string>
-  <string name="menu_newContact">Neuer Kontakt</string>
   <string name="account_sim2">SIM-Karte %d</string>
-  <string name="launcherDialer">Telefon</string>
-  <string name="people">Kontakte</string>
-  <string name="contactsList">Kontakte</string>
-  <string name="shortcutContact">Kontakte</string>
   <string name="account_type_format">%1$s Kontakt</string>
   <string name="actionIncomingCall">Eingehende Anrufe</string>
   <string name="action_menu_overflow_description">Weitere Optionen</string>
@@ -248,6 +233,7 @@ Kontaktkarten sind ausgeschaltet.</string>
   <string name="contactsFavoritesLabel">Favoriten</string>
   <string name="contactsGroupsLabel">Gruppen</string>
   <string name="contactsJoinedMessage">Kontakte zusammengeführt</string>
+  <string name="contactsList">Kontakte</string>
   <string name="contacts_in_call_show">"%s's Video"</string>
   <string name="contacts_unavailable_add_account">Mit einem Konto anmelden</string>
   <string name="contacts_unavailable_create_contact">Neuen Kontakt erstellen</string>
@@ -361,7 +347,7 @@ Kontaktkarten sind ausgeschaltet.</string>
   <string name="dialog_phone_call_prohibited_message">Anrufe sind nicht erlaubt</string>
   <string name="dialog_sync_add">Synchronisationsgruppe hinzufügen</string>
   <string name="dialog_voicemail_airplane_mode_message">Um die Mailbox abzurufen, schalten Sie den Flugmodus aus</string>
-  <string name="dialog_voicemail_not_ready_message">Zum Einrichten der Mailbox gehen Sie in das Menü > Einstellungen</string>
+  <string name="dialog_voicemail_not_ready_message">Zum Einrichten der Mailbox gehen Sie in das Menü &gt; Einstellungen</string>
   <string name="directory_search_label">Verzeichnis</string>
   <string name="display_all_contacts">Alle Kontakte</string>
   <string name="display_more_groups">Weitere Gruppen…</string>
@@ -407,11 +393,13 @@ Kontaktkarten sind ausgeschaltet.</string>
 Grund: \"%s\"."</string>
   <string name="exporting_contact_failed_title">Export nicht möglich</string>
   <string name="exporting_contact_list_message">Ihre Kontaktdaten werden nach \"%s\" exportiert</string>
+  <string name="exporting_contact_list_progress" formatted="false">%s von %s Kontakten</string>
   <string name="exporting_contact_list_title">Kontaktdaten werden exportiert</string>
   <string name="exporting_vcard_canceled_title">Export von %s abgebrochen</string>
   <string name="exporting_vcard_finished_title">Export von %s abgeschlossen</string>
   <string name="external_profile_title">Mein %1$s Mi Profil</string>
   <string name="fail_reason_could_not_initialize_exporter">Exportierer konnte nicht gestartet werden: \"%s\"</string>
+  <string name="fail_reason_could_not_open_file" formatted="false">"Konnte nicht geöffnet werden \"%s\": %s"</string>
   <string name="fail_reason_error_occurred_during_export">Fehler beim Exportieren: \"%s\"</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">Meta-Informationen der vCard Datei(en) konnten nicht gelesen werden</string>
   <string name="fail_reason_failed_to_read_files">Eine oder mehrere Dateien konnten nicht importiert werden (%s)</string>
@@ -502,6 +490,7 @@ Grund: \"%s\"."</string>
   <string name="importing_sim_contacts_miui_prepare">Kontakte werden vorbereitet…</string>
   <string name="importing_vcard_canceled_title">Import von %s abgebrochen</string>
   <string name="importing_vcard_description">Importiere %s</string>
+  <string name="importing_vcard_finished_title">Fertige vCard importieren %s</string>
   <string name="in_call_show">Video</string>
   <string name="in_call_show_camera_open_error">Fehler bei dem Öffnen der Kamera. Versuchen Sie es erneut.</string>
   <string name="in_call_show_delete_message">Dieses Video löschen?</string>
@@ -543,6 +532,7 @@ Grund: \"%s\"."</string>
   <string name="label_no_duplicate_contacts">Keine Duplikate gefunden</string>
   <string name="label_notes">Notizen</string>
   <string name="label_sip_address">VOIP Anruf</string>
+  <string name="launcherDialer">Telefon</string>
   <string name="listCustomView">Kontakte aus eigener Auswahl</string>
   <string name="listFoundAllContactsZero">Keine Kontakte</string>
   <string name="listSingleContact">Einzelner Kontakt</string>
@@ -596,6 +586,7 @@ Grund: \"%s\"."</string>
   <string name="menu_deleteContact">Löschen</string>
   <string name="menu_deleteGroup">Löschen</string>
   <string name="menu_dial_ip_number">IP-Anruf wählen</string>
+  <string name="menu_dialpad_text">Tastenfeld</string>
   <string name="menu_discard">Verwerfen</string>
   <string name="menu_display_all">Alle anzeigen</string>
   <string name="menu_display_selected">Ausgewählte anzeigen</string>
@@ -607,6 +598,7 @@ Grund: \"%s\"."</string>
   <string name="menu_help">Hilfe</string>
   <string name="menu_import_export">Importieren/Exportieren</string>
   <string name="menu_joinAggregate">Zusammenführen</string>
+  <string name="menu_newContact">Neuer Kontakt</string>
   <string name="menu_new_contact_action_bar">Neu</string>
   <string name="menu_new_favorite_action_bar">Zu Favoriten hinzufügen</string>
   <string name="menu_new_group_action_bar">Neu</string>
@@ -641,7 +633,6 @@ Grund: \"%s\"."</string>
   <string name="miprofile_error_not_opened">Kontaktkarten ausschalten</string>
   <string name="miprofile_error_not_set">Ihre Kontaktkarte wurde nicht mit dem Server synchronisiert</string>
   <string name="miprofile_error_unknown">Unbekannter Fehler</string>
-  <string name="miprofile_name">Mein Profil</string>
   <string name="miprofile_find_miprofile_title">Profil hinzufügen</string>
   <string name="miprofile_find_profile_batch_add">Alle Profil hinzufügen</string>
   <string name="miprofile_find_profile_batch_finish">Fertig</string>
@@ -650,6 +641,11 @@ Grund: \"%s\"."</string>
   <string name="miprofile_find_profile_no_recommend">Kein Profil empfehlen</string>
   <string name="miprofile_find_profile_subtitle">Um Fotos und andere Informationen finden Sie unter Hinzufügen</string>
   <string name="miprofile_finding_label">Hier finden Sie Kontaktkarten</string>
+  <string name="miprofile_name">Mein Profil</string>
+  <string name="miprofile_nick_name_divider">"  |  "</string>
+  <string name="miprofile_nick_name_edit_dialog_hint">Spitzname eingeben, wie zhangsan</string>
+  <string name="miprofile_nick_name_edit_dialog_message">Spitzname wird in calllog und Detail anzeigen</string>
+  <string name="miprofile_nick_name_edit_dialog_title">Spitznamen bearbeiten</string>
   <string name="miprofile_notice_text">Tippen, um das Profilfoto anzuzeigen</string>
   <string name="miprofile_request_agenda_date">%1$s möchte die Kontaktkarten austauschen</string>
   <string name="miprofile_request_agenda_today">%1$s möchte die Kontaktkarten austauschen</string>
@@ -677,6 +673,7 @@ Grund: \"%s\"."</string>
   <string name="miprofile_switch_on_alertdialog_positive">Anschalten</string>
   <string name="miprofile_switch_on_alertdialog_title">Profilfoto Update</string>
   <string name="missing_name">(Kein Name)</string>
+  <string name="more_call_logs">Detaillierte Anrufliste anzeigen auf i.mi.com</string>
   <string name="move_and_resize">Verschieben und Skalieren</string>
   <string name="multi_number_menu_call">Anruf</string>
   <string name="multi_number_menu_delete">Löschen</string>
@@ -810,11 +807,13 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="other_contacts">Andere Kontakte</string>
   <string name="other_phone">Andere Telefone</string>
   <string name="payphone">Telefonzelle</string>
+  <string name="people">Kontakte</string>
   <string name="percent_sign">%</string>
   <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Telefon</string>
   <string name="phone_call_type_voip">Mi Voice</string>
   <string name="phone_info_divider">" ｜ "</string>
+  <string name="phone_number_too_long_toast">Nummer ist zu lang</string>
   <string name="phone_primary">Primär</string>
   <string name="photoPickerNotFoundText">Auf dem Telefon sind keine Bilder verfügbar</string>
   <string name="photo_fragment">Foto</string>
@@ -976,6 +975,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="share_via">Senden mittels</string>
   <string name="share_visible_contacts">Kontakte teilen</string>
   <string name="shortcutActivityTitle">Kontaktverknüpfung auswählen</string>
+  <string name="shortcutContact">Kontakte</string>
   <string name="shortcutDialContact">Direktwahl</string>
   <string name="shortcutMessageContact">Direktnachricht</string>
   <string name="showAllContactsJoinItem">Alle Kontakte anzeigen</string>

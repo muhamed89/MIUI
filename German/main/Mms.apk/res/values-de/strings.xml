@@ -1,10 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="card_insert_to_contact">Kontakte Importieren</string>
-  <string name="found_wild_messages_guide_sync_not_started">Synchronisierung hat noch nicht begonnen</string>
-  <string name="wild_msg_processing">Verarbeitung…</string>
-  <string name="wild_msg_title">Aktivieren Sie die Synchronisierung von Cloud</string>
-  <string name="select_message_send_sim">SIM-Karte wählen</string>
   <string name="action_firewall_setting">Sperrliste</string>
   <string name="activity_not_found">Anhang konnte nicht geöffnet werden</string>
   <string name="activity_not_found_uri">Keine Anwendung zum Öffnen der Datei gefunden</string>
@@ -59,12 +54,13 @@
   <string name="cannot_resend_audio">Aufnahme konnte nicht gesendet werden</string>
   <string name="cannot_send_message">Nachricht kann nicht gesendet werden</string>
   <string name="cannot_send_message_reason">Ihre Nachricht hat keinen gültigen Empfänger</string>
+  <string name="card_insert_to_contact">Kontakte Importieren</string>
   <string name="change_duration_activity">Dauer ändern</string>
   <string name="check_all">Alle</string>
   <string name="chenghu_disable_mms">Spitznamen können in MMS nicht verwendet werden</string>
   <string name="class_0_message_activity">Klasse 0 Nachricht</string>
   <string name="close">Schließen</string>
- <string name="cloud_recommend_msg">Berühren, um Nachrichten mit Mi Cloud zu synchronisieren</string>
+  <string name="cloud_recommend_msg">Berühren, um Nachrichten mit Mi Cloud zu synchronisieren</string>
   <string name="cloud_state_disabled">Synchronisation mit Mi Cloud ist ausgeschalten</string>
   <string name="cloud_state_sync_finished">Mit Mi Cloud synbchronisiert</string>
   <string name="cloud_state_syncing">Synchronisiere mit Mi Cloud…</string>
@@ -153,8 +149,8 @@
   <string name="error_timed_msg">Ungültige Uhrzeit</string>
   <string name="ex_type_mx">Mi Nachrichten</string>
   <string name="ex_type_sms">SMS/MMS</string>
-  <string name="exceed_message_size_limitation_add_slide">Nachrichtengröße reicht nicht, um Folie hinzuzufügen</string>
   <string name="exceed_message_size_limitation">Maximale Nachrichtengröße erreicht</string>
+  <string name="exceed_message_size_limitation_add_slide">Nachrichtengröße reicht nicht, um Folie hinzuzufügen</string>
   <string name="exceed_message_text_limitation">Maximale Textlänge erreicht</string>
   <string name="expire_on">Ablaufdatum: %s</string>
   <string name="exporting_progress_private_message">Exportiere…</string>
@@ -183,6 +179,7 @@
   <string name="found_old_messages_title">Cloud-Nachrichten von Ihren anderen SIM-Karten hochladen?</string>
   <string name="found_wild_messages">Cloud-Nachrichten von Ihren anderen SIM-Karten runterladen?</string>
   <string name="found_wild_messages_guide_settings_desc">Nachrichten mit der Mi Cloud sychronisieren in den Nachrichten Einstellungen</string>
+  <string name="found_wild_messages_guide_sync_not_started">Synchronisierung hat noch nicht begonnen</string>
   <string name="found_wild_messages_title">Synchronisation mit Mi Cloud</string>
   <string name="from_label">"Von: "</string>
   <string name="group_message">Gruppennachricht</string>
@@ -313,7 +310,7 @@
   <string name="mx_enable_ex">Mi Nachrichten &amp; Sprache</string>
   <string name="mx_enable_popup_msg">Senden Sie kostenlos Nachrichten mit anderen Nutzern, die ebenfalls diesen Dienst verwenden</string>
   <string name="mx_filter_message_from_stranger">Mi Nachrichten von unbekannten Nummern blockieren</string>
-  <string name="mx_filter_message_from_stranger_dialog_desc">"Sie können nach wie vor gewöhnliche SMS von unbekannten Nummern empfangen. Sie können diese Funktion jederzeit unter Nachrichten > Einstellungen deaktivieren."</string>
+  <string name="mx_filter_message_from_stranger_dialog_desc">"Sie können nach wie vor gewöhnliche SMS von unbekannten Nummern empfangen. Sie können diese Funktion jederzeit unter Nachrichten &gt; Einstellungen deaktivieren."</string>
   <string name="mx_filter_message_from_stranger_dialog_title">Mi Nachrichten von unbekannten Nummern blockieren</string>
   <string name="mx_filter_message_from_stranger_summary">"Sie können nach wie vor gewöhnliche SMS von unbekannten Nummern empfangen"</string>
   <string name="mx_msg">Mi Nachrichten</string>
@@ -482,6 +479,7 @@
   <string name="select_link_title">Aktion auswählen</string>
   <string name="select_local_audio">Audio auswählen</string>
   <string name="select_local_video">Video auswählen</string>
+  <string name="select_message_send_sim">SIM-Karte wählen</string>
   <string name="select_recipient">Empfänger auswählen</string>
   <string name="select_top_text">Text oben</string>
   <string name="send">Senden</string>
@@ -613,6 +611,8 @@ Bisherige Versuche: %s."</string>
   <string name="voip_enable_popup_msg2">Datenschutzrichtlinien</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="warning_show">Senden in %ds</string>
+  <string name="wild_msg_processing">Verarbeitung…</string>
+  <string name="wild_msg_title">Aktivieren Sie die Synchronisierung von Cloud</string>
   <string name="xiaomi_service_number">Servicenummer</string>
   <string name="yes">OK</string>
 </resources>

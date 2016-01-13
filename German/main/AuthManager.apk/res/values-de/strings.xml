@@ -239,7 +239,7 @@ Um Root-Zugriff zu erhalten müssen Sie die Entwickler-Version von MIUI installi
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Gewähren Sie Anwendungen Root-Zugriff auf Ihr eigenes Risiko.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6">%1$s Root-Zugriff gewähren?</string>
   <string name="HIPS_SecurityPrompt_Reject">Verweigern (%d)</string>
-  <string name="HIPS_SecurityPrompt_Reject_Once">Einmal verweigern (%d)</string>  
+  <string name="HIPS_SecurityPrompt_Reject_Once">Einmal verweigern (%d)</string>
   <string name="HIPS_SecurityPrompt_Remember">Nicht erneut fragen</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s versucht %2$s zu erhalten</string>
   <string name="Privacy_AppPerm_Count">%1$d Berechtigungen</string>

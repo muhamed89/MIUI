@@ -1,38 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="conference_call_single_description" formatted="false">%s etc. | Gesamt %s</string>
-  <string name="card_title_video_call">Video Anruf</string>
-  <string name="livetalk_dial">Aufladen</string>
-  <string name="livetalk_left_minute">%sm übrig</string>
-  <string name="notification_incoming_video_call">Ankommender Video Anruf</string>
-  <string name="picking_participant">Kontaktinfo erhalten…</string>
-  <string name="video_call_not_allowed_if_tty_enabled">Als erstes TTY Modus abschalten</string>
-  <string name="video_switch_to_voice_call_prompt">Wechsle zu Sprach Telefonie</string>
-  <string name="voicemail">Sprach Nachricht</string>
-  <string name="card_title_incoming_conference_call">Eingehende Konferenz</string>
-  <string name="card_title_upgrade_video_call_error">Video konnte nicht aktualisiert werden</string>
-  <string name="card_title_upgrade_video_call_rejected_by_remote">Video konnte nicht aktualisiert werden</string>
-  <string name="card_title_upgrade_video_call_requesting">Videoabfrage</string>
-  <string name="card_title_upgrade_video_call_timed_out">Video konnte nicht aktualisiert werden</string>
-  <string name="card_title_video_call_paused">Video wurde angehalten</string>
-  <string name="conference_caller_info_name">Konferenz %1$s</string>
-  <string name="conference_caller_name_me">Ich</string>
-  <string name="incoming_answer_voice_text">Mit Sprache antworten</string>
-  <string name="onscreen_change_to_video">Video</string>
-  <string name="onscreen_change_to_voice">Sprache</string>
-  <string name="onscreen_close_preview_camera">Kamera schließen</string>
-  <string name="onscreen_rcs_text">Nachricht</string>
-  <string name="onscreen_switch_camera">Kamera wechseln</string>
   <string name="accept_modify_call_request_prompt">Modifizierten Anruf annehmen?</string>
   <string name="add_vm_number_str">Nummer hinzufügen</string>
   <string name="antispam_marked_count">Gemeldet von %1$d MIUI users</string>
   <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Unbekannte Nummer</string>
   <string name="antispam_provider">Identifiziert von %s</string>
-  <string name="description_image_button_dialpad">Tastenfeld</string>
-  <string name="jeejen_toggle_dialpad_text">Tastenfeld</string>
-  <string name="notification_missedCallsMsg">%s entgangene Anrufe</string>
-  <string name="notification_missedCallsTitle">Entgangene Anrufe</string>
   <string name="callFailed_cb_enabled">Sie können keine Anrufe tätigen, wenn die Anrufsperre aktiviert ist.</string>
   <string name="callFailed_congestion">Netzwerk ausgelastet</string>
   <string name="callFailed_dialToDial">DIAL-Anfrage modifiziert, um DIAL mit einer anderen Nummer zu nutzen.</string>
@@ -59,7 +32,7 @@
   <string name="callUnanswered_forwarded">Anruf unbeantwortet und weitergeleitet</string>
   <string name="call_description_recording">Aufnahme…</string>
   <string name="call_extension_conference_mode">Konferenz-Modus</string>
- <string name="call_record_button_label">Aufnahme %s</string>
+  <string name="call_record_button_label">Aufnahme %s</string>
   <string name="call_record_wait_label">Warte</string>
   <string name="call_recording_error_low_storage">Nicht genügend Speicher: SD-Karte ist voll</string>
   <string name="call_recording_error_privacy">"Im Gastmodus kann nicht aufgenommen werden"</string>
@@ -84,13 +57,24 @@
   <string name="card_title_in_call">Im Gespräch</string>
   <string name="card_title_in_call_short">Im Gespräch</string>
   <string name="card_title_incoming_call">Eingehender Anruf</string>
+  <string name="card_title_incoming_conference_call">Eingehende Konferenz</string>
   <string name="card_title_on_hold">Gehaltener Anruf</string>
   <string name="card_title_threeway_call">3er Telefonkonferenz</string>
+  <string name="card_title_upgrade_video_call_error">Video konnte nicht aktualisiert werden</string>
+  <string name="card_title_upgrade_video_call_rejected_by_remote">Video konnte nicht aktualisiert werden</string>
+  <string name="card_title_upgrade_video_call_requesting">Videoabfrage</string>
+  <string name="card_title_upgrade_video_call_timed_out">Video konnte nicht aktualisiert werden</string>
+  <string name="card_title_video_call">Video Anruf</string>
+  <string name="card_title_video_call_paused">Video wurde angehalten</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. total %s</string>
   <string name="conference_call_number">%s Leute</string>
+  <string name="conference_call_single_description" formatted="false">%s etc. | Gesamt %s</string>
+  <string name="conference_caller_info_name">Konferenz %1$s</string>
+  <string name="conference_caller_name_me">Ich</string>
   <string name="contactPhoto">Kontakt Foto</string>
   <string name="contacts_icon_label">Kontakte</string>
   <string name="description_image_button_answer">Wischen zum antworten</string>
+  <string name="description_image_button_dialpad">Tastenfeld</string>
   <string name="description_image_button_eight">Acht</string>
   <string name="description_image_button_five">Fünf</string>
   <string name="description_image_button_four">Vier</string>
@@ -122,6 +106,7 @@
   <string name="incall_error_supp_service_switch">Anruf kann nicht gewechselt werden.</string>
   <string name="incall_error_supp_service_transfer">Anruf kann nicht weitergeleitet werden.</string>
   <string name="incall_error_supp_service_unknown">Nicht unterstützter Dienst.</string>
+  <string name="incoming_answer_voice_text">Mit Sprache antworten</string>
   <string name="incoming_call_forwarded_title">Ankommenden Anruf weiterleiten</string>
   <string name="ivr_menu_dialing_msg">Weiterleiten…</string>
   <string name="ivr_menu_dialing_msg_no_mute">Übertragung zum ausgewähltem Dienst (Fehlermeldungen ignorieren)…</string>
@@ -130,6 +115,9 @@
   <string name="jeejen_answer_call_text">Anruf beantworten</string>
   <string name="jeejen_end_call_text">Anruf beenden</string>
   <string name="jeejen_reject_call_text">Anruf abweisen</string>
+  <string name="jeejen_toggle_dialpad_text">Tastenfeld</string>
+  <string name="livetalk_dial">Aufladen</string>
+  <string name="livetalk_left_minute">%sm übrig</string>
   <string name="livetalk_provider_info">Präsentiert von %s</string>
   <string name="livetalk_waiting">Warten…</string>
   <string name="manageConferenceLabel">Telefonkonferenz verwalten</string>
@@ -154,19 +142,22 @@
   <string name="notification_action_end_call">Auflegen</string>
   <string name="notification_dialing">Wählen</string>
   <string name="notification_incoming_call">Ankommender Anruf</string>
+  <string name="notification_incoming_video_call">Ankommender Video Anruf</string>
   <string name="notification_missedCallTicker">Entgangener Anruf von %s</string>
   <string name="notification_missedCallTitle">Entgangener Anruf</string>
   <string name="notification_missedCall_call_back">Zurückrufen</string>
   <string name="notification_missedCall_message">Nachricht</string>
+  <string name="notification_missedCallsMsg">%s entgangene Anrufe</string>
+  <string name="notification_missedCallsTitle">Entgangene Anrufe</string>
   <string name="notification_network_selection_text">Ausgewähltes Netzwerk (%s) nicht verfügbar</string>
   <string name="notification_network_selection_title">Aein Dienst</string>
+  <string name="notification_on_hold">Halten</string>
+  <string name="notification_ongoing_call">Ankommender Anruf</string>
+  <string name="notification_requesting_video_call">Eingehende Video Anfrage</string>
   <string name="notification_voicemail_no_vm_number">Nachricht von Unbekannt</string>
   <string name="notification_voicemail_text_format">%s anrufen</string>
   <string name="notification_voicemail_title">Neue Sprachnachricht</string>
   <string name="notification_voicemail_title_count">Neue Sprachnachricht (%d)</string>
-  <string name="notification_on_hold">Halten</string>
-  <string name="notification_ongoing_call">Ankommender Anruf</string>
-  <string name="notification_requesting_video_call">Eingehende Video Anfrage</string>
   <string name="ok">OK</string>
   <string name="online_check_provider_info">Identifiziert durch %s</string>
   <string name="online_check_provider_name_by_cmb">China Merchants Bank</string>
@@ -181,14 +172,20 @@
   <string name="onscreen_audio_mode_speaker">Lautsprecher</string>
   <string name="onscreen_audio_switch_mode">Audio wechseln</string>
   <string name="onscreen_call_record">Aufnahme</string>
+  <string name="onscreen_change_to_video">Video</string>
+  <string name="onscreen_change_to_voice">Sprache</string>
+  <string name="onscreen_close_preview_camera">Kamera schließen</string>
   <string name="onscreen_hold_text">Halten</string>
   <string name="onscreen_merge_calls_text">Anrufe zusammenführen</string>
   <string name="onscreen_mute_text">Stumm</string>
+  <string name="onscreen_rcs_text">Nachricht</string>
   <string name="onscreen_swap_calls_text">Swap</string>
+  <string name="onscreen_switch_camera">Kamera wechseln</string>
   <string name="pause_prompt_no">Nein</string>
   <string name="pause_prompt_yes">Ja</string>
   <string name="payphone">Payphone</string>
   <string name="phone_info_divider">" ｜ "</string>
+  <string name="picking_participant">Kontaktinfo erhalten…</string>
   <string name="private_num">Private Nummer</string>
   <string name="respond_via_sms_custom_message">Schreibe deine eigene...</string>
   <string name="select_voice_call_sim">Wähle SIM Karte</string>
@@ -198,7 +195,10 @@
   <string name="upgrade_vt_prompt">Möchten Sie den Anruf per Videoanruf weiterführen?</string>
   <string name="upgrade_vt_rx_prompt">Would you like to upgrade the call to video receive only call?</string>
   <string name="upgrade_vt_tx_prompt">Would you like to upgrade the call to video transmit only call?</string>
-    <string name="wait_prompt_str">"Folgende Töne senden?
+  <string name="video_call_not_allowed_if_tty_enabled">Als erstes TTY Modus abschalten</string>
+  <string name="video_switch_to_voice_call_prompt">Wechsle zu Sprach Telefonie</string>
+  <string name="voicemail">Sprach Nachricht</string>
+  <string name="wait_prompt_str">"Folgende Töne senden?
 "</string>
   <string name="waiting_close_airplane_mode">Einen Moment…</string>
 </resources>

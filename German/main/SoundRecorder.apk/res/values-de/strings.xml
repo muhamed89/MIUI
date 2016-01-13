@@ -1,12 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="cloud_record_open">Aufnahmen synchronisieren</string>
-  <string name="cloud_record_tip">Aufnahmen mit der MiCloud synchronisieren.</string>
-  <string name="cloud_status_full_dialog_cancel">Nicht jetzt</string>
-  <string name="cloud_status_full_dialog_msg">"Die Aufnahmen können nicht synchronisiert werden, weil Ihr Cloud-Speicher voll ist. Erweitern Sie Ihr Konto, um mehr Speicherplatz zu erhalten."</string>
-  <string name="cloud_status_full_dialog_ok">Erweitern</string>
-  <string name="cloud_status_full_dialog_title">Der MiCloud-Speicher ist voll</string>
-  <string name="record_download_msg">Aufnahmen können erst abgespielt werden nachdem sie vollständig runtergeladen sind.</string>
   <string name="alert_message_delete_record">Ausgewählte Aufnahme(n) löschen?</string>
   <string name="alert_message_delete_record_title">Lösche Aufnahme</string>
   <string name="app_name">Rekorder</string>
@@ -15,6 +8,12 @@
   <string name="button_start_now">Download</string>
   <string name="call_record">Anrufaufnahmen (%d)</string>
   <string name="cloud_record">Cloud-Aufnahme (%d)</string>
+  <string name="cloud_record_open">Aufnahmen synchronisieren</string>
+  <string name="cloud_record_tip">Aufnahmen mit der MiCloud synchronisieren.</string>
+  <string name="cloud_status_full_dialog_cancel">Nicht jetzt</string>
+  <string name="cloud_status_full_dialog_msg">"Die Aufnahmen können nicht synchronisiert werden, weil Ihr Cloud-Speicher voll ist. Erweitern Sie Ihr Konto, um mehr Speicherplatz zu erhalten."</string>
+  <string name="cloud_status_full_dialog_ok">Erweitern</string>
+  <string name="cloud_status_full_dialog_title">Der MiCloud-Speicher ist voll</string>
   <string name="data_connection_body">Download im mobilen Datennetzwerk kann erhöhte Kosten verursachen</string>
   <string name="data_connection_button_text">OK</string>
   <string name="data_connection_title">Tipp</string>
@@ -27,7 +26,7 @@
   <string name="duration_format_minute">%sm</string>
   <string name="duration_format_second">%ss</string>
   <string name="error_app_internal">Möglicherweise wird die Aufnahmesoftware von einer anderen App benutzt. Überprüfen und erneut versuchen.</string>
-  <string name="error_app_internal_title">Soundrekorder Fehler</string>   
+  <string name="error_app_internal_title">Soundrekorder Fehler</string>
   <string name="error_file_access">Die Datei existiert nicht oder ist beschädigt</string>
   <string name="error_filename_illegal_char">Dateiname enthält mindestens ein ungültiges Zeichen</string>
   <string name="error_filename_too_long">Dateiname zu lang</string>
@@ -63,6 +62,7 @@
   <string name="record_download_complete">Fertig</string>
   <string name="record_download_failed">Fehlgeschlagen</string>
   <string name="record_download_manager">Download-Manager</string>
+  <string name="record_download_msg">Aufnahmen können erst abgespielt werden nachdem sie vollständig runtergeladen sind.</string>
   <string name="record_download_msg_reload">Aufnahme nicht vorhanden</string>
   <string name="record_download_paused">Angehalten</string>
   <string name="record_download_pending">Anstehend</string>
@@ -77,7 +77,7 @@
   <string name="record_list_cloud_fm">Cloud-FM-Aufnahmen</string>
   <string name="record_list_fm">FM-Aufnahmen</string>
   <string name="record_name_hour">.</string>
-  <string name="record_name_minute" />
+  <string name="record_name_minute"/>
   <string name="record_picker_title">Aufnahme auswählen</string>
   <string name="record_quliaty_preference_title">Aufnahmequalität</string>
   <string name="record_saving">Aufnahme wird gespeichert…</string>
@@ -97,7 +97,7 @@
   <string name="sync_only_in_wifi">Synchronisation nur über WLAN</string>
   <string name="sync_only_in_wifi_summary">Wenn diese Funktion ausgeschaltet ist, verwendet der Rekorder Ihre Mobile Datenverbindung zum Hoch- und Runterladen der Aufnahmen</string>
   <string name="sync_records">Synchronisation mit Mi Cloud</string>
-  <string name="timer_format" formatted="false">%02d:%02d</string> 
+  <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="toast_file_is_downloading">Datei wird geladen</string>
   <string name="toast_max_record_time">%1$s kann Aufnehmen für %2$s</string>
   <string name="toast_uninstall_fileexplorer">Dateibrowser nicht installiert</string>

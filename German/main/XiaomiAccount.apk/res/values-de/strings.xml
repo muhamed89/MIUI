@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources>      
-  <string name="account_vip_achievements">Leistung</string>
+<resources>
   <string name="about_device_info">Geräteinfo anzeigen</string>
   <string name="access_denied">Zugang verweigert</string>
   <string name="access_token_expired_warning">Weibo Konto ist abgelaufen</string>
@@ -48,11 +47,12 @@
   <string name="account_user_using_facebook_avatar">Facebook-Profilfoto verwenden</string>
   <string name="account_user_using_qq_avatar">QQ-Profilfoto verwenden</string>
   <string name="account_user_using_weibo_avatar">SinaWeibo-Profilfoto verwenden</string>
+  <string name="account_vip_achievements">Leistung</string>
   <string name="account_vip_level">Konto</string>
   <string name="account_vip_task">Fortschritt</string>
   <string name="account_xiaomi_service">Dienste</string>
+  <string name="activate_email_notice">Aktivieren Sie Ihr Konto innerhalb von 24 Stunden</string>
   <string name="add_account">Konto hinzufügen</string>
-  <string name="activate_email_notice">Aktivieren Sie Ihr Konto innerhalb von 24 Stunden</string>  
   <string name="alert_title_remove_account">Konto entfernen?</string>
   <string name="app_name">Mi Konto</string>
   <string name="authorize_title">Genehmigung</string>
@@ -70,7 +70,7 @@
   <string name="button_cancel">Abbrechen</string>
   <string name="button_unbind">Abmelden</string>
   <string name="change_activate_email">E-Mail Adresse ändern</string>
-  <string name="change_email_address">E-Mail-Adresse ändern</string>  
+  <string name="change_email_address">E-Mail-Adresse ändern</string>
   <string name="change_password">Passwort ändern</string>
   <string name="change_phone_number">Telefonnummer ändern</string>
   <string name="checking_account">Passwort wird geprüft…</string>
@@ -122,7 +122,7 @@
   <string name="get_email_verifycode_exceed_limit">Es wurden zu viele Überprüfungscodes an diese E-Mail-Adresse versendet. Warten Sie 24 Stunden und versuchen es erneut.</string>
   <string name="get_phone_verifycode_exceed_limit">Es wurden zu viele Überprüfungscodes an diese Telefonnummer versendet. Warten Sie 24 Stunden und versuchen es erneut.</string>
   <string name="input_captcha_hint">Code eingeben</string>
-  <string name="input_email_address_notice">"Wir verwenden diese Adresse, um Ihr Konto zu überprüfen"</string>  
+  <string name="input_email_address_notice">"Wir verwenden diese Adresse, um Ihr Konto zu überprüfen"</string>
   <string name="input_password_hint">Passwort eingeben</string>
   <string name="input_vcode_hint">Bestätigungscode eingeben</string>
   <string name="just_a_second">Einen Moment…</string>
@@ -134,7 +134,7 @@
   <string name="login_instead_reg">Diese Nummer verwenden</string>
   <string name="login_instead_reg_with_email">Diese E-Mail verwenden</string>
   <string name="login_title">Bei Ihrem Mi Konto anmelden</string>
-  <string name="login_with_email_or_id"><u>Mit E-Mail-Adresse oder Mi Konto ID anmelden</u></string>
+  <string name="login_with_email_or_id">&lt;u&gt;Mit E-Mail-Adresse oder Mi Konto ID anmelden&lt;/u&gt;</string>
   <string name="logout_failed">"Abmeldung fehlgeschlagen"</string>
   <string name="mi_account_dspt_provision">"Mit einem Konto an der Mi Cloud, dem MIUI Themes Store und weiteren Mi-Diensten anmelden."</string>
   <string name="mi_account_identity_title">Überprüfen Sie Ihre Identität</string>
@@ -160,7 +160,7 @@
   <string name="no_response_retry">Keine Rückmeldung. Versuche es erneut.</string>
   <string name="no_sim_card">Keine SIM-Karte</string>
   <string name="nobind">Nicht verbunden</string>
-  <string name="other_devices">Weitere Geräte</string>  
+  <string name="other_devices">Weitere Geräte</string>
   <string name="passport_access_denied">Zugang verweigert</string>
   <string name="passport_account_hint_text">E-Mail oder Telefonnummer</string>
   <string name="passport_account_identity_title">Bestätigen Sie Ihre Identität</string>
@@ -176,7 +176,7 @@
   <string name="passport_btn_return">Zurück</string>
   <string name="passport_button_cancel">Abbrechen</string>
   <string name="passport_captcha">Code eingeben</string>
-  <string name="passport_change_account"><u>Konto wechseln</u></string>
+  <string name="passport_change_account">&lt;u&gt;Konto wechseln&lt;/u&gt;</string>
   <string name="passport_change_phone_number">Nummern wechseln</string>
   <string name="passport_checking_account">Passwort wird überprüft…</string>
   <string name="passport_checking_input">Eingabe wird überprüft…</string>
@@ -214,7 +214,7 @@
   <string name="passport_error_verify_code">Der eingegebene Code ist ungültig</string>
   <string name="passport_failed_to_send_activate_email">"ktivierungs-E-Mail konnte nicht gesendet werden</string>
   <string name="passport_find_password_on_web_msg">Besuchen Sie mi.com, um Ihr Passwort zurückzusetzen</string>
-  <string name="passport_forget_password"><u>Passwort vergessen</u></string>
+  <string name="passport_forget_password">&lt;u&gt;Passwort vergessen&lt;/u&gt;</string>
   <string name="passport_forget_password_no_underline">Passwort vergessen</string>
   <string name="passport_get_back_pwd">Kontopasswort abrufen</string>
   <string name="passport_get_verify_code">Code abrufen</string>
@@ -238,7 +238,7 @@
   <string name="passport_login_notice">Anmelden…</string>
   <string name="passport_login_short">Anmelden</string>
   <string name="passport_login_title">Mit Mi Konto anmelden</string>
-  <string name="passport_login_with_email_or_id"><u>Mit E-Mail-Adresse oder Mi Konto ID anmelden</u></string>
+  <string name="passport_login_with_email_or_id">&lt;u&gt;Mit E-Mail-Adresse oder Mi Konto ID anmelden&lt;/u&gt;</string>
   <string name="passport_next">Weiter</string>
   <string name="passport_notification_title">Fehler bei der Anmeldung für %1$s</string>
   <string name="passport_password">Passwort eingeben</string>
@@ -259,7 +259,7 @@
   <string name="passport_reg_success">Konto erstellt</string>
   <string name="passport_reg_success_summary">%1$s wurde mit dem Konto verknüpft. Sie können es verwenden um sich anzumelden oder Ihr Passwort zu ändern.</string>
   <string name="passport_reg_type_email">Konto über E-Mail erstellen</string>
-  <string name="passport_reg_type_other_ways"><u>Konto über andere Methode erstellen</u></string>
+  <string name="passport_reg_type_other_ways">&lt;u&gt;Konto &amp;#252;ber andere Methode erstellen&lt;/u&gt;</string>
   <string name="passport_reg_type_other_ways_title">Mi Konto erstellen</string>
   <string name="passport_reg_using_other_phone">Nutze alternative Telefonnummer</string>
   <string name="passport_reg_using_other_phone_number_prompt">Mit anderer Telefonnummer registrieren</string>
@@ -269,7 +269,7 @@
   <string name="passport_register">Konto erstellen</string>
   <string name="passport_register_account_goto_email">Sehen Sie in Ihr Postfach</string>
   <string name="passport_register_account_verified_confirm">Ihr Konto wurde bereits bestätigt</string>
-  <string name="passport_register_by_email"><u>Konto über E-Mail-Adresse erstellen</u></string>
+  <string name="passport_register_by_email">&lt;u&gt;Konto &amp;#252;ber E-Mail-Adresse erstellen&lt;/u&gt;</string>
   <string name="passport_register_restricted">Es sind zu viele Konten mit dieser Nummer verbunden. Versuchen Sie eine andere.</string>
   <string name="passport_register_restricted_title">Diese Telefonnummer kann ich nicht verwendet werden</string>
   <string name="passport_reject_recycle_account">Nein</string>
@@ -303,8 +303,8 @@
   <string name="passport_vcode_prompt_long">Füge den Bestätigungscode ein</string>
   <string name="passport_verification_failed">Bestätigung fehlgeschlagen</string>
   <string name="passport_verify">Bestätigen</string>
-  <string name="passport_welcome_skip_login"><u>Überspringen</u></string>
   <string name="passport_wait_for_sms_prompt">"Jetzt erstellen? Die Bestätigungsnachricht kann bis zu 10 Minuten verzögert eintreffen, wenn sich das Gerät außerhalb eines unterstützten Mobilfunknetzes befindet."</string>
+  <string name="passport_welcome_skip_login">&lt;u&gt;&amp;#220;berspringen&lt;/u&gt;</string>
   <string name="passport_wrong_captcha">Der eingegebene Code ist falsch</string>
   <string name="passport_wrong_password">Das Passwort ist falsch</string>
   <string name="passport_wrong_phone_number_format">Das Format der eingegebenen Mobilrufnummer ist ungültig</string>
@@ -321,7 +321,7 @@
   <string name="photoPickerNotFoundText">Keine Bilder verfügbar.</string>
   <string name="prev">Zurück</string>
   <string name="privacy_policy">Datenschutzerklärung</string>
-  <string name="provision_skip_login"><u>Überspringen</u></string>
+  <string name="provision_skip_login">&lt;u&gt;&amp;#220;berspringen&lt;/u&gt;</string>
   <string name="qq">QQ</string>
   <string name="quick_login_dialog_step2_title">2-Schritte Verifizierung</string>
   <string name="quick_login_dialog_title">Passwort verifizieren</string>
@@ -331,7 +331,7 @@
   <string name="reg_failed">"Konto kann nicht erstellt werden"</string>
   <string name="reging">Konto wird erstellt…</string>
   <string name="register">Mi Konto erstellen</string>
-  <string name="register_by_email"><u>E-Mail-Adresse verwenden um ein Mi Konto zu erstellen</u></string>
+  <string name="register_by_email">&lt;u&gt;E-Mail-Adresse verwenden um ein Mi Konto zu erstellen&lt;/u&gt;</string>
   <string name="relogin">Erneut anmelden</string>
   <string name="remove_account_notice">Was möchten Sie mit Ihren Nachrichten, Kontakten und anderen synchronisierten Daten in Ihrem Mi Konto anstellen?</string>
   <string name="remove_device_success_notice">Wenn Sie das Gerät von den vertrauten Geräten entfernst, müssen Sie den den Anmeldevorgang erneut durchlaufen um sich wieder anzumelden.</string>

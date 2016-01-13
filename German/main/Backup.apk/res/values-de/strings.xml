@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="trans_receiver_time_remained">"%s Übrig. Das Gerät muss aufgeladen sein. Schalten Sie nicht das Hotspot an. Halten Sie beide Geräte in der Nähe."</string>
-  <string name="trans_sender_time_remained">"%s Übrig. Das Gerät muss aufgeladen sein. Schalten Sie nicht das WLAN an. Halten Sie beide Geräte in der Nähe."</string>
   <string name="abort_backup_confirm">"Sicherung nicht abgeschlossen. Trotzdem abbrechen?"</string>
   <string name="account_contact_backup_info">Google, MiKonto und Kontaktdaten</string>
   <string name="account_login">Anmelden</string>
@@ -244,20 +242,20 @@
   <string name="trans_detail_category_files">Dateien</string>
   <string name="trans_detail_category_sysdata">Systemdaten</string>
   <string name="trans_detail_category_userdata">Apps</string>
-  <string name="trans_device_disconnected">">Gerät getrennt</string>
+  <string name="trans_device_disconnected">"&gt;Gerät getrennt</string>
   <string name="trans_generate_qr_code_failed">"QR Code konnte nicht erstellt werden"</string>
   <string name="trans_main_tutor">Kontakte, Anrufverlauf, Nachrichten, Bildschirmlayout, Apps, Einstellungen, usw. auf eine neues Gerät übertragen</string>
   <string name="trans_my_device">Mein Gerät</string>
   <string name="trans_one_key_migrate">Übertragung</string>
   <string name="trans_operate_new_phone_tips">"Scannen Sie den QR-Code mit dem neuem Gerät
-Gehen Sie zu Einstellungen > weitere Einstellungen > Transfer
+Gehen Sie zu Einstellungen &gt; weitere Einstellungen &gt; Transfer
  [Ich bin Empfänger] antippen, um QR Code zu erstellen"</string>
   <string name="trans_operate_old_phone_tips1">"Methode A
 1. Installieren Sie die Transfer App auf Ihrem alten Gerät
 2. Öffnen Sie die App und wählen Sie [Ich bin der Sender]
 3. Scannen Sie den QR-Code mit Ihrem alten Gerät"</string>
   <string name="trans_operate_old_phone_tips2">"Methode B
-Gehen Sie zu Einstellungen > weitere Einstellungen > Übertragen
+Gehen Sie zu Einstellungen &gt; weitere Einstellungen &gt; Übertragen
  [Ich bin Sender] antippen"</string>
   <string name="trans_progress_subdescript_br_receiver">Empfange %s</string>
   <string name="trans_progress_subdescript_br_sender">Sichere %s</string>
@@ -267,6 +265,7 @@ Gehen Sie zu Einstellungen > weitere Einstellungen > Übertragen
   <string name="trans_progress_subdescript_transingsd_sender">Sende Dateien…</string>
   <string name="trans_progress_subdescript_waiting">Warte auf Empfang von %s</string>
   <string name="trans_receiver">"Ich bin der Empfänger"</string>
+  <string name="trans_receiver_time_remained">"%s Übrig. Das Gerät muss aufgeladen sein. Schalten Sie nicht das Hotspot an. Halten Sie beide Geräte in der Nähe."</string>
   <string name="trans_receiving_completed">Daten empfangen</string>
   <string name="trans_restoring">Wiederherstellen…</string>
   <string name="trans_restoring_no_items">Elemente synchronisieren</string>
@@ -279,6 +278,7 @@ Gehen Sie zu Einstellungen > weitere Einstellungen > Übertragen
   <string name="trans_sender_searching">Nach neuen Geräten suchen</string>
   <string name="trans_sender_searching_ensurance">"Das alte Gerät muß eingeschaltet sein.
 Warte auf Verbindung mit dem alten Gerät…"</string>
+  <string name="trans_sender_time_remained">"%s Übrig. Das Gerät muss aufgeladen sein. Schalten Sie nicht das WLAN an. Halten Sie beide Geräte in der Nähe."</string>
   <string name="trans_sending_completed">Daten senden</string>
   <string name="trans_show_qr_code_tips">QR Code mit Ihrem alten Gerät scannen</string>
   <string name="trans_time_format_second">weniger als einer Minute</string>

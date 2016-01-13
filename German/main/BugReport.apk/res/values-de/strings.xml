@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="logo_title">Bug Report Center</string>
   <string name="action_cancel">Abbrechen</string>
   <string name="action_confirm">Auswählen</string>
   <string name="action_submit">Senden</string>
@@ -45,6 +44,7 @@
   <string name="err_type_xiaomi_service">Kundendienst</string>
   <string name="hot_problem">Häufige Fehler anzeigen</string>
   <string name="loading_apps">Erstelle Liste…</string>
+  <string name="logo_title">Bug Report Center</string>
   <string name="menu_copy">Kopieren</string>
   <string name="modem_tool_log">Modem-Logs aufnehmen</string>
   <string name="modem_tool_log_start">Start</string>

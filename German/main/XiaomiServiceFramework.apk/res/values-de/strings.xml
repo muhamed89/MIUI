@@ -53,7 +53,7 @@ Geben Sie die zugehörige Telefonnummer  ein, um %s zu reaktiviren"</string>
   <string name="activate_popup_desc_register_account_intl">Zum registrieren Ihres Mi-Kontos wird eine internationale SMS verschickt</string>
   <string name="activate_popup_desc_sim_card">Damit Funktionen wie %s verwendet werden können, wird eine SMS zum aktivieren Ihrer SIM-Karte verschickt (Tarif Ihres Mobilfunkanbieters)</string>
   <string name="activate_popup_desc_sim_card_downlink">Damit Funktionen wie %s verwendet werden können, geben Sie bitte die Nummer Ihrer SIM-Karte ein</string>
-  <string name="activate_popup_desc_voip_privacy">Datenschutzerklärung</string> 
+  <string name="activate_popup_desc_voip_privacy">Datenschutzerklärung</string>
   <string name="activate_popup_desc_voip_privacy_prefix">". VoIP wird unterstützt von Weihui. Zeige Weihui's "</string>
   <string name="activate_popup_title_all_gateway_failed_query_info">Nummer nicht gefunden</string>
   <string name="activate_popup_title_all_gateway_failed_send_sms">SMS konnte nicht gesendet werden</string>

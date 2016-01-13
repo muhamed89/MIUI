@@ -1,10 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="power_checker_recent_btn_title">Energie-Einstellung</string>
-  <string name="power_checker_recent_group_title">Vor kurzem</string>
-  <string name="power_checker_running_btn_title">Process unterbrechen</string>
-  <string name="power_checker_running_group_title">Ausführen</string>
-  <string name="power_checker_title">PowerChecker</string>
   <string name="action_bar_delete">Löschen</string>
   <string name="action_settings">Einstellungen</string>
   <string name="activity_title_poweranalyze">Akku testen</string>
@@ -66,12 +61,18 @@
   <string name="normal">Standardmodus</string>
   <string name="operation_create_group">Name</string>
   <string name="operation_create_group_message">Neuen Gruppennamen eingeben</string>
+  <string name="power_checker_recent_btn_title">Energie-Einstellung</string>
+  <string name="power_checker_recent_group_title">Vor kurzem</string>
+  <string name="power_checker_running_btn_title">Process unterbrechen</string>
+  <string name="power_checker_running_group_title">Ausführen</string>
+  <string name="power_checker_title">PowerChecker</string>
   <string name="power_chooser_user_define_title">Neuer Modus</string>
   <string name="power_config_alarm_sync_summary">Aufwachalarm im Hintergrund erlauben</string>
   <string name="power_config_alarm_sync_title">Aufwachalarm</string>
   <string name="power_config_app_background_title">Hintergrund</string>
   <string name="power_config_app_full_screen_title">Vollbild</string>
   <string name="power_config_app_launch_title">Vordergrund</string>
+  <string name="power_config_apps">Akkuverbrauchsreduzierung im Hintergrund</string>
   <string name="power_config_choose_apps">Apps auswählen</string>
   <string name="power_config_confirm_event_delete">Diese Konfiguration löschen?</string>
   <string name="power_config_cpu_freq_dialog_title">CPU Frequenz</string>
@@ -80,6 +81,10 @@
   <string name="power_config_cpu_mode_title">CPU Modus</string>
   <string name="power_config_data_connect_summary">Apps erlauben sich im Hintergrund mit dem Netzwerk zu verbinden</string>
   <string name="power_config_data_connect_title">Datenverbindung</string>
+  <string name="power_config_disable_description">Appaktivitäten im Hintergrund werden nicht eingeschränkt</string>
+  <string name="power_config_disable_title">Aus</string>
+  <string name="power_config_enhance_description">Aktivitäten aller Apps im Hintergrund werden wenn es möglich eingeschränkt</string>
+  <string name="power_config_enhance_title">Erweitert</string>
   <string name="power_config_event_delete">Löschen</string>
   <string name="power_config_idle_notification_summary">Nur die erste Benachrichtigung der App anzeigen</string>
   <string name="power_config_idle_notification_title">Nur die erste Benachrichtigung anzeigen</string>
@@ -89,11 +94,16 @@
   <string name="power_config_lcd_mode_title">LCD-Modus</string>
   <string name="power_config_location_summary">Gerätestandorterkennung erlauben</string>
   <string name="power_config_location_title">Standortzugriff</string>
+  <string name="power_config_mode_title">Akkuverbrauchoptionen</string>
+  <string name="power_config_normal_description">Zugriff im Hintergrund auf die Ortungsdienste und das Netzwerk wird eingeschränkt</string>
+  <string name="power_config_normal_title">Standard</string>
   <string name="power_config_phone_charging_title">Aufladen</string>
   <string name="power_config_phone_idle_title">Ruhemodus</string>
   <string name="power_config_select_apps_empty">Tippen, um Apps auszuwählen</string>
   <string name="power_config_select_apps_title">Apps</string>
   <string name="power_config_title">Einstellungen</string>
+  <string name="power_config_ultimate_description">Appaktivitäten im Hintergrund werden eingefroren</string>
+  <string name="power_config_ultimate_title">Ultimativ</string>
   <string name="power_configure_screen_brightness_enable">Bildschirmhelligkeit einstellen</string>
   <string name="power_customize_giveup_change">Änderungen verwerfen?</string>
   <string name="power_dialog_cancel">Abbrechen</string>
@@ -138,14 +148,4 @@
   <string name="still">Bild</string>
   <string name="ui">Standard</string>
   <string name="user_define_mode">Name</string>
-  <string name="power_config_apps">Akkuverbrauchsreduzierung im Hintergrund</string>
-  <string name="power_config_mode_title">Akkuverbrauchoptionen</string>
-  <string name="power_config_disable_title">Aus</string>
-  <string name="power_config_disable_description">Appaktivitäten im Hintergrund werden nicht eingeschränkt</string>
-  <string name="power_config_normal_title">Standard</string>
-  <string name="power_config_normal_description">Zugriff im Hintergrund auf die Ortungsdienste und das Netzwerk wird eingeschränkt</string>
-  <string name="power_config_enhance_title">Erweitert</string>
-  <string name="power_config_enhance_description">Aktivitäten aller Apps im Hintergrund werden wenn es möglich eingeschränkt</string>
-  <string name="power_config_ultimate_title">Ultimativ</string>
-  <string name="power_config_ultimate_description">Appaktivitäten im Hintergrund werden eingefroren</string>
 </resources>

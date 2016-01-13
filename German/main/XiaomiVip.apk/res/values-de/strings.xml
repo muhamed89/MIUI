@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-<string name="achieve_condition">Belohnt für:</string>
+  <string name="achieve_condition">Belohnt für:</string>
   <string name="achieved">VERDIENT</string>
   <string name="achieved_time">Verdient am %s</string>
   <string name="achievement_progress" formatted="false">Fortschritt: %d/%d</string>
@@ -82,8 +82,8 @@
   <string name="task_take_award">Nimm Preise mit</string>
   <string name="today_task">"Die heutige Herausforderung"</string>
   <string name="today_task_format" formatted="false">%d/%d</string>
-  <string name="unlimited_task">Spezielle Herausforderungen</string>
   <string name="unachieved">VERFÜGBAR</string>
+  <string name="unlimited_task">Spezielle Herausforderungen</string>
   <string name="upgraded">Konto aktualisiert!</string>
   <string name="use">Anwenden</string>
   <string name="use_immediately">Jetzt anwenden</string>

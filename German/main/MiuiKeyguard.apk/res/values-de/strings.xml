@@ -1,13 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="input_password_after_boot_msg">"Sie müssen das Kennwort eingeben, nachdem das Gerät neu gestartet wird"</string>
-  <string name="fingerprint_not_identified_msg">Um Ihr Gerät zu entsperren, geben Sie Ihr Passwort ein.</string>
-  <string name="fingerprint_not_identified_title">"Fingerabdruck konnte nicht erkannt werden"</string>
-  <string name="fingerprint_try_again_text">Erneut versuchen</string>
-  <string name="invalid_sim_pin_hint">Geben Sie eine PIN mit 4 bis 8 Zahlen ein</string>
-  <string name="invalid_sim_puk_hint">Der PUK Code sollte aus 8 Zahlen oder mehr bestehen</string>
-  <string name="lock_screen_date_12">EEEE, MMMM d</string>
-  <string name="set_lock_wallpaper_failed">Kein neues Hintergrundbild</string>
   <string name="click_to_enter_text">Zum Anzeigen antippen</string>
   <string name="confirm_pin_msg">PIN erneut eingeben</string>
   <string name="default_lockscreen_unlock_hint_text">Zum Entsperren nach oben wischen</string>
@@ -22,17 +14,24 @@
   <string name="experimental_validate_username">Benutzername</string>
   <string name="experimental_validate_warning">Danke, dass Sie uns helfen, MIUI zu verbessern!</string>
   <string name="find_device_turn_off_flight_mode">Flugmodus ausschalten</string>
+  <string name="fingerprint_not_identified_msg">Um Ihr Gerät zu entsperren, geben Sie Ihr Passwort ein.</string>
+  <string name="fingerprint_not_identified_title">"Fingerabdruck konnte nicht erkannt werden"</string>
+  <string name="fingerprint_try_again_text">Erneut versuchen</string>
   <string name="forget_password_string">Kennwort vergessen</string>
   <string name="incorrect_pincode">Falscher PIN code</string>
   <string name="incorrect_pincode_remaining_attempts">Falscher PIN Code, %d Versuche verbleibend</string>
   <string name="incorrect_pukcode">Falscher PUK Code</string>
   <string name="incorrect_pukcode_remaining_attempts">Falscher PUK Code, %d Versuche verbleibend</string>
+  <string name="input_password_after_boot_msg">"Sie müssen das Kennwort eingeben, nachdem das Gerät neu gestartet wird"</string>
   <string name="input_password_hint_text">Kennwort eingeben</string>
   <string name="input_pin_code">PIN eingeben</string>
   <string name="input_puk_code">PUK eingeben</string>
   <string name="invalid_confirm_pin_hint">PINs stimmen nicht überein</string>
+  <string name="invalid_sim_pin_hint">Geben Sie eine PIN mit 4 bis 8 Zahlen ein</string>
+  <string name="invalid_sim_puk_hint">Der PUK Code sollte aus 8 Zahlen oder mehr bestehen</string>
   <string name="keyguard_torch_cover_text">Halten Sie die Einschalttaste gedrückt, um die Lampe dauerhaft einzuschalten</string>
   <string name="lock_screen_date">EEEE, dd. MMMM</string>
+  <string name="lock_screen_date_12">EEEE, MMMM d</string>
   <string name="lockscreen_access_pattern_cell_added">Knoten hinzugefügt</string>
   <string name="lockscreen_access_pattern_cleared">Muster gelöscht</string>
   <string name="lockscreen_access_pattern_detected">Muster vollständig</string>
@@ -46,6 +45,7 @@
   <string name="lockscreen_glogin_password_hint">Kennwort</string>
   <string name="lockscreen_glogin_submit_button">Anmelden</string>
   <string name="login_website_in_case_forget_password">Besuchen Sie www.mi.com/micloud, um das Kennwort zurückzusetzen</string>
+  <string name="missed_call_text">%d entgangene Anrufe</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Mit Bluetooth Gerät entsperrt</string>
   <string name="notification_missedCallTicker">Entgangener Anruf von %s</string>
   <string name="notification_missedCallTitle">Entgangener Anruf</string>
@@ -65,6 +65,7 @@
   <string name="phone_locked_string">Gerät ist gesperrt</string>
   <string name="phone_locked_timeout_minutes_string">Nach %s Minuten erneut versuchen</string>
   <string name="phone_locked_timeout_seconds_string">Nach %s Sekunden erneut versuchen</string>
+  <string name="set_lock_wallpaper_failed">Kein neues Hintergrundbild</string>
   <string name="unlock_sim_string">OK</string>
   <string name="unlock_string">Entsperren</string>
   <string name="unlocking_sim_card">SIM-Karte wird entsperrt</string>
@@ -72,5 +73,4 @@
   <string name="unlockscreen_recharge_completed">Aufgeladen</string>
   <string name="unlockscreen_recharging_message">Wird geladen %d%%</string>
   <string name="wrong_password">Ungültiges Passwort</string>
-  <string name="missed_call_text">%d entgangene Anrufe</string>
 </resources>
