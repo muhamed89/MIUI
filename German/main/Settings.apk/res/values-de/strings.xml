@@ -690,7 +690,7 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="clear_user_data_text">Daten löschen</string>
   <string name="close_dialog">OK</string>
   <string name="close_miui_optimization_title">MIUI Optimierung abschalten</string>
-  <string name="close_miui_optimization_warning_message">Ihr Gerät wird neu starten um die Änderungen zu übernehmen. Anmerkung: Wenn diese Funktion ausgeschaltet wird, werden sehr große Änderungen in der Benutzeroberfläche auftreten.</string>
+  <string name="close_miui_optimization_warning_message">Ihr Gerät wird neu gestartet, um die Änderungen zu übernehmen. Hinweis: Wenn diese Funktion ausgeschaltet wird, werden sehr große Änderungen in der Benutzeroberfläche auftreten.</string>
   <string name="cloud_backup_section_title">Backup Mi Cloud</string>
   <string name="cloud_backup_settings_section_title">Sicherungseinstellungen</string>
   <string name="cloud_restore_section_summary">Wiederherstellung der Apps, Home-Screens und Systemeinstellungen</string>
@@ -1986,7 +1986,7 @@ Betriebssystem auswählen:"</string>
   <string name="only_when_charging">Nur während des Ladevorgangs</string>
   <string name="onscreen_keyboard_settings_summary">Einstellungen der Bildschirmtastatur</string>
   <string name="open_miui_optimization_title">MIUI Optimierung einschalten</string>
-  <string name="open_miui_optimization_warning_message">Ihr Gerät wird neu starten um die Änderungen zu übernehmen</string>
+  <string name="open_miui_optimization_warning_message">Ihr Gerät wird neu gestartet, um diese Änderungen zu übernehmen</string>
   <string name="open_wifi_connect_summary">Tippen um Details anzuzeigen.</string>
   <string name="open_wifi_connect_title">Verbinden mit %1$s</string>
   <string name="optimization_cancel">Abbrechen</string>
