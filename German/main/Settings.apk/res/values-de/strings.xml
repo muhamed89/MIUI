@@ -1892,8 +1892,8 @@ Betriebssystem auswählen:"</string>
   <string name="music_hifi_summary">Reduzieren Sie Rauschen und Verzerrungen und erhöhen Sie die Audioqualität</string>
   <string name="music_hifi_title">Hi-Fi Audio</string>
   <string name="music_hifi_volume">Hi-Fi Lautstärke</string>
-  <string name="music_mi_effect_summary">Mi Klangverstärker bei Lautsprecher verwenden</string>
-  <string name="music_mi_effect_title">Mi Klangverstärker</string>
+  <string name="music_mi_effect_summary">Mi Klangverbesserung bei Kopfhörer verwenden</string>
+  <string name="music_mi_effect_title">Mi Klangverbesserung</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
   <string name="musicfx_title">Musikeffekte</string>
   <string name="mvno_match_data">MVNO-Wert</string>
