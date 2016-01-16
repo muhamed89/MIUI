@@ -1242,7 +1242,7 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="firmware_version">Android-Version</string>
   <string name="floating_window_switch_label">Popup anzeigen</string>
   <string name="floating_window_switch_label_disable">Popup nicht anzeigen</string>
-  <string name="fluency_mode">Systemleistung optimieren</string>
+  <string name="fluency_mode">Systemanimationen</string>
   <string name="fluency_mode_confirm_and_reboot">Jetzt neu starten</string>
   <string name="font_size_exhuge">Extra Groß</string>
   <string name="font_size_huge">Sehr Groß</string>
@@ -2030,8 +2030,8 @@ Betriebssystem auswählen:"</string>
   <string name="page_layout_7">Spiele</string>
   <string name="page_layout_8">Mi Life</string>
   <string name="page_layout_9">Themen</string>
-  <string name="page_layout_confirm_message">Dein Gerät muß neu starten um die Änderungen zu übernehmen. Dies dauert 1 Minute.</string>
-  <string name="page_layout_confirm_title">Ändere Display Einstellungen</string>
+  <string name="page_layout_confirm_message">Um die Änderungen zu aktivieren muss das Telefon neu gestartet werden. Dieser Vorgang dauert ungefähr 1 Minute.</string>
+  <string name="page_layout_confirm_title">Bildschirmeinstellungen ändern</string>
   <string name="page_layout_godzilla_title">XXL</string>
   <string name="page_layout_huge_title">Extra Groß</string>
   <string name="page_layout_large_title">Groß</string>
@@ -2213,7 +2213,7 @@ Betriebssystem auswählen:"</string>
   <string name="progress_scanning">Suche läuft</string>
   <string name="provider_label">Push-Abos</string>
   <string name="provision_next">Weiter</string>
-  <string name="provision_page_layout_confirm_message">Ihr Gerät muss neugestartet werden, damit diese Änderungen übernommen werden. Dieser Vorgang dauert ca. 1 Minute.</string>
+  <string name="provision_page_layout_confirm_message">Um die Änderungen zu aktivieren muss das Telefon neu gestartet werden. Dieser Vorgang dauert ungefähr 1 Minute.</string>
   <string name="proxy_action_text">Fertig</string>
   <string name="proxy_clear_text">Löschen</string>
   <string name="proxy_defaultView_text">Standard wiederherstellen</string>
@@ -2415,26 +2415,26 @@ Diese Einstellung betrifft alle Nutzer auf diesem Telefon."</string>
   <string name="screen_on_proximity_sensor_title">Fehlbedienung verhindern</string>
   <string name="screen_optimize">Kontrast</string>
   <string name="screen_paper_mode_adjust_level">Stärke</string>
-  <string name="screen_paper_mode_apps_loading">Einen Augeblick…</string>
-  <string name="screen_paper_mode_apps_title">Lesemodus nutzen</string>
-  <string name="screen_paper_mode_global_summary">Lesemodus für alle Apps nutzen</string>
+  <string name="screen_paper_mode_apps_loading">Einen Moment…</string>
+  <string name="screen_paper_mode_apps_title">Lesemodus verwenden</string>
+  <string name="screen_paper_mode_global_summary">Lesemodus für alle Apps verwenden</string>
   <string name="screen_paper_mode_global_title">Alle Apps</string>
-  <string name="screen_paper_mode_local_summary">Lesemodus nur für ausgewählte Apps nutzen</string>
+  <string name="screen_paper_mode_local_summary">Lesemodus nur für ausgewählte Apps verwenden</string>
   <string name="screen_paper_mode_local_title">Ausgewählte Apps</string>
-  <string name="screen_paper_mode_off_apps_title">"Nutze nicht den Lesemodus"</string>
+  <string name="screen_paper_mode_off_apps_title">"Lesemodus nicht verwenden"</string>
   <string name="screen_paper_mode_range_title">Einstellungen</string>
   <string name="screen_paper_mode_set_apps_title">Lesemodus-Apps</string>
-  <string name="screen_paper_mode_summary">"Optimierte Darstellung zum Lesen von Texten"</string>
+  <string name="screen_paper_mode_summary">"Hintergrundblenden reduzieren"</string>
   <string name="screen_paper_mode_title">Lesemodus</string>
   <string name="screen_paper_mode_turn_off">Aus</string>
   <string name="screen_paper_mode_turn_on">An</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_again">"Nicht nochmal zeigen"</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Erlauben</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Um die App-Liste, die den Lesemodus nutzt, zu aktualisieren, müssen Sie mit dem Internet verbunden sein.</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_again">"Nicht mehr fragen"</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Zustimmen</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Um die App-Liste, die den Lesemodus verwenden können zu aktualsieren, müssen Sie mit dem Internet verbunden sein.</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Internetverbindung</string>
-  <string name="screen_paper_mode_update_white_pkg_list_summary">App-Liste, die automatisch den Lesemodus verwenden, aktualisieren</string>
+  <string name="screen_paper_mode_update_white_pkg_list_summary">Liste der Apps, die den Lesemodus verwenden können aktualisieren</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Automatisch aktualisieren</string>
-  <string name="screen_pinning_description">"Wenn eingeschaltet, können Sie Screen-Pinning nutzen, um den aktuellen Bildschirm im Blick zu behalten, bis Sie ihn entfernen.
+  <string name="screen_pinning_description">"Wenn eingeschaltet, können Sie Screen-Pinning verwenden, um den aktuellen Bildschirm im Blick zu behalten, bis Sie ihn entfernen.
 
 Um Screen-Pinning zu nutzen:
 
@@ -2455,7 +2455,7 @@ Um Screen-Pinning zu nutzen:
   <string name="screen_timeout_summary">Nach %1$s ohne Aktivität</string>
   <string name="screen_timeout_title">Bildschirm aus</string>
   <string name="screensaver_settings_button">Einstellungen</string>
-  <string name="screensaver_settings_disabled_prompt">Um festzulegen, was geschieht, wenn das Telefon angedockt oder im Ruhezustand ist, aktivieren Sie \"Daydream\".</string>
+  <string name="screensaver_settings_disabled_prompt">Um festzulegen, was geschieht, wenn das Gerät angedockt oder im Ruhezustand ist, aktivieren Sie \"Daydream\".</string>
   <string name="screensaver_settings_dream_start">Jetzt starten</string>
   <string name="screensaver_settings_summary_dock">Bei angedocktem Gerät</string>
   <string name="screensaver_settings_summary_either_long">Bei angedocktem Gerät oder im Ruhezustand beim Aufladen</string>
@@ -2694,7 +2694,7 @@ Verbleibende Versuche :"</string>
   <string name="sim_status_title">SIM Status</string>
   <string name="simulate_color_space">Farbraum simulieren</string>
   <string name="skip_label">Überspringen</string>
-  <string name="skip_lock_screen_confirm_msg">Benachrichtigungen, Musik-Player Steuerungen, Kamera und Mi Home wird am Sperrbildschirm deaktiviert.</string>
+  <string name="skip_lock_screen_confirm_msg">Benachrichtigungen, Musiksteuerung, Kamera werden im Sperrbildschirm deaktiviert.</string>
   <string name="skip_step">Diesen Schritt überspringen</string>
   <string name="slot_name">SIM %d</string>
   <string name="slot_status_title">IMEI Information</string>
