@@ -98,13 +98,13 @@ Hinweis: 3-fach-Tippen f&amp;#252;r Vergr&amp;#246;&amp;#223;erung funktioniert 
   <string name="add_fingerprint_finished_button_text">Fertig</string>
   <string name="add_fingerprint_instruction_dialog_msg">"Um Ihre Fingerabdruckdetails hinzuzufügen, legen Sie Ihren Finger auf dem Sensor.
 Stellen Sie sicher, dass Ihr Finger die Innenkante des Sensors bedeckt"</string>
-  <string name="add_fingerprint_instruction_msg">Entsperren Sie Ihr Gerät oder verifizieren Sie Zahlungen mit Ihrem Fingerabdruck</string>
-  <string name="add_fingerprint_instruction_title">Platzieren Sie Ihren Finger auf dem Sensor</string>
+  <string name="add_fingerprint_instruction_msg">Entsperren Sie Ihr Gerät oder bestätigen Sie Ihre Bezahlung mit Ihrem Fingerabdruck</string>
+  <string name="add_fingerprint_instruction_title">Legen Sie Ihren Finger auf dem Scanner</string>
   <string name="add_fingerprint_put_finger_edge_msg">Nach dem drücken des Sensor, entfernen Sie den Finger und versuchen es erneut.</string>
   <string name="add_fingerprint_put_finger_msg">Nach dem drücken des Sensor, entfernen Sie den Finger und versuchen es erneut.</string>
-  <string name="add_fingerprint_put_finger_title">Finger platzieren und wieder wegnehmen</string>
+  <string name="add_fingerprint_put_finger_title">Finger platzieren und entfernen</string>
   <string name="add_fingerprint_text">Fingerabdruck hinzufügen</string>
-  <string name="add_fingerprint_toast_text">Legen Sie Ihren Finger jetzt auf den Scanner</string>
+  <string name="add_fingerprint_toast_text">Legen Sie Ihren Finger jetzt auf dem Scanner</string>
   <string name="adding_profile_owner_warning">"Wenn Sie weiter vorgehen, wird Ihr User Konto von Ihrem Administrator verwaltet, der dann auch zugeordneten Daten neben Ihren persönlichen Daten speichern kann.
 
 Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu überwachen und verwalten, die mit diesem User Konto, einschließlich Netzwerkaktivität und Standortinformationen Ihres Geräts, verbunden sind."</string>
@@ -1235,7 +1235,7 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="fingerprint_and_password_entrance_title">Passwort &amp; Fingerabdruck</string>
   <string name="fingerprint_identificating_msg">Fingerabdruck wird gescannt…</string>
   <string name="fingerprint_identify_input_password_msg">Passwort eingeben</string>
-  <string name="fingerprint_identify_try_again_msg">"Scan fehlgeschlagen, nochmals versuchen?"</string>
+  <string name="fingerprint_identify_try_again_msg">"Scan fehlgeschlagen, versuchen Sie es erneut"</string>
   <string name="fingerprint_list_title">Fingerabdruck</string>
   <string name="finish_application">Beenden</string>
   <string name="finish_button_label">Fertigstellen</string>
@@ -1243,7 +1243,7 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="floating_window_switch_label">Popup anzeigen</string>
   <string name="floating_window_switch_label_disable">Popup nicht anzeigen</string>
   <string name="fluency_mode">Systemanimationen</string>
-  <string name="fluency_mode_confirm_and_reboot">Jetzt neu starten</string>
+  <string name="fluency_mode_confirm_and_reboot">Neustarten</string>
   <string name="font_size_exhuge">Extra Groß</string>
   <string name="font_size_huge">Sehr Groß</string>
   <string name="font_size_large">Groß</string>
