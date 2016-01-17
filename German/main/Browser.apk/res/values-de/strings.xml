@@ -72,7 +72,7 @@
   <string name="aqi_quality_index_pure">AQI %1$s</string>
   <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
   <string name="autologin_bar_error">"Anmeldung fehlgeschlagen"</string>
-  <string name="autologin_bar_hide_text">Verstecke</string>
+  <string name="autologin_bar_hide_text">Verwerfen</string>
   <string name="autologin_bar_login_text">Anmelden</string>
   <string name="autologin_bar_text">Anmelden als</string>
   <string name="back_button_label">Zurück</string>
