@@ -392,7 +392,7 @@ Diese Seite verlassen?"</string>
   <string name="nav_bottom_bar_back">Zurück</string>
   <string name="nav_bottom_bar_close_all">Alle schließen</string>
   <string name="nav_bottom_bar_new_tab">Neuer Tab</string>
-  <string name="nav_screen_container_tab_incognito">Incognito Tab</string>
+  <string name="nav_screen_container_tab_incognito">Privater Tab</string>
   <string name="nav_screen_container_tab_normal">Normaler Tab</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Mit diesem Netzwerk verbinden</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Offenes WLAN-Netzwerk verfügbar</string>
