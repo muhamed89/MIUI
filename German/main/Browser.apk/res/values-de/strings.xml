@@ -665,7 +665,7 @@ Diese Seite verlassen?"</string>
   <string name="url_find_on_page_result">In Browser betrachten</string>
   <string name="url_find_on_page_result_item">View all the text for \"%s\"</string>
   <string name="url_hint">Geben Sie eine Adresse ein oder durchsuchen Sie das Web</string>
-  <string name="url_hint_from_search">Suchnegriff eingeben</string>
+  <string name="url_hint_from_search">Suchbegriff eingeben</string>
   <string name="url_opened_in_background">Öffnen im Hintergrundregisterkarte.</string>
   <string name="url_suggest_indicator_bookmark">Lesezeichen/Verlauf</string>
   <string name="url_suggest_indicator_hoturl">Beliebt</string>
