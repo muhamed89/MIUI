@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="continue_update_negative_btn">Continue</string>
-  <string name="continue_update_positive_btn">Stop</string>
   <string name="about_device">Über das Telefon</string>
   <string name="active_xiaomi_account">Aktiv</string>
   <string name="active_xiaomi_account_msg">Um Ihren Mi Account zu aktivieren, bitte https://account.xiaomi.com/pass/serviceLogin aufrufen</string>
@@ -53,6 +51,8 @@
   <string name="confirm_local_package_wipe_btn">Löschen und aktualisieren</string>
   <string name="confirm_local_package_wipe_msg">Ihre persönlichen Daten werden debei gelöscht. Vergewissern Sie sich, dass sie alle wichtigen Daten gesichert haben, bevor Sie diesen Vorgang starten.</string>
   <string name="confirm_local_package_wipe_title">Daten löschen?</string>
+  <string name="continue_update_negative_btn">Weiter</string>
+  <string name="continue_update_positive_btn">Abbrechen</string>
   <string name="daily_build">Nightly</string>
   <string name="download_again">Erneut versuchen</string>
   <string name="download_cancel">Abbrechen</string>
