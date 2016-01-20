@@ -5,6 +5,7 @@
   <string name="change_time">Wechselintervall</string>
   <string name="day">jeden Tag</string>
   <string name="declaration">Aktuelles News, Promi-Trends, Videoinformationen, Lebensstil, für Sie in Echtzeit.</string>
+  <string name="declaration_lockscreen_title">Tägliche Hintergrundbilder aktivieren</string>
   <string name="declaration_title">Nutzungsbedingungen</string>
   <string name="hour_1">jede Stunde</string>
   <string name="hour_3">alle 3 Stunden</string>
@@ -14,7 +15,8 @@
   <string name="lockscreen_magazine_system_title">Standard</string>
   <string name="lockscreen_magazine_title">Hintergrundbilder festlegen</string>
   <string name="no_long_show">"Nicht nochmal anzeigen"</string>
-  <string name="ok">Zustimmen</string>
+  <string name="ok_lockscreen">OK</string>
+  <string name="ok_network">Zustimmen und tälgliche Hintergrundbilder aktivieren</string>>
   <string name="resource_apply">Anwenden</string>
   <string name="resource_no_network_text">"Keine Verbindung zum Netzwerk möglich."</string>
   <string name="setting_head">Einstellungen</string>

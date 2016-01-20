@@ -21,6 +21,7 @@
   <string name="app_category_tools">Tools</string>
   <string name="app_category_travel">Reisen</string>
   <string name="application_name">System-Launcher</string>
+  <string name="apply">Anwenden</string>
   <string name="apply_action">Anwenden</string>
   <string name="apply_as_lock_screen">Sperrbildschirm</string>
   <string name="apply_as_lock_wallpaper_message">Hintergrund auch auf dem Sperrbildschirm anwenden?</string>
@@ -142,6 +143,8 @@
   <string name="invalid_contact_shortcut">Ungültiger Kontakt</string>
   <string name="is_setting_wallpaper_message">Hintergrund wird eingerichtet…</string>
   <string name="is_system_wallpaper_message">Systemkomponenten können nicht gelöscht werden</string>
+  <string name="like">Gefällt mir</string>
+  <string name="liked">Hat mir gefallen</string>
   <string name="loading_desktop">Einen Moment…</string>
   <string name="loading_wallpaper">Einen Moment…</string>
   <string name="local_wallpaper">Runtergeladen</string>
@@ -206,7 +209,9 @@
   <string name="select_frame">Rahmen</string>
   <string name="select_photo">Foto</string>
   <string name="setting_wallpaper_tip">Verschieben oder skalieren</string>
+  <string name="settings">Einstellungen</string>
   <string name="settings_shortcut">Einstellungen</string>
+  <string name="share">Teilen</string>
   <string name="sharedUserId"/>
   <string name="show_all">Alle anzeigen</string>
   <string name="sort_by_abc">Nach Name sortieren</string>
