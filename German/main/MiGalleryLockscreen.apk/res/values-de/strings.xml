@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">gallery</string>
+  <string name="app_name">Gallerie</string>
   <string name="cancel">Beenden</string>
   <string name="change_time">Wechselintervall</string>
   <string name="day">jeden Tag</string>
@@ -23,6 +23,6 @@
   <string name="summary">"Durch die Verwendung dieses Produkts erklären Sie sich &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Benutzervereinbarung&lt;/a&gt; und &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Privatsphäre&lt;/a&gt;. Diese Anwendung braucht eine Internetverbindung um sorgfältig arbeiten zu können."</string>
   <string name="theme_apply_failured">"Sperrbildschirm-Hintergrundbild kann nicht verwendet werden"</string>
   <string name="theme_apply_success">Sperrbildschirm-Hintergrundbild Angewendet</string>
-  <string name="theme_applying">wird Angewendet…</string>
+  <string name="theme_applying">wird angewendet…</string>
   <string name="wlan_download">Nur über WLAN verwenden</string>
 </resources>
