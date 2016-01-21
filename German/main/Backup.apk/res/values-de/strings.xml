@@ -242,7 +242,7 @@
   <string name="trans_detail_category_files">Dateien</string>
   <string name="trans_detail_category_sysdata">Systemdaten</string>
   <string name="trans_detail_category_userdata">Apps</string>
-  <string name="trans_device_disconnected">"&gt;Gerät getrennt</string>
+  <string name="trans_device_disconnected">Gerät getrennt</string>
   <string name="trans_generate_qr_code_failed">"QR Code konnte nicht erstellt werden"</string>
   <string name="trans_main_tutor">Kontakte, Anrufverlauf, Nachrichten, Bildschirmlayout, Apps, Einstellungen, usw. auf eine neues Gerät übertragen</string>
   <string name="trans_my_device">Mein Gerät</string>
