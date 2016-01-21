@@ -1980,7 +1980,7 @@ Betriebssystem auswählen:"</string>
   <string name="oldman_mode_settings_caption">Seniorenmodus Einstellungen</string>
   <string name="oldman_mode_summary">Vereinfachten Startbildschirm und Menüs verwenden</string>
   <string name="oldman_mode_summary_cta">Der Seniorenmodus muss auf das Internet zugreifen und Ihre Kontakte, Nachrichten und Standort auslesen, um normal zu funktionieren.</string>
-  <string name="onekey_migrate">Übertragen</string>
+  <string name="onekey_migrate">Mi Mover</string>
   <string name="online_resource_entry">Online Quellen</string>
   <string name="only_one_home_message">Launcher Einstellungen werden ausgeblendet, bis Sie einen anderen Launcher installieren.</string>
   <string name="only_when_charging">Nur während des Ladevorgangs</string>
