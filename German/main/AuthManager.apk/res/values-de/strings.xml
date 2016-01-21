@@ -27,9 +27,7 @@
 Um Root-Zugriff zu erhalten müssen Sie die Entwickler-Version von MIUI installieren."</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">MIUI herunterladen</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://miui.eu</string>
-  <string name="Dashboard_Perm_SU_Switch">Root-Zugriff</string>
-  <string name="Dashboard_Su_Enable_Content">"Root-Zugriff von Drittanbieter-Apps kann zu Systeminstabilität, Datenverlust oder Hardwareschäden führen.</string>
-  <string name="Dashboard_Su_Enable_Title">Root-Zugriffswarnung</string>
+  <string name="Dashboard_Perm_SU_Switch">Root-Zugriff</string>  
   <string name="Generic_Canceling">Abbrechen…</string>
   <string name="Generic_Check">Prüfen</string>
   <string name="Generic_Clean">Säubern</string>
@@ -222,6 +220,10 @@ Um Root-Zugriff zu erhalten müssen Sie die Entwickler-Version von MIUI installi
   <string name="HIPS_Perm_add_voicemail_Desc">Sprachaufzeichnung hinzufügen</string>
   <string name="HIPS_Perm_get_accounts">Zugangskonten auf dem Gerät</string>
   <string name="HIPS_Perm_get_accounts_Desc">Zugriff auf alle gespeicherten Konten</string>
+  <string name="HIPS_Perm_install_shortcut">Startbildschirm-Verknüpfungen</string>
+  <string name="HIPS_Perm_install_shortcut_Desc">Verknüpfungen auf dem Startbildschirm anlegen</string>
+  <string name="HIPS_Perm_process_nfc">NFC</string>
+  <string name="HIPS_Perm_process_nfc_Desc">Zugriff auf Nahfeldkommunikation (NFC)</string>
   <string name="HIPS_Perm_process_outgoing_calls">Telefonzugang</string>
   <string name="HIPS_Perm_process_outgoing_calls_Desc">Überwachen und Beenden von Anrufen</string>
   <string name="HIPS_Perm_use_sip">Video-Dienste</string>

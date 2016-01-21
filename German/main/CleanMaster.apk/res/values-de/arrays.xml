@@ -49,9 +49,9 @@
     </string-array>
     <string-array name="apk_clean_menu">
         <item>Bereinigen</item>
-        <item>Datei</item>
-        <item>Ausnahme</item>
         <item>Installieren</item>
+        <item>In Ordner anzeigen</item>
+        <item>Zu Ausnahmen hinzufügen</item>
     </string-array>
     <string-array name="app_clean_menu">
         <item>Entfernen</item>

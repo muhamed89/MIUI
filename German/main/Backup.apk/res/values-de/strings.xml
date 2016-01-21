@@ -246,16 +246,16 @@
   <string name="trans_generate_qr_code_failed">"QR Code konnte nicht erstellt werden"</string>
   <string name="trans_main_tutor">Kontakte, Anrufverlauf, Nachrichten, Bildschirmlayout, Apps, Einstellungen, usw. auf eine neues Gerät übertragen</string>
   <string name="trans_my_device">Mein Gerät</string>
-  <string name="trans_one_key_migrate">Übertragung</string>
+  <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_operate_new_phone_tips">"Scannen Sie den QR-Code mit dem neuem Gerät
 Gehen Sie zu Einstellungen &gt; weitere Einstellungen &gt; Transfer
  [Ich bin Empfänger] antippen, um QR Code zu erstellen"</string>
   <string name="trans_operate_old_phone_tips1">"Methode A
-1. Installieren Sie die Transfer App auf Ihrem alten Gerät
+1. Installieren Sie die Mi Mover App auf Ihrem alten Gerät
 2. Öffnen Sie die App und wählen Sie [Ich bin der Sender]
 3. Scannen Sie den QR-Code mit Ihrem alten Gerät"</string>
   <string name="trans_operate_old_phone_tips2">"Methode B
-Gehen Sie zu Einstellungen &gt; weitere Einstellungen &gt; Übertragen
+Gehen Sie zu Einstellungen &gt; weitere Einstellungen &gt; Mi Mover
  [Ich bin Sender] antippen"</string>
   <string name="trans_progress_subdescript_br_receiver">Empfange %s</string>
   <string name="trans_progress_subdescript_br_sender">Sichere %s</string>
@@ -284,7 +284,7 @@ Warte auf Verbindung mit dem alten Gerät…"</string>
   <string name="trans_time_format_second">weniger als einer Minute</string>
   <string name="trans_time_remained">, bereit in</string>
   <string name="trans_waiting_ensurance">"Das alte Gerät muß eingeschaltet und
-die Übertragung aktiviert sein"</string>
+Mi Mover aktiviert sein"</string>
   <string name="trans_waiting_for_sender">Warte auf Verbindung mit dem alten Gerät…</string>
   <string name="unit_byte">B</string>
   <string name="unit_piece">" Elemente"</string>
