@@ -259,7 +259,7 @@
   <string name="passport_reg_success">Konto erstellt</string>
   <string name="passport_reg_success_summary">%1$s wurde mit dem Konto verknüpft. Sie können es verwenden um sich anzumelden oder Ihr Passwort zu ändern.</string>
   <string name="passport_reg_type_email">Konto über E-Mail erstellen</string>
-  <string name="passport_reg_type_other_ways"><u>Konto &amp;#252;ber andere Methode erstellen</u></string>
+  <string name="passport_reg_type_other_ways"><u>Konto über andere Methode erstellen</u></string>
   <string name="passport_reg_type_other_ways_title">Mi Konto erstellen</string>
   <string name="passport_reg_using_other_phone">Nutze alternative Telefonnummer</string>
   <string name="passport_reg_using_other_phone_number_prompt">Mit anderer Telefonnummer registrieren</string>
@@ -269,7 +269,7 @@
   <string name="passport_register">Konto erstellen</string>
   <string name="passport_register_account_goto_email">Sehen Sie in Ihr Postfach</string>
   <string name="passport_register_account_verified_confirm">Ihr Konto wurde bereits bestätigt</string>
-  <string name="passport_register_by_email"><u>Konto &amp;#252;ber E-Mail-Adresse erstellen</u></string>
+  <string name="passport_register_by_email"><u>Konto über E-Mail-Adresse erstellen</u></string>
   <string name="passport_register_restricted">Es sind zu viele Konten mit dieser Nummer verbunden. Versuchen Sie eine andere.</string>
   <string name="passport_register_restricted_title">Diese Telefonnummer kann ich nicht verwendet werden</string>
   <string name="passport_reject_recycle_account">Nein</string>

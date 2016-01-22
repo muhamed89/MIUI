@@ -425,7 +425,7 @@ Möchten Sie diese Seite wirklich verlassen?"</string>
   <string name="keyguard_password_enter_pin_prompt">Neuer PIN-Code</string>
   <string name="keyguard_password_enter_puk_code">PUK und neuen PIN-Code eingeben</string>
   <string name="keyguard_password_enter_puk_prompt">PUK-Code</string>
-  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Zur Passworteingabe ber&amp;#252;hren&lt;/font&gt;</string>
+  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Zur Passworteingabe berühren&lt;/font&gt;</string>
   <string name="keyguard_password_wrong_pin_code">Falscher PIN-Code</string>
   <string name="kg_emergency_call_label">Notruf</string>
   <string name="kg_enter_confirm_pin_hint">Gewünschten PIN-Code bestätigen</string>
@@ -1495,13 +1495,13 @@ Wenn Sie über längere Zeiträume hinweg Musik in hoher Lautstärke hören, kan
   <string name="sms_control_no">Nicht zulassen</string>
   <string name="sms_control_title">SMS werden gesendet</string>
   <string name="sms_control_yes">Zulassen</string>
-  <string name="sms_premium_short_code_details"><b>Hierf&amp;#252;r werden Ihrem Mobilfunkkonto Geb&amp;#252;hren berechnet.</b></string>
+  <string name="sms_premium_short_code_details"><b>Hierfür werden Ihrem Mobilfunkkonto Gebühren berechnet.</b></string>
   <string name="sms_short_code_confirm_allow">Senden</string>
   <string name="sms_short_code_confirm_always_allow">Immer zulassen</string>
   <string name="sms_short_code_confirm_deny">Abbrechen</string>
   <string name="sms_short_code_confirm_message"><b>%1$s</b> möchte eine Nachricht an <b>%2$s</b> senden.</string>
   <string name="sms_short_code_confirm_never_allow">Nie zulassen</string>
-  <string name="sms_short_code_details">Hierfür könnten Ihrem Mobilfunkkonto <b>Geb&amp;#252;hren berechnet werden</b>.</string>
+  <string name="sms_short_code_details">Hierfür könnten Ihrem Mobilfunkkonto <b>Gebühren berechnet werden</b>.</string>
   <string name="sms_short_code_remember_choice">Auswahl merken</string>
   <string name="sms_short_code_remember_undo_instruction">Sie können dies unter \"Einstellungen &gt; Apps\" ändern.</string>
   <string name="smv_application">Die App %1$s (Prozess %2$s) hat gegen ihre selbsterzwungene StrictMode-Richtlinie verstoßen.</string>

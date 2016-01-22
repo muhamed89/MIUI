@@ -380,7 +380,7 @@ Um Ihr Konto zu aktivieren, folgen Sie dem
   <string name="passport_phone_num_hint_text">Telefonnummer</string>
   <string name="passport_prev">Zurück</string>
   <string name="passport_privacy_policy">Datenschutz-Bestimmungen</string>
-  <string name="passport_provision_skip_login"><u>Diesen Schritt &amp;#252;berspringen</u></string>
+  <string name="passport_provision_skip_login"><u>Diesen Schritt überspringen</u></string>
   <string name="passport_quick_login_dialog_step2_title">2-Schritt Verifizierung</string>
   <string name="passport_quick_login_dialog_title">Passwort bestätigen</string>
   <string name="passport_quick_login_step2_title">2-Schritt Verifizierung</string>
@@ -427,7 +427,7 @@ Um Ihr Konto zu aktivieren, folgen Sie dem
   <string name="passport_vcode_prompt_long">Bestätigungscode eingeben</string>
   <string name="passport_verification_failed">Authentifizierung fehgeschlagen</string>
   <string name="passport_verify">Bestätigen</string>
-  <string name="passport_welcome_skip_login"><u>Diesen Schritt &amp;#252;berspringen</u></string>
+  <string name="passport_welcome_skip_login"><u>Diesen Schritt überspringen</u></string>
   <string name="passport_wrong_captcha">Der von Ihnen eingegebene Code ist falsch</string>
   <string name="passport_wrong_phone_number_format">Das eingegebene Telefonnummernformat ist ungültig</string>
   <string name="passport_wrong_vcode">Der von Ihnen eingegebene Code ist falsch</string>

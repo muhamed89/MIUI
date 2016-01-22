@@ -47,12 +47,12 @@ Falls das Gerät mehrere Nutzer hat, werden die Bedienungshilfen durch Verwendun
   <string name="accessibility_screen_magnification_summary">"Wenn diese Funktion aktiviert ist, können Sie rein/raus-zoomen, indem Sie drei Mal auf den Bildschirm tippen.
 
 Wenn Sie reingezoomt haben, können Sie:
-"&lt;li&gt; &lt;ul&gt;"Verschieben: Ziehen Sie zwei oder mehrere Finger &amp;#252;ber den Bildschirm.
+"&lt;li&gt; &lt;ul&gt;"Verschieben: Ziehen Sie zwei oder mehrere Finger über den Bildschirm.
 "&lt;li&gt;Zoomen: Ziehen Sie zwei oder mehr Finger zusammen oder auseinander.&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt;"
 
-Sie können auch vor&amp;#252;bergehend alles, was sich unter Ihrem Finger befindet, durch dreifach-Antippen und Halten vergrössern. In diesem vergrö&amp;#223;erten Zustand können Sie den Finger bewegen, um verschiedene Teile des Bildschirms zu erkunden. Heben Sie Ihren Finger, um zum Ursprungszustand zur&amp;#252;ckzukehren.
+Sie können auch vorübergehend alles, was sich unter Ihrem Finger befindet, durch dreifach-Antippen und Halten vergrössern. In diesem vergrößerten Zustand können Sie den Finger bewegen, um verschiedene Teile des Bildschirms zu erkunden. Heben Sie Ihren Finger, um zum Ursprungszustand zurückzukehren.
 
-Hinweis: 3-fach-Tippen f&amp;#252;r Vergrö&amp;#223;erung funktioniert &amp;#252;berall, au&amp;#223;er f&amp;#252;r die Tastatur und Navigationsleiste."</string>
+Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für die Tastatur und Navigationsleiste."</string>
   <string name="accessibility_screen_magnification_title">Vergrößerungsgesten</string>
   <string name="accessibility_service_default_description">Keine Beschreibung verfügbar.</string>
   <string name="accessibility_service_no_apps_message">TalkBack bietet blinden und sehbehinderten Benutzern gesprochenes Feedback. Möchten Sie diese Funktion kostenlos aus dem Playstore installieren?</string>
@@ -2864,7 +2864,7 @@ Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerä
   <string name="sync_one_time_sync">"Zum sofortigen Synchronisieren berühren
 %1$s"</string>
   <string name="sync_plug">" "&lt;font fgcolor="#ffffffff"&gt;Willkommen bei Google Sync!&lt;/font&gt;" 
-Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von &amp;#252;berall auf Ihre Kontakte, Termine und vieles mehr zugreifen zu können!"</string>
+Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von überall auf Ihre Kontakte, Termine und vieles mehr zugreifen zu können!"</string>
   <string name="sync_settings">Synchronisierung</string>
   <string name="sync_wifi_label">WLAN</string>
   <string name="sync_wifi_only">Nur über WLAN</string>
@@ -3566,7 +3566,7 @@ Für alle Apps die scannen möchten erlauben?"</string>
   <string name="wifi_setup_connect">Verbinden</string>
   <string name="wifi_setup_description_connected">Drücken Sie <b>Weiter</b>", um mit der Einrichtung fortzufahren.
 
-Dr&amp;#252;cken Sie "<b>Zur&amp;#252;ck</b>, um eine Verbindung zu einem anderen WLAN-Netzwerk herzustellen.</string>
+Drücken Sie "<b>Zurück</b>, um eine Verbindung zu einem anderen WLAN-Netzwerk herzustellen.</string>
   <string name="wifi_setup_description_connecting">Der Verbindungsaufbau kann einige Minuten dauern...</string>
   <string name="wifi_setup_detail">Netzwerkdetails</string>
   <string name="wifi_setup_eap_not_supported">Während der Einrichtung können Sie keine EAP-WLAN-Verbindung konfigurieren. Sie können dies anschließend in den Einstellungen unter \"Drahtlos &amp;amp Netzwerke\" vornehmen.</string>
