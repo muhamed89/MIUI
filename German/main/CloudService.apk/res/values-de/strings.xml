@@ -368,7 +368,7 @@ Diese Funktion verschlüsselt und sendet ihre Geräte-ID zum Mi-Server."</string
   <string name="sync_dspt_entrance_provision_confirm_content">"MIUI's interne Apps benötigen Mi Cloud, um ihren Fotos, Kontakte, Notizen und mehr zu sichern. Mi Cloud ist kostenlos und einfach zu bedienen."</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Mi Cloud verwenden</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"Mi Cloud nicht verwenden?"</string>
-  <string name="sync_dspt_entrance_provision_skip"><u>&amp;#220;berspringen</u></string>
+  <string name="sync_dspt_entrance_provision_skip"><u>Überspringen</u></string>
   <string name="sync_dspt_provision">"Synchronisieren Sie Ihre Fotos, Kontakte, Notizen und mehr mit allen Ihren Geräten oder greifen Sie darauf zu"</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>

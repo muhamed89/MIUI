@@ -312,7 +312,7 @@
   <string name="passport_btn_return">Zurück</string>
   <string name="passport_button_cancel">Abbrechen</string>
   <string name="passport_captcha">Code eingeben</string>
-  <string name="passport_change_account"><u>Benutzerkonto &amp;#228;ndern</u></string>
+  <string name="passport_change_account"><u>Benutzerkonto ändern</u></string>
   <string name="passport_checking_account">Passwortüberprüfung…</string>
   <string name="passport_checking_input">Eingabeüberprüfung…</string>
   <string name="passport_choose_which_one_sim">Telefonnummer wählen</string>

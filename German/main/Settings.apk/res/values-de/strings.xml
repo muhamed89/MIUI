@@ -50,9 +50,9 @@ Wenn Sie reingezoomt haben, können Sie:
 "&lt;li&gt; &lt;ul&gt;"Verschieben: Ziehen Sie zwei oder mehrere Finger &amp;#252;ber den Bildschirm.
 "&lt;li&gt;Zoomen: Ziehen Sie zwei oder mehr Finger zusammen oder auseinander.&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt;"
 
-Sie k&amp;#246;nnen auch vor&amp;#252;bergehend alles, was sich unter Ihrem Finger befindet, durch dreifach-Antippen und Halten vergr&amp;#246;ssern. In diesem vergr&amp;#246;&amp;#223;erten Zustand k&amp;#246;nnen Sie den Finger bewegen, um verschiedene Teile des Bildschirms zu erkunden. Heben Sie Ihren Finger, um zum Ursprungszustand zur&amp;#252;ckzukehren.
+Sie können auch vor&amp;#252;bergehend alles, was sich unter Ihrem Finger befindet, durch dreifach-Antippen und Halten vergrössern. In diesem vergrö&amp;#223;erten Zustand können Sie den Finger bewegen, um verschiedene Teile des Bildschirms zu erkunden. Heben Sie Ihren Finger, um zum Ursprungszustand zur&amp;#252;ckzukehren.
 
-Hinweis: 3-fach-Tippen f&amp;#252;r Vergr&amp;#246;&amp;#223;erung funktioniert &amp;#252;berall, au&amp;#223;er f&amp;#252;r die Tastatur und Navigationsleiste."</string>
+Hinweis: 3-fach-Tippen f&amp;#252;r Vergrö&amp;#223;erung funktioniert &amp;#252;berall, au&amp;#223;er f&amp;#252;r die Tastatur und Navigationsleiste."</string>
   <string name="accessibility_screen_magnification_title">Vergrößerungsgesten</string>
   <string name="accessibility_service_default_description">Keine Beschreibung verfügbar.</string>
   <string name="accessibility_service_no_apps_message">TalkBack bietet blinden und sehbehinderten Benutzern gesprochenes Feedback. Möchten Sie diese Funktion kostenlos aus dem Playstore installieren?</string>
@@ -1425,7 +1425,7 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="internal_format">Internen Speicher löschen</string>
   <string name="internal_format_summary">Löscht alle Daten auf den internen Speicher, z.B. Musik und Fotos</string>
   <string name="internal_media_format_button_text">Internen Speicher löschen</string>
-  <string name="internal_media_format_desc">Internen Speicher löschen? Es werden &lt;b&gt;alle&lt;/b&gt; gespeicherten Daten gel&amp;#246;scht und das Telefon neugestartet!</string>
+  <string name="internal_media_format_desc">Internen Speicher löschen? Es werden <b>alle</b> gespeicherten Daten gelöscht und das Telefon neugestartet!</string>
   <string name="internal_media_format_final_desc">Internen Speicher und alle darin enthaltenen Daten löschen? Dieser Vorgang kann nicht rückgängig gemacht werden! Das Telefon startet nach Abschluß des Vorgangs neu.</string>
   <string name="internal_media_format_title">Internen Speicher löschen</string>
   <string name="internal_memory">Interner Speicher</string>
@@ -1700,7 +1700,7 @@ Sie sind zurzeit in folgenden Konten angemeldet:
   <string name="master_clear_all">"Alle Daten vom internen Telefonspeicher löschen? Diese Aktion kann nicht rückgängig gemacht werden!"</string>
   <string name="master_clear_button_text">Telefon zurücksetzen</string>
   <string name="master_clear_confirm_title">Zurücksetzen?</string>
-  <string name="master_clear_desc">"Alle Daten in Ihrem "&lt;b&gt;Internen Speicher&lt;/b&gt;" werden gel&amp;#246;scht, inklusive:
+  <string name="master_clear_desc">"Alle Daten in Ihrem "<b>Internen Speicher</b>" werden gelöscht, inklusive:
 
 "&lt;li&gt;Ihrem Google Konto&lt;/li&gt;"
 "&lt;li&gt;System und App Daten und Einstellungen&lt;/li&gt;"
@@ -1710,7 +1710,7 @@ Sie sind zurzeit in folgenden Konten angemeldet:
 "&lt;li&gt;und andere Benutzerdaten&lt;/li&gt;" "</string>
   <string name="master_clear_desc_erase_external_storage">"
 
-Um auch Musik, Bilder und sonstige Nutzerdaten zu löschen, muss der "&lt;b&gt;USB-Speicher&lt;/b&gt; gel&amp;#246;scht werden.</string>
+Um auch Musik, Bilder und sonstige Nutzerdaten zu löschen, muss der "<b>USB-Speicher</b> gelöscht werden.</string>
   <string name="master_clear_erase_application_progress">Lösche Anwendungen...</string>
   <string name="master_clear_failed">Die Zurücksetzung konnte nicht durchgeführt werden, weil der Dienst zur Systembereinigung nicht verfügbar ist.</string>
   <string name="master_clear_final_button_text">Alles löschen</string>
@@ -1732,7 +1732,7 @@ Um auch Musik, Bilder und sonstige Nutzerdaten zu löschen, muss der "&lt;b&gt;U
   <string name="media_category">Medien</string>
   <string name="media_feedback_enable_title">Mit dem Beat vibrieren</string>
   <string name="media_format_button_text">USB-Speicher löschen</string>
-  <string name="media_format_desc">Kompletten USB-Speicher löschen? Sie werden &lt;b&gt;alle&lt;/b&gt; gespeicherten Daten verlieren!</string>
+  <string name="media_format_desc">Kompletten USB-Speicher löschen? Sie werden <b>alle</b> gespeicherten Daten verlieren!</string>
   <string name="media_format_final_button_text">Alles löschen</string>
   <string name="media_format_final_desc">USB-Speicher und alle darauf gespeicherten Dateien löschen? Diese Aktion kann nicht rückgängig gemacht werden!</string>
   <string name="media_format_gesture_explanation">Sie müssen Ihr Entsperrungsmuster zeichnen, um die Löschung des USB-Speichers zu bestätigen.</string>
@@ -2864,7 +2864,7 @@ Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerä
   <string name="sync_one_time_sync">"Zum sofortigen Synchronisieren berühren
 %1$s"</string>
   <string name="sync_plug">" "&lt;font fgcolor="#ffffffff"&gt;Willkommen bei Google Sync!&lt;/font&gt;" 
-Mit dieser Funktion von Google k&amp;#246;nnen Sie Ihre Daten synchronisieren, um von &amp;#252;berall auf Ihre Kontakte, Termine und vieles mehr zugreifen zu k&amp;#246;nnen!"</string>
+Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von &amp;#252;berall auf Ihre Kontakte, Termine und vieles mehr zugreifen zu können!"</string>
   <string name="sync_settings">Synchronisierung</string>
   <string name="sync_wifi_label">WLAN</string>
   <string name="sync_wifi_only">Nur über WLAN</string>
@@ -2985,7 +2985,7 @@ Mit dieser Funktion von Google k&amp;#246;nnen Sie Ihre Daten synchronisieren, u
   <string name="uicc_format_summary">Löscht alle Daten auf dem UICC-Speicher, wie z.B. Musik und Fotos</string>
   <string name="uicc_insert_summary">Legen Sie einen UICC-Speicher ein, um ihn einzuhängen</string>
   <string name="uicc_media_format_button_text">Lösche UICC-Speicher</string>
-  <string name="uicc_media_format_desc">Wollen Sie den UICC-Speicher löschen? Sie werden &lt;b&gt;alle&lt;/b&gt; Daten auf dem Speicher verlieren!</string>
+  <string name="uicc_media_format_desc">Wollen Sie den UICC-Speicher löschen? Sie werden <b>alle</b> Daten auf dem Speicher verlieren!</string>
   <string name="uicc_media_format_final_desc">"Wollen Sie den UICC-Speichre löschen, was alle gespeicherten Dateien löschen wird? Sie können diese Aktion nicht umkehren!"</string>
   <string name="uicc_media_format_gesture_explanation">Sie müssen Ihr Entperrmuster zeichnen, um die Löschung des UICC-Speichers zu bestätigen.</string>
   <string name="uicc_media_format_summary">Löscht alle Daten auf dem UICC-Speicher</string>
@@ -3073,7 +3073,7 @@ Mit dieser Funktion von Google k&amp;#246;nnen Sie Ihre Daten synchronisieren, u
   <string name="usb_insert_summary">Legen Sie einen USB-Speicher ein, um ihn zu mounten</string>
   <string name="usb_label_installer_cd">Installieren Sie Datentransfer-Tools</string>
   <string name="usb_media_format_button_text">USB-Speicher löschen</string>
-  <string name="usb_media_format_desc">Wollen Sie den USB-Speicher löschen? Sie werden &lt;b&gt;alle&lt;/b&gt; Daten auf dem Speicher verlieren!</string>
+  <string name="usb_media_format_desc">Wollen Sie den USB-Speicher löschen? Sie werden <b>alle</b> Daten auf dem Speicher verlieren!</string>
   <string name="usb_media_format_final_desc">"Wollen Sie den USB-Speichre löschen, was alle gespeicherten Dateien löschen wird? Sie können diese Aktion nicht umkehren!"</string>
   <string name="usb_media_format_gesture_explanation">Sie müssen Ihr Entperrmuster zeichnen, um die Löschung des USB-Speichers zu bestätigen.</string>
   <string name="usb_media_format_summary">Löscht alle Daten auf dem USB-Speicher</string>
@@ -3564,9 +3564,9 @@ Für alle Apps die scannen möchten erlauben?"</string>
   <string name="wifi_setup_back">Zurück</string>
   <string name="wifi_setup_cancel">Abbrechen</string>
   <string name="wifi_setup_connect">Verbinden</string>
-  <string name="wifi_setup_description_connected">Drücken Sie &lt;b&gt;Weiter&lt;/b&gt;", um mit der Einrichtung fortzufahren.
+  <string name="wifi_setup_description_connected">Drücken Sie <b>Weiter</b>", um mit der Einrichtung fortzufahren.
 
-Dr&amp;#252;cken Sie "&lt;b&gt;Zur&amp;#252;ck&lt;/b&gt;, um eine Verbindung zu einem anderen WLAN-Netzwerk herzustellen.</string>
+Dr&amp;#252;cken Sie "<b>Zur&amp;#252;ck</b>, um eine Verbindung zu einem anderen WLAN-Netzwerk herzustellen.</string>
   <string name="wifi_setup_description_connecting">Der Verbindungsaufbau kann einige Minuten dauern...</string>
   <string name="wifi_setup_detail">Netzwerkdetails</string>
   <string name="wifi_setup_eap_not_supported">Während der Einrichtung können Sie keine EAP-WLAN-Verbindung konfigurieren. Sie können dies anschließend in den Einstellungen unter \"Drahtlos &amp;amp Netzwerke\" vornehmen.</string>

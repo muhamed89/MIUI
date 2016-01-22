@@ -42,7 +42,7 @@ Datenschutzbestimmung ausgewählter Tastaturen anzeigen"</string>
   <string name="sim_card_detection_info">Zum Einsetzen der SIM-Karte lesen Sie das Gerätehandbuch.</string>
   <string name="sim_dectection_next">Weiter</string>
   <string name="sim_redetection">Erneut überprüfen</string>
-  <string name="skip_underline"><u>&amp;#220;berspringen</u></string>
+  <string name="skip_underline"><u>Überspringen</u></string>
   <string name="summary_not_set">Nicht eingestellt</string>
   <string name="summary_sim_card">Karte %1$d</string>
   <string name="summary_sim_card_with_operator">Karte %1$d: %2$s</string>

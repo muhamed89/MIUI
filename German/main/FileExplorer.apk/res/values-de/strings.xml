@@ -522,7 +522,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="transfer_private_data">Private Dateien von der SD-Karte verschieben…</string>
   <string name="transing">Sende…</string>
   <string name="trash_box_capacity">Papierkorb %1$s</string>
-  <string name="trash_box_link">Um den Papiekorb zu leeren, besuchen Sie &lt;b&gt;pan.xiaomi.com&lt;/b&gt;</string>
+  <string name="trash_box_link">Um den Papiekorb zu leeren, besuchen Sie <b>pan.xiaomi.com</b></string>
   <string name="trash_box_message1">Löschen Sie nicht mehr benötigte Dateien um Speicherplatz zu gewinnen.</string>
   <string name="trash_box_message2">Leeren Sie den Papierkorb um Speicherplatz zu gewinnen.</string>
   <string name="type_not_support">Dieses Dateiformat wird nicht unterstützt. Datei entpacken und erneut versuchen.</string>
