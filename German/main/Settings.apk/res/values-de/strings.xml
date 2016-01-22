@@ -1266,7 +1266,7 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="force_stop_dlg_text">Das Beenden der App zu erzwingen kann zu unerwünschtem Verhalten führen.</string>
   <string name="force_stop_dlg_title">Beenden erzwingen?</string>
   <string name="forget">VERGESSEN</string>
-  <string name="forget_password_button_text">&lt;u&gt;Passwort vergessen&lt;/u&gt;</string>
+  <string name="forget_password_button_text"><u>Passwort vergessen</u></string>
   <string name="forget_wifi_message">Die Netzwerkverbindung wird automatisch beendet.</string>
   <string name="found_new_version">Update verfügbar</string>
   <string name="fp_nav_center_back_to_home_title">Home-Taste antippen, um zurück zur Startseite zu gelangen</string>

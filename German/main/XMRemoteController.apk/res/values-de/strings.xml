@@ -312,7 +312,7 @@
   <string name="passport_btn_return">Zurück</string>
   <string name="passport_button_cancel">Abbrechen</string>
   <string name="passport_captcha">Code eingeben</string>
-  <string name="passport_change_account">&lt;u&gt;Benutzerkonto &amp;#228;ndern&lt;/u&gt;</string>
+  <string name="passport_change_account"><u>Benutzerkonto &amp;#228;ndern</u></string>
   <string name="passport_checking_account">Passwortüberprüfung…</string>
   <string name="passport_checking_input">Eingabeüberprüfung…</string>
   <string name="passport_choose_which_one_sim">Telefonnummer wählen</string>
@@ -355,7 +355,7 @@ Um Ihr Konto zu aktivieren, folgen Sie dem
   <string name="passport_error_verify_code">Der eingegebene Code ist falsch</string>
   <string name="passport_failed_to_send_activate_email">"Aktivierungs-E-Mail konnte nicht gesendet werden"</string>
   <string name="passport_find_password_on_web_msg">Besuchen Sie account.mi.com um Ihr Passwort zurückzusetzen.</string>
-  <string name="passport_forget_password">&lt;u&gt;Passwort vergessen&lt;/u&gt;</string>
+  <string name="passport_forget_password"><u>Passwort vergessen</u></string>
   <string name="passport_get_back_pwd">Kontopasswort wiederherstellen</string>
   <string name="passport_get_verify_code">Code erhalten</string>
   <string name="passport_getting_verify_code">Erhalten</string>
@@ -372,7 +372,7 @@ Um Ihr Konto zu aktivieren, folgen Sie dem
   <string name="passport_login_instead_reg_with_email">Diese E-Mail-Adresse verwenden</string>
   <string name="passport_login_notice">Anmeldung…</string>
   <string name="passport_login_title">Beim Mi Konto anmelden</string>
-  <string name="passport_login_with_email_or_id">&lt;u&gt;Mit E-Mail Adresse oder Mi Konto ID anmelden&lt;/u&gt;</string>
+  <string name="passport_login_with_email_or_id"><u>Mit E-Mail Adresse oder Mi Konto ID anmelden</u></string>
   <string name="passport_next">Weiter</string>
   <string name="passport_notification_title">Anmeldefehler für %1$s</string>
   <string name="passport_password">Ihr Passwort eingeben</string>
@@ -380,7 +380,7 @@ Um Ihr Konto zu aktivieren, folgen Sie dem
   <string name="passport_phone_num_hint_text">Telefonnummer</string>
   <string name="passport_prev">Zurück</string>
   <string name="passport_privacy_policy">Datenschutz-Bestimmungen</string>
-  <string name="passport_provision_skip_login">&lt;u&gt;Diesen Schritt &amp;#252;berspringen&lt;/u&gt;</string>
+  <string name="passport_provision_skip_login"><u>Diesen Schritt &amp;#252;berspringen</u></string>
   <string name="passport_quick_login_dialog_step2_title">2-Schritt Verifizierung</string>
   <string name="passport_quick_login_dialog_title">Passwort bestätigen</string>
   <string name="passport_quick_login_step2_title">2-Schritt Verifizierung</string>
@@ -393,7 +393,7 @@ Um Ihr Konto zu aktivieren, folgen Sie dem
   <string name="passport_reg_success">Konto erstellt</string>
   <string name="passport_reg_success_summary">%1$s wurde mit Ihrem Konto verknüpft. Sie können sich damit anmelden oder Ihr Passwort zurücksetzen.</string>
   <string name="passport_reg_type_email">Konto per E-Mail erstellen</string>
-  <string name="passport_reg_type_other_ways">&lt;u&gt;Konto auf andere Art erstellen&lt;/u&gt;</string>
+  <string name="passport_reg_type_other_ways"><u>Konto auf andere Art erstellen</u></string>
   <string name="passport_reg_type_other_ways_title">Konto auf andere Art erstellen</string>
   <string name="passport_reg_using_other_phone">Mit einer anderen Telefonnummer registrieren</string>
   <string name="passport_reg_using_other_phone_number_prompt">Mit einer anderen Telefonnummer registrieren</string>
@@ -403,7 +403,7 @@ Um Ihr Konto zu aktivieren, folgen Sie dem
   <string name="passport_register">Konto erstellen</string>
   <string name="passport_register_account_goto_email">Ihren Posteingang überprüfen</string>
   <string name="passport_register_account_verified_confirm">"Sie haben Ihr Konto schon bestätigt"</string>
-  <string name="passport_register_by_email">&lt;u&gt;Per E-Mail ein Konto erstellen&lt;/u&gt;</string>
+  <string name="passport_register_by_email"><u>Per E-Mail ein Konto erstellen</u></string>
   <string name="passport_relogin">Erneut anmelden</string>
   <string name="passport_relogin_notice">Sie müssen sich erneut anmelden</string>
   <string name="passport_remove_account_notice">Wie soll nach einer Account-Schließung mit Kontaken und Notizen auf dem Handy umgegangen werden?</string>
@@ -427,7 +427,7 @@ Um Ihr Konto zu aktivieren, folgen Sie dem
   <string name="passport_vcode_prompt_long">Bestätigungscode eingeben</string>
   <string name="passport_verification_failed">Authentifizierung fehgeschlagen</string>
   <string name="passport_verify">Bestätigen</string>
-  <string name="passport_welcome_skip_login">&lt;u&gt;Diesen Schritt &amp;#252;berspringen&lt;/u&gt;</string>
+  <string name="passport_welcome_skip_login"><u>Diesen Schritt &amp;#252;berspringen</u></string>
   <string name="passport_wrong_captcha">Der von Ihnen eingegebene Code ist falsch</string>
   <string name="passport_wrong_phone_number_format">Das eingegebene Telefonnummernformat ist ungültig</string>
   <string name="passport_wrong_vcode">Der von Ihnen eingegebene Code ist falsch</string>

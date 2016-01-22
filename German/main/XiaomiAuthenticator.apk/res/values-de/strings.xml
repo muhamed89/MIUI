@@ -50,7 +50,7 @@ Bei account.xiaomi.com anmelden und Reactivate anklicken."</string>
   <string name="error_qr">Kann den QR Code nicht interpretieren.</string>
   <string name="error_title">Fehler</string>
   <string name="error_uri">Schlüssel nicht erkannt.</string>
-  <string name="forget_password">&lt;u&gt;Passwort vergessen&lt;/u&gt;</string>
+  <string name="forget_password"><u>Passwort vergessen</u></string>
   <string name="general_security_exception">Allgemeine Sicherheitsausnahme</string>
   <string name="gif_not_support_camera_msg">Ihr Gerät unterstützt keine Video-Aufnahme.</string>
   <string name="how_it_works_menu_item">Wie funktioniert es</string>
@@ -90,7 +90,7 @@ Bei account.xiaomi.com anmelden und Reactivate anklicken."</string>
   <string name="lockpattern_tutorial_close_label">Schließen</string>
   <string name="lockpattern_tutorial_continue_label">Weiter</string>
   <string name="lockpattern_tutorial_jump_label">Überspringen</string>
-  <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Musterpasswort vergessen&lt;/u&gt;</string>
+  <string name="lockscreen_forgot_pattern_button_text"><u>Musterpasswort vergessen</u></string>
   <string name="login">Anmelden</string>
   <string name="main_preference_screen_title">Einstellungen</string>
   <string name="mycard_scan_barcode">MiID Code Scanner</string>
@@ -167,7 +167,7 @@ Sie können："</string>
   <string name="title_updatepattern">Passwort ändern</string>
   <string name="title_visible_pattern">Muster sichtbar machen</string>
   <string name="type_prompt">Schlüsseltyp</string>
-  <string name="update_pattern_jump">&lt;u&gt;Passwort entfernen&lt;/u&gt;</string>
+  <string name="update_pattern_jump"><u>Passwort entfernen</u></string>
   <string name="version_preference_title">Version</string>
   <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;Falls Sie Ihr Mi Security Token löschen, können Sie sich nicht mehr mit Ihrem Konto anmelden."</string>
   <string name="welcome_page_details">"— Halten Sie Ihr Konto sicher.

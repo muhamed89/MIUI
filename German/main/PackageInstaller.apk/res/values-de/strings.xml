@@ -32,7 +32,7 @@ Möchten Sie dies jetzt und in Zukunft zulassen?"</string>
 Alle bisherigen Nutzerdaten werden gespeichert."</string>
   <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) wird die derzeit installierte Version ersetzen (%3$s). Alle Benutzerdaten bleiben erhalten.</string>
   <string name="dlg_app_replacement_title">Anwendung ersetzen</string>
-  <string name="dlg_appstore_notice">Holen Sie sich die App aus unserem offiziellen &lt;u&gt;&lt;font color=#91c727&gt;App Store&lt;/font&gt;&lt;/u&gt;</string>
+  <string name="dlg_appstore_notice">Holen Sie sich die App aus unserem offiziellen <u>&lt;font color=#91c727&gt;App Store&lt;/font&gt;</u></string>
   <string name="dlg_ok">OK</string>
   <string name="dlg_sys_app_replacement_statement">"Dies ist eine Systemanwendung. Trotzdem ersetzen?
 
@@ -52,7 +52,7 @@ Alle bisherigen Nutzerdaten werden gespeichert."</string>
   <string name="install_failed_system_incompatible">App ist nicht mit MIUI kompatibel.</string>
   <string name="install_failed_verify_failed">Das Paket hat die Prüfung nicht bestanden und kann daher nicht installiert werden.</string>
   <string name="install_failed_verify_timeout">Zeitüberschreitung bei Paketüberprüfung. Installation erneut ausführen.</string>
-  <string name="install_from_appstore_hint">We recommend you to install the app from &lt;u&gt;&lt;font color=#91c727&gt;AppStore&lt;/font&gt;&lt;/u&gt;</string>
+  <string name="install_from_appstore_hint">We recommend you to install the app from <u>&lt;font color=#91c727&gt;AppStore&lt;/font&gt;</u></string>
   <string name="installing">Wird installiert...</string>
   <string name="launch">Öffnen</string>
   <string name="lift_ban">Aufheben</string>
@@ -118,7 +118,7 @@ Alle bisherigen Nutzerdaten werden gespeichert."</string>
   <string name="unknown_installer">Unbekannte PC-Tools</string>
   <string name="virus_scan_caller_unknown">Unbekannt</string>
   <string name="virus_scan_clear">Löschen</string>
-  <string name="virus_scan_install">&lt;u&gt;Installation fortsetzen&lt;/u&gt;</string>
+  <string name="virus_scan_install"><u>Installation fortsetzen</u></string>
   <string name="virus_scan_is_risk">Anwendung stellt ein Risiko dar.</string>
   <string name="virus_scan_is_virus">Anwendung enthält ein Virus.</string>
   <string name="waiting_tip">Dies kann eine Weile dauern, aber es lohnt sich</string>

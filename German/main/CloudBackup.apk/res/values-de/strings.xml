@@ -14,7 +14,7 @@
   <string name="button_cancel">Abbrechen</string>
   <string name="button_delete">Löschen</string>
   <string name="button_next">Weiter</string>
-  <string name="cancel_recover_settings">&lt;u&gt;Abbrechen&lt;/u&gt;</string>
+  <string name="cancel_recover_settings"><u>Abbrechen</u></string>
   <string name="click_try_to_restore_again">Tippen, um es erneut zu versuchen</string>
   <string name="cloud_app_backup_success">App Sicherung abgeschlossen</string>
   <string name="cloud_app_check_data">Mit Mi Cloud verbinden…</string>
@@ -62,7 +62,7 @@ Wichtig: Die Daten der einzelnen Apps werden dabei nicht in der Mi Cloud gesiche
   <string name="confirm_restore">Wiederherstellen</string>
   <string name="confirm_restore_summary">Der Startbildschirm wird neu gestartet und Ihre Apps werden automatisch geladen, vorausgesetzt eine WLAN Verbindung besteht</string>
   <string name="confirm_restore_title">Wiederherstellen</string>
-  <string name="customization">&lt;u&gt;Benutzerdefiniert&lt;/u&gt;</string>
+  <string name="customization"><u>Benutzerdefiniert</u></string>
   <string name="deskclock_backup">Wecker</string>
   <string name="desktop_downloading">Herunterladen</string>
   <string name="desktop_installing">Installieren</string>

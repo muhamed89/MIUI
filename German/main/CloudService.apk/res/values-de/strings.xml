@@ -91,7 +91,7 @@ Zuletzt gesichert am %2$s"</string>
   <string name="find_device_status_ok">Finde dein Gerät überall auf i.mi.com</string>
   <string name="find_device_status_ok_international">Finde dein Gerät überall auf www.mi.com/micloud</string>
   <string name="find_device_success_title">Finde Gerät</string>
-  <string name="forget_password">&lt;u&gt;Passwort vergessen&lt;/u&gt;</string>
+  <string name="forget_password"><u>Passwort vergessen</u></string>
   <string name="free_space_has_received">Sie haben bereits freien Speicher diesen Monat hinzugefügt</string>
   <string name="free_space_receive_fail">"Upgrade fehlgeschlagen"</string>
   <string name="get_first_month_gb">Erhalte %s freien Speicher</string>
@@ -268,7 +268,7 @@ Berühre den Einstellungsknopf, um mehr Optionen zu sehen"</string>
   <string name="micloud_space_applist_title">Verwalte Apps</string>
   <string name="micloud_space_duokan_detail">Herunterladen und Verwalten von E-Books mit der Duokan App.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
-  <string name="micloud_space_full_influence">&lt;u&gt;Was passiert, wenn ich keinen Speicherplatz mehr habe?&lt;/u&gt;</string>
+  <string name="micloud_space_full_influence"><u>Was passiert, wenn ich keinen Speicherplatz mehr habe?</u></string>
   <string name="micloud_space_soundrecorder_detail">Verwalte Aufnahmen, welche auf ihrem Gerät gespeichert wurden</string>
   <string name="micloud_space_soundrecorder_title">Aufnahmen</string>
   <string name="micloud_storage">Speicher</string>
@@ -368,7 +368,7 @@ Diese Funktion verschlüsselt und sendet ihre Geräte-ID zum Mi-Server."</string
   <string name="sync_dspt_entrance_provision_confirm_content">"MIUI's interne Apps benötigen Mi Cloud, um ihren Fotos, Kontakte, Notizen und mehr zu sichern. Mi Cloud ist kostenlos und einfach zu bedienen."</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Mi Cloud verwenden</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"Mi Cloud nicht verwenden?"</string>
-  <string name="sync_dspt_entrance_provision_skip">&lt;u&gt;&amp;#220;berspringen&lt;/u&gt;</string>
+  <string name="sync_dspt_entrance_provision_skip"><u>&amp;#220;berspringen</u></string>
   <string name="sync_dspt_provision">"Synchronisieren Sie Ihre Fotos, Kontakte, Notizen und mehr mit allen Ihren Geräten oder greifen Sie darauf zu"</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
