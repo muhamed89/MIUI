@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="video_clean_menu">
-        <item>Bereinige diese datei</item>
+        <item>Bereinige diese Datei</item>
         <item>Offen</item>
         <item>Datei zu Ausnahmen hinzufügen</item>
      </string-array>
@@ -30,7 +30,7 @@
     </string-array>
     <string-array name="auto_process_mode">
         <item>Anzeigen</item>
-        <item>"Nicht anzeigen"</item>
+        <item>Nicht anzeigen</item>
         <item>Danach anzeigen</item>
     </string-array>
     <string-array name="cache_clean_menu">
