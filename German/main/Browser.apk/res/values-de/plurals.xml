@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="last_num_days">
-        <item quantity="other">Letzte %d Tage</item>
+        <item quantity="other">Letzten %d Tage</item>
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d aus %2$d</item>
@@ -12,20 +12,20 @@
         <item quantity="one">%1$d ausgewählt</item>
     </plurals>
     <plurals name="video_download_clear_prompt">
-        <item quantity="other">Clear %1$d videos?</item>
-        <item quantity="one">Clear %1$d video?</item>
+        <item quantity="other">Lösche %1$d Videos?</item>
+        <item quantity="one">Lösche %1$d Video?</item>
     </plurals>
     <plurals name="video_download_clear_info">
-        <item quantity="other">Removed %1$d videos successfully.</item>
-        <item quantity="one">Removed %1$d video successfully.</item>
+        <item quantity="other">%1$d Videos erfolgreich gelöscht.</item>
+        <item quantity="one">%1$d Video erfolgreich gelöscht.</item>
     </plurals>
     <plurals name="video_history_clear_prompt">
-        <item quantity="other">Delete %1$d items from history?</item>
-        <item quantity="one">Delete %1$d item from history?</item>
+        <item quantity="other">Lösche %1$d Dateien aus dem Verlauf?</item>
+        <item quantity="one">Lösche %1$d Datei aus dem Verlauf?</item>
     </plurals>
     <plurals name="video_history_clear_info">
-        <item quantity="other">%1$d items removed from history.</item>
-        <item quantity="one">%1$d item removed from history.</item>
+        <item quantity="other">%1$d Dateien aus dem Verlauf gelöscht.</item>
+        <item quantity="one">%1$d Datei aus dem Verlauf gelöscht.</item>
     </plurals>
     <plurals name="find_on_page_matches">
         <item quantity="other">%d Übereinstimmungen</item>
