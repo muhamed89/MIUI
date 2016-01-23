@@ -17,7 +17,7 @@
   <string name="cut">Ausschneiden</string>
   <string name="default_name">Standard</string>
   <string name="enable_livetalk_summary">¥ 0,05 pro Minute für Inlandsgespräche</string>
-  <string name="enable_livetalk_title">Schalten Sie Auflade-Paket</string>
+  <string name="enable_livetalk_title">Schalten Sie Auflade-Pakete ein </string>
   <string name="fc_dialog_body">Fehlerbericht zur Analyse an Xiaomi senden? Dieser Bericht enthält möglicherweise persönliche Informationen. Ihr Bericht wird nicht mit Dritten geteilt, sondern ausschließlich zur Behebung des Fehlers verwendet.</string>
   <string name="fc_dialog_jump_to_preview">Zusammenfassung anzeigen</string>
   <string name="first_back_long_press_message">"Langer Druck auf die Zurück-Taste beendet den aktuellen Prozess.
@@ -26,7 +26,7 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; System &gt; Tast
   <string name="fm_record_smaple_prefix_miui">FM Aufnahme</string>
   <string name="force_exit_message">%1$s wurde beendet</string>
   <string name="force_exit_skip_message">Systemkomponente %1$s kann nicht beendet werden</string>
-  <string name="fp_nav_center_action_choose_dlg_msg">Sie können durch Drücken der Home-Taste zurück zu Ihrem Home-Bildschirm gehen. Aber Sie können auch wählen, dass nur mit einem Fingertipp funktioniert. Die Home-Taste in den Einstellungen anpassen &gt; Erweiterte Einstellungen &gt; Tasten.</string>
+  <string name="fp_nav_center_action_choose_dlg_msg">Sie können durch Drücken der Home-Taste zurück zu Ihrem Home-Bildschirm gehen. Aber Sie können auch wählen, dass dies nur mit einem Fingertipp funktioniert. Die Home-Taste in den Einstellungen anpassen &gt; Erweiterte Einstellungen &gt; Tasten.</string>
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Nein Danke</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Anpassen</string>
   <string name="fp_nav_center_action_choose_dlg_title">Home-taste anpassen </string>
@@ -40,7 +40,7 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; System &gt; Tast
   <string name="group_name_friends">Freunde</string>
   <string name="handy_mode_enter_dlg_msg">Einhandmodus einschalten?</string>
   <string name="handy_mode_enter_dlg_title">Einhandmodus einschalten</string>
-  <string name="handy_mode_summary">Zum Schließen, tippen Sie auf eine leere Stelle des Bildschirms</string>
+  <string name="handy_mode_summary">Zum Schließen tippen Sie auf eine leere Stelle des Bildschirms</string>
   <string name="handy_mode_title">Einhandmodus</string>
   <string name="ignore_home_when_fingerprint_enrolling_msg">Drücken Sie auf die Home-Taste</string>
   <string name="internal_livetalk_enable">Anrufpakete für nationale Anrufe verwenden</string>
@@ -77,7 +77,7 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; System &gt; Tast
   <string name="screen_on_proximity_sensor_summary">Bedecken Sie nicht den orangen Bereich des Bildschirms</string>
   <string name="screen_on_proximity_sensor_title">Ungewollte Anrufe verhindern</string>
   <string name="screen_paper_mode_enter_toast">Lesemodus ist aktiv. Sie können ihn jederzeit unter Einstellungen &gt; Lesemodus aktivieren oder deaktivieren.</string>
-  <string name="screen_rotation_freeze_message">Auto-Drehen deaktiviert</string>
+  <string name="screen_rotation_freeze_message">Auto-Rotation deaktiviert</string>
   <string name="select">Auswählen</string>
   <string name="select_all">Alles</string>
   <string name="set_password_action">Passwort festlegen</string>
