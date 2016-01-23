@@ -59,7 +59,7 @@
   <string name="download_succ_ok">OK</string>
   <string name="download_success">%1$s vollständig empfangen.</string>
   <string name="download_title">Dateiübertragung</string>
-  <string name="empty_file_notification_sent">Bluetooth: leere Datei wurde abgelehnt %1$s</string>
+  <string name="empty_file_notification_sent">Bluetooth: Leere Datei wurde abgelehnt %1$s</string>
   <string name="enabling_progress_content">Bluetooth aktivieren…</string>
   <string name="enabling_progress_title">Bitte warten…</string>
   <string name="format_progress_text">%1$d%%</string>
