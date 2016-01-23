@@ -4,12 +4,12 @@
   <string name="action_confirm">Auswählen</string>
   <string name="action_submit">Senden</string>
   <string name="announcement">Hinweis</string>
-  <string name="app_empty">"Keine runtergeladenen Apps vorhanden."</string>
+  <string name="app_empty">"Keine heruntergeladenen Apps vorhanden."</string>
   <string name="app_label">Fehlerbericht</string>
   <string name="btn_send">Senden</string>
   <string name="bugreport_dump_complete_notification_summary">Zum Anzeigen berühren.</string>
   <string name="bugreport_dump_complete_notification_title">Fehlerbericht erstellt</string>
-  <string name="bugreport_dump_start_notification_summary">Vorgang dauert ungefähr eine Minute.</string>
+  <string name="bugreport_dump_start_notification_summary">Der Vorgang dauert ungefähr eine Minute.</string>
   <string name="bugreport_dump_start_notification_title">Fehlerbericht wird erstellt</string>
   <string name="bugreport_tool_log">Fehlerbericht erstellen</string>
   <string name="bugreport_tool_log_toast">Log gespeichert unter %s</string>
@@ -40,7 +40,7 @@
   <string name="err_type_system_summary">Speicher, Leistung, usw.</string>
   <string name="err_type_systemapp">MIUI-Apps</string>
   <string name="err_type_wifi">WLAN</string>
-  <string name="err_type_xiaomi_family">MiFamilie</string>
+  <string name="err_type_xiaomi_family">Mi Familie</string>
   <string name="err_type_xiaomi_service">Kundendienst</string>
   <string name="hot_problem">Häufige Fehler anzeigen</string>
   <string name="loading_apps">Erstelle Liste…</string>
@@ -67,10 +67,10 @@
   <string name="section_screenshot">Bildschirm</string>
   <string name="submit_dialog_cancel">Abbrechen</string>
   <string name="submit_dialog_confirm">Absenden</string>
-  <string name="submit_dialog_content">"Ihr Feedback wird zusammen mit den Fehlerberichten und angehängten Bildern an Xiaomi gesendet sobald einen WLAN-Verbindung besteht."</string>
-  <string name="submit_dialog_not_wifi_content">"Ihr Feedback wird zusammen mit den Fehlerberichten und angehängten Bildern an Xiaomi gesendet sobald einen WLAN-Verbindung besteht."</string>
+  <string name="submit_dialog_content">"Ihr Feedback wird zusammen mit den Fehlerberichten und angehängten Bildern an Xiaomi gesendet sobald eine WLAN-Verbindung besteht."</string>
+  <string name="submit_dialog_not_wifi_content">"Ihr Feedback wird zusammen mit den Fehlerberichten und angehängten Bildern an Xiaomi gesendet sobald eine WLAN-Verbindung besteht."</string>
   <string name="submit_dialog_title">Bericht an Xiaomi senden</string>
-  <string name="suggestion_description">Schreiben Sie hier Ihren Vorschlag</string>
+  <string name="suggestion_description">Schreiben Sie hierher Ihren Vorschlag</string>
   <string name="system_app_select">Systemapps</string>
   <string name="systemui">Benachrichtigungsleiste</string>
   <string name="title_nonsystem_app">Weitere Apps</string>
@@ -78,7 +78,7 @@
   <string name="toast_description_required">Beschreibung erforderlich</string>
   <string name="toast_feedback_collect_store">Berichte erstellen…</string>
   <string name="toast_feedback_network_unavailable">"Keine Verbindung zum Netzwerk möglich"</string>
-  <string name="toast_feedback_pending_wlan">"Ihr Bericht wird gesendet, sobald WLAN-Verbindung besteht."</string>
+  <string name="toast_feedback_pending_wlan">"Ihr Bericht wird gesendet, sobald eine WLAN-Verbindung besteht."</string>
   <string name="toast_feedback_submitted">Ihr Bericht wurde erfolgreich übermittelt.</string>
   <string name="toast_feedback_submitting">Übermittlung…</string>
   <string name="toast_feedbackservice_in_submit">Vorheriges Feedback wird gesendet…</string>
