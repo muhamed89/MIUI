@@ -2,7 +2,7 @@
 <resources>
   <string name="accessibility_add_attendee">Teilnehmer hinzufügen</string>
   <string name="accessibility_add_reminder">Erinnerung hinzufügen</string>
-  <string name="accessibility_all_day">Ganztägiges Termin</string>
+  <string name="accessibility_all_day">Ganztägiger Termin</string>
   <string name="accessibility_pick_end_date">Enddatum</string>
   <string name="accessibility_pick_end_time">Bis</string>
   <string name="accessibility_pick_start_date">Startdatum</string>
@@ -132,10 +132,10 @@
   <string name="edit_event_confirm_message">Änderungen verwerfen?</string>
   <string name="edit_event_from_label">Von</string>
   <string name="edit_event_label">Details</string>
-  <string name="edit_event_reminder_off_toast">Erinnerungen sind aus</string>
+  <string name="edit_event_reminder_off_toast">Erinnerungen sind ausgeschaltet</string>
   <string name="edit_event_show_all">Alle anzeigen</string>
   <string name="edit_event_to_label">Bis</string>
-  <string name="edit_label">Bearbeite</string>
+  <string name="edit_label">Bearbeiten</string>
   <string name="email_guests_label">E-Mail an Gäste</string>
   <string name="email_picker_label">E-Mail mit</string>
   <string name="email_subject_prefix">"AW: "</string>
@@ -176,7 +176,7 @@
   <string name="hint_description">Beschreibung</string>
   <string name="hint_what">Bezeichnung</string>
   <string name="hint_where">Standort</string>
-  <string name="horoscope_card_comprehensive">Allgemeine Horoskop：</string>
+  <string name="horoscope_card_comprehensive">Allgemeines Horoskop：</string>
   <string name="horoscope_card_financial">Geld-Horoskop：</string>
   <string name="horoscope_card_love">Liebeshoroskop：</string>
   <string name="horoscope_card_working">Karriere-Horoskop：</string>
@@ -394,7 +394,7 @@
   <string name="user_notice_button_exit">Beenden</string>
   <string name="user_notice_button_ok">OK</string>
   <string name="user_notice_declaration_ignore">"Nicht mehr anzeigen"</string>
-  <string name="user_notice_message">"Der Verwendung dieser Funktion akzeptieren Sie Xiaomis %1$s und %2$s. Diese App benötigt eine Internetverbindung, um ordnungsgemäß ausgeführt werden zu können."</string>
+  <string name="user_notice_message">"Der Verwendung dieser Funktion akzeptieren Sie Xiaomi´s %1$s und %2$s. Diese App benötigt eine Internetverbindung, um ordnungsgemäß ausgeführt werden zu können."</string>
   <string name="user_notice_title">Benutzerbenachrichtigung</string>
   <string name="user_notification">Benutzerbenachrichtigung</string>
   <string name="user_notification_descrip">Benutzerbenachrichtigung immer beim Öffnen des Kalenders anzeigen</string>
