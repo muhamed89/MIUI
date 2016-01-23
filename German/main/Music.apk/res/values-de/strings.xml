@@ -85,6 +85,7 @@
   <string name="create_playlist">Wiedergabeliste erstellen</string>
   <string name="create_playlist_failure">"Wiedergabeliste konnte nicht erstellt werden"</string>
   <string name="current_services">Aktuelle Dienste</string>
+  <string name="current_version">Current version</string>
   <string name="data_usage_warning">Datennutzung</string>
   <string name="data_usage_warning_summary">Die Nutzung der mobilen Daten zum Streamen von Musik mit hoher Qualität kann die Datennutzung während des Ladens erhöhen.</string>
   <string name="delete">Löschen</string>
@@ -301,7 +302,9 @@
   <string name="music_filter">Audiodateien filtern</string>
   <string name="music_quality">Audioqualität</string>
   <string name="music_settings">Musik</string>
-  <string name="my_account">Mi Konto</string>
+  <string name="music_traffic">Music data plan</string>
+  <string name="music_traffic_summary">Listen and download songs without using data</string>
+  <string name="my_account">Mi Account</string>
   <string name="my_music_empty">Die Wiedergabeliste ist leer.</string>
   <string name="my_music_empty_goto_online">Keine Titel gefunden</string>
   <string name="my_playlist">Meine Wiedergabeliste</string>
@@ -335,7 +338,13 @@
   <string name="not_login">Nicht angemeldet</string>
   <string name="not_now">Nicht jetzt</string>
   <string name="not_selected">Wähle einen Titel</string>
-  <string name="nowplaying_menu_item_delete">Löschen</string>
+  <string name="notification_des_next_song">Next song: %s</string>
+  <string name="notification_des_no_song">Mi Music. New every day.</string>
+  <string name="notification_headset_custom">Dismiss</string>
+  <string name="notification_headset_info">Tap to view settings.</string>
+  <string name="notification_headset_settings">Headphones connected</string>
+  <string name="notification_title_no_song">"Check out what everyone's listening to!"</string>
+  <string name="nowplaying_menu_item_delete">Delete</string>
   <string name="ok">OK</string>
   <string name="one_month">1 Monat</string>
   <string name="online_list_delete_message">Alle heruntergeladenen Songs in dieser Playlist werden vom Gerät gelöscht.</string>
@@ -408,6 +417,8 @@
   <string name="set_lyric_successful">Songtext gespeichert</string>
   <string name="set_ringtones_failed">"Klingelton konnte nicht eingestellt werden"</string>
   <string name="set_ringtones_successful">%s als Klingelton eingestellt</string>
+  <string name="settings_notification_text">Show player widget in notification shade</string>
+  <string name="settings_notification_title">Notification shade widget</string>
   <string name="share_append_text">Aus @MIUI</string>
   <string name="share_chooser_title">Teilen</string>
   <string name="share_description">Aus Mi Music</string>
@@ -465,6 +476,7 @@
   <string name="toast_cancel_download">Download abgebrochen</string>
   <string name="toast_download_error_by_count_limit">"Sie haben das Limit Ihrer Downloads für diesen Monat erreicht."</string>
   <string name="toast_download_error_by_vip_required">Holen Sie sich Premium Abonnement, um diesen Song herunterladen zu können.</string>
+  <string name="toast_download_in_process">Download in process</string>
   <string name="toast_normal_songs_for_download">Download qualität auf Standard gesetzt</string>
   <string name="toast_normal_songs_for_stream">Streaming qualität auf Standard gesetzt</string>
   <string name="toast_stream_normal">Playing songs in standard quality. Get Premium subscription to listen to high quality audio.</string>
@@ -483,6 +495,7 @@
   <string name="track_main_fragment_tab_track">Titel</string>
   <string name="track_search_title">Titel</string>
   <string name="track_view">Titel</string>
+  <string name="traffic_free_to_play">Use music data plan</string>
   <string name="trigger_to_scan_media_library_finish">Aktualisiert</string>
   <string name="trigger_to_scan_media_library_processing">Aktualisiere…</string>
   <string name="trigger_to_scan_media_library_start">Aktualisiere…</string>
@@ -501,12 +514,11 @@
   <string name="upgrade_vip">Upgrade to Premium</string>
   <string name="upgrade_waringing">"Sie werden nur in der Lage sein, lokale Titel abzuspielen."</string>
   <string name="valid_period">"Gültig: "</string>
+  <string name="version_info">Version</string>
   <string name="vip_auto_renew_message">Ihre Musik-Abonnement wird heute Abend automatisch verlängert. Stellen Sie sicher, dass Sie genügend Mi-Credits haben um diese Zahlung abzuschließen.</string>
   <string name="vip_auto_renew_notification_message">Fügen Sie MiCredits um Ihr Musik-Abonnement zu verlängern.</string>
   <string name="vip_auto_renew_notification_title">Abonnement-Zahlung</string>
   <string name="vip_auto_renew_title">Abo-Verlängerung</string>
-  <string name="vip_expiration_message">"Wenn Ihre Mitgliedschaft abläuft, können Sie Musik nur mit 128Kbps streamen. Wegen rechtlichen Beschränkungen sind einige Titel nicht zum Herunterladen verfügbar."</string>
-  <string name="vip_expiration_title">Mitgliedschaft läuft bald aus</string>
   <string name="vip_renew_message">"Es ist nicht möglich hochwertige Audio zu streamen, aber einige Songs werden in regelmäßigen Qualität verfügbar sein."</string>
   <string name="vip_renew_notification_message">"Es ist nicht möglich hochwertige Audio zu streamen, nachdem Ihr Abonnement abläuft."</string>
   <string name="vip_renew_notification_title">Abonnement gültig bis morgen</string>
