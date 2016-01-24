@@ -213,7 +213,7 @@
   <string name="monthly_on_day_count">Monatlich (%1$s %2$s)</string>
   <string name="more_string">+%1$s</string>
   <string name="movable_list_header_label">Kurze Einführung</string>
-  <string name="network_not_available">"Can't connect to the network"</string>
+  <string name="network_not_available">"Kann nicht mit dem Netzwerk verbinden."</string>
   <string name="new_event_dialog_label">Neuer Termin</string>
   <string name="new_event_dialog_option">Neuer Termin</string>
   <string name="no_calendars_found">Damit Sie einen Termin hinzufügen können, müssen Sie mindestens ein Google-Konto zu Ihrem Gerät hinzufügen und einen Kalender sichtbar machen. Tippen Sie zum Hinzufügen eines Kontos auf \"Konto hinzufügen\". Falls Sie gerade ein Konto hinzugefügt haben, warten Sie, bis die Synchronisierung abgeschlossen ist, und versuchen Sie es dann erneut. Sie können auch auf \"Abbrechen\" tippen und sich vergewissern, dass mindestens ein Kalender sichtbar ist.</string>
