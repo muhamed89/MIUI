@@ -1291,8 +1291,9 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="free_wifi_user_agreement_allow">Zustimmen</string>
   <string name="free_wifi_user_agreement_title">Nutzungsbedingung</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
-  <string name="frequently_fragment_delete">Entfernen</string>
-  <string name="frequently_fragment_tempty">Häufig genutzte Elemente werden hier aufgelistet</string>
+  <string name="free_xiaomi_wifi_connect_summary">Tap to connect to %1$s.</string>
+  <string name="frequently_fragment_delete">Remove</string>
+  <string name="frequently_fragment_tempty">Frequently used items will be listed here</string>
   <string name="gadget_bluetooth">Bluetooth</string>
   <string name="gadget_brightness_state_auto">automatisch</string>
   <string name="gadget_brightness_state_full">voll</string>
@@ -1584,6 +1585,7 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="lock_after_timeout">Automatisch sperren</string>
   <string name="lock_after_timeout_summary">%1$s nach dem Schlaf</string>
   <string name="lock_after_timeout_summary_with_exception">%1$s nach dem Schlaf, ausser es bleibt entriegelt durch %2$s</string>
+  <string name="lock_intro_message">Lock_intro_message</string>
   <string name="lock_screen_notifications_interstitial_message">Wenn Ihr Gerät gesperrt ist, wie wollen Sie dann Benachrichtigungen anzeigen lassen?</string>
   <string name="lock_screen_notifications_summary_disable">"Zeige überhaupt keine Benachrichtigungen an"</string>
   <string name="lock_screen_notifications_summary_hide">Blende sensiblen Benachrichtigungsinhalt aus</string>
@@ -1599,6 +1601,7 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="lock_settings_picker_settings">Bildschirmsperre</string>
   <string name="lock_settings_picker_title">Sperre auswählen</string>
   <string name="lock_settings_title">Bildschirmsicherheit</string>
+  <string name="lock_settings_with_fingerprint">Lock screen &amp; password</string>
   <string name="lock_setup">Einrichtung abgeschlossen.</string>
   <string name="lock_sounds_enable_title">Ton bei Bildschirmsperre</string>
   <string name="lockpassword_cancel_label">Abbrechen</string>
@@ -2234,6 +2237,7 @@ Betriebssystem auswählen:"</string>
   <string name="proxy_settings_title">Proxy</string>
   <string name="proxy_url">"PAC URL: "</string>
   <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
+  <string name="proxy_url_title">"PAC URL: "</string>
   <string name="proxy_warning_limited_support">Der HTTP-Proxy wird vom Browser, aber nicht von anderen Apps verwendet.</string>
   <string name="query_hint_text">Sucheinstellungen</string>
   <string name="quick_launch_assign_application">App zuweisen</string>
@@ -2337,6 +2341,7 @@ Betriebssystem auswählen:"</string>
  Anwendungsdaten gehen nicht verloren."</string>
   <string name="reset_app_preferences_title">App-Einstellungen zurücksetzen?</string>
   <string name="reset_legacy_password_settings_preface_text">Sie müssen Ihr Sperrbildschirmpasswort zurücksetzen.</string>
+  <string name="resolver_settings_label">Sort</string>
   <string name="resource_ringtone_volume_mute">Ihr Klingelton steht auf Lautlos</string>
   <string name="restore_default_apn">Standard-APN-Einstellungen werden wiederhergestellt.</string>
   <string name="restore_default_apn_completed">Zurücksetzen auf Standard-APN-Einstellungen abgeschlossen</string>
@@ -2613,7 +2618,11 @@ Um Screen-Pinning zu nutzen:
   <string name="show_touches">Berührungen anzeigen</string>
   <string name="show_touches_summary">Visuelles Feedback für Berührungen anzeigen</string>
   <string name="show_user_info_on_lockscreen_label">Benutzerinfos im Sperrbildschirm anzeigen</string>
-  <string name="silent_mode_title">Lautlos</string>
+  <string name="shut_down_find_device_failure_confirm">OK</string>
+  <string name="shut_down_find_device_network_failure_content">"Couldn't turn off Find device. Make sure your device is connected to the internet."</string>
+  <string name="shut_down_find_device_network_failure_title">"Can't connect to the network"</string>
+  <string name="shuting_down_find_device">Turning off Find device…</string>
+  <string name="silent_mode_title">Silent mode</string>
   <string name="sim_absent">Keine SIM/RUIM</string>
   <string name="sim_bad_pin">Falsche PIN</string>
   <string name="sim_call_back_title">Von der Standard-SIM zurückrufen</string>
@@ -2650,6 +2659,7 @@ Möglicherweise ist die PIN falsch."</string>
   <string name="sim_enabler_need_disable_sim">Deaktiviere die SIM-Karte, sind Sie da sicher?</string>
   <string name="sim_enabler_need_enable_sim">Aktiviere die SIM-Karte, sind Sie da sicher?</string>
   <string name="sim_enabler_summary">SIM ist %1$s</string>
+  <string name="sim_enabler_title">SIM Enablers</string>
   <string name="sim_enter_cancel">Abbrechen</string>
   <string name="sim_enter_new">Neue PIN für SIM-Karte</string>
   <string name="sim_enter_ok">OK</string>
@@ -3246,12 +3256,14 @@ Jeder Nutzer kann aktualisierte App-Berechtigungen im Namen aller anderen Nutzer
   <string name="virus_scanner_update_lib">Virendatenbank aktualisieren</string>
   <string name="voice_category">Sprache</string>
   <string name="voice_input_output_settings">Spracheingabe &amp;-ausgabe</string>
+  <string name="voice_input_output_settings_title">Voice input &amp; output settings</string>
   <string name="voice_input_settings">Spracheingabeeinstellungen</string>
   <string name="voice_input_settings_title">Spracheingabe</string>
   <string name="voice_interaction_security_warning">Dieser Spracheingabedienst ist in der Lage immer-angestellte Stimmenüberwachung auszuführen und sprachbereite Apps Ihretwegen zu kontrollieren. Es wird von der %s Anwendung durchgeführt. Wollen Sie diesen Dienst aktivieren?</string>
   <string name="voice_interactor_preference_summary">Komplettes Hotword und Interaktion</string>
   <string name="voice_recognizer_preference_summary">Vereinfachte Sprache in Text</string>
   <string name="voice_search_settings_title">Sprachsuche</string>
+  <string name="voice_service_preference_section_title">Voice input services</string>
   <string name="volume_alarm_description">Wecker</string>
   <string name="volume_alarm_mute">Wecker lautlos</string>
   <string name="volume_bluetooth_description">Bluetooth</string>
