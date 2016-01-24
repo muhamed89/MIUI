@@ -166,7 +166,7 @@
   <string name="passport_account_identity_title">Bestätigen Sie Ihre Identität</string>
   <string name="passport_account_name">Konto: %1$s</string>
   <string name="passport_account_not_activated">Konto wurde nicht aktiviert</string>
-  <string name="passport_account_not_actived">"hr Konto wurde nicht aktiviert</string>
+  <string name="passport_account_not_actived">"Ihr Konto wurde nicht aktiviert</string>
   <string name="passport_active_email_visit">Prüfen Sie Ihren Posteingang %s</string>
   <string name="passport_activing_account">Aktiviere…</string>
   <string name="passport_app_name">Mi Konto</string>
@@ -212,7 +212,7 @@
   <string name="passport_error_unknown">"Anmeldung fehlgeschlagen"</string>
   <string name="passport_error_user_name">Ungültiger Benutzername</string>
   <string name="passport_error_verify_code">Der eingegebene Code ist ungültig</string>
-  <string name="passport_failed_to_send_activate_email">"ktivierungs-E-Mail konnte nicht gesendet werden</string>
+  <string name="passport_failed_to_send_activate_email">"Aktivierungs E-Mail konnte nicht gesendet werden</string>
   <string name="passport_find_password_on_web_msg">Besuchen Sie mi.com, um Ihr Passwort zurückzusetzen</string>
   <string name="passport_forget_password"><u>Passwort vergessen</u></string>
   <string name="passport_forget_password_no_underline">Passwort vergessen</string>
@@ -246,7 +246,7 @@
   <string name="passport_phone_num_hint_text">Telefonnummer</string>
   <string name="passport_prev">Zurück</string>
   <string name="passport_privacy_policy">Datenschutzerklärung</string>
-  <string name="passport_quick_login_dialog_step2_title">2-Schritt-Überprüfung</string>
+  <string name="passport_quick_login_dialog_step2_title">2-Schritt Überprüfung</string>
   <string name="passport_quick_login_dialog_title">Passwort eingeben</string>
   <string name="passport_quick_login_step2_title">2-Schritte Verifikation</string>
   <string name="passport_quick_login_title">Passwort eingeben</string>
@@ -254,7 +254,7 @@
   <string name="passport_re_register">Erneut anmelden</string>
   <string name="passport_recycle_account_prompt">Ist das Ihr Mi Konto?</string>
   <string name="passport_reg_failed">"Konto kann nicht erstellt werden"</string>
-  <string name="passport_reg_new">Erstellen Sie kostenlos ein Mi Konto</string>
+  <string name="passport_reg_new">Erstellen Sie ein kostenloses Mi Konto</string>
   <string name="passport_reg_sms_send_prompt">Sende den Bestätigungscode an %s</string>
   <string name="passport_reg_success">Konto erstellt</string>
   <string name="passport_reg_success_summary">%1$s wurde mit dem Konto verknüpft. Sie können es verwenden um sich anzumelden oder Ihr Passwort zu ändern.</string>
@@ -277,7 +277,7 @@
   <string name="passport_relogin_notice">Sie müssen sich erneut anmelden</string>
   <string name="passport_remove_confirm">Abmelden</string>
   <string name="passport_remove_unactivated_account_notice">Ihr Konto wurde nicht aktiviert</string>
-  <string name="passport_resend_active_email">Aktivierungs-E-Mail erneut senden</string>
+  <string name="passport_resend_active_email">Aktivierungs E-Mail erneut senden</string>
   <string name="passport_reset_fail_title">"Konnte nicht zurückgesetzt werden"</string>
   <string name="passport_reset_password_prompt">Das Passwort ist falsch</string>
   <string name="passport_reset_password_title">Passwort zurücksetzen</string>
@@ -300,7 +300,7 @@
   <string name="passport_user_agreement_p4">Datenschutzbestimmungen</string>
   <string name="passport_vcode">Bestätigungscode</string>
   <string name="passport_vcode_notification_title">Ihre Anmeldedaten sind unvollständig</string>
-  <string name="passport_vcode_prompt_long">Füge den Bestätigungscode ein</string>
+  <string name="passport_vcode_prompt_long">Fügen Sie den Bestätigungscode ein</string>
   <string name="passport_verification_failed">Bestätigung fehlgeschlagen</string>
   <string name="passport_verify">Bestätigen</string>
   <string name="passport_wait_for_sms_prompt">"Jetzt erstellen? Die Bestätigungsnachricht kann bis zu 10 Minuten verzögert eintreffen, wenn sich das Gerät außerhalb eines unterstützten Mobilfunknetzes befindet."</string>
@@ -334,7 +334,7 @@
   <string name="register_by_email"><u>E-Mail-Adresse verwenden um ein Mi Konto zu erstellen</u></string>
   <string name="relogin">Erneut anmelden</string>
   <string name="remove_account_notice">Was möchten Sie mit Ihren Nachrichten, Kontakten und anderen synchronisierten Daten in Ihrem Mi Konto anstellen?</string>
-  <string name="remove_device_success_notice">Wenn Sie das Gerät von den vertrauten Geräten entfernst, müssen Sie den den Anmeldevorgang erneut durchlaufen um sich wieder anzumelden.</string>
+  <string name="remove_device_success_notice">Wenn Sie das Gerät von den vertrauten Geräten entfernen, müssen Sie den den Anmeldevorgang erneut durchführen um sich wieder anzumelden.</string>
   <string name="remove_trust_btn">Von vertrauten Geräten entfernen</string>
   <string name="remove_trust_notice">Von vertrauten Geräten entfernen und abmelden</string>
   <string name="removing_account">Abmelden…</string>
@@ -385,5 +385,5 @@
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Einige Daten wurden nicht synchronisiert</string>
   <string name="wrong_captcha">Der eingegebene Code ist falsch</string>
-  <string name="wrong_vcode">Der eingegebene Bestätigungscode ist fasch</string>
+  <string name="wrong_vcode">Der eingegebene Bestätigungscode ist falsch</string>
 </resources>
