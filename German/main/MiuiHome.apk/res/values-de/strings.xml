@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_not_found">Anwendung nicht installiert</string>
+  <string name="add_screen">Add screen button</string>
   <string name="app_already_exist">App bereits vorhanden</string>
   <string name="app_being_backup_message">App wurde gesichert</string>
   <string name="app_being_restored_message">App wurde wiederhergestellt</string>
@@ -59,11 +60,12 @@
   <string name="default_folder_title_security">System</string>
   <string name="default_folder_title_tools">Werkzeuge</string>
   <string name="default_shortcut_title_10086">10086.cn</string>
-  <string name="delete">Löschen</string>
-  <string name="delete_wallpaper_message">%1$d Hintergrund löschen?</string>
-  <string name="delete_wallpapers_message">%1$d Hintergründe löschen?</string>
-  <string name="deselect_all">Keine</string>
-  <string name="disable_wallpaper_scroll">Hintergrund-Scrollen ausschalten</string>
+  <string name="delete">Delete</string>
+  <string name="delete_screen">Delete screen button</string>
+  <string name="delete_wallpaper_message">Delete %1$d wallpaper?</string>
+  <string name="delete_wallpapers_message">Delete %1$d wallpapers?</string>
+  <string name="deselect_all">Deselect all</string>
+  <string name="disable_wallpaper_scroll">Turn side-scrolling off</string>
   <string name="download_action">Download</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$2d:%5$02d</string>
@@ -204,6 +206,7 @@
   <string name="recommend_apps_switch_title">Empfohlene Apps</string>
   <string name="recommend_apps_tips">Diese Funktion benötigt eine Internetverbindung. Um die Funktion auszuschalten, Tippen Sie auf den Ordnernamen.</string>
   <string name="reset_scene_prompt">Standardlayout zurücksetzen</string>
+  <string name="screen_number">The %d screen</string>
   <string name="scroll_tip_format_when_announce_accessibility">Auf Seite %1$d, %2$d Apps</string>
   <string name="select_all">Alle auswählen</string>
   <string name="select_frame">Rahmen</string>
@@ -251,6 +254,7 @@
   <string name="wallpaper_auto_change_title">Bildschirmsperre</string>
   <string name="wallpaper_failed_message">Hintergrund kann nicht angewendet werden</string>
   <string name="wallpaper_scaling_message">Skalieren auf feste Größe</string>
+  <string name="wallpaper_scrolling">all</string>
   <string name="wallpaper_settings">Hintergrund</string>
   <string name="wallpaper_success_message">Hintergrund hinzugefügt</string>
   <string name="widget_favorite_contacts_edit">Editor</string>
