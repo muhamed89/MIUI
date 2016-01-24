@@ -2,7 +2,7 @@
 <resources>
   <string name="Accounts_settings_title">Konten</string>
   <string name="about_settings">Über das Gerät</string>
-  <string name="about_settings_summary">Rechtliche Hinweise, Status und Softwareversion anzeigen</string>
+  <string name="about_settings_summary">Softwareversion, Status und Rechtliche Hinweise anzeigen</string>
   <string name="ac_enable_title">Apps sperren</string>
   <string name="ac_privacy_mode_sum">Zum Beenden des Gastmodus ist ein Passwort erforderlich</string>
   <string name="ac_privacy_mode_title">Passwort</string>
@@ -17,7 +17,7 @@
   <string name="access_control_no_back_footer">Zum Beenden [icon] drücken</string>
   <string name="access_control_password_title">Passwort</string>
   <string name="access_control_recording_intro_header">Zeichnen Sie ein Entsperrmuster:</string>
-  <string name="access_control_reset_by_account">Um Ihr Passwort zurückzusetzen, melden Sie sich bei Ihrem Mi-Konto an.</string>
+  <string name="access_control_reset_by_account">Um Ihr Passwort zurückzusetzen, melden Sie sich mit Ihrem Mi-Konto an.</string>
   <string name="access_point_names">Zugangspunktnamen</string>
   <string name="accessibility_captioning_title">Beschriftungen</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Dieses Feature ist experimentell und kann die Leistung beeinträchtigen.</string>
@@ -50,7 +50,7 @@ Wenn Sie reingezoomt haben, können Sie:
 "&lt;li&gt; &lt;ul&gt;"Verschieben: Ziehen Sie zwei oder mehrere Finger über den Bildschirm.
 "&lt;li&gt;Zoomen: Ziehen Sie zwei oder mehr Finger zusammen oder auseinander.&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt;"
 
-Sie können auch vorübergehend alles, was sich unter Ihrem Finger befindet, durch dreifach-Antippen und Halten vergrössern. In diesem vergrößerten Zustand können Sie den Finger bewegen, um verschiedene Teile des Bildschirms zu erkunden. Heben Sie Ihren Finger, um zum Ursprungszustand zurückzukehren.
+Sie können auch vorübergehend alles, was sich unter Ihrem Finger befindet, durch dreifaches Antippen und Halten vergrössern. In diesem vergrößerten Zustand können Sie den Finger bewegen, um verschiedene Teile des Bildschirms zu erkunden. Heben Sie Ihren Finger, um zum Ursprungszustand zurückzukehren.
 
 Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für die Tastatur und Navigationsleiste."</string>
   <string name="accessibility_screen_magnification_title">Vergrößerungsgesten</string>
@@ -94,31 +94,31 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="add_device_admin">Aktivieren</string>
   <string name="add_device_admin_msg">Geräteadministrator aktivieren?</string>
   <string name="add_fingerprint_done_msg">Sie können Ihr Gerät nun mit Ihrem Fingerabdruck entsperren.</string>
-  <string name="add_fingerprint_done_title">Fertig!</string>
+  <string name="add_fingerprint_done_title">Fertig</string>
   <string name="add_fingerprint_finished_button_text">Fertig</string>
   <string name="add_fingerprint_instruction_dialog_msg">"Um Ihre Fingerabdruckdetails hinzuzufügen, legen Sie Ihren Finger auf dem Sensor.
 Stellen Sie sicher, dass Ihr Finger die Innenkante des Sensors bedeckt"</string>
   <string name="add_fingerprint_instruction_msg">Entsperren Sie Ihr Gerät oder bestätigen Sie Ihre Bezahlung mit Ihrem Fingerabdruck</string>
-  <string name="add_fingerprint_instruction_title">Legen Sie Ihren Finger auf dem Scanner</string>
-  <string name="add_fingerprint_put_finger_edge_msg">Nach dem drücken des Sensor, entfernen Sie den Finger und versuchen es erneut.</string>
-  <string name="add_fingerprint_put_finger_msg">Nach dem drücken des Sensor, entfernen Sie den Finger und versuchen es erneut.</string>
+  <string name="add_fingerprint_instruction_title">Legen Sie Ihren Finger auf den Scanner</string>
+  <string name="add_fingerprint_put_finger_edge_msg">Nach dem drücken des Sensors, entfernen Sie den Finger und versuchen es erneut.</string>
+  <string name="add_fingerprint_put_finger_msg">Nach dem drücken des Sensors, entfernen Sie den Finger und versuchen es erneut.</string>
   <string name="add_fingerprint_put_finger_title">Finger platzieren und entfernen</string>
   <string name="add_fingerprint_text">Fingerabdruck hinzufügen</string>
-  <string name="add_fingerprint_toast_text">Legen Sie Ihren Finger jetzt auf dem Scanner</string>
-  <string name="adding_profile_owner_warning">"Wenn Sie weiter vorgehen, wird Ihr User Konto von Ihrem Administrator verwaltet, der dann auch zugeordneten Daten neben Ihren persönlichen Daten speichern kann.
+  <string name="add_fingerprint_toast_text">Legen Sie Ihren Finger jetzt auf den Scanner</string>
+  <string name="adding_profile_owner_warning">"Wenn Sie weiter vorgehen, wird Ihr Benutzer Konto von Ihrem Administrator verwaltet, der dann auch zugeordneten Daten neben Ihren persönlichen Daten speichern kann.
 
-Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu überwachen und verwalten, die mit diesem User Konto, einschließlich Netzwerkaktivität und Standortinformationen Ihres Geräts, verbunden sind."</string>
+Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu überwachen und verwalten, die mit diesem Benutzer Konto, einschließlich Netzwerkaktivität und Standortinformationen Ihres Geräts, verbunden sind."</string>
   <string name="additional_system_update"/>
   <string name="additional_system_update_menu"/>
   <string name="additional_system_update_settings_list_item_title">Zusätzliche System-Updates</string>
-  <string name="adjust_3d_depth_title">"Spiele anpassen' 3D Tiefe"</string>
+  <string name="adjust_3d_depth_title">"Spiele anpassen 3D Tiefe"</string>
   <string name="advanced_security_title">Erweitert</string>
   <string name="advanced_settings">Erweiterte Einstellungen</string>
   <string name="advanced_settings_summary">Weitere Einstellungsoptionen aktivieren</string>
   <string name="advanced_text_layout">Aktivieren Sie erweiterte Textlayouts</string>
   <string name="agps_roaming">A-GPS bei Datenroaming</string>
   <string name="agps_roaming_dia">Die Verwendung von A-GPS bei Datenroaming kann zu erhöhten Kosten führen.</string>
-  <string name="agps_roaming_dia_title">A-GPS beim Datenroaming verwenden</string>
+  <string name="agps_roaming_dia_title">A-GPS bei Datenroaming verwenden</string>
   <string name="agps_roaming_summary">Die Verwendung von A-GPS bei Datenroaming kann zu erhöhten Kosten führen</string>
   <string name="airplane_mode">Flugmodus</string>
   <string name="alarm_volume_option_title">Alarmlautstärke</string>
@@ -133,19 +133,19 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="allow_data_usage_title">Gestatten Sie die Datennutzung beim Roaming</string>
   <string name="allow_mock_location">Manipulierte Standortdaten</string>
   <string name="allow_mock_location_summary">Manipulierte Standortdaten zulassen</string>
-  <string name="allow_usage_access_message">Wenn Sie Zugang erlauben, dann kann diese App allgemeine Informationen zu den Apps auf Ihrem Gerät,  wie zum Beispiel, wie oft Sie diese verwenden, anzeigen.</string>
+  <string name="allow_usage_access_message">Wenn Sie den Zugang erlauben, dann kann diese App allgemeine Informationen zu den Apps auf Ihrem Gerät anzeigen.  Zum Beispiel wie oft Sie diese verwenden.</string>
   <string name="allow_usage_access_title">Zugang erlauben?</string>
   <string name="alpha_build">" | Alpha"</string>
   <string name="always_allow_bind_appwidgets_text">Sie haben dieser App das Erstellen von Widgets und den Zugriff auf Ihre Daten erlaubt.</string>
-  <string name="amber_alerts_summary">Erhalten Sie Bulletins über Kindesentführungen</string>
+  <string name="amber_alerts_summary">Erhalten Sie Meldungen über Kindesentführungen</string>
   <string name="amber_alerts_title">AMBER Alarmbereitschaft</string>
   <string name="android_beam_disabled_summary">Bitte NFC einschalten</string>
-  <string name="android_beam_explained">Sie können Webseiten, ein Video oder andere Inhalte auf ein anderes Gerät beamen das Android Beam unterstützt, indem Sie die Geräte dicht nebeneinander halten.(Normalerweise Rückseite an Rückseite)</string>
+  <string name="android_beam_explained">Sie können Webseiten, ein Video oder andere Inhalte auf ein anderes Gerät senden das Android Beam unterstützt, indem Sie die Geräte dicht nebeneinander halten.(Normalerweise Rückseite an Rückseite)</string>
   <string name="android_beam_label">Android Beam</string>
   <string name="android_beam_off_summary">Aus</string>
   <string name="android_beam_on_summary">Bereit zur Übertragung von App-Inhalten über NFC</string>
   <string name="android_beam_settings_title">Android Beam</string>
-  <string name="android_beam_tips">Stellen Sie sicher, das sich die beiden Geräte berühren, und berühren Sie dann die Inhalte, die Sie beamen möchten.</string>
+  <string name="android_beam_tips">Stellen Sie sicher, das sich die beiden Geräte berühren, und wählen Sie dann die Inhalte aus, die Sie senden möchten.</string>
   <string name="android_beam_witch_label">Android Beam einschalten</string>
   <string name="animator_duration_scale_title">Animationsgeschwindigkeit</string>
   <string name="anti_spam">Blockliste</string>
@@ -192,7 +192,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
  Möchten Sie es wirklich ausschalten?"</string>
   <string name="app_floating_window_dlg_enable">"Einschalten von %1$s's Popup Einstellungen erfordert einen Neustart der App. Sie können die Anwendung auch manuell neustarten.
  Möchten Sie es wirklich einschalten?"</string>
-  <string name="app_forward_locked">Die App ist kopiergeschützt.</string>
+  <string name="app_forward_locked">Diese App ist kopiergeschützt.</string>
   <string name="app_install_location_summary">Bevorzugten Installationspfad für neue Apps ändern</string>
   <string name="app_install_location_title">Bevorzugter Installationspfad</string>
   <string name="app_memory_use">Speichernutzung</string>
@@ -235,7 +235,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="apply_fingerprint_to_category_title">Fingerabdruck anwenden...</string>
   <string name="apply_now_button_text">Update</string>
   <string name="apply_password_to_category_title">Passwort anwenden auf...</string>
-  <string name="apply_update_fail">Update fehlgeschlagen.</string>
+  <string name="apply_update_fail">Update fehlgeschlagen</string>
   <string name="apps_with_restrictions_header">Apps mit Einschränkungen</string>
   <string name="apps_with_restrictions_settings_button">App-Einstellungen erweitern</string>
   <string name="ask_compatibility">Beim Start fragen</string>
@@ -355,7 +355,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="battery_info_voltage_units">mV</string>
   <string name="battery_level_title">Akkuladung</string>
   <string name="battery_light_title">Akku LED</string>
-  <string name="battery_msg_unaccounted">Akkuverbrauch ist eine Näherung von Stromverbrauch und enthält nicht jede Quelle von Batterieentladung. Sonstiges ist die Differenz von dem berechneten ungefähren Stromverbrauch und der eigentlichen beobachteten Entladung der Batterie.</string>
+  <string name="battery_msg_unaccounted">Der Akkuverbrauch ist eine Näherung von Stromverbrauch und enthält nicht jede Quelle von Batterieentladung. Sonstiges ist die Differenz von dem berechneten ungefähren Stromverbrauch und der eigentlichen beobachteten Entladung der Batterie.</string>
   <string name="battery_saver">Akku-Sparer</string>
   <string name="battery_saver_turn_on_automatically_never">Nie</string>
   <string name="battery_saver_turn_on_automatically_pct">bei %1$d%% an Akku</string>
@@ -460,7 +460,7 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="bluetooth_enter_passkey_msg">Geben Sie den Pairing-Code und drücken Sie Return oder Enter</string>
   <string name="bluetooth_enter_passkey_other_device">Möglicherweise müssen Sie diesen Schlüssel auch auf dem anderen Gerät eingeben.</string>
   <string name="bluetooth_enter_pin_msg">Gerät</string>
-  <string name="bluetooth_enter_pin_msg_hs">Gerät benötigt einen High-SecurityHauptschlüssel mit 16 Zeichen</string>
+  <string name="bluetooth_enter_pin_msg_hs">Gerät benötigt einen High-Security Hauptschlüssel mit 16 Zeichen</string>
   <string name="bluetooth_enter_pin_other_device">Möglicherweise müssen Sie diese PIN auch auf dem anderen Gerät eingeben.</string>
   <string name="bluetooth_error_title"/>
   <string name="bluetooth_headset_profile_summary_connected">Mit Headset verbunden</string>
@@ -562,12 +562,12 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="bluetooth_turning_on">Bluetooth aktivieren?</string>
   <string name="bluetooth_unknown"/>
   <string name="bluetooth_unlock_add_device">Gerät hinzufügen</string>
-  <string name="bluetooth_unlock_change_device_confirm_msg">Das alte Gerät wird mit dem Neuen ersetzt.</string>
+  <string name="bluetooth_unlock_change_device_confirm_msg">Das alte Gerät wird mit dem Neuen ersetzt</string>
   <string name="bluetooth_unlock_change_matched_device">Anderes Gerät auswählen</string>
-  <string name="bluetooth_unlock_confirm_device_text">Zum Bestätigen, Bitte erneut auf das Gerät tippen.</string>
+  <string name="bluetooth_unlock_confirm_device_text">Zum Bestätigen, Bitte erneut auf das Gerät tippen</string>
   <string name="bluetooth_unlock_delete_device">Dieses Gerät entfernen</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Dieses Gerät entfernen?</string>
-  <string name="bluetooth_unlock_device_matched_text">Dieses Gerät zum Entsperren verwenden.</string>
+  <string name="bluetooth_unlock_device_matched_text">Dieses Gerät zum Entsperren verwenden</string>
   <string name="bluetooth_unlock_no_matched_device_yet">Kein Gerät verfügbar</string>
   <string name="bluetooth_unlock_settings_devices_title">Gerät</string>
   <string name="bluetooth_unlock_settings_toggle_title">Anwenden für</string>
@@ -679,7 +679,7 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="choose_timezone">Zeitzone wählen</string>
   <string name="cleaner">Bereinigung</string>
   <string name="clear_activities">Auf Standard zurücksetzen</string>
-  <string name="clear_activities_summary">Dieses App für einige Aktionen als Standard setzen</string>
+  <string name="clear_activities_summary">Diese App für einige Aktionen als Standard setzen</string>
   <string name="clear_adb_keys">USB-Debugging Genehmigungen widerrufen</string>
   <string name="clear_cache_btn_text">Cache leeren</string>
   <string name="clear_data_dlg_text">Alle Daten dieser App werden endgültig gelöscht. Dazu zählen alle Dateien, Einstellungen, Konten, Datenbanken u.s.w.</string>
@@ -764,11 +764,11 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="crypt_keeper_confirm_encrypt">Sie müssen Ihr Entsperrmuster zeichnen, um die Geräteverschlüsselung zu bestätigen.</string>
   <string name="crypt_keeper_confirm_title">Verschlüsseln?</string>
   <string name="crypt_keeper_cooldown">Versuchen Sie es in ^1 Sekunden erneut.</string>
-  <string name="crypt_keeper_data_corrupt_summary">"Das eingegebene Passwort ist korrekt, aber leider sind Ihre Daten korrupt. 
+  <string name="crypt_keeper_data_corrupt_summary">"Das eingegebene Passwort ist korrekt, aber leider sind Ihre Daten beschädigt. 
 
 Um Ihr Telefon wieder nutzen zu können, müssen Sie es auf Werkszustand zurücksetzen. Wenn Sie Ihr Telefon nach dem Reset eingestellt haben, haben Sie die Möglichkeit, alle Daten, die auf Ihr Google-Konto gesichert wurden, wiederherzustellen."</string>
   <string name="crypt_keeper_data_corrupt_title">Entschlüsselung fehlgeschlagen</string>
-  <string name="crypt_keeper_desc">"Sie können Ihre Konten, Einstellungen, heruntergeladenen Apps mit den dazugehörigen Daten sowie Multimedia- und andere Dateien verschlüsseln. Nach der Verschlüsselung Ihres Geräts ist bei jedem Einschalten die Eingabe einer PIN-Nummer oder eines Passworts erforderlich. Sie können die Verschlüsselung Ihres Geräts nur aufheben, indem Sie das Gerät auf die Werkseinstellungen zurücksetzen. Dabei werden alle Ihre Daten gelöscht.
+  <string name="crypt_keeper_desc">"Sie können Ihre Konten, Einstellungen, heruntergeladene Apps mit den dazugehörigen Daten sowie Multimedia- und andere Dateien verschlüsseln. Nach der Verschlüsselung Ihres Geräts ist bei jedem Einschalten die Eingabe einer PIN-Nummer oder eines Passworts erforderlich. Sie können die Verschlüsselung Ihres Geräts nur aufheben, indem Sie das Gerät auf die Werkseinstellungen zurücksetzen. Dabei werden alle Ihre Daten gelöscht.
 
 Die Verschlüsselung dauert mindestens eine Stunde. Vergewissern Sie sich zu Beginn, dass Ihr Akku vollständig geladen ist, und lassen Sie Ihr Gerät angeschlossen, bis die Verschlüsselung abgeschlossen ist. Eine Unterbrechung dieses Vorgangs kann zu teilweisem oder vollständigem Datenverlust führen."</string>
   <string name="crypt_keeper_dialog_need_password_message">Sie müssen eine PIN oder ein Passwort für die Bildschirmsperre festlegen, bevor Sie die Verschlüsselung starten können.</string>
@@ -778,7 +778,7 @@ Die Verschlüsselung dauert mindestens eine Stunde. Vergewissern Sie sich zu Beg
   <string name="crypt_keeper_enter_password">Passwort eingeben</string>
   <string name="crypt_keeper_failed_summary">"Die Verschlüsselung wurde unterbrochen und kann nicht abgeschlossen werden. Daher ist der Zugriff auf die Daten des Geräts nicht mehr möglich.
 
-Damit Sie Ihr Gerät wieder verwenden können, müssen Sie es auf die Werkseinstellungen zurücksetzen. Wenn Sie Ihr Gerät nach dem Zurücksetzen wieder einrichten, können Sie gegebenenfalls Daten, die gesichert wurden, in Ihrem Google-Konto wiederherstellen."</string>
+Damit Sie Ihr Gerät wieder verwenden können, müssen Sie es auf die Werkseinstellungen zurücksetzen. Wenn Sie Ihr Gerät nach dem Zurücksetzen wieder einrichten, können Sie gegebenenfalls Daten, die gesichert wurden, von Ihrem Google-Konto wiederherstellen."</string>
   <string name="crypt_keeper_failed_title">Verschlüsselung fehlgeschlagen</string>
   <string name="crypt_keeper_final_desc">"Dieser Vorgang ist nicht umkehrbar und jede Unterbrechung ist mit einem Datenverlust verbunden. Die Verschlüsselung dauert mindestens eine Stunde. In dieser Zeit wird das Telefon mehrfach neu gestartet."</string>
   <string name="crypt_keeper_low_charge_text">Laden Sie Ihren Akku auf und versuchen Sie es erneut.</string>
@@ -991,7 +991,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="dialog_title_hdmi_color_calibration">Standard Farbkorrektur</string>
   <string name="dialog_title_login">An Ihrem MI-Konto anmelden</string>
   <string name="dialog_yes">Ja</string>
-  <string name="disableNetwork">disableNetwork</string>
+  <string name="disableNetwork">Deaktivieren von Netzwerk</string>
   <string name="disable_data_string">Datenverbindung deaktivieren</string>
   <string name="disable_overlays">HW Overlays ausschalten</string>
   <string name="disable_overlays_summary">Immer GPU zur Darstellung verwenden</string>
@@ -1021,9 +1021,9 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="dlg_confirm_usb_unmount_text">Wenn Sie den USB-Speicher auswerfen, werden einige Apps, die Sie verwenden, angehalten und sind möglicherweise nicht verfügbar, bis Sie den USB-Speicher wieder einstecken.</string>
   <string name="dlg_confirm_usb_unmount_title">USB-Speicher auswerfen?</string>
   <string name="dlg_error_uicc_unmount_text">"Konnte UICC Speicher nicht aushängen. Bitte später nochmal probieren."</string>
-  <string name="dlg_error_unmount_text">"Konnte SD-Karte nicht auswerfen. Bitte später nochmal probieren."</string>
+  <string name="dlg_error_unmount_text">"SD-Karte konnte nicht ausgeworfen werden. Bitte später nochmal probieren."</string>
   <string name="dlg_error_unmount_title"/>
-  <string name="dlg_error_usb_unmount_text">"Konnte USB-Speicher nicht auswerfen. Bitte später nochmal probieren."</string>
+  <string name="dlg_error_usb_unmount_text">"USB-Speicher konnte nicht ausgeworfen werden. Bitte später nochmal probieren."</string>
   <string name="dlg_ok">OK</string>
   <string name="dndm_alarm_content">Töne</string>
   <string name="dndm_alarm_content_all">Alles erlauben</string>
