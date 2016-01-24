@@ -1585,7 +1585,6 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="lock_after_timeout">Automatisch sperren</string>
   <string name="lock_after_timeout_summary">%1$s nach dem Schlaf</string>
   <string name="lock_after_timeout_summary_with_exception">%1$s nach dem Schlaf, ausser es bleibt entriegelt durch %2$s</string>
-  <string name="lock_intro_message">Lock_intro_message</string>
   <string name="lock_screen_notifications_interstitial_message">Wenn Ihr Gerät gesperrt ist, wie wollen Sie dann Benachrichtigungen anzeigen lassen?</string>
   <string name="lock_screen_notifications_summary_disable">"Zeige überhaupt keine Benachrichtigungen an"</string>
   <string name="lock_screen_notifications_summary_hide">Blende sensiblen Benachrichtigungsinhalt aus</string>

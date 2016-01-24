@@ -254,7 +254,6 @@
   <string name="wallpaper_auto_change_title">Bildschirmsperre</string>
   <string name="wallpaper_failed_message">Hintergrund kann nicht angewendet werden</string>
   <string name="wallpaper_scaling_message">Skalieren auf feste Größe</string>
-  <string name="wallpaper_scrolling">all</string>
   <string name="wallpaper_settings">Hintergrund</string>
   <string name="wallpaper_success_message">Hintergrund hinzugefügt</string>
   <string name="widget_favorite_contacts_edit">Editor</string>
