@@ -60,18 +60,15 @@
   <string name="birthday_event_description_tomorrow">Morgen</string>
   <string name="birthday_event_description_yesterday">Gestern</string>
   <string name="birthday_metric"/>
-  <string name="birthday_notice_message">Geburtstagserinnerungen benötigen eine Netzwerkverbindung bevor sie angezeigt werden können. Stimmen Sie zu?</string>
   <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_days_later">%1$s Tage bis %4$s (%5$s)</string>
-  <string name="birthday_notification_text_three_days_later">Noch 3 Tage bis %3$s (%4$s)</string>
   <string name="birthday_notification_text_today">"Nicht vergessen zu gratulieren."</string>
   <string name="birthday_notification_title_days_later">"%1$s's %2$s Tage später."</string>
-  <string name="birthday_notification_title_three_days_later">"%1$s's %2$s steht an."</string>
   <string name="birthday_notification_title_today">"%1$s's %3$s"</string>
   <string name="birthday_notification_type_term_lunar"/>
   <string name="birthday_term">Geburtstag</string>
   <string name="book_card_free">Kostenlos</string>
-  <string name="book_card_rating_text">|   %1$s Bewertungen</string>
+  <string name="book_card_rating_text">|   %1$s Bewertungen</string>
   <string name="button_day">T</string>
   <string name="button_month">M</string>
   <string name="button_online">Bestellen</string>
@@ -97,12 +94,7 @@
 • Sichern von Terminen mit Schutzfunktion"</string>
   <string name="creating_event">Termin erstellt</string>
   <string name="creating_event_with_guest">Einladung werden gesendet</string>
-  <string name="cta_notice_checkbox">Merken</string>
-  <string name="cta_notice_message">"Für die Geburtstagserinnerungsfunktion wird der Zugriff auf Ihre Kontakte benötigt."</string>
   <string name="cta_notice_ok">Zustimmen</string>
-  <string name="cta_notice_title">Berechtigungsanfrage</string>
-  <string name="cta_notify_settings">Nachfragen</string>
-  <string name="custom">"Benutzerdefiniert (Anpassung über das Gerät nicht möglich)"</string>
   <string name="daily">Täglich</string>
   <string name="data_notice_change_settings">Einstellungen ändern</string>
   <string name="data_notice_continue_confirm">Fortsetzen</string>
@@ -171,6 +163,7 @@
   <string name="gadget_no_events">Keine anstehenden Termine</string>
   <string name="gadget_title">Kalender</string>
   <string name="goto_today">Heute</string>
+  <string name="guide_card_hint_text">Tap to open Mi Cloud</string>
   <string name="hide_controls">Steuerelemente aus</string>
   <string name="hint_attendees">Gäste</string>
   <string name="hint_description">Beschreibung</string>
@@ -184,12 +177,9 @@
   <string name="huangli_bad_type">Meiden</string>
   <string name="huangli_good_type">Passend</string>
   <string name="huangli_label"/>
-  <string name="internet_connection_notification">Benachrichtigung bei Internetverbindung</string>
-  <string name="internet_connection_notification_descrip">Benachrichtigung über die Internetverbindung immer anzeigen wenn der Kalender geöffnet wird.</string>
-  <string name="joke_card_icon_text">|  %1$s Personen lachen</string>
+  <string name="joke_card_icon_text">|  %1$s Personen lachen</string>
   <string name="jump_date">Springen</string>
   <string name="jump_date_full">Zum Datum springen</string>
-  <string name="jump_text">%1$s &gt;</string>
   <string name="label_recent_events">Aktuelle Veranstaltungen</string>
   <string name="loading">Einen Moment…</string>
   <string name="local_calendar_display_name">Lokaler Kalender</string>
@@ -223,6 +213,7 @@
   <string name="monthly_on_day_count">Monatlich (%1$s %2$s)</string>
   <string name="more_string">+%1$s</string>
   <string name="movable_list_header_label">Kurze Einführung</string>
+  <string name="network_not_available">"Can't connect to the network"</string>
   <string name="new_event_dialog_label">Neuer Termin</string>
   <string name="new_event_dialog_option">Neuer Termin</string>
   <string name="no_calendars_found">Damit Sie einen Termin hinzufügen können, müssen Sie mindestens ein Google-Konto zu Ihrem Gerät hinzufügen und einen Kalender sichtbar machen. Tippen Sie zum Hinzufügen eines Kontos auf \"Konto hinzufügen\". Falls Sie gerade ein Konto hinzugefügt haben, warten Sie, bis die Synchronisierung abgeschlossen ist, und versuchen Sie es dann erneut. Sie können auch auf \"Abbrechen\" tippen und sich vergewissern, dass mindestens ein Kalender sichtbar ist.</string>
