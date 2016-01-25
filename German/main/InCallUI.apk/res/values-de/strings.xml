@@ -193,8 +193,9 @@
   <string name="suspect_info">Vorsicht: Sie sollten bei erstem Kontakt immer die Indentität prüfen bevor Sie auf Nachrichten über ihre Finanzen antworten.</string>
   <string name="unknown">Unbekannt</string>
   <string name="upgrade_vt_prompt">Möchten Sie den Anruf per Videoanruf weiterführen?</string>
-  <string name="upgrade_vt_rx_prompt">Would you like to upgrade the call to video receive only call?</string>
-  <string name="upgrade_vt_tx_prompt">Would you like to upgrade the call to video transmit only call?</string>
+  <string name="video_call_not_allowed_if_tty_enabled">Schalten Sie zuerst TTY-Modus</string>
+  <string name="video_switch_to_voice_call_prompt">Wechseln Sie zur Sprachanruf</string>
+  <string name="voicemail">Voicemail</string>
   <string name="video_call_not_allowed_if_tty_enabled">Als erstes TTY Modus abschalten</string>
   <string name="video_switch_to_voice_call_prompt">Wechsle zu Sprach Telefonie</string>
   <string name="voicemail">Sprach Nachricht</string>
