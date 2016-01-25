@@ -3,7 +3,7 @@
   <string name="access_sd_fail">"Kein Zugriff auf den SD-Karte möglich."</string>
   <string name="accessibility_camera_picker">Front- und Rückkamera wechseln</string>
   <string name="accessibility_flash_mode_button">FlashButton</string>
-  <string name="accessibility_hdr">HDR-Kippschalter</string>c
+  <string name="accessibility_hdr">HDR-Kippschalter</string>
   <string name="accessibility_module_picker">ModulePicker</string>
   <string name="accessibility_panorama_review_cancel">Panorama speichern abbrechen</string>
   <string name="accessibility_review_thumbnail">Neueste Fotos</string>
