@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    
+    <string-array name="clir_display_values">
+        <item>Network default</item>
+        <item>Hide number</item>
+        <item>Show number</item>
+    </string-array>
+    <string-array name="clir_values">
+        <item>DEFAULT</item>
+        <item>HIDE</item>
+        <item>SHOW</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>TD-SCDMA, LTE, CDMA, EvDo GSM/WCDMA</item>
+        <item>TD-SCDMA, GSM/WCDMA, CDMA and EvDo</item>
+        <item>TD-SCDMA, GSM/WCDMA and LTE</item>
+        <item>TD-SCDMA, WCDMA and LTE</item>
+        <item>TD-SCDMA, GSM/WCDMA</item>
+        <item>TD-SCDMA, GSM and LTE</item>
+        <item>TD-SCDMA and GSM</item>
+        <item>TD-SCDMA and LTE</item>
+        <item>TD-SCDMA and WCDMA</item>
+        <item>TD-SCDMA only</item>
+        <item>LTE/WCDMA</item>
+        <item>LTE only</item>
+        <item>LTE/GSM/CDMA auto (PRL)</item>
+        <item>LTE/GSM auto (PRL)</item>
+        <item>LTE/CDMA auto (PRL)</item>
+        <item>GSM/CDMA auto (PRL)</item>
+        <item>EvDo only</item>
+        <item>CDMA only</item>
+        <item>CDMA auto (PRL)</item>
+        <item>GSM auto (PRL)</item>
+        <item>WCDMA only</item>
+        <item>GSM only</item>
+        <item>WCDMA preferred</item>
+    </string-array>    
+    <string-array name="call_barring_outgoing_display_values">
+        <item>Off</item>
+        <item>International roam call</item>
+        <item>International call</item>
+        <item>Outgoing call</item>
+    </string-array>    
+    <string-array name="call_barring_incoming_display_values">
+        <item>Off</item>
+        <item>Roaming</item>
+        <item>All</item>
+    </string-array>    
+    <string-array name="list_language_entries">
+        <item>English</item>
+        <item>French</item>
+        <item>Spanish</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>Chinese</item>
+        <item>Hebrew</item>
+    </string-array>
+    <string-array name="list_language_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>    
+    <string-array name="voicemail_notification_vibrate_when_values">
+        <item>always</item>
+        <item>silent</item>
+        <item>never</item>
+    </string-array>            
+</resources>
