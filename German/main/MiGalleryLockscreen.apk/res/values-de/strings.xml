@@ -21,7 +21,7 @@
   <string name="resource_apply">Anwenden</string>
   <string name="resource_no_network_text">"Keine Verbindung zum Netzwerk möglich."</string>
   <string name="setting_head">Einstellungen</string>
-  <string name="summary">Akzeptieren unsere &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Benutzervereinbarung&lt;/a&gt; und &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Datenschutz&lt;/a&gt; um zu starten. Internet-Verbindung erforderlich."</string>
+  <string name="summary">"Akzeptieren unsere &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Benutzervereinbarung&lt;/a&gt; und &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Datenschutz&lt;/a&gt; um zu starten. Internet-Verbindung erforderlich."</string>
   <string name="theme_apply_failured">"Sperrbildschirm-Hintergrundbild kann nicht verwendet werden"</string>
   <string name="theme_apply_success">Sperrbildschirm-Hintergrundbild Angewendet</string>
   <string name="theme_applying">wird angewendet…</string>

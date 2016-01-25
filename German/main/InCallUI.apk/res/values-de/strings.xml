@@ -194,12 +194,8 @@
   <string name="unknown">Unbekannt</string>
   <string name="upgrade_vt_prompt">Möchten Sie den Anruf per Videoanruf weiterführen?</string>
   <string name="video_call_not_allowed_if_tty_enabled">Schalten Sie zuerst den TTY-Modus ein</string>
-  <string name="video_switch_to_voice_call_prompt">Wechseln Sie zum Sprachanruf</string>
-  <string name="voicemail">Voicemail</string>
-  <string name="video_call_not_allowed_if_tty_enabled">Zuerst TTY Modus abschalten</string>
   <string name="video_switch_to_voice_call_prompt">Zu Sprachtelefonie wechseln</string>
-  <string name="voicemail">Sprach Nachricht</string>
-  <string name="wait_prompt_str">"Folgende Töne senden?
-"</string>
+  <string name="voicemail">Sprachnachricht</string>
+  <string name="wait_prompt_str">"Folgende Töne senden?"</string>
   <string name="waiting_close_airplane_mode">Einen Moment…</string>
 </resources>

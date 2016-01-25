@@ -295,7 +295,6 @@
   <string name="pref_video_quality_entry_4kuhd">4K</string>
   <string name="pref_video_quality_entry_720p">HD</string>
   <string name="pref_video_quality_entry_fwvga">FWVGA</string>
-  <string name="pref_video_quality_entry_value_4kuhd">8</string>
   <string name="pref_video_quality_entry_vga">VGA</string>
   <string name="pref_video_quality_entry_wqvga">WQVGA</string>
   <string name="pref_video_quality_entry_wvga">WVGA</string>
