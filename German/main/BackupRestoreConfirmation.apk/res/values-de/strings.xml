@@ -6,7 +6,7 @@
 
 Haben Sie die Sicherung nicht selbst angefordert, sollten Sie den Vorgang abbrechen."</string>
   <string name="backup_confirm_title">Vollständige Sicherung</string>
-  <string name="backup_enc_password_optional">Bei Verschlüsselung der Sicherungsdaten, bitte Passwort eingeben:</string>
+  <string name="backup_enc_password_optional">Bei Verschlüsselung der Sicherungsdaten, bitte Passwort eingeben:</string>  
   <string name="backup_enc_password_required">Da das Gerät verschlüsselt ist, müssen Sie Ihr Backup verschlüsseln. Bitte geben Sie Ihr Passwort ein:</string>
   <string name="backup_enc_password_text">Kennwort für die Verschlüsselung der Sicherungsaten eingeben. Wenn Sie dieses Feld leer lassen, wird Ihr aktuelles Sicherungskennwort verwendet:</string>
   <string name="current_password_text">Geben Sie Ihr aktuelles Sicherungspasswort unten ein:</string>

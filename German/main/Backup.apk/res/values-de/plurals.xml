@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<plurals name="data_item_count">
+         <item quantity="other">%d Elemente</item>
+         <item quantity="one">%d Element</item>
+    </plurals>
     <plurals name="trans_time_format_minute">
         <item quantity="other">%d Minuten</item>
         <item quantity="one">%d Minute</item>
