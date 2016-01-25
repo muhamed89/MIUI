@@ -5,12 +5,8 @@
   <string name="ci_extreme">FX-Verstärker</string>
   <string name="eq_dialog_title">Equalizer</string>
   <string name="headset_plug">Für diese Effekte benötigen Sie Kopfhörer.</string>
-  <string name="main_toggle_effects_title">Audio-Effekte</string>
   <string name="no_effects">Effekte nicht verfügbar.</string>
   <string name="picker_title">Steuerfeld für Musikeffekte</string>
-  <string name="pr_dialog_title">Voreinstellung für Hall</string>
-  <string name="pr_summary">Zusätzliche Nachhalleffekte</string>
-  <string name="pr_title">Hall:</string>
   <string name="setup">Einrichtung</string>
   <string name="user">Nutzer</string>
   <string name="virtualizer_strength">3D-Effekt</string>
