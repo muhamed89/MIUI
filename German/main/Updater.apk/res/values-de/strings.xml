@@ -208,7 +208,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="update_feedback_end">Sie haben das Voting für diese Woche verpasst</string>
   <string name="update_feedback_end_sum">Sie können jeden Montag mitmachen</string>
   <string name="update_feedback_expired">Leider diese Woche verpasst.
-Sie können aber nnächsten Monat mitmachen.</string>
+Sie können aber nächsten Monat mitmachen.</string>
   <string name="update_feedback_need_account">Sie müssen sich zuerst mit Ihrem Mi Account anmelden</string>
   <string name="update_feedback_need_network">Bitte zuerst mit dem Netzwerk verbinden</string>
   <string name="update_feedback_need_update">Sie müssen zuerst die aktuellste Entwickler-Version installieren</string>
