@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Nalert_msg_vip_songs_for_download_limited">
-        <item quantity="other">Sie können diesen Monat nur %d Premium-Songs herunterladen. Ausgewählte Lieder trotzdem herunterladen?</item>
+        <item quantity="other">Sie können diesen Monat nur %d Premium-Lieder herunterladen. Stocken Sie Ihr Premium-Paket auf, um weitere Lieder herunterladen zu können.</item>
      </plurals>
      <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
-        <item quantity="other">Sie können diesen Monat nur %d Premium-Songs herunterladen. Erweitern Sie Ihr Premium-Song-Paket, um mehr herunterladen zu können.</item>
+        <item quantity="other">Sie können diesen Monat nur %d Premium-Lieder herunterladen. Ausgewählte Lieder trotzdem herunterladen?</item>
      </plurals>
     <plurals name="Ntracks_search_result">
         <item quantity="other">%d Lieder gefunden</item>
