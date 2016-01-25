@@ -12,7 +12,8 @@
   <string name="category_dev_settings_title">Entwickleroptionen</string>
   <string name="category_etws_settings_title">ETWS Einstellungen</string>
   <string name="category_india_settings_title">Einstellungen für Indien</string>
-  <string name="cb_other_message_identifiers">Cell broadcast</string>
+  <string name="cb_other_message_identifiers">Cell Broadcast</string>
+  <string name="cell_broadcast_settings_not_available">Cell Broadcast Einstellungen sind für diesen Benutzer nicht verfügbar</string>
   <string name="cmas_amber_alert">Kindesentführung (Entführungsalarm)</string>
   <string name="cmas_category_cbrne">Chemisch/Biologisch/Nuklear/Explosiv</string>
   <string name="cmas_category_env">Ökologisch</string>

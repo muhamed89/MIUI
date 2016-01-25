@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessbility_suggestion_dropdown_opened">Kontaktempfehlungen geöffnet</string>
   <string name="accessibility_add_attendee">Teilnehmer hinzufügen</string>
   <string name="accessibility_add_reminder">Erinnerung hinzufügen</string>
   <string name="accessibility_all_day">Ganztägiger Termin</string>
@@ -23,6 +24,7 @@
   <string name="acessibility_cal_notification">Kalenderbenachrichtigung</string>
   <string name="acessibility_selected_marker_description">Ausgewählter Termin</string>
   <string name="acessibility_snooze_notification">Schlummerbenachrichtigung</string>
+  <string name="action_label">Zurück</string>
   <string name="action_text_new_event">Neuer Termin</string>
   <string name="action_text_online">Aboniert</string>
   <string name="action_text_today">Heute</string>
@@ -119,6 +121,7 @@
   <string name="does_not_repeat">Einmaliges Termin</string>
   <string name="done">Fertig</string>
   <string name="download">Download</string>
+  <string name="dropdown_delete_button_desc">%s von Empfängern entfernen</string>
   <string name="edit_event_all_day_label">Ganztägig</string>
   <string name="edit_event_calendar_label">Kalender</string>
   <string name="edit_event_confirm_message">Änderungen verwerfen?</string>
@@ -211,14 +214,15 @@
   <string name="monthly">Monatlich</string>
   <string name="monthly_on_day">Monatlich (am selben Tag)</string>
   <string name="monthly_on_day_count">Monatlich (%1$s %2$s)</string>
-  <string name="more_string">+%1$s</string>
+  <string name="more_string">+%1$d</string>
   <string name="movable_list_header_label">Kurze Einführung</string>
-  <string name="network_not_available">"Kann nicht mit dem Netzwerk verbinden."</string>
+  <string name="network_not_available">"Netzwerkverbindung nicht möglich."</string>
   <string name="new_event_dialog_label">Neuer Termin</string>
   <string name="new_event_dialog_option">Neuer Termin</string>
   <string name="no_calendars_found">Damit Sie einen Termin hinzufügen können, müssen Sie mindestens ein Google-Konto zu Ihrem Gerät hinzufügen und einen Kalender sichtbar machen. Tippen Sie zum Hinzufügen eines Kontos auf \"Konto hinzufügen\". Falls Sie gerade ein Konto hinzugefügt haben, warten Sie, bis die Synchronisierung abgeschlossen ist, und versuchen Sie es dann erneut. Sie können auch auf \"Abbrechen\" tippen und sich vergewissern, dass mindestens ein Kalender sichtbar ist.</string>
   <string name="no_local_calendar">Kein Kalender Abo</string>
   <string name="no_network">Netzwerk nicht verfügbar</string>
+  <string name="no_network_btn">Nochmals versuchen</string>
   <string name="no_syncable_calendars">Keine Kalender</string>
   <string name="no_title_label">(Kein Titel)</string>
   <string name="not_exist_topic_list">Kann nicht eine Liste der abonnierten Kalender abrufen</string>

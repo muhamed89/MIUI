@@ -66,6 +66,7 @@ Telefon, wie bei einem Anruf halten, ins Mikrofon sprechen. Die Stimme sollte mi
   <string name="cit_blue_tooth_address_check_title">Bluetooth-Adresse testen</string>
   <string name="cit_blue_tooth_scan_check_summary">Dieser Test zeigt alle verfügbaren Bluetooth-Geräte.</string>
   <string name="cit_blue_tooth_scan_check_title">Bluetooth-Scan testen</string>
+  <string name="cit_blue_torch_on">Blaues Blinklicht einschalten</string>
   <string name="cit_bluetooth_address_open_error">"Bluetooth-Adresse konnte nicht abgerufen werden."</string>
   <string name="cit_bluetooth_not_support">"Telefon unterstützt Bluetooth-Gerät nicht"</string>
   <string name="cit_bluetooth_scan_retry">Erneut scannen</string>
@@ -358,4 +359,5 @@ Drehen Sie das Telefon, sprechen Sie in das Mikrofon an der Position des Empfän
 
 Drehen Sie das Telefon, sprechen Sie in das obere Mikrofon, Sie sollten dann Ihre Stimme im Lautsprecher hören"</string>
   <string name="cit_x5_audio_lb_topmic_to_speaker_title">Top-Mikrofon-Lautsprecher Feedback Test</string>
+  <string name="cit_yellow_torch_on">Gelbes Blinklicht einschalten</string>
 </resources>

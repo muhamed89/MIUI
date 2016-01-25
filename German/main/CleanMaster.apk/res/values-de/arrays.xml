@@ -44,6 +44,11 @@
         <item>Datei</item>
         <item>Datei zu den Ausnahmen hinzufügen</item>
      </string-array>
+	 <string-array name="video_clean_menu">
+        <item>Diese Datei bereinigen</item>
+        <item>Öffnen</item>
+        <item>Datei zu den Ausnahmen hinzufügen</item>
+    </string-array>
     <string-array name="empty_floder_clean_menu">
         <item>Bereinigen</item>
     </string-array>
