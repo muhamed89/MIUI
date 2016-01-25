@@ -1,10 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Dokumente</string>
+  <string name="button_copy">Kopie</string>
+  <string name="button_select">Auswählen</string>
+  <string name="copy_failure_alert_content">"Diese Dateien wurden nicht kopiert: %1$s"</string>
+  <string name="copy_notification_title">Kopieren von Dateien</string>
+  <string name="copy_preparing">Vorbereitung für die Kopie…</string>
+  <string name="copy_remaining">%s links</string>
   <string name="create_error">Ordner konnte nicht erstellt werden.</string>
   <string name="drawer_close">Root-Verzeichnis ausblenden</string>
   <string name="drawer_open">Root-Verzeichnis anzeigen</string>
   <string name="empty">Keine Dokumente</string>
+  <string name="menu_advanced_hide">SD-Karte ausblenden</string>
+  <string name="menu_advanced_show">Karte SD-Karte</string>
+  <string name="menu_copy">Kopieren in…</string>
   <string name="menu_advanced_hide">Interne Speicher ausblenden</string>
   <string name="menu_advanced_show">Interne Speicher anzeigen</string>
   <string name="menu_create_dir">Ordner erstellen</string>
@@ -16,12 +25,14 @@
   <string name="menu_open">Öffnen</string>
   <string name="menu_save">Speichern</string>
   <string name="menu_search">Suchen</string>
+  <string name="menu_select_all">Alle auswählen</string>
   <string name="menu_select">\"^1\" auswählen</string>
   <string name="menu_settings">Einstellungen</string>
   <string name="menu_share">Teilen</string>
   <string name="menu_sort">Sortieren nach</string>
-  <string name="mode_selected_count">%1$d ausgewählt</string>
+  <string name="notification_touch_for_details">Berühren Sie, um Details anzuzeigen</string>
   <string name="query_error">Fehler bei der Anforderung von Dokumenten</string>
+  <string name="retry">Wiederholen</string>
   <string name="root_available_bytes">%1$s verfügbar</string>
   <string name="root_recent">Letzte</string>
   <string name="root_type_apps">Weitere Apps</string>
