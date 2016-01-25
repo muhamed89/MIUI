@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Gallerie</string>
+  <string name="at_least_one">Bitte wählen Sie mindestens eine Kategorie</string>
   <string name="cancel">Beenden</string>
   <string name="change_time">Wechselintervall</string>
   <string name="day">jeden Tag</string>
-  <string name="declaration">Aktuelles News, Promi-Trends, Videoinformationen, Lebensstil, für Sie in Echtzeit.</string>
+  <string name="declaration">Genießen Sie Kostenlose Abonnements zu den besten globalen Medien. Halten Sie aktuell mit den neuesten Nachrichten, Filmfreigaben und Promi-Summen.</string>
   <string name="declaration_lockscreen_title">Tägliche Hintergrundbilder aktivieren</string>
-  <string name="declaration_title">Nutzungsbedingungen</string>
+  <string name="declaration_title">Allgemeine Geschäftsbedingungen</string>
   <string name="hour_1">jede Stunde</string>
   <string name="hour_3">alle 3 Stunden</string>
   <string name="lockscreen_magazine_subscribe">%1$s folgen</string>
@@ -20,7 +21,7 @@
   <string name="resource_apply">Anwenden</string>
   <string name="resource_no_network_text">"Keine Verbindung zum Netzwerk möglich."</string>
   <string name="setting_head">Einstellungen</string>
-  <string name="summary">"Durch die Verwendung dieses Produkts erklären Sie sich &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Benutzervereinbarung&lt;/a&gt; und &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Privatsphäre&lt;/a&gt;. Diese Anwendung braucht eine Internetverbindung um sorgfältig arbeiten zu können."</string>
+  <string name="summary">Akzeptieren unsere &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Benutzervereinbarung&lt;/a&gt; und &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Datenschutz&lt;/a&gt; um zu starten. Internet-Verbindung erforderlich."</string>
   <string name="theme_apply_failured">"Sperrbildschirm-Hintergrundbild kann nicht verwendet werden"</string>
   <string name="theme_apply_success">Sperrbildschirm-Hintergrundbild Angewendet</string>
   <string name="theme_applying">wird angewendet…</string>
