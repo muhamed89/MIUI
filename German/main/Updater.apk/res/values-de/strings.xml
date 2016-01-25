@@ -13,7 +13,7 @@
   <string name="auto_button_examine_immediately">Einsehen</string>
   <string name="auto_button_sure_cancel">Abbrechen</string>
   <string name="auto_check_clause_button">Anzeigen</string>
-  <string name="auto_dialog_msg">Wird haben unsere Datenschutzerklärung aktualisiert. Bitte lesen Sie sie vor der Aktualisierung sorgfältig.</string>
+  <string name="auto_dialog_msg">Wir haben unsere Datenschutzerklärung aktualisiert. Bitte lesen Sie sie vor der Aktualisierung sorgfältig.</string>
   <string name="auto_dialog_msg_check_again">Sie müssen der aktualisierten Datenschutzerklärung zustimmen, um eine System-Aktualisierung durchführen zu können </string>
   <string name="auto_dialog_title_check_again">Aktualisierung abbrechen?</string>
   <string name="auto_update">Updates automatisch herunterladen</string>
@@ -46,7 +46,7 @@
   <string name="comment_sending">Wird gesendet…</string>
   <string name="comment_upload_failed">Senden des Kommentars fehlgeschlagen</string>
   <string name="comment_upload_hint">Danke für Ihr Feedback!</string>
-  <string name="comment_upload_not_logined">Sie müssen sich erst bei Ihrem Mi Konto anmelden</string>
+  <string name="comment_upload_not_logined">Sie müssen sich erst mit Ihrem Mi Konto anmelden</string>
   <string name="comment_upload_success">Gesendet</string>
   <string name="confirm_local_package_wipe_btn">Löschen und aktualisieren</string>
   <string name="confirm_local_package_wipe_msg">Ihre persönlichen Daten werden debei gelöscht. Vergewissern Sie sich, dass sie alle wichtigen Daten gesichert haben, bevor Sie diesen Vorgang starten.</string>
@@ -72,7 +72,7 @@
   <string name="expect">Erwartungen</string>
   <string name="experimental_build">Alpha</string>
   <string name="finish">OK</string>
-  <string name="fourgrid_hint_text">Sie verwenden die Entwicklerversion von MIUI, vielen Dank! Sagen Sie uns, was Sie davon halten und helfen Sie uns MIUI zu verbessern.</string>
+  <string name="fourgrid_hint_text">Sie verwenden die Entwicklerversion von MIUI, vielen Dank! Teilen Sie uns mit, was Sie davon halten und helfen Sie uns MIUI zu verbessern.</string>
   <string name="fourgrid_no_notificaiont">In der Status Bar nicht anzeigen</string>
   <string name="fourgrid_notificaiont">In der Status Bar anzeigen</string>
   <string name="get_auto">Verwende Mobilfunknetz oder WLAN</string>
@@ -89,7 +89,7 @@
   <string name="later">Später</string>
   <string name="loading">Anfrage…</string>
   <string name="log_share">Teilen</string>
-  <string name="menu_title_current_version_log">Was ist neu (Changelog)</string>
+  <string name="menu_title_current_version_log">Was ist neu? (Changelog)</string>
   <string name="menu_title_download_current_rom">Aktuelles Rom runterladen</string>
   <string name="menu_title_pick_rom_file">Von SD-Karte installieren</string>
   <string name="menu_title_recovery">Neustart ins Recovery</string>
@@ -125,7 +125,7 @@
   <string name="notification_reboot_summary_hm">Berühren, um Telefon neu zu starten</string>
   <string name="notification_reboot_title">Neustart erforderlich, damit Update übernommen wird</string>
   <string name="notification_reboot_title_hm">Neustart erforderlich, damit Update übernommen wird</string>
-  <string name="notification_restart">erneut aktualisieren</string>
+  <string name="notification_restart">Erneut aktualisieren</string>
   <string name="notification_share">Teile</string>
   <string name="notification_update_new_version">Update verfügbar</string>
   <string name="notification_update_now">Update jetzt durchführen</string>
@@ -139,12 +139,12 @@
   <string name="pm_root_acquired_rooting">Erlaube Root Zugriff %s</string>
   <string name="pm_root_checking">Überprüfe Systeminformationen…</string>
   <string name="pm_root_fail_button_retry">Wiederholen</string>
-  <string name="pm_root_fail_msg">"Diese App hat kein Root Zugriff. Bitte nochmal versuchen."</string>
+  <string name="pm_root_fail_msg">"Diese App hat keinen Root Zugriff. Bitte nochmal versuchen."</string>
   <string name="pm_root_fail_service_busy">Warten Sie bis die Aktualisierung fertig ist bevor Sie es erneut versuchen</string>
   <string name="pm_root_fail_title">Kein Root Zugriff</string>
-  <string name="pm_root_notification_download_title">Downloading</string>
-  <string name="pm_root_success_msg">Starten Sie ihr Gerät Neu um den letzten Schritt abzuschliesen</string>
-  <string name="pm_root_success_title">Root Zugriff Aktiviert</string>
+  <string name="pm_root_notification_download_title">Lädt herunter</string>
+  <string name="pm_root_success_msg">Starten Sie ihr Gerät Neu um den letzten Schritt abzuschließen</string>
+  <string name="pm_root_success_title">Root Zugriff aktiviert</string>
   <string name="previous">Zurück</string>
   <string name="progress_title_checking">Überprüfe auf Updates…</string>
   <string name="reboot">Neustart</string>
@@ -159,7 +159,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="repeat">Wiederholen</string>
   <string name="root_acquired">Erlaube Root Zugriff</string>
   <string name="root_agree_check_box_title">Die Risiken einens Root Zugriffs sind mir bewusst</string>
-  <string name="root_dangerous_msg">Root Zugriff ist riskant und kann Ihr Gerät sowie persönlichen Daten für Angreifer oder Schadprogramme verfügbar machen. Sie stimmen zu , dass Sie für alle Schäden an Ihrem Gerät oder Datenverluste, die aus der Gewährung des root-Zugriff führen können allein verantwortlich sind.</string>
+  <string name="root_dangerous_msg">Root Zugriff ist riskant und kann Ihr Gerät sowie persönlichen Daten für Angreifer oder Schadprogramme verfügbar machen. Sie stimmen zu , dass Sie für alle Schäden an Ihrem Gerät oder Datenverluste, die aus der Gewährung des root-Zugriffs führen können allein verantwortlich sind.</string>
   <string name="set_auto">Updates automatisch suchen</string>
   <string name="set_auto_msg">Updates automatisch über WLAN herunterladen</string>
   <string name="set_auto_update_title">Updates automatisch herunterladen</string>
@@ -167,8 +167,8 @@ http://zhushou.xiaomi.com"</string>
   <string name="set_installfail_msg">Sie befinden sich nicht im WLAN-Netzwerk. Download über das mobile Netzwerk wird Ihren Datenverbrauch stark ansteigen lassen. Sollten Sie keine Flatrate besitzen, dann könnten weitere Kosten entstehen.</string>
   <string name="set_installfail_title">Update erneut herunterladen?</string>
   <string name="set_installfail_title_full">Update fehlgeschlagen</string>
-  <string name="set_network_msg">Um die Update herunterzuladen, bitte mit dem WLAN-Netzwerk verbinden</string>
-  <string name="set_network_root_msg">Für Root Zugriff WLAN Verbindung benötigt</string>
+  <string name="set_network_msg">Um das Update herunterzuladen, bitte mit dem WLAN-Netzwerk verbinden</string>
+  <string name="set_network_root_msg">Für Root Zugriff wird eine WLAN Verbindung benötigt</string>
   <string name="set_network_title">WLAN-Verbindung aufbauen</string>
   <string name="set_only_wifi">Nur über WLAN</string>
   <string name="share">Teile</string>
@@ -187,9 +187,9 @@ http://zhushou.xiaomi.com"</string>
   <string name="sogou_uninstall_negative_button">Update Sogou</string>
   <string name="sogou_uninstall_positive_button">Keyboard ändern</string>
   <string name="sogou_uninstall_title">Keyboard Kompatibilität</string>
-  <string name="space_not_enough_msg">Es steht zu wenig Speicherplatz zur verfügung. Bitte Speicherplatz schaffen und wieder versuchen.</string>
+  <string name="space_not_enough_msg">Es steht zu wenig Speicherplatz zur Verfügung. Bitte Speicherplatz schaffen und erneut versuchen.</string>
   <string name="space_not_enough_title">Zu wenig Speicherplatz verfügbar</string>
-  <string name="stable_build">Stable</string>
+  <string name="stable_build">Stabil</string>
   <string name="submit">Sende</string>
   <string name="submit_fail">Senden fehlgeschlagen</string>
   <string name="submit_progress">Wird gesendet…</string>
@@ -199,18 +199,18 @@ http://zhushou.xiaomi.com"</string>
   <string name="title_toast_auto">Updates werden automatisch heruntergeladen</string>
   <string name="top_secret_build">Top-secret</string>
   <string name="unkown_error_title">Download nicht möglich</string>
-  <string name="unstable_build">Unstable</string>
+  <string name="unstable_build">Instabil</string>
   <string name="update_comment_hint"/>
   <string name="update_comment_title">Kommentar</string>
   <string name="update_downfull_no_info_sum">Warten Sie eine bis zwei Minuten und versuchen sie es erneut</string>
   <string name="update_downfull_no_info_title">Update konnte nicht heruntergeladen werden</string>
-  <string name="update_feedback">Bewerte diese Update</string>
+  <string name="update_feedback">Bewerte dieses Update</string>
   <string name="update_feedback_end">Sie haben das Voting für diese Woche verpasst</string>
   <string name="update_feedback_end_sum">Sie können jeden Montag mitmachen</string>
   <string name="update_feedback_expired">Leider diese Woche verpasst.
-Sie können aber nächsten Monat mitmachen.</string>
+Sie können aber nnächsten Monat mitmachen.</string>
   <string name="update_feedback_need_account">Sie müssen sich zuerst mit Ihrem Mi Account anmelden</string>
-  <string name="update_feedback_need_network">Bitte erst mit dem Netzwerk verbinden</string>
+  <string name="update_feedback_need_network">Bitte zuerst mit dem Netzwerk verbinden</string>
   <string name="update_feedback_need_update">Sie müssen zuerst die aktuellste Entwickler-Version installieren</string>
   <string name="update_feel">Wie zufrieden sind Sie?</string>
   <string name="update_general">Gut</string>
@@ -242,7 +242,7 @@ des Beta-Feedback-Program</string>
   <string name="vote_error2">Feedback konnte nicht übermittelt werden.
 Aktualisieren Sie Ihr Gerät und versuchen Sie es erneut.</string>
   <string name="vote_error3">Anmeldung fehlgeschlagen.
-Versuchen Sie sich erneut beim Mi Konto anzumelden.</string>
+Versuchen Sie sich erneut in Ihrem Mi Konto anzumelden.</string>
   <string name="vote_error4">Feedback bereits übermittelt</string>
   <string name="vote_error5">Es ist ein Fehler aufgetreten.
 Feedback konnte nicht übermittelt werden.</string>
