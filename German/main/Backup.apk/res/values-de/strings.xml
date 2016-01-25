@@ -295,7 +295,6 @@ Gehen Sie zu Einstellungen > weitere Einstellungen > Mi Mover
   <string name="trans_sender_searching">Nach neuen Geräten suchen</string>
   <string name="trans_sender_searching_ensurance">"Das alte Gerät muß eingeschaltet sein.
  Warten auf Verbindung mit dem alten Gerät…"</string>
-  <string name="trans_sender_time_remained">"%s Übrig. Das Gerät muss aufgeladen sein. Schalten Sie nicht das WLAN an. Halten Sie beide Geräte in der Nähe."</string>
   <string name="trans_sending_completed">Senden erfolgreich</string>
   <string name="trans_sender_time_remained">"Noch %s.
   Schalten Sie den WLAN Hotspot nicht aus. Halten Sie beide Geräte in der Nähe."</string>
