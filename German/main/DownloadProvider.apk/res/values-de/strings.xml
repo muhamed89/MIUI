@@ -50,7 +50,7 @@
   <string name="permlab_downloadManager">Auf Download-Manager zugreifen</string>
   <string name="permlab_downloadManagerAdvanced">Erweiterte Funktionen des Download-Managers.</string>
   <string name="permlab_downloadWithoutNotification">Dateien ohne Benachrichtigung herunterladen</string>
-  <string name="permlab_seeAllExternal">Alle USB-Speicherdownloads anz.</string>
+  <string name="permlab_seeAllExternal">Alle Downloads auf SD-Karte anz.</string>
   <string name="privacy_notif_content">Berühren, um Details anzuzeigen.</string>
   <string name="privacy_notif_title">Xunlei-Downloadbeschleuniger ist an</string>
   <string name="privacy_tip_cancel">Abbrechen</string>
