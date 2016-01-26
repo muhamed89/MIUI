@@ -72,6 +72,7 @@
     <plurals name="high_power_count">
         <item quantity="other">%d Apps dürfen Akkuoptimierung umgehen</item>
         <item quantity="one">1 App darf Akkuoptimierung umgehen</item>
+	</plurals>
     <plurals name="wrong_pin_code">
         <item quantity="other">Falsche PIN. Sie haben noch %d Versuche.</item>
         <item quantity="one">Falsche PIN. Sie haben noch %d Versuch, bevor Sie das Gerät von Ihrem Mobilfunkanbieter entsperren lassen müssen.</item>
