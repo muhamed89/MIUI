@@ -2070,6 +2070,7 @@ Betriebssystem auswählen:"</string>
   <string name="network_detail">%s Netzwerkdetails</string>
   <string name="network_error">Es ist ein Netzwerkfehler aufgetreten</string>
   <string name="network_operators_settings">Netzwerkbetreiber</string>
+  <string name="network_reset_not_available">Netzwerkreset ist für diesen Benutzer nicht verfügbar</string>
   <string name="network_scorer_change_active_dialog_text">Wollen Sie %1$s anstelle von %2$s nutzen, um Ihre Netzwerkverbindungen zuverwalten?</string>
   <string name="network_scorer_change_active_dialog_title">WLAN-Assistenten ändern?</string>
   <string name="network_scorer_change_active_no_previous_dialog_text">Wollen Sie %s nutzen, um Ihre Netzwerkverbindungen zu verwalten?</string>
@@ -2082,7 +2083,21 @@ Betriebssystem auswählen:"</string>
   <string name="next_button_label">Weiter</string>
   <string name="next_label">Weiter</string>
   <string name="nfc_category_title">NFC</string>
+  <string name="nfc_how_it_works_content">Richten Sie eine Bezahl-App ein. Dann halten Sie die Rückseite Ihres Geräts an ein Terminal mit einem NFC-Symbol.</string>
+  <string name="nfc_how_it_works_got_it">Verstanden</string>
+  <string name="nfc_how_it_works_title">Am Terminal bezahlen</string>
   <string name="nfc_more_title">Mehr...</string>
+  <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
+  <string name="nfc_payment_default">Zahlunggsstandard</string>
+  <string name="nfc_payment_default_not_set">Nicht eingerichtet</string>
+  <string name="nfc_payment_favor_default">Immer</string>
+  <string name="nfc_payment_favor_open">Außer wenn eine andere Bezahl-App geöffnet ist</string>
+  <string name="nfc_payment_how_it_works">"So funktioniert's"</string>
+  <string name="nfc_payment_no_apps">Bezahlen Sie mit Ihrem Telefon in Geschäften</string>
+  <string name="nfc_payment_pay_with">An einem Tap &amp; Pay Terminal, bezahlen mit:</string>
+  <string name="nfc_payment_set_default">Immer %1$s benutzen wenn Sie Tap &amp; Pay verwenden?</string>
+  <string name="nfc_payment_set_default_instead_of">Immer %1$s anstelle von %2$s verwenden, wenn Sie Tap &amp; Pay verwenden?</string>
+  <string name="nfc_payment_set_default_label">Als Standard einstellen?</string>
   <string name="nfc_payment_favor_foreground">Vordergrund-App favorisieren</string>
   <string name="nfc_payment_learn_more">Weitere Informationen</string>
   <string name="nfc_payment_menu_item_add_service">Apps suchen</string>
@@ -2094,13 +2109,24 @@ Betriebssystem auswählen:"</string>
   <string name="nfc_quick_toggle_summary">Datenaustausch bei Kontakt mit anderen Geräten zulassen</string>
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="nfc_se_route_title">Sichere Elementposition</string>
+  <string name="night_mode_auto">Automatisch</string>
+  <string name="night_mode_no">Hell</string>
+  <string name="night_mode_summary">%s</string>
+  <string name="night_mode_title">Thema</string>
+  <string name="night_mode_yes">Dunkel</string>
   <string name="no">Nein</string>
   <string name="no_all_caps">NEIN</string>
   <string name="no_application">Keine</string>
   <string name="no_applications">Keine Apps</string>
+  <string name="no_battery_summary">Kein Akkuverbrauch seit der letzten vollen Ladung</string>
+  <string name="no_data_usage">Keine Daten verbraucht</string>
+  <string name="no_default_apps">Keine Standardanwendungen.</string>
   <string name="no_condition_providers">Keine Bedingungsanbieter sind installiert.</string>
   <string name="no_device_admins">Keine Geräteadministratoren verfügbar</string>
+  <string name="no_internet_access_remember">Für dieses Netzwerk nicht mehr nachfragen</string>
+  <string name="no_internet_access_text">Dieses Netzwerk hat keinen Internetzugang. Verbunden bleiben?</string>
   <string name="no_media_button_receiver">Nein</string>
+  <string name="no_memory_use_summary">Kein Speicher in den letzten 3 Stunden verbraucht</string>
   <string name="no_nearby_wifi">Keine Netzwerke gefunden.</string>
   <string name="no_notification_listeners">Keine Benachrichtigungs-Listener installiert</string>
   <string name="no_running_services">Nichts wird ausgeführt.</string>
@@ -2129,6 +2155,14 @@ Betriebssystem auswählen:"</string>
   <string name="notification_sound_title">Standard Benachrichtigungston</string>
   <string name="notification_volume_option_title">Benachrichtigungslautstärke</string>
   <string name="notification_volume_title">Benachrichtigung</string>
+  <string name="notifications_disabled">Blockieren</string>
+  <string name="notifications_enabled">Normal</string>
+  <string name="notifications_label">Benachrichtigungen</string>
+  <string name="notifications_no_peeking">Keine Vorschau</string>
+  <string name="notifications_priority">Priorität</string>
+  <string name="notifications_sensitive">persönlicher Inhalt verborgen</string>
+  <string name="notifications_three_items">%1$s / %2$s / %3$s</string>
+  <string name="notifications_two_items">%1$s / %2$s</string>
   <string name="now">Jetzt neustarten</string>
   <string name="nsd_quick_toggle_summary">Anwendungen auf anderen Geräten erlauben, Anwendungen auf diesem Gerät zu finden</string>
   <string name="nsd_quick_toggle_title">Netzwerkerkennungs Dienst</string>
@@ -2155,6 +2189,7 @@ Betriebssystem auswählen:"</string>
   <string name="open_miui_optimization_warning_message">Ihr Gerät wird neu gestartet, um diese Änderungen zu übernehmen</string>
   <string name="open_wifi_connect_summary">Tippen um Details anzuzeigen.</string>
   <string name="open_wifi_connect_title">Verbinden mit %1$s</string>
+  <string name="opening_paragraph_delete_profile_unknown_company">Dieses Arbeitsprofil wird verwaltet von:</string>
   <string name="optimization_cancel">Abbrechen</string>
   <string name="optimization_close">Ausschalten &amp; reboot</string>
   <string name="optimization_open">Einschalten</string>
@@ -2163,6 +2198,7 @@ Betriebssystem auswählen:"</string>
   <string name="other_relative">Weitere Rechte</string>
   <string name="other_sound_settings">Andere Töne</string>
   <string name="overlay_display_devices_title">Sekundäre Displays simulieren</string>
+  <string name="overlay_settings">Überlagerung von Apps</string>
   <string name="owner_info_settings_edit_text_hint">Hier Eigentümerinformationen eingeben</string>
   <string name="owner_info_settings_summary"/>
   <string name="owner_info_settings_title">Info zum Eigentümer</string>
@@ -2217,6 +2253,8 @@ Betriebssystem auswählen:"</string>
   <string name="page_layout_page2_small_title">Extra Klein</string>
   <string name="page_layout_page2_title">Vorschau</string>
   <string name="page_layout_small_title">Extra Klein</string>
+  <string name="passpoint_content">%1$s Zugangsdaten</string>
+  <string name="passpoint_label">Gespeichert via</string>
   <string name="passwordIncorrect">Das eingegebene Passwort ist falsch</string>
   <string name="password_entrance_title">Passwort</string>
   <string name="password_guard">Passwort</string>
@@ -2229,6 +2267,9 @@ Betriebssystem auswählen:"</string>
   <string name="permission_manager">Rechte</string>
   <string name="permission_mgr">Rechte</string>
   <string name="permissions_label">Rechte</string>
+  <string name="permit_draw_overlay">Überlagerung von Apps erlauben</string>
+  <string name="permit_usage_access">Nutzungszugang erlauben</string>
+  <string name="permit_write_settings">Änderung von Systemeinstellungen erlauben</string>
   <string name="personal_data_section_title">Personenbezogene Daten</string>
   <string name="personal_device_admin_title">Personal</string>
   <string name="phone_call_noise_suppression">Anruf Rauschunterdrückung</string>
@@ -2252,6 +2293,7 @@ Betriebssystem auswählen:"</string>
   <string name="power_autorun_apps_empty">Keine Autostart Apps</string>
   <string name="power_autorun_empty">Keine Apps installiert</string>
   <string name="power_bluetooth">Bluetooth</string>
+  <string name="power_camera">Kamera</string>
   <string name="power_cell">Mobilfunksignal</string>
   <string name="power_center">Leistung</string>
   <string name="power_charge_remaining">%1$s aufladen</string>
@@ -2359,20 +2401,24 @@ Betriebssystem auswählen:"</string>
   <string name="private_sms_need_to_unlock">Passwort erforderlich:</string>
   <string name="private_sms_recording_intro_header">Entsperrmuster zeichnen:</string>
   <string name="private_sms_reset_by_account">Um Ihr Passwort zurückzusetzen, melden Sie sich bei Ihrem Mi-Konto an</string>
+  <string name="process_dex2oat_label">App Optimierung</string>
+  <string name="process_format">%1$s (%2$d)</string>
   <string name="process_kernel_label">Android OS</string>
   <string name="process_mediaserver_label">Mediaserver</string>
   <string name="process_provider_in_use_description">Anbieter %1$s wird verwendet.</string>
   <string name="process_service_in_use_description">Dienst %1$s wird verwendet.</string>
   <string name="process_stats_avg_ram_use">Durchschnittliche RAM-Nutzung</string>
-  <string name="process_stats_max_ram_use">Maximale RAM-Nutzung</string>
+  <string name="process_stats_max_ram_use">Maximale RAM-Nutzung</string>  
   <string name="process_stats_memory_status">Der aktuelle Speicherstand des Geräts ist %1$s</string>
   <string name="process_stats_run_time">Laufzeit</string>
   <string name="process_stats_summary">Statistiken zu laufenden Prozessen</string>
   <string name="process_stats_summary_title">Prozessstatistiken</string>
   <string name="process_stats_total_duration">Apps (%1$s) über %2$s</string>
+  <string name="process_stats_total_duration_percentage">%1$s vom RAM verwendet über %2$s</string>
   <string name="process_stats_type_background">Hintergrund</string>
   <string name="process_stats_type_cached">Im Cache</string>
   <string name="process_stats_type_foreground">Vordergrund</string>
+  <string name="processes_subtitle">Prozesse</string>
   <string name="processor_info">Prozessor Info</string>
   <string name="profile_info_settings_title">Profilinformationen</string>
   <string name="profile_owner_add_title">Profil Manager aktivieren?</string>
@@ -2476,6 +2522,7 @@ Betriebssystem auswählen:"</string>
   <string name="radio_info_smsc_refresh_label">Aktualisieren</string>
   <string name="radio_info_smsc_update_label">Aktualisierung</string>
   <string name="radio_info_toggle_dns_check_label">DNS-Überprüfung ein-/ausschalten</string>
+  <string name="rarely_running">Läuft selten (%s)</string>
   <string name="really_remove_account_message">Durch das Entfernen dieses Kontos werden alle Nachrichten, Kontakte und andere Daten vom Telefon gelöscht!</string>
   <string name="really_remove_account_title">Konto entfernen?</string>
   <string name="rebootiing_for_updates">Neustarten…</string>
@@ -2504,7 +2551,18 @@ Betriebssystem auswählen:"</string>
  Anwendungsdaten gehen nicht verloren."</string>
   <string name="reset_app_preferences_title">App-Einstellungen zurücksetzen?</string>
   <string name="reset_legacy_password_settings_preface_text">Sie müssen Ihr Sperrbildschirmpasswort zurücksetzen.</string>
-  <string name="resolver_settings_label">Sort</string>
+  <string name="reset_network_button_text">Einstellungen zurücksetzen</string>
+  <string name="reset_network_complete_toast">Netzwerkeinstellungen wurden zurüclkgesetzt</string>
+  <string name="reset_network_confirm_title">Zurücksetzen?</string>
+  <string name="reset_network_desc">"All Ihre Netzwerkeinstellungen werden zurückgesetzt, inklusive:
+
+"&lt;li&gt;WLAN&lt;/li&gt;"
+"&lt;li&gt;Mobile Datenverbindun&lt;/li&gt;"
+"&lt;li&gt;Bluetooth&lt;/li&gt;</string>
+  <string name="reset_network_final_button_text">Einstellungen zurücksetzen</string>
+  <string name="reset_network_final_desc">Alle Netzwerkeinstellungen zurücksetzens? Sie können diese Aktion nicht rückgängig machen!</string>
+  <string name="reset_network_title">Einstellungen zurücksetzen</string>
+  <string name="resolver_settings_label">Sortieren</string>
   <string name="resource_ringtone_volume_mute">Ihr Klingelton steht auf Lautlos</string>
   <string name="restore_default_apn">Standard-APN-Einstellungen werden wiederhergestellt.</string>
   <string name="restore_default_apn_completed">Zurücksetzen auf Standard-APN-Einstellungen abgeschlossen</string>
@@ -2543,6 +2601,7 @@ Betriebssystem auswählen:"</string>
 
 Diese Einstellung betrifft alle Nutzer auf diesem Telefon."</string>
   <string name="rssi_label">RSSI:</string>
+  <string name="running_frequency">Frequenz</string>
   <string name="running_process_item_removed_user_label">Entfernter Nutzer</string>
   <string name="running_process_item_user_label">Nutzer: %1$s</string>
   <string name="running_processes_header_apps_prefix">Apps</string>
@@ -2564,6 +2623,10 @@ Diese Einstellung betrifft alle Nutzer auf diesem Telefon."</string>
   <string name="runningservicedetails_stop_dlg_title">Systemdienst beenden?</string>
   <string name="runningservices_settings_summary">Momentan ausgeführte Dienste anzeigen und steuern</string>
   <string name="runningservices_settings_title">Aktive Dienste</string>
+  <string name="runtime_permissions_summary_no_permissions_granted">Keine Berechtigungen erteilt</string>
+  <string name="runtime_permissions_summary_no_permissions_requested">Keine Berechtigungen angefragt</string>
+  <string name="save">Speichern</string>
+  <string name="saved_network">Gespeichert von %1$s</string>
   <string name="scan_list_label">Ergebnisse:</string>
   <string name="screen">Bildschirm</string>
   <string name="screen_color_and_optimize">Farben &amp; Kontrast</string>
