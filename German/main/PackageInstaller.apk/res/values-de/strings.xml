@@ -2,10 +2,10 @@
 <resources>
   <string name="Parse_error_dlg_text">Beim Lesen des Paketes ist ein Fehler aufgetreten.</string>
   <string name="Parse_error_dlg_title">Lesefehler</string>
-  <string name="abc_action_bar_home_description">Startseite navigieren</string>
+  <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-  <string name="abc_action_bar_up_description">Navigation oben</string>
+  <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
   <string name="abc_action_mode_done">Fertig</string>
   <string name="abc_activity_chooser_view_see_all">Alle anzeigen</string>
@@ -18,13 +18,13 @@
   <string name="abc_searchview_description_voice">Sprachsuche</string>
   <string name="abc_shareactionprovider_share_with">Teilen mit</string>
   <string name="abc_shareactionprovider_share_with_application">Teilen mit %s</string>
-  <string name="abc_toolbar_collapse_description">Zusammenbruch</string>
+  <string name="abc_toolbar_collapse_description">Einklappen</string>
   <string name="additional_permissions">Zusätzliche Berechtigungen</string>
   <string name="allPerms">Alle</string>
   <string name="all_permissions">Alle Berechtigungen</string>
   <string name="allow_source_dlg_text">"%1$s möchte andere Apps installieren.
 Möchten Sie dies jetzt und in Zukunft zulassen?"</string>
-  <string name="allow_source_dlg_title">Neue Quelle für apps</string>
+  <string name="allow_source_dlg_title">Neue Quelle für Apps</string>
   <string name="app_name">Paket-Installer</string>
   <string name="app_not_found_dlg_text">Die App wurde nicht in der Liste der installierten Apps gefunden.</string>
   <string name="app_not_found_dlg_title">App nicht gefunden</string>
@@ -56,7 +56,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="install_confirm_question_update_system_no_perms">Möchten Sie ein Update für diese integrierte Anwendung installieren? Ihre Daten werden nicht gelöscht. Es erfordert keine besonderen Zugriff.</string>
   <string name="install_done">App installiert.</string>
   <string name="install_failed">App nicht installiert.</string>
-  <string name="install_failed_cpu_abi_incompatible">"Diese app ist nicht kompatibel mit Ihrem Telefon."</string>
+  <string name="install_failed_cpu_abi_incompatible">"Diese App ist nicht kompatibel mit Ihrem Telefon."</string>
   <string name="install_failed_file_not_found">Das angegebene Paket wurde gelöscht, bevor die Installation abgeschlossen werden konnte.</string>
   <string name="install_failed_inconsistent_certificates">Ein vorhandenes Paket mit dem gleichen Namen mit einer widersprüchlichen Signatur ist bereits installiert.</string>
   <string name="install_failed_invalid_apk">Das Paket ist anscheinend beschädigt.</string>
@@ -133,12 +133,12 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="system_warning">Wenn Sie diese Berechtigung verweigern, funktioniert Grundfunktionen des Geräts nicht mehr wie vorgesehen.</string>
   <string name="uninstall_activity_text">%1$s gehört zu folgender Anwendung:</string>
-  <string name="uninstall_application_text">Möchten Sie diese app deinstallieren?</string>
-  <string name="uninstall_application_text_all_users">Möchten Sie diese app für &lt;b&gt;all&lt;/b&gt; Benutzer deinstallieren? Die Anwendung und seine Daten werden aus &lt;b&gt;alle&lt;/b&gt; Benutzer auf dem Gerät entfernt.</string>
-  <string name="uninstall_application_text_user">Möchten Sie diese app %1$s für den Benutzer deinstallieren?</string>
+  <string name="uninstall_application_text">Möchten Sie diese App deinstallieren?</string>
+  <string name="uninstall_application_text_all_users">Möchten Sie diese App für &lt;b&gt;all&lt;/b&gt; Benutzer deinstallieren? Die Anwendung und seine Daten werden aus &lt;b&gt;alle&lt;/b&gt; Benutzer auf dem Gerät entfernt.</string>
+  <string name="uninstall_application_text_user">Möchten Sie diese App %1$s für den Benutzer deinstallieren?</string>
   <string name="uninstall_application_title">App deinstallieren</string>
-  <string name="uninstall_blocked_device_owner">"Diese app wird von Ihrem Gerät-Administrator benötigt und kann nicht deinstalliert werden."</string>
-  <string name="uninstall_blocked_profile_owner">"Diese app ist notwendig für Ihre Arbeit-Profil und kann nicht deinstalliert werden."</string>
+  <string name="uninstall_blocked_device_owner">"Diese App wird von Ihrem Gerät-Administrator benötigt und kann nicht deinstalliert werden."</string>
+  <string name="uninstall_blocked_profile_owner">"Diese App ist notwendig für Ihre Arbeit-Profil und kann nicht deinstalliert werden."</string>
   <string name="uninstall_done">Deinstallieren erfolgreich.</string>
   <string name="uninstall_failed">Deinstallieren war nicht erfolgreich.</string>
   <string name="uninstall_failed_device_policy_manager">"Kann nicht deinstalliert werden, da dieses Paket ein aktives Gerät-Administrator ist."</string>
