@@ -5,11 +5,6 @@
         <item>Nummer ausblenden</item>
         <item>Nummer anzeigen</item>
     </string-array>
-    <string-array name="clir_values">
-        <item>STANDARD</item>
-        <item>AUSBLENDEN</item>
-        <item>ANZEIGEN</item>
-    </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>TD-SCDMA, LTE, CDMA, EvDo GSM/WCDMA</item>
         <item>TD-SCDMA, GSM/WCDMA, CDMA and EvDo</item>
@@ -63,10 +58,5 @@
         <item>5</item>
         <item>6</item>
         <item>7</item>
-    </string-array>    
-    <string-array name="voicemail_notification_vibrate_when_values">
-        <item>immer</item>
-        <item>leise</item>
-        <item>nie</item>
-    </string-array>            
+    </string-array>              
 </resources>
