@@ -998,7 +998,6 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="debug_monitoring_category">Überwachung</string>
   <string name="debug_view_attributes">Attributprüfungsansicht aktivieren</string>
   <string name="default_date_format">dd. MM. YYYY</string>
-  <string name="debug_view_attributes">Enable view attribute inspection</string>
   <string name="default_app">(Default)</string>
   <string name="default_apps_title">Standard Apps</string>
   <string name="default_assist_none">Keine</string>
@@ -1977,7 +1976,7 @@ Um auch Musik, Bilder und sonstige Nutzerdaten zu löschen, muss der "<b>USB-Spe
   <string name="mobile_unknown_sim_operator">Unbekannter SIM-Anbieter</string>
   <string name="mock_location_app">App für vergetäuschte Standortinformation auswählen</string>
   <string name="mock_location_app_not_set">Keine App für vorgetäuschten Standortinformation ausgewählt</string>
-  <string name="mock_location_app_set">MApp für vergetäuschte Standortinformation: %1$s</string
+  <string name="mock_location_app_set">App für vergetäuschte Standortinformation: %1$s</string>
   <string name="model_number">Modellnummer</string>
   <string name="move_app">Verschieben</string>
   <string name="move_app_failed_dlg_text">App kann nicht verschoben werden. %1$s</string>
@@ -2093,11 +2092,7 @@ Betriebssystem auswählen:"</string>
   <string name="nfc_payment_favor_default">Immer</string>
   <string name="nfc_payment_favor_open">Außer wenn eine andere Bezahl-App geöffnet ist</string>
   <string name="nfc_payment_how_it_works">"So funktioniert's"</string>
-  <string name="nfc_payment_no_apps">Bezahlen Sie mit Ihrem Telefon in Geschäften</string>
   <string name="nfc_payment_pay_with">An einem Tap &amp; Pay Terminal, bezahlen mit:</string>
-  <string name="nfc_payment_set_default">Immer %1$s benutzen wenn Sie Tap &amp; Pay verwenden?</string>
-  <string name="nfc_payment_set_default_instead_of">Immer %1$s anstelle von %2$s verwenden, wenn Sie Tap &amp; Pay verwenden?</string>
-  <string name="nfc_payment_set_default_label">Als Standard einstellen?</string>
   <string name="nfc_payment_favor_foreground">Vordergrund-App favorisieren</string>
   <string name="nfc_payment_learn_more">Weitere Informationen</string>
   <string name="nfc_payment_menu_item_add_service">Apps suchen</string>
