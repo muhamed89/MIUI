@@ -49,7 +49,6 @@
   <string name="account_user_using_weibo_avatar">SinaWeibo-Profilfoto verwenden</string>
   <string name="account_vip_achievements">Leistung</string>
   <string name="account_vip_level">Konto</string>
-  <string name="account_vip_task">Fortschritt</string>
   <string name="account_xiaomi_service">Dienste</string>
   <string name="activate_email_notice">Aktivieren Sie Ihr Konto innerhalb von 24 Stunden</string>
   <string name="add_account">Konto hinzufügen</string>
@@ -162,7 +161,7 @@
   <string name="nobind">Nicht verbunden</string>
   <string name="other_devices">Weitere Geräte</string>
   <string name="passport_access_denied">Zugang verweigert</string>
-  <string name="passport_account_hint_text">E-Mail oder Telefonnummer</string>
+  <string name="passport_account_hint_text">E-Mail adresse oder Mi Konto-ID</string>
   <string name="passport_account_identity_title">Bestätigen Sie Ihre Identität</string>
   <string name="passport_account_name">Konto: %1$s</string>
   <string name="passport_account_not_activated">Konto wurde nicht aktiviert</string>
@@ -380,7 +379,6 @@
   <string name="vcode_prompt_long">Bestätigungscode eingeben</string>
   <string name="verification_failed">Autentifizierung fehlgeschlagen</string>
   <string name="verify">Bestätige</string>
-  <string name="vip_level_value">LV%d</string>
   <string name="wipe_data_dialog_msg">%s wird nach dem Fortfahren gelöscht</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Einige Daten wurden nicht synchronisiert</string>
