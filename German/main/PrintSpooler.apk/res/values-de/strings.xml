@@ -17,7 +17,8 @@
   <string name="label_color">Farbe</string>
   <string name="label_copies">Kopien</string>
   <string name="label_copies_summary">Kopien:</string>
-  <string name="label_destination">Destination</string>
+  <string name="label_destination">Bestimmungsort</string>
+  <string name="label_duplex">Zweiseitig</string>
   <string name="label_orientation">Ausrichtung</string>
   <string name="label_pages">Seiten</string>
   <string name="label_paper_size">Papiergröße</string>
