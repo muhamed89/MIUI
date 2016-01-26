@@ -12,6 +12,10 @@
         <item quantity="other">In %1$d Schritten sind Sie ein Entwickler.</item>
         <item quantity="one">In %1$d Schritt sind Sie ein Entwickler.</item>
     </plurals>
+	<plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d Fingerabdrücke eingerichtet</item>
+        <item quantity="one">%1$d Fingerabdruck eingerichtet</item>
+    </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Das Passwort muss mindestens %d Buchstaben enthalten.</item>
         <item quantity="one">Das Passwort muss mindestens einen Buchstaben enthalten.</item>
@@ -40,13 +44,41 @@
         <item quantity="other">%d Apps können Benachrichtigungen lesen</item>
         <item quantity="one">%d App kann Benachrichtigungen lesen</item>
     </plurals>
+	<plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Änderung der Alarme nur für %1$d Minuten (bis %2$s)</item>
+        <item quantity="one">Änderung der Alarme nur für eine Minute bis %2$s</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Änderung der Alarme nur für %1$d Stunden bis %2$s</item>
+        <item quantity="one">Änderung der Alarme nur für eine Stunde bis %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d Berechtigungen erteilt</item>
+        <item quantity="one">%d Berechtigung erteilt</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d von %2$d Berechtigungen erteilt</item>
+        <item quantity="one">%1$d von %2$d Berechtigung erteilt</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d zusätzliche Berechtigungen</item>
+        <item quantity="one">%d zusätzliche Berechtigung</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d Apps können unterstützte Links öffnen</item>
+        <item quantity="zero">Keine App Kann unterstütze Links öffnen</item>
+        <item quantity="one">Eine App Kann unterstütze Links öffnen</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d Apps dürfen Akkuoptimierung umgehen</item>
+        <item quantity="one">1 App darf Akkuoptimierung umgehen</item>
     <plurals name="wrong_pin_code">
         <item quantity="other">Falsche PIN. Sie haben noch %d Versuche.</item>
         <item quantity="one">Falsche PIN. Sie haben noch %d Versuch, bevor Sie das Gerät von Ihrem Mobilfunkanbieter entsperren lassen müssen.</item>
     </plurals>
-    <plurals name="print_search_result_count_utterance">
-        <item quantity="other">%1$s Drucker gefunden</item>
-        <item quantity="one">%1$s Drucker gefunden</item>
+	<plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d Apps hat in den letzten %2$s Speicher verbraucht</item>
+        <item quantity="one">1 App hat in den letzten %2$s Speicher verbraucht</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">Sie sind %1$d Schritte von den Telefoninformationen entfernt.</item>
