@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+ <resources>
+    <string-array name="hot_city">
+        <item>Beijing</item>
+        <item>Shanghai</item>
+        <item>Hong Kong</item>
+        <item>Taipei City</item>
+        <item>Jakarta</item>
+        <item>Delhi</item>
+        <item>Mumbai</item>
+        <item>Moscow</item>
+        <item>Hyderabad</item>
+        <item>Chennai</item>
+        <item>Istanbul</item>
+        <item>Rio de Janeiro</item>
+        <item>Singapore</item>
+        <item>Berlin</item>
+        <item>Rome</item>
+        <item>New York</item>
+        <item>Los Angeles</item>
+        <item>Chicago</item>
+        <item>Tokyo</item>
+        <item>Paris</item>
+        <item>Bangkok</item>
+        <item>Seoul</item>
+        <item>Kuala Lumpur</item>
+    </string-array>
     <string-array name="weather_type">
         <item>Sonnig</item>
         <item>Wolkig</item>
