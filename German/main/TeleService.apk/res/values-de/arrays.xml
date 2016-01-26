@@ -2,8 +2,8 @@
 <resources>    
     <string-array name="clir_display_values">
         <item>Netzstandard</item>
-        <item>Anzahl ausblenden</item>
-        <item>Anzahl anzeigen</item>
+        <item>Nummer ausblenden</item>
+        <item>Nummer anzeigen</item>
     </string-array>
     <string-array name="clir_values">
         <item>STANDARD</item>
