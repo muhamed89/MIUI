@@ -53,7 +53,6 @@
   <string name="audio_mode_earpiece">Telefohörer</string>
   <string name="audio_mode_speaker">Lautsprecher</string>
   <string name="audio_mode_wired_headset">Kopfhörer</string>
-  <string name="auth_username">AuthBenutzername</string>
   <string name="auth_username_summary">Benutzernamen für die Authentifizierung</string>
   <string name="auth_username_title">Benutzernamen Authentifizierung</string>
   <string name="auto_answer_delay_entries_delay_10s">10 Sekunden</string>
@@ -112,7 +111,6 @@
   <string name="callFailed_cdma_activation">"Eine SIM-Karte hat Ihren Dienst aktiviert und aktualisiert servergespeicherte Funktionen Ihres Telefons."</string>
   <string name="callFailed_channel_unacceptable"/>
   <string name="callFailed_conditional_IE_error"/>
-  <string name="callFailed_congestion">Netzwerk beschäftigt</string>
   <string name="callFailed_destination_out_of_order"/>
   <string name="callFailed_congestion">Besetzt</string>
   <string name="callFailed_dialToDial">DIAL request modified to DIAL with different number</string>

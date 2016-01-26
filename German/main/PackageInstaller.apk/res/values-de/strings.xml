@@ -60,7 +60,6 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="install_failed_file_not_found">Das angegebene Paket wurde gelöscht, bevor die Installation abgeschlossen werden konnte.</string>
   <string name="install_failed_inconsistent_certificates">Ein vorhandenes Paket mit dem gleichen Namen mit einer widersprüchlichen Signatur ist bereits installiert.</string>
   <string name="install_failed_invalid_apk">Das Paket ist anscheinend beschädigt.</string>
-  <string name="install_failed_invalid_apk">Das Paket ist beschädigt.</string>
   <string name="install_failed_msg">"%1$s konnte nicht auf Ihrem Handy installiert werden."</string>
   <string name="install_failed_older_sdk">Das Paket funktioniert nur auf neuere Versionen von Android.</string>
   <string name="install_failed_verify_failed">Das Paket hat die Prüfung nicht bestanden und kann daher nicht installiert werden.</string>
