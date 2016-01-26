@@ -102,7 +102,7 @@
     <string-array name="wifi_sleep_policy_entries">
         <item>Immer</item>
         <item>Nur wenn angeschlossen</item>
-        <item>Nie (erhöhter Datenverbrauch)</item>
+        <item>Nie</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Immer</item>
@@ -116,7 +116,7 @@
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Nutzungszeit</item>
-        <item>Startzähler</item>
+        <item>Zuletzt benutzt</item>
         <item>App-Name</item>
     </string-array>
     <string-array name="wifi_eap_entries">
@@ -167,9 +167,22 @@
         <item>IPV4V6</item>
     </string-array>
     <string-array name="bearer_entries">
-        <item>LTE</item>
-        <item>eHRPD</item>
         <item>Keine Angabe</item>
+        <item>LTE</item>
+		<item>HSPAP</item>
+		<item>HSPA</item>
+		<item>HSUPA</item>
+		<item>HSDPA</item>
+		<item>UMTS</item>
+		<item>EDGE</item>
+		<item>GPRS</item>
+		<item>eHRPD</item>
+		<item>EVDO_B</item>
+		<item>EVDO_A</item>
+		<item>EVDO_0</item>
+		<item>1xRTT</item>
+		<item>IS95B</item>
+        <item>IS95A</item>
     </string-array>
     <string-array name="mvno_type_entries">
         <item>Keine</item>
@@ -233,6 +246,13 @@
         <item>Aktiv lassen</item>
         <item>Standort beobachten</item>
         <item>Orte mit hohem Stromverbrauch überwachen</item>
+		<item>Nutzerstatistik lesen</item>
+        <item>Mikrofon stummschalten</item>
+        <item>Medien projizieren</item>
+        <item>VPN aktivieren</item>
+        <item>Hintergrundbild einrichten</item>
+        <item>Struktur Assistent</item>
+        <item>Screenshot Assistent</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Standort</item>
@@ -277,7 +297,14 @@
         <item>Bluetooth-Lautstärke</item>
         <item>Aktiv lassen</item>
         <item>Standort</item>
-        <item>Ort</item>
+        <item>Standort</item>
+		<item>Nutzerstatistik lesen</item>
+        <item>Mikrofon stummschalten</item>
+        <item>Medien projizieren</item>
+        <item>VPN aktivieren</item>
+        <item>Hintergrundbild einrichten</item>
+        <item>Struktur Assistent</item>
+        <item>Screenshot Assistent</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Kurz</item>
@@ -288,8 +315,12 @@
         <item>Standard</item>
         <item>Sans-serif</item>
         <item>Sans-serif, schmal</item>
+		<item>Sans-serif, feste Breite</item>
         <item>Serif</item>
-        <item>Serif mit Festbreite</item>
+        <item>Serif, feste Breite</item>
+		<item>Casual</item>
+        <item>Kursiv</item>
+        <item>Kapitälchen</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Sehr klein</item>
@@ -299,11 +330,15 @@
         <item>Sehr groß</item>
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
-        <item>Ohne</item>
+        <item>Standard</item>
+		<item>Ohne</item>
         <item>Kontur</item>
         <item>Schlagschatten</item>
+		<item>Hochgestellt</item>
+        <item>Runtergestellt</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
+		<item>App Standard verwenden</item>
         <item>Weiß auf Schwarz</item>
         <item>Schwarz auf Weiß</item>
         <item>Gelb auf Schwarz</item>
@@ -319,6 +354,13 @@
         <item>Dalvik verwenden</item>
         <item>ART verwenden</item>
         <item>ART-Debug-Build verwenden</item>
+    </string-array>
+	<string-array name="select_logd_size_summaries">
+        <item>64K pro Log Buffer</item>
+        <item>256K pro Log Buffer</item>
+        <item>1M pro Log Buffer</item>
+        <item>4M pro Log Buffer</item>
+        <item>16M pro Log Buffer</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Nie prüfen</item>
@@ -371,14 +413,12 @@
     <string-array name="track_frame_time_entries">
         <item>Aus</item>
         <item>Auf Bildschirm als Balken</item>
-        <item>Auf Bildschirm als Linien</item>
         <item>In adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Aus</item>
         <item>Überschneidungsbereiche anzeigen</item>
         <item>Bereiche für Deuteranomalie anzeigen</item>
-        <item>Überschneidungszähler anzeigen</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Standardlimit</item>
@@ -420,10 +460,42 @@
         <item>Affe</item>
     </string-array>
     <string-array name="ram_states">
-        <item>normal</item>
-        <item>mittel</item>
-        <item>niedrig</item>
-        <item>kritisch</item>
+        <item>Normal</item>
+        <item>Mittel</item>
+        <item>Niedrig</item>
+        <item>Kritisch</item>
+    </string-array>
+    <string-array name="proc_stats_process_states">
+        <item>Persistent</item>
+        <item>Hauptaktivität</item>
+        <item>Wichtig (Vordergrund)</item>
+        <item>Wichtig (Hintergrund)</item>
+        <item>Backup</item>
+        <item>Schwergewicht</item>
+        <item>Service (laufend)</item>
+        <item>Service (neu startend)</item>
+        <item>Empfänger</item>
+        <item>Home</item>
+        <item>Letzte Aktivität</item>
+        <item>Cached (Aktivität)</item>
+        <item>Cached (Aktivität Client)</item>
+        <item>Cached (leer)</item>
+    </string-array>
+    <string-array name="color_picker">
+        <item>Petrol</item>
+        <item>Blau</item>
+        <item>Indigo</item>
+        <item>Lila</item>
+        <item>Rosa</item>
+        <item>Rot</item>
+    </string-array>
+	<string-array name="wifi_calling_mode_choices">
+        <item>WLAN bevorzugt</item>
+        <item>Mobilnetz bevorzugt</item>
+    </string-array>
+	<string-array name="wifi_ssid_type_entries">
+        <item>Automatisch verbinden</item>
+        <item>Manuell verbinden</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
         <item>Stark</item>
