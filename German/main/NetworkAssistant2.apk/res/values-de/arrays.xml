@@ -55,7 +55,7 @@
         <item>Warnen und mobile Datenverbindung ausschalten</item>
     </string-array>
     <string-array name="roaming_apps_sorted_type">
-        <item>Häufig verwendet</item>
+        <item>Am meisten verwendet</item>
         <item>Name</item>
     </string-array>
     <string-array name="traffic_saving_compress_level_string_array">
