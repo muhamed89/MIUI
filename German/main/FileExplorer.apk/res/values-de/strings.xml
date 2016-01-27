@@ -3,6 +3,8 @@
   <string name="account_bind_prompt">Benutzerdaten werden übertragen…</string>
   <string name="action_mode_deselect_all">Keine</string>
   <string name="action_mode_select_all">Alle</string>
+  <string name="ad_download">Download</string>
+  <string name="ad_downloading">Laden…</string>
   <string name="add_private">Dateien jetzt verbergen</string>
   <string name="add_private_files">Dateien hinzufügen</string>
   <string name="add_task">Hinzufügen</string>
@@ -65,6 +67,7 @@
   <string name="category_type_other">Andere</string>
   <string name="category_video">Videos</string>
   <string name="category_zip">Archive</string>
+  <string name="change_sticker">Pick another</string>
   <string name="choose_send_type">Methode auswählen</string>
   <string name="choose_upload_location">Zum KuaiPan-Ordner hochladen</string>
   <string name="clean_hint">Tippen, um Speicherplatz freizugeben</string>
@@ -81,6 +84,7 @@
   <string name="confirm_clean">Bereinigen</string>
   <string name="confirm_know">OK</string>
   <string name="connect_network_setting_des">Bei einer Internetverbindung nachfragen</string>
+  <string name="connecting">Verbindung wird hergestellt…</string>
   <string name="connection_error">Verbindung fehlgeschlagen</string>
   <string name="copy_failed">Kopieren fehlgeschlagen, sieht so aus, als wäre der Speicher voll</string>
   <string name="copy_file_to_kuaipan">Datei auf Kuaipan kopieren</string>
@@ -135,6 +139,7 @@
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Leer</string>
   <string name="dlg_error_unmount_text">USB-Speicher konnte nicht getrennt werden</string>
+  <string name="download">Download</string>
   <string name="download_current_progress">%1$d%%</string>
   <string name="download_failed">Download fehlgeschlagen</string>
   <string name="download_link_completed">%1$s über KuaiPan geteilt. Zum Ansehen auf folgenden Link drücken:</string>
@@ -193,8 +198,10 @@
   <string name="group_title_extra_backup">Sicherungen</string>
   <string name="group_title_extra_expire">Läuft bald ab</string>
   <string name="group_title_extra_new">Neu</string>
+  <string name="has_installed">Installiert</string>
   <string name="if_cancel">Diese Aktion abbrechen?</string>
   <string name="image_loading_error">"Bild konnte nicht geladen werden"</string>
+  <string name="installing">Installieren…</string>
   <string name="instruction">Folgende Adresse im FTP-Client eingeben:</string>
   <string name="instruction_pre">"Drücken Sie 'Start' um den FTP-Server einzuschalten."</string>
   <string name="just_now">Jetzt</string>
@@ -225,6 +232,7 @@
   <string name="kuaipan_tech_support">Anmelden bei kuaipan.cn</string>
   <string name="load_err">Laden fehlgeschlagen</string>
   <string name="load_more">Mehr anzeigen</string>
+  <string name="load_sticker_fail">Laden fehlgeschlagen, versuchen Sie es erneut</string>
   <string name="loading">Wird geladen…</string>
   <string name="local_image">Fotos</string>
   <string name="local_music">Musik</string>
@@ -311,6 +319,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="no_local_sticker_tip">Keine heruntergeladen Sticker gefunden. Sehen Sie sich die geteilten Sticker von anderen Mi Fans an.</string>
   <string name="no_more_space">Nicht genügend Speicherplatz.</string>
   <string name="no_network_str">Keine Netzwerkverbindung. Überprüfen und nochmals versuchen.</string>
+  <string name="no_network_tip">Keine Netzwerkverbindung. Überprüfen und nochmals versuchen.</string>
   <string name="no_recent_files">Keine kürzlich verwendeten Dateien</string>
   <string name="no_tasks">Keine Aufgaben.</string>
   <string name="no_wifi">Keine WLAN-Verbindung gefunden</string>
@@ -461,6 +470,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="select_image">Fotos auswählen</string>
   <string name="select_music">Musik auswählen</string>
   <string name="select_video">Videos auswählen</string>
+  <string name="send_sticker">Send sticker</string>
   <string name="send_to_midrive">KuaiPan</string>
   <string name="send_to_midrive_failed_message">Dateityp wird nicht unterstützt.</string>
   <string name="send_to_qq">An QQ senden</string>
@@ -552,6 +562,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="user_not_login">Zuerst anmelden</string>
   <string name="utf8_summary">System FTP-Standardcodierung</string>
   <string name="utf8_title">UTF-8</string>
+  <string name="view_more_sticker">Mehr stickers anzeigen</string>
   <string name="wait_net">Warte auf Netzwerk</string>
   <string name="wait_sdcard">Warte auf SD-Karte…</string>
   <string name="wait_wifi">Warte auf WLAN</string>
