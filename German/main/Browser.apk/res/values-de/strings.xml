@@ -119,7 +119,7 @@
   <string name="close_ads_choice_yes">Blockieren</string>
   <string name="close_ads_message">"Den Inhalt von dieser Seite blockieren? Sie können die blockierten Seiten in den Einstellungen &gt; Erweitert &gt; blockierte Seiten ansehen."</string>
   <string name="close_ads_title">Inhalt blockieren?</string>
-  <string name="close_all_tab_alert_message">Alle zur Zeit geöffneten Tabs im Browser schließen?</string>
+  <string name="close_all_tab_alert_message">Alle zurzeit geöffneten Tabs im Browser schließen?</string>
   <string name="close_all_tab_alert_title">Alle Tabs schließen</string>
   <string name="close_cloud_tab_tip">Cloud-Tabs auf %s schließen?</string>
   <string name="cloud_loading_tips">Zum Synchronisieren runter ziehen</string>
