@@ -180,7 +180,7 @@
   <string name="huangli_bad_type">Meiden</string>
   <string name="huangli_good_type">Passend</string>
   <string name="huangli_label"/>
-  <string name="joke_card_icon_text">|  %1$s Personen lachen</string>
+  <string name="joke_card_icon_text">%1$s Personen lachen</string>
   <string name="jump_date">Springen</string>
   <string name="jump_date_full">Zum Datum springen</string>
   <string name="label_recent_events">Aktuelle Veranstaltungen</string>
