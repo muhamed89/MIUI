@@ -1335,7 +1335,7 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="fingerprint_identify_msg">Fingerabdruck wird gescannt…</string>
   <string name="fingerprint_identify_try_again_msg">"Scan fehlgeschlagen, versuchen Sie es erneut"</string>
   <string name="fingerprint_last_delete_confirm">Ja, entfernen</string>
-  <string name="fingerprint_last_delete_message">"Sie werden nicht in der Lage sein, Ihr Gerät mit Ihrem Fingerabdruck zu entsperren, Einkäufe zu authorisieren, oder sich an Apps anzumelden."</string>
+  <string name="fingerprint_last_delete_message">"Sie werden nicht in der Lage sein, Ihr Gerät mit Ihrem Fingerabdruck zu entsperren, Einkäufe zu autorisieren, oder sich an Apps anzumelden."</string>
   <string name="fingerprint_last_delete_title">Alle Fingerabdrücke löschen?</string>
   <string name="fingerprint_list_title">Fingerabdruck</string>  
   <string name="fingerprint_manage_category_title">Fingerabdrücke verwalten</string>
@@ -1399,10 +1399,10 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="free_xiaomi_wifi_connect_summary">Berühren um mit %1$s zu verbinden.</string>
   <string name="frequently_fragment_delete">Löschen</string>
   <string name="frequently_fragment_tempty">Oft genutzte Inhalte werden hier aufgelistet</string>
-  <string name="fullbackup_data_summary">"Gerätedaten (wie WLAN passwörter und Gesprächsverlauf) und Anwendungsdaten (wie Einstellungen und Daten von Apps) automatisch sichern.
+  <string name="fullbackup_data_summary">"Gerätedaten (wie WLAN Passwörter und Gesprächsverlauf) und Anwendungsdaten (wie Einstellungen und Daten von Apps) automatisch sichern.
 
-Wenn Sie automatisches Backup einschalten, werden Geräte- und Appdaten periodisch in der Cloud gespeichert. Das können beliebige Daten, auch persönliche Daten wie Kontakte, Nachrichten und Fotos sein."</string>
-  <string name="fullbackup_erase_dialog_message">Automatische Backups ausschalten und alle Kopien vonGoogle Drive löschen?</string>
+Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten periodisch in der Cloud gespeichert. Dies können beliebige Daten, auch persönliche Daten wie Kontakte, Nachrichten und Fotos sein."</string>
+  <string name="fullbackup_erase_dialog_message">Automatische Backups ausschalten und alle Kopien von Google Drive löschen?</string>
   <string name="gadget_bluetooth">Bluetooth</string>
   <string name="gadget_brightness_state_auto">automatisch</string>
   <string name="gadget_brightness_state_full">voll</string>
@@ -1486,11 +1486,11 @@ Wenn Sie automatisches Backup einschalten, werden Geräte- und Appdaten periodis
   <string name="high_performance_notif_title">Akku Verbrauchswarnung</string>
   <string name="high_performance_title">"Wenn Sie einen Benchmark laufen lassen, stellen Sie die Energieverwaltung auf \"Leistung\" um das beste Resultat zu erzielen."</string>
   <string name="high_power_apps">Akkuoptimierung</string>
-  <string name="high_power_desc">Akkuoptimierung nicht anwenden. Ihr Akku wird mölicherweise schneller leer.</string>
+  <string name="high_power_desc">Akkuoptimierung nicht anwenden. Ihr Akku wird möglicherweise schneller leer.</string>
   <string name="high_power_filter_on">Nicht optimiert</string>
   <string name="high_power_off">Akkunutzung optimieren</string>
   <string name="high_power_on">Akkuoptimierung ignorieren</string>
-  <string name="high_power_prompt_body">Die App %1$s bleibt im Hintergrund verbundn? Die könnte mehr Akku verbrauchen.</string>
+  <string name="high_power_prompt_body">Die App %1$s bleibt im Hintergrund verbunden? Sie könnte mehr Akku verbrauchen.</string>
   <string name="high_power_prompt_title">Akkuoptimierungen ignorieren?</string>
   <string name="high_power_system">Akkuoptimierung nicht verfügbar</string>
   <string name="history_details_title">Verlaufsdetails</string>
@@ -1510,8 +1510,8 @@ Wenn Sie automatisches Backup einschalten, werden Geräte- und Appdaten periodis
   <string name="immediately_destroy_activities_summary">Aktivität löschen, sobald der Nutzer diese beendet</string>
   <string name="ims_reg_required_off">Die IMS-Registrierung muss ausgeschaltet werden.</string>
   <string name="ims_reg_required_on">Die IMS-Registrierung muss eingeschaltet werden.</string>
-  <string name="inactive_app_active_summary">Aktiv. Antippen zum umschalten.</string>
-  <string name="inactive_app_inactive_summary">Inaktiv. Antippen zum umschalten.</string>
+  <string name="inactive_app_active_summary">Aktiv. Antippen um umzuschalten.</string>
+  <string name="inactive_app_inactive_summary">Inaktiv. Antippen um umzuschalten.</string>
   <string name="inactive_apps_title">Inaktive Apps</string>
   <string name="include_app_data_title">App-Daten einbeziehen</string>
   <string name="incoming_call_breathing_light_color_title">Anruffarbe</string>
@@ -1684,7 +1684,7 @@ Wenn Sie automatisches Backup einschalten, werden Geräte- und Appdaten periodis
   <string name="location_agps_reset_type">Reset-Typen</string>
   <string name="location_agps_reset_type_choose_dialog_title">Reset-Typen</string>
   <string name="location_agps_reset_type_summary">Bevorzugten Reset-Typ auswählen</string>
-  <string name="location_agps_roaming_help">Alle Netzwerke kann bei Roaming zu erhöhten Kosten führen.</string>
+  <string name="location_agps_roaming_help">Alle Netzwerke können bei Roaming zu erhöhten Kosten führen.</string>
   <string name="location_agps_si_mode">AGPS-SI-Modus</string>
   <string name="location_agps_si_mode_dialog_title">AGPS-Methode</string>
   <string name="location_agps_si_mode_summary">Bevorzugte AGPS-Methode auswählen</string>
@@ -1723,10 +1723,10 @@ Wenn Sie automatisches Backup einschalten, werden Geräte- und Appdaten periodis
   <string name="lock_after_timeout">Automatisch sperren</string>
   <string name="lock_after_timeout_summary">%1$s nach dem Schlaf</string>
   <string name="lock_after_timeout_summary_with_exception">%1$s nach dem Schlaf, ausser es bleibt entriegelt durch %2$s</string>
-  <string name="lock_screen_notifications_interstitial_message">Wenn Ihr Gerät gesperrt ist, wie wollen Sie dann Benachrichtigungen anzeigen lassen?</string>
+  <string name="lock_screen_notifications_interstitial_message">Wie wollen Sie Benachrichtigungen anzeigen lassen, wenn Ihr Gerät gesperrt ist?</string>
   <string name="lock_screen_notifications_summary_disable">"Zeige überhaupt keine Benachrichtigungen an"</string>
   <string name="lock_screen_notifications_summary_hide">Blende sensiblen Benachrichtigungsinhalt aus</string>
-  <string name="lock_screen_notifications_summary_show">Zeige allen Benachrichtigungsinhalt an</string>
+  <string name="lock_screen_notifications_summary_show">Zeige alle Benachrichtigungsinhalte an</string>
   <string name="lock_screen_notifications_title">Wenn das Gerät gesperrt ist</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">Passwort sofort benötigt</string>
   <string name="lock_screen_secure_after_timeout_summary">Passwort in %1$s benötigt</string>
@@ -1739,7 +1739,7 @@ Wenn Sie automatisches Backup einschalten, werden Geräte- und Appdaten periodis
   <string name="lock_settings_picker_settings">Bildschirmsperre</string>
   <string name="lock_settings_picker_title">Sperre auswählen</string>
   <string name="lock_settings_title">Bildschirmsicherheit</string>
-  <string name="lock_settings_with_fingerprint">Lock screen &amp; password</string>
+  <string name="lock_settings_with_fingerprint">Sperre Bildschirm &amp; Passwort</string>
   <string name="lock_setup">Einrichtung abgeschlossen.</string>
   <string name="lock_sounds_enable_title">Ton bei Bildschirmsperre</string>
   <string name="lockpassword_cancel_label">Abbrechen</string>
@@ -1850,7 +1850,7 @@ Sie sind zurzeit in folgenden Konten angemeldet:
 
 "&lt;li&gt;Ihrem Google Konto&lt;/li&gt;"
 "&lt;li&gt;System und App Daten und Einstellungen&lt;/li&gt;"
-"&lt;li&gt;Runtergeladene Apps&lt;/li&gt;" "</string>
+"&lt;li&gt;Heruntergeladene Apps&lt;/li&gt;" "</string>
   <string name="master_clear_desc_also_erases_external">" "&lt;li&gt;Musik&lt;/li&gt;"
 "&lt;li&gt;Fotos&lt;/li&gt;"
 "&lt;li&gt;und andere Benutzerdaten&lt;/li&gt;" "</string>
@@ -1877,7 +1877,7 @@ Um auch Musik, Bilder und sonstige Nutzerdaten zu löschen, muss der "<b>USB-Spe
   <string name="maximum_memory_use">Maximaler Speicherverbrauch</string>
   <string name="media_button">Medien-Taste</string>
   <string name="media_category">Medien</string>
-  <string name="media_feedback_enable_title">Mit dem Beat vibrieren</string>
+  <string name="media_feedback_enable_title">Mit dem Rhythmus vibrieren</string>
   <string name="media_format_button_text">USB-Speicher löschen</string>
   <string name="media_format_desc">Kompletten USB-Speicher löschen? Sie werden <b>alle</b> gespeicherten Daten verlieren!</string>
   <string name="media_format_final_button_text">Alles löschen</string>
@@ -1964,7 +1964,7 @@ Um auch Musik, Bilder und sonstige Nutzerdaten zu löschen, muss der "<b>USB-Spe
   <string name="miui_screensaver_state_off">Aus</string>
   <string name="miui_screensaver_state_on">An</string>
   <string name="miui_screensaver_title">Bildschirmschoner</string>
-  <string name="miui_screensaver_usage">Einmal eingeschaltet, werden Bilder aus dem ausgewählten Album, alle 5 Sekunden nach abschalten des Bildschirms angezeigt.</string>
+  <string name="miui_screensaver_usage">Einmal eingeschaltet, werden Bilder aus dem ausgewählten Album alle 5 Sekunden nach abschalten des Bildschirms angezeigt.</string>
   <string name="miui_silent_title">Lautlos Modus</string>
   <string name="mms_breathing_light_color_title">Nachrichtenfarbe</string>
   <string name="mms_breathing_light_freq_title">Nachrichten Blink Frequenz</string>
