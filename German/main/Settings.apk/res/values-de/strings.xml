@@ -2672,6 +2672,10 @@ Um Screen-Pinning zu nutzen:
 
 4. Berühren Sie das Pin-Icon."</string>
   <string name="screen_pinning_title">Screen-Pinning</string>
+  <string name="screen_pinning_unlock_none">Gerät beim Unpinning sperren</string>
+  <string name="screen_pinning_unlock_password">Beim Unpinning nach dem Passwort fragen</string>
+  <string name="screen_pinning_unlock_pattern">Beim Unpinning nach dem Entsperrmuster fragen</string>
+  <string name="screen_pinning_unlock_pin">Beim Unpinning nach der PIN fragen</string>
   <string name="screen_resolution_confirm">Neustarten</string>
   <string name="screen_resolution_summary">"Wenn Sie die Bildschrimauflösung senken, dann kann die Batterielebensdauer und Systemgeschwindigkeit erhöht werden, allerdings können Bilder weniger scharf erscheinen. Ihr Gerät muss neu gestartet werden, um diese Änderung zu übernehmen."</string>
   <string name="screen_resolution_switch">Auflösung umstellen</string>
@@ -2698,24 +2702,24 @@ Um Screen-Pinning zu nutzen:
   <string name="sd_ejecting_title">Trennen...</string>
   <string name="sd_format">SD-Karte löschen</string>
   <string name="sd_format_summary">Löscht alle Daten, z. B. Musik und Fotos von der SD-Karte</string>
-  <string name="sd_insert_summary">USB-Speicher für Bereitstellung einlegen</string>
-  <string name="sd_memory">USB-Speicher</string>
-  <string name="sd_mount">USB-Speicher bereitstellen</string>
+  <string name="sd_insert_summary">SD-Karte für Bereitstellung einlegen</string>
+  <string name="sd_memory">SD-Karte</string>
+  <string name="sd_mount">SD-Karte bereitstellen</string>
   <string name="sd_mount_summary"/>
   <string name="sdcard_changes_instructions">Die Änderungen werden nach dem erneuten Anschließen des USB-Kabels übernommen.</string>
-  <string name="sdcard_format">USB-Speicher löschen</string>
-  <string name="sdcard_setting">USB-Speicher</string>
+  <string name="sdcard_format">SD-Karte löschen</string>
+  <string name="sdcard_setting">SD-Karte</string>
   <string name="sdcard_settings_available_bytes_label">Verfügbare Bytes:</string>
-  <string name="sdcard_settings_bad_removal_status">USB-Speicher während Verwendung entfernt</string>
-  <string name="sdcard_settings_mass_storage_status">USB-Speicher wird als Massenspeicher verwendet</string>
-  <string name="sdcard_settings_not_present_status">USB-Speicher nicht verbunden.</string>
-  <string name="sdcard_settings_read_only_status">USB-Speicher ist schreibgeschützt.</string>
-  <string name="sdcard_settings_scanning_status">USB-Speicher auf Medien scannen</string>
+  <string name="sdcard_settings_bad_removal_status">SD-Karte während Verwendung entfernt</string>
+  <string name="sdcard_settings_mass_storage_status">SD-Karte wird als Massenspeicher verwendet</string>
+  <string name="sdcard_settings_not_present_status">SD-Karte nicht verbunden.</string>
+  <string name="sdcard_settings_read_only_status">SD-Karte ist schreibgeschützt.</string>
+  <string name="sdcard_settings_scanning_status">SD-Karte auf Medien scannen</string>
   <string name="sdcard_settings_screen_mass_storage_text">USB-Massenspeicher aktivieren</string>
   <string name="sdcard_settings_total_bytes_label">Bytes insgesamt:</string>
-  <string name="sdcard_settings_unmounted_status">USB-Speicher kann nun entfernt werden.</string>
+  <string name="sdcard_settings_unmounted_status">SD-Karte kann nun entfernt werden.</string>
   <string name="sdcard_settings_used_bytes_label">Verwendete Bytes:</string>
-  <string name="sdcard_unmount">USB-Speicher trennen</string>
+  <string name="sdcard_unmount">SD-Karte trennen</string>
   <string name="se_route_ese">Sicheres Element</string>
   <string name="se_route_uicc">Sicheres Element auf der SIM-Karte</string>
   <string name="search_about">Über</string>
@@ -2769,6 +2773,36 @@ Um Screen-Pinning zu nutzen:
   <string name="security_settings_billing_desc">Für diese App können Gebühren anfallen:</string>
   <string name="security_settings_desc">Diese App kann auf die folgenden Funktionen Ihres Telefons zugreifen:</string>
   <string name="security_settings_desc_multi">Diese App kann auf folgendes auf Ihrem Telefon zugreifen. Um die Leistung zu verbessern und die Speicherauslastung zu verringern, hat %1$s einige dieser Berechtigungen, weil es im selben Prozess wie %2$s ausgeführt wird:</string>
+  <string name="security_settings_fingerprint_enroll_dialog_delete">Delete</string>
+  <string name="security_settings_fingerprint_enroll_dialog_name_label">Name</string>
+  <string name="security_settings_fingerprint_enroll_dialog_ok">OK</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Sie können mit dem Fingerabruck nicht nur Ihr Gerät zu entsperren, sondern auch Einkäufe authorisieren oder sich an Apps anmelden. &lt;annotation id="url"&gt;Mehr erfahren&lt;/annotation&gt;</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">Screen lock option disabled. You can still use your fingerprint to authorize purchases and app access. &lt;annotation id="url"&gt;Learn more&lt;/annotation&gt;</string>
+  <string name="security_settings_fingerprint_enroll_done">Fertig</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Abbildung mit dem Gerät und der Position des Sensors</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Sie finden den Fingerabdrucksensor auf der Rückseite Ihres Telefons.</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_title">Sensor finden</string>
+  <string name="security_settings_fingerprint_enroll_finish_message">Wann immer Sie dieses Symbol sehen, können Sie Ihren Fingerabruck verwenden, um sich zu identifizieren oder Einkäufe zu authorisieren.</string>
+  <string name="security_settings_fingerprint_enroll_finish_title">Fingerabdruck hinzugefügt!</string>
+  <string name="security_settings_fingerprint_enroll_introduction_cancel">Abbrechen</string>
+  <string name="security_settings_fingerprint_enroll_introduction_continue">Fortfahren</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">Tippen Sie einfach den Sensor an, um Ihr Gerät zu entsperren, Einkäufe zu authorisieren oder sich an Apps anzumelden. Passen Sie auf, wessen Fingerabdrücke Sie hinzufügen - jegliche Fingerabdrücke, die Sie hinzufügen, ermöglichen diese Funktionen.</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_warning">Hinweis: Ihr Fingerabruck ist möglicherweise nicht so sicher wie ein starkes Passort oder eine PIN.</string>
+  <string name="security_settings_fingerprint_enroll_introduction_risk_link_text">Mehr erfahren</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title">Mit Fingerabdruck entsperren</string>
+  <string name="security_settings_fingerprint_enroll_lift_touch_again">Finger anheben, danach den Sensor nochmals berühren</string>
+  <string name="security_settings_fingerprint_enroll_onboard_message">To use your fingerprint to unlock your screen or confirm purchases, you’ll need to:</string>
+  <string name="security_settings_fingerprint_enroll_onboard_message_1">Set up your backup screen lock method</string>
+  <string name="security_settings_fingerprint_enroll_onboard_message_2">Fügen Sie Ihren Fingerabdruck hinzu</string>
+  <string name="security_settings_fingerprint_enroll_onboard_title">Fingerabdruck einrichten</string>
+  <string name="security_settings_fingerprint_enroll_repeat_message">Move your finger slightly to add all the different parts of your fingerprint</string>
+  <string name="security_settings_fingerprint_enroll_repeat_title">Toll! Jetzt wiederholen</string>
+  <string name="security_settings_fingerprint_enroll_setup_screen_lock">Bildschirmsperre einrichten</string>
+  <string name="security_settings_fingerprint_enroll_start_message">Legen Sie Ihren Finger auf den Sensor und nehmen Sie ihn weg, wenn Sie eine Vibration spüren</string>
+  <string name="security_settings_fingerprint_enroll_start_title">"Los geht's!"</string>
+  <string name="security_settings_fingerprint_enroll_touch_dialog_message">Verwenden Sie einen Fingerabruck auf Ihrem Gerät.</string>
+  <string name="security_settings_fingerprint_enroll_touch_dialog_title">Hoppla, das ist nicht der Sensor</string>
+  <string name="security_settings_fingerprint_preference_title">Finerabdruck</string>
   <string name="security_settings_premium_sms_desc">Premium-SMS senden?</string>
   <string name="security_settings_summary">Meinen Standort, Lockscreen, SIM-Kartensperre und Sperre für Anmeldeinformationsspeicher festlegen</string>
   <string name="security_settings_title">Sicherheit</string>
@@ -2777,7 +2811,11 @@ Um Screen-Pinning zu nutzen:
   <string name="select_device_admin_msg">Geräteadministratoren</string>
   <string name="select_logd_size_dialog_title">Logger-Größen pro Log-Puffer auswählen</string>
   <string name="select_logd_size_title">Logger-Puffergrößen</string>
+  <string name="select_sim_for_calls">Anrufen mit</string>
+  <string name="select_sim_for_data">SIM für Daten auswählen</string>
   <string name="select_ssid_type_title">SSID auswählen</string>
+  <string name="select_usb_configuration_dialog_title">USB Konfiguration wählen</string>
+  <string name="select_usb_configuration_title">USB Konfiguration wählen</string>
   <string name="selinux_status">SELinux-Status</string>
   <string name="selinux_status_disabled">Ausgeschaltet</string>
   <string name="selinux_status_enforcing">Strikt</string>
@@ -2809,6 +2847,8 @@ Um Screen-Pinning zu nutzen:
   <string name="settings_safetylegal_activity_unreachable">Es ist keine Datenverbindung vorhanden. Rufen Sie %s von einem beliebigen, mit dem Internet verbundenen Computer auf, um diese Informationen jetzt anzuzeigen.</string>
   <string name="settings_safetylegal_title">Sicherheitsinformationen</string>
   <string name="settings_shortcut">Einstellungsverknüpfung</string>
+  <string name="setup_fingerprint_enroll_finish_message">Tippen Sie einfach auf den Fingerabdrucksensor, um Ihr Gerät aufzuwecken oder zu entsperren.</string>
+  <string name="setup_fingerprint_enroll_finish_message_secondary">Wenn Sie dieses Symbol sehen, können Sie Ihren Fingerabdruck verwenden.</string>  
   <string name="setup_wifi_nfc_tag">WLAN NFC-Tag Einrichten</string>
   <string name="setup_wizard_back_button_label">Zurück</string>
   <string name="setup_wizard_next_button_label">Weiter</string>
@@ -2899,6 +2939,8 @@ Möglicherweise falsche PIN."</string>
   <string name="sim_multi_sims_summary">Wählen Sie die SIM-Karte, die Sie für mobile Daten bevorzugen.</string>
   <string name="sim_multi_sims_title">Mehrere SIM-Karten gefunden</string>
   <string name="sim_no_inserted_msg">Keine SIM-Karten eingelegt</string>
+  <string name="sim_notification_summary">Berühren, um einzurichten</string>
+  <string name="sim_notification_title">SIM Karten getauscht.</string>
   <string name="sim_other_call_settings">Andere Anrufeinstellungen</string>
   <string name="sim_outgoing_call_title">SIM-Karte für ausgehende Anrufe</string>
   <string name="sim_pin_attempts">"
@@ -2943,6 +2985,9 @@ Verbleibende Versuche :"</string>
   <string name="sms_over_ims_on">SMS über IMS einschalten</string>
   <string name="sms_received_sound_dialog_title">Ton für empfangene SMS auswählen</string>
   <string name="sms_received_sound_title">Nachricht empfangen</string>
+  <string name="sometimes_running">Läuft manchmal (%s)</string>
+  <string name="sort_avg_use">Nach durchschn. Verwendung sortieren</string>
+  <string name="sort_max_use">Nach max. Verwendung sortieren</string>
   <string name="sort_order_alpha">Nach Namen sortieren</string>
   <string name="sort_order_size">Nach Größe sortieren</string>
   <string name="sound_category_call_ringtone_vibrate_title">Klingelton &amp; Vibration</string>
@@ -2969,6 +3014,7 @@ Wenden Sie sich für weitere Informationen an Ihren Administrator."</string>
 
 Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerät installiert sind."</string>
   <string name="stable_build">" | Stable"</string>
+  <string name="starting_android">Android wird gestartet</string>
   <string name="status_awaiting_tap">TAG antippen um zu schreiben...</string>
   <string name="status_awake_time">Aktivzeit</string>
   <string name="status_bar_and_notification_bar">Benachrichtigungsleiste und Statusleiste</string>
@@ -3046,15 +3092,51 @@ Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerä
   <string name="status_wifi_mac_address">WLAN-MAC-Adresse</string>
   <string name="status_wimax_mac_address">4G-MAC-Adresse</string>
   <string name="status_write_success">Erfolg!</string>
+  <string name="storage_detail_apps">Apps</string>
+  <string name="storage_detail_audio">Audio</string>
+  <string name="storage_detail_cached">Daten im Cache</string>
+  <string name="storage_detail_dialog_other">"Andere beinhaltet von Apps gespeicherte Dateien, Downloads, Android Dateien, etc. 
+
+Um den gesamten Inhalt von ^1 anzuzeigen, tippen Sie auf Erkunden."</string>
+  <string name="storage_detail_dialog_user">"^1 hat möglicherweise, Musik, Videos, Apps oder andere Dateien gespeichert, die ^2 im Speicher belegen. 
+
+To view details, switch to ^1."</string>
+  <string name="storage_detail_explore">Erkunden ^1</string>
+  <string name="storage_detail_images">Bilder</string>
+  <string name="storage_detail_other">Andere</string>
+  <string name="storage_detail_videos">Videos</string>
+  <string name="storage_dialog_unmountable">"Dieses ^1 ist beschädigt. 
+
+Um dieses ^1 zu verwenden, müssen Sie es zuerst einrichten."</string>
+  <string name="storage_dialog_unmounted">"Dieses ^1 wurde sicher ausgeworfen, ist aber noch verfügbar. 
+
+Um dieses ^1 zu verwenden, müssen Sie es zuerst einbinden."</string>
+  <string name="storage_dialog_unsupported">"Dieses Gerät unterstützt dieses ^1 nicht. 
+
+Um dieses ^1 mit diesem Gerät zu verwenden, müssen Sie es zuerst einrichten."</string>
+  <string name="storage_external_title">Tragbares Speichermedium</string>
   <string name="storage_format">Format</string>
   <string name="storage_label">Speicher</string>
   <string name="storage_low_summary">Einige Systemfunktionen wie die Synchronisierung funktionieren möglicherweise nicht richtig. Versuchen Sie Speicher freizugeben, indem Sie Apps oder Medieninhalte löschen.</string>
   <string name="storage_low_title">Der Speicherplatz wird knapp</string>
+  <string name="storage_menu_explore">Erkunden</string>
+  <string name="storage_menu_forget">Vergessen</string>
+  <string name="storage_menu_format">Formatieren</string>
+  <string name="storage_menu_format_private">Als interne formatieren</string>
+  <string name="storage_menu_format_public">Als tragbar formatieren</string>
+  <string name="storage_menu_migrate">Daten migrieren</string>
+  <string name="storage_menu_mount">Einbinden</string>
+  <string name="storage_menu_rename">Umbenennen</string>
+  <string name="storage_menu_set_up">Einrichten</string>
+  <string name="storage_menu_unmount">Auswerfen</string>
+  <string name="storage_mount_failure">%1$s konnte nicht eingebunden werden</string>
+  <string name="storage_mount_success">%1$s ist eingebunden</string>
   <string name="storage_menu_usb">USB-Verbindung (PC)</string>
   <string name="storage_other_users">Andere Benutzer</string>
   <string name="storage_settings">Speicher</string>
   <string name="storage_settings_summary">USB-Speicher trennen, verfügbaren Speicher anzeigen</string>
   <string name="storage_settings_title">Speichereinstellungen</string>
+  <string name="storage_summary_format">%1$s used in %2$s</string>
   <string name="storage_title_usb">USB-Verbindung (PC)</string>
   <string name="storage_uicc">UICC Speicher</string>
   <string name="storage_usb">USB Speicher</string>
@@ -3072,8 +3154,12 @@ Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerä
   <string name="sum_carrier_select">Netzbetreiber auswählen</string>
   <string name="summary_divider_text">", "</string>
   <string name="summary_font_size">%1$s</string>
+  <string name="summary_range_verbal_combination">%1$s bis %2$s</string>
   <string name="supl_not_set">&lt;Nicht festgelegt&gt;</string>
   <string name="supplicant_state_label">Supplikant Status:</string>
+  <string name="suw_back_button_label">Zurück</string>
+  <string name="suw_more_button_label">Mehr</string>
+  <string name="suw_next_button_label">Weiter</string>
   <string name="switch_off_text">Aus</string>
   <string name="switch_on_text">An</string>
   <string name="symbols_not_allowed_for_password">"Passwort darf keine Symbole enthalten"</string>
@@ -3099,13 +3185,22 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="sync_settings">Synchronisierung</string>
   <string name="sync_wifi_label">WLAN</string>
   <string name="sync_wifi_only">Nur über WLAN</string>
+  <string name="system_alert_window_access_title">Apps überlagern</string>
+  <string name="system_alert_window_apps_title">Apps</string>
+  <string name="system_alert_window_off">Nein</string>
+  <string name="system_alert_window_on">Ja</string>
+  <string name="system_alert_window_settings">Apps überlagern</string>
+  <string name="system_alert_window_summary" formatted="false">%d von %d Apps ist es erlaubt, andere Apps zu überlagern</string>
   <string name="system">System</string>
   <string name="system_app_settings">System-Programme</string>
   <string name="system_backup_section_title">Sicherungen</string>
   <string name="system_package">Systemupdates können nicht auf externen Datenträgern installiert werden.</string>
   <string name="system_storage">System Speicher</string>
+  <string name="system_ui_settings">SystemUI Tuner anzeigen</string>
   <string name="system_update_settings_list_item_summary"/>
   <string name="system_update_settings_list_item_title">System Updates</string>
+  <string name="tap_to_wake">Tap to Wake</string>
+  <string name="tap_to_wake_summary">Tippen Sie den Bildschirm zweimal an, um das Gerät aufzuwecken</string>
   <string name="terms_title">Nutzungsbedingungen</string>
   <string name="testing">Test</string>
   <string name="testing_battery_info">Akkuinformationen</string>
@@ -3137,8 +3232,10 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="title_system_resource">System Quellen</string>
   <string name="toast_lockscreen_glogin_empty_password">Passwort eingeben</string>
   <string name="toast_need_login">Melden Sie sich bei Ihrem Mi-Konto an</string>
+  <string name="total_memory">Gesamter Speicher</string>
   <string name="total_size">Insgesamt: %s</string>
   <string name="total_size_label">Insgesamt</string>
+  <string name="touch_filtered_warning">Because an app is obscuring a permission request, Settings can’t verify your response.</string>
   <string name="touch_sensitive_summary">Unterstützung für die Bedienung mit Handschuhen und Fehlbedienungsmodus wird eingeschaltet</string>
   <string name="touch_sensitive_title">Handschuhmodus</string>
   <string name="touch_sensitive_turn_off_cancel">Abbrechen</string>
@@ -3153,6 +3250,7 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="transition_animation_scale_title">Übergangsanimation</string>
   <string name="translation_contributors_summary"/>
   <string name="translation_contributors_title">Mitwirkende</string>
+  <string name="trust_agent_disabled_device_admin">Vom Administrator deaktiviert</string>
   <string name="trusted_credentials">Vertrauenswürdige Anmeldedaten</string>
   <string name="trusted_credentials_disable_confirmation">System-CA-Zertifikat deaktivieren?</string>
   <string name="trusted_credentials_disable_label">Ausschalten</string>
@@ -3232,6 +3330,24 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="unlock_change_lock_password_title">Entsperrpasswort ändern</string>
   <string name="unlock_change_lock_pattern_title">Entsperrmuster ändern</string>
   <string name="unlock_change_lock_pin_title">PIN ändern</string>
+  <string name="unlock_disable_frp_warning_content_password">Geräteschutz funktioniert ohne ein Passwort nicht.</string>
+  <string name="unlock_disable_frp_warning_content_password_fingerprint">"Geräteschutzfunktionen werden ohne ein Passwort nicht funktionieren.
+
+Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden nicht mehr in der Lage sein, ein Gerät damit zu entsperren, Einkäufe zu authorisieren oder sich an Apps anzumelden."</string>
+  <string name="unlock_disable_frp_warning_content_pattern">Geräteschutz funktioniert ohne ein Entsperrmuster nicht.</string>
+  <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Geräteschutzfunktionen werden ohne ein Entsperrmuster nicht funktionieren.
+
+Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu authorisieren oder sich an Apps anzumelden."</string>
+  <string name="unlock_disable_frp_warning_content_pin">Geräteschutz funktioniert nicht ohne eine PIN.</string>
+  <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Geräteschutzfunktionen werden ohne eine PIN nicht funktionieren.
+
+Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu authorisieren oder sich an Apps anzumelden."</string>
+  <string name="unlock_disable_frp_warning_content_unknown">Geräteschutz funktioniert nicht ohne eine Bildschirmsperre.</string>
+  <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Geräteschutzfunktionen werden ohne eine Bildschirmsperre nicht funktionieren.
+
+Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu authorisieren oder sich an Apps anzumelden."</string>
+  <string name="unlock_disable_frp_warning_ok">Yes, remove</string>
+  <string name="unlock_disable_frp_warning_title">Remove device protection?</string>
   <string name="unlock_disable_lock_password_summary">Entsperrpasswort entfernen</string>
   <string name="unlock_disable_lock_pattern_summary">Entsperrmuster entfernen</string>
   <string name="unlock_disable_lock_pin_summary">PIN entfernen</string>
@@ -3262,6 +3378,7 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="unlock_set_unlock_pin_summary">Mittlere bis hohe Sicherheit</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Bitte Bildschirmsperre einschalten.</string>
+  <string name="unlock_setup_wizard_fingerprint_details">Sobald Sie eine Bildschirmsperre eingerichtet haben, können Sie Ihren Fingerabdruck unter Einstellungen &gt; Sicherheit einrichten.</string>
   <string name="unmount_inform_text">USB-Speicher wird getrennt.</string>
   <string name="untitled_apn">Unbenannt</string>
   <string name="update_progress_for_updates">Aktualisiere (%s)</string>
@@ -3274,6 +3391,7 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="usage_time_label">Nutzungszeit</string>
   <string name="usage_type_actual_power">Beobachteter Stromverbrauch</string>
   <string name="usage_type_audio">Audio</string>
+  <string name="usage_type_camera">Kamera</string>
   <string name="usage_type_computed_power">Berechneter Stromverbrauch</string>
   <string name="usage_type_cpu">CPU insgesamt</string>
   <string name="usage_type_cpu_foreground">CPU Vordergrund</string>
@@ -3281,6 +3399,7 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="usage_type_data_send">Gesendete Daten</string>
   <string name="usage_type_data_wifi_recv">WLAN-Daten empfangen</string>
   <string name="usage_type_data_wifi_send">WLAN-Daten gesendet</string>
+  <string name="usage_type_flashlight">Lampe</string>
   <string name="usage_type_gps">GPS</string>
   <string name="usage_type_no_coverage">Zeit ohne Signal</string>
   <string name="usage_type_on_time">Laufzeit</string>
@@ -3301,6 +3420,9 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="usb_format_summary">Löscht alle Daten auf dem USB-Speicher, wie z.B. Musik und Fotos</string>
   <string name="usb_host_mode_subtext">Für die Verwendung von Game-Controller und anderen Geräten über den USB-Anschluss. Die Laufzeit des Akkus wird verringert</string>
   <string name="usb_host_mode_text">USB Hostmodus einschalten</string>
+  <string name="usb_midi_summary">Unterstützte Anwendungen können über USBmit einer MIDI Software auf einem Computer zusammenarbeiten.</string>
+  <string name="usb_midi_title">MIDI</string>
+  <string name="usb_mount">USB Speicher einbinden</string>
   <string name="usb_insert_summary">Legen Sie einen USB-Speicher ein, um ihn zu mounten</string>
   <string name="usb_label_installer_cd">Installieren Sie Datentransfer-Tools</string>
   <string name="usb_media_format_button_text">USB-Speicher löschen</string>
@@ -3338,6 +3460,7 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="use_nuplayer_summary">Verwenden Sie NuPlayer anstatt dem AwesomePlayer</string>
   <string name="use_system_language_to_select_input_method_subtypes">Systemsprache</string>
   <string name="user_account_title">Konto für Inhalte</string>
+  <string name="user_add_max_count">Sie können bis zu %1$d Benutzer hinzufügen</string>
   <string name="user_add_on_lockscreen_menu">Benutzer hinzufügen, wenn Gerät gesperrt ist</string>
   <string name="user_add_profile_item_summary">Sie können den Zugriff auf Apps und Inhalte aus Ihrem Konto beschränken.</string>
   <string name="user_add_profile_item_title">Eingeschränkte Profile</string>
@@ -3505,10 +3628,14 @@ Jeder Nutzer kann aktualisierte App-Berechtigungen im Namen aller anderen Nutzer
   <string name="vpn_connect">Verbinden</string>
   <string name="vpn_connect_to">Mit %s verbinden</string>
   <string name="vpn_create">VPN hinzufügen</string>
+  <string name="vpn_disconnect">Trennen</string>
+  <string name="vpn_disconnect_confirm">Dieses VPN trennen.</string>
   <string name="vpn_dns_servers">DNS-Server</string>
   <string name="vpn_dns_servers_hint">z.b. 8.8.8.8</string>
+  <string name="vpn_done">Verwerfen</string>
   <string name="vpn_edit">VPN-Profil bearbeiten</string>
   <string name="vpn_enable">VPN</string>
+  <string name="vpn_forget">Vergessen</string>
   <string name="vpn_ipsec_ca_cert">IPSec-CA-Zertifikat</string>
   <string name="vpn_ipsec_identifier">IPSec-ID</string>
   <string name="vpn_ipsec_secret">Vorinstallierter IPSec-Schlüssel</string>
@@ -3554,6 +3681,7 @@ Jeder Nutzer kann aktualisierte App-Berechtigungen im Namen aller anderen Nutzer
   <string name="wallpaper_lockscreen">Sperrbildschirm</string>
   <string name="wallpaper_settings_fragment_title">Hintergrund auswählen von</string>
   <string name="wallpaper_settings_title">Hintergrund</string>
+  <string name="webview_license_title">System WebView Lizenz</string>
   <string name="welcome">Willkommen</string>
   <string name="wfd_available_devices">Verfügbare Geräte</string>
   <string name="wfd_disconnect_diag_msg">Wenn Sie die WLAN- Bildschirmsitzung beenden, wird die Verbindung mit %1$s getrennt.</string>
@@ -3611,6 +3739,7 @@ WLAN Assistent"</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">"Nicht nochmal anzeigen"</string>
   <string name="wifi_connect_cmcc_dialog_title">Datennutzungsbenachrichtigung</string>
   <string name="wifi_connect_failed_message">Das Handy konnte sich nicht mit diesem WLAN verbinden.</string>
+  <string name="wifi_connected_no_internet">Verbunden, kein Internet</string>
   <string name="wifi_context_menu_change_password">Passwort ändern</string>
   <string name="wifi_context_menu_change_wapi_certificate">WAPI-Zertifikate ändern</string>
   <string name="wifi_context_menu_connect">Verbinden</string>
@@ -3669,14 +3798,14 @@ WLAN Assistent"</string>
   <string name="wifi_failed_forget_message">Netzwerk entfernen fehlgeschlagen</string>
   <string name="wifi_failed_save_message">Netzwerk speichern fehlgeschlagen</string>
   <string name="wifi_forget">Entfernen</string>
-  <string name="wifi_frequency">Frequency</string>
+  <string name="wifi_frequency">Frequenz</string>
   <string name="wifi_gateway">Gateway</string>
   <string name="wifi_gateway_hint">192.168.1.1</string>
-  <string name="wifi_hotspot_checkbox_text">Wi‑Fi hotspot</string>
+  <string name="wifi_hotspot_checkbox_text">WLAN Hotspot</string>
   <string name="wifi_hotspot_checkbox_text_summary">Verwenden Sie Mobilfunkverbindung, um ein WLAN-Netzwerk bereitzustellen</string>
   <string name="wifi_hotspot_configure_ap_text">WLAN Hotspot Einrichtung</string>
   <string name="wifi_hotspot_configure_ap_text_summary">AndroidAP WPA2 PSK tragbarer WLAN Hotspot</string>
-  <string name="wifi_hotspot_connect">VERBINDE</string>
+  <string name="wifi_hotspot_connect">VERBINDEN</string>
   <string name="wifi_hotspot_message">%1$s erfordert, dass Sie sich Online anmelden, bevor Sie sich mit dem Netzwerk verbinden.</string>
   <string name="wifi_hotspot_title">Zum Verbinden anmelden?</string>
   <string name="wifi_in_airplane_mode">Im Flugmodus</string>
@@ -3697,6 +3826,7 @@ WLAN Assistent"</string>
   <string name="wifi_menu_modify">Netzwerk ändern</string>
   <string name="wifi_menu_more_options">Weitere Optionen</string>
   <string name="wifi_menu_p2p">WLAN Direkt</string>
+  <string name="wifi_menu_remember">Netzwerk merken</string>
   <string name="wifi_menu_scan">Suchen</string>
   <string name="wifi_menu_wfd">WLAN Anzeige</string>
   <string name="wifi_menu_wps_pbc">WPS Push Taste</string>
@@ -3705,6 +3835,7 @@ WLAN Assistent"</string>
   <string name="wifi_more">Mehr</string>
   <string name="wifi_network_prefix_length">Länge Netzwerkpräfix</string>
   <string name="wifi_network_prefix_length_hint">24</string>
+  <string name="wifi_no_internet">"Kein Internetzugang erkannt, wird nicht automatisch weider verbunden."</string>
   <string name="wifi_not_in_range">Nicht in Reichweite</string>
   <string name="wifi_notify_cmcc_connected_summary">Benachrichtigung anzeigen, wenn man mit dem CMCC Netzwerk verbunden ist</string>
   <string name="wifi_notify_cmcc_connected_title">CMCC Netzwerkbenachrichtigung</string>
@@ -3748,6 +3879,7 @@ WLAN Assistent"</string>
   <string name="wifi_quick_toggle_title">WLAN</string>
   <string name="wifi_remembered">Gespeichert</string>
   <string name="wifi_required_info_text">Ihr Telefon muss eine WLAN-Verbindung haben, damit die Einrichtung abgeschlossen werden kann. Nach der Einrichtung können Sie zwischen WLAN und Mobilfunk wechseln.</string>
+  <string name="wifi_sap_no_channel_error">5 GHz Band in diesem Land nicht verfügbar</string>
   <string name="wifi_rssi_threshold_check">RSSI Schwellenwert aktivieren</string>
   <string name="wifi_rssi_threshold_check_summary">Verbinde nicht mit einem AP, wenn RSSI gering ist</string>
   <string name="wifi_save">Speichern</string>
@@ -3763,8 +3895,7 @@ WLAN Assistent"</string>
 
 Für alle Apps die scannen möchten erlauben?"</string>
   <string name="wifi_scan_notify_remember_choice">"Nicht mehr anzeigen"</string>
-  <string name="wifi_scan_notify_text_location_off">Apps können auch bei deaktiviertem WLAN nach Netzwerken in der Nähe suchen. Wenn Sie das nicht möchten, können Sie dies unter \"Erweitert\" &gt; \"Scannen immer verfügbar\" ändern.</string>
-  <string name="wifi_scan_notify_text_location_on">Zur Erhöhung der Standortgenauigkeit und aus anderen Gründen können Google und andere Apps auch bei deaktiviertem WLAN nach Netzwerken in der Nähe suchen. Wenn Sie das nicht möchten, können Sie dies unter \"Erweitert\" &gt; \"Scannen immer verfügbar\" ändern.</string>
+  <string name="wifi_scan_notify_text">Zur Erhöhung der Standortgenauigkeit und aus anderen Gründen können Google und andere Apps auch bei deaktiviertem WLAN nach Netzwerken in der Nähe suchen. Wenn Sie das nicht möchten, können Sie dies unter \"Erweitert\" &gt; \"Scannen immer verfügbar\" ändern.</string>
   <string name="wifi_security">Sicherheit</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
@@ -3781,6 +3912,7 @@ Für alle Apps die scannen möchten erlauben?"</string>
   <string name="wifi_security_wpa">WPA PSK</string>
   <string name="wifi_security_wpa2">WPA2 PSK</string>
   <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+  <string name="wifi_select_assistant_dialog_title">Assistenten auswählen</string>
   <string name="wifi_select_network">WLAN auswählen</string>
   <string name="wifi_setting_category">Verfügbare Netzwerke</string>
   <string name="wifi_setting_frequency_band_error">Fehler beim Festlegen des Frequenzbereichs.</string>
@@ -3962,9 +4094,22 @@ Das Einrichten des Telefons kann eine erhöhte Netzwerkaktivität erfordern."</s
   <string name="xiaomi_router_notif_title">Mi Router Benachrichtigung</string>
   <string name="yes">Ja</string>
   <string name="yes_all_caps">JA</string>
+  <string name="zen_access_empty_text">"Keine Apps erfordern Zugriff im \"Nicht stören\" Modus"</string>
+  <string name="zen_access_warning_dialog_summary">"Dieser App ist es möglich \"Nicht stören\" ein-/auszuschalten und relevante Einstellungen zu ändern."</string>
+  <string name="zen_access_warning_dialog_title">"Zugriff im \"Nicht stören\" Modus erlauben für %1$s erlauben?"</string>
+  <string name="zen_event_rule_enabled_toast">"Automatische Regel zum Einschalten des \"Nicht stören\" Moduszu bestimmten Ereignissen erstellt"</string>
+  <string name="zen_event_rule_type_name">Ereignisregel</string>
+  <string name="zen_mode_add_rule">Regel hinzufügen</string>
   <string name="zen_mode_alarm_info">Alarme sind immer Vorrangunterbrechungen</string>
   <string name="zen_mode_alarm_use">Töne</string>
+  <string name="zen_mode_alarms">Alarme</string>  
   <string name="zen_mode_automation_category">Automatisierung</string>
+  <string name="zen_mode_automation_settings_title">Automatische Regeln</string>
+  <string name="zen_mode_calls">Anhrufe</string>
+  <string name="zen_mode_configure_rule">Regel erstellen</string>
+  <string name="zen_mode_delete_rule">Regel löschen</string>
+  <string name="zen_mode_delete_rule_button">Löschen</string>
+  <string name="zen_mode_delete_rule_confirmation">“%1$s” Regel löschen?</string>
   <string name="zen_mode_default_option">Bis Sie dies ausschalten</string>
   <string name="zen_mode_downtime_category">Ausfallzeit (nur Vorrangunterbrechungen)</string>
   <string name="zen_mode_downtime_days">Tage</string>
@@ -3973,10 +4118,22 @@ Das Einrichten des Telefons kann eine erhöhte Netzwerkaktivität erfordern."</s
   <string name="zen_mode_end_time_summary_format">%s nächster Tag</string>
   <string name="zen_mode_entry_conditions_summary_none">Nie</string>
   <string name="zen_mode_entry_conditions_title">Automatisch aktivieren</string>
+  <string name="zen_mode_event_rule_calendar">Während Ereignissen für</string>
+  <string name="zen_mode_event_rule_calendar_any">Alle Kalendar</string>
+  <string name="zen_mode_event_rule_reply">Wenn die Antwort lautet</string>
+  <string name="zen_mode_event_rule_reply_any_except_no">Ja, Veilleicht, oder Nicht replied</string>
+  <string name="zen_mode_event_rule_reply_yes">Ja</string>
+  <string name="zen_mode_event_rule_reply_yes_or_maybe">Ja oder Vielleicht</string>
+  <string name="zen_mode_event_rule_summary_any_calendar">Alle Kalendar</string>
+  <string name="zen_mode_event_rule_summary_calendar_template">Während Ereignissen für %1$s</string>
+  <string name="zen_mode_event_rule_summary_reply_template">Wenn die Antwort %1$s lautet</string>
   <string name="zen_mode_events">Events und Erinnerungen</string>
   <string name="zen_mode_from">Anrufe/Nachrichten von</string>
   <string name="zen_mode_from_anyone">Jeden</string>
+  <string name="zen_mode_from_call">"Anrufe von "</string>
   <string name="zen_mode_from_contacts">nur Kontakte</string>
+  <string name="zen_mode_from_none">Keine</string>
+  <string name="zen_mode_from_sms">"Nachrichten von "</string>
   <string name="zen_mode_from_starred">Nur markierte Kontakte</string>
   <string name="zen_mode_important_category">Vorrangunterbrechungen</string>
   <string name="zen_mode_messages">Nachrichten</string>
@@ -3990,8 +4147,26 @@ Das Einrichten des Telefons kann eine erhöhte Netzwerkaktivität erfordern."</s
   <string name="zen_mode_option_title">Beim Eintreffen der Anrufe und Benachrichtigungen</string>
   <string name="zen_mode_option_title_novoice">Wenn Benachrichtigungen eintreffen</string>
   <string name="zen_mode_phone_calls">Anrufe</string>
-  <string name="zen_mode_settings_title">Unterbrechungen</string>
+  <string name="zen_mode_priority_settings_title">Priorität erlaubt nur</string>
+  <string name="zen_mode_reminders">Erinnerungen</string>
+  <string name="zen_mode_repeat_callers">Wiederholte Anrufer</string>
+  <string name="zen_mode_repeat_callers_summary">Wenn der selbe Anrufer innerhalb von %d Minuten zweimal anruft, erlauben</string>
+  <string name="zen_mode_rule_name">Regelname</string>
+  <string name="zen_mode_rule_name_hint">Geben Sie einen Namen ein</string>
+  <string name="zen_mode_rule_name_warning">Regel existiert bereits</string>
+  <string name="zen_mode_rule_not_found_text">Regel nicht gefunden.</string>
+  <string name="zen_mode_rule_summary_combination">%1$s / %2$s</string>
+  <string name="zen_mode_rule_type">Regeltyp</string>
+  <string name="zen_mode_rule_type_unknown">Unbekannt</string>
+  <string name="zen_mode_schedule_rule_days">Tage</string>
+  <string name="zen_mode_schedule_rule_days_all">Jeden Tag</string>
+  <string name="zen_mode_schedule_rule_days_none">Keine</string>
+  <string name="zen_mode_selected_callers">Ausgewählte Anrufer</string>
+  <string name="zen_mode_selected_messages">Ausgewählte Nachrichten</string>
+  <string name="zen_mode_settings_title">Nicht stören</string>
   <string name="zen_mode_start_time">Startzeit</string>
+  <string name="zen_mode_summary_always">Change to always interrupt</string>
+  <string name="zen_mode_summary_combination">%1$s: %2$s</string>
   <string name="zen_mode_when">Automatisch einschalten</string>
   <string name="zen_mode_when_every_night">Jede Nacht</string>
   <string name="zen_mode_when_never">Nie</string>
