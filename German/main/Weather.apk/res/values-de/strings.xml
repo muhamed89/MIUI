@@ -47,7 +47,7 @@
   <string name="button_exit">Beenden</string>
   <string name="button_not_allow">Abbrechen</string>
   <string name="daily_forcast_drawer_on_bottom">Verbergen</string>
-  <string name="daily_forcast_drawer_on_top">Andere Tage anzeigen</string>
+  <string name="daily_forcast_drawer_on_top">Weitere Tage anzeigen</string>
   <string name="daily_forcast_no_wind">Kein Wind</string>
   <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s später.</string>
