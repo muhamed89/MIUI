@@ -47,7 +47,7 @@
   <string name="stations_list_empty">Senderliste ist leer</string>
   <string name="toast_added_to_list">Zur Liste hinzugefügt</string>
   <string name="toast_added_to_presets">Zu Favoriten hinzufügen</string>
-  <string name="toast_fm_error_startfailed">Aufnahmefehler. Eine andere App benutzt die Aufnahmfunktion. Prüfen und erneut versuchen.</string>
+  <string name="toast_fm_error_startfailed">Aufnahmefehler. Eine andere App benutzt die Aufnahmefunktion. Prüfen und erneut versuchen.</string>
   <string name="toast_fm_recorder_access_error">"Aufnahme im Gastmodus nicht möglich"</string>
   <string name="toast_fm_recorder_internal_error">FM-Aufnahmefehler.</string>
   <string name="toast_fm_recorder_storage_full">"Speicher voll. Aufnahme nicht möglich."</string>
