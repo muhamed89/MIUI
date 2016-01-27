@@ -79,7 +79,7 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="accessibility_wifi_off">WLAN aus.</string>
   <string name="accessibility_wifi_one_bar">WLAN ein Balken.</string>
   <string name="accessibility_wifi_signal_full">WLAN voller Empfang.</string>
-  <string name="accessibility_wifi_three_bars">Wifi drei Balken.</string>
+  <string name="accessibility_wifi_three_bars">WLAN drei Balken.</string>
   <string name="accessibility_wifi_two_bars">WLAN zwei Balken.</string>
   <string name="accessibility_work_account_title">Arbeitskonto - %s</string>
   <string name="account_add">Hinzufügen</string>
