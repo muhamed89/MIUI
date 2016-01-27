@@ -29,7 +29,7 @@
   <string name="cancel_download">Download der Aktualisierung abbrechen?</string>
   <string name="cancel_download_buton_text">Abbrechen</string>
   <string name="check_local_package_update_btn">Neu starten und aktualisieren</string>
-  <string name="check_local_package_update_msg">"Sie sind dabei, MIUI zu aktualisieren %s. Das Telefon wird sich während dieses Vorgangs neu starten."</string>
+  <string name="check_local_package_update_msg">Ihr Gerät wird automatisch neu gestartet, um auf MIUI Version %s zu aktualisieren.</string>
   <string name="check_local_package_update_title">Update</string>
   <string name="check_local_package_validate_error_button">OK</string>
   <string name="check_local_package_validate_error_msg">Updatepaket konnte nicht verifiziert werden</string>
@@ -49,7 +49,7 @@
   <string name="comment_upload_not_logined">Sie müssen sich erst mit Ihrem Mi Konto anmelden</string>
   <string name="comment_upload_success">Gesendet</string>
   <string name="confirm_local_package_wipe_btn">Löschen und aktualisieren</string>
-  <string name="confirm_local_package_wipe_msg">Ihre persönlichen Daten werden debei gelöscht. Vergewissern Sie sich, dass sie alle wichtigen Daten gesichert haben, bevor Sie diesen Vorgang starten.</string>
+  <string name="confirm_local_package_wipe_msg">Ihre persönlichen Daten werden gelöscht. Vergewissern Sie sich, dass sie alle wichtigen Daten gesichert haben, bevor Sie diesen Vorgang starten.</string>
   <string name="confirm_local_package_wipe_title">Daten löschen?</string>
   <string name="continue_update_negative_btn">Weiter</string>
   <string name="continue_update_positive_btn">Abbrechen</string>
@@ -111,7 +111,7 @@
   <string name="no_log">Keine Zusammenfassung verfügbar</string>
   <string name="no_wifi_msg">Der Download über das mobile Datennetzwerk wird Ihren Verbrauch deutlich erhöhen. Sollten Sie über keine Internet-Flatrate verfügen, dann könnten zusätzliche Kosten bei Ihrem Betreiber entstehen.</string>
   <string name="no_wifi_title">Datenverbrauch Warnung</string>
-  <string name="not_open">Ausschalten</string>
+  <string name="not_open">Nein</string>
   <string name="notification_auto_reboot_seccess_title">Gerät wurde automatisch aktualisiert</string>
   <string name="notification_downloading">Update wird heruntergeladen…</string>
   <string name="notification_fail_msg">Versuchen Sie, die ROM zu laden</string>
@@ -120,7 +120,7 @@
   <string name="notification_load_title_alpha">Melden Sie sich mit Ihrem Mi Konto an</string>
   <string name="notification_load_title_dev">Melden Sie sich mit Ihrem Mi Konto an</string>
   <string name="notification_reboot_btn">Neustart</string>
-  <string name="notification_reboot_seccess_des">Zum Teilen der Info berühren</string>
+  <string name="notification_reboot_seccess_des">Zum anzeigen der Info berühren</string>
   <string name="notification_reboot_seccess_title">Gerät aktualisiert</string>
   <string name="notification_reboot_summary_hm">Berühren, um Telefon neu zu starten</string>
   <string name="notification_reboot_title">Neustart erforderlich, damit Update übernommen wird</string>
@@ -131,7 +131,7 @@
   <string name="notification_update_now">Update jetzt durchführen</string>
   <string name="notification_updating">Aktualisiere…</string>
   <string name="on_checking">Überprüfe…</string>
-  <string name="open_now">Aktivieren</string>
+  <string name="open_now">Ja</string>
   <string name="particular_build">Einzelheiten</string>
   <string name="pause">Pause</string>
   <string name="pm_root_acquired_button">Root Zugriff</string>
@@ -161,8 +161,8 @@ http://zhushou.xiaomi.com"</string>
   <string name="root_agree_check_box_title">Die Risiken einens Root Zugriffs sind mir bewusst</string>
   <string name="root_dangerous_msg">Root Zugriff ist riskant und kann Ihr Gerät sowie persönlichen Daten für Angreifer oder Schadprogramme verfügbar machen. Sie stimmen zu , dass Sie für alle Schäden an Ihrem Gerät oder Datenverluste, die aus der Gewährung des root-Zugriffs führen können allein verantwortlich sind.</string>
   <string name="set_auto">Updates automatisch suchen</string>
-  <string name="set_auto_msg">Updates automatisch über WLAN herunterladen</string>
-  <string name="set_auto_update_title">Updates automatisch herunterladen</string>
+  <string name="set_auto_msg">Soll Updates automatisch herunterladen, sobald Sie mit WLAN verbunden sind?</string>
+  <string name="set_auto_update_title">Updates automatisch herunterladen?</string>
   <string name="set_installfail_full_msg">Es ist ein Fehler aufgetreten. Klicken Sie bitte auf OK, um diesen Fehler zu melden.</string>
   <string name="set_installfail_msg">Sie befinden sich nicht im WLAN-Netzwerk. Download über das mobile Netzwerk wird Ihren Datenverbrauch stark ansteigen lassen. Sollten Sie keine Flatrate besitzen, dann könnten weitere Kosten entstehen.</string>
   <string name="set_installfail_title">Update erneut herunterladen?</string>
