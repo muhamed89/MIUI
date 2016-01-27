@@ -5,7 +5,7 @@
   <string name="activity_not_found_uri">Keine Anwendung zum Öffnen der Datei gefunden</string>
   <string name="addBlackList">Blockieren</string>
   <string name="add_attachment">Anhänge hinzufügen</string>
-  <string name="add_contact">Kontakt</string>
+  <string name="add_contact">vCard</string>
   <string name="add_festival">Vorlagen</string>
   <string name="add_music">Musik hinzufügen</string>
   <string name="add_nickname">Spitzname</string>
@@ -13,6 +13,7 @@
   <string name="add_number_to_sender">Nummer hinzufügen zu %s</string>
   <string name="add_picture">Bild hinzufügen</string>
   <string name="add_private_contact">Privaten Kontakt hinzufügen</string>
+  <string name="add_redpackage">Rot-Paket</string>
   <string name="add_slide">Dia hinzufügen (Hinterher)</string>
   <string name="add_slide_before">Dia hinzufügen (Vorher)</string>
   <string name="add_slide_hint">Neues Dia hinzufügen</string>
@@ -430,6 +431,8 @@
   <string name="recipient_label">"Empfänger: "</string>
   <string name="recipients_over_size">Zu viele Empfänger</string>
   <string name="recording_failed">"Aufnahme fehlgeschlagen"</string>
+  <string name="red_package_btn">Open</string>
+  <string name="red_package_default_hint">Gratulation und viel Glück!</string>
   <string name="refill_now">Jetzt aufladen</string>
   <string name="refresh">Aktualisieren</string>
   <string name="refresh_failed">Update fehlgeschlagen</string>
@@ -525,6 +528,7 @@
   <string name="sms_report_success">Bericht gesendet</string>
   <string name="snippet_audio">[Audio]</string>
   <string name="snippet_picture">[Bild]</string>
+  <string name="snippet_red_package">[Rot-Paket]</string>
   <string name="sp_category_all">Alle Dienstnachrichten</string>
   <string name="sp_category_bank">Bank Dienstnachrichten</string>
   <string name="sp_category_title_prefix">%s</string>
