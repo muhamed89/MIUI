@@ -4,7 +4,7 @@
   <string name="bass_boost_strength">Bassverstärkung</string>
   <string name="ci_extreme">FX-Verstärker</string>
   <string name="eq_dialog_title">Equalizer</string>
-  <string name="headset_plug">Für diese Effekte benötigen Sie Kopfhörer.</string>
+  <string name="headset_plug">Für diese Effekte benötigen Sie einen Kopfhörer.</string>
   <string name="no_effects">Effekte nicht verfügbar.</string>
   <string name="picker_title">Steuerfeld für Musikeffekte</string>
   <string name="setup">Einrichtung</string>
