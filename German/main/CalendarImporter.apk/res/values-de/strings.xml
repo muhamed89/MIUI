@@ -13,8 +13,8 @@
   <string name="import_vcs_failed">Hinzufügen fehlgeschlagen.</string>
   <string name="importing">Importieren ...</string>
   <string name="loading">Laden…</string>
-  <string name="no_access_toast">Keinen Account gefunden, bitte erst einen erstellen</string>
-  <string name="no_calendars_found">Dieser Account kann nicht Synchronisiert werden, oder die letzte Synchronisation ist fehlgeschlagen.</string>
+  <string name="no_access_toast">Keinen Account gefunden, bitte zuerst einen erstellen</string>
+  <string name="no_calendars_found">Dieser Account kann nicht synchronisiert werden, oder die letzte Synchronisation ist fehlgeschlagen.</string>
   <string name="no_syncable_calendars">Kann nicht importiert werden</string>
   <string name="not_support_multi_events">Dateien mit mehreren Ereignissen werden nicht unterstützt.</string>
   <string name="null_name">Keine</string>
