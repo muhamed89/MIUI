@@ -3431,7 +3431,6 @@ Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden 
   <string name="usb_media_format_gesture_explanation">Sie müssen Ihr Entperrmuster zeichnen, um die Löschung des USB-Speichers zu bestätigen.</string>
   <string name="usb_media_format_summary">Löscht alle Daten auf dem USB-Speicher</string>
   <string name="usb_media_format_title">Lösche USB-Speicher</string>
-  <string name="usb_mount">Lege den USB-Speicher ein</string>
   <string name="usb_mount_summary"/>
   <string name="usb_msd_driver_installer_summary">Treiber für Windows und OSX erhalten Sie hier</string>
   <string name="usb_msd_driver_installer_title">Installer-Treiberdiskette (MSD)</string>
