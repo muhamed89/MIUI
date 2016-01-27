@@ -11,7 +11,7 @@
   <string name="debug_tool_email_body">Beigefügt ist meine Kalenderdatenbank mit meinen Terminen und persönlichen Informationen. Bitte gehen Sie sorgfältig damit um.</string>
   <string name="debug_tool_email_sender_picker">App zum Senden der Datei auswählen.</string>
   <string name="debug_tool_email_subject">Kalender-DB angehängt</string>
-  <string name="debug_tool_message">Sie sind dabei, 1) eine Kopie Ihrer Kalenderdatenbank auf der SD-Karte bzw. dem USB-Speicher zu speichern, die von jeder App gelesen werden kann, und 2) sie per E-Mail zu versenden. Löschen Sie sie, sobald sie vom Gerät kopiert sind oder die E-Mail erhalten wurde.</string>
+  <string name="debug_tool_message">Sie sind dabei, 1) eine Kopie Ihrer Kalenderdatenbank auf der SD-Karte bzw. dem USB-Speicher zu speichern, die von jeder App gelesen werden kann, und 2) sie per E-Mail zu versenden. Löschen Sie sie, sobald sie vom Gerät kopiert ist oder die E-Mail erhalten wurde.</string>
   <string name="debug_tool_start_button">Starten</string>
   <string name="holiday_data_no_network">Kein Netzwerk. Später erneut versuchen.</string>
   <string name="holiday_data_update_failed">Prüfen Sie das Update auf Fehler und später erneut versuchen.</string>
