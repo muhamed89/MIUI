@@ -11,7 +11,7 @@
   <string name="act_weather_find_city_searching">Suche…</string>
   <string name="activity_alert_detail_title"/>
   <string name="activity_find_city_dialog_cancel">Abbrechen</string>
-  <string name="activity_find_city_dialog_message">Erlaube Weather das abrufen Ihres Standortes</string>
+  <string name="activity_find_city_dialog_message">Erlaube Wetter das abrufen Ihres Standortes</string>
   <string name="activity_find_city_dialog_set">Einstellungen</string>
   <string name="activity_find_city_dialog_title">Standort abrufen</string>
   <string name="activity_main_alert"/>
@@ -107,7 +107,7 @@
   <string name="share_weather_save_pic_fail">"Screenshot konnte nicht aufgenommen werden"</string>
   <string name="sunrise">Sonnenaufgang</string>
   <string name="sunset">Sonnenuntergang</string>
-  <string name="title_share_link">Adresse Teilen</string>
+  <string name="title_share_link">Adresse teilen</string>
   <string name="twc_logo_title"/>
   <string name="view_forecast_item_yesterday">Gestern</string>
   <string name="view_indexes_item_today">Heute</string>
