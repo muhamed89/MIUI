@@ -24,11 +24,11 @@
   <string name="alaka_required">"Song nicht verfügbar."</string>
   <string name="album_name">Album</string>
   <string name="album_search_title">Album</string>
-  <string name="alert_msg_vip_song_for_download">Holen Sie sich ein Premium-Paket, um diesen Lied herunterladen zu können.</string>
-  <string name="alert_msg_vip_song_for_download_upgrade">"Sie haben Ihre Download-Quote für diesen Monat verbraucht. Stocken Sie Ihr Premium-Paket auf, um mehr Lieder herunterzuladen zu können."</string>
+  <string name="alert_msg_vip_song_for_download">Holen Sie sich ein Premium-Paket, um dieses Lied herunterladen zu können.</string>
+  <string name="alert_msg_vip_song_for_download_upgrade">"Sie haben Ihre Download-Quote für diesen Monat verbraucht. Stocken Sie auf ein Premium-Paket auf, um mehr Lieder herunterzuladen zu können."</string>
   <string name="alert_msg_vip_song_for_stream">Holen Sie sich ein Premium-Paket, um das Lied zu hören.</string>
   <string name="alert_msg_vip_songs_for_download">Holen Sie sich ein Premium-Paket, um alle Lieder herunterladen zu können.</string>
-  <string name="alert_msg_vip_songs_for_download_upgrade">"Sie haben Ihre Download-Quote für diesen Monat verbraucht. Stocken Sie Ihr Premium-Paket auf, um mehr Lieder herunterzuladen zu können."</string>
+  <string name="alert_msg_vip_songs_for_download_upgrade">"Sie haben Ihre Download-Quote für diesen Monat verbraucht. Stocken Sie auf ein Premium-Paket auf, um mehr Lieder herunterzuladen zu können."</string>
   <string name="alert_msg_vip_songs_for_stream">Einige Lieder können nur mit Premium-Paket abgespielt werden.</string>
   <string name="alert_title_vip_song">Premium Lieder</string>
   <string name="alert_title_vip_songs">Premium-Paket</string>
@@ -53,7 +53,7 @@
   <string name="available_playlist_name_format">Neue Wiedergabeliste %d</string>
   <string name="avoid_to_use_traffic_summary">"Mobile Daten nicht zum Streamen verwenden"</string>
   <string name="avoid_to_use_traffic_title">Nur WLAN zum Streamen nutzen</string>
-  <string name="back_confirm">Nochmal tippen, um die app in den Hintergrund zu verschieben</string>
+  <string name="back_confirm">Nochmal tippen, um die App in den Hintergrund zu verschieben</string>
   <string name="baidu_music">Baidu Musik</string>
   <string name="being_disable_auto_payment">Wird deaktiviert…</string>
   <string name="being_enable_auto_payment">Wird aktiviert…</string>
@@ -61,13 +61,13 @@
   <string name="bluetooth_device">Bluetooth-Audiogerät</string>
   <string name="buffering">Puffern…</string>
   <string name="button_add">Hinzufügen</string>
-  <string name="buy_vip">Holen Sie sich Premium Liedersatz</string>
+  <string name="buy_vip">Holen Sie sich Premium Lieder</string>
   <string name="can_not_find_resource">"Quelle kann nicht gefunden werden"</string>
   <string name="cancel">Abbrechen</string>
   <string name="channel_list_fragment_title">Radio</string>
   <string name="chinese_female">Weibliche Sänger aus China</string>
   <string name="chinese_group">Musikgruppen aus China</string>
-  <string name="chinese_male">Männlicher Sänger aus China</string>
+  <string name="chinese_male">Männliche Sänger aus China</string>
   <string name="choose_download_quality">Download-Qualität einstellen</string>
   <string name="choose_stream_quality">Streaming-Qualität einstellen</string>
   <string name="click_modify">Berühren um Songtext zu bearbeiten.</string>
@@ -87,7 +87,7 @@
   <string name="current_services">Aktuelle Dienste</string>
   <string name="current_version">Aktuelle Version</string>
   <string name="data_usage_warning">Datennutzung</string>
-  <string name="data_usage_warning_summary">Die Nutzung der mobilen Daten zum Streamen von Musik mit hoher Qualität kann die Datennutzung während des Ladens erhöhen.</string>
+  <string name="data_usage_warning_summary">Die Nutzung der mobilen Daten zum Streamen von Musik mit hoher Qualität kann die Datennutzung erhöhen.</string>
   <string name="delete">Löschen</string>
   <string name="delete_file_as_well">Lokalen Daten zusätzlich löschen</string>
   <string name="delete_file_end">Permanent löschen</string>
@@ -110,8 +110,8 @@
   <string name="disable_auto_payment_fail">"Konnte nicht deaktiviert werden"</string>
   <string name="disable_auto_payment_fail_message">"Die automatische Verlängerung konnte nicht deaktiviert werden"</string>
   <string name="disable_auto_payment_success">Deaktiviert</string>
-  <string name="disable_auto_payment_success_message">"Automatische Verlängerung deaktiviert. Nach dem Ablauf Ihres Abonnements müssen Sie sich erneut anmelden, um wieder Lieder herunterzuladen."</string>
-  <string name="disallow_add_to_fm">Lieder kann nicht von UKW-Radiosendern hinzugefügt werden.</string>
+  <string name="disable_auto_payment_success_message">"Automatische Verlängerung deaktiviert. Nach dem Ablauf Ihres Abonnements müssen Sie sich erneut anmelden, um wieder Lieder herunter laden zu können."</string>
+  <string name="disallow_add_to_fm">Lieder können nicht von UKW-Radiosendern hinzugefügt werden.</string>
   <string name="disallow_add_to_personal_radio">Kann nicht zu benutzerdefiniertem Radio hinzugefügt werden</string>
   <string name="do_not_remind_again">"Nicht mehr anzeigen"</string>
   <string name="done">Abgeschlossen</string>
@@ -121,7 +121,7 @@
   <string name="download_auto_after_favorite_summary">Laden Sie automatisch ihre Lieblingstitel herunter</string>
   <string name="download_auto_after_favorite_title">Lieblingstitel herunterladen</string>
   <string name="download_auto_cancel">Das Herunterladen der Lieblingstitel wurde ausgeschaltet</string>
-  <string name="download_auto_message">"Favorisierte Titel werden automatisch heruntergeladen, sobald eine WLAN-Verbindung ertellt wird. Sie können dies in den Einstellungen ändern."</string>
+  <string name="download_auto_message">"Favorisierte Titel werden automatisch heruntergeladen, sobald eine WLAN-Verbindung hergestelltt wird. Sie können dies in den Einstellungen ändern."</string>
   <string name="download_auto_when_all_network">Nutze mobile Daten und WLAN</string>
   <string name="download_auto_when_free_network">Nutze nur WLAN</string>
   <string name="download_auto_when_free_network_summary">Zusätzliche Einstellungen für Lieblingstitel</string>
@@ -149,7 +149,7 @@
   <string name="enable_auto_payment_fail">"Konnte nicht aktiviert werden"</string>
   <string name="enable_auto_payment_fail_message">"Die automatische Verlängerung konnte nicht aktiviert werden"</string>
   <string name="enable_auto_payment_success">Automatisch verlängern</string>
-  <string name="enable_auto_payment_success_message">Die automatische Verlängerung wurde aktiviert. Die nächste Bezahlung ist fällig am %s.</string>
+  <string name="enable_auto_payment_success_message">Die automatische Verlängerung wurde aktiviert. Die nächste Zahlung ist fällig am %s.</string>
   <string name="enabled">Aktiviert</string>
   <string name="english_female">Weibliche Sänger aus Europa und Amerika</string>
   <string name="english_group">Musikgruppen aus Europa und Amerika</string>
@@ -217,7 +217,7 @@
   <string name="handle_later">Jetzt nicht</string>
   <string name="headset_settings">Kopfhörer &amp; Audio-Effekte</string>
   <string name="higher_quality_music">Hohe Wiedergabequalität</string>
-  <string name="higher_quality_music_summary">In Titel mit hoher Bitrate streamen und herunterladen</string>
+  <string name="higher_quality_music_summary">Den Titel mit hoher Bitrate streamen und herunterladen</string>
   <string name="home_tab_local">Eigene Musik</string>
   <string name="home_tab_online">Entdecken</string>
   <string name="i_know">Bestätigen</string>
@@ -303,7 +303,7 @@
   <string name="music_quality">Audioqualität</string>
   <string name="music_settings">Musik</string>
   <string name="music_traffic">Musik-Datentarif</string>
-  <string name="music_traffic_summary">Hören Sie und laden Sie Lieder herunter, ohne Daten zu verwenden</string>
+  <string name="music_traffic_summary">Hören und laden Sie Lieder herunter, ohne Daten zu verwenden</string>
   <string name="my_account">Mi Konto</string>
   <string name="my_music_empty">Die Wiedergabeliste ist leer.</string>
   <string name="my_music_empty_goto_online">Keine Titel gefunden</string>
@@ -356,7 +356,7 @@
   <string name="order_process_fail">"Konto konnte nicht autorisiert werden. Warten Sie einen Moment und versuchen Sie es erneut."</string>
   <string name="page_local_setting">Einstellungen</string>
   <string name="pay">Zahlung:</string>
-  <string name="pay_now">Jetzt zahlen</string>
+  <string name="pay_now">Jetzt bezahlen</string>
   <string name="payment_fail">Zahlung fehlgeschlagen</string>
   <string name="payment_success">Zahlung erfolgreich</string>
   <string name="period_format">%1$s-%2$s</string>
@@ -364,7 +364,7 @@
   <string name="playback_failed_no_title_by_bad_file">"Das Audioformat wird nicht unterstützt oder die Datei existiert nicht."</string>
   <string name="playlist_deleted_message">Wiedergabeliste gelöscht</string>
   <string name="playlist_renamed_message">Wiedergabeliste umbenannt</string>
-  <string name="playlist_unavailable">"Entschuldigung, die Wiedergabeliste ist nicht verfügbar. Um sie zu entfernen; halte sie gedrückt und wähle löschen."</string>
+  <string name="playlist_unavailable">"Entschuldigung, die Wiedergabeliste ist nicht verfügbar. Um sie zu entfernen, halte sie gedrückt und wähle löschen."</string>
   <string name="please_download_first">Sie müssen den Titel herunterladen bevor er als Klingelton verwendet werden kann</string>
   <string name="please_search_or_select">Suchen oder Bereich auswählen</string>
   <string name="please_select_song">Bitte wählen Sie zuerst einen Titel</string>
@@ -435,7 +435,7 @@
   <string name="song_is_empty">Titelbezeichnung darf nicht leer sein.</string>
   <string name="song_name">Titel</string>
   <string name="song_not_find">"Der Titel ist nicht verfügbar."</string>
-  <string name="song_offline">Schade, dieses Lied ist nicht mehr verfügbar.</string>
+  <string name="song_offline">Leider ist dieses Lied nicht mehr verfügbar.</string>
   <string name="song_unit">Begriffe</string>
   <string name="sort_by_language">Sprache</string>
   <string name="sort_by_name">Name</string>
@@ -443,7 +443,7 @@
   <string name="source_from">Quelle: %1$s</string>
   <string name="start_to_download">Beginne herunterladen…</string>
   <string name="start_to_play">Abspielen</string>
-  <string name="stream_normal">Abspiel in der Standardqualität</string>
+  <string name="stream_normal">Abspielen in Standardqualität</string>
   <string name="stream_quality">Streamqualität</string>
   <string name="streamloadingtext">Verbinde zu %s</string>
   <string name="suggest_text">Menschen denen das gefällt, gefällt auch</string>
@@ -477,10 +477,10 @@
   <string name="toast_download_error_by_count_limit">Sie haben Ihre Download-Quote für diesen Monat verbraucht.</string>
   <string name="toast_download_error_by_vip_required">Holen Sie sich Erstklassiges Liedsatz, um dieses Lied herunterladen zu können.</string>
   <string name="toast_download_in_process">Download in Bearbeitung</string>
-  <string name="toast_normal_songs_for_download">Download qualität auf Standard gesetzt</string>
-  <string name="toast_normal_songs_for_stream">Streaming qualität auf Standard gesetzt</string>
+  <string name="toast_normal_songs_for_download">Download Qualität auf Standard gesetzt</string>
+  <string name="toast_normal_songs_for_stream">Streaming Qualität auf Standard gesetzt</string>
   <string name="toast_stream_normal">Jetzt in Standardqualität abspielen. Holen Sie sich ein Erstklassiges Liedsatz, um hochwertige Audio zu streamen.</string>
-  <string name="toast_uhd_songs_for_download">Herunterladen von Qualität auf hoch eingestellt</string>
+  <string name="toast_uhd_songs_for_download">Qualität zum Herunterladen auf hoch eingestellt</string>
   <string name="toast_uhd_songs_for_stream">Streaming-Qualität auf hoch eingestellt</string>
   <string name="toast_vip_download_one_limit">"Sie haben das Limit Ihrer Downloads für diesen Monat erreicht. Sie können weitere Lieder herunterladen, wenn Sie Erstklassiges Liedsatz nächsten Monat verlängern."</string>
   <string name="toast_vip_download_some_limit">"Sie haben das Limit Ihrer Downloads für diesen Monat erreicht. Sie können weitere Lieder herunterladen, wenn Sie Erstklassiges Liedsatz nächsten Monat verlängern."</string>
@@ -519,8 +519,8 @@
   <string name="vip_auto_renew_notification_message">Fügen Sie MiCredits um Ihr Musik-Abonnement zu verlängern.</string>
   <string name="vip_auto_renew_notification_title">Abonnement-Zahlung</string>
   <string name="vip_auto_renew_title">Abo-Verlängerung</string>
-  <string name="vip_renew_message">"Es ist nicht möglich hochwertige Audio zu streamen, aber einige Songs werden in regelmäßigen Qualität verfügbar sein."</string>
-  <string name="vip_renew_notification_message">"Es ist nicht möglich hochwertige Audio zu streamen, nachdem Ihr Abonnement abläuft."</string>
+  <string name="vip_renew_message">"Es ist nicht möglich Musik in hoher Qualität zu streamen, aber einige Songs werden in standard Qualität verfügbar sein."</string>
+  <string name="vip_renew_notification_message">"Es ist nicht möglich Musik in hoher Qualität zu streamen, nachdem Ihr Abonnement abläuft."</string>
   <string name="vip_renew_notification_title">Abonnement gültig bis morgen</string>
   <string name="vip_renew_title">Abonnement abgelaufen</string>
   <string name="vip_required">"Holen Sie sich Erstklassigen Liedsatz, um dieses Lied abzuspielen. Wir haben es jetzt übersprungen."</string>
