@@ -161,7 +161,7 @@
   <string name="nobind">Nicht verbunden</string>
   <string name="other_devices">Weitere Geräte</string>
   <string name="passport_access_denied">Zugang verweigert</string>
-  <string name="passport_account_hint_text">E-Mail adresse oder Mi Konto-ID</string>
+  <string name="passport_account_hint_text">E-Mail Adresse oder Mi Konto-ID</string>
   <string name="passport_account_identity_title">Bestätigen Sie Ihre Identität</string>
   <string name="passport_account_name">Konto: %1$s</string>
   <string name="passport_account_not_activated">Konto wurde nicht aktiviert</string>
