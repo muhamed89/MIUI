@@ -104,6 +104,10 @@ gehe zu %s"</string>
   <string name="stopping_the_heat">Chǔshǔ - Ende der Hitze</string>
   <string name="summer_begins">Lìxià - Sommeranfang</string>
   <string name="summer_solstice">Xiàzhì - Sommerankunft</string>
+  <string name="vip_achievements">Erfolge</string>
+  <string name="vip_level">LV%d</string>
+  <string name="vip_not_login">Nicht eingeloggt</string>
+  <string name="vip_sign">Signatur:</string>
   <string name="teachers_day">Tag der Lehrer</string>
   <string name="the_armys_day">Tag der Streitkräfte</string>
   <string name="the_double_ninth_festival">Chung Yeung Festival</string>
