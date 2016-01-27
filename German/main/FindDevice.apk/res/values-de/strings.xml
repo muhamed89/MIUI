@@ -18,7 +18,7 @@
   <string name="find_device_error_password_changed">Passwort wurde vor kurzem geändert.</string>
   <string name="find_device_error_server">Server-Fehler</string>
   <string name="find_device_error_unknown">Unbekannter Fehler.</string>
-  <string name="find_device_noise_title">"\"Gerät finden\" Alarm"</string>
+  <string name="find_device_noise_title">Gerät finden</string>
   <string name="find_device_notice_p1">Besuchen Sie</string>
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">"um Ihr Gerät zu finden, zu sperren oder wiederherzustellen.
