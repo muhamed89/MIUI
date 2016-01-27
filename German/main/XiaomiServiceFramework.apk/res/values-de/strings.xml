@@ -13,6 +13,12 @@
   <string name="activate_feature_mx_and_voip">Mi Nachricht und Sprache</string>
   <string name="activate_feature_register_xiaomi_account">Mi Konto einrichten</string>
   <string name="activate_feature_verify_mx_token">Mi Konto überprüfung</string>
+  <string name="activate_history_cancelled">abgebrochen</string>
+  <string name="activate_history_multisim_overview">Activation for SIM card %3$d %1$s. It is triggered by feature \"%2$s\".</string>
+  <string name="activate_history_overview">Activation for SIM card %1$s. It is triggered by feature \"%2$s\".</string>
+  <string name="activate_history_sms">An SMS has been sent during the activation.</string>
+  <string name="activate_history_success">succeeded</string>
+  <string name="activate_history_title">SIM Card Activation</string>
   <string name="activate_phone_cancel_notif_title">SIM-Karten Aktivierung abgebrochen</string>
   <string name="activate_phone_cancel_notif_title_msim">Aktiverung der SIM-Karte %s abgebrochen</string>
   <string name="activate_phone_failed_notif_title">SIM-Karte konnte nicht aktiviert werden</string>
