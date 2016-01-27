@@ -307,7 +307,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="pref_adjust_data_usage">Anbieter SMS-Vorlage</string>
   <string name="pref_adjust_traffic_data">Datenverbrauch einstellen</string>
   <string name="pref_allow_connect_network_title">Daten-Roaming</string>
-  <string name="pref_allow_connect_network_whitelist_title">Ausnahmen für Mobile Daten zulassen</string>
+  <string name="pref_allow_connect_network_whitelist_title">Ausnahmen zulassen, um mobile Daten verwenden, beim Roaming</string>
   <string name="pref_app_traffic_managent">Datenverbrauch nach App einschränken</string>
   <string name="pref_auto_adjust_settings">Auto-Sync Datenverbrauchsstatistiks-Einstellungen</string>
   <string name="pref_auto_adjust_traffic">Auto-Sync Datenverbrauchsstatistiken</string>
@@ -343,7 +343,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="pref_package_traffic_overlay">%1$s | Zusätzlich: %2$s</string>
   <string name="pref_package_traffic_settings">Mobiles Datenlimit</string>
   <string name="pref_pkg_begin_date">Startdatum</string>
-  <string name="pref_roaming_daily_limit_setting">Tägliches Datenlimit für Roaming</string>
+  <string name="pref_roaming_daily_limit_setting">Daily data roaming limit</string>
   <string name="pref_roaming_setting_gategory">Daten Roaming</string>
   <string name="pref_setting_operators_message">Bearbeiten Sie die Nachricht, die dem Anbieter zum Synchronisieren Ihrer Datenverbrauchsstatistiken gesendet wird</string>
   <string name="pref_show_mobile_traffic">Beim Entsperren des Telefons, Datenverbrauchsstatiken für die gesperrte Zeit anzeigen (min. 5 Min erforderlich)</string>
@@ -517,7 +517,7 @@ Der verbleibende Datenverbauch beinhalten auch jenen Verbrauch, welcher in dem l
   <string name="traffic_protection_summary">Alarm wenn der Datenverbrauch eine bestimmte Grenze überschreitet</string>
   <string name="traffic_protection_text_hint">Datenlimit für %s einstellen</string>
   <string name="traffic_protection_unknown"><u>Später einstellen</u></string>
-  <string name="traffic_protection_use_data">Datenverbindung aktiviert</string>
+  <string name="traffic_protection_use_data">Mobile Datenverbindung</string>
   <string name="traffic_purchase_body">Antippen, um Ihr Guthaben aufzuladen.</string>
   <string name="traffic_purchse_suggestion">Datenlimit überschritten</string>
   <string name="traffic_saving_button_mng">Apps verwalten</string>
