@@ -14,7 +14,7 @@
   <string name="lockscreen_magazine_summary">Legen Sie fest welche Hintergrundbilder auf dem Sperrbildschirm angezeigt werden sollen</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s Hintergrundbilder</string>
   <string name="lockscreen_magazine_system_title">Standard</string>
-  <string name="lockscreen_magazine_title">Hintergrundbilder festlegen</string>
+  <string name="lockscreen_magazine_title">Tägliche Hintergrundbilder festlegen</string>
   <string name="no_long_show">"Nicht nochmal anzeigen"</string>
   <string name="ok_lockscreen">OK</string>
   <string name="ok_network">Zustimmen und tägliche Hintergrundbilder aktivieren</string>
