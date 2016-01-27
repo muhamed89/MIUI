@@ -19,7 +19,7 @@
   <string name="help">Hilfe</string>
   <string name="menu_back">Zurück</string>
   <string name="menu_end_session">Sitzung beenden</string>
-  <string name="no_sim_card_inserted">Fügen Sie bitte SIM ein, um SIM Toolkit zu starten.</string>
+  <string name="no_sim_card_inserted">Legen Sie bitte eine SIM Karte ein um  das SIM Toolkit zu starten.</string>
   <string name="service_name">Service Name</string>
   <string name="sim_type_sim_name">SIM Toolkit</string>
   <string name="sim_type_uim_name">UIM Toolkit</string>
