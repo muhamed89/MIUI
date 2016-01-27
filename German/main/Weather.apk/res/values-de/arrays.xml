@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+ <resources>
     <string-array name="hot_city">
-        <item>Beijing</item>
+        <item>Peking</item>
         <item>Shanghai</item>
         <item>Hong Kong</item>
         <item>Taipei City</item>
         <item>Jakarta</item>
         <item>Delhi</item>
         <item>Mumbai</item>
-        <item>Moscow</item>
+        <item>Moskau</item>
         <item>Hyderabad</item>
         <item>Chennai</item>
         <item>Istanbul</item>
         <item>Rio de Janeiro</item>
-        <item>Singapore</item>
+        <item>Singapur</item>
         <item>Berlin</item>
-        <item>Rome</item>
+        <item>Rom</item>
         <item>New York</item>
         <item>Los Angeles</item>
         <item>Chicago</item>
