@@ -2,7 +2,7 @@
 <resources>
   <string name="Accounts_settings_title">Konten</string>
   <string name="about_settings">Über das Gerät</string>
-  <string name="about_settings_summary">Softwareversion, Status und Rechtliche Hinweise anzeigen</string>
+  <string name="about_settings_summary">Rechtliche Hinweise, Status und Softwareversion anzeigen</string>
   <string name="ac_enable_title">Apps sperren</string>
   <string name="ac_privacy_mode_sum">Zum Beenden des Gastmodus ist ein Passwort erforderlich</string>
   <string name="ac_privacy_mode_title">Passwort</string>
@@ -729,7 +729,7 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="children_mode_title">Jugendschutz</string>
   <string name="choose_assist_title">Assistenten auswählen</string>
   <string name="choose_profile">Profil auswählen</string>
-  <string name="choose_smartcover_type">Wähle einen Typ</string>
+  <string name="choose_smartcover_type">Smartcovertyp auswählen</string>
   <string name="choose_timezone">Zeitzone wählen</string>
   <string name="choose_voice_input_title">Spracheingabe auswählen</string>
   <string name="cleaner">Bereinigung</string>
@@ -1728,8 +1728,8 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="lock_screen_notifications_summary_hide">Blende sensiblen Benachrichtigungsinhalt aus</string>
   <string name="lock_screen_notifications_summary_show">Zeige alle Benachrichtigungsinhalte an</string>
   <string name="lock_screen_notifications_title">Wenn das Gerät gesperrt ist</string>
-  <string name="lock_screen_secure_after_timeout_immediately_summary">Passwort sofort benötigt</string>
-  <string name="lock_screen_secure_after_timeout_summary">Passwort in %1$s benötigt</string>
+  <string name="lock_screen_secure_after_timeout_immediately_summary">Passwort sofort erforderlich</string>
+  <string name="lock_screen_secure_after_timeout_summary">Passwort erforderlich in %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Passwort erforderlich</string>
   <string name="lock_screen_unlock_show">Ziehen ausschalten</string>
   <string name="lock_screen_unlock_show_summary">Direkt zum Desktop oder zur Passworteingabe gehen</string>
@@ -2130,10 +2130,10 @@ Betriebssystem auswählen:"</string>
   <string name="no_update_found">"Es ist bereits die neueste Version von MIUI installiert"</string>
   <string name="no_updates_found">"Es ist bereits die neueste Version von MIUI installiert"</string>
   <string name="no_updates_warning">Für Ihr Telefon wurden keine Updates gefunden</string>
-  <string name="no_updates_warning2">"Entspannen Sie sich. Wir sagen Ihnen wenn es ein Update gibt :)"</string>
+  <string name="no_updates_warning2">"Entspannen Sie sich. Wir informieren Sie, wenn es ein Update gibt :)"</string>
   <string name="noise_suppression">Rauschunterdrückung</string>
   <string name="normal_date_format">Lokal (%s)</string>
-  <string name="normal_smartcover_title">Matte Frontabdeckung</string>
+  <string name="normal_smartcover_title">Frontabdeckung Transparenz</string>
   <string name="not_installed">Nicht installiert</string>
   <string name="notification_app_settings_button">Benachrichtigungseinstellungen</string>
   <string name="notification_breathing_light_color_title">Benachrichtigungsfarbe</string>
