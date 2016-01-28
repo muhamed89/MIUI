@@ -431,7 +431,7 @@
   <string name="recipient_label">"Empfänger: "</string>
   <string name="recipients_over_size">Zu viele Empfänger</string>
   <string name="recording_failed">"Aufnahme fehlgeschlagen"</string>
-  <string name="red_package_btn">Open</string>
+  <string name="red_package_btn">Öffnen</string>
   <string name="red_package_default_hint">Gratulation und viel Glück!</string>
   <string name="refill_now">Jetzt aufladen</string>
   <string name="refresh">Aktualisieren</string>
