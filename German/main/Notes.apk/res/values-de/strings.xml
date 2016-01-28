@@ -2,7 +2,7 @@
 <resources>
   <string name="add_account_desc">Notizen mit dem Mi Konto synchronisieren?</string>
   <string name="alarm_bar_title">Erinnerung</string>
-  <string name="alert_action_edit_anyway">Bearbeiten fortsetzen</string>
+  <string name="alert_action_edit_anyway">Bearbeiten</string>
   <string name="alert_edit_action_delete">Entfernen</string>
   <string name="alert_edit_action_update">Ändern</string>
   <string name="alert_message_delete">%1$s löschen?</string>
@@ -10,7 +10,7 @@
   <string name="alert_message_delete_folders_notes">Möchten Sie die %1$s ausgewählten Ordner und %2$s Notizen wirklich löschen?</string>
   <string name="alert_message_delete_note">Diese Notiz löschen?</string>
   <string name="alert_message_edit_anyway">Diese Notiz enthält nicht unterstützte Inhalte. Bearbeiten kann zu Datenverlust führen.</string>
-  <string name="alert_title_delete">Notiz löschen</string>
+  <string name="alert_title_delete">Notiz löschen?</string>
   <string name="alert_title_edit_anyway">Bearbeiten kann zu Datenverlust führen. Wirklich bearbeiten?</string>
   <string name="all_terms">%1$s und %2$s</string>
   <string name="app_name">Notizen</string>
@@ -18,7 +18,7 @@
   <string name="attachment_camera">Kamera</string>
   <string name="attachment_contact">Kontakte</string>
   <string name="attachment_gallery">Galerie</string>
-  <string name="button_new_note">Neue Notiz</string>
+  <string name="button_new_note">Neu</string>
   <string name="call_record_folder_name">Anrufsnotizen</string>
   <string name="default_folder_name">Notizen</string>
   <string name="dlg_delete_message">Löschen…</string>
@@ -38,7 +38,7 @@
   <string name="format_move_notes_to_folder">%1$s Notizen nach %2$s verschoben</string>
   <string name="hint_foler_name">Name</string>
   <string name="info_note_enter_desktop">Zum Desktop hinzugefügt</string>
-  <string name="loading_text">Lädt…</string>
+  <string name="loading_text">Einen Moment…</string>
   <string name="login_sync">Anmelden &amp; Sync</string>
   <string name="menu_create_folder">Neuer Ordner</string>
   <string name="menu_delete">Löschen</string>
@@ -47,36 +47,36 @@
   <string name="menu_send_to_desktop">Auf Homescreen hinzufügen</string>
   <string name="menu_send_wechat">An WeChat senden</string>
   <string name="menu_send_weibo">An Weibo senden</string>
-  <string name="menu_source">Von: %1$s</string>
+  <string name="menu_source">Von %1$s</string>
   <string name="menu_stick">Anheften</string>
   <string name="menu_title_select_folder">Ordner auswählen</string>
   <string name="menu_unstick">Lösen</string>
   <string name="micloud_state_total_count">%1$s</string>
   <string name="not_now">Jetzt nicht</string>
   <string name="note_alert_expired">Abgelaufen</string>
-  <string name="note_link_email">E-Mail senden</string>
-  <string name="note_link_other">Karte öffnen</string>
+  <string name="note_link_email">E-Mail verfassen</string>
+  <string name="note_link_other">Öffnen Sie mit Karten-App</string>
   <string name="note_link_select">Text auswählen</string>
   <string name="note_link_tel">Anrufen</string>
-  <string name="note_link_web">Internet</string>
-  <string name="notealert_enter">Anzeigen</string>
+  <string name="note_link_web">Im Browser anzeigen</string>
+  <string name="notealert_enter">anzeigen</string>
   <string name="notealert_ok">OK</string>
   <string name="notelist_menu_new">Neu</string>
   <string name="notelist_string_info">…</string>
   <string name="notify_alarm_title">Erinnerung</string>
-  <string name="permdesc_accessNote">Schadhafte Apps könnten auf Ihre Daten zugreifen</string>
+  <string name="permdesc_accessNote">Schadhafte Apps können auf Ihre Daten zugreifen</string>
   <string name="permlab_accessNote">Zugang zu Notizen</string>
   <string name="pref_desc_alarm_when_silent">Der Alarm des Weckers und der Notizen ertönt auch im Lautlos Modus</string>
   <string name="pref_title_alarm_when_silent">Alarm im Lautlos Modus</string>
   <string name="pref_title_common">Weitere Einstellungen</string>
   <string name="pref_title_font_size">Schriftgröße</string>
-  <string name="pref_title_note_style">Notizenstil</string>
+  <string name="pref_title_note_style">Stil</string>
   <string name="pref_title_recover_help">Noitzen wiederherstellen</string>
   <string name="redo">Wiederholen</string>
   <string name="search">Notizen</string>
   <string name="search_hint">Notizen durchsuchen</string>
-  <string name="search_label">Durchsuche Notizen…</string>
-  <string name="search_setting_description">Text in Notizen</string>
+  <string name="search_label">Durchsuchen…</string>
+  <string name="search_setting_description">Suche Text in Notizen</string>
   <string name="select_account_prompt">Notizen sychronisieren</string>
   <string name="sina_share_fail">Senden fehlgeschlagen</string>
   <string name="sina_share_fail_content_repeat">Teilen fehlgeschlagen, Inhalt existiert bereits…</string>
@@ -90,7 +90,7 @@
   <string name="sns_choose_quality_high">Hoch (%1$s)</string>
   <string name="sns_choose_quality_low">Niedrig</string>
   <string name="sns_choose_quality_title">Bildqualität wählen</string>
-  <string name="sns_content_default">Bild teilen</string>
+  <string name="sns_content_default">Foto teilen</string>
   <string name="sns_desc_preview_wechat">WeChat Nachrichtenvorschau</string>
   <string name="sns_desc_preview_weibo">Weibo Nachrichtenvorschau</string>
   <string name="sns_footer_text">Mit MIUI 6 erstellt</string>
@@ -113,14 +113,9 @@
   <string name="unknown_source">Unbekannte Quelle</string>
   <string name="welcome_note_for_cm">Willkommen bei Xiaomi.eu
   - Synce mit Mi Cloud
-  - Beim Beenden speichern
-  - Erinnerungen festlegen
-
-Um mehr zu erfahren, besuchen Sie
-http://en.miui.com/forum.php
-"</string>
-  <string name="widget_content_loading">Wird geladen…</string>
-  <string name="widget_havenot_content">Keine passende Notiz gefunden. Drücken um zu erstellen.</string>
+  - Erinnerungen festlegen</string>
+  <string name="widget_content_loading">Einen Moment…</string>
+  <string name="widget_havenot_content">"Couldn't find note. Touch to create a note. To resize it, touch &amp; drag an edge."</string>
   <string name="widget_under_privacy_mode">"Notizen können im Gastmodus nicht angezeigt werden"</string>
   <string name="widget_under_visit_mode">Notizen werden im Gastmodus nicht angezeigt</string>
 </resources>
