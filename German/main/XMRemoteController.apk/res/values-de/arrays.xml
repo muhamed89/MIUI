@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="ac_mode_array">
+        <item>Kühlung</item>
+        <item>Heizung</item>
+        <item>Luftentfeuchter</item>
+        <item>Lüfter</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Dein Gerät kann sich nur mit Mi TV, Mi Box und einer Handvoll anderer Android-Geräte per WLAN verbinden.</item>
+        <item>"Achten Sie darauf während des Pairing-Prozesses A/C auszuwählen. Folgen Sie den Anweisungen auf dem Gerät, bis die Anmeldung abgeschlossen ist."</item>
+        <item>Nein. Derzeit können nur Mi 4, Mi 4c und Redmi Note 2 als Infrarotfernbedienung verwendet werden</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Son.</item>
+        <item>Mon.</item>
+        <item>Die.</item>
+        <item>Mit.</item>
+        <item>Donn.</item>
+        <item>Frei.</item>
+        <item>Sam.</item>
+    </string-array>
+    <string-array name="question">
+        <item>Das Telefon kann keine Geräte im WLAN erkennen?</item>
+        <item>"Kann Modi oder Temperatur von der Klimaanlage nicht ändern?"</item>
+        <item>Unterstützen Mi 3, Mi 2 und Redmi Infrarot-Steuerung für Fernseher, Klimaanlage und andere Geräte?</item>
+    </string-array>
     <string-array name="passport_alphabet_table">
         <item>\#</item>
         <item>A</item>
@@ -28,89 +53,5 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-    </string-array>
-    <string-array name="alphabet_table">
-        <item>\#</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-    </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>\#</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-    </string-array>
-    <string-array name="epg_week_tab">
-        <item>Son.</item>
-        <item>Mon.</item>
-        <item>Die.</item>
-        <item>Mit.</item>
-        <item>Donn.</item>
-        <item>Frei.</item>
-        <item>Sam.</item>
-    </string-array>
-    <string-array name="ac_mode_array">
-        <item>Kühlung</item>
-        <item>Heizung</item>
-        <item>Luftentfeuchter</item>
-        <item>Lüfter</item>
-    </string-array>
-    <string-array name="question">
-        <item>"Das Handy kann keine Geräte im WLAN erkennen?"</item>
-        <item>"Kann Modi oder Temperatur von der Klimaanlage nicht ändern?"</item>
-        <item>Unterstützen Mi 3, Mi 2 und Redmi Infrarot-Steuerung für Fernseher, Klimaanlage und andere Geräte?</item>
-    </string-array>
-    <string-array name="answer">
-        <item>"Dein Gerät kann sich nur mit Mi TV, Mi Box und einer Handvoll anderer Android-Geräte per WLAN verbinden."</item>
-        <item>"Achten Sie darauf während des Pairing-Prozesses A/C auszuwählen. Folgen Sie den Anweisungen auf dem Gerät, bis die Anmeldung abgeschlossen ist."</item>
-        <item>Nein. Derzeit können nur Mi 4, Mi 4c und Redmi Note 2 als Infrarotfernbedienung verwendet werden</item>
     </string-array>
 </resources>
