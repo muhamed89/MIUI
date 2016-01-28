@@ -1442,7 +1442,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="hdcp_checking_title">HDCP-Prüfung</string>
   <string name="hdmi_3d_display_enable_summary">3D Spiel Unterstützung einschalten</string>
   <string name="hdmi_3d_display_enable_title">3D Anzeige</string>
-  <string name="hdmi_3d_help_title">Über HDMI 3D Stereoskopie Unterstützung</string>
+  <string name="hdmi_3d_help_title">3D Stereoskopie Unterstützung über HDMI </string>
   <string name="hdmi_3d_stereo_separation_label">3D</string>
   <string name="hdmi_3dplay_control_disable_subtext">3D Stereoskopie auf externem 3D Bildschirm ausgeschaltet</string>
   <string name="hdmi_3dplay_control_enable_subtext">Stereoskopie auf externem 3D Bildschirm eingeschaltet</string>
@@ -1501,7 +1501,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="ignore_optimizations_off">Optimieren</string>
   <string name="ignore_optimizations_off_desc">Empfohlen für mehr Akkulaufzeit</string>
   <string name="ignore_optimizations_on">Nicht optimieren</string>
-  <string name="ignore_optimizations_on_desc">Ihr Akku wird mölicherweise schneller leer</string>
+  <string name="ignore_optimizations_on_desc">Ihr Akku wird möglicherweise schneller leer</string>
   <string name="ignore_optimizations_title">%s erlauben, die Optimierung zu ignorieren?</string>
   <string name="ime_security_warning">Diese Eingabemethode kann den gesamten von Ihnen eingegebenen Text erfassen, einschließlich personenbezogener Daten wie Passwörter und Kreditkartennummern. Sie ist Teil der App \"%1$s\". Möchten Sie diese Eingabemethode verwenden?</string>
   <string name="imei_information_summary">IMEI relevante Informationen</string>
@@ -1551,7 +1551,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="intent_sender_sendbroadcast_text">Broadcast senden</string>
   <string name="intent_sender_startactivity_text">Aktivität starten</string>
   <string name="internal_format">Internen Speicher löschen</string>
-  <string name="internal_format_summary">Löscht alle Daten auf den internen Speicher, z.B. Musik und Fotos</string>
+  <string name="internal_format_summary">Löscht alle Daten vom internen Speicher, z.B. Musik und Fotos</string>
   <string name="internal_media_format_button_text">Internen Speicher löschen</string>
   <string name="internal_media_format_desc">Internen Speicher löschen? Es werden <b>alle</b> gespeicherten Daten gelöscht und das Telefon neugestartet!</string>
   <string name="internal_media_format_final_desc">Internen Speicher und alle darin enthaltenen Daten löschen? Dieser Vorgang kann nicht rückgängig gemacht werden! Das Telefon startet nach Abschluß des Vorgangs neu.</string>
@@ -1583,8 +1583,8 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="keywords_battery">Leistung</string>
   <string name="keywords_date_and_time">Uhr</string>
   <string name="keywords_display">Touchscreen-Bildschirm</string>
-  <string name="keywords_display_auto_brightness">Dimme Touchscreen</string>
-  <string name="keywords_display_brightness_level">Dimme Touchscreen</string>
+  <string name="keywords_display_auto_brightness">Dimme Bildschirm</string>
+  <string name="keywords_display_brightness_level">Dimme Bildschirm</string>
   <string name="keywords_display_cast_screen">projiziere</string>
   <string name="keywords_display_font_size">Textgröße</string>
   <string name="keywords_display_wallpaper">Hintergrund</string>
@@ -1765,11 +1765,11 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="lockpassword_password_requires_digit">Das Passwort muss mindestens eine Ziffer enthalten.</string>
   <string name="lockpassword_password_requires_symbol">Das Passwort muss mindestens ein Symbol enthalten.</string>
   <string name="lockpassword_password_set_toast">Das Passwort wurde festgelegt.</string>
-  <string name="lockpassword_password_too_long">Das Passwort muss weniger als %d Zeichen haben.</string>
+  <string name="lockpassword_password_too_long">Das Passwort muss weniger als %d Zeichen enthalten.</string>
   <string name="lockpassword_password_too_short">Das Passwort muss mindestens %d Zeichen enthalten.</string>
   <string name="lockpassword_pattern_set_toast">Das Muster wurde festgelegt.</string>
   <string name="lockpassword_pin_contains_non_digits">PIN darf nur Nummern enthalten.</string>
-  <string name="lockpassword_pin_fixed_length">PIN muß %d Zahlen haben</string>
+  <string name="lockpassword_pin_fixed_length">PIN muß %d Zahlen beinhalten</string>
   <string name="lockpassword_pin_no_sequential_digits">Eine aufsteigende, absteigende oder wiederholte Folge von Ziffern ist verboten</string>
   <string name="lockpassword_pin_recently_used">Der Geräteadministrator lässt die Verwendung einer PIN nicht zu.</string>
   <string name="lockpassword_pin_set_toast">PIN festgelegt.</string>
@@ -1815,7 +1815,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="macaddr_label">MAC-Adresse:</string>
   <string name="mah">%d mAh</string>
   <string name="main_running_process_description">Hauptprozess wird verwendet.</string>
-  <string name="make_sure_cancel_update">Update abbrechen？</string>
+  <string name="make_sure_cancel_update">Update abbrechen?</string>
   <string name="man_add_application">App zum Autostart hinzufügen</string>
   <string name="manage_condition_providers">Bedingungsanbieter</string>
   <string name="manage_condition_providers_summary_zero">Keine App bietet Bedingungen an</string>
@@ -1826,8 +1826,8 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="manage_notification_access_summary_zero">Apps können keine Benachrichtigungen lesen</string>
   <string name="manage_notification_access_title">Benachrichtigungszugriff</string>
   <string name="manage_space_text">Leerzeichen verwalten</string>
-  <string name="manage_trust_agents">Trust Agenten</string>
-  <string name="manage_trust_agents_summary">Trust Agenten anzeigen oder deaktivieren</string>
+  <string name="manage_trust_agents">Vertrauenswürdige Geräte</string>
+  <string name="manage_trust_agents_summary">Vertrauenswürdige Geräte anzeigen oder deaktivieren</string>
   <string name="manage_xiaomi_router">Mi-Router Einstellungen</string>
   <string name="manageapplications_settings_summary">Installierte Apps verwalten und entfernen</string>
   <string name="manageapplications_settings_title">Apps verwalten</string>
@@ -1898,7 +1898,7 @@ Um auch Musik, Bilder und sonstige Nutzerdaten zu löschen, muss der "<b>USB-Spe
   <string name="mem_use_native_type">Nativ</string>
   <string name="mem_use_subtitle">Speichernutzung</string>
   <string name="mem_use_total">Total</string>
-  <string name="mem_use_zram_type">ZRam swap</string>
+  <string name="mem_use_zram_type">ZRam Auslagerung</string>
   <string name="memory">RAM</string>
   <string name="memory_apps_usage">Apps (App Daten &amp; Medieninhalte)</string>
   <string name="memory_available">Verfügbar</string>
@@ -1926,7 +1926,7 @@ Um auch Musik, Bilder und sonstige Nutzerdaten zu löschen, muss der "<b>USB-Spe
   <string name="memory_usage">Speicherverbrauch</string>
   <string name="memory_usage_apps">Von Apps verwendeter Speicher</string>
   <string name="memory_use_running_format">%1$s / %2$s</string>
-  <string name="memory_use_summary">%1$s durchschn. Verbrauch in den letzten 3 Studnen</string>
+  <string name="memory_use_summary">%1$s durchschn. Verbrauch in den letzten 3 Stunden</string>
   <string name="menu_cancel">Verwerfen</string>
   <string name="menu_delete">APN löschen</string>
   <string name="menu_duration_12h">12 Stunden</string>
