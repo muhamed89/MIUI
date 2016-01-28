@@ -285,5 +285,4 @@ Um Root-Zugriff zu erhalten müssen Sie die Entwickler-Version von MIUI installi
   <string name="screen_overlay_button">Einstellungen</string>
   <string name="screen_overlay_message">Um diese Berechtigung Einstellung zu ändern, müssen Sie zuerst den Bildschirm auszuschalten Zurichtung von Einstellungen &gt; Apps</string>
   <string name="screen_overlay_title">Bildschirm Zurichtung erkannt</string>
-  <string name="static_cache_db_md5">3845e2f2a107796dcfccfbe26d29a1b6</string>
 </resources>
