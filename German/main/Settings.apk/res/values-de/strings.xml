@@ -1344,8 +1344,8 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="finish_application">Beenden</string>
   <string name="finish_button_label">Fertigstellen</string>
   <string name="firmware_version">Android-Version</string>
-  <string name="floating_window_switch_label">Popup anzeigen</string>
-  <string name="floating_window_switch_label_disable">Popup nicht anzeigen</string>
+  <string name="floating_window_switch_label">Popups anzeigen</string>
+  <string name="floating_window_switch_label_disable">Popups nicht anzeigen</string>
   <string name="fluency_mode">Systemanimationen</string>
   <string name="fluency_mode_confirm_and_reboot">Neustarten</string>
   <string name="font_size_exhuge">Extra Groß</string>
@@ -1422,7 +1422,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="gadget_toggle_wifi">WLAN-Einstellungen aktualisieren</string>
   <string name="gadget_wifi">WLAN</string>
   <string name="game_controller_settings_category">Spielsteuerung</string>
-  <string name="gesture_wakeup_title">Doppeltippen um Bildschirm aufzuwecken</string>
+  <string name="gesture_wakeup_title">Doppeltippen um Bildschirm zu aktivieren</string>
   <string name="getConfiguredNetworks">Konfiguriertes Netzwerk beziehen</string>
   <string name="getConnectionInfo">Verbindungs Info bekommen</string>
   <string name="global_change_warning">Diese Einstellung betrifft alle Nutzer auf diesem Telefon.</string>
@@ -2541,7 +2541,7 @@ Betriebssystem auswählen:"</string>
  "&lt;li&gt;Deaktivierte App-Benachrichtigungen&lt;/li&gt;"
  "&lt;li&gt;Standard-Anwendungen für Aktionen&lt;/li&gt;"
  "&lt;li&gt;Hintergrunddaten Beschränkungen für Apps&lt;/li&gt;"
- "&lt;li&gt;Jegliche Berechtigung-Beschränkungen&lt;/li&gt;"
+ "&lt;li&gt;Alle Rechte beschränkungen&lt;/li&gt;"
 
  Anwendungsdaten gehen nicht verloren."</string>
   <string name="reset_app_preferences_title">App-Einstellungen zurücksetzen?</string>
@@ -3019,7 +3019,7 @@ Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerä
   <string name="status_awake_time">Aktivzeit</string>
   <string name="status_bar_and_notification_bar">Benachrichtigungsleiste und Statusleiste</string>
   <string name="status_bar_app_disable_notification">ausblenden</string>
-  <string name="status_bar_app_enable_floating">Schwebende Benachrichtigungen</string>
+  <string name="status_bar_app_enable_floating">Popups</string>
   <string name="status_bar_app_enable_keyguard">Sperrbildschirm</string>
   <string name="status_bar_app_enable_message">einblenden</string>
   <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Sperrbildschirm, Benachrichtigungsblende</string>
@@ -3049,8 +3049,8 @@ Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerä
   <string name="status_bar_settings_notification_sound_vibrate">Ton &amp; Vibration</string>
   <string name="status_bar_settings_show_carrier">Netzanbieter anzeigen</string>
   <string name="status_bar_settings_show_carrier_summary">Nur auf dem Sperrbildschirm anzeigen</string>
-  <string name="status_bar_settings_show_floating_notification">Schwebende Benachrichtigungen</string>
-  <string name="status_bar_settings_show_floating_notification_summary">"Schwebende Benachrichtigungen automatisch ausblenden sobald diese am oberen Bildschirmrand angezeigt wurden."</string>
+  <string name="status_bar_settings_show_floating_notification">Popups</string>
+  <string name="status_bar_settings_show_floating_notification_summary">Popups werden nach der Anzeige am oberen Bildschirmrand automatisch ausgeblendet</string>
   <string name="status_bar_settings_show_flow_info">Datenverbrauch anzeigen</string>
   <string name="status_bar_settings_show_home_message">App-Icon Symbol</string>
   <string name="status_bar_settings_show_keyguard_notification">Popup Benachrichtigungen und Sperrbildschirm</string>
