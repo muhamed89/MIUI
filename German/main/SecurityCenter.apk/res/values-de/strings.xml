@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="SMS_and_MMS">SMS und MMS</string>
-  <string name="Settings_title_anti_spam">Speerlisten-Einstellungen</string>
+  <string name="Settings_title_anti_spam">Sperrlisten-Einstellungen</string>
   <string name="Settings_title_anti_virus">Antivirus-Einstellungen</string>
   <string name="Settings_title_garbage_cleanup">Bereinigungs-Einstellungen</string>
   <string name="Settings_title_network_assistants">Datenverbrauchs-Einstellungen</string>
@@ -36,9 +36,9 @@
   <string name="antivirus_choose_engine">Definitionen von %s</string>
   <string name="antivirus_choose_engine_dialog_title">Definitionen auswählen</string>
   <string name="antivirus_choose_engine_disable_toast">"Während der Suche können die Definitionen nicht gewechselt werden"</string>
-  <string name="antivirus_choose_engine_settings">Virusdefinition-Einstellungen</string>
+  <string name="antivirus_choose_engine_settings">Virusdefinitions-Einstellungen</string>
   <string name="antivirus_choose_engine_title">Definitionen</string>
-  <string name="antivirus_more_engine_dialog_summary">Wenn Sie mehrere Definitionen verwenden, wird der Scan mehr Zeit in Anspruch nehmen.</string>
+  <string name="antivirus_more_engine_dialog_summary">Wenn Sie mehrere Definitionen verwenden, wird der Scan mehr Zeit in Anspruch nehmen, aber mögliche Risiken werden früher erkannt.</string>
   <string name="antivirus_more_engine_dialog_title">Achtung</string>
   <string name="antivirus_none_engine_dialog_ok">OK</string>
   <string name="antivirus_none_engine_dialog_title">Definitionen auswählen</string>
@@ -100,7 +100,7 @@
   <string name="button_text_cancel_optimize">Abbrechen</string>
   <string name="button_text_cleanup">Bereinigen</string>
   <string name="button_text_clear">Löschen</string>
-  <string name="button_text_create_shortcut">Verknüpfung aus Startseite erstellen</string>
+  <string name="button_text_create_shortcut">Verknüpfung auf der Startseite erstellen</string>
   <string name="button_text_fix">Beheben</string>
   <string name="button_text_ignore">Ignorieren</string>
   <string name="button_text_ignore_alert_title">Diese Warnung ignorieren?</string>
@@ -134,7 +134,7 @@
   <string name="descx_cleanuping_item">Optimiere %s</string>
   <string name="descx_finish_cleanup_cache">Cache Optimierung abgeschlossen</string>
   <string name="descx_finish_cleanup_memory">Speicher Optimierung abgeschlossen</string>
-  <string name="descx_finish_cleanup_system">System Sicherheits optimierung abgeschlossen</string>
+  <string name="descx_finish_cleanup_system">System Sicherheits Optimierung abgeschlossen</string>
   <string name="descx_finish_scan_cache">Cache Scan abgeschlossen</string>
   <string name="descx_finish_scan_memory">Speicher Scan abgeschlossen</string>
   <string name="descx_finish_scan_system">System Sicherheits Scan abgeschlossen</string>
@@ -143,13 +143,13 @@
   <string name="descx_quick_scan_preparation">Ein paar Sekunden…</string>
   <string name="descx_scanning_item">Scanne %s</string>
   <string name="descx_start_cleanup_cache">Starte Cache-Optimierung</string>
-  <string name="descx_start_cleanup_memory">Starte Speicheroptmierung</string>
+  <string name="descx_start_cleanup_memory">Starte Speicheroptimierung</string>
   <string name="descx_start_cleanup_system">Starte Systemsicherheitsoptimierung</string>
   <string name="descx_start_scan_cache">Starte Cache-Scan</string>
   <string name="descx_start_scan_memory">Starte Speicher-Scan</string>
   <string name="descx_start_scan_system">Starte Systemsicherheits-Scan</string>
   <string name="details_subtitle">Details</string>
-  <string name="dialog_msg_auto_start_declare">Einige Sicherheits-Apps können fälschlicherweise angegeben, dass MIUI Ihren Start verhindert. Um die Berechtigungen, die einzelnen Anwendungen erteilt wurden zu überprüfen, gehen Sie auf Einstellungen Apps.</string>
+  <string name="dialog_msg_auto_start_declare">Einige Sicherheits-Apps können fälschlicherweise angeben, dass MIUI Ihren Start verhindert. Um die Berechtigungen, die einzelnen Anwendungen erteilt wurden zu überprüfen, gehen Sie zu Einstellungen -> Apps.</string>
   <string name="dialog_msg_stop_virus_scan">Sind Sie sicher?</string>
   <string name="dialog_title_auto_start_declare">Über Autostart</string>
   <string name="dialog_title_stop_virus_scan">Virusscan anhalten</string>
@@ -157,7 +157,7 @@
   <string name="empty_title_manual_item_white_list">Keine Ausnahmen.</string>
   <string name="empty_title_perm_apps">Leer</string>
   <string name="empty_title_permission_apps_list">Leer</string>
-  <string name="empty_title_risk_list">Keine Riskanten Apps</string>
+  <string name="empty_title_risk_list">Keine riskanten Apps</string>
   <string name="empty_title_root_apps">Keine Apps haben Root-Zugriff</string>
   <string name="empty_title_system_cache_list">System-Cache ist leer</string>
   <string name="empty_title_system_process_list">Keine Systemprozesse</string>
@@ -218,7 +218,7 @@
   <string name="item_dev_mode">Entwickler Optionen</string>
   <string name="item_install_monitor">Installationsmonitor</string>
   <string name="item_mms">Unerwünschte Nachrichten filtern</string>
-  <string name="item_usb_debug">USB debugging</string>
+  <string name="item_usb_debug">USB Debugging</string>
   <string name="item_virus">Virus</string>
   <string name="item_virus_lib">Virendatenbank automatisch aktualisieren</string>
   <string name="last_check_canceled">Die letzte Suche wurde abgebrochen</string>
@@ -243,8 +243,8 @@
   <string name="menu_item_app_permissions_control">Zugriffsrechte Manager</string>
   <string name="menu_item_control_app_permissions">Um Erlaubnis fragen, bevor Apps das Lesen von Kontakten, das Ansehen von Anruflisten, das Ändern von Systemeinstellungen oder der Zugriff auf die Kamera und anderen Gerätequellen gestattet wird.</string>
   <string name="menu_item_force_stop">Task beenden</string>
-  <string name="menu_item_notification_antispam_text_avail">Blocklist</string>
-  <string name="menu_item_notification_antispam_text_normal">Blocklist</string>
+  <string name="menu_item_notification_antispam_text_avail">Blockliste</string>
+  <string name="menu_item_notification_antispam_text_normal">Blockliste</string>
   <string name="menu_item_notification_garbage_text">%s</string>
   <string name="menu_item_notification_garbage_text_error">Fehler</string>
   <string name="menu_item_notification_power_text">Energie</string>
@@ -253,7 +253,7 @@
   <string name="menu_item_shortcut_summary">Oft verwendete zum Desktop hinzufügen</string>
   <string name="menu_item_shortcut_title">Verknüpfungen verwalten</string>
   <string name="menu_item_uninstall">Entfernen</string>
-  <string name="menu_item_virus_cloud_scan_summary">Online Definitionen zum scannen verwenden</string>
+  <string name="menu_item_virus_cloud_scan_summary">Online Definitionen zum Scannen verwenden</string>
   <string name="menu_item_virus_cloud_scan_title">Online-Definitionen</string>
   <string name="menu_item_virus_install_monitor_summary">Apps vor der Installation auf Viren prüfen</string>
   <string name="menu_item_virus_install_monitor_title">Installationsmonitor</string>
