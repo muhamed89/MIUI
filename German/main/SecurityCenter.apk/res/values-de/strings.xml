@@ -305,7 +305,7 @@
   <string name="power_center_charge_time">Aufgeladen in %1$s</string>
   <string name="power_center_consume_rank">Akkuverbrauch</string>
   <string name="power_center_consume_time">%1$s verbleibend</string>
-  <string name="power_center_custom_summary_default">Optimierte Einstellungen spart Energie</string>
+  <string name="power_center_custom_summary_default">Optimierte Einstellungen sparen Energie</string>
   <string name="power_center_custom_title">Akku-Einstellungen</string>
   <string name="power_center_low_battery_summary_default">Profil wechseln wenn der Akkustand niedrig ist</string>
   <string name="power_center_low_battery_summary_dynamic">Ab \"%1$d%%\" Akkustand wechseln auf %2$s</string>
@@ -321,7 +321,7 @@
   <string name="power_center_time_to_boot">Zeit zum Starten</string>
   <string name="power_center_time_to_shutdown">Zeit zum Ausschalten</string>
   <string name="power_center_title">Akku</string>
-  <string name="power_chooser_check_box_summary">Wählen Sie ein Energieprofil, um die Lebensdauer Ihres Akkus zu erhöhen</string>
+  <string name="power_chooser_check_box_summary">Wählen Sie ein Energieprofil, um die Akkulaufzeit erhöhen</string>
   <string name="power_chooser_check_box_title">Profil auswählen</string>
   <string name="power_chooser_mine_summary">Eigenes Energieprofil</string>
   <string name="power_chooser_mine_title">Eigenes Profil</string>
@@ -405,7 +405,7 @@ Sie müssen Ihre Akku-Einstellungen ändern bevor Sie dieses Profil löschen kö
   <string name="power_mode_internet">Netzwerk</string>
   <string name="power_mode_keep_state">Standard</string>
   <string name="power_mode_my_mode">Mein Modus</string>
-  <string name="power_mode_my_mode_summary">Automatisch den täglichen gebrauch speichern</string>
+  <string name="power_mode_my_mode_summary">Automatisch den täglichen Gebrauch speichern</string>
   <string name="power_mode_screen_brightness">Helligkeit</string>
   <string name="power_mode_screen_brightness_automatic">Automatisch: %1$d%%</string>
   <string name="power_mode_screen_brightness_manual">Manuell: %1$d%%</string>
@@ -430,7 +430,7 @@ Sie müssen Ihre Akku-Einstellungen ändern bevor Sie dieses Profil löschen kö
   <string name="power_save_choose_mode">Profil auswählen</string>
   <string name="power_save_choose_recovery_mode">Profil auswählen</string>
   <string name="power_save_low_battery_auto_save_title">Profile</string>
-  <string name="power_save_low_battery_option_recovery_title">Wenn Akkstand höher, wechseln zu</string>
+  <string name="power_save_low_battery_option_recovery_title">Wenn Akkustand höher, wechseln zu</string>
   <string name="power_save_low_battery_option_summary">Wenn der Akkustand über dem eingestellten Limit ist, wechselt das Gerät wieder auf das zuletzt verwendete Profil</string>
   <string name="power_save_low_battery_option_title">Wechseln zu</string>
   <string name="power_save_low_battery_percentage_fifty">50%</string>
@@ -509,7 +509,7 @@ Sie müssen Ihre Akku-Einstellungen ändern bevor Sie dieses Profil löschen kö
   <string name="summary_antivirus_oversea">Virusdefinitionen automatisch aktualisieren</string>
   <string name="summary_cleaner_cloudscan">Unbekannte Ordner hochladen und mit Online-Virendefinitionen vergleichen</string>
   <string name="summary_cloud_account">Das optimale aus Ihrem MiGerät herausholen</string>
-  <string name="summary_cloud_service">Synchronisieren Sie Ihre Fotos, Kontakte und mehr zwischen all Ihren Geräten</string>
+  <string name="summary_cloud_service">Synchronisieren Sie Ihre Fotos, Kontakte und noch viel mehr zwischen all Ihren Geräten</string>
   <string name="summary_cloud_space_almost_full">Holen Sie sich mehr Speicherplatz</string>
   <string name="summary_cloud_space_full">Holen Sie sich mehr Speicherplatz und erhalten Sie Zugang zu weiteren Features</string>
   <string name="summary_cmcc_app_check">Einige Apps konnten nicht überprüft werden</string>
@@ -564,11 +564,11 @@ Sie müssen Ihre Akku-Einstellungen ändern bevor Sie dieses Profil löschen kö
   <string name="title_miui_update">Update vorhanden</string>
   <string name="title_mms_no">Nachrichtenfilter ist aus</string>
   <string name="title_mms_yes">Nachrichtenfilter ist an</string>
-  <string name="title_network_switch">Allow internet connection</string>
+  <string name="title_network_switch">Internetverbindung erlauben</string>
   <string name="title_permission_no">Zugriffsmanager aus</string>
   <string name="title_permission_root">Root Zugriff Warnung</string>
   <string name="title_permission_yes">Zugriffsmanager an</string>
-  <string name="title_power_optimizer">Batteriesparer</string>
+  <string name="title_power_optimizer">Akkusparer</string>
   <string name="title_saving_switch">Datensparer</string>
   <string name="title_show_notification">Benachrichtigungen</string>
   <string name="title_telecom_operator">Anbieterwerte verwenden</string>
