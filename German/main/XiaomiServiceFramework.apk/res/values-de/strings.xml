@@ -2,10 +2,10 @@
 <resources>
   <string name="accept">OK</string>
   <string name="activate">Aktivieren</string>
-  <string name="activate_auto_sms_notification_desc_1_card">SMS sgesendet um \"Gerät finden\" zu aktivieren</string>
+  <string name="activate_auto_sms_notification_desc_1_card">SMS gesendet um \"Gerät finden\" zu aktivieren</string>
   <string name="activate_auto_sms_notification_desc_2_cards">SMS von SIM-Karte %s gesendet um \"Find device\" zu aktivieren</string>
   <string name="activate_auto_sms_notification_title">SIM-Karten Aktivierung</string>
-  <string name="activate_feature_call_log_sync">Anrufliste syncen</string>
+  <string name="activate_feature_call_log_sync">Anrufliste synchronisiern</string>
   <string name="activate_feature_find_device">Gerät orten</string>
   <string name="activate_feature_live_talk">Aufladepaket</string>
   <string name="activate_feature_mms_sync">SMS synchronisieren</string>
@@ -14,11 +14,11 @@
   <string name="activate_feature_register_xiaomi_account">Mi Konto einrichten</string>
   <string name="activate_feature_verify_mx_token">Mi Konto überprüfung</string>
   <string name="activate_history_cancelled">abgebrochen</string>
-  <string name="activate_history_multisim_overview">Activation for SIM card %3$d %1$s. It is triggered by feature \"%2$s\".</string>
-  <string name="activate_history_overview">Activation for SIM card %1$s. It is triggered by feature \"%2$s\".</string>
-  <string name="activate_history_sms">An SMS has been sent during the activation.</string>
-  <string name="activate_history_success">succeeded</string>
-  <string name="activate_history_title">SIM Card Activation</string>
+  <string name="activate_history_multisim_overview">Aktivierung für SIM Karte %3$d %1$s. Es wir ausgelöst mit der Funktion \"%2$s\".</string>
+  <string name="activate_history_overview">Aktivierung für SIM Karte %1$s. Es wir ausgelöst mit der Funktion \"%2$s\".</string>
+  <string name="activate_history_sms">Eine SMS wurde während des Aktivierungsvorgangs gesendet.</string>
+  <string name="activate_history_success">Erfolgreich</string>
+  <string name="activate_history_title">SIM Karten Aktivierung</string>
   <string name="activate_phone_cancel_notif_title">SIM-Karten Aktivierung abgebrochen</string>
   <string name="activate_phone_cancel_notif_title_msim">Aktiverung der SIM-Karte %s abgebrochen</string>
   <string name="activate_phone_failed_notif_title">SIM-Karte konnte nicht aktiviert werden</string>
@@ -85,7 +85,7 @@ Geben Sie die zugehörige Telefonnummer  ein, um %s zu reaktiviren"</string>
   <string name="activate_status_desc_query_activation_info">Aktivierungsdetails werden abgerufen…</string>
   <string name="activate_status_desc_query_activation_info_downlink_sms_error">Server konnte keine Aktivierungs SMS senden</string>
   <string name="activate_status_desc_query_activation_info_no_info">Keine Aktivierungs Infos auf dem Server</string>
-  <string name="activate_status_desc_query_activation_info_server_error">Da lief was, während der Aktivierung Ihres Kontos, mit dem Server falsch</string>
+  <string name="activate_status_desc_query_activation_info_server_error">Während der Aktivierung Ihres Kontos trat ein Fehler mit dem Server auf</string>
   <string name="activate_status_desc_registering_sim_account">SIM-Karte mit Ihrem Konto verknüpfen</string>
   <string name="activate_status_desc_registering_sim_account_server_error">Bei der Registrierung der SIM-Karte ist ein Serverfehler aufgetreten</string>
   <string name="activate_status_desc_registering_xiaomi_account">Registriere Mi-Konto</string>
