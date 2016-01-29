@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_to_recover">Einen Moment…</string>
-  <string name="app_name">Homescreen-Layout sichern​</string>
+  <string name="app_name">Startbildschirm-Layout sichern​</string>
   <string name="as_new_device">Vorherige Einstellungen und Startbildschirm ersetzen</string>
   <string name="as_new_device_summary">Vorherige Mi Cloud Sicherungen löschen</string>
   <string name="back_up_task_in_process">Sichern…</string>
   <string name="back_up_task_unfinished">Sicherung nicht vollständig</string>
   <string name="backing_up_to_micloud">Sichern…</string>
-  <string name="backup_fail">"Sicherung der Homescreen-Apps fehlgeschlagen"</string>
+  <string name="backup_fail">"Sicherung der Startbildschirm-Apps fehlgeschlagen"</string>
   <string name="backup_size">Größe: %s</string>
   <string name="backup_success">App Sicherung erfolgreich</string>
   <string name="backup_to_cloud">App sichern</string>
@@ -17,7 +17,7 @@
   <string name="cancel_recover_settings"><u>Abbrechen</u></string>
   <string name="click_try_to_restore_again">Tippen, um es erneut zu versuchen</string>
   <string name="cloud_app_backup_success">App Sicherung abgeschlossen</string>
-  <string name="cloud_app_check_data">Mit Mi Cloud verbinden…</string>
+  <string name="cloud_app_check_data">Mi Cloud wird verbunden…</string>
   <string name="cloud_app_current_device">Aktuelles Gerät</string>
   <string name="cloud_app_dont_restore">Nicht wiederherstellen</string>
   <string name="cloud_app_no_data">Keine vorherigen App Installationen gefunden</string>
@@ -73,8 +73,8 @@ Wichtig: Die Daten der einzelnen Apps werden dabei nicht in der Mi Cloud gesiche
   <string name="desktop_waiting">Warten</string>
   <string name="device_delete_prompt">Sicherung von %s löschen?</string>
   <string name="device_xiaomi">MiPhone</string>
-  <string name="download_settings">Homescreen-Einstellungen herunterladen %s%%</string>
-  <string name="download_settings_fail">"Herunterladen der Homescreen-Einstellungen fehlgeschlagen"</string>
+  <string name="download_settings">Startbildschirm-Einstellungen herunterladen %s%%</string>
+  <string name="download_settings_fail">"Herunterladen der Startbildschirm-Einstellungen fehlgeschlagen"</string>
   <string name="error_unknown">Es ist ein Fehler aufgetreten</string>
   <string name="latest_backup_time_loading">Lade…</string>
   <string name="managespace_delete_backup">Sicherung löschen</string>
@@ -93,7 +93,7 @@ Wichtig: Die Daten der einzelnen Apps werden dabei nicht in der Mi Cloud gesiche
   <string name="query_restore_description">Startbildschirm Apps und Einstellungen aus dieser Sicherung wiederherstellen. Apps die bereits vorhanden sind, werden dabei überschrieben. Apps die nicht in der Sicherung enthalten sind, werden auf den letzten Startbildschirm verschoben.</string>
   <string name="query_restore_summary">Eine Mi Cloud Sicherung wurde für dieses Gerät gefunden. Startbildschirm Apps und Einstellungen aus der Sicherung wiederherstellen oder dieses Gerät als Neu behandeln und alle älteren Sicherungen löschen?</string>
   <string name="recover_from_micloud">Wiederherstellung aus der Mi Cloud</string>
-  <string name="recover_home_settings">Homescreen-Einstellungen wiederherstellen</string>
+  <string name="recover_home_settings">Startbildschirm-Einstellungen wiederherstellen</string>
   <string name="recover_miui_settings">Systemeinstellungen wiederherstellen</string>
   <string name="recover_settings_description">Gerät nicht ausschalten</string>
   <string name="recovering">%s wird wiederhergestellt</string>
