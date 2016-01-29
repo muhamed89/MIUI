@@ -2,7 +2,7 @@
 <resources>
   <string name="activity_title_ad">Werbung</string>
   <string name="activity_title_apk">Pakete</string>
-  <string name="activity_title_brightness_image">Unter und überbelichtet</string>
+  <string name="activity_title_brightness_image">Unter- und überbelichtet</string>
   <string name="activity_title_cache">Cache</string>
   <string name="activity_title_cache_data">App-Daten</string>
   <string name="activity_title_deep_apk">APKs löschen</string>
@@ -17,7 +17,7 @@
   <string name="activity_title_scanfinish">Suche abgeschlossen</string>
   <string name="activity_title_screenshot">Screenshots</string>
   <string name="activity_title_settings">Einstellungen</string>
-  <string name="activity_title_similar_image">doppelte Fotos</string>
+  <string name="activity_title_similar_image">Doppelte Fotos</string>
   <string name="activity_title_similar_image_group">Duplikate löschen</string>
   <string name="activity_title_tedious_image">Zufällige Fotos</string>
   <string name="activity_title_uninstall_apps">Apps</string>
@@ -83,7 +83,7 @@
   <string name="deepclean_apk_summary_empty">Es müssen keine APKs gelöscht werden.</string>
   <string name="deepclean_apk_version_error">Unbekannt</string>
   <string name="deepclean_app_content">Apps die seit 30 Tagen nicht verwendet wurden entfernt</string>
-  <string name="deepclean_app_summary_empty">Alles sieht gut aus, keine apps löschen</string>
+  <string name="deepclean_app_summary_empty">Alles sieht gut aus, keine Apps löschen</string>
   <string name="deepclean_cache_content">Von Apps erstellte Daten löschen</string>
   <string name="deepclean_cache_header_left">Datendateien: %d</string>
   <string name="deepclean_cache_summary_empty">Alles sieht gut aus, keine Daten zu löschen</string>
@@ -93,7 +93,7 @@
   <string name="deepclean_list_item_from_dcim_thumbnails">Miniaturansicht</string>
   <string name="deepclean_list_item_from_download">Download</string>
   <string name="deepclean_list_item_from_gallery">Galerie</string>
-  <string name="deepclean_list_item_from_miui">miui</string>
+  <string name="deepclean_list_item_from_miui">MIUI</string>
   <string name="deepclean_list_item_from_music">Musik</string>
   <string name="deepclean_list_item_from_sdcard">SD-Karte</string>
   <string name="deepclean_similar_ignore">Ignorieren</string>
@@ -103,7 +103,7 @@
   <string name="deepclean_size_summary_normal">Verfügbarer Speicherplatz</string>
   <string name="deepclean_title_large_file">Große Dateien löschen</string>
   <string name="deepclean_title_uninstall_apps">Selten verwendete Apps</string>
-  <string name="deepclean_video_content">Lösche bereits angesehene bzw nicht benötigte Videos</string>
+  <string name="deepclean_video_content">Lösche bereits angesehene bzw. nicht benötigte Videos</string>
   <string name="deepclean_video_summary_empty">Alles in Ordnung</string>
   <string name="default_cache_type">Datendateien</string>
   <string name="dialog_content_checkbox_delete_cloud_image">Fotos auch aus der Mi-Cloud löschen</string>
@@ -128,21 +128,21 @@
   <string name="empty_title_installed_apps">Leer</string>
   <string name="empty_title_large_files">Leer</string>
   <string name="empty_title_residual">Keine Reste gefunden</string>
-  <string name="empty_title_video">Keine Videos zum löschen​</string>
+  <string name="empty_title_video">Keine Videos zum Löschen​</string>
   <string name="flow_rank_title">Datenverbrauch</string>
   <string name="go_to">Fortfahren</string>
   <string name="goto_set">Einrichten</string>
-  <string name="grabage_rank_title">heute bereinigt</string>
+  <string name="grabage_rank_title">Heute bereinigt</string>
   <string name="header_optimizer">Bei Verwendung dieses Dienstes akzeptieren Sie %s</string>
   <string name="hint_bar_select_image">%d ausgewählt</string>
-  <string name="hint_clean_select_similar_image">Duplikate Löschen…</string>
+  <string name="hint_clean_select_similar_image">Duplikate löschen…</string>
   <string name="hints_ad_header_left">Werbung</string>
   <string name="hints_apk_header_left">Pakete</string>
   <string name="hints_apk_version">Version %s</string>
   <string name="hints_app_uninstall_residual">Deinstallations Reste entfernen?</string>
   <string name="hints_cache_header_left">Cache</string>
-  <string name="hints_cache_msd_desc">"Löschen von Delta-Updates werden app Nutzung nicht beeinflussen"</string>
-  <string name="hints_cache_msd_title">Delta update</string>
+  <string name="hints_cache_msd_desc">"Löschen von Delta-Updates werden App Nutzung nicht beeinflussen"</string>
+  <string name="hints_cache_msd_title">Delta Update</string>
   <string name="hints_cleanfinish">Bereinigung abgeschlossen</string>
   <string name="hints_deepclean_list_item_from">Aus %s</string>
   <string name="hints_deepclean_scanning">Suche %s</string>
@@ -192,8 +192,8 @@
   <string name="hints_storage_news">Sicherheitsnachrichten</string>
   <string name="hints_title_garbage">Datenmüll</string>
   <string name="hints_video_camera">Aufgezeichnete Videos</string>
-  <string name="hints_video_download">heruntergeladene Videos</string>
-  <string name="hot_today">heute beliebt</string>
+  <string name="hints_video_download">Heruntergeladene Videos</string>
+  <string name="hot_today">Heute beliebt</string>
   <string name="item_title_process_mode">Aktion wählen</string>
   <string name="label_image_list_none">Keine</string>
   <string name="label_preserve_the_best_image">Die schärfsten Fotos speichern</string>
@@ -292,7 +292,7 @@
   <string name="similar_image_empty">Keine Duplikate gefunden</string>
   <string name="similar_image_scaning">string&gt;Prüfe…</string>
   <string name="similar_image_title">Fotos</string>
-  <string name="sponsored">Sponsored</string>
+  <string name="sponsored">Gesponsert</string>
   <string name="summary_auto_cleaner">System automatisch alle 3 Tage bereinigen?</string>
   <string name="summary_delete_apk">Ausgewähle APKs dauerhaft löschen?</string>
   <string name="summary_delete_cache">"Alle Daten dieser App werden dauerhaft gelöscht (inklusive aller Dateien, Einstellungen, und Konten)."</string>
@@ -316,7 +316,7 @@
   <string name="title_of_package_set">Datenplaneinstellungen</string>
   <string name="title_of_traffic_notification">Datenstatistiken</string>
   <string name="title_optimizer">Geschäftsbedingungen</string>
-  <string name="toast_add_white_list_success">"zu den Ausnahmen hinzugefügt"</string>
+  <string name="toast_add_white_list_success">"Zu den Ausnahmen hinzugefügt"</string>
   <string name="toast_app_no_residual_on_sdcard">"Die App hat keine Dateien auf der SD-Karte gespeichert"</string>
   <string name="toast_backup_is_running">Sicherung läuft bereits</string>
   <string name="toast_backup_uninstall_failed">"%d Apps konnten nicht gesichert werden"</string>
@@ -327,7 +327,7 @@
   <string name="toast_garbage_list_empty">Alles in Ordnung!</string>
   <string name="toast_must_select_before_restore">Fotos zum Wiederherstellen auswählen</string>
   <string name="toast_network_eror">"Netzwerkverbindungsfehler"</string>
-  <string name="toast_removed_from_white_list">" von Ausnahmen entfernt "</string>
+  <string name="toast_removed_from_white_list">" Von Ausnahmen entfernt "</string>
   <string name="toast_resolve_apk_error">APK-Fehler beheben</string>
   <string name="toast_scaning_similar_image">Prüfe Fotos…</string>
   <string name="toast_select_image_need_delete">Zu löschende Fotos auswählen</string>
