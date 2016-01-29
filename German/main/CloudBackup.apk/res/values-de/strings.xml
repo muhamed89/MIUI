@@ -56,6 +56,8 @@ Wichtig: Die Daten der einzelnen Apps werden dabei nicht in der Mi Cloud gesiche
   <string name="cloud_backup_detail_state">Mi Cloud Sicherung</string>
   <string name="cloud_backup_detail_state_summary">Apps, Startbildschirm und Systemeinstellungen</string>
   <string name="cloud_backup_detail_time">, Sicherung Datum:%1$s</string>
+  <string name="cloud_backup_have_data">Sicherung gefunden auf der Mi Cloud</string>
+  <string name="cloud_backup_select_recover">Wählen Sie Sicherung auf der Mi Cloud</string>
   <string name="cloud_restore_from_other_device">"Wiederherstellung von %s abbrechen und Sicherung löschen? Diese Aktion kann nicht rückgängig gemacht werden."</string>
   <string name="cloud_restore_task">Wiederherstellen…</string>
   <string name="cloud_task_in_process">"%s abbrechen und Sicherung löschen? Diese Aktion kann nicht rückgängig gemacht werden."</string>
