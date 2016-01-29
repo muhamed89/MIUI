@@ -183,6 +183,7 @@
   <string name="hints_quick_deep_clean">Jetzt bereinigen</string>
   <string name="hints_quick_deep_scanning">Scannen</string>
   <string name="hints_quick_deep_uninstall">Jetzt löschen</string>
+  <string name="hints_quick_prepare">Vorbereiten…</string>
   <string name="hints_quick_scanning">Durchsuche…</string>
   <string name="hints_residual_header_left">Reste</string>
   <string name="hints_scanfinish">Nichts gefunden. Versuchen Sie eine gründliche Bereinigung</string>
