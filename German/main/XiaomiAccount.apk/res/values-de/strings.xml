@@ -52,6 +52,7 @@
   <string name="account_xiaomi_service">Dienste</string>
   <string name="activate_email_notice">Aktivieren Sie Ihr Konto innerhalb von 24 Stunden</string>
   <string name="add_account">Konto hinzufügen</string>
+  <string name="agree_add_continue">Zustimmen</string>
   <string name="alert_title_remove_account">Konto entfernen?</string>
   <string name="app_name">Mi Konto</string>
   <string name="authorize_title">Genehmigung</string>
@@ -112,6 +113,7 @@
   <string name="error_unknown">Anmeldung nicht möglich</string>
   <string name="error_user_name">Benutzername ungültig</string>
   <string name="exceed_binded_phone_times_notice">Diese Telefonnummer wurde bereits mit einem anderen Mi Konto verbunden</string>
+  <string name="exit">Beenden</string>
   <string name="facebook">Facebook</string>
   <string name="failed_dup_secure_phone_number">Diese Telefonnummer ist bereits mit einem anderen Mi Konto verknüpft</string>
   <string name="find_password_on_web_msg">Besuchen Sie account.mi.com um Ihr Passwort zurückzusetzen</string>
