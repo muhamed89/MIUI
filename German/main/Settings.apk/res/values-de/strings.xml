@@ -1999,7 +1999,7 @@ Betriebssystem auswählen:"</string>
   <string name="msd_install_retry">"Falls Ihr Computer das Gerät noch immer nicht erkennt, probieren Sie folgendes:"</string>
   <string name="msd_install_retry_connect">Ziehen Sie das USB Kabel ab und verbinden es erneut.</string>
   <string name="msd_install_retry_reinstall">Installieren Sie den Treiber neu.</string>
-  <string name="msd_install_retry_reinstall_mac">Installieren Sie das Android File Transfer zuerst, dann starten Sie die Anwendung.</string>
+  <string name="msd_install_retry_reinstall_mac">Installieren Sie das Android File Transfer Tool zuerst, dann starten Sie die Anwendung.</string>
   <string name="msd_install_status_done">Treiber installiert</string>
   <string name="msd_install_status_undo">Treiber installieren</string>
   <string name="msd_install_succeed">Treiber installiert</string>
@@ -2011,7 +2011,7 @@ Betriebssystem auswählen:"</string>
   <string name="msim_sim_radio_off">Aus</string>
   <string name="mtp_ptp_mode_summary">MTP- oder PTP-Funktion ist aktiv.</string>
   <string name="multi_touch_points_category_title">Multi Touch Punkte</string>
-  <string name="multi_touch_points_preference">Zum einschalten, Neustarten</string>
+  <string name="multi_touch_points_preference">Zum Einschalten, Neustarten</string>
   <string name="music_audio_effect_optimize">Audioeinstellungen</string>
   <string name="music_audio_effect_optimize_summary">Dirac, Kopfhörer und weitere Audioeinstellungen</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, Kopfhörer und weitere Audioeinstellungen</string>
@@ -2048,13 +2048,13 @@ Betriebssystem auswählen:"</string>
   <string name="music_headset_calibrate_success">Einstellungen angewendet</string>
   <string name="music_headset_calibrate_volume_down">Lautstärke verringern</string>
   <string name="music_headset_calibrate_volume_up">Lautstärke erhöhen</string>
-  <string name="music_headset_calibrate_wrong_key">"Das ist die falsche Taste"</string>
+  <string name="music_headset_calibrate_wrong_key">"Dies ist die falsche Taste"</string>
   <string name="music_headset_mode_music">Musikwiedergabe steuern</string>
   <string name="music_headset_mode_settings">Kopfhörer / Fernbedienungstasten</string>
   <string name="music_headset_mode_volume">Lautstärke steuern</string>
   <string name="music_headset_no_contected">Keine Kopfhörer gefunden</string>
   <string name="music_headset_settings">Kopfhörer</string>
-  <string name="music_hifi_summary">Reduziert Rauschen und Verzerrungen und erhöht die Audioqualität.</string>
+  <string name="music_hifi_summary">Reduziert das Rauschen und Verzerrungen und erhöht die Audioqualität.</string>
   <string name="music_hifi_title">Hi-Fi Audio</string>
   <string name="music_hifi_volume">Hi-Fi Lautstärke</string>
   <string name="music_mi_effect_summary">Mi Klangverbesserung bei Kopfhörer verwenden</string>
@@ -2064,7 +2064,7 @@ Betriebssystem auswählen:"</string>
   <string name="mvno_match_data">MVNO-Wert</string>
   <string name="mvno_type">MVNO-Typ</string>
   <string name="nearby_wifi">Verfügbare Netzwerke</string>
-  <string name="need_reboot_now">Um die Aktualisierung abzuschließen ist ein Neustart erforderlich.</string>
+  <string name="need_reboot_now">Um die Aktualisierung abzuschließen, ist ein Neustart erforderlich.</string>
   <string name="network_assistant">Datenverbrauch</string>
   <string name="network_detail">%s Netzwerkdetails</string>
   <string name="network_error">Es ist ein Netzwerkfehler aufgetreten</string>
@@ -2082,7 +2082,7 @@ Betriebssystem auswählen:"</string>
   <string name="next_button_label">Weiter</string>
   <string name="next_label">Weiter</string>
   <string name="nfc_category_title">NFC</string>
-  <string name="nfc_how_it_works_content">Richten Sie eine Bezahl-App ein. Dann halten Sie die Rückseite Ihres Geräts an ein Terminal mit einem NFC-Symbol.</string>
+  <string name="nfc_how_it_works_content">Richten Sie eine Bezahl-App ein. Halten Sie dann die Rückseite Ihres Geräts an ein Terminal mit einem NFC-Symbol.</string>
   <string name="nfc_how_it_works_got_it">Verstanden</string>
   <string name="nfc_how_it_works_title">Am Terminal bezahlen</string>
   <string name="nfc_more_title">Mehr...</string>
@@ -2126,11 +2126,11 @@ Betriebssystem auswählen:"</string>
   <string name="no_notification_listeners">Keine Benachrichtigungs-Listener installiert</string>
   <string name="no_running_services">Nichts wird ausgeführt.</string>
   <string name="no_services">Keine aktiven Dienste</string>
-  <string name="no_trust_agents">Keine verfügbaren Trust-Agenten</string>
-  <string name="no_update_found">"Es ist bereits die neueste Version von MIUI installiert"</string>
-  <string name="no_updates_found">"Es ist bereits die neueste Version von MIUI installiert"</string>
+  <string name="no_trust_agents">Keine verfügbaren Vertrauenswürdigen Geräte</string>
+  <string name="no_update_found">"Es ist bereits die neueste MIUI-Version installiert"</string>
+  <string name="no_updates_found">"Es ist bereits die neueste MIUI-Version installiert"</string>
   <string name="no_updates_warning">Für Ihr Telefon wurden keine Updates gefunden</string>
-  <string name="no_updates_warning2">"Entspannen Sie sich. Wir informieren Sie, wenn es ein Update gibt :)"</string>
+  <string name="no_updates_warning2">"Entspannen Sie sich. Wir informieren Sie über neue Updates"</string>
   <string name="noise_suppression">Rauschunterdrückung</string>
   <string name="normal_date_format">Lokal (%s)</string>
   <string name="normal_smartcover_title">Frontabdeckung Transparenz</string>
@@ -2155,7 +2155,7 @@ Betriebssystem auswählen:"</string>
   <string name="notifications_label">Benachrichtigungen</string>
   <string name="notifications_no_peeking">Keine Vorschau</string>
   <string name="notifications_priority">Priorität</string>
-  <string name="notifications_sensitive">persönlicher Inhalt verborgen</string>
+  <string name="notifications_sensitive">Persönlicher Inhalt verborgen</string>
   <string name="notifications_three_items">%1$s / %2$s / %3$s</string>
   <string name="notifications_two_items">%1$s / %2$s</string>
   <string name="now">Jetzt neustarten</string>
@@ -2203,7 +2203,7 @@ Betriebssystem auswählen:"</string>
   <string name="page_layout_11">Wetter</string>
   <string name="page_layout_12">Sicherheit</string>
   <string name="page_layout_13">Tools</string>
-  <string name="page_layout_18">Recents</string>
+  <string name="page_layout_18">Neueste</string>
   <string name="page_layout_19">Kontakte</string>
   <string name="page_layout_2">Kamera</string>
   <string name="page_layout_20">Gelbe Seiten</string>
@@ -2300,7 +2300,7 @@ Betriebssystem auswählen:"</string>
   <string name="power_discharge_remaining">%1$s verbleibend</string>
   <string name="power_discharging_duration">%1$d%% - üngefähr %2$s übrig</string>
   <string name="power_flashlight">Blitzlicht</string>
-  <string name="power_hide_mode_summary">"Sparen Sie Akkuverbrauch, indem Sie von bestimmten Apps die Hintergrundprozesse, WLAN und mobile Datenverbindungen, als auch GPS begrenzen"</string>
+  <string name="power_hide_mode_summary">"Reduzieren Sie Ihren Akkuverbrauch, indem Sie von bestimmten Apps die Hintergrundprozesse, WLAN und mobile Datenverbindungen, als auch GPS begrenzen"</string>
   <string name="power_hide_mode_title">Akkuverbrauch von Apps verwalten</string>
   <string name="power_idle">Ruhezustand</string>
   <string name="power_mgr">Akku</string>
@@ -2342,7 +2342,7 @@ Betriebssystem auswählen:"</string>
   <string name="preferred_network_offload_title">Bevorzugter Netzwerk-Offload</string>
   <string name="preferred_network_type_summary">LTE (empfohlen)</string>
   <string name="preferred_network_type_title">Bevorzugter Netzwerktyp</string>
-  <string name="preferred_sms_settings">Diese App wird als Standard-App für Lesen und Verfassen von Textnachrichten eingestellt werden.</string>
+  <string name="preferred_sms_settings">Diese App wird als Standard-App für das Lesen und Verfassen von Textnachrichten eingestellt werden.</string>
   <string name="preferred_sms_title">Standard SMS-App</string>
   <string name="preferred_sms_warning_message">Verwenden von \"%1$s\" als Standard SMS-App kann den Datenverbrauch erhöhen und Ihre Daten gefährden.</string>
   <string name="preferred_sms_warning_use_system">"Nicht verwenden"</string>
@@ -2392,7 +2392,7 @@ Betriebssystem auswählen:"</string>
   <string name="privacy_settings_title">Sichern &amp; Zurücksetzen</string>
   <string name="private_gallery_need_to_unlock">Password erforderlich:</string>
   <string name="private_gallery_recording_intro_header">Entsperrmuster zeichnen:</string>
-  <string name="private_gallery_reset_by_account">Um Ihr Passwort zurückzusetzen, melden Sie sich bei Ihrem Mi-Konto an</string>
+  <string name="private_gallery_reset_by_account">Um Ihr Passwort zurückzusetzen, melden Sie sich mit Ihrem Mi-Konto an</string>
   <string name="private_sms_need_to_unlock">Passwort erforderlich:</string>
   <string name="private_sms_recording_intro_header">Entsperrmuster zeichnen:</string>
   <string name="private_sms_reset_by_account">Um Ihr Passwort zurückzusetzen, melden Sie sich bei Ihrem Mi-Konto an</string>
