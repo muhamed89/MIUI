@@ -208,9 +208,9 @@ Aktiviere GPS über die Schnellauswahl"</string>
   <string name="cit_power_check_title">Stromkapazität testen</string>
   <string name="cit_pressure_sensor_check_summary">Überprüfe Drucksensorwerte</string>
   <string name="cit_pressure_sensor_check_title">Drucksensor testen</string>
-  <string name="cit_proximity_sensor_check_summary">"Bewegungssensor mit dem Finger abdecken (befindet sich am oberen Ende des Telefons), dann nehmen Sie Ihre weg. Wenn Sie Ihre Hand weiter vom Telefon wegnehmen wird der Wert von 0.0 an steigen.
+  <string name="cit_proximity_sensor_check_summary">"Näherungssensor mit dem Finger abdecken (befindet sich am oberen Ende des Telefons), dann nehmen Sie Ihre weg. Wenn Sie Ihre Hand weiter vom Telefon wegnehmen wird der Wert von 0.0 an steigen.
 Stellen Sie sicher, dass sich bei der Kalibrierung nichts zwischen dem Sensor und Ihrer Hand befindet (z.B. Schutzfolien oder Handschuhe)."</string>
-  <string name="cit_proximity_sensor_check_title">Bewegungssensor testen</string>
+  <string name="cit_proximity_sensor_check_title">Näherungssensor testen</string>
   <string name="cit_recovery_signature_failed">Recovery-Signature FEHLGESCHLAGEN</string>
   <string name="cit_recovery_signature_passed">Recovery-Signature ERFOLGREICH</string>
   <string name="cit_reset_check_summary">Test erzeugt einen System-Neustart.</string>
