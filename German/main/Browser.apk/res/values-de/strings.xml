@@ -435,7 +435,7 @@ Diese Seite verlassen?"</string>
   <string name="pref_clear_all_data_dlg">Wirklich Alle Browserdaten löschen?</string>
   <string name="pref_clear_all_data_title">Alle Browserdaten löschen</string>
   <string name="pref_clear_data_title">Browserdaten löschen</string>
-  <string name="pref_confirm_for_exit">Vor dem schliessen des Browser benachrichtigen</string>
+  <string name="pref_confirm_for_exit">Vor dem Schließen des Browser benachrichtigen</string>
   <string name="pref_content_auto_light_mode">Automatische Helligkeit</string>
   <string name="pref_content_block_popups">Pop-ups blockieren</string>
   <string name="pref_content_cloud_speedup">Inhalt schneller laden bei Verwendung eines Proxy-Servers</string>
