@@ -24,7 +24,7 @@
   <string name="find_device_notice_p3">"um Ihr Gerät zu finden, zu sperren oder wiederherzustellen.
 Wenn Sie die SIM-Karte tauschen, wird automatisch eine SMS gesendet, um diese Funktion zu reaktivieren."</string>
   <string name="find_device_stop_noise">OK antippen, um stumm zu schalten</string>
-  <string name="find_device_storage_corrupted">Find Device storage corrupted. Your device is unsafe now.</string>
+  <string name="find_device_storage_corrupted">Gerätespeicher beschädigt. Ihr Gerät ist jetzt unsicher.</string>
   <string name="find_device_success_title">Gerät finden</string>
   <string name="i_know">OK</string>
   <string name="lock_msg_phone">Kontakt-Information: %s</string>
