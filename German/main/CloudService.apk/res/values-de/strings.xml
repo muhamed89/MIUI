@@ -211,13 +211,13 @@ Um dies zu beheben, können Sie entweder alte Dateien bereinigen, um Platz für 
   <string name="micloud_main_network_error">"Verbindung zum Netzwerk fehlgeschlagen"</string>
   <string name="micloud_main_set_internet">Netzwerk</string>
   <string name="micloud_main_space_full">Nicht genug Speicherplatz.</string>
-  <string name="micloud_main_space_full_title">Cloud storage is full</string>
+  <string name="micloud_main_space_full_title">Cloud Speicher voll</string>
   <string name="micloud_main_space_low">Fast kein Speicherplatz mehr…</string>
   <string name="micloud_main_stop_sync">Synchronisation angehalten</string>
-  <string name="micloud_main_suggest_master_sync">"Couldn't sync everything"</string>
+  <string name="micloud_main_suggest_master_sync">"Konnte nicht alles synchronisieren"</string>
   <string name="micloud_main_suggest_setting">"Warte auf WLAN Signal, um zu synchronisieren
 Berühre den Einstellungsknopf, um mehr Optionen zu sehen"</string>
-  <string name="micloud_main_suggest_sync">"Alles konnte nicht synchronisiert werden"</string>
+  <string name="micloud_main_suggest_sync">"Konnte nicht alles synchronisieren"</string>
   <string name="micloud_main_sync_exception">Synchronisationsfehler</string>
   <string name="micloud_main_sync_init">Erhalte Informationen</string>
   <string name="micloud_main_sync_now">Jetzt synchronisieren</string>
