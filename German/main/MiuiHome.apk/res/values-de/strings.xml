@@ -84,7 +84,7 @@
   <string name="failed_to_delete_temporary">Löschen nicht möglich</string>
   <string name="failed_to_drop">Verschieben nicht möglich</string>
   <string name="failed_to_drop_widget_invalid">Widget fehlerhaft</string>
-  <string name="failed_to_drop_widget_nospace">Nicht genügend Platz auf dem Homescreen vorhanden</string>
+  <string name="failed_to_drop_widget_nospace">Nicht genügend Platz auf dem Startbildschirm vorhanden</string>
   <string name="failed_to_load_image">Bild konnte nicht geladen werden</string>
   <string name="folder_name">Ordner</string>
   <string name="frame_load_failed">Laden des Rahmens nicht möglich</string>
@@ -153,11 +153,11 @@
   <string name="lock_screen_failed_message">Sperrbildschirm-Hintergrund kann nicht angewendet werden</string>
   <string name="lock_screen_success_message">Auf Sperrbildschirm angewendet</string>
   <string name="menu_add">Hinzufügen</string>
-  <string name="menu_back_desktop">Zurück zum Homescreen</string>
+  <string name="menu_back_desktop">Zurück zum Startbildschirm</string>
   <string name="menu_customize">Einstellungen</string>
-  <string name="menu_edit">Homescreen bearbeiten</string>
+  <string name="menu_edit">Startbildschirm bearbeiten</string>
   <string name="menu_exit_scene">MiSpace beenden</string>
-  <string name="menu_item_add_item">Auf Homescreen hinzufügen</string>
+  <string name="menu_item_add_item">Auf Startbildschirm hinzufügen</string>
   <string name="menu_launcher_setting">Launcher-Einstellungen</string>
   <string name="menu_picktheme">Thema auswählen</string>
   <string name="menu_reset_scene">Standardlayout</string>
@@ -170,7 +170,7 @@
   <string name="mtzgadget_missing_text">Widget nicht verfügbar</string>
   <string name="multi_selecting_tips">Icon berühren, um App auszuwählen</string>
   <string name="online_wallpaper">Online</string>
-  <string name="out_of_space">Nicht genügend Platz auf dem Homescreen</string>
+  <string name="out_of_space">Nicht genügend Platz auf dem Startbildschirm</string>
   <string name="permdesc_install_shortcut">Ermöglicht einer Anwendung das Hinzufügen von Verknüpfungen ohne Eingriff des Nutzers</string>
   <string name="permdesc_install_widget">Ermöglicht einer Anwendung, Widgets ohne Eingreifen des Benutzers hinzuzufügen</string>
   <string name="permdesc_read_settings">Ermöglicht einer Anwendung, die Einstellungen und Verknüpfungen auf der Startseite zu lesen</string>
