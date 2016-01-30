@@ -408,7 +408,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="saving_conflict_dialog_ok">OK</string>
   <string name="saving_conflict_dialog_title">Achtung</string>
   <string name="saving_conflict_restrictbackground_msg">Die Datenreduzierung kann bei Beschränkung der Hintergrunddaten nicht verwendet werden. Möchten Sie die Datenreduzierung und die Beschränkung der Hintergrunddaten einschalten?</string>
-  <string name="sc_allow_network_dialog_message">Diese App muss mit dem Internet verbunden sein damit sie funktioniert.</string>
+  <string name="sc_allow_network_dialog_message">Diese App benötigt eine Verbindung zum Internet, um ordnungsgemäß ausgeführt werden zu können.</string>
   <string name="sc_allow_network_dialog_tiltle">"Diese Funktion kann nicht benutzt werden"</string>
   <string name="search_input_txt">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="see_detail">Details</string>
