@@ -57,7 +57,7 @@
   <string name="edit_alert_city_title"/>
   <string name="edit_city">Bearbeiten</string>
   <string name="empty">" "</string>
-  <string name="first_start_network_msg">Diese App muss eine Verbindung zum Internet aufbauen und Ihren Standort abrufen können, um richtig zu funktionieren.</string>
+  <string name="first_start_network_msg">Diese App benötigt eine Verbindung zum Internet und Ihren Standort, um ordnungsgemäß ausgeführt werden zu können.</string>
   <string name="first_start_network_title">Internetzugriff und Standortabfrage</string>
   <string name="gps_hint">Aktueller Standort</string>
   <string name="hour_minute_time_format">HH:mm</string>
