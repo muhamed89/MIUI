@@ -2995,7 +2995,7 @@ Verbleibende Versuche :"</string>
   <string name="sound_category_system_title">System</string>
   <string name="sound_effects_enable_title">Töne bei Berührung</string>
   <string name="sound_settings">Töne</string>
-  <string name="sound_vibrate_settings">Sound &amp; Vibration</string>
+  <string name="sound_vibrate_settings">Ton &amp; Vibration</string>
   <string name="spellchecker_language">Sprache</string>
   <string name="spellchecker_quick_settings">Einstellungen</string>
   <string name="spellchecker_security_warning">Diese Rechtschreibprüfung kann den gesamten von Ihnen eingegebenen Text erfassen, einschließlich personenbezogener Daten wie Passwörter und Kreditkartennummern. Sie ist Teil der App \"%1$s\". Möchten Sie die Rechtschreibprüfung verwenden?</string>
