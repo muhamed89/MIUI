@@ -161,7 +161,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="root_agree_check_box_title">Die Risiken einens Root Zugriffs sind mir bewusst</string>
   <string name="root_dangerous_msg">Root Zugriff ist riskant und kann Ihr Gerät sowie persönlichen Daten für Angreifer oder Schadprogramme verfügbar machen. Sie stimmen zu , dass Sie für alle Schäden an Ihrem Gerät oder Datenverluste, die aus der Gewährung des root-Zugriffs führen können allein verantwortlich sind.</string>
   <string name="set_auto">Updates automatisch suchen</string>
-  <string name="set_auto_msg">Soll Updates automatisch herunterladen, sobald Sie mit WLAN verbunden sind?</string>
+  <string name="set_auto_msg">Updates automatisch herunterladen, sobald Sie mit WLAN verbunden sind?</string>
   <string name="set_auto_update_title">Updates automatisch herunterladen?</string>
   <string name="set_installfail_full_msg">Es ist ein Fehler aufgetreten. Klicken Sie bitte auf OK, um diesen Fehler zu melden.</string>
   <string name="set_installfail_msg">Sie befinden sich nicht im WLAN-Netzwerk. Download über das mobile Netzwerk wird Ihren Datenverbrauch stark ansteigen lassen. Sollten Sie keine Flatrate besitzen, dann könnten weitere Kosten entstehen.</string>
@@ -202,7 +202,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="unstable_build">Instabil</string>
   <string name="update_comment_hint"/>
   <string name="update_comment_title">Kommentar</string>
-  <string name="update_downfull_no_info_sum">Warten Sie eine bis zwei Minuten und versuchen sie es erneut</string>
+  <string name="update_downfull_no_info_sum">Warten Sie einem Moment und versuchen es erneut.</string>
   <string name="update_downfull_no_info_title">Update konnte nicht heruntergeladen werden</string>
   <string name="update_feedback">Bewerte dieses Update</string>
   <string name="update_feedback_end">Sie haben das Voting für diese Woche verpasst</string>
