@@ -104,7 +104,7 @@ Zuletzt gesichert am %2$s"</string>
   <string name="header_other_settings">Erweiterte Einstellungen</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">Passwort eingeben</string>
-  <string name="internet_access_dspt">Diese App braucht eine Internetverbindung um korrekt zu arbeiten.</string>
+  <string name="internet_access_dspt">Diese App benötigt eine Verbindung zum Internet, um ordnungsgemäß ausgeführt werden zu können.</string>
   <string name="license_host_unreachable">"Verbindung zum Netzwerk fehlgeschlagen. Um diese Information jetzt zu sehen, gehen Sie auf %s."</string>
   <string name="loading">Nur einen Moment…</string>
   <string name="loading_hint">Lade</string>
