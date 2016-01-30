@@ -77,7 +77,7 @@
   <string name="cleaning">Bereinigung läuft…</string>
   <string name="close">Schließen</string>
   <string name="compress_fail">Komprimieren fehlgeschlagen. Eine gleichnamige Datei ist bereits vorhanden.</string>
-  <string name="compress_fail_unknown">"Couldn't compress. Storage is full or unknown error occurred."</string>
+  <string name="compress_fail_unknown">"Komprimieren fehlgeschlagen. Speicher voll oder unbekannter Fehler."</string>
   <string name="compress_message">Komprimieren nach…</string>
   <string name="compress_title">Komprimieren</string>
   <string name="confirm">Bestätigen</string>
