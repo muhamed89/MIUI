@@ -538,7 +538,7 @@ Diese Seite verlassen?"</string>
   <string name="quicklinks_most_visited_subtitle">Zeige kürzlich besuchte Webseiten in neuen Registerkarten</string>
   <string name="quicklinks_most_visited_title">Auf Startseite hinzufügen</string>
   <string name="readmode_already_add_to_bookshelf">Zum Bücherregal hinzugefügt</string>
-  <string name="readmode_battery">Batterie </string>
+  <string name="readmode_battery">Akku</string>
   <string name="readmode_login">anmelden</string>
   <string name="readmode_login_message">Sie müssen angemeldet sein um mehr zu lesen.</string>
   <string name="readmode_page_load_error">"Seite kann nicht geladen werden"</string>
