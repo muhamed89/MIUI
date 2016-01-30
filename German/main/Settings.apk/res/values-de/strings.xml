@@ -2456,10 +2456,11 @@ Betriebssystem auswählen:"</string>
   <string name="quick_launch_summary">Verknüpfungen zum Starten von Apps festlegen</string>
   <string name="quick_launch_title">Schnellstart</string>
   <string name="quiet">Bitte nicht stören</string>
-  <string name="quiet_group">Bitte nicht stören</string>
+  <string name="quiet_group">Bitte nicht stören</string>	
   <string name="quiet_important_interruptions_mode">Nur Ausnahmen zulassen</string>
-  <string name="quiet_mode">Unterdrücke alle Störungen</string>
-  <string name="quiet_off_mode">Immer Störungen zulassen</string>
+  <string name="quiet_mode">Alle Störungen unterdrücken</string>
+  <string name="quiet_no_interruptions_mode">Alle Störungen unterdrücken</string>
+  <string name="quiet_off_mode">Alle Störungen zulassen</string>
   <string name="radioInfo_cid">CID</string>
   <string name="radioInfo_data_connected">Verbunden</string>
   <string name="radioInfo_data_connecting">Verbindung wird hergestellt</string>
@@ -3116,7 +3117,7 @@ Um dieses ^1 zu verwenden, müssen Sie es zuerst einbinden."</string>
 Um dieses ^1 mit diesem Gerät zu verwenden, müssen Sie es zuerst einrichten."</string>
   <string name="storage_external_title">Tragbares Speichermedium</string>
   <string name="storage_format">Format</string>
-	<string name="storage_internal_title">Interner Speicher</string>
+  <string name="storage_internal_title">Interner Speicher</string>
   <string name="storage_label">Speicher</string>
   <string name="storage_low_summary">Einige Systemfunktionen wie die Synchronisierung funktionieren möglicherweise nicht richtig. Versuchen Sie Speicher freizugeben, indem Sie Apps oder Medieninhalte löschen.</string>
   <string name="storage_low_title">Der Speicherplatz wird knapp</string>
@@ -3451,7 +3452,7 @@ Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden 
   <string name="usb_tethering_turnon_subtext">Zum aktivieren, verbinden</string>
   <string name="usb_tethering_unavailable_subtext">Keine USB-Verbindung</string>
   <string name="usb_title">USB</string>
-	<string name="usb_use_charging_only">Nur Aufladen</string>
+  <string name="usb_use_charging_only">Nur Aufladen</string>
   <string name="usb_use_file_transfers">Datenübertragung (MTP)</string>
   <string name="usb_use_photo_transfers">Bildübertragung (PTP)</string>
   <string name="usb_use_MIDI">MIDI</string>
