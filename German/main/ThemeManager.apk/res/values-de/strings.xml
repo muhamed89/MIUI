@@ -363,6 +363,7 @@
   <string name="theme_user_agreement_content2">Nutzungsbedingungen</string>
   <string name="theme_user_agreement_content3">" und "</string>
   <string name="theme_user_agreement_content4">Datenschutzerklärung</string>
+  <string name="theme_user_agreement_content5">". Diese App benötigt eine Verbindung zum Internet, um ordnungsgemäß ausgeführt werden zu können. "</string>
   <string name="theme_user_agreement_exit">Beenden</string>
   <string name="theme_user_agreement_remind_again">Nutzungsbedingungen anzeigen</string>
   <string name="theme_user_agreement_remind_never">Nicht mehr anzeigen</string>
