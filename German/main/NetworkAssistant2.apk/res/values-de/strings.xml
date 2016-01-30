@@ -343,7 +343,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="pref_package_traffic_overlay">%1$s | Zusätzlich: %2$s</string>
   <string name="pref_package_traffic_settings">Mobiles Datenlimit</string>
   <string name="pref_pkg_begin_date">Startdatum</string>
-  <string name="pref_roaming_daily_limit_setting">Daily data roaming limit</string>
+  <string name="pref_roaming_daily_limit_setting">Tägliches Datenroaming-Limit</string>
   <string name="pref_roaming_setting_gategory">Daten Roaming</string>
   <string name="pref_setting_operators_message">Bearbeiten Sie die Nachricht, die dem Anbieter zum Synchronisieren Ihrer Datenverbrauchsstatistiken gesendet wird</string>
   <string name="pref_show_mobile_traffic">Beim Entsperren des Telefons, Datenverbrauchsstatiken für die gesperrte Zeit anzeigen (min. 5 Min erforderlich)</string>
