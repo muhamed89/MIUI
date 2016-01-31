@@ -529,7 +529,7 @@
   <string name="menu_photo_share_all">Alle teilen</string>
   <string name="menu_resend_all">Alle erneut senden</string>
   <string name="menu_search">Suche</string>
-  <string name="menu_settings">E-Mail</string>
+  <string name="menu_settings">Einstellungen</string>
   <string name="merged_mailbox_compose_select_account">Konto auswählen</string>
   <string name="message_compose_insert_quick_response_list_title">Kurzantwort einfügen</string>
   <string name="message_count_spacer">  </string>
