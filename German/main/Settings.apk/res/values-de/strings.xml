@@ -803,7 +803,7 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="credential_storage_type">Speichertyp</string>
   <string name="credential_storage_type_hardware">Hardware</string>
   <string name="credential_storage_type_software">Nur Software</string>
-  <string name="credentials_configure_lock_screen_hint">Zur Speicherung von Anmeldeinformationen müssen Sie erst eine Sperre für den Lockscreen festlegen</string>
+  <string name="credentials_configure_lock_screen_hint">Zur Speicherung von Anmeldeinformationen müssen Sie erst eine Sperre für den Sperrbildschirm festlegen</string>
   <string name="credentials_enabled">Der Anmeldedatenspeicher ist eingeschaltet.</string>
   <string name="credentials_erased">Anmeldedatenspeicher wurde gelöscht.</string>
   <string name="credentials_install">Von SD-Karte installieren</string>
@@ -2777,8 +2777,8 @@ Um Screen-Pinning zu nutzen:
   <string name="security_settings_fingerprint_enroll_dialog_delete">Delete</string>
   <string name="security_settings_fingerprint_enroll_dialog_name_label">Name</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">OK</string>
-  <string name="security_settings_fingerprint_enroll_disclaimer">Sie können mit dem Fingerabruck nicht nur Ihr Gerät zu entsperren, sondern auch Einkäufe authorisieren oder sich an Apps anmelden. &lt;annotation id="url"&gt;Mehr erfahren&lt;/annotation&gt;</string>
-  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">Screen lock option disabled. You can still use your fingerprint to authorize purchases and app access. &lt;annotation id="url"&gt;Learn more&lt;/annotation&gt;</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Sie können mit dem Fingerabruck nicht nur Ihr Gerät zu entsperren, sondern auch Einkäufe authorisieren oder sich an Apps anmelden. &lt;Anmerkung id="url"&gt;Mehr erfahren&lt;/Anmerkung&gt;</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">Sie können mit dem Fingerabruck nicht nur Ihr Gerät zu entsperren, sondern auch Einkäufe authorisieren oder sich an Apps anmelden. &lt;Anmerkung id="url"&gt;Mehr erfahren&lt;/Anmerkung&gt;</string>
   <string name="security_settings_fingerprint_enroll_done">Fertig</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Abbildung mit dem Gerät und der Position des Sensors</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_message">Sie finden den Fingerabdrucksensor auf der Rückseite Ihres Telefons.</string>
@@ -2805,7 +2805,7 @@ Um Screen-Pinning zu nutzen:
   <string name="security_settings_fingerprint_enroll_touch_dialog_title">Hoppla, das ist nicht der Sensor</string>
   <string name="security_settings_fingerprint_preference_title">Finerabdruck</string>
   <string name="security_settings_premium_sms_desc">Premium-SMS senden?</string>
-  <string name="security_settings_summary">Meinen Standort, Lockscreen, SIM-Kartensperre und Sperre für Anmeldeinformationsspeicher festlegen</string>
+  <string name="security_settings_summary">Meinen Standort, Bildschirmsperre, SIM-Kartensperre und Sperre für Anmeldeinformationsspeicher festlegen</string>
   <string name="security_settings_title">Sicherheit</string>
   <string name="select_all">Alles auswählen</string>
   <string name="select_application">Anwendung auswählen</string>
@@ -2870,9 +2870,9 @@ Um Screen-Pinning zu nutzen:
   <string name="show_hw_screen_updates_summary">Flash innerhalb des Fensters wenn die Darstellung über die GPU erfolgt</string>
   <string name="show_magnifier_when_input">Lupe anzeigen</string>
   <string name="show_non_rect_clip">Nicht rechteckige Clip-Operationen debuggen</string>
-  <string name="show_owner_info_on_lockscreen_label">Eigentümerinformationen auf dem Lockscreen anzeigen</string>
+  <string name="show_owner_info_on_lockscreen_label">Eigentümerinformationen auf dem Sperrbildschirm anzeigen</string>
   <string name="show_password">Passwörter sichtbar</string>
-  <string name="show_profile_info_on_lockscreen_label">Profil auf Sperrbildschirm anzeigen</string>
+  <string name="show_profile_info_on_lockscreen_label">Profil auf dem Sperrbildschirm anzeigen</string>
   <string name="show_rounded_corners">Runde Ecken anzeigen</string>
   <string name="show_running_services">Aktive Dienste anzeigen</string>
   <string name="show_screen_updates">Bildschirmupdates anzeigen</string>
@@ -3354,7 +3354,7 @@ Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden 
   <string name="unlock_disable_lock_pattern_summary">Entsperrmuster entfernen</string>
   <string name="unlock_disable_lock_pin_summary">PIN entfernen</string>
   <string name="unlock_disable_lock_title">Bildschirmsperre ausschalten</string>
-  <string name="unlock_set_enter_system">Lockscreen überspringen</string>
+  <string name="unlock_set_enter_system">Bildschirmsperre überspringen</string>
   <string name="unlock_set_enter_system_summary">Direkt zum Desktop gehen</string>
   <string name="unlock_set_unlock_biometric_weak_summary">Geringe Sicherheit, experimentell</string>
   <string name="unlock_set_unlock_biometric_weak_title">Gesichtserkennung</string>
@@ -3627,7 +3627,7 @@ Jeder Nutzer kann aktualisierte App-Berechtigungen im Namen aller anderen Nutzer
   <string name="volume_restore_alert">"Ihre aktuellen Lautstärkeeinstellungen werden gelöscht."</string>
   <string name="volume_ring_description">Klingelton &amp; Benachrichtigungen</string>
   <string name="volume_ring_mute">Klingelton &amp; Benachrichtigungen lautlos</string>
-  <string name="volume_system_description">Kamera Auslöser, Lockscreen und andere System Benachrichtigungen</string>
+  <string name="volume_system_description">Kamera Auslöser, Bildschirmsperre und andere System Benachrichtigungen</string>
   <string name="volume_voice_description">Sprache</string>
   <string name="vpn_cancel">Abbrechen</string>
   <string name="vpn_configure">Konfiguration</string>
