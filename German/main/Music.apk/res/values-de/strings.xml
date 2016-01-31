@@ -343,7 +343,7 @@
   <string name="notification_headset_custom">Abweisen</string>
   <string name="notification_headset_info">Tippen Sie hier, um die Einstellungen anzuzeigen.</string>
   <string name="notification_headset_settings">Kopfhörer angeschlossen</string>
-  <string name="notification_title_no_song">"Schauen Sie, was jeder hört!!"</string>
+  <string name="notification_title_no_song">"Sehen Sie, was andere hören!"</string>
   <string name="nowplaying_menu_item_delete">Löschen</string>
   <string name="ok">OK</string>
   <string name="one_month">1 Monat</string>
