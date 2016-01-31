@@ -923,7 +923,7 @@ Der Datenverbrauch wird von Ihrem Telefon berechnet und kann von der Abrechnung 
   <string name="data_usage_list_mobile">Mobil</string>
   <string name="data_usage_list_none">Keine</string>
   <string name="data_usage_menu_allow_background">Hintergrunddaten ermöglichen</string>
-  <string name="data_usage_menu_auto_sync">Auto-synce Daten</string>
+  <string name="data_usage_menu_auto_sync">Auto-Synchronisiere Daten</string>
   <string name="data_usage_menu_cellular_networks">Mobilfunknetze</string>
   <string name="data_usage_menu_hide_ethernet">Ethernet Verbrauch ausblenden</string>
   <string name="data_usage_menu_hide_wifi">WLAN ausblenden</string>
