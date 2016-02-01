@@ -2548,7 +2548,7 @@ Betriebssystem auswählen:"</string>
   <string name="reset_app_preferences_title">App-Einstellungen zurücksetzen?</string>
   <string name="reset_legacy_password_settings_preface_text">Sie müssen Ihr Sperrbildschirmpasswort zurücksetzen.</string>
   <string name="reset_network_button_text">Einstellungen zurücksetzen</string>
-  <string name="reset_network_complete_toast">Netzwerkeinstellungen wurden zurüclkgesetzt</string>
+  <string name="reset_network_complete_toast">Netzwerkeinstellungen wurden zurückgesetzt</string>
   <string name="reset_network_confirm_title">Zurücksetzen?</string>
   <string name="reset_network_desc">"All Ihre Netzwerkeinstellungen werden zurückgesetzt, inklusive:
 
@@ -2556,10 +2556,10 @@ Betriebssystem auswählen:"</string>
 "&lt;li&gt;Mobile Datenverbindun&lt;/li&gt;"
 "&lt;li&gt;Bluetooth&lt;/li&gt;</string>
   <string name="reset_network_final_button_text">Einstellungen zurücksetzen</string>
-  <string name="reset_network_final_desc">Alle Netzwerkeinstellungen zurücksetzens? Sie können diese Aktion nicht rückgängig machen!</string>
+  <string name="reset_network_final_desc">Alle Netzwerkeinstellungen zurücksetzen? Sie können diese Aktion nicht rückgängig machen!</string>
   <string name="reset_network_title">Einstellungen zurücksetzen</string>
   <string name="resolver_settings_label">Sortieren</string>
-  <string name="resource_ringtone_volume_mute">Ihr Klingelton steht auf Lautlos</string>
+  <string name="resource_ringtone_volume_mute">Ihr Klingelton ist auf Lautlos eingestellt</string>
   <string name="restore_default_apn">Standard-APN-Einstellungen werden wiederhergestellt.</string>
   <string name="restore_default_apn_completed">Zurücksetzen auf Standard-APN-Einstellungen abgeschlossen</string>
   <string name="restr_pin_enter_admin_pin">Admin-PIN eingeben</string>
@@ -2657,7 +2657,7 @@ Diese Einstellung betrifft alle Nutzer auf diesem Telefon."</string>
   <string name="screen_paper_mode_turn_on">An</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">"Nicht mehr fragen"</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Zustimmen</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Um die App-Liste, die den Lesemodus verwenden können zu aktualsieren, müssen Sie mit dem Internet verbunden sein.</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Um die App-Liste, die den Lesemodus verwenden können, zu aktualisieren, müssen Sie mit dem Internet verbunden sein.</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Internetverbindung</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Liste der Apps, die den Lesemodus verwenden können aktualisieren</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Automatisch aktualisieren</string>
@@ -2665,7 +2665,7 @@ Diese Einstellung betrifft alle Nutzer auf diesem Telefon."</string>
 
 Um Screen-Pinning zu nutzen:
 
-1. Gehen Sie sicher, dass Screen-Pinning angeschaltet ist.
+1. Gehen Sie sicher, dass Screen-Pinning eigeschaltet ist.
 
 2. Öffnen Sie den Bildschirm, den Sie anheften möchten.
 
@@ -2678,7 +2678,7 @@ Um Screen-Pinning zu nutzen:
   <string name="screen_pinning_unlock_pattern">Beim Unpinning nach dem Entsperrmuster fragen</string>
   <string name="screen_pinning_unlock_pin">Beim Unpinning nach der PIN fragen</string>
   <string name="screen_resolution_confirm">Neustarten</string>
-  <string name="screen_resolution_summary">"Wenn Sie die Bildschrimauflösung senken, dann kann die Batterielebensdauer und Systemgeschwindigkeit erhöht werden, allerdings können Bilder weniger scharf erscheinen. Ihr Gerät muss neu gestartet werden, um diese Änderung zu übernehmen."</string>
+  <string name="screen_resolution_summary">"Wenn Sie die Bildschirmauflösung senken, dann kann die Batterielebensdauer und Systemgeschwindigkeit erhöht werden, allerdings können Bilder weniger scharf erscheinen. Ihr Gerät muss neu gestartet werden, um diese Änderung zu übernehmen."</string>
   <string name="screen_resolution_switch">Auflösung umstellen</string>
   <string name="screen_resolution_title">Bildschirmauflösung</string>
   <string name="screen_saturation">Farbsättigung</string>
@@ -2733,12 +2733,12 @@ Um Screen-Pinning zu nutzen:
   <string name="search_brightness">Helligkeit</string>
   <string name="search_date_time">Datum / Uhrzeit</string>
   <string name="search_description">Sucheinstellungen</string>
-  <string name="search_gps">gps</string>
+  <string name="search_gps">GPS</string>
   <string name="search_hint">Sucheinstellungen</string>
   <string name="search_key">Schlüssel</string>
   <string name="search_label">Einstellungen</string>
   <string name="search_language">Sprache</string>
-  <string name="search_led">led</string>
+  <string name="search_led">LED</string>
   <string name="search_menu">Suche</string>
   <string name="search_network">Netzwerk</string>
   <string name="search_power_mode">Leistungsmodus</string>
@@ -2754,7 +2754,7 @@ Um Screen-Pinning zu nutzen:
   <string name="search_sms_received">SMS Empfangen</string>
   <string name="search_status_bar">Statusleiste</string>
   <string name="search_storage">Speicher</string>
-  <string name="search_sync">Sync</string>
+  <string name="search_sync">Synchronisation</string>
   <string name="search_tether">Tether</string>
   <string name="search_unlock_set">Entsprerren</string>
   <string name="search_virtual_sim">Virtuelle SIM-Karte</string>
@@ -2774,11 +2774,11 @@ Um Screen-Pinning zu nutzen:
   <string name="security_settings_billing_desc">Für diese App können Gebühren anfallen:</string>
   <string name="security_settings_desc">Diese App kann auf die folgenden Funktionen Ihres Telefons zugreifen:</string>
   <string name="security_settings_desc_multi">Diese App kann auf folgendes auf Ihrem Telefon zugreifen. Um die Leistung zu verbessern und die Speicherauslastung zu verringern, hat %1$s einige dieser Berechtigungen, weil es im selben Prozess wie %2$s ausgeführt wird:</string>
-  <string name="security_settings_fingerprint_enroll_dialog_delete">Delete</string>
+  <string name="security_settings_fingerprint_enroll_dialog_delete">Löschen</string>
   <string name="security_settings_fingerprint_enroll_dialog_name_label">Name</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">OK</string>
   <string name="security_settings_fingerprint_enroll_disclaimer">Sie können mit dem Fingerabruck nicht nur Ihr Gerät zu entsperren, sondern auch Einkäufe authorisieren oder sich an Apps anmelden. &lt;Anmerkung id="url"&gt;Mehr erfahren&lt;/Anmerkung&gt;</string>
-  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">Sie können mit dem Fingerabruck nicht nur Ihr Gerät zu entsperren, sondern auch Einkäufe authorisieren oder sich an Apps anmelden. &lt;Anmerkung id="url"&gt;Mehr erfahren&lt;/Anmerkung&gt;</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">Sie können mit dem Fingerabruck nicht nur Ihr Gerät zu entsperren, sondern auch Einkäufe authorisieren oder sich in Apps anmelden. &lt;Anmerkung id="url"&gt;Mehr erfahren&lt;/Anmerkung&gt;</string>
   <string name="security_settings_fingerprint_enroll_done">Fertig</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Abbildung mit dem Gerät und der Position des Sensors</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_message">Sie finden den Fingerabdrucksensor auf der Rückseite Ihres Telefons.</string>
@@ -2792,18 +2792,18 @@ Um Screen-Pinning zu nutzen:
   <string name="security_settings_fingerprint_enroll_introduction_risk_link_text">Mehr erfahren</string>
   <string name="security_settings_fingerprint_enroll_introduction_title">Mit Fingerabdruck entsperren</string>
   <string name="security_settings_fingerprint_enroll_lift_touch_again">Finger anheben, danach den Sensor nochmals berühren</string>
-  <string name="security_settings_fingerprint_enroll_onboard_message">To use your fingerprint to unlock your screen or confirm purchases, you’ll need to:</string>
-  <string name="security_settings_fingerprint_enroll_onboard_message_1">Set up your backup screen lock method</string>
+  <string name="security_settings_fingerprint_enroll_onboard_message">Um mit dem Fingerabdruck den Bildschirm zu entsperren oder Zahlungen zu bestätigen, müssen Sie:</string>
+  <string name="security_settings_fingerprint_enroll_onboard_message_1">Einrichten der Backup Bildschirmsperre </string>
   <string name="security_settings_fingerprint_enroll_onboard_message_2">Fügen Sie Ihren Fingerabdruck hinzu</string>
   <string name="security_settings_fingerprint_enroll_onboard_title">Fingerabdruck einrichten</string>
-  <string name="security_settings_fingerprint_enroll_repeat_message">Move your finger slightly to add all the different parts of your fingerprint</string>
+  <string name="security_settings_fingerprint_enroll_repeat_message">Bewegen Sie Ihren Finger leicht, um all die verschiedenen Teile des Fingerabdrucks hinzuzufügen</string>
   <string name="security_settings_fingerprint_enroll_repeat_title">Toll! Jetzt wiederholen</string>
   <string name="security_settings_fingerprint_enroll_setup_screen_lock">Bildschirmsperre einrichten</string>
   <string name="security_settings_fingerprint_enroll_start_message">Legen Sie Ihren Finger auf den Sensor und nehmen Sie ihn weg, wenn Sie eine Vibration spüren</string>
   <string name="security_settings_fingerprint_enroll_start_title">"Los geht's!"</string>
   <string name="security_settings_fingerprint_enroll_touch_dialog_message">Verwenden Sie einen Fingerabruck auf Ihrem Gerät.</string>
   <string name="security_settings_fingerprint_enroll_touch_dialog_title">Hoppla, das ist nicht der Sensor</string>
-  <string name="security_settings_fingerprint_preference_title">Finerabdruck</string>
+  <string name="security_settings_fingerprint_preference_title">Fingerabdruck</string>
   <string name="security_settings_premium_sms_desc">Premium-SMS senden?</string>
   <string name="security_settings_summary">Meinen Standort, Bildschirmsperre, SIM-Kartensperre und Sperre für Anmeldeinformationsspeicher festlegen</string>
   <string name="security_settings_title">Sicherheit</string>
@@ -2853,7 +2853,7 @@ Um Screen-Pinning zu nutzen:
   <string name="setup_wifi_nfc_tag">WLAN NFC-Tag Einrichten</string>
   <string name="setup_wizard_back_button_label">Zurück</string>
   <string name="setup_wizard_next_button_label">Weiter</string>
-  <string name="severe_threats_summary">Benachrichtigungen für schwere Gefahren für Leben und Eigentum erhalten</string>
+  <string name="severe_threats_summary">Benachrichtigungen für Gefahren die Leben und Eigentum gefährden</string>
   <string name="severe_threats_title">Schwere Gefahren</string>
   <string name="show_all_anrs">Alle ANRS anzeigen</string>
   <string name="show_all_anrs_summary">Dialogfeld \"App antwortet nicht\" für Hintergrund-Apps anzeigen</string>
@@ -2867,7 +2867,7 @@ Um Screen-Pinning zu nutzen:
   <string name="show_hw_layers_updates">Hardwareebenen-Updates</string>
   <string name="show_hw_layers_updates_summary">Hardwareebenen blinken beim Aktualisieren grün</string>
   <string name="show_hw_screen_updates">Zeige GPU Anzeigeupdates</string>
-  <string name="show_hw_screen_updates_summary">Flash innerhalb des Fensters wenn die Darstellung über die GPU erfolgt</string>
+  <string name="show_hw_screen_updates_summary">Blitz innerhalb des Fensters wenn die Darstellung über die GPU erfolgt</string>
   <string name="show_magnifier_when_input">Lupe anzeigen</string>
   <string name="show_non_rect_clip">Nicht rechteckige Clip-Operationen debuggen</string>
   <string name="show_owner_info_on_lockscreen_label">Eigentümerinformationen auf dem Sperrbildschirm anzeigen</string>
@@ -2876,15 +2876,15 @@ Um Screen-Pinning zu nutzen:
   <string name="show_rounded_corners">Runde Ecken anzeigen</string>
   <string name="show_running_services">Aktive Dienste anzeigen</string>
   <string name="show_screen_updates">Bildschirmupdates anzeigen</string>
-  <string name="show_screen_updates_summary">Flash für gesamte Fensteroberfläche bei Aktualisierung</string>
+  <string name="show_screen_updates_summary">Blitzen in der gesamten Fensteroberfläche bei Aktualisierung</string>
   <string name="show_touches">Berührungen anzeigen</string>
   <string name="show_touches_summary">Visuelles Feedback für Berührungen anzeigen</string>
   <string name="show_user_info_on_lockscreen_label">Benutzerinfos im Sperrbildschirm anzeigen</string>
   <string name="shut_down_find_device_failure_confirm">OK</string>
-  <string name="shut_down_find_device_network_failure_content">"Couldn't turn off Find device. Make sure your device is connected to the internet."</string>
-  <string name="shut_down_find_device_network_failure_title">"Can't connect to the network"</string>
-  <string name="shuting_down_find_device">Turning off Find device…</string>
-  <string name="silent_mode_title">Silent mode</string>
+  <string name="shut_down_find_device_network_failure_content">"Konnte Gerät nicht herunterfahren. Stellen sie sicher das das Gerät mit dem Internet verbunden ist."</string>
+  <string name="shut_down_find_device_network_failure_title">"Konnte nicht mit dem Internet verbinden"</string>
+  <string name="shuting_down_find_device">Gerät finden ausschalten…</string>
+  <string name="silent_mode_title">Ruhe Modus</string>
   <string name="sim_absent">Keine SIM/RUIM</string>
   <string name="sim_bad_pin">Falsche PIN</string>
   <string name="sim_call_back_title">Von der Standard-SIM zurückrufen</string>
@@ -2902,7 +2902,7 @@ Möglicherweise ist die PIN falsch."</string>
   <string name="sim_change_pin">PIN für SIM-Karte</string>
   <string name="sim_change_succeeded">SIM-PIN erfolgreich geändert</string>
   <string name="sim_disable_sim_lock">SIM-Karte entsperren</string>
-  <string name="sim_disabled">deaktiviert</string>
+  <string name="sim_disabled">Deaktiviert</string>
   <string name="sim_editor_carrier">Mobilfunkbetreiber</string>
   <string name="sim_editor_color">SIM Farbe</string>
   <string name="sim_editor_name">SIM Name</string>
@@ -2912,12 +2912,12 @@ Möglicherweise ist die PIN falsch."</string>
   <string name="sim_enable_disable_lock_not_supported">"Kann nicht SIM/RUIM Sperre ändern.
  SIM/RUIM unterstützt dies nicht."</string>
   <string name="sim_enable_sim_lock">SIM-Karte sperren</string>
-  <string name="sim_enabled">aktiviert</string>
-  <string name="sim_enabler_airplane_on">FEHLER, Flugmodus ist an!</string>
+  <string name="sim_enabled">Aktiviert</string>
+  <string name="sim_enabler_airplane_on">Fehler, Flugmodus ist an!</string>
   <string name="sim_enabler_both_inactive">"Fehler, kann nicht alle SIM-Karten deaktivieren"</string>
   <string name="sim_enabler_disabling">Deaktiviert...</string>
   <string name="sim_enabler_enabling">Aktiviert...</string>
-  <string name="sim_enabler_in_call">FEHLER, Anruf!</string>
+  <string name="sim_enabler_in_call">Fehler, Anruf!</string>
   <string name="sim_enabler_need_disable_sim">Deaktiviere die SIM-Karte, sind Sie da sicher?</string>
   <string name="sim_enabler_need_enable_sim">Aktiviere die SIM-Karte, sind Sie da sicher?</string>
   <string name="sim_enabler_summary">SIM ist %1$s</string>
@@ -2968,7 +2968,7 @@ Verbleibende Versuche :"</string>
   <string name="sim_status_title">SIM Status</string>
   <string name="simulate_color_space">Farbraum simulieren</string>
   <string name="skip_label">Überspringen</string>
-  <string name="skip_lock_screen_confirm_msg">Benachrichtigungen, Musiksteuerung, Kamera werden im Sperrbildschirm deaktiviert.</string>
+  <string name="skip_lock_screen_confirm_msg">Benachrichtigungen, Musiksteuerung und Kamera werden im Sperrbildschirm deaktiviert.</string>
   <string name="skip_step">Diesen Schritt überspringen</string>
   <string name="slot_name">SIM %d</string>
   <string name="slot_status_title">IMEI Information</string>
@@ -2987,7 +2987,7 @@ Verbleibende Versuche :"</string>
   <string name="sms_received_sound_dialog_title">Ton für empfangene SMS auswählen</string>
   <string name="sms_received_sound_title">Nachricht empfangen</string>
   <string name="sometimes_running">Läuft manchmal (%s)</string>
-  <string name="sort_avg_use">Nach durchschn. Verwendung sortieren</string>
+  <string name="sort_avg_use">Nach durchschnittl. Verwendung sortieren</string>
   <string name="sort_max_use">Nach max. Verwendung sortieren</string>
   <string name="sort_order_alpha">Nach Namen sortieren</string>
   <string name="sort_order_size">Nach Größe sortieren</string>
@@ -2999,7 +2999,7 @@ Verbleibende Versuche :"</string>
   <string name="sound_vibrate_settings">Ton &amp; Vibration</string>
   <string name="spellchecker_language">Sprache</string>
   <string name="spellchecker_quick_settings">Einstellungen</string>
-  <string name="spellchecker_security_warning">Diese Rechtschreibprüfung kann den gesamten von Ihnen eingegebenen Text erfassen, einschließlich personenbezogener Daten wie Passwörter und Kreditkartennummern. Sie ist Teil der App \"%1$s\". Möchten Sie die Rechtschreibprüfung verwenden?</string>
+  <string name="spellchecker_security_warning">Diese Rechtschreibprüfung kann die gesamten von Ihnen eingegebenen Text erfassen, einschließlich personenbezogener Daten wie Passwörter und Kreditkartennummern. Sie ist Teil der App \"%1$s\". Möchten Sie die Rechtschreibprüfung verwenden?</string>
   <string name="spellcheckers_settings_title">Rechtschreibprüfung</string>
   <string name="ssid_label">SSID:</string>
   <string name="ssl_ca_cert_dialog_title">Netzwerküberwachung</string>
