@@ -996,7 +996,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="debug_layout_summary">Clip-Begrenzungen, Ränder usw. anzeigen</string>
   <string name="debug_log">Fehlerbericht</string>
   <string name="debug_monitoring_category">Überwachung</string>
-  <string name="debug_view_attributes">Attributprüfung Ansicht aktivieren</string>
+  <string name="debug_view_attributes">Attributprüfungs Ansicht aktivieren</string>
   <string name="default_date_format">dd. MM. YYYY</string>
   <string name="default_app">(Default)</string>
   <string name="default_apps_title">Standard Apps</string>
