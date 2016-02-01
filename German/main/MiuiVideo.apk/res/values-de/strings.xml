@@ -33,13 +33,13 @@
   <string name="app_latest_version">Keine Updates verfügbar</string>
   <string name="app_name">Video</string>
   <string name="app_plugin_ready">%1$s installiert</string>
-  <string name="app_update_background">Update App im Hintergrund.</string>
+  <string name="app_update_background">Update die App im Hintergrund.</string>
   <string name="app_upgrade_hint">Klicken Sie hier, um die vollständige Polymerisation, HD online-Videos zu sehen.</string>
-  <string name="app_upgrade_title">Mi Video ist bereits auf der letzten Version.</string>
+  <string name="app_upgrade_title">Die aktuellste Mi Video Version ist bereits installiert.</string>
   <string name="app_upgrade_version">Update verfügbar</string>
   <string name="app_version">Version</string>
-  <string name="app_wifi_mode">WiFi Automatisch Aktualisierung</string>
-  <string name="app_wifi_mode_summary">Im Wifi-Modus auto Upgrade auf neueste Version.</string>
+  <string name="app_wifi_mode">Automatisch über WLAN aktualisieren</string>
+  <string name="app_wifi_mode_summary">Im WLAN-Modus auto Update auf neueste Version.</string>
   <string name="authenticated_failed">"Konnte nicht anmelden"</string>
   <string name="authenticating">Überprüfung läuft...</string>
   <string name="authenticating_manually">"Authentifizierung fehlgeschlagen"</string>
