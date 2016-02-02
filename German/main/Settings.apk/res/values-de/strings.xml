@@ -3237,7 +3237,7 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="total_memory">Gesamter Speicher</string>
   <string name="total_size">Insgesamt: %s</string>
   <string name="total_size_label">Insgesamt</string>
-  <string name="touch_filtered_warning">Because an app is obscuring a permission request, Settings can’t verify your response.</string>
+  <string name="touch_filtered_warning">Ihre Eingabe wird von Einstellungen nicht erkannt, weil eine App die Berechtigungsanfrage verdeckt</string>
   <string name="touch_sensitive_summary">Unterstützung für die Bedienung mit Handschuhen und Fehlbedienungsmodus wird eingeschaltet</string>
   <string name="touch_sensitive_title">Handschuhmodus</string>
   <string name="touch_sensitive_turn_off_cancel">Abbrechen</string>
