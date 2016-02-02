@@ -15,9 +15,9 @@
     </string-array>
     <string-array name="font_size_names">
         <item>Klein</item>
-        <item>Normal</item>
+        <item>Mittel</item>
         <item>Groß</item>
-        <item>Sehr Groß</item>
+        <item>Riesig</item>
     </string-array>
     <string-array name="welcome_notes_content">
         <item>"Berühren, um eine Notiz zu erstellen
@@ -28,10 +28,6 @@
 "</item>
         <item>"Und weitere tolle Features!
   - Synchronisieren mit Mi Cloud
-  - Erinnerungen festlegen
-
-Um mehr zu erfahren, besuchen Sie
-http://www.miui.com/forum.php?lang=1
-"</item>
+  - Erinnerungen festlegen"</item>
     </string-array>
 </resources>

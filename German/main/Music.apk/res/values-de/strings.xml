@@ -39,6 +39,7 @@
   <string name="all_tracks_short">Alle Titel</string>
   <string name="already_download">Wird heruntergeladen, bitte warten...</string>
   <string name="already_favorited">Bereits zu Favoriten hinzugefügt</string>
+  <string name="android_sdk_too_low">"Die Android Version ist veraltet, Musik kann nicht aktualisiert werden. Bitte führen Sie ein Update durch."</string>
   <string name="artist">Künstler</string>
   <string name="artist_is_empty">Der Name des Interpreten darf nicht fehlen.</string>
   <string name="artist_name">Interpret</string>
@@ -61,6 +62,8 @@
   <string name="bluetooth_device">Bluetooth-Audiogerät</string>
   <string name="buffering">Puffern…</string>
   <string name="button_add">Hinzufügen</string>
+  <string name="buy_other_flow">Reguläre Daten</string>
+  <string name="buy_traffic">China Unicom</string>
   <string name="buy_vip">Holen Sie sich Premium Lieder</string>
   <string name="can_not_find_resource">"Quelle kann nicht gefunden werden"</string>
   <string name="cancel">Abbrechen</string>
@@ -102,7 +105,6 @@
   <string name="dialog_button_scan_tracks">Suche nach Titeln auf dem Gerät</string>
   <string name="dialog_hint_music_error">Keine Titel gefunden.</string>
   <string name="dialog_title_add_playlist">Wiedergabeliste hinzufügen</string>
-  <string name="dialog_title_delete_playlist">Wiedergabeliste löschen</string>
   <string name="dialog_title_delete_tracks">Löschen</string>
   <string name="dialog_title_name_playlist">Wiedergabeliste benennen</string>
   <string name="dialog_title_remove_tracks">Entfernen</string>
@@ -267,6 +269,7 @@
   <string name="metered_disallow">Abbrechen</string>
   <string name="metered_play_toast">Nutze mobile Datenverbindung für Streams</string>
   <string name="min_sleep_time">1</string>
+  <string name="miui_music">Mi Musik</string>
   <string name="miuishare_account_activate_confirmation">Aktivierung nötig</string>
   <string name="miuishare_account_activate_ok">Aktivieren</string>
   <string name="miuishare_account_login_cancel">Abbrechen</string>
@@ -441,13 +444,15 @@
   <string name="sort_by_name">Name</string>
   <string name="sort_by_time">Datum</string>
   <string name="source_from">Quelle: %1$s</string>
-  <string name="start_to_download">Beginne herunterladen…</string>
+  <string name="start_download_music">Beginne mit dem Herunterladen des Upgrades.</string>
+  <string name="start_to_download">Beginne mit dem Herunterladen…</string>
   <string name="start_to_play">Abspielen</string>
   <string name="stream_normal">Abspielen in Standardqualität</string>
   <string name="stream_quality">Streamqualität</string>
   <string name="streamloadingtext">Verbinde zu %s</string>
+  <string name="sub_explanation">Musik-Datentarif</string>
+  <string name="sub_explanation_message">"Musik-Datentarif wird zurzeit nur von China Unicom unterstützt. Ihr Anbieter unterstützt diese Funktion nicht. Sie können Ihren regulären Datentarif verwenden."</string>
   <string name="suggest_text">Menschen denen das gefällt, gefällt auch</string>
-  <string name="support_online_only">Nur Streaming</string>
   <string name="sync_only_in_wifi">Nur mit WLAN synchronisieren</string>
   <string name="sync_only_in_wifi_summary">Synchronisieren Sie Ihre Musik zwischen all Ihren Geräten. Die Verwendung der mobilen Datenverbindung kann zu erhöhten Kosten führen.</string>
   <string name="tab_album">Alben</string>
@@ -463,6 +468,7 @@
   <string name="tab_track">Titel</string>
   <string name="tab_track_list">Titel</string>
   <string name="take_effect_afater_restart">Damit die Einstellung wirksam wird, muss die App neu gestartet werden.</string>
+  <string name="time_to_upgrade">Sie sollten Mi Musik aktualisieren</string>
   <string name="title_online_artist">Beliebte Interpreten</string>
   <string name="title_online_billboard">Charts</string>
   <string name="title_online_fm">Radio</string>
@@ -502,6 +508,7 @@
   <string name="ultra_high_quality">Höchste</string>
   <string name="unknown_album_name">Unbekanntes Album</string>
   <string name="unknown_artist_name">Unbekanntes Album</string>
+  <string name="update_now">Jetzt aktualisieren</string>
   <string name="upgrade">Aktualisierung:</string>
   <string name="upgrade_force">"Wir stellen unseren derzeitigen Steamingdienst wegen Problemen mit dem Urheberrecht ein. Aktualisiere die App um Musik in höchster Qualität zu hören."</string>
   <string name="upgrade_immediate">Jetzt aktualisieren</string>
