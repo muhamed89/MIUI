@@ -22,6 +22,7 @@
   <string name="background">App läuft im Hintergrund</string>
   <string name="config_custom_description">Wenn vorgeschlagene Konfigurationen nicht Ihren Anforderungen entsprechen, können sie angepasst werden</string>
   <string name="config_custom_title">Benutzerdefiniert</string>
+  <string name="config_mode_title">Choose Config</string>
   <string name="config_suggest_description">Verschiedene Energiesparkonfigurationen für unterschiedliche Apps verwenden</string>
   <string name="config_suggest_title">Empfohlene</string>
   <string name="disabled">Aus</string>
