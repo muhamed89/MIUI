@@ -273,7 +273,7 @@ Um Root-Zugriff zu erhalten müssen Sie die Entwickler-Version von MIUI installi
   <string name="grant_dialog_button_deny">Abbrechen</string>
   <string name="location_settings">Standort-Einstellungen</string>
   <string name="location_warning">%1$s ist ein Anbieter von Standortdienste für dieses Gerät. Standort Zugriff kann von Standorteinstellungen geändert werden.</string>
-  <string name="never_ask_again">Never ask again</string>
+  <string name="never_ask_again">Nie wieder Fragen</string>
   <string name="ok">OK</string>
   <string name="permission_group_title_charges_related">Gebühren</string>
   <string name="permission_group_title_media_related">Multimedia</string>
