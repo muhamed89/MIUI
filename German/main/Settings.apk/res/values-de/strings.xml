@@ -3014,7 +3014,7 @@ Wenden Sie sich für weitere Informationen an Ihren Administrator."</string>
   <string name="ssl_ca_cert_warning_message">"Dritte können Ihre Netzwerkaktivitäten überwachen, einschließlich E-Mails, Apps und sicherer Websites.
 
 Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerät installiert sind."</string>
-  <string name="stable_build">" | Stable"</string>
+  <string name="stable_build">Stabil</string>
   <string name="starting_android">Android wird gestartet</string>
   <string name="status_awaiting_tap">TAG antippen um zu schreiben...</string>
   <string name="status_awake_time">Aktivzeit</string>
@@ -3065,7 +3065,7 @@ Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerä
   <string name="status_bar_settings_toggle_position">Schalteranordnung</string>
   <string name="status_bt_address">Bluetooth-Addresse</string>
   <string name="status_data_state">Mobilfunkstatus</string>
-  <string name="status_failed_to_write">Nicht in der Lage Daten in den NFC-Tag zu schreiben. Falls das Problem weiterhin besteht, probieren Sie einen anderen Tag</string>
+  <string name="status_failed_to_write">Nicht in der Lage Daten auf den NFC-Tag zu schreiben. Falls das Problem weiterhin auftritt, verwenden Sie einen anderen Tag</string>
   <string name="status_icc_id">ICCID</string>
   <string name="status_imei">IMEI</string>
   <string name="status_imei_sv">IMEI SV</string>
@@ -3096,7 +3096,7 @@ Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerä
   <string name="storage_detail_apps">Apps</string>
   <string name="storage_detail_audio">Audio</string>
   <string name="storage_detail_cached">Daten im Cache</string>
-  <string name="storage_detail_dialog_other">"Andere beinhaltet von Apps gespeicherte Dateien, Downloads, Android Dateien, etc. 
+  <string name="storage_detail_dialog_other">"Andere beinhaltete von Apps gespeicherte Dateien, Downloads, Android Dateien, etc. 
 
 Um den gesamten Inhalt von ^1 anzuzeigen, tippen Sie auf Erkunden."</string>
   <string name="storage_detail_dialog_user">"^1 hat möglicherweise, Musik, Videos, Apps oder andere Dateien gespeichert, die ^2 im Speicher belegen. 
@@ -3124,8 +3124,8 @@ Um dieses ^1 mit diesem Gerät zu verwenden, müssen Sie es zuerst einrichten."<
   <string name="storage_menu_explore">Erkunden</string>
   <string name="storage_menu_forget">Vergessen</string>
   <string name="storage_menu_format">Formatieren</string>
-  <string name="storage_menu_format_private">Als interne formatieren</string>
-  <string name="storage_menu_format_public">Als tragbar formatieren</string>
+  <string name="storage_menu_format_private">Als Intern formatieren</string>
+  <string name="storage_menu_format_public">Als Tragbar formatieren</string>
   <string name="storage_menu_migrate">Daten migrieren</string>
   <string name="storage_menu_mount">Einbinden</string>
   <string name="storage_menu_rename">Umbenennen</string>
@@ -3138,7 +3138,7 @@ Um dieses ^1 mit diesem Gerät zu verwenden, müssen Sie es zuerst einrichten."<
   <string name="storage_settings">Speicher</string>
   <string name="storage_settings_summary">USB-Speicher trennen, verfügbaren Speicher anzeigen</string>
   <string name="storage_settings_title">Speichereinstellungen</string>
-  <string name="storage_summary_format">%1$s used in %2$s</string>
+  <string name="storage_summary_format">%1$s benutzt in %2$s</string>
   <string name="storage_title_usb">USB-Verbindung (PC)</string>
   <string name="storage_uicc">UICC Speicher</string>
   <string name="storage_usb">USB Speicher</string>
@@ -3169,11 +3169,11 @@ Um dieses ^1 mit diesem Gerät zu verwenden, müssen Sie es zuerst einrichten."<
   <string name="sync_automatically">App-Daten autom. synchronisieren</string>
   <string name="sync_calendar">Kalender</string>
   <string name="sync_contacts">Kontakte</string>
-  <string name="sync_disabled">Synchronisierung ist aus</string>
-  <string name="sync_enable">Auto-Sync einschalten</string>
-  <string name="sync_enabled">Synchronisierung ist an</string>
-  <string name="sync_error">Syncfehler</string>
-  <string name="sync_failed">Sync fehlgeschlagen</string>
+  <string name="sync_disabled">Synchronisation ist aus</string>
+  <string name="sync_enable">Auto-Synchronisation einschalten</string>
+  <string name="sync_enabled">Synchronisation ist eingeschaltet</string>
+  <string name="sync_error">Synchronisierungsfehler</string>
+  <string name="sync_failed">Synchronisierung fehlgeschlagen</string>
   <string name="sync_gmail">Google Mail</string>
   <string name="sync_in_progress">Synchronisiere...</string>
   <string name="sync_is_failing">Bei der Synchronisierung treten momentan Probleme auf. Sie wird in Kürze fortgesetzt.</string>
@@ -3194,14 +3194,14 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="system_alert_window_settings">Apps überlagern</string>
   <string name="system_alert_window_summary" formatted="false">%d von %d Apps ist es erlaubt, andere Apps zu überlagern</string>
   <string name="system">System</string>
-  <string name="system_app_settings">System-Programme</string>
+  <string name="system_app_settings">Systemprogramme</string>
   <string name="system_backup_section_title">Sicherungen</string>
   <string name="system_package">Systemupdates können nicht auf externen Datenträgern installiert werden.</string>
   <string name="system_storage">System Speicher</string>
   <string name="system_ui_settings">SystemUI Tuner anzeigen</string>
   <string name="system_update_settings_list_item_summary"/>
   <string name="system_update_settings_list_item_title">System Updates</string>
-  <string name="tap_to_wake">Tap to Wake</string>
+  <string name="tap_to_wake">Tippen zum Aufwecken</string>
   <string name="tap_to_wake_summary">Tippen Sie den Bildschirm zweimal an, um das Gerät aufzuwecken</string>
   <string name="terms_title">Nutzungsbedingungen</string>
   <string name="testing">Test</string>
@@ -3348,8 +3348,8 @@ Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden 
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Geräteschutzfunktionen werden ohne eine Bildschirmsperre nicht funktionieren.
 
 Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu authorisieren oder sich an Apps anzumelden."</string>
-  <string name="unlock_disable_frp_warning_ok">Yes, remove</string>
-  <string name="unlock_disable_frp_warning_title">Remove device protection?</string>
+  <string name="unlock_disable_frp_warning_ok">Ja, löschen</string>
+  <string name="unlock_disable_frp_warning_title">Geräteschutz löschen?</string>
   <string name="unlock_disable_lock_password_summary">Entsperrpasswort entfernen</string>
   <string name="unlock_disable_lock_pattern_summary">Entsperrmuster entfernen</string>
   <string name="unlock_disable_lock_pin_summary">PIN entfernen</string>
@@ -3420,9 +3420,9 @@ Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden 
   <string name="usb_eject_summary">Hängen Sie den USB-Speicher aus, damit Sie ihn sicher entfernen können</string>
   <string name="usb_format">USB-Speicher löschen</string>
   <string name="usb_format_summary">Löscht alle Daten auf dem USB-Speicher, wie z.B. Musik und Fotos</string>
-  <string name="usb_host_mode_subtext">Für die Verwendung von Game-Controller und anderen Geräten über den USB-Anschluss. Die Laufzeit des Akkus wird verringert</string>
+  <string name="usb_host_mode_subtext">Für die Verwendung von einem Game-Controller und anderen Geräten über den USB-Anschluss. Die Laufzeit des Akkus wird verringert</string>
   <string name="usb_host_mode_text">USB Hostmodus einschalten</string>
-  <string name="usb_midi_summary">Unterstützte Anwendungen können über USBmit einer MIDI Software auf einem Computer zusammenarbeiten.</string>
+  <string name="usb_midi_summary">Unterstützte Anwendungen können über USB mit einer MIDI Software auf einem Computer zusammenarbeiten.</string>
   <string name="usb_midi_title">MIDI</string>
   <string name="usb_mount">USB Speicher einbinden</string>
   <string name="usb_insert_summary">Legen Sie einen USB-Speicher ein, um ihn zu mounten</string>
@@ -3436,7 +3436,7 @@ Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden 
   <string name="usb_mount_summary"/>
   <string name="usb_msd_driver_installer_summary">Treiber für Windows und OSX erhalten Sie hier</string>
   <string name="usb_msd_driver_installer_title">Installer-Treiberdiskette (MSD)</string>
-  <string name="usb_msd_summary">Erlaubt es, Dateien per Windows und OSX zu übertragen</string>
+  <string name="usb_msd_summary">Erlaub Dateien über Windows und OSX zu übertragen</string>
   <string name="usb_msd_title">Massenspeicher</string>
   <string name="usb_mtp_summary">Ermöglicht die Übertragung von Mediendateien auf Windows- oder, mithilfe der Anwendung Android File Transfer, auf Mac-Computer (siehe www.android.com/filetransfer)</string>
   <string name="usb_mtp_title">Mediengerät (MTP)</string>
