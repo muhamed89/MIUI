@@ -100,7 +100,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="lb_search_bar_hint_with_title_speech">Sprechen Sie, um zu suchen %1$s</string>
   <string name="loading">Laden…</string>
   <string name="location_settings">Standorteinstellungen</string>
-  <string name="location_warning">%1$s ist ein Anbieter von Ortungsdiensten für dieses Gerät. Standort Zugriff kann in den Standort-Einstellungen geändert werden.</string>
+  <string name="location_warning">%1$s ist ein Anbieter von Standortdiensten für dieses Gerät. Standort Zugriff kann in den Standorteinstellungen geändert werden.</string>
   <string name="manage_applications">Anwendungen verwalten</string>
   <string name="manage_device_administrators">Geräteadministratoren verwalten</string>
   <string name="menu_hide_system">System ausblenden</string>
