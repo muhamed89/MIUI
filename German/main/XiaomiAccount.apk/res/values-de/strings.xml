@@ -124,6 +124,8 @@
   <string name="get_phone_verifycode_exceed_limit">Es wurden zu viele Überprüfungscodes an diese Telefonnummer versendet. Warten Sie 24 Stunden und versuchen es erneut.</string>
   <string name="input_captcha_hint">Code eingeben</string>
   <string name="input_email_address_notice">"Wir verwenden diese Adresse, um Ihr Konto zu überprüfen"</string>
+  <string name="internet_statement_message">Indem Sie Zustimmen antippen, stimmen Sie zu, dass diese App Internetzugang erhält</string>
+  <string name="internet_statement_title">Nutzungsbedingungen</string>
   <string name="input_password_hint">Passwort eingeben</string>
   <string name="input_vcode_hint">Bestätigungscode eingeben</string>
   <string name="just_a_second">Einen Moment…</string>

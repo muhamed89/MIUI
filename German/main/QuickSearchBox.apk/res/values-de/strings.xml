@@ -9,6 +9,7 @@
   <string name="clear_shortcuts_prompt">"Der ganze Verlauf kürzlich gewählter Suchvorschläge wird gelöscht.
 Um den Browserverlauf zu löschen, verwenden Sie die Browsereinstellungen."</string>
   <string name="clear_shortcuts_summary">Verlauf zu kürzlich gewählten Suchvorschlägen löschen</string>
+  <string name="connect_and_retry">Verbinden Sie sich mit dem Internet und versuchen Sie es erneut</string>
   <string name="corpus_description_apps">Namen der installierten Anwendungen</string>
   <string name="corpus_description_web">Lesezeichen</string>
   <string name="corpus_hint_apps">Apps suchen</string>
@@ -35,6 +36,7 @@ Um den Browserverlauf zu löschen, verwenden Sie die Browsereinstellungen."</str
   <string name="loading">Laden</string>
   <string name="menu_help">Hilfe</string>
   <string name="menu_settings">Such-Einstellungen</string>
+  <string name="network_unavailable">Nicht mit dem Internet verbunden</string>
   <string name="recently_shortcut_label">Kürzliche Abkürzungen</string>
   <string name="remove_from_history">Diesen Eintrag wirklich aus dem Verlauf löschen?</string>
   <string name="remove_from_history_failed">Eintrag kann nicht aus dem Verlauf gelöscht werden.</string>
@@ -58,6 +60,7 @@ Um den Browserverlauf zu löschen, verwenden Sie die Browsereinstellungen."</str
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">Sprechen:</string>
+  <string name="web_search_results">Web Suchergebnisse</string>
   <string name="xiaomi_hint"/>
   <string name="xiaomi_hot_query"/>
   <string name="xiaomi_search_label">Ergebnisse</string>
