@@ -3124,8 +3124,8 @@ Um dieses ^1 mit diesem Gerät zu verwenden, müssen Sie es zuerst einrichten."<
   <string name="storage_menu_explore">Erkunden</string>
   <string name="storage_menu_forget">Vergessen</string>
   <string name="storage_menu_format">Formatieren</string>
-  <string name="storage_menu_format_private">Als Intern formatieren</string>
-  <string name="storage_menu_format_public">Als Tragbar formatieren</string>
+  <string name="storage_menu_format_private">Als intern formatieren</string>
+  <string name="storage_menu_format_public">Als mobil formatieren</string>
   <string name="storage_menu_migrate">Daten migrieren</string>
   <string name="storage_menu_mount">Einbinden</string>
   <string name="storage_menu_rename">Umbenennen</string>
@@ -3307,8 +3307,8 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="tts_status_title">Standard Sprache</string>
   <string name="turn_off_common_password_confirm_msg">Das Passwort wird ebenfalls deaktiviert.</string>
   <string name="turn_off_radio">Mobilfunkverbindung ausschalten</string>
-  <string name="turn_off_security_lock">Sperre abschalten</string>
-  <string name="turn_on_radio">Radio anschalten</string>
+  <string name="turn_off_security_lock">Sperre ausschalten</string>
+  <string name="turn_on_radio">Radio einschalten</string>
   <string name="turn_on_security_lock">Passwort hinzufügen</string>
   <string name="uicc_eject">UICC-Speicher auswerfen</string>
   <string name="uicc_eject_summary">Werfen Sie den UICC-Speicher aus, damit Sie Ihn sicher trennen können</string>
