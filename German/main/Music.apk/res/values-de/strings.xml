@@ -447,6 +447,7 @@
   <string name="start_download_music">Beginne mit dem Herunterladen des Upgrades.</string>
   <string name="start_to_download">Beginne mit dem Herunterladen…</string>
   <string name="start_to_play">Abspielen</string>
+  <string name="start_to_use">Genießen Sie</string>
   <string name="stream_normal">Abspielen in Standardqualität</string>
   <string name="stream_quality">Streamqualität</string>
   <string name="streamloadingtext">Verbinde zu %s</string>
@@ -532,4 +533,5 @@
   <string name="vip_renew_title">Abonnement abgelaufen</string>
   <string name="vip_required">"Holen Sie sich Erstklassigen Liedsatz, um dieses Lied abzuspielen. Wir haben es jetzt übersprungen."</string>
   <string name="vip_required_with_song">"Sie erhalten ein Erstklassigen Liedsatz "%s" Wir haben es jetzt übersprungen."</string>
+  <string name="welcome_to_new_music">Willkommen auf eine neue Version von Mi Musik</string>
 </resources>
