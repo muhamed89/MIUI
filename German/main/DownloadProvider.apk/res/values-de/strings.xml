@@ -73,4 +73,8 @@ Berühren Sie %s, um den Download erst bei aktiver WLAN-Verbindung herunterzulad
 
 Berühren Sie %s, um den Download erst bei aktiver WLAN-Verbindung herunterzuladen."</string>
   <string name="wifi_required_title">Downloadgröße überschreitet Limit des Netzwerkbetreibers.</string>
+  <string name="xl_speedup_experience_notify_context">Wenn Sie Xunlei Mitglied werden, wird die Geschwindigkeit bei jedem Download gesteigert.</string>
+  <string name="xl_speedup_experience_notify_title">Xunlei Migliedschaft</string>
+  <string name="xl_speedup_notify_button_experience">Gratis ausprobieren</string>
+  <string name="xl_speedup_notify_button_member">Werden Sie Mitglied</string>
 </resources>
