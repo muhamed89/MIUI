@@ -145,8 +145,8 @@
   <string name="invalid_contact_shortcut">Ungültiger Kontakt</string>
   <string name="is_setting_wallpaper_message">Hintergrund wird eingerichtet…</string>
   <string name="is_system_wallpaper_message">Systemkomponenten können nicht gelöscht werden</string>
-  <string name="like">Gefällt mir</string>
-  <string name="liked">Hat mir gefallen</string>
+  <string name="like">Favorit</string>
+  <string name="liked">Favorisiert</string>
   <string name="loading_desktop">Einen Moment…</string>
   <string name="loading_wallpaper">Einen Moment…</string>
   <string name="local_wallpaper">Runtergeladen</string>
