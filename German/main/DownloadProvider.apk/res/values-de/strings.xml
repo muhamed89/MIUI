@@ -1,37 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Download-Manager</string>
-  <string name="auto_restart_under_wifi">Runterladen der Datei bei aktiver WLAN-Verbindung automatisch gestartet</string>
+  <string name="auto_restart_under_wifi">Runterladen der Datei bei aktiver WLAN-Verbindung automatisch starten</string>
   <string name="button_cancel_download">Abbrechen</string>
   <string name="button_download_now">Jetzt herunterladen</string>
   <string name="button_queue_for_wifi">Warteschlange</string>
   <string name="button_start_now">Jetzt starten</string>
   <string name="button_wait_for_wifi">Warten</string>
-  <string name="dialog_insufficient_space_on_cache">Nicht genügend Speicherplatz auf internen Speicher</string>
-  <string name="dialog_insufficient_space_on_external">Nicht genügend Speicherplatz auf externen Speicher</string>
+  <string name="dialog_insufficient_space_on_cache">Nicht genügend Speicherplatz auf dem internen Speicher</string>
+  <string name="dialog_insufficient_space_on_external">Nicht genügend Speicherplatz auf dem externen Speicher</string>
   <string name="dialog_not_show_again">"Nicht mehr anzeigen"</string>
   <string name="download_apk_desktop_installing">Installiert</string>
   <string name="download_apk_desktop_pause">Angehalten</string>
   <string name="download_apk_desktop_pending">Ausstehend</string>
   <string name="download_apk_desktop_running">Runtergeladen</string>
-  <string name="download_error">Fehlgeschlagen</string>
+  <string name="download_error">Nicht erfolgreich</string>
   <string name="download_no_application_title">"Datei kann nicht geöffnet werden"</string>
   <string name="download_percent">%d%%</string>
-  <string name="download_queued">in der Warteschlange</string>
-  <string name="download_remaining">noch %s</string>
+  <string name="download_queued">In der Warteschlange</string>
+  <string name="download_remaining">Noch %s</string>
   <string name="download_running">In Bearbeitung</string>
-  <string name="download_running_percent">In Bearbeitung, %d%%</string>
-  <string name="download_unknown_title">&lt;Ohne Titel&gt;</string>
+  <string name="download_running_percent">Wird heruntergeladen:d%%</string>
+  <string name="download_unknown_title">&lt;Unbenannt&gt;</string>
   <string name="enter_garbage_clean">Internen Speicher bereinigen.</string>
-  <string name="insufficient_space">"Nicht genügend Platz auf dem internen Speicher"</string>
+  <string name="insufficient_space">"Nicht genügend Speicherplatz auf dem internen Speicher"</string>
   <string name="mobile_recommended_title">Mobiler Datenverbrauch</string>
   <string name="notif_text_engine_off">Xunlei-Beschleuniger ist aus.</string>
   <string name="notif_text_engine_on">Beschleunigen…</string>
-  <string name="notif_title_file_size">Insgesamt %1$d Datei(en)</string>
+  <string name="notif_title_file_size">Insgesamt %1$d Dateien</string>
   <string name="notif_title_multiple_downloading">%1$d Dateien werden heruntergeladen</string>
   <string name="notif_title_single_downloading">%1$s wird heruntergeladen</string>
-  <string name="notification_download_complete">Download abgeschlossen.</string>
-  <string name="notification_download_failed">Download fehlgeschlagen.</string>
+  <string name="notification_download_complete">Download abgeschlossen</string>
+  <string name="notification_download_failed">Fehler bei Download</string>
   <string name="notification_download_failed_more">"%1$d Elemente konnten nicht runtergeladen werden"</string>
   <string name="notification_download_success_more">%1$d runtergeladen</string>
   <string name="notification_need_wifi_for_size">Downloadgröße erfordert WLAN</string>
@@ -65,14 +65,14 @@
   <string name="warning_tip_content">"Sie sind nicht mehr mit einem WLAN verbunden. Fertigstellen dieses Downloads wird Ihren Mobilen Datenverbrauch merklich erhöhen."</string>
   <string name="warning_tip_ok">Pause</string>
   <string name="warning_tip_title">Datenverbrauchswarnung</string>
-  <string name="wifi_recommended_body" formatted="false">"Der Download von %s erfordert eine große Datenmenge über die mobile Datenverbindung, welche zu erhöhten Kosten führen kann.
+  <string name="wifi_recommended_body" formatted="false">"Der Download von %s kann die Akkulaufzeit verkürzen/die mobile Datenverbindung überlasten. Je nach Vertrag können zusätzliche Kosten entstehen.
 
-Berühren Sie %s, um den Download erst bei aktiver WLAN-Verbindung herunterzuladen."</string>
+Tippen Sie auf %s, und der Download startet bei der nächsten WLAN-Einwahl."</string>
   <string name="wifi_recommended_title">Zum späteren Download auf die Warteschlange setzen?</string>
-  <string name="wifi_required_body" formatted="false">"Dieser Download (%s) ist nur über WLAN möglich.
+  <string name="wifi_required_body" formatted="false">"Sie müssen eine WLAN-Verbindung nutzen, um den Download von (%s) abzuschließen.
 
-Berühren Sie %s, um den Download erst bei aktiver WLAN-Verbindung herunterzuladen."</string>
-  <string name="wifi_required_title">Downloadgröße überschreitet Limit des Netzwerkbetreibers.</string>
+Tippen Sie auf %s, und der Download startet bei der nächsten WLAN-Einwahl."</string>
+  <string name="wifi_required_title">Download zu groß für Netzwerk dieses Betreibers.</string>
   <string name="xl_speedup_experience_notify_context">Wenn Sie Xunlei Mitglied werden, wird die Geschwindigkeit bei jedem Download gesteigert.</string>
   <string name="xl_speedup_experience_notify_title">Xunlei Migliedschaft</string>
   <string name="xl_speedup_notify_button_experience">Gratis ausprobieren</string>
