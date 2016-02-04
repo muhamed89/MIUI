@@ -238,7 +238,7 @@
   <string name="resume_download">Fortsetzen</string>
   <string name="retry_after_network_available">"Wenn eine Netzwerkverbindung verfügbar ist, erneut versuchen."</string>
   <string name="retry_download">Wiederholen</string>
-  <string name="revert_default">Zurücksetzen</string>
+  <string name="revert_default">Standardeinstellungen wiederherstellen</string>
   <string name="revert_download_path">Standard Downloadordner verwenden?</string>
   <string name="save_path">"Speichere Downloads in: "</string>
   <string name="search_clear_history_btn">Suchverlauf löschen</string>
