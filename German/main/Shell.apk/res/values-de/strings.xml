@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Shell</string>
-  <string name="bugreport_confirm">"Fehlererichte enthalten Daten von den verschiedenen Protokolldateien des Systems einschließlich der persönlichen und privaten Information. Teilen Sie nur Programmfehler-Berichte mit Apps und Leuten, denen Sie vertrauen."</string>
-  <string name="bugreport_confirm_repeat">Zeigen Sie diese Nachricht nächstes Mal</string>
+  <string name="bugreport_confirm">"Fehlerberichte enthalten Daten aus verschiedenen Protokolldateien des Systems, darunter auch personenbezogene und private Daten. Teilen Sie Fehlerberichte nur mit Apps und Personen, denen Sie vertrauen."</string>
+  <string name="bugreport_confirm_repeat">Diese Nachricht nächstes Mal zeigen</string>
   <string name="bugreport_finished_text">Antippen, um Ihren Fehlerbericht zu teilen</string>
   <string name="bugreport_finished_title">Fehlerbericht erfasst</string>
-  <string name="bugreport_storage_title">Fehlerbericht</string>
+  <string name="bugreport_storage_title">Fehlerberichte</string>
 </resources>
