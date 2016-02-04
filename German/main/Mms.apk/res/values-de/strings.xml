@@ -54,7 +54,7 @@
   <string name="cannot_get_details">Details nicht abrufbar</string>
   <string name="cannot_resend_audio">Aufnahme konnte nicht gesendet werden</string>
   <string name="cannot_send_message">Nachricht kann nicht gesendet werden</string>
-  <string name="cannot_send_message_reason">Ihre Nachricht hat keinen gültigen Empfänger</string>
+  <string name="cannot_send_message_reason">Für die Nachricht sind keine gültigen Empfänger vorhanden.</string>
   <string name="card_insert_to_contact">Kontakte Importieren</string>
   <string name="change_duration_activity">Dauer ändern</string>
   <string name="check_all">Alle</string>
