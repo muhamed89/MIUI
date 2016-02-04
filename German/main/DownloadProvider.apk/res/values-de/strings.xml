@@ -67,11 +67,11 @@
   <string name="warning_tip_title">Datenverbrauchswarnung</string>
   <string name="wifi_recommended_body" formatted="false">"Der Download von %s kann die Akkulaufzeit verkürzen/die mobile Datenverbindung überlasten. Je nach Vertrag können zusätzliche Kosten entstehen.
 
-Tippen Sie auf %s, und der Download startet bei der nächsten WLAN-Einwahl."</string>
+Tippen Sie auf %s, um den Download bei der nächsten WLAN-Verbindung zu starten."</string>
   <string name="wifi_recommended_title">Zum späteren Download auf die Warteschlange setzen?</string>
   <string name="wifi_required_body" formatted="false">"Sie müssen eine WLAN-Verbindung nutzen, um den Download von (%s) abzuschließen.
 
-Tippen Sie auf %s, und der Download startet bei der nächsten WLAN-Einwahl."</string>
+Tippen Sie auf %s, um den Download bei der nächsten WLAN-Verbindung zu starten."</string>
   <string name="wifi_required_title">Download zu groß für Netzwerk dieses Betreibers.</string>
   <string name="xl_speedup_experience_notify_context">Wenn Sie Xunlei Mitglied werden, wird die Geschwindigkeit bei jedem Download gesteigert.</string>
   <string name="xl_speedup_experience_notify_title">Xunlei Migliedschaft</string>
