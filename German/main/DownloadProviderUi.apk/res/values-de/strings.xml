@@ -24,7 +24,7 @@
   <string name="bind_xunlei_account">Xunlei-Konto hinzufügen</string>
   <string name="bt_download">Download</string>
   <string name="bt_path_not_exit">"Dieser Pfad existiert nicht"</string>
-  <string name="bt_restart_dialog_message">Alle Downloads im Ordner "BT" starten ?</string>
+  <string name="bt_restart_dialog_message">Alle Downloads im Ordner "BT" starten?</string>
   <string name="bt_restart_dialog_title">Alle Downloads starten</string>
   <string name="bt_xunlei_open_info">Xunlei-Modul zum öffnen solcher Links verwenden?</string>
   <string name="button_sort_by_date">Nach Datum sortieren</string>
