@@ -7,8 +7,8 @@
   <string name="data_value_format">%1$s Bytes / %2$s Pakete</string>
   <string name="disconnect">Trennen</string>
   <string name="duration">Dauer:</string>
-  <string name="legacy_title">VPN verbunden</string>
+  <string name="legacy_title">VPN ist verbunden</string>
   <string name="prompt">Verbindungsanfrage</string>
   <string name="session">Sitzung:</string>
-  <string name="warning">%s will eine VPN-Verbindung einrichten, die Netzwerkverkehr überwacht werden können. Nur akzeptieren Sie, wenn Sie der Quelle vertrauen. &lt;br /&gt; &lt;br /&gt; &lt;img src=vpn_icon /&gt; erscheint am oberen Rand des Bildschirms, wenn VPN aktiv ist.</string>
+  <string name="warning">%s möchte eine VPN-Verbindung herstellen, über die der Netzwerkverkehr überwacht werden kann. Lassen Sie die Verbindung nur zu, wenn die App vertrauenswürdig ist. &lt;br /&gt; &lt;br /&gt; &lt;img src=vpn_icon /&gt; wird oben am Bildschirms angezeigt, wenn VPN aktiv ist.</string>
 </resources>
