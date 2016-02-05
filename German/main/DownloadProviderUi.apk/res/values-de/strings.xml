@@ -312,9 +312,6 @@
   <string name="storage_sd_card">SD-Karte</string>
   <string name="storage_usb">USB-Speicher</string>
   <string name="subbt_downloading">Herunterladen…</string>
-  <string name="bt_path_not_exit">Dieser Pfad existiert nicht</string>
-  <string name="bt_restart_dialog_message">Alle Downloads im BT Ordner neu starten?</string>
-  <string name="bt_restart_dialog_title">Alle Downloads neu starten</string>
   <string name="subbt_fail">Fehlgeschlagen</string>
   <string name="subbt_pause">Pausiert</string>
   <string name="subbt_wait">Warten…</string>
