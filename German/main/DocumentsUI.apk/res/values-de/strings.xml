@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Dokumente</string>
-  <string name="button_copy">Kopie</string>
+  <string name="button_copy">Kopieren</string>
   <string name="button_select">Auswählen</string>
   <string name="copy_failure_alert_content">"Diese Dateien wurden nicht kopiert: %1$s"</string>
-  <string name="copy_notification_title">Kopieren von Dateien</string>
-  <string name="copy_preparing">Vorbereitung für die Kopie…</string>
-  <string name="copy_remaining">%s links</string>
+  <string name="copy_notification_title">Dateien werden kopiert</string>
+  <string name="copy_preparing">Kopieren wird vorbereitet…</string>
+  <string name="copy_remaining">Noch %s</string>
   <string name="create_error">Ordner konnte nicht erstellt werden.</string>
   <string name="drawer_close">Root-Verzeichnis ausblenden</string>
   <string name="drawer_open">Root-Verzeichnis anzeigen</string>
   <string name="empty">Keine Dokumente</string>
   <string name="menu_advanced_hide">SD-Karte ausblenden</string>
   <string name="menu_advanced_show">SD-Karte anzeigen</string>
-  <string name="menu_copy">Kopieren in…</string>
+  <string name="menu_copy">Kopieren nach…</string>
   <string name="menu_create_dir">Ordner erstellen</string>
   <string name="menu_delete">Löschen</string>
   <string name="menu_file_size_hide">Dateigröße ausblenden</string>
@@ -30,7 +30,7 @@
   <string name="menu_sort">Sortieren nach</string>
   <string name="notification_touch_for_details">Berühren Sie, um Details anzuzeigen</string>
   <string name="query_error">Fehler bei der Anforderung von Dokumenten</string>
-  <string name="retry">Wiederholen</string>
+  <string name="retry">Erneut versuchen</string>
   <string name="root_available_bytes">%1$s verfügbar</string>
   <string name="root_recent">Letzte</string>
   <string name="root_type_apps">Weitere Apps</string>
