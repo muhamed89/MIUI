@@ -27,7 +27,7 @@
   <string name="cloud_app_restore_data">Persönliche Daten und vorherige App-Installationen werden automatische auf Ihrem Gerät Wiederhergestellt</string>
   <string name="cloud_app_restore_error">"Wiederherstellung nicht möglich"</string>
   <string name="cloud_app_restore_success">Apps wiederhergestellt</string>
-  <string name="cloud_app_restore_wifi_prompt">Um die App wiederherzustellen stellen Sie eine WLAN-Verbindung her</string>
+  <string name="cloud_app_restore_wifi_prompt">Um die App wiederherzustellen, stellen Sie eine WLAN-Verbindung her</string>
   <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
   <string name="cloud_back_up_detail_discription">"Folgende Daten werden in Ihrer Mi Cloud gesichert, wenn eine WLAN Verbindung besteht: 
 *\u0009\u0009\u0009\u0009Apps and das Startbildschirm Layout 
