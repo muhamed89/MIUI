@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigate home</string>
-  <string name="abc_action_bar_up_description">Navigation hoch</string>
+  <string name="abc_action_bar_home_description">Zur Startseite</string>
+  <string name="abc_action_bar_up_description">Nach oben</string>
   <string name="action_mode_deselect_all">Nicht ausgewählt</string>
   <string name="action_mode_select_all">Alle auswählen</string>
   <string name="action_mode_title_empty">Wähle aus</string>
