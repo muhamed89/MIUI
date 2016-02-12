@@ -19,7 +19,7 @@
   <string name="add_blacklist_dialog_message">Diese Nummer blockieren?</string>
   <string name="add_blacklist_dialog_title">Blockieren</string>
   <string name="add_connection_button">Verbindung hinzufügen</string>
-  <string name="add_contact_dlg_message_fmt">\"%s\" zu Kontakten hinzufügen?</string>
+  <string name="add_contact_dlg_message_fmt">\"%s\" zu den Kontakten hinzufügen?</string>
   <string name="add_display_photo_entry">Profilfoto hinzufügen</string>
   <string name="add_field">Weiteres Feld hinzufügen</string>
   <string name="add_incall_show_entry">Video hinzufügen</string>
@@ -45,14 +45,14 @@
   <string name="batch_delete">Mehrere löschen</string>
   <string name="blacklist">Blockieren</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth-Verbindung wurde unterbrochen</string>
-  <string name="blurbJoinContactDataWith">Kontakt wählen, den Sie mit %s zusammenführen möchten:</string>
+  <string name="blurbJoinContactDataWith">Wählen Sie den Kontakt aus, den Sie mit %s zusammenführen möchten.</string>
   <string name="btn_rotation">Drehen</string>
   <string name="btn_split_contact">Separater Kontakt</string>
   <string name="button_cancel_scan">Abbrechen</string>
   <string name="button_scan">Erneut Suchen</string>
   <string name="caching_vcard_message">vCard(s) zwischenspeichern…</string>
   <string name="caching_vcard_title">Zwischenspeichern</string>
-  <string name="callAgain">Wahlwiederholung</string>
+  <string name="callAgain">Erneut anrufen</string>
   <string name="callBack">Rückruf</string>
   <string name="callDetailTitle">Anrufdetails</string>
   <string name="callDetailsDurationFormat" formatted="false">%s Min %s Sek</string>
