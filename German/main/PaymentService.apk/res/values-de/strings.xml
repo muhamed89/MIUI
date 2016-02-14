@@ -2,20 +2,20 @@
 <resources>
   <string name="hfb_app_name">FuBao</string>
   <string name="hfb_complete">Kauf abgeschlossen</string>
-  <string name="hfb_confirm">确认支付</string>
-  <string name="hfb_confirm_code">验证码：</string>
+  <string name="hfb_confirm">Bestätigen Sie die Zahlung</string>
+  <string name="hfb_confirm_code">Bestätigungscode：</string>
   <string name="hfb_customer_service_phone">Kundenservicenummer:</string>
   <string name="hfb_customer_service_phone_number">4001125881</string>
-  <string name="hfb_fail_hint">* 如未收到短信请咨询中国移动通信账户支付客服中心：4001125881(只收市话费，无长途话费)；</string>
-  <string name="hfb_get_confirm_code">获取验证码</string>
+  <string name="hfb_fail_hint">* Wenn Sie die Nachricht nicht erhalten haben, kontaktieren sie bitte mit China Mobile Konten um die zahlung abzuschliessen. ：4001125881(nur für Ortsgespräche, keine Ferngespräche)；</string>
+  <string name="hfb_get_confirm_code">Code erhalten</string>
   <string name="hfb_goods_name">Name:</string>
-  <string name="hfb_goods_name_content">米币</string>
+  <string name="hfb_goods_name_content">M-Münzen</string>
   <string name="hfb_instruct">"Folgen Sie 10658008 SMS-Bestätigung und wählen Sie 'Kaufabwicklung vollständig'. Danke!"</string>
   <string name="hfb_main_title">Bezahlung abgeschlossen</string>
   <string name="hfb_order_price">Bestellung Total:：</string>
   <string name="hfb_pay_by_phone">Mit Telefon bezahlen:</string>
-  <string name="hfb_retry_query">再查一次</string>
-  <string name="hfb_retry_receive">没收到短信？重新接收</string>
+  <string name="hfb_retry_query">Überprüfen Sie erneut</string>
+  <string name="hfb_retry_receive">Sie haben keine Narichten bekommen? Rückübernahme</string>
   <string name="hfb_return">Zurück</string>
   <string name="hfb_step_2">按照提示进行回复</string>
   <string name="hfb_step_3">点击“购买完成”</string>
