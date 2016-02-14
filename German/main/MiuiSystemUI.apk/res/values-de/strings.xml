@@ -55,8 +55,8 @@
   <string name="audio_effect_info">Optimiere Audio</string>
   <string name="audio_effect_settings">Wähle Kopfhörer-Typ</string>
   <string name="battery_low_percent_format">%d%% verbleibend.</string>
-  <string name="battery_low_title">Verbinde mit Ladegerät</string>
-  <string name="battery_profiles">Benutze Batterie Profil</string>
+  <string name="battery_low_title">Ladegerät anschließen</string>
+  <string name="battery_profiles">Verwende Energieprofil</string>
   <string name="block_record_notification_more_text">Verberge Nachrichten von %1$s &amp; %2$d Apps.</string>
   <string name="block_record_notification_text">Benachrichtigungen von %1$s ausblenden.</string>
   <string name="block_record_notification_title">Benachrichtigungen ausblenden</string>
