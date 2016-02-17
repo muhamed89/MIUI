@@ -176,4 +176,12 @@
         <item quantity="few">%1$d neue WeChat-Sticker</item>
         <item quantity="many">%1$d neue WeChat-Sticker</item>
      </plurals>
+     <plurals name="remote_video_update">
+       <item quantity="other">%1$d neue Videos gefunden</item>
+       <item quantity="zero">%1$d neue Videos gefunden</item>
+       <item quantity="one">%1$d neues Video gefunden</item>
+       <item quantity="two">%1$d neue Videos gefunden</item>
+       <item quantity="few">%1$d neue Videos gefunden</item>
+       <item quantity="many">%1$d neue Videos gefunden</item>
+    </plurals>
 </resources>
