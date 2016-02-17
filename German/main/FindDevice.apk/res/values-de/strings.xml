@@ -44,6 +44,15 @@ Wenn Sie die SIM-Karte tauschen, wird automatisch eine SMS gesendet, um diese Fu
   <string name="unlock_error_ssl_hand_shake">"Keine Verbindung zum Server, stellen Sie Datum und Uhrzeit manuell ein."</string>
   <string name="unlock_error_unknown">"Anmeldung nicht möglich"</string>
   <string name="unlock_error_user_name">Ungültiger Benutzername</string>
+  <string name="unlock_help">"Bleiben Sie mit dem Netzwerk verbunden
+ Stellen Sie sicher, dass eine gültige SIM-Karte eingelegt ist, und Ihr Gerät nicht mit einem ineffektiven WLAN verbunden ist.
+ 
+ Passwort vergessen?
+ Gehen Sie auf id.mi.com, um Ihr Passwort zurückzusetzen
+ 
+ Andere Gründe
+ Melden Sie sich unter i.mi.com an und versuchen Sie dort, Ihr Gerät zu entsperren."</string>
+  <string name="unlock_help_title">Entsperrhilfe:</string>
   <string name="unlock_wrong_captcha">Der eingegebene Code ist falsch</string>
   <string name="unlocking">Aktivierung…</string>
   <string name="verify_password_failed">"Mi Konto ID konnte nicht überprüft werden. %s."</string>

@@ -824,13 +824,19 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="credentials_unlock_hint">Geben Sie das Passwort für den Anmeldedatenspeicher ein.</string>
   <string name="credentials_wrong_password">Falsches Passwort</string>
   <string name="crypt_keeper_button_text">Telefon verschlüsseln</string>
+  <string name="crypt_keeper_conditions">Die Verschlüsselung dauert eine Stunde oder länger. Starten Sie den Vorgang bei voller Ladung und lassen Sie Ihr Gerät angesteckt. Wenn Sie den Vorgang unterbrechen, verlieren Sie möglicherweise alle Daten.</string>
+  <string name="crypt_keeper_conditions_title">Über Geräteverschlüsselung</string>
   <string name="crypt_keeper_confirm_encrypt">Sie müssen Ihr Entsperrmuster zeichnen, um die Geräteverschlüsselung zu bestätigen.</string>
   <string name="crypt_keeper_confirm_title">Verschlüsseln?</string>
+  <string name="crypt_keeper_content">Sie können Konten, Einstellungen, Apps und deren Daten, Medien und andere Dateien verschlüsseln.</string>
+  <string name="crypt_keeper_content_title">Gerät verschlüsseln</string>
   <string name="crypt_keeper_cooldown">Versuchen Sie es in ^1 Sekunden erneut.</string>
   <string name="crypt_keeper_data_corrupt_summary">"Das eingegebene Passwort ist korrekt, aber leider sind Ihre Daten beschädigt. 
 
 Um Ihr Telefon wieder nutzen zu können, müssen Sie es auf Werkszustand zurücksetzen. Wenn Sie Ihr Telefon nach dem Reset eingestellt haben, haben Sie die Möglichkeit, alle Daten, die auf Ihr Google-Konto gesichert wurden, wiederherzustellen."</string>
   <string name="crypt_keeper_data_corrupt_title">Entschlüsselung fehlgeschlagen</string>
+  <string name="crypt_keeper_decrypt_methods">Nachdem Sie ihr Gerät verschlüsselt haben, vorausgesetzt Sie haben eine Bildschirmsperre eingerichtet (ein Muster, eine numerische PIN oder ein Passwort), müssen Sie nach jedem Einschalten den Bildschirm entsperren, um das Telefon zu entschlüsseln. Die einzige andere Möglichkeit zu entschlüsseln ist, das Gerät auf Werkseinstellungen zurückzusetzen und dabei alle Ihre Daten zu löschen.</string>
+  <string name="crypt_keeper_decrypt_methods_title">Gerät entschlüsseln</string>
   <string name="crypt_keeper_desc">"Sie können Ihre Konten, Einstellungen, heruntergeladene Apps mit den dazugehörigen Daten sowie Multimedia- und andere Dateien verschlüsseln. Nach der Verschlüsselung Ihres Geräts ist bei jedem Einschalten die Eingabe einer PIN-Nummer oder eines Passworts erforderlich. Sie können die Verschlüsselung Ihres Geräts nur aufheben, indem Sie das Gerät auf die Werkseinstellungen zurücksetzen. Dabei werden alle Ihre Daten gelöscht.
 
 Die Verschlüsselung dauert mindestens eine Stunde. Vergewissern Sie sich zu Beginn, dass Ihr Akku vollständig geladen ist, und lassen Sie Ihr Gerät angeschlossen, bis die Verschlüsselung abgeschlossen ist. Eine Unterbrechung dieses Vorgangs kann zu teilweisem oder vollständigem Datenverlust führen."</string>

@@ -685,6 +685,7 @@ Grund: \"%s\"."</string>
   <string name="miprofile_switch_on_alertdialog_positive">Anschalten</string>
   <string name="miprofile_switch_on_alertdialog_title">Profilfoto Update</string>
   <string name="missing_name">(Kein Name)</string>
+  <string name="missing_required_permission">Sie haben eine notwendige Berechtigung nicht erteilt.</string>
   <string name="more_call_logs">Detaillierte Anrufliste anzeigen auf i.mi.com</string>
   <string name="move_and_resize">Verschieben und Skalieren</string>
   <string name="multi_number_menu_call">Anruf</string>
@@ -1143,7 +1144,7 @@ Wählen Sie eine der folgenden Optionen:"</string>
   <string name="voip_name">Mi Voice</string>
   <string name="voip_recommend_msg">Tap to use Mi Voice</string>
   <string name="voip_shortcut_name">Mi Voice</string>
-  <string name="voip_video_description">Antippen, um Videonachricht zu senden</string>
+  <string name="voip_video_description">Antippen, um einen VoIP Videoanruf zu machen</string>
   <string name="websiteLabelsGroup">Webseite</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Daten löschen</string>

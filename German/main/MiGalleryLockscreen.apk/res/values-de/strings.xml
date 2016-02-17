@@ -26,4 +26,5 @@
   <string name="theme_apply_success">Sperrbildschirm-Hintergrundbild Angewendet</string>
   <string name="theme_applying">wird angewendet…</string>
   <string name="wlan_download">Nur über WLAN verwenden</string>
+  <string name="wlan_download_cn">Aktualisieren bei WLAN-Verbindung</string>
 </resources>
