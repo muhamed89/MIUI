@@ -179,6 +179,7 @@
   <string name="finished">Abgeschlossen</string>
   <string name="folder_exist">Ordner ist bereits vorhanden</string>
   <string name="folder_name_empty">Ordner Name darf nicht leer sein</string>
+  <string name="need_read_storage_permission">"Explorer benötigt die Berechtigung, auf den internen Speicher zuzugreifen"</string>
   <string name="folder_name_illegal">Ungültiger Ordnername</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Hier drücken&lt;/a&gt;, um zum Papierkorb zu wechseln.</string>
   <string name="ftp_account_req_notice">4-16 Zeichen, Buchstaben und Zahlen, Groß-/Kleinschreibung</string>
