@@ -153,7 +153,7 @@
   <string name="add_pre_message_attachments">Anhänge der vorherigen Nachricht hinzufügen?</string>
   <string name="add_pre_message_attachments_no">Nicht hinzufügen</string>
   <string name="add_pre_message_attachments_yes">Hinzufügen</string>
-  <string name="add_star">Makieren</string>
+  <string name="add_star">Markieren</string>
   <string name="allread">Alle gelesen</string>
   <string name="always_bcc_myself">Bcc immer an mich</string>
   <string name="always_show_images">Zeige stets Bilder von diesem Absender</string>
