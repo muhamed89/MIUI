@@ -94,7 +94,7 @@
   <string name="copy_failed">Kopieren fehlgeschlagen, sieht so aus, als wäre der Speicher voll</string>
   <string name="copy_file_to_kuaipan">Datei auf Kuaipan kopieren</string>
   <string name="copy_to">Kopieren nach…</string>
-  <string name="create_kuaipan_shortcut_pref">Auf Homescreen hinzufügen</string>
+  <string name="create_kuaipan_shortcut_pref">Auf dem Startbildschirm hinzufügen</string>
   <string name="create_new_folder_desctiption">Erstelle Ordner…</string>
   <string name="create_new_folder_failed">Ordnererstellung fehlgeschlagen</string>
   <string name="create_share_link_description">Erstelle Link…</string>
