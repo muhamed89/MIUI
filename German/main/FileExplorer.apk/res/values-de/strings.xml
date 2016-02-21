@@ -79,7 +79,7 @@
   <string name="clean_title">Dateien älter als 30 Tage löschen</string>
   <string name="clean_trash_box">Papierkorb leeren</string>
   <string name="cleaning">Bereinigung läuft…</string>
-  <string name="click_to_switch_volume">Hir antippen, um zwischen internem Speicher und SD-Karte umzuschalten</string>
+  <string name="click_to_switch_volume">Hier antippen, um zwischen internem Speicher und SD-Karte umzuschalten</string>
   <string name="close">Schließen</string>
   <string name="compress_fail">Komprimieren fehlgeschlagen. Eine gleichnamige Datei ist bereits vorhanden.</string>
   <string name="compress_fail_unknown">"Komprimieren fehlgeschlagen. Speicher voll oder unbekannter Fehler."</string>
