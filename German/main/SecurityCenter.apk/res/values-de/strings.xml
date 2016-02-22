@@ -313,7 +313,7 @@
   <string name="power_center_on_time_summary_default">Profil zur geplanten Zeit wechseln</string>
   <string name="power_center_on_time_summary_dynamic">Von %1$s bis %2$s wechseln zu %3$s</string>
   <string name="power_center_on_time_title">Geplant</string>
-  <string name="power_center_ontime_boot">Nach Zeitplan anschalten</string>
+  <string name="power_center_ontime_boot">Nach Zeitplan einschalten</string>
   <string name="power_center_ontime_shutdown">Nach Zeitplan ausschalten</string>
   <string name="power_center_repeat">Wiederholen</string>
   <string name="power_center_state_off">Aus</string>
