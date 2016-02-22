@@ -270,7 +270,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="applications_settings_summary">Apps verwalten, Verknüpfungen für Schnellstart festlegen</string>
   <string name="apply_fingerprint_to_category_title">Fingerabdruck anwenden...</string>
   <string name="apply_now_button_text">Update</string>
-  <string name="apply_password_to_category_title">Passwort anwenden auf...</string>
+  <string name="apply_password_to_category_title">Entsperren anwenden auf...</string>
   <string name="apply_update_fail">Update fehlgeschlagen</string>
   <string name="apps_storage">App Speicher</string>
   <string name="apps_with_restrictions_header">Apps mit Einschränkungen</string>
@@ -396,7 +396,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="battery_info_voltage_units">mV</string>
   <string name="battery_level_title">Akkuladung</string>
   <string name="battery_light_summary">Blinkende LED beim Laden</string>
-  <string name="battery_light_title">Akku LED</string>
+  <string name="battery_light_title">Während des Ladevorgangs leuchtet</string>
   <string name="battery_msg_unaccounted">Der Akkuverbrauch ist eine Näherung von Stromverbrauch und enthält nicht jede Quelle von Batterieentladung. Sonstiges ist die Differenz von dem berechneten ungefähren Stromverbrauch und der eigentlichen beobachteten Entladung der Batterie.</string>
   <string name="battery_saver">Akku-Sparer</string>
   <string name="battery_saver_turn_on_automatically_never">Nie</string>
@@ -631,10 +631,10 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="bluetooth_unlock_turned_on">Eingeschaltet</string>
   <string name="bluetooth_untether_blank">Tethering für %1$s wird ausgeschaltet.</string>
   <string name="bluetooth_visibility_timeout">Zeit für Sichtbarkeit</string>
-  <string name="breathing_light_color_menu_title">LED Farbe</string>
-  <string name="breathing_light_color_summary">LED Farbe bei Eingang einer Benachrichtigung</string>
+  <string name="breathing_light_color_menu_title">Licht Farbe</string>
+  <string name="breathing_light_color_summary">Licht Farbe bei Eingang einer Benachrichtigung</string>
   <string name="breathing_light_freq_summary">Zeit zwischen dem Blinken der LED</string>
-  <string name="breathing_light_freq_title"> Blinkfrequenz der LED</string>
+  <string name="breathing_light_freq_title">Licht Pulsfrequenz Benachrichtigung</string>
   <string name="brightness">Helligkeit</string>
   <string name="brightness_auto_adjust_off">Die Bildschirmhelligkeit bleibt in jeder Umgebung unverändert</string>
   <string name="brightness_auto_adjust_on">Die Bildschirmhelligkeit wird je nach Umgebungslicht variiert</string>
@@ -651,7 +651,7 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="builtin_keyboard_settings_summary">Hardware Tastatur Einstellungen</string>
   <string name="builtin_keyboard_settings_title">Hardware Tastatur</string>
   <string name="button_disconnect_network">Netzwerk trennen</string>
-  <string name="button_light_timeout">Tastenbeleuchtungsdauer</string>
+  <string name="button_light_timeout">Keep button lights on</string>
   <string name="button_text_login">Anmelden</string>
   <string name="button_text_reboot_now">Neustarten</string>
   <string name="cache_header_label">Cache</string>
@@ -712,7 +712,7 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="cell_broadcast_settings">Notfallbenachrichtigung</string>
   <string name="cellular_data_summary">Datennutzung über Mobilfunknetz zulassen</string>
   <string name="cellular_data_title">Handy-Daten</string>
-  <string name="change_password">Passwort ändern</string>
+  <string name="change_password">Sperrbildschirm ändern</string>
   <string name="change_security_lock">Andere Entsperrmethoden</string>
   <string name="change_storage">Speicher tauschen</string>
   <string name="charging_sounds_title">Ladetöne</string>
@@ -1128,11 +1128,11 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="dndm_auto_time_turn_on_title">Nachtmodus automatisch einschalten</string>
   <string name="dndm_dlg_remove_ok">Entfernen</string>
   <string name="dndm_dlg_remove_vip">Aus Ausnahmliste entfernen?</string>
-  <string name="dndm_menu_add_vip_custom">Ausnahme hinzufügen</string>
+  <string name="dndm_menu_add_vip_custom">Hinzufügen</string>
   <string name="dndm_mute_all">Lautlose Anrufe und Nachrichten</string>
   <string name="dndm_notification">Nachtmodus eingeschaltet</string>
   <string name="dndm_open">Nachtmodus</string>
-  <string name="dndm_repeated_call_setting_title">Wiederholungsanruf</string>
+  <string name="dndm_repeated_call_setting_title">Wiederholungsanrufe</string>
   <string name="dndm_repeated_call_summary_3min">Ruft der gleiche Teilnehmer innerhalb 3 Minuten wiederholt an wird der Lautlos-Modus aufgehoben</string>
   <string name="dndm_repeated_call_summary_none">Ruft der gleiche Teilnehmer wiederholt an bleibt das Telfon im Lautlos-Modus</string>
   <string name="dndm_special_call_setting_group">Ausnahmen</string>
@@ -1150,6 +1150,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="dndm_vip_list_custom_group">Ausnahmen</string>
   <string name="dndm_vip_list_group">Ausnahmeliste</string>
   <string name="dndm_wristband">Mi Band</string>
+  <string name="dndm_wristband">Aktivieren mit Mi-Band</string>
   <string name="dndm_wristband_detailed">Nachtmodus einschalten, wenn das MiBand erkennt, dass Sie innerhalb einer Stunde vor der geplanten Zeit schlafen</string>
   <string name="dndm_wristband_detailed2">Nachtmodus ausschalten, wenn das MiBand erkennt, dass Sie innerhalb einer Stunde vor der geplanten Zeit aufwachen</string>
   <string name="do_not_disturb_mode">Nachtmodus</string>
@@ -1333,7 +1334,7 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="filter_write_settings_apps">Kann Systemeinstellungen ändern</string>
   <string name="fingerprint_add_max">Sie können bis zu %d Fingerabdrücke hinzufügen</string>
   <string name="fingerprint_add_title">Fingerabdruck hinzufügen</string>
-  <string name="fingerprint_and_password_entrance_title">Passwort &amp; Fingerabdruck</string>
+  <string name="fingerprint_and_password_entrance_title">Sperrbildschirm &amp; Fingerabdruck</string>
   <string name="fingerprint_enroll_button_add">Einen weiteren hinzufügen</string>
   <string name="fingerprint_enroll_button_next">Weiter</string>
   <string name="fingerprint_identificating_msg">Fingerabdruck wird gescannt…</string>  
@@ -1521,7 +1522,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="inactive_apps_title">Inaktive Apps</string>
   <string name="include_app_data_title">App-Daten einbeziehen</string>
   <string name="incoming_call_breathing_light_color_title">Anruffarbe</string>
-  <string name="incoming_call_breathing_light_freq_title">Anrufe LED Blinkfrequenz</string>
+  <string name="incoming_call_breathing_light_freq_title">Anrufe Pulsfrequenz</string>
   <string name="incoming_call_volume_title">Klingelton</string>
   <string name="information_dialog_button_text">Verstanden</string>
   <string name="input_method">Eingabemethode</string>
@@ -1637,7 +1638,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="layout_size_small">XS</string>
   <string name="layout_size_small_text">Sehr klein</string>
   <string name="led_colors_summary">Benachrichtigungen</string>
-  <string name="led_frequence_summary">Blinkintervall der LED</string>
+  <string name="led_frequence_summary">Set pulse interval</string>
   <string name="led_pulse_summary">LED blinkt bei eingehenden Benachrichtigungen</string>
   <string name="led_settings">LED-Benachrichtigung</string>
   <string name="legacy_dhcp_client">Alten DHCP Client verwenden</string>
@@ -1973,7 +1974,7 @@ Um auch Musik, Bilder und sonstige Nutzerdaten zu löschen, muss der "<b>USB-Spe
   <string name="miui_screensaver_usage">Einmal eingeschaltet, werden Bilder aus dem ausgewählten Album alle 5 Sekunden nach abschalten des Bildschirms angezeigt.</string>
   <string name="miui_silent_title">Lautlos Modus</string>
   <string name="mms_breathing_light_color_title">Nachrichtenfarbe</string>
-  <string name="mms_breathing_light_freq_title">Nachrichten Blink Frequenz</string>
+  <string name="mms_breathing_light_freq_title">Nachrichten Pulsfrequenz</string>
   <string name="mobile_connect_to_internet">Bitte stellen Sie eine Verbindung zum Internet her.</string>
   <string name="mobile_data_always_on">Mobile Datenverbindung immer ein</string>
   <string name="mobile_data_always_on_summary">Datenverbindung aufrecht erhalten, auch wenn WLAN aktiv ist (zum schnellen Wechsel zwischen Netzwerken).</string>
@@ -2063,7 +2064,7 @@ Betriebssystem auswählen:"</string>
   <string name="music_hifi_summary">Reduziert das Rauschen und Verzerrungen und erhöht die Audioqualität.</string>
   <string name="music_hifi_title">Hi-Fi Audio</string>
   <string name="music_hifi_volume">Hi-Fi Lautstärke</string>
-  <string name="music_mi_effect_summary">Mi Klangverbesserung bei Kopfhörer verwenden</string>
+  <string name="music_mi_effect_summary">Mi Klangverbesserung bei Lautsprecher verwenden</string>
   <string name="music_mi_effect_title">Mi Klangverbesserung</string>
   <string name="music_title_dolby_control">Dolby-Digital Plus</string>
   <string name="musicfx_title">Musikeffekte</string>
@@ -2143,7 +2144,7 @@ Betriebssystem auswählen:"</string>
   <string name="not_installed">Nicht installiert</string>
   <string name="notification_app_settings_button">Benachrichtigungseinstellungen</string>
   <string name="notification_breathing_light_color_title">Benachrichtigungsfarbe</string>
-  <string name="notification_breathing_light_freq_title">Benachrichtigungen LED Frequenz</string>
+  <string name="notification_breathing_light_freq_title">Benachrichtigungen Pulsfrequenz</string>
   <string name="notification_listener_security_warning_summary">%1$s darf alle Benachrichtigungen lesen, die vom System oder einer installierten App gesendet werden. Darin können personenbezogene Daten wie Kontaktnamen oder Inhalte der an Sie gesendeten Nachrichten enthalten sein. Der Listener kann diese Benachrichtigungen außerdem schließen oder Schaltflächen in den Benachrichtigungen betätigen.</string>
   <string name="notification_listener_security_warning_title">%1$s aktivieren?</string>
   <string name="notification_log_title">Benachrichtigungsprotokoll</string>
@@ -2257,7 +2258,7 @@ Betriebssystem auswählen:"</string>
   <string name="passpoint_content">%1$s Zugangsdaten</string>
   <string name="passpoint_label">Gespeichert via</string>
   <string name="passwordIncorrect">Das eingegebene Passwort ist falsch</string>
-  <string name="password_entrance_title">Passwort</string>
+  <string name="password_entrance_title">Sperrbildschirm</string>
   <string name="password_guard">Passwort</string>
   <string name="performance_category">Leistung</string>
   <string name="permission_detail_info">Rechte Details</string>
@@ -2767,7 +2768,7 @@ Um Screen-Pinning zu nutzen:
   <string name="search_vpn">VPN</string>
   <string name="search_wallpaper">Hintergrund</string>
   <string name="search_wifi">WLAN</string>
-  <string name="secure_keyguard_business_title">Sperrbildschirm-Passwort</string>
+  <string name="secure_keyguard_business_title">&gt;Sperrbildschirm einstellen</string>
   <string name="secure_lock_encryption_warning">"Da Sie einen Barrierefreiheitsdienst eingeschaltet haben, wird das Gerät Ihre Bildschirmsperre nicht verwenden, um die Datenverschlüsselung zu verbessern."</string>
   <string name="security_enable_widgets_disabled_summary">Vom Administrator deaktiviert</string>
   <string name="security_enable_widgets_title">Widgets aktivieren</string>
@@ -3311,11 +3312,11 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="tts_status_ok">%1$s wird unterstützt</string>
   <string name="tts_status_requires_network">%1$s erfordert eine Netzwerkverbindung</string>
   <string name="tts_status_title">Standard Sprache</string>
-  <string name="turn_off_common_password_confirm_msg">Das Passwort wird ebenfalls deaktiviert.</string>
+  <string name="turn_off_common_password_confirm_msg">Sperrbildschirm wird ebenfalls deaktiviert.</string>
   <string name="turn_off_radio">Mobilfunkverbindung ausschalten</string>
   <string name="turn_off_security_lock">Sperre ausschalten</string>
   <string name="turn_on_radio">Radio einschalten</string>
-  <string name="turn_on_security_lock">Passwort hinzufügen</string>
+  <string name="turn_on_security_lock">Sperrbildschirm wählen</string>
   <string name="uicc_eject">UICC-Speicher auswerfen</string>
   <string name="uicc_eject_summary">Werfen Sie den UICC-Speicher aus, damit Sie Ihn sicher trennen können</string>
   <string name="uicc_format">Lösche UICC-Speicher</string>
@@ -3630,11 +3631,11 @@ Jeder Nutzer kann aktualisierte App-Berechtigungen im Namen aller anderen Nutzer
   <string name="volume_notification_description">Benachrichtigungen</string>
   <string name="volume_notification_mute">Benachrichtigungen lautlos</string>
   <string name="volume_restore">Zurücksetzen</string>
-  <string name="volume_restore_alert">"Ihre aktuellen Lautstärkeeinstellungen werden gelöscht."</string>
+  <string name="volume_restore_alert">"Alle Lautstärke Einstellungen auf Werkseinstellungen zurücksetzen?"</string>
   <string name="volume_ring_description">Klingelton &amp; Benachrichtigungen</string>
   <string name="volume_ring_mute">Klingelton &amp; Benachrichtigungen lautlos</string>
   <string name="volume_system_description">Kamera Auslöser, Bildschirmsperre und andere System Benachrichtigungen</string>
-  <string name="volume_voice_description">Sprache</string>
+  <string name="volume_voice_description">Im Telefongespräch</string>
   <string name="vpn_cancel">Abbrechen</string>
   <string name="vpn_configure">Konfiguration</string>
   <string name="vpn_connect">Verbinden</string>
@@ -4055,7 +4056,7 @@ Das Einrichten des Telefons kann eine erhöhte Netzwerkaktivität erfordern."</s
   <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Erstellen des Ordners fehlgeschlagen</string>
   <string name="wifi_wapi_cert_mgmt_subdir_exist">Bitte geben Sie einen anderen Ordnernamen ein. Dieser ist bereits vorhanden.</string>
   <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Ordnernamen eingeben</string>
-  <string name="wifi_wapi_cert_mgmt_titlebar">WAPI Zertifikat Verwaltung</string>
+  <string name="wifi_wapi_cert_mgmt_titlebar">WAPI Zertifikate</string>
   <string name="wifi_wapi_cert_mgmt_user_dont_exist">Bitte geben Sie den Benutzer Zertifikat Namen ein.</string>
   <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">Das Benutzerzertifikat-Format ist falsch!</string>
   <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Bitte den Namen des Benutzer-Zertifikats eingeben</string>
@@ -4094,7 +4095,7 @@ Das Einrichten des Telefons kann eine erhöhte Netzwerkaktivität erfordern."</s
   <string name="work_sim_title">Arbeits-SIM</string>
   <string name="wps_category">WPS</string>
   <string name="wps_connect_summary">Stellen Sie sicher, das der Router WPS unterstützt und es eingeschaltet ist.</string>
-  <string name="wps_connect_title">Über WPS verbinden</string>
+  <string name="wps_connect_title">WPS Taster</string>
   <string name="write_tag">Schreiben</string>
   <string name="wrong_pin_code_pukked">Falscher SIM PIN-Code, Sie müssen jetzt Ihren Telefonanbieter kontaktieren, um Ihr Gerät zu entsperren.</string>
   <string name="xiaomi_account">Mi Konto</string>
