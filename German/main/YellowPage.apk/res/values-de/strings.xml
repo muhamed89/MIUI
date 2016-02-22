@@ -42,7 +42,7 @@
   <string name="confirm_delete_call_log_title">Anrufliste löschen?</string>
   <string name="confirm_to_add_blacklist">Diese Nummer blockieren?</string>
   <string name="confirm_to_remove_blacklist">Diese Nummer nicht blockieren?</string>
-  <string name="confirm_to_send_to_desktop">%s auf dem Homescreen hinzufügen?</string>
+  <string name="confirm_to_send_to_desktop">%s auf dem Startbildschirm hinzufügen?</string>
   <string name="contact_detail_calllog_call_note_tips">Anrufnotizen</string>
   <string name="contact_detail_calllog_call_record_tips">Anrufaufnahme</string>
   <string name="content_desc_send_sms">SMS senden</string>
@@ -353,7 +353,7 @@ Gesamtbetrag: %3$s RMB"</string>
   <string name="scan">Suchen</string>
   <string name="select_package_before_buy">Paket auswählen</string>
   <string name="send_shortcut_failed">"Senden fehlgeschlagen"</string>
-  <string name="send_shortcut_success">Auf Homescreen hinzugefügt</string>
+  <string name="send_shortcut_success">Auf dem Startbildschirm hinzugefügt</string>
   <string name="sending_shortcut">Wird gesendet</string>
   <string name="service_unavailiable">Dienst nicht verfügbar</string>
   <string name="shop_recommendation_format">%1$s: %2$s</string>
