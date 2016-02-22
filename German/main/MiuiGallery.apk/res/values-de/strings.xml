@@ -94,7 +94,7 @@
   <string name="baby_album_sharers_page_title">Teile mit Familie</string>
   <string name="baby_birthday">Geburtstag</string>
   <string name="baby_lock_wallpaper">Sperrbildschirm Hintergrund</string>
-  <string name="baby_lock_wallpaper_cancelled">Standard Lockscreen-Hintergrund eingestellt</string>
+  <string name="baby_lock_wallpaper_cancelled">Standard Sperrbildschirm-Hintergrund eingestellt</string>
   <string name="baby_lock_wallpaper_save_settings_msg">Einstellungen übernehmen?</string>
   <string name="baby_lock_wallpaper_title">Babyfotos als Sperrbildschirm Hintergrund verwenden</string>
   <string name="baby_name_cannot_empty">Name eingeben</string>
