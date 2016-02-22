@@ -680,7 +680,7 @@ Grund: \"%s\"."</string>
   <string name="miprofile_request_time_expired_deleted">Anfragen, die älter als 1 Woche sind, werden automatisch gelöscht</string>
   <string name="miprofile_save_alertdialog_message">Ihre Karte wird automatisch an diesen Kontakt versendet</string>
   <string name="miprofile_save_alertdialog_title">Kontaktkarte empfangen</string>
-  <string name="miprofile_switch_off_alertdialog_message">Sie werden keine Kontaktkarten mit anderen Personen austauschen können. Ihre Kontake können Ihr Profilvideo nicht sehen.</string>
+  <string name="miprofile_switch_off_alertdialog_message">Sie werden keine Kontaktkarten mit anderen Personen austauschen können.</string>
   <string name="miprofile_switch_on_alertdialog_message">Tauschen Sie die Kontaktkarten aus, um das aktualisierte Profilfoto anzuzeigen</string>
   <string name="miprofile_switch_on_alertdialog_positive">Einschalten</string>
   <string name="miprofile_switch_on_alertdialog_title">Profilfoto Update</string>
