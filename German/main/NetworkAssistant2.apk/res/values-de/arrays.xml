@@ -40,7 +40,7 @@
     <string-array name="traffic_type">
         <item>"Mobil "</item>
         <item>"WLAN "</item>
-        <item>"Data saved "</item>
+        <item>"Daten gespeichert "</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
         <item>"Mobilverbrauch "</item>
