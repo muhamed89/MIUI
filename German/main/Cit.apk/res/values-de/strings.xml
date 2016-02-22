@@ -77,7 +77,7 @@ Telefon, wie bei einem Anruf halten, ins Mikrofon sprechen. Die Stimme sollte mi
   <string name="cit_build_finger_failed">Build-Fingerabdruck FEHLGESCHLAGEN</string>
   <string name="cit_build_finger_passed">Build-Fingerabdruck ERFOLGREICH</string>
   <string name="cit_button_light_off">Tastenbeleuchtung ausschalten</string>
-  <string name="cit_button_light_on">Tastenbeleuchtung anschalten</string>
+  <string name="cit_button_light_on">Tastenbeleuchtung einschalten</string>
   <string name="cit_calibration_fail">Kalibrierung fehlgeschlagen</string>
   <string name="cit_calibration_pass">Kalibrierung erfolgreich</string>
   <string name="cit_camera_calibration_summary">"Testanweisungen:
