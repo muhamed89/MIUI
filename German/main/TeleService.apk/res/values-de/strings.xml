@@ -780,7 +780,7 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="msim_disable_sim_card_summary_default_card">"Diese Karte wird derzeit als Standard-SIM eingestellt. Wenn Sie diese nicht mehr verwenden, können Sie nicht mehr Anrufe betätigen oder mobile Datenverbindungen benutzen. Sie können diese SIM-Karte stoppen, nachdem Sie eine andere Sim-Karte als Standard eingestellt haben."</string>
   <string name="msim_disable_sim_card_summary_non_default_card">Sie können möglicherweise nicht mehr telefonieren oder mobile Datenverbindungen benutzen. Nicht mehr %s SIM Karte benutzen?</string>
   <string name="msim_disable_sim_card_title">SIM Karte nicht mehr nutzen</string>
-  <string name="msim_enable_sim">Anschalten</string>
+  <string name="msim_enable_sim">Einschalten</string>
   <string name="msim_general_setting">Einstellungen</string>
   <string name="msim_has_been_disabled">(Gesperrt)</string>
   <string name="msim_info_editor_name">SIM-Kartenname ändern</string>
@@ -937,7 +937,7 @@ Werde stattdessen bevorzugtes Netzwerk nutzen."</string>
   <string name="ota_listen">Folge den gesprochenen Anweisungen</string>
   <string name="ota_next">Weiter</string>
   <string name="ota_progress">Warten Sie, solange Ihr Handy eingerichtet wird</string>
-  <string name="ota_skip_activation_dialog_message">"Wenn Sie die Aktivierung überspringen, können Sie keine Anrufe tätigen oder sich mit mobilen Datennetzen (WLAN Netzverbindungen funtionieren weiterhin) verbinden. Bis Sie Ihr Handy aktivieren, werden Sie jedesmal beim Anschalten zur Aktivierung gefragt."</string>
+  <string name="ota_skip_activation_dialog_message">"Wenn Sie die Aktivierung überspringen, können Sie keine Anrufe tätigen oder sich mit mobilen Datennetzen (WLAN Netzverbindungen funtionieren weiterhin) verbinden. Bis Sie Ihr Handy aktivieren, werden Sie jedesmal beim Einschalten zur Aktivierung gefragt."</string>
   <string name="ota_skip_activation_dialog_skip_label">Überspringen</string>
   <string name="ota_skip_activation_dialog_title">Aktivierung überspringen?</string>
   <string name="ota_spc_failure">EXCESS SPC FAILURES</string>
