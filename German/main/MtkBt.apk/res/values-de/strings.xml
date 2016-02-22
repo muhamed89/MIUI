@@ -82,7 +82,7 @@
   <string name="bluetooth_ftp_server_connected_notify_title">%s ist per FTP verbunden</string>
   <string name="bluetooth_ftp_server_disconnect_message">Von %s trennen</string>
   <string name="bluetooth_ftp_server_disconnect_title">Trenne Bluetooth FTP</string>
-  <string name="bluetooth_ftp_server_enable_summary">Anschalten</string>
+  <string name="bluetooth_ftp_server_enable_summary">Einschalten</string>
   <string name="bluetooth_ftp_server_enable_title">FTP Server</string>
   <string name="bluetooth_ftp_server_off_sd_unmounted">FTP Server fährt wegen einer entnommenen SD-Karte herunter.</string>
   <string name="bluetooth_ftp_server_permission_summary_fullctrl">Volle Kontrolle</string>
@@ -111,7 +111,7 @@
   <string name="bluetooth_map_server_connect_notify_title">%1$s verschafft sich auf Ihre Nachrichten Zugang</string>
   <string name="bluetooth_map_server_disconnect_message">Verbindung mit %1$s trennen?</string>
   <string name="bluetooth_map_server_disconnect_title">Verbindung von Remote-Message-Access trennen</string>
-  <string name="bluetooth_map_server_enable_summary">Anschalten</string>
+  <string name="bluetooth_map_server_enable_summary">Einschalten</string>
   <string name="bluetooth_map_server_enable_title">Remote-Message-Access</string>
   <string name="bluetooth_map_server_no">Nein</string>
   <string name="bluetooth_map_server_no_account">Kein verfügbares E-mail Konto</string>
@@ -119,7 +119,7 @@
   <string name="bluetooth_map_server_sim_index_title">SIM auswählen</string>
   <string name="bluetooth_map_server_yes">Ja</string>
   <string name="bluetooth_printing">Drucke %1$s</string>
-  <string name="bluetooth_simap_server_enable_summary">Anschalten</string>
+  <string name="bluetooth_simap_server_enable_summary">Einschalten</string>
   <string name="bluetooth_simap_server_enable_title">Remote SIM Modus</string>
   <string name="bluetooth_simap_server_settings">Remote SIM Einstellungen</string>
   <string name="bluetooth_simap_server_sim_index_summary_sim1">SIM1</string>
@@ -209,7 +209,7 @@ Verschicken fortsetzen?"</string>
   <string name="bt_prxr_settings_busy_message">Lädt. Bitte warten...</string>
   <string name="bt_prxr_settings_busy_title">Näherungs-Reporter</string>
   <string name="bt_prxr_settings_enable_fail">Näherungs-Reporter Fehler aktivieren/deaktivieren</string>
-  <string name="bt_prxr_settings_enable_summary">Anschalten</string>
+  <string name="bt_prxr_settings_enable_summary">Einschalten</string>
   <string name="bt_prxr_settings_enable_title">Näherungs-Reporter</string>
   <string name="bt_prxr_settings_title">Näherungs-Reportereinstellungen</string>
   <string name="bt_share_mgmt_notification_message">Auswählen, um den Bluetooth-Freigabeverlauf anzuzeigen.</string>
