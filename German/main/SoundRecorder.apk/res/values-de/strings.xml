@@ -48,8 +48,8 @@
   <string name="pause">Pause</string>
   <string name="preference_enable_earpiece_summary">Nur über Kopfhörer abspielen</string>
   <string name="preference_enable_earpiece_title">Kopfhörer benutzen</string>
-  <string name="preference_led_indicator">Im Lockscreen aufnehmen</string>
-  <string name="preference_led_indicator_prompt">Status der Aufnahme in der Statusbar sowie rote LED im Lockscreen anzeigen</string>
+  <string name="preference_led_indicator">Im Sperrbildschirm aufnehmen</string>
+  <string name="preference_led_indicator_prompt">Status der Aufnahme in der Statusbar sowie rote LED im Sperrbildschirm anzeigen</string>
   <string name="preference_record_scenes_dialog_title">Aufnahmeszene auswählen</string>
   <string name="preference_record_type_dialog_title">Aufnahmetyp auswählen</string>
   <string name="preference_record_type_title">Aufnahmetyp</string>
