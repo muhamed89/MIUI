@@ -24,7 +24,7 @@
   <string name="other_settings_user_experience">Benutzer-Feedback</string>
   <string name="other_settings_user_experience_summary">Anonyme Nutzerdaten senden, um MIUI zu verbessern (%s)</string>
   <string name="other_settings_user_experience_summary1">Datenschutzbestimmungen</string>
-  <string name="page_layout_label">Passen Sie die Schriftgröße und das Layout für den Homescreen, die Benachrichtigungsleiste, die Wahltastatur und weitere an.</string>
+  <string name="page_layout_label">Passen Sie die Schriftgröße und das Layout für den Startbildschirm, die Benachrichtigungsleiste, die Wahltastatur und weitere an.</string>
   <string name="page_layout_title">Systemlayout</string>
   <string name="pref_title_data_slot">Bevorzugte Daten-SIM-Karte</string>
   <string name="pref_title_voice_slot">Bevorzugte Telefon-SIM-Karte</string>
