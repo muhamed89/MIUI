@@ -432,7 +432,6 @@
   <string name="recipients_over_size">Zu viele Empfänger</string>
   <string name="recording_failed">"Aufnahme fehlgeschlagen"</string>
   <string name="red_package_btn">Öffnen</string>
-  <string name="red_package_default_hint">Gratulation und viel Glück!</string>
   <string name="refill_now">Jetzt aufladen</string>
   <string name="refresh">Aktualisieren</string>
   <string name="refresh_failed">Update fehlgeschlagen</string>
@@ -567,6 +566,9 @@
   <string name="timed_message_to">an</string>
   <string name="title_collapse_sp_messages">Anbieternachrichten zusammenführen</string>
   <string name="title_date_type">Nachrichten-Zeitstempel</string>
+  <string name="title_recv_red_package">Holen Sie sich ein rote Paket</string>
+  <string name="title_red_package">Immer reich und viel Glück</string>
+  <string name="title_send_red_package">Überprüfen Sie das rote Paket</string>
   <string name="title_show_blocked_messages">Zeige geblockte SMS</string>
   <string name="title_show_sms_template">Überprüfe SMS nach Bestätigungscodes</string>
   <string name="title_show_sms_template_in">Überprüfe SMS auf OTP</string>
