@@ -465,7 +465,7 @@ Grund: \"%s\"."</string>
   <string name="import_all_vcard_string">Alle vCard-Dateien importieren</string>
   <string name="import_contact_card_button">Kontakt importieren</string>
   <string name="import_failure_no_vcard_file">Keine vCard-Dateien auf der SD-Karte gefunden</string>
-  <string name="import_from_onekey_migrate">Importieren</string>
+  <string name="import_from_onekey_migrate">Über Mi Mover importieren</string>
   <string name="import_from_other_phone">Von anderem Telefon importieren</string>
   <string name="import_from_sdcard">aus Speicher importieren</string>
   <string name="import_from_sim">Importiere aus der SIM-Karte</string>
