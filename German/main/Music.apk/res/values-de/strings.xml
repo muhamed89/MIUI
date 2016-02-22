@@ -300,10 +300,12 @@
   <string name="more_online_release">Mehr</string>
   <string name="more_online_song">Mehr</string>
   <string name="more_online_suggest">Mehr</string>
+  <string name="more_settings">Erweiterte Einstellungen</string>
+  <string name="more_settings_summary">Download einstellungen, Schlafmodus, Flusssteuerung , Dateifilterung und so weiter.</string>
   <string name="multichoice">Auswählen</string>
   <string name="music_browser_label">Musik</string>
   <string name="music_filter">Audiodateien filtern</string>
-  <string name="music_quality">Audioqualität</string>
+  <string name="music_service">Musikdienste</string>
   <string name="music_settings">Musik</string>
   <string name="music_traffic">Musik-Datentarif</string>
   <string name="music_traffic_summary">Hören und laden Sie Lieder herunter, ohne Daten zu verwenden</string>
@@ -357,7 +359,6 @@
   <string name="online_playlist_is_empty">Wiedergabeliste ist leer</string>
   <string name="order_pending">Erwarte Bestätigung</string>
   <string name="order_process_fail">"Konto konnte nicht autorisiert werden. Warten Sie einen Moment und versuchen Sie es erneut."</string>
-  <string name="page_local_setting">Einstellungen</string>
   <string name="pay">Zahlung:</string>
   <string name="pay_now">Jetzt bezahlen</string>
   <string name="payment_fail">Zahlung fehlgeschlagen</string>
@@ -410,6 +411,7 @@
   <string name="send_to">Teilen</string>
   <string name="send_to_title">Senden an (%1$s)</string>
   <string name="server_error">Serverfehler. Bitte versuche es später nochmal</string>
+  <string name="service_and_settings">Service und Einstellungen</string>
   <string name="service_stop">Dienst eingestellt</string>
   <string name="set_album_successful">Album gespeichert</string>
   <string name="set_as_ring">Als Klingelton auswählen</string>
@@ -420,6 +422,7 @@
   <string name="set_lyric_successful">Songtext gespeichert</string>
   <string name="set_ringtones_failed">"Klingelton konnte nicht eingestellt werden"</string>
   <string name="set_ringtones_successful">%s als Klingelton eingestellt</string>
+  <string name="settings">Einstellungen</string>
   <string name="settings_notification_text">Zeige Player Widget in Benachrichtigungsbildschirm</string>
   <string name="settings_notification_title">Benachrichtigung Schatten-Widget</string>
   <string name="share_append_text">Aus @MIUI</string>
@@ -453,6 +456,7 @@
   <string name="streamloadingtext">Verbinde zu %s</string>
   <string name="sub_explanation">Musik-Datentarif</string>
   <string name="sub_explanation_message">"Musik-Datentarif wird zurzeit nur von China Unicom unterstützt. Ihr Anbieter unterstützt diese Funktion nicht. Sie können Ihren regulären Datentarif verwenden."</string>
+  <string name="subed">Auf</string>
   <string name="suggest_text">Menschen denen das gefällt, gefällt auch</string>
   <string name="sync_only_in_wifi">Nur mit WLAN synchronisieren</string>
   <string name="sync_only_in_wifi_summary">Synchronisieren Sie Ihre Musik zwischen all Ihren Geräten. Die Verwendung der mobilen Datenverbindung kann zu erhöhten Kosten führen.</string>
@@ -469,6 +473,8 @@
   <string name="tab_track">Titel</string>
   <string name="tab_track_list">Titel</string>
   <string name="take_effect_afater_restart">Damit die Einstellung wirksam wird, muss die App neu gestartet werden.</string>
+  <string name="ticket_summary">Kaufen Sie Eintrittskarten für Shows, Konzerte, Theaterstücke und andere Veranstaltungen</string>
+  <string name="ticket_title">Show Eintrittskarten</string>
   <string name="time_to_upgrade">Sie sollten Mi Musik aktualisieren</string>
   <string name="title_online_artist">Beliebte Interpreten</string>
   <string name="title_online_billboard">Charts</string>
