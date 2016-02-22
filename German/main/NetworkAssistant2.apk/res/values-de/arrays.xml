@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Diese Woche "</item>
+        <item>"Heute "</item>
+        <item>"In diesem Monat "</item>
+    </string-array>
     <string-array name="date_of_traffic">
         <item>"Gestern "</item>
         <item>"Heute "</item>
