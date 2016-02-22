@@ -811,7 +811,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="option_not_in_group">Entfernen</string>
   <string name="option_not_star">Aus Favoriten entfernen</string>
   <string name="option_rename_group">Umbenennen</string>
-  <string name="option_send_to_desktop">Auf dem Homescreen hinzufügen</string>
+  <string name="option_send_to_desktop">Auf dem Startbildschirm hinzufügen</string>
   <string name="option_send_to_others">Weiterleiten</string>
   <string name="option_view_contact">Anzeigen</string>
   <string name="option_view_group">Anzeigen</string>
@@ -976,7 +976,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="select_none">Nichts ausgewählt</string>
   <string name="select_show_contacts">Kontaktliste</string>
   <string name="select_vcard_title">vCard-Datei auswählen</string>
-  <string name="send_contact_shortcut_todesktop_success">Auf Homescreen hinzugefügt</string>
+  <string name="send_contact_shortcut_todesktop_success">Auf dem Startbildschirm hinzugefügt</string>
   <string name="send_to_voicemail_checkbox">Anrufe direkt an die Mailbox weiterleiten</string>
   <string name="separatorJoinAggregateAll">Alle Kontakte</string>
   <string name="separatorJoinAggregateSuggestions">Vorgeschlagene Kontakte</string>
@@ -1165,7 +1165,7 @@ Wählen Sie eine der folgenden Optionen:"</string>
   <string name="yellowpage_navigation_search_select_city">Bitte Stadt auswählen</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Wird geladen…</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">Keine Netzwerkverbindung</string>
-  <string name="yellowpage_navigation_send_to_desktop_succeeded">Auf Homesceen hinzugefügt</string>
+  <string name="yellowpage_navigation_send_to_desktop_succeeded">Auf dem Startbildschirm hinzugefügt</string>
   <string name="yellowpage_search_the_yellowpage">Gelbe Seiten durchsuchen</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Elemente auswählen</string>
