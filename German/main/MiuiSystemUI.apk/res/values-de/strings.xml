@@ -68,7 +68,7 @@
   <string name="camera_key_action_none_title">Keine Aktion</string>
   <string name="camera_key_action_setting_title">MI-Taste</string>
   <string name="camera_key_action_shortcut_call">Anrufen</string>
-  <string name="camera_key_action_shortcut_home">Zurück zum Homescreen</string>
+  <string name="camera_key_action_shortcut_home">Zurück zum Startbildschirm</string>
   <string name="camera_key_action_shortcut_screenshot">Screenshot</string>
   <string name="camera_key_action_shortcut_search">Suchen</string>
   <string name="camera_key_action_shortcut_title">Verknüpfung</string>
