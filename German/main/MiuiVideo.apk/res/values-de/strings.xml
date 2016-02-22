@@ -15,7 +15,7 @@
   <string name="adjust_position_next_media_notice">Weiter</string>
   <string name="adjust_position_prev_media_notice">Zurück</string>
   <string name="ads_control">Zeige Werbung</string>
-  <string name="ads_control_desc">Display beim App öffnen anzeigen</string>
+  <string name="ads_control_desc">Bildschirm beim App öffnen anzeigen</string>
   <string name="ads_ignore">Ignorieren</string>
   <string name="airkan_control_device_des">Um die Wiedergabe zu steuern, berühren Sie die Leiste am unteren Rand</string>
   <string name="airkan_device_xiaomi_phone">Xiaomi</string>
