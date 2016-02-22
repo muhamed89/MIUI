@@ -682,7 +682,7 @@ Grund: \"%s\"."</string>
   <string name="miprofile_save_alertdialog_title">Kontaktkarte empfangen</string>
   <string name="miprofile_switch_off_alertdialog_message">Sie werden keine Kontaktkarten mit anderen Personen austauschen können. Ihre Kontake können Ihr Profilvideo nicht sehen.</string>
   <string name="miprofile_switch_on_alertdialog_message">Tauschen Sie die Kontaktkarten aus, um das aktualisierte Profilfoto anzuzeigen</string>
-  <string name="miprofile_switch_on_alertdialog_positive">Anschalten</string>
+  <string name="miprofile_switch_on_alertdialog_positive">Einschalten</string>
   <string name="miprofile_switch_on_alertdialog_title">Profilfoto Update</string>
   <string name="missing_name">(Kein Name)</string>
   <string name="missing_required_permission">Sie haben eine notwendige Berechtigung nicht erteilt.</string>
