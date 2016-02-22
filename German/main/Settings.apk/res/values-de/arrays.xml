@@ -649,8 +649,8 @@ Note: Nur für Ubuntu 8.04!"</item>
         <item>Verweigern</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
-        <item>Single-Mic Rauschunterdrückung</item>
-        <item>Dual-Mic Rauschunterdrückung</item>
+        <item>Single Mic Rauschunterdrückung</item>
+        <item>Dual Mic Rauschunterdrückung</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>Gesichtserkennung</item>
