@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_not_found">Anwendung ist nicht auf dem Telefon installiert.</string>
-  <string name="add_screen">Schaltfläche "Bildschirm hinzufügen"</string>
+  <string name="add_screen">Bildschirm hinzufügen</string>
   <string name="app_already_exist">App bereits vorhanden</string>
   <string name="app_being_backup_message">App wurde gesichert</string>
   <string name="app_being_restored_message">App wurde wiederhergestellt</string>
@@ -61,7 +61,7 @@
   <string name="default_folder_title_tools">Werkzeuge</string>
   <string name="default_shortcut_title_10086">10086.cn</string>
   <string name="delete">Löschen</string>
-  <string name="delete_screen">Schaltfläche "Bildschirm löschen"</string>
+  <string name="delete_screen">Bildschirm löschen</string>
   <string name="delete_wallpaper_message">%1$d Ausgewählt Hintergrund entfernen?</string>
   <string name="delete_wallpapers_message">%1$d Ausgewählt Hintergrund entfernen?</string>
   <string name="deselect_all">Alle abwählen</string>
