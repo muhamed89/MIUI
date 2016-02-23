@@ -200,7 +200,7 @@ Peak: %1$s%2$s verbleibend | %3$s verbraucht"</string>
   <string name="mi_service_app_detail">Datenverbrauchsdetails</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_traffic_detail">Framework Details</string>
-  <string name="mian_page_primary_txt">Internationales Roaming</string>
+  <string name="mian_page_primary_txt">Data-Roaming</string>
   <string name="miuishare_title_more">Mehr</string>
   <string name="miuishare_title_share">Teilen</string>
   <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
