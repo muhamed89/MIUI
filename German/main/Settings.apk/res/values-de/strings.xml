@@ -1149,7 +1149,6 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="dndm_vip_list_custom">Ausnahmen</string>
   <string name="dndm_vip_list_custom_group">Ausnahmen</string>
   <string name="dndm_vip_list_group">Ausnahmeliste</string>
-  <string name="dndm_wristband">Mi Band</string>
   <string name="dndm_wristband">Aktivieren mit Mi-Band</string>
   <string name="dndm_wristband_detailed">Nachtmodus einschalten, wenn das MiBand erkennt, dass Sie innerhalb einer Stunde vor der geplanten Zeit schlafen</string>
   <string name="dndm_wristband_detailed2">Nachtmodus ausschalten, wenn das MiBand erkennt, dass Sie innerhalb einer Stunde vor der geplanten Zeit aufwachen</string>
