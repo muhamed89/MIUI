@@ -733,10 +733,8 @@ Note: Nur für Ubuntu 8.04!"</item>
         <item>Systemanimationen einschalten</item>
     </string-array>
     <string-array name="fluency_mode_summaries">
-        <item>"Um die Systemleistung zu erhöhen,
-schalten Sie die Systemanimationen aus"</item>
-        <item>"Das Einschalten der Systemanimationen
-kann sich negativ auf die Systemleistung auswirken"</item>
+        <item>Verbessert die Systemleistung</item>
+        <item>Kann sich negativ auf die Systemleistung auswirken</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
         <item>Gerät neu starten, um die Einstellungen anzuwenden?</item>
