@@ -171,7 +171,7 @@ Zuletzt gesichert am %2$s"</string>
   <string name="micloud_dspt_provision">Verwenden Sie Mi Cloud um Ihre Daten zu synchronisieren, um Ihr Gerät zu finden, und Dinge mit Ihren Freunden zu teilen.</string>
   <string name="micloud_find_device_finish">Fertig</string>
   <string name="micloud_find_device_guide_button">Gerätelokalisierung einschalten</string>
-  <string name="micloud_find_device_guide_content">Wenn Sie Ihre SIM-Karte wechseln, wird automatisch eine SMS gesendet,\u0009o um diese Funktion zu reaktivieren.</string>
+  <string name="micloud_find_device_guide_content">Wenn Sie Ihre SIM-Karte wechseln, wird automatisch eine SMS gesendet, um diese Funktion zu reaktivieren.</string>
   <string name="micloud_find_device_guide_fail_reopen">Aktivieren Sie die Gerätelokalisierung in der Mi Cloud</string>
   <string name="micloud_find_device_guide_fail_sub_net">Überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut.</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">Zeitüberschreitung der Verbindung. Versuchen Sie es später erneut.</string>
