@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="otg_file_can_not_open">"Can't open file on USB. Copy file to internal storage first."</string>
+  <string name="otg_file_can_not_open">"Datei auf USB kann nicht geöffnet werden. Kopieren Sie Datei zunächst auf internem Speicher."</string>
   <string name="account_bind_prompt">Benutzerdaten werden übertragen…</string>
   <string name="action_mode_deselect_all">Keine</string>
   <string name="action_mode_select_all">Alle</string>
