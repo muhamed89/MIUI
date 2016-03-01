@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="otg_file_can_not_open">"Datei auf USB kann nicht geöffnet werden. Kopieren Sie Datei zunächst auf internem Speicher."</string>
   <string name="account_bind_prompt">Benutzerdaten werden übertragen…</string>
   <string name="action_mode_deselect_all">Keine</string>
   <string name="action_mode_select_all">Alle</string>
@@ -432,6 +431,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="operation_show_sys">Versteckte Dateien anzeigen</string>
   <string name="operation_unfavorite">Demarkieren</string>
   <string name="operation_unlike">Gefällt mir nicht mehr</string>
+  <string name="otg_file_can_not_open">"Die Datei auf dem USB-Speicher kann nicht geöffnet werden. Kopieren Sie die Datei zunächst auf den internen Speicher."</string>
   <string name="pan_settting">KuaiPan-Einstellungen</string>
   <string name="partial_cancel_successful">Einige Dateien konnten nicht verschoben werden. Die restlichen Dateien wurden nach %s verschoben.</string>
   <string name="partial_delete_failure">Einige Dateien konnten nicht gelöscht werden. Versuchen Sie es erneut.</string>
