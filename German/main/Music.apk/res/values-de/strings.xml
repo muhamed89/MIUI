@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="next_time">Next time</string>
-  <string name="restart_immediate">Restart Now</string>
-  <string name="upgrade_music">Update Music</string>
-  <string name="upgrade_music_message">Package is ready. Restart to update.</string>
+  <string name="next_time">Nächstes Mal</string>
+  <string name="restart_immediate">Jetzt neu starten</string>
+  <string name="upgrade_music">Musik aktualisieren</string>
+  <string name="upgrade_music_message">Paket ist fertig. Neu starten und aktualisieren.</string>
   <string name="account">Konto</string>
   <string name="account_and_cloud">Konto</string>
   <string name="action_item_add">Hinzufügen</string>
