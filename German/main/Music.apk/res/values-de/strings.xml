@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="next_time">Nächstes Mal</string>
-  <string name="restart_immediate">Jetzt neu starten</string>
-  <string name="upgrade_music">Musik aktualisieren</string>
-  <string name="upgrade_music_message">Paket ist fertig. Neu starten und aktualisieren.</string>
   <string name="account">Konto</string>
   <string name="account_and_cloud">Konto</string>
   <string name="action_item_add">Hinzufügen</string>
@@ -330,6 +326,7 @@
   <string name="network_request_error">"Netzwerkverbindung nicht möglich"</string>
   <string name="network_settings_error">"Netzwerkverbindung nicht möglich"</string>
   <string name="network_traffic">Datennutzung</string>
+  <string name="next_time">Nächstes Mal</string>
   <string name="no_album_info">Keine Albuminformationen</string>
   <string name="no_artist_info">Keine Informationen zum Interpreten</string>
   <string name="no_enough_info">Nicht genügend Titelinformationen</string>
@@ -392,6 +389,7 @@
   <string name="renew_period">"Gültig bis: "</string>
   <string name="repeat_all_notif">Alle Lieder wiederholen</string>
   <string name="repeat_current_notif">Aktuelles Lied wiederholen</string>
+  <string name="restart_immediate">Jetzt neu starten</string>
   <string name="retry">Wiederholen</string>
   <string name="ringtone_not_support">"Das Audioformat wird nicht unterstützt"</string>
   <string name="search_album">Suche Album</string>
@@ -524,6 +522,8 @@
   <string name="upgrade_force">"Wir stellen unseren derzeitigen Steamingdienst wegen Problemen mit dem Urheberrecht ein. Aktualisiere die App um Musik in höchster Qualität zu hören."</string>
   <string name="upgrade_immediate">Jetzt aktualisieren</string>
   <string name="upgrade_membership">Mehr Platz</string>
+  <string name="upgrade_music">Musik aktualisieren</string>
+  <string name="upgrade_music_message">Paket ist fertig. Neu starten und aktualisieren.</string>
   <string name="upgrade_nobeta">"Wir stellen unseren derzeitigen Steamingdienst wegen Problemen mit dem Urheberrecht ein. Wir entschuldigen uns für die Umstände :("</string>
   <string name="upgrade_remind">Aktualisierung verfügbar</string>
   <string name="upgrade_services">Dienst aktualisieren</string>

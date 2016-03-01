@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="pref_roaming_daily_limit_setting_cat_title">Tägliche Datenlimit</string>
   <string name="add_miservice_dialog_content">Für %s ist es erforderlich das Sie die MIUI Service-Framework zur Ausnahmeliste hinzufügen.</string>
   <string name="add_miservice_dialog_title">MIUI Service Framework</string>
   <string name="add_to_whitelist_button">Ausnahmen verwalten</string>
@@ -345,6 +344,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="pref_package_traffic_settings">Mobiles Datenlimit</string>
   <string name="pref_pkg_begin_date">Startdatum</string>
   <string name="pref_roaming_daily_limit_setting">Tägliches Datenroaming-Limit</string>
+  <string name="pref_roaming_daily_limit_setting_cat_title">Tägliches Datenlimit</string>
   <string name="pref_roaming_setting_gategory">Daten Roaming</string>
   <string name="pref_setting_operators_message">Bearbeiten Sie die Nachricht, die dem Anbieter zum Synchronisieren Ihrer Datenverbrauchsstatistiken gesendet wird</string>
   <string name="pref_show_mobile_traffic">Beim Entsperren des Telefons, Datenverbrauchsstatiken für die gesperrte Zeit anzeigen (min. 5 Min erforderlich)</string>

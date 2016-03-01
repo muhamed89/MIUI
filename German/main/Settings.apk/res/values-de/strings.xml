@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="settings_forbidden_message">Diese Einstellung ist deaktiviert.</string>
   <string name="Accounts_settings_title">Konten</string>
   <string name="about_settings">Über das Gerät</string>
   <string name="about_settings_summary">Rechtliche Hinweise, Status und Softwareversion anzeigen</string>
@@ -2845,6 +2844,7 @@ Um Screen-Pinning zu nutzen:
   <string name="settings_backup">Einstellungen sichern</string>
   <string name="settings_backup_summary">Meine Einstellungen sichern</string>
   <string name="settings_button">Einstellung</string>
+  <string name="settings_forbidden_message">Diese Einstellung ist deaktiviert.</string>
   <string name="settings_label">Einstellungen</string>
   <string name="settings_label_launcher">Einstellungen</string>
   <string name="settings_license_activity_loading">Lade...</string>
