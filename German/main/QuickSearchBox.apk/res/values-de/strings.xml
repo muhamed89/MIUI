@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="baidu_search_url_from_default">https://www.google.de/search?q=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_input">https://www.google.de/search?q=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_launcher">https://www.google.de/search?q=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_systemui">https://www.google.de/search?q=%s&amp;tn=ins</string>
+  <string name="baidu_suggest_base">http://www.google.com/m?hl=%1$s</string>
+  <string name="baidu_search_url">https://www.google.de/search?q=%s&amp;tn=ins</string>
   <string name="app_name">Suche</string>
   <string name="apps_search_activity"/>
   <string name="clear_history">Verlauf löschen</string>
