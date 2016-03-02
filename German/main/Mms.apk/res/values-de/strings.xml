@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="title_recv_red_package">Get Red Package</string>
-  <string name="title_red_package">Getting rich and good luck</string>
-  <string name="title_send_red_package">Check Red Package</string>
+  <string name="title_recv_red_package">Rotes Paket erhalten</string>
+  <string name="title_red_package">Werde reich und glücklich</string>
+  <string name="title_send_red_package">Überprüfe rotes Paket</string>
   <string name="action_firewall_setting">Sperrliste</string>
   <string name="activity_not_found">Anhang konnte nicht geöffnet werden</string>
   <string name="activity_not_found_uri">Keine Anwendung zum Öffnen der Datei gefunden</string>
