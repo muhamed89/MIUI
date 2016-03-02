@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="trans_calculating">Calculating...</string>
-  <string name="trans_calculating_app_sd_size">Calculating data size to be sent, %s scanned</string>
-  <string name="trans_calculating_base_size">"Calculating app's base size"</string>
-  <string name="trans_connect_failed_message">"Connect failed, please retry or reboot. And on the other device, please Go to Settings > Additional Settings > Mi Mover, Tap [I'm a sender], or relaunch Mi Mover after reboot"</string>
-  <string name="trans_connect_failed_title">Connect failed</string>
-  <string name="trans_native_no_space">"This device has no enough space
-Please clean out at least %s"</string>
-  <string name="trans_please_waiting">Please wait ...</string>
+  <string name="trans_calculating">Berechne...</string>
+  <string name="trans_calculating_app_sd_size">Berechne Datengröße zum senden, %s gescannt</string>
+  <string name="trans_calculating_base_size">"Berechnung der App Basisgröße"</string>
+  <string name="trans_connect_failed_message">"Verbindung fehlgeschlagen, erneut versuchen oder neu starten. Navigieren Sie auf dem anderen Gerät zu den Einstellungen > Weitere Einstellungen > Mi Mover, Berühren Sie [Ich bin der Sender], oder versuchen Sie es nach einem Neustart erneut."</string>
+  <string name="trans_connect_failed_title">Verbindung fehlgeschlagen/string>
+  <string name="trans_native_no_space">"Dieses Gerät hat nicht genügend Speicherplatz zur Verfügung
+PleaBitte reinigen Sie mindestens %s"</string>
+  <string name="trans_please_waiting">Bitte warten ...</string>
   <string name="trans_progress_subdescript_transingsddata_receiver">Receiving sdcard datas of %1$s, %2$s completed</string>
   <string name="trans_progress_subdescript_transingsddata_sender">Sending sdcard datas of %1$s, %2$s completed</string>
-  <string name="trans_retry">Retry</string>
-  <string name="trans_start_failed_message">Start failed, please retry or reboot and try again</string>
-  <string name="trans_start_failed_title">Start failed</string>
+  <string name="trans_retry">Erneut Versuchen</string>
+  <string name="trans_start_failed_message">Start fehlgeschlagen, bitte erneut versuchen oder neu starten</string>
+  <string name="trans_start_failed_title">Start fehlgeschlagen</string>
   <string name="abort_backup_confirm">"Sicherung nicht abgeschlossen. Trotzdem abbrechen?"</string>
   <string name="account_contact_backup_info">Google, MiKonto und Kontaktdaten</string>
   <string name="account_login">Anmelden</string>
