@@ -4,7 +4,7 @@
   <string name="trans_calculating_app_sd_size">Berechne Datengröße zum senden, %s gescannt</string>
   <string name="trans_calculating_base_size">"Berechnung der App Basisgröße"</string>
   <string name="trans_connect_failed_message">"Verbindung fehlgeschlagen, erneut versuchen oder neu starten. Navigieren Sie auf dem anderen Gerät zu den Einstellungen > Weitere Einstellungen > Mi Mover, Berühren Sie [Ich bin der Sender], oder versuchen Sie es nach einem Neustart erneut."</string>
-  <string name="trans_connect_failed_title">Verbindung fehlgeschlagen/string>
+  <string name="trans_connect_failed_title">Verbindung fehlgeschlagen</string>
   <string name="trans_native_no_space">"Dieses Gerät hat nicht genügend Speicherplatz zur Verfügung 
   Bitte reinigen Sie mindestens %s"</string>
   <string name="trans_please_waiting">Bitte warten ...</string>
