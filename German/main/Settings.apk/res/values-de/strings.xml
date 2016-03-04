@@ -3848,7 +3848,7 @@ WLAN Assistent"</string>
   <string name="wifi_more">Mehr</string>
   <string name="wifi_network_prefix_length">Länge Netzwerkpräfix</string>
   <string name="wifi_network_prefix_length_hint">24</string>
-  <string name="wifi_no_internet">"Kein Internetzugang erkannt, wird nicht automatisch weider verbunden."</string>
+  <string name="wifi_no_internet">"Kein Internetzugang erkannt, wird nicht automatisch wieder verbunden."</string>
   <string name="wifi_not_in_range">Nicht in Reichweite</string>
   <string name="wifi_notify_cmcc_connected_summary">Benachrichtigung anzeigen, wenn man mit dem CMCC Netzwerk verbunden ist</string>
   <string name="wifi_notify_cmcc_connected_title">CMCC Netzwerkbenachrichtigung</string>
