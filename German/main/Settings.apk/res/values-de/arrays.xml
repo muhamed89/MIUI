@@ -40,12 +40,10 @@
         <item>30 Minuten</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>S</item>
-        <item>M</item>
-        <item>L</item>
-        <item>XL</item>
-        <item>XXL</item>
-        <item>XXXL</item>
+        <item>Klein</item>
+        <item>Normal</item>
+        <item>Groß</item>
+        <item>Extra Groß</item>
     </string-array>
     <string-array name="wifi_status">
         <item></item>
