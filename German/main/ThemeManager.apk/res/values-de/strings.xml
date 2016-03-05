@@ -78,10 +78,10 @@
   <string name="loading_resource_detail_fail">Laden der Quelle fehlgeschlagen</string>
   <string name="loading_resource_detail_info">Wird geladen…</string>
   <string name="lockscreen_magazine_subscribe">%1$s Anhänger</string>
-  <string name="lockscreen_magazine_summary">Bekommen Sie jeden Tag Hintergrundbilder direkt an deinen Sperrbildschirm geschickt</string>
+  <string name="lockscreen_magazine_summary">Kategorien</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s Hintergrundbilder</string>
-  <string name="lockscreen_magazine_system_title">Standard</string>
-  <string name="lockscreen_magazine_title">Tägliche Sperrbildschirme</string>
+  <string name="lockscreen_magazine_system_title">Offline</string>
+  <string name="lockscreen_magazine_title">Hintergrund Karussell</string>
   <string name="lockscreen_wallpaper">Sperrbildschirm</string>
   <string name="lockstyle_personal_settings">Anpassen</string>
   <string name="long_ringtone_resource">Lang</string>
