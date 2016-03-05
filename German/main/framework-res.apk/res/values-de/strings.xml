@@ -202,6 +202,7 @@ mit %s erstellen"</string>
   <string name="default_audio_route_name_dock_speakers">Dock-Lautsprecher</string>
   <string name="default_audio_route_name_headphones">Kopfhörer</string>
   <string name="default_media_route_name_hdmi">HDMI</string>
+  <string name="default_sms_application">com.android.mms</string>
   <string name="delete">Löschen</string>
   <string name="deleteText">Löschen</string>
   <string name="deleted_key">%1$s gelöscht</string>
