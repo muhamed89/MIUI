@@ -112,11 +112,13 @@
   <string name="dialog_msg_backup_and_uninstall_apps">Apps sichern und entfernen?</string>
   <string name="dialog_msg_check_all">Auswahl von %1$s mit %2$d enthaltenen Elementen bestätigen</string>
   <string name="dialog_msg_load_cleanup_engine_error">Bereinigungsmodul fehlerhaft!</string>
+  <string name="dialog_msg_stop_scan">"Stop Abfälle scan bevor es fertig ist?"</string>
   <string name="dialog_msg_uninstall_apps">Diese Apps entfernen?</string>
   <string name="dialog_title_backup_and_uninstall_apps">Sichern und entfernen</string>
   <string name="dialog_title_check_all">Alle auswählen</string>
   <string name="dialog_title_delete_image">Ausgewählte Bilder löschen</string>
   <string name="dialog_title_load_cleanup_engine_error">Es ist ein Fehler aufgetreten</string>
+  <string name="dialog_title_stop_scan">Stop Abfälle scan</string>
   <string name="dialog_title_uninstall_apps">Entfernen</string>
   <string name="empty_content_no_ignore_image">Leer</string>
   <string name="empty_content_no_privacy">Leer</string>
