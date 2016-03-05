@@ -11,8 +11,8 @@
   <string name="drawer_close">Root-Verzeichnis ausblenden</string>
   <string name="drawer_open">Root-Verzeichnis anzeigen</string>
   <string name="empty">Keine Dokumente</string>
-  <string name="menu_advanced_hide">SD-Karte ausblenden</string>
-  <string name="menu_advanced_show">SD-Karte anzeigen</string>
+  <string name="menu_advanced_hide">Interner Speicher ausblenden</string>
+  <string name="menu_advanced_show">Interner Speicher anzeigen</string>
   <string name="menu_copy">Kopieren nach…</string>
   <string name="menu_create_dir">Ordner erstellen</string>
   <string name="menu_delete">Löschen</string>
