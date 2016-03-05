@@ -24,6 +24,8 @@
   <string name="bind_xunlei_account">Xunlei-Konto hinzufügen</string>
   <string name="bt_download">Download</string>
   <string name="bt_path_not_exit">"Dieser Pfad existiert nicht"</string>
+  <string name="bt_restart_dialog_message">Alle Downloads im Ordner "BT" neu starten?</string>
+  <string name="bt_restart_dialog_title">Alle downloads neu starten</string>
   <string name="bt_xunlei_open_info">Xunlei-Modul zum öffnen solcher Links verwenden?</string>
   <string name="button_sort_by_date">Nach Datum sortieren</string>
   <string name="button_sort_by_size">Nach Größe sortieren</string>
@@ -98,7 +100,6 @@
   <string name="download_running">Läuft</string>
   <string name="download_share_dialog">Teilen über</string>
   <string name="download_speed">Downloadgeschwindigkeit:</string>
-  <string name="download_speed_null"/>
   <string name="download_spend_time">Zeit</string>
   <string name="download_success">Abgeschlossen</string>
   <string name="download_title">Downloads</string>
@@ -334,6 +335,11 @@
   <string name="turn_off_xunlei_title">Xunlei ausschalten</string>
   <string name="unbind_xunlei_2_success">Xunlei Konto hinzugefügt</string>
   <string name="unbind_xunlei_success">Von Xunlei Konto abgemelden</string>
+  <string name="unit_cn_hundredmillions">Milliarden Euro</string>
+  <string name="unit_cn_tenthousands">WAN</string>
+  <string name="unit_en_billion">B</string>
+  <string name="unit_en_million">M</string>
+  <string name="unit_en_thounsand">K</string>
   <string name="valid_in_this_month">Gültig für diesen Monat</string>
   <string name="version">Version %s</string>
   <string name="vip_auto_speedup">Xunlei-Download-Beschleunigung ist eingeschaltet</string>
