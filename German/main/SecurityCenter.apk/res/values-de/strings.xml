@@ -292,6 +292,12 @@
   <string name="permission_send_sms_descx">Apps können SMS und MMS senden</string>
   <string name="permission_with_SMS_and_MMS">SMS- und MMS-Berechtigungen</string>
   <string name="permission_with_call_and_contact">Telefonanruf-, Kontaktdetails- und Anruflistenberechtigungen.</string>
+  <string name="pm_auto_start_basic_services_lock">Sperren</string>
+  <string name="pm_auto_start_basic_services_unlock">Entsperren</string>
+  <string name="pm_auto_start_by_basic_services">Basisdienste</string>
+  <string name="pm_auto_start_by_other_services">Deaktivieren Sie diese Dienste</string>
+  <string name="pm_auto_start_by_system">Apps starten</string>
+  <string name="pm_auto_start_proc_is_running">Ausführen</string>
   <string name="pm_root_success_notification_title">Root-Zugriff aktiviert</string>
   <string name="power_20s_enter_mode">Wechseln von %1$ds zu %2$s</string>
   <string name="power_20s_shutdown">Telefon schaltet sich in 20 Sekunden aus</string>
@@ -523,6 +529,7 @@ Sie müssen Ihre Akku-Einstellungen ändern bevor Sie dieses Profil löschen kö
   <string name="summary_flow_verify">Der Datenverbrauch wurde seit %d Tagen nicht synchronisiert</string>
   <string name="summary_garbage_lib">Nutzen Sie die aktuellsten Definitionen, um Spyware, Werbung und andere ungewollte Daten zu entfernen</string>
   <string name="summary_install_virus">Apps vor Installation auf Viren prüfen</string>
+  <string name="summary_live_talk_purchase">Sparen Sie 70% auf Ihre Gesprächsgebühren</string>
   <string name="summary_miui_update">Update für %s verfügbar.</string>
   <string name="summary_mms">Spam Nachrichten automatisch blockieren</string>
   <string name="summary_network_switch">Der Sicherheits-App den Zugriff auf das Internet genehmigen</string>
@@ -537,6 +544,7 @@ Sie müssen Ihre Akku-Einstellungen ändern bevor Sie dieses Profil löschen kö
   <string name="summary_virus">Entfernen Sie Viren, damit Ihr Gerät sicher bleibt.</string>
   <string name="summary_virus_cloudscan">App-Namen sowie App-Details hochladen und Online überprüfen</string>
   <string name="summary_virus_update">Viren-Datenbank bei WLAN Verbindung, automatisch aktualisieren</string>
+  <string name="summary_xiaomi_roaming">0,01 Yuan pro MB für internationale Netzwerkverkehr.</string>
   <string name="system_check_content">%1$d verdächtige Elemente</string>
   <string name="system_check_content_none">Sicher</string>
   <string name="system_header_title">%1$d Prozesse beenden um %2$s Speicher frei zu machen</string>
@@ -561,6 +569,7 @@ Sie müssen Ihre Akku-Einstellungen ändern bevor Sie dieses Profil löschen kö
   <string name="title_garbage_lib">Automatische Updates</string>
   <string name="title_install_virus_no">Installationsmonitor Aus</string>
   <string name="title_install_virus_yes">Installationsmonitor An</string>
+  <string name="title_live_talk_purchase">Auflade-Paket einschalten</string>
   <string name="title_miui_update">Update vorhanden</string>
   <string name="title_mms_no">Nachrichtenfilter ist aus</string>
   <string name="title_mms_yes">Nachrichtenfilter ist an</string>
@@ -579,6 +588,7 @@ Sie müssen Ihre Akku-Einstellungen ändern bevor Sie dieses Profil löschen kö
   <string name="title_virus_update_no">Auto-Update für Viren-DB AUS</string>
   <string name="title_virus_update_yes">Auto-Update für Viren-DB AN</string>
   <string name="title_virus_yes">Keine Viren gefunden</string>
+  <string name="title_xiaomi_roaming">Mi Roaming</string>
   <string name="toast_cleaner_cloudscan">Bereinigung nutzt Online-Definitionen</string>
   <string name="toast_default_app">%1$s als System Standard %2$s gesetz</string>
   <string name="toast_flow_notification">Datenverbrauchsbenachrichtigung aktiviert</string>
