@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="access_sd_fail">"Kein Zugriff auf den SD-Karte möglich."</string>
+  <string name="access_sd_fail">"Kein Zugriff auf USB-Speicher möglich."</string>
   <string name="accessibility_camera_picker">Front- und Rückkamera wechseln</string>
   <string name="accessibility_flash_mode_button">FlashButton</string>
   <string name="accessibility_hdr">HDR-Kippschalter</string>
@@ -57,7 +57,7 @@
   <string name="face_beauty_intelligent_level_3">Hoch</string>
   <string name="find_other_qrcode">cQQ QR-Code suchen</string>
   <string name="no_storage">Vor Benutzung der Kamera SD-Karte einlegen</string>
-  <string name="not_enough_space">SD-Karte ist voll</string>
+  <string name="not_enough_space">Interne Speicher ist voll</string>
   <string name="object_track_enable_toast">Um ein Objekt auszuwählen, tippen Sie gleichzeitig zwei diagonale Punkte um seine Grenze.</string>
   <string name="pano_dialog_panorama_failed">"Panorama kann nicht gespeichert werden"</string>
   <string name="pano_dialog_title">Panorama</string>
@@ -321,7 +321,7 @@
   <string name="pref_video_time_lapse_frame_interval_entry_90">3 Sekunden Intervall (90 mal)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">30 Sekunden Intervall (900 mal)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Zeitrafferintervall</string>
-  <string name="preparing_sd">Interner SD-Karte wird vorbereitet</string>
+  <string name="preparing_sd">Interner Speicher wird vorbereitet…</string>
   <string name="record_back_pressed_hint">Nochmal berühren, um Aufnahme zu beenden</string>
   <string name="see_qrcode_detals">Details anzeigen</string>
   <string name="setting_top_text">Optionen</string>
@@ -345,7 +345,7 @@
   <string name="simple_mode_button_text_ubifocus">Refocus beenden</string>
   <string name="snapshot_lower_than_video">Auflösung des Videoschnappschusses ist geringer als die Videogröße. Begrenzung auf Videogröße. Höhere oder gleiche Auflösung zur aktuellen Videogröße auswählen.</string>
   <string name="snapshotsize_low_powermode">"Bildauflösung wird von den aktuellen Engergieverwaltungseinstellungen nicht unterstützt. Videoschnappschussgröße wird verwendet."</string>
-  <string name="spaceIsLow_content">SD-Karte neigt sich dem Ende</string>
+  <string name="spaceIsLow_content">USB-Speicher neigt sich dem Ende</string>
   <string name="start_capture">OK</string>
   <string name="tap_to_exposure">Berühren, um Belichtung einzustellen</string>
   <string name="tap_to_focus">Zum Fokussieren berühren</string>
