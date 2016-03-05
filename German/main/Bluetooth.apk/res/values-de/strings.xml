@@ -44,7 +44,7 @@
   <string name="bt_enable_title"/>
   <string name="bt_error_btn_ok">OK</string>
   <string name="bt_share_picker_label">Bluetooth</string>
-  <string name="bt_sm_2_1">"Die SD-Karte verfügt über zu wenig Speicherplatz für die Datei von \"%1$s\""</string>
+  <string name="bt_sm_2_1">"Auf dem USB-Speicher verfügt über zu wenig Speicherplatz für die Datei von \"%1$s\""</string>
   <string name="bt_sm_2_2">Erforderlicher Speicherplatz: %1$s</string>
   <string name="bt_toast_1">Die Datei wird empfangen. Überprüfen Sie den Fortschritt in der Benachrichtigungskonsole.</string>
   <string name="bt_toast_2">Die Datei kann nicht empfangen werden.</string>
@@ -154,7 +154,7 @@
   <string name="status_connection_error">Verbindung fehlgeschlagen</string>
   <string name="status_file_error">Speicherproblem</string>
   <string name="status_forbidden">Übertragung durch das Zielgerät verhindert.</string>
-   <string name="status_no_sd_card">Keine SD-Karte. Legen Sie eine SD-Karte ein, um übertragene Dateien zu speichern.</string>
+   <string name="status_no_sd_card">Kein USB-Speicher.</string>
   <string name="status_not_accept">"Inhalt wird nicht unterstützt."</string>
   <string name="status_pending">Dateiübertragung noch nicht gestartet.</string>
   <string name="status_protocol_error">"Anfrage kann nicht fehlerfrei verarbeitet werden."</string>
