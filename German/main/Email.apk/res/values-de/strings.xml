@@ -4,12 +4,6 @@
   <string name="SMTP_independent_verification_text">SMTP unabhängige Überprüfung</string>
   <string name="SMTP_password_text">Passwort</string>
   <string name="SMTP_username_text">Benutzername</string>
-  <string name="abc_action_mode_done">OK</string>
-  <string name="abc_searchview_description_clear">Suche löschen</string>
-  <string name="abc_searchview_description_query">Suchabfrage</string>
-  <string name="abc_searchview_description_search">Suchen</string>
-  <string name="abc_searchview_description_submit">Suche absenden</string>
-  <string name="abc_searchview_description_voice">Sprachsuche</string>
   <string name="account_duplicate_dlg_message_fmt">"Sie verwenden diesen Benutzernamen bereits für dieses Konto \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Identisches Konto</string>
   <string name="account_manager_type_exchange">com.android.exchange</string>
@@ -154,7 +148,7 @@
   <string name="add_pre_message_attachments">Anhänge der vorherigen Nachricht hinzufügen?</string>
   <string name="add_pre_message_attachments_no">Nicht hinzufügen</string>
   <string name="add_pre_message_attachments_yes">Hinzufügen</string>
-  <string name="add_star">Markieren</string>
+  <string name="add_star">Favorit</string>
   <string name="allread">Alle gelesen</string>
   <string name="always_bcc_myself">Bcc immer an mich</string>
   <string name="always_show_images">Zeige stets Bilder von diesem Absender</string>
@@ -236,6 +230,7 @@
   <string name="clear_display_images_whitelist_dialog_title">Lösche Bild Genehmigungen?</string>
   <string name="clear_display_images_whitelist_title">Lösche Bild Genehmigungen</string>
   <string name="click_download_all_content">[ Tippen Sie, um Inhalte herunterzuladen ]</string>
+  <string name="click_to_reload">Klicken Sie auf Bildschirm um neu zu laden</string>
   <string name="collapse_recipient_details">Details zum Empfänger Ausblenden</string>
   <string name="colon">:</string>
   <string name="compose">Verfassen</string>
@@ -451,6 +446,18 @@
   <string name="ignore_spam_warning">Ignorieren, dieser E-Mail vertrauen</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_password_error">Das Passwort des Posteingangsserver ist ungültig</string>
+  <string name="info_actionbar_normal_detail">Article details</string>
+  <string name="info_actionbar_subscribe">Subscribe line</string>
+  <string name="info_item_from">Von</string>
+  <string name="info_item_hide">Ausblenden</string>
+  <string name="info_loading">Lädt</string>
+  <string name="info_name_title">NEWS</string>
+  <string name="info_no_message">Kein Artikel!</string>
+  <string name="info_no_more_message">"Wir haben nicht mehr"</string>
+  <string name="info_switch_summary">Öffnen Eingang oben NEWS</string>
+  <string name="info_switch_title">Posteingang Nachrichten</string>
+  <string name="info_sync_error">synchronisierungsfehler, versuchen Sie es später erneut.</string>
+  <string name="information_subscribe_first_intro">This is the first time you use the 「Subscribe」 , please select some of the tags that you are interested in so that we can make a recommendation to you only for your content~</string>
   <string name="inline_picture_deleted">Fehlendes Bild wird heruntergeladen…</string>
   <string name="input_password_prompt">Passwort eingeben</string>
   <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
@@ -480,7 +487,7 @@
   <string name="mailbox_name_display_junk">Spam</string>
   <string name="mailbox_name_display_outbox">Postausgang</string>
   <string name="mailbox_name_display_sent">Gesendet</string>
-  <string name="mailbox_name_display_starred">Markierte</string>
+  <string name="mailbox_name_display_starred">Favorit</string>
   <string name="mailbox_name_display_trash">Papierkorb</string>
   <string name="mailbox_name_display_unread">Ungelesen</string>
   <string name="mailbox_settings_activity_title">Sync Einstellungen</string>
@@ -522,6 +529,7 @@
   <string name="menu_att_mgr_order_size">Nach Größe</string>
   <string name="menu_change_folders">Verschieben</string>
   <string name="menu_compose">Schreiben</string>
+  <string name="menu_discovery">Erkenntnis</string>
   <string name="menu_folder_options">Synchronisierungsoptionen</string>
   <string name="menu_move_to">Verschieben nach</string>
   <string name="menu_move_to_inbox">In den Posteingang verschieben</string>
@@ -555,8 +563,11 @@
   <string name="move_to_selection_dialog_title">Verschieben nach</string>
   <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
   <string name="mute">Ignorieren</string>
+  <string name="net_check_title">Das Netzwerk konnte nicht verbunden werden. Überprüfen Sie die Netzwerkeinstellungen und versuchen Sie es erneut.</string>
   <string name="network_error">Keine Verbindung</string>
   <string name="network_not_available">Netzwerkverbindung nicht verfügbar. Versuchen Sie es später erneut</string>
+  <string name="network_try_again">Bitte überprüfen Sie das Netzwerk</string>
+  <string name="network_unavailable">Netzwerk ist nicht erreichbar</string>
   <string name="new_incoming_messages_one">Neue Nachricht von %s. anzeigen.</string>
   <string name="new_messages">%1$d neue Nachrichten</string>
   <string name="next_action">Weiter</string>
@@ -675,6 +686,7 @@
   <string name="protocol_legacy_imap">imap</string>
   <string name="protocol_pop3">pop3</string>
   <string name="pull_to_refresh">Zum aktualisieren, nach unten ziehen</string>
+  <string name="pull_up_to_load_more">Load on get more</string>
   <string name="push_wps_better_confirm_download">Download</string>
   <string name="push_wps_better_confirm_exit">Nicht jetzt</string>
   <string name="push_wps_better_confirm_message">Versuchen Sie WPS Office um dieses Anhang zu öffnen.</string>
@@ -773,6 +785,7 @@
   <string name="security_unsupported_ticker_fmt">Das Konto \"%s\" kann aufgrund von Sicherheitsanforderungen nicht synchronisiert werden.</string>
   <string name="select_attachment_type">Anhang auswählen von</string>
   <string name="select_no_file">Keine Anhänge ausgewählt</string>
+  <string name="selected_lable">Ausgewählt</string>
   <string name="send">Senden</string>
   <string name="send_failed">Nicht gesendet</string>
   <string name="sender_whitelist_cleared">Bilder werden nicht automatisch angezeigt.</string>
@@ -852,6 +865,7 @@
   <string name="turn_auto_sync_on_dialog_title">Automatische Synchronisierung aktivieren?</string>
   <string name="undo">Rückgängig</string>
   <string name="unread_string">Konversation ungelesen</string>
+  <string name="unselected_lable">Mehr</string>
   <string name="unsent_messages_in_outbox">%1$s nicht gesendete Nachricht(en) in %2$s</string>
   <string name="unzip_file_failed">Datei konnte nicht entpackt werden</string>
   <string name="update_date_format_templete">HH:mm dd.MM.yyyy</string>
@@ -878,6 +892,7 @@ Tippen Sie auf "<b>Jetzt synchronisieren</b> um Ihre Mails einmalig zu syncronis
   <string name="widget_other_views">Andere</string>
   <string name="wrong_password">Das eingegebene Passwort ist falsch</string>
   <string name="yes">Ja</string>
+  <string name="yidianzixun">yidianzixun</string>
   <string name="you_are_in_mobile_network">Log über die Mobile Datenverbindung senden?</string>
   <string name="zip_viewer_no_file">Keine Dateien.</string>
 </resources>
