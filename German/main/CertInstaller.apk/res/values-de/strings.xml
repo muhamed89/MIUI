@@ -19,7 +19,7 @@
   <string name="name_char_error">Geben Sie einen Namen ein, der ausschließlich aus Buchstaben und Zahlen besteht.</string>
   <string name="name_credential_dialog_title">Zertifikat benennen</string>
   <string name="name_empty_error">Geben Sie einen Namen ein.</string>
-  <string name="no_cert_file_found">Auf der SD-Karte wurde keine Zertifikats-Datei gefunden.</string>
+  <string name="no_cert_file_found">Keine zertifikatdatei auf USB-Speicher gefunden.</string>
   <string name="no_cert_to_saved">Kein zu installierendes Zertifikat</string>
   <string name="one_cacrt">ein CA-Zertifikat</string>
   <string name="one_usercrt">ein Benutzerzertifikat</string>
@@ -31,7 +31,7 @@
   <string name="pick_file_title">Zertifikat auswählen</string>
   <string name="pkcs12_file_password_dialog_title">Zertifikate aus %s extrahieren</string>
   <string name="pkcs12_password_dialog_title">Zertifikat extrahieren</string>
-  <string name="sdcard_not_present">SD-Karte ist nicht vorhanden.</string>
+  <string name="sdcard_not_present">USB-Speicher ist nicht vorhanden.</string>
   <string name="storage_error">Zertifikat konnte nicht gespeichert werden. Zum Wiederholen auf \"OK\" tippen.</string>
   <string name="unable_to_save_cert">Das Zertifikat konnte nicht gespeichert werden. Der Speicher für die Anmeldeinformationen wurde nicht aktiviert oder falsch initialisiert.</string>
   <string name="wifi_cancel_label">Abbrechen</string>
