@@ -270,7 +270,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="applications_settings_summary">Apps verwalten, Verknüpfungen für Schnellstart festlegen</string>
   <string name="apply_fingerprint_to_category_title">Fingerabdruck anwenden...</string>
   <string name="apply_now_button_text">Update</string>
-  <string name="apply_password_to_category_title">Entsperren anwenden auf...</string>
+  <string name="apply_password_to_category_title">Erfordern entsperren</string>
   <string name="apply_update_fail">Update fehlgeschlagen</string>
   <string name="apps_storage">App Speicher</string>
   <string name="apps_with_restrictions_header">Apps mit Einschränkungen</string>
@@ -395,7 +395,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="battery_info_voltage_label">Akkuspannung:</string>
   <string name="battery_info_voltage_units">mV</string>
   <string name="battery_level_title">Akkuladung</string>
-  <string name="battery_light_summary">Blinkende LED beim Laden</string>
+  <string name="battery_light_summary">Blinkende LED beim Laden einschalten</string>
   <string name="battery_light_title">Während des Ladevorgangs leuchtet</string>
   <string name="battery_msg_unaccounted">Der Akkuverbrauch ist eine Näherung von Stromverbrauch und enthält nicht jede Quelle von Batterieentladung. Sonstiges ist die Differenz von dem berechneten ungefähren Stromverbrauch und der eigentlichen beobachteten Entladung der Batterie.</string>
   <string name="battery_saver">Akku-Sparer</string>
@@ -806,7 +806,7 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="credentials_configure_lock_screen_hint">Zur Speicherung von Anmeldeinformationen müssen Sie erst eine Sperre für den Sperrbildschirm festlegen</string>
   <string name="credentials_enabled">Der Anmeldedatenspeicher ist eingeschaltet.</string>
   <string name="credentials_erased">Anmeldedatenspeicher wurde gelöscht.</string>
-  <string name="credentials_install">Von SD-Karte installieren</string>
+  <string name="credentials_install">Von Speicher installieren</string>
   <string name="credentials_install_gesture_explanation">Sie müssen Ihr Entsperrmuster eingeben, um das Installieren der Anmeldedaten zu bestätigen.</string>
   <string name="credentials_install_gesture_prompt">Bitte zeichnen Sie Ihr Entsperrmuster</string>
   <string name="credentials_install_summary">Zertifikate von Speicher installieren</string>
@@ -1065,6 +1065,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="device_status">Status</string>
   <string name="device_status_activity_title">Status</string>
   <string name="device_status_summary">Telefonnummer, Signal, etc.</string>
+  <string name="dial_application_title">Wählen</string>
   <string name="dial_pad_tones_title">Wähltastenfeldtöne</string>
   <string name="dialog_content_login">Für das Update in Ihr Mi-Konto anmelden?</string>
   <string name="dialog_no">Nein</string>
@@ -1088,7 +1089,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="display_auto_rotate_stay_in_current">Aus</string>
   <string name="display_auto_rotate_stay_in_landscape">Querformat fixieren</string>
   <string name="display_auto_rotate_stay_in_portrait">Hochformat fixieren</string>
-  <string name="display_auto_rotate_title">Automatisch Bildschirm drehen</string>
+  <string name="display_auto_rotate_title">Bildschirminhalt drehen</string>
   <string name="display_font_size_label">Schriftgröße:</string>
   <string name="display_label">Bildschirm</string>
   <string name="display_order_text">Sortieren nach:</string>
@@ -1099,12 +1100,12 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="dlg_close">Schließen</string>
   <string name="dlg_confirm_uicc_unmount_text">Wenn Sie den UICC Speicher aushängen, werden einige Apps, die Sie verwenden, angehalten und sind möglicherweise nicht verfügbar, bis Sie den UICC Speicher wieder anhängen.</string>
   <string name="dlg_confirm_uicc_unmount_title">UICC Speicher aushängen?</string>
-  <string name="dlg_confirm_unmount_text">Wenn Sie die SD-Karte auswerfen, werden einige Apps, die Sie verwenden, angehalten und sind möglicherweise nicht verfügbar, bis Sie die SD-Karte wieder einstecken.</string>
-  <string name="dlg_confirm_unmount_title">SD-Karte auswerfen?</string>
+  <string name="dlg_confirm_unmount_text">Wenn Sie die USB-Speicher auswerfen, werden einige Apps, die Sie verwenden, angehalten und sind möglicherweise nicht verfügbar, bis Sie die SD-Karte wieder einstecken.</string>
+  <string name="dlg_confirm_unmount_title">USB-Speicher auswerfen?</string>
   <string name="dlg_confirm_usb_unmount_text">Wenn Sie den USB-Speicher auswerfen, werden einige Apps, die Sie verwenden, angehalten und sind möglicherweise nicht verfügbar, bis Sie den USB-Speicher wieder einstecken.</string>
   <string name="dlg_confirm_usb_unmount_title">USB-Speicher auswerfen?</string>
   <string name="dlg_error_uicc_unmount_text">"Konnte UICC Speicher nicht aushängen. Bitte später nochmal probieren."</string>
-  <string name="dlg_error_unmount_text">"SD-Karte konnte nicht ausgeworfen werden. Bitte später nochmal probieren."</string>
+  <string name="dlg_error_unmount_text">"USB-Speicher konnte nicht ausgeworfen werden. Bitte später nochmal probieren."</string>
   <string name="dlg_error_unmount_title"/>
   <string name="dlg_error_usb_unmount_text">"USB-Speicher konnte nicht ausgeworfen werden. Bitte später nochmal probieren."</string>
   <string name="dlg_ok">OK</string>
@@ -1149,6 +1150,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="dndm_vip_list_custom">Ausnahmen</string>
   <string name="dndm_vip_list_custom_group">Ausnahmen</string>
   <string name="dndm_vip_list_group">Ausnahmeliste</string>
+  <string name="dndm_vip_list_starred_contact">Favorit</string>
   <string name="dndm_wristband">Aktivieren mit Mi-Band</string>
   <string name="dndm_wristband_detailed">Nachtmodus einschalten, wenn das MiBand erkennt, dass Sie innerhalb einer Stunde vor der geplanten Zeit schlafen</string>
   <string name="dndm_wristband_detailed2">Nachtmodus ausschalten, wenn das MiBand erkennt, dass Sie innerhalb einer Stunde vor der geplanten Zeit aufwachen</string>
@@ -1256,7 +1258,7 @@ Das hilft Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
   <string name="encryption_interstitial_message_pin">"Sie können dieses Gerät zusätzlich durch Abfrage Ihrer PIN schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschließlich Alarme, entgegennehmen. 
 
 Das hilft Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
-  <string name="enforce_read_external_confirm_message">"Bei geschützter SD-Karte müssen Apps die Berechtigung erhalten, um Daten vom externen Speicher lesen zu dürfen.
+  <string name="enforce_read_external_confirm_message">"Bei geschützter USB-Speicher müssen Apps die Berechtigung erhalten, um Daten vom externen Speicher lesen zu dürfen.
 
 Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler aktualisiert wurden."</string>
   <string name="enforce_read_external_confirm_title">USB-Speicher schützen?</string>
@@ -1317,7 +1319,7 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="filter_apps_all">Alle</string>
   <string name="filter_apps_cached">Cache</string>
   <string name="filter_apps_disabled">Ausgeschaltet</string>
-  <string name="filter_apps_onsdcard">Auf SD-Karte</string>
+  <string name="filter_apps_onsdcard">USB-Speicher</string>
   <string name="filter_apps_running">Aktiv</string>
   <string name="filter_apps_third_party">Geladene</string>
   <string name="filter_dlg_title">Filteroptionen auswählen</string>
@@ -2701,32 +2703,32 @@ Um Screen-Pinning zu nutzen:
   <string name="screensaver_settings_summary_sleep">Während des Ladevorgangs</string>
   <string name="screensaver_settings_title">Bildschirmschoner</string>
   <string name="screensaver_settings_when_to_dream">Daydream starten</string>
-  <string name="sd_card_settings_label">SD Karte</string>
-  <string name="sd_card_storage">SD Kartenspeicher</string>
+  <string name="sd_card_settings_label">USB-Speicher</string>
+  <string name="sd_card_storage">USB-Speicher</string>
   <string name="sd_eject">Gemeinsamen Speicher trennen</string>
-  <string name="sd_eject_summary">SD Karte auswerfen</string>
+  <string name="sd_eject_summary">Interne USB-Speicher auswerfen</string>
   <string name="sd_ejecting_summary">Trennung...</string>
   <string name="sd_ejecting_title">Trennen...</string>
-  <string name="sd_format">SD-Karte löschen</string>
-  <string name="sd_format_summary">Löscht alle Daten, z. B. Musik und Fotos von der SD-Karte</string>
-  <string name="sd_insert_summary">SD-Karte für Bereitstellung einlegen</string>
-  <string name="sd_memory">SD-Karte</string>
-  <string name="sd_mount">SD-Karte bereitstellen</string>
+  <string name="sd_format">USB-Speicher löschen</string>
+  <string name="sd_format_summary">Löscht alle Daten, z. B. Musik und Fotos von der interne USB-Speicher</string>
+  <string name="sd_insert_summary">USB-Speicher für Bereitstellung einlegen</string>
+  <string name="sd_memory">USB-Speicher</string>
+  <string name="sd_mount">USB-Speicher bereitstellen</string>
   <string name="sd_mount_summary"/>
   <string name="sdcard_changes_instructions">Die Änderungen werden nach dem erneuten Anschließen des USB-Kabels übernommen.</string>
-  <string name="sdcard_format">SD-Karte löschen</string>
-  <string name="sdcard_setting">SD-Karte</string>
+  <string name="sdcard_format">USB-Speicher löschen</string>
+  <string name="sdcard_setting">USB-Speicher</string>
   <string name="sdcard_settings_available_bytes_label">Verfügbare Bytes:</string>
-  <string name="sdcard_settings_bad_removal_status">SD-Karte während Verwendung entfernt</string>
-  <string name="sdcard_settings_mass_storage_status">SD-Karte wird als Massenspeicher verwendet</string>
-  <string name="sdcard_settings_not_present_status">SD-Karte nicht verbunden.</string>
-  <string name="sdcard_settings_read_only_status">SD-Karte ist schreibgeschützt.</string>
-  <string name="sdcard_settings_scanning_status">SD-Karte auf Medien scannen</string>
+  <string name="sdcard_settings_bad_removal_status">USB-Speicher während Verwendung entfernt</string>
+  <string name="sdcard_settings_mass_storage_status">USB-Speicher wird als Massenspeicher verwendet</string>
+  <string name="sdcard_settings_not_present_status">USB-Speicher nicht verbunden.</string>
+  <string name="sdcard_settings_read_only_status">USB-Speicher ist schreibgeschützt.</string>
+  <string name="sdcard_settings_scanning_status">USB-Speicher auf Medien scannen</string>
   <string name="sdcard_settings_screen_mass_storage_text">USB-Massenspeicher aktivieren</string>
   <string name="sdcard_settings_total_bytes_label">Bytes insgesamt:</string>
-  <string name="sdcard_settings_unmounted_status">SD-Karte kann nun entfernt werden.</string>
+  <string name="sdcard_settings_unmounted_status">USB-Speicher kann nun entfernt werden.</string>
   <string name="sdcard_settings_used_bytes_label">Verwendete Bytes:</string>
-  <string name="sdcard_unmount">SD-Karte trennen</string>
+  <string name="sdcard_unmount">USB-Speicher trennen</string>
   <string name="se_route_ese">Sicheres Element</string>
   <string name="se_route_uicc">Sicheres Element auf der SIM-Karte</string>
   <string name="search_about">Über</string>
@@ -2767,7 +2769,7 @@ Um Screen-Pinning zu nutzen:
   <string name="search_vpn">VPN</string>
   <string name="search_wallpaper">Hintergrund</string>
   <string name="search_wifi">WLAN</string>
-  <string name="secure_keyguard_business_title">&gt;Sperrbildschirm einstellen</string>
+  <string name="secure_keyguard_business_title">Sperrbildschirm einstellen</string>
   <string name="secure_lock_encryption_warning">"Da Sie einen Barrierefreiheitsdienst eingeschaltet haben, wird das Gerät Ihre Bildschirmsperre nicht verwenden, um die Datenverschlüsselung zu verbessern."</string>
   <string name="security_enable_widgets_disabled_summary">Vom Administrator deaktiviert</string>
   <string name="security_enable_widgets_title">Widgets aktivieren</string>
@@ -2998,7 +3000,7 @@ Verbleibende Versuche :"</string>
   <string name="sort_max_use">Nach max. Verwendung sortieren</string>
   <string name="sort_order_alpha">Nach Namen sortieren</string>
   <string name="sort_order_size">Nach Größe sortieren</string>
-  <string name="sound_category_call_ringtone_vibrate_title">Klingelton &amp; Vibration</string>
+  <string name="sound_category_call_ringtone_vibrate_title">Klingelton &amp; Benachrichtigungstöne</string>
   <string name="sound_category_sound_title">Allgemein</string>
   <string name="sound_category_system_title">System</string>
   <string name="sound_effects_enable_title">Töne bei Berührung</string>
@@ -3844,7 +3846,7 @@ WLAN Assistent"</string>
   <string name="wifi_menu_wfd">WLAN Anzeige</string>
   <string name="wifi_menu_wps_pbc">WPS Push Taste</string>
   <string name="wifi_menu_wps_pin">WPS PIN-Eingabe</string>
-  <string name="wifi_menu_write_to_nfc">Write to NFC tag</string>
+  <string name="wifi_menu_write_to_nfc">Schreiben Sie an NFC-Tag</string>
   <string name="wifi_more">Mehr</string>
   <string name="wifi_network_prefix_length">Länge Netzwerkpräfix</string>
   <string name="wifi_network_prefix_length_hint">24</string>
@@ -4148,7 +4150,7 @@ Das Einrichten des Telefons kann eine erhöhte Netzwerkaktivität erfordern."</s
   <string name="zen_mode_from_none">Keine</string>
   <string name="zen_mode_from_sms">"Nachrichten von "</string>
   <string name="zen_mode_from_starred">Nur markierte Kontakte</string>
-  <string name="zen_mode_important_category">Vorrangunterbrechungen</string>
+  <string name="zen_mode_important_category">Einstellungen</string>
   <string name="zen_mode_messages">Nachrichten</string>
   <string name="zen_mode_miui_disturb_category">Bitte nicht stören</string>
   <string name="zen_mode_miui_silent_category">Erlauben</string>
