@@ -13,23 +13,7 @@
         <item>9</item>
         <item>.</item>
     </string-array>
-    <string-array name="wechat_auto_backup_entries">
         <item>@string/backup_checkbox_msg</item>
-    </string-array>
-    <string-array name="array_local_video">
-        <item>@string/make_private</item>
-        <item>@string/operation_move</item>
-        <item>@string/operation_copy</item>
-        <item>@string/operation_rename</item>
-        <item>@string/operation_info</item>
-    </string-array>
-    <string-array name="array_report_reason">
-        <item>@string/report_porn</item>
-        <item>@string/report_violence</item>
-        <item>@string/report_abuse</item>
-        <item>@string/report_advertisement</item>
-        <item>@string/report_politics</item>
-        <item>@string/report_other</item>
     </string-array>
     <array name="garbage_size_entryValues">
         <item>@drawable/digit0</item>
