@@ -17,8 +17,8 @@
   <string name="find_device_error_account_unknown_error">Mi Konto Fehler (%s)</string>
   <string name="find_device_error_network">Verbindung zum Netzwerk fehlgeschlagen, versuchen Sie es später erneut</string>
   <string name="find_device_error_password_changed">Passwort wurde vor kurzem geändert.</string>
-  <string name="find_device_error_server">Server-Fehler</string>
-  <string name="find_device_error_unknown">Unbekannter Fehler.</string>
+  <string name="find_device_error_server">Server-Fehler (%s)</string>
+  <string name="find_device_error_unknown">Unbekannter Fehler (%s)</string>
   <string name="find_device_noise_title">Gerät finden</string>
   <string name="find_device_notice_p1">Besuchen Sie</string>
   <string name="find_device_notice_p2">i.mi.com</string>
