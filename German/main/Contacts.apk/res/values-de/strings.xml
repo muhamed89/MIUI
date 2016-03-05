@@ -395,7 +395,7 @@ Kontaktkarten sind ausgeschaltet.</string>
   <string name="export_to_sim1">Auf SIM-Karte 1 exportieren</string>
   <string name="export_to_sim2">Auf SIM-Karte 2 exportieren</string>
   <string name="export_to_sim_title">Exportiere…</string>
-  <string name="export_vcard_description">vCard auf SD-Karte exportieren</string>
+  <string name="export_vcard_description">"vCard in USB-Speicher exportieren"</string>
   <string name="exporting_contact_failed_message">"Die Kontaktdaten wurden nicht exportiert.
 Grund: \"%s\"."</string>
   <string name="exporting_contact_failed_title">Export nicht möglich</string>
@@ -415,7 +415,7 @@ Grund: \"%s\"."</string>
   <string name="fail_reason_no_exportable_contact">Es ist kein exportierbarer Kontakt vorhanden</string>
   <string name="fail_reason_not_supported">Format wird nicht unterstützt</string>
   <string name="fail_reason_too_long_filename">Erforderlicher Dateiname ist zu lang (\"%s\")</string>
-  <string name="fail_reason_too_many_vcard">Zu viele vCard Dateien auf der SD-Karte</string>
+  <string name="fail_reason_too_many_vcard">Zu viele vCard Dateien in USB-Speicher</string>
   <string name="fail_reason_unknown">Unbekannter Fehler</string>
   <string name="fail_reason_vcard_parse_error">vCard konnte aus unbekanntem Grund nicht gelesen werden</string>
   <string name="favoritesFrequentCalled">Häufig angerufen</string>
@@ -464,7 +464,7 @@ Grund: \"%s\"."</string>
   <string name="import_all_sim_entries_miui">Alle Kontakte importieren</string>
   <string name="import_all_vcard_string">Alle vCard-Dateien importieren</string>
   <string name="import_contact_card_button">Kontakt importieren</string>
-  <string name="import_failure_no_vcard_file">Keine vCard-Dateien auf der SD-Karte gefunden</string>
+  <string name="import_failure_no_vcard_file">Keine vCard-Dateien im Speicher gefunden.</string>
   <string name="import_from_onekey_migrate">Über Mi Mover importieren</string>
   <string name="import_from_other_phone">Von anderem Telefon importieren</string>
   <string name="import_from_sdcard">aus Speicher importieren</string>
@@ -483,7 +483,7 @@ Grund: \"%s\"."</string>
   <string name="import_to_xiaomi_account_progress_message">Importiere…</string>
   <string name="import_to_xiaomi_account_progress_title">Kontakte in MI-Konto importieren</string>
   <string name="import_to_xiaomi_account_title">Sollen die folgenden Kontakte in Ihrem Mi Konto importiert werden?</string>
-  <string name="import_vcard_description">Kontakte von der SD-Karte importieren</string>
+  <string name="import_vcard_description">"Kontakte von USB-Speicher importieren"</string>
   <string name="import_weibo_dialog_title">Weibo Kontakte importieren</string>
   <string name="import_weibo_error_no_matched_contacts">Keine übereinstimmenden Kontakte</string>
   <string name="import_weibo_error_no_network">Netzwerkfehler</string>
@@ -793,7 +793,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="no_contacts_dialog_message">Keine Kontakte gefunden. Die Kontakte könnten auf Ihrer SIM-Karte sein. Bitte importieren Sie die SIM-Kontakte auf ihr Telefon und versuchen Sie es erneut.</string>
   <string name="no_contacts_dialog_title">Keine Kontakte gefunden</string>
   <string name="no_contacts_selected">Keine Kontakte ausgewählt</string>
-  <string name="no_sdcard_message">Keine SD-Karte gefunden</string>
+  <string name="no_sdcard_message">Kein USB-Speicher gefunden.</string>
   <string name="no_voip_contacts">No Mi Voice contacts</string>
   <string name="non_phone_add_to_contacts">Zu Kontakten hinzufügen</string>
   <string name="non_phone_caption">Telefonnummer</string>
@@ -969,7 +969,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="searchHint">Kontakte durchsuchen</string>
   <string name="search_results_searching">Suche läuft…</string>
   <string name="search_settings_description">Namen Ihrer Kontakte</string>
-  <string name="searching_vcard_message">Suche nach vCard-Daten auf der SD-Karte…</string>
+  <string name="searching_vcard_message">Suche nach vCard-Daten im USB-Speicher…</string>
   <string name="select_all">Alle</string>
   <string name="select_done">Keine weitere Auswahl möglich</string>
   <string name="select_groups">Gruppen auswählen</string>
