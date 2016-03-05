@@ -13,8 +13,6 @@
         <item>9</item>
         <item>.</item>
     </string-array>
-        <item>@string/backup_checkbox_msg</item>
-    </string-array>
     <array name="garbage_size_entryValues">
         <item>@drawable/digit0</item>
         <item>@drawable/digit1</item>
