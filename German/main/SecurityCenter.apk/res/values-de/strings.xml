@@ -14,7 +14,6 @@
   <string name="reject_countdown">Deny (%d)</string>
   <string name="reject_usb_install">Denied access to installation of these apps using computer</string>
   <string name="usb_install_desc">Install this app using computer?</string>
-  
   <string name="SMS_and_MMS">SMS und MMS</string>
   <string name="Settings_title_anti_spam">Sperrlisten-Einstellungen</string>
   <string name="Settings_title_anti_virus">Antivirus-Einstellungen</string>
