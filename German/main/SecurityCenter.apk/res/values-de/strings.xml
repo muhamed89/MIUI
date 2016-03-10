@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_install_intercept">Block installation</string>
-  <string name="continue_install">Install</string>
-  <string name="empty_app">No apps</string>
-  <string name="install_title">Install using computer</string>
-  <string name="monitor_requests_from_pc">Manage app installation using your computer</string>
-  <string name="pc_install_manager">Installation manager</string>
-  <string name="pc_to_phone_install">Blocked installation of %s from computer</string>
-  <string name="pm_remember_choice">Remember my choice</string>
+  <string name="app_install_intercept">Installation blockiert</string>
+  <string name="continue_install">Installieren</string>
+  <string name="empty_app">keine anwendung</string>
+  <string name="install_title">Mit dem PC installieren</string>
+  <string name="monitor_requests_from_pc">Die Anwendung Installation mit dem Pc ausführen</string>
+  <string name="pc_install_manager">Installation Manager</string>
+  <string name="pc_to_phone_install">Die Installation von %s auf dem PC Blockiert</string>
+  <string name="pm_remember_choice">Meine Auswahl beibehalten</string>
   <string name="preference_key_permcenter_install_intercept_enabled">key_permcenter_install_intercept_enabled</string>
-  <string name="recently_reject_message">Rejected installation of %1$s and %2$d other apps</string>
-  <string name="recently_reject_message_one">Rejected %1$s installation requests</string>
-  <string name="reject_countdown">Deny (%d)</string>
-  <string name="reject_usb_install">Denied access to installation of these apps using computer</string>
-  <string name="usb_install_desc">Install this app using computer?</string>
+  <string name="recently_reject_message">Installation von %1$s und %2$d und anderer Anwendungen Abgelehnt.</string>
+  <string name="recently_reject_message_one">%1$s Installationsanforderungen Abgelehnt</string>
+  <string name="reject_countdown">(%d) Verweigert</string>
+  <string name="reject_usb_install">Die Installation der Anwendungen mit den PC verweigert.</string>
+  <string name="usb_install_desc">Die Anwendungen mit dem PC installieren ?</string>
   <string name="SMS_and_MMS">SMS und MMS</string>
   <string name="Settings_title_anti_spam">Sperrlisten-Einstellungen</string>
   <string name="Settings_title_anti_virus">Antivirus-Einstellungen</string>
