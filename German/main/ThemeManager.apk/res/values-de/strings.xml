@@ -343,7 +343,7 @@
   <string name="theme_import_from_sdcard">Importieren</string>
   <string name="theme_is_external_priority_storage">Auf SD-Karte speichern</string>
   <string name="theme_is_external_priority_storage_summary">Die Themes App startet nach jeder Änderung neu</string>
-  <string name="theme_multiple_button_title_customize">Verändern</string>
+  <string name="theme_multiple_button_title_customize">Anpassen</string>
   <string name="theme_name">%1$s</string>
   <string name="theme_no">Nein</string>
   <string name="theme_precast_create_notification_content">Antippen um neue Themen anzeigen zu lassen</string>
