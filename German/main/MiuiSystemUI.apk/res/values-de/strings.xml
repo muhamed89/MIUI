@@ -134,6 +134,7 @@ Bitte Ladegerät benutzen."</string>
   <string name="mland">Marshmallow Land</string>
   <string name="mount_storage">Ja</string>
   <string name="no_notification_tips">Keine Benachrichtigungen</string>
+  <string name="notification_hidden_text">Contents hidden</string>
   <string name="notification_header_title">Benachrichtigungen</string>
   <string name="notification_otg_gamestick_in">Gamecontroller verbunden</string>
   <string name="notification_otg_gamestick_out">Gamecontroller nicht verbunden</string>
