@@ -64,6 +64,7 @@
   <string name="antivirus_privacy_dialog_title">Datenschutzbestimmungen</string>
   <string name="antivirus_sec_support">Powered by %s</string>
   <string name="antivirus_update_db">%s</string>
+  <string name="app_install_intercept">Blockiere Installation</string>
   <string name="app_name_securitycenter">Sicherheit</string>
   <string name="app_not_installed_toast">"App ist auf Ihrem Gerät nicht installiert."</string>
   <string name="auto_handle_title">ALLGEMEIN</string>
@@ -137,6 +138,7 @@
   <string name="cmcc_app_check_dialog_positive">Jetzt neu starten</string>
   <string name="cmcc_app_check_dialog_title">System repariert</string>
   <string name="confirm_reject_all_permission">Beschränken Sie alle Apps aus der Verwendung dieser Funktion?</string>
+  <string name="continue_install">Installieren</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Abbrechen</string>
   <string name="cta_checkbox_title">Nicht mehr anzeigen</string>
@@ -167,6 +169,7 @@
   <string name="dialog_msg_stop_virus_scan">Sind Sie sicher?</string>
   <string name="dialog_title_auto_start_declare">Über Autostart</string>
   <string name="dialog_title_stop_virus_scan">Virusscan anhalten</string>
+  <string name="empty_app">keine anwendung</string>
   <string name="empty_title_auto_start_list">Kein Autostart-Apps</string>
   <string name="empty_title_manual_item_white_list">Keine Ausnahmen.</string>
   <string name="empty_title_perm_apps">Leer</string>
@@ -228,6 +231,7 @@
   <string name="hints_virus_scan_result_descx">"Diese App ist die größte Gefahr für Ihr System."</string>
   <string name="history_details_title">Verlaufdetails</string>
   <string name="info_and_call">Anrufe und Nachrichten</string>
+  <string name="install_title">Über USB installieren</string>
   <string name="item_app_permission">App-Rechte</string>
   <string name="item_dev_mode">Entwickler Optionen</string>
   <string name="item_install_monitor">Installationsmonitor</string>
@@ -282,6 +286,7 @@
   <string name="menu_text_power_manager">Energieverwaltung</string>
   <string name="menu_text_power_percent">%s Akku</string>
   <string name="menu_text_power_percent_title">Akku %s</string>
+  <string name="monitor_requests_from_pc">Manage installation of the apps via USB</string>
   <string name="month_report_month_report_switch">Monatsbericht anzeigen</string>
   <string name="never">1 Mal</string>
   <string name="notification_button_text_of_low_memory">Bereinigen</string>
@@ -290,6 +295,8 @@
   <string name="notification_title_firewall_blocked">Blockiert</string>
   <string name="ok">OK</string>
   <string name="packages_subtitle">Inklusive Pakete</string>
+  <string name="pc_install_manager">Install via USB</string>
+ +  <string name="pc_to_phone_install">Blocked installation of %s via USB</string>
   <string name="percentage">%d%%</string>
   <string name="permission_action_accept">Akzeptieren</string>
   <string name="permission_action_prompt">Fragen</string>
@@ -312,6 +319,7 @@
   <string name="pm_auto_start_by_other_services">Deaktivieren Sie diese Dienste</string>
   <string name="pm_auto_start_by_system">Apps starten</string>
   <string name="pm_auto_start_proc_is_running">Ausführen</string>
+  <string name="pm_remember_choice">Meine Auswahl beibehalten</string>
   <string name="pm_root_success_notification_title">Root-Zugriff aktiviert</string>
   <string name="power_20s_enter_mode">Wechseln von %1$ds zu %2$s</string>
   <string name="power_20s_shutdown">Telefon schaltet sich in 20 Sekunden aus</string>
@@ -501,7 +509,11 @@ Sie müssen Ihre Akku-Einstellungen ändern bevor Sie dieses Profil löschen kö
   <string name="protection_category_dangerous_title">Risiko (%d)</string>
   <string name="protection_category_recommend_title">Empfohlene Änderungen(%d)</string>
   <string name="protection_category_security_title">Löschen (%d)</string>
+  <string name="recently_reject_message">Installation von %1$s und %2$d und andere Anwendungen Abgelehnt.</string>
+  <string name="recently_reject_message_one">Rejected %1$s installation requests</string>
   <string name="reject_all">Alle beschränken</string>
+  <string name="reject_countdown">(%d)Verweigern</string>
+  <string name="reject_usb_install">Verweigert die Installation der folgenden Anwendungen über USB</string>
   <string name="risk_list_header_title">%d verdächtige App(s) gefunden!</string>
   <string name="root_apply_step_1">%s Root-Zugriff gewähren?</string>
   <string name="root_apply_step_2">Apps Root-Zugriff zu gewähren kann Ihr Gerät instabil machen.</string>
@@ -629,5 +641,6 @@ Sie müssen Ihre Akku-Einstellungen ändern bevor Sie dieses Profil löschen kö
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Aktiv lassen</string>
   <string name="usage_type_wifi_running">WLAN aktiv</string>
+  <string name="usb_install_desc">Anwendungen über USB Installieren?</string>
   <string name="virus_list_header_title">%d Viren gefunden</string>
 </resources>
