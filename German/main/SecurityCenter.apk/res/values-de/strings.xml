@@ -2,7 +2,7 @@
 <resources>
   <string name="app_install_intercept">Installation blockiert</string>
   <string name="continue_install">Installieren</string>
-  <string name="empty_app">keine anwendung</string>
+  <string name="empty_app">Keine Anwendung</string>
   <string name="install_title">Mit dem PC installieren</string>
   <string name="monitor_requests_from_pc">Die Anwendung Installation mit dem Pc ausführen</string>
   <string name="pc_install_manager">Installation Manager</string>
@@ -169,7 +169,7 @@
   <string name="dialog_msg_stop_virus_scan">Sind Sie sicher?</string>
   <string name="dialog_title_auto_start_declare">Über Autostart</string>
   <string name="dialog_title_stop_virus_scan">Virusscan anhalten</string>
-  <string name="empty_app">keine anwendung</string>
+  <string name="empty_app">Keine Anwendung</string>
   <string name="empty_title_auto_start_list">Kein Autostart-Apps</string>
   <string name="empty_title_manual_item_white_list">Keine Ausnahmen.</string>
   <string name="empty_title_perm_apps">Leer</string>
