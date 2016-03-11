@@ -156,7 +156,7 @@
   <string name="downloading">Wird geladen</string>
   <string name="downloading_in_3g">Download über 3G…</string>
   <string name="email_platform">E-Mail</string>
-  <string name="enable_documentsui">Enable %s in Settings/InstalledApps first</string>
+  <string name="enable_documentsui">Aktivieren Sie zuerst %s in Einstellungen/InstalledApps</string>
   <string name="enable_sd_card">SD-Karte einsetzen oder USB-Massenspeicher ausschalten</string>
   <string name="enable_usb">USB Gerät anschließen</string>
   <string name="encrypt_error">Dateien können nicht Privat gesetzt werden. Versuchen Sie es erneut.</string>
@@ -364,7 +364,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="no_tasks">Keine Aufgaben.</string>
   <string name="no_wifi">Keine WLAN-Verbindung gefunden</string>
   <string name="no_wifi_hint">Keine Verbindung</string>
-  <string name="not_installed_documentsui">"Haven't installed DocumentsUI"</string>
+  <string name="not_installed_documentsui">"DocumentsUI ist nicht installiert"</string>
   <string name="notif_server_starting">Starte FTP-Server…</string>
   <string name="notif_title">FTP-Server läuft.</string>
   <string name="notification_content_hint">Zum Anzeigen tippen</string>
@@ -605,7 +605,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="tag_weixin_video">Kleine Videos</string>
   <string name="terabyteShort">TB</string>
   <string name="title_app_tags">Apps</string>
-  <string name="title_enable_documentsui">Enable DocumentsUI</string>
+  <string name="title_enable_documentsui">DocumentsUI aktivieren</string>
   <string name="title_expire_video">Läuft bald ab</string>
   <string name="title_more_source">Mehr Apps</string>
   <string name="title_recent">Zuletzt</string>
