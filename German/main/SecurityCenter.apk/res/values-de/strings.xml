@@ -286,7 +286,7 @@
   <string name="menu_text_power_manager">Energieverwaltung</string>
   <string name="menu_text_power_percent">%s Akku</string>
   <string name="menu_text_power_percent_title">Akku %s</string>
-  <string name="monitor_requests_from_pc">Manage installation of the apps via USB</string>
+  <string name="monitor_requests_from_pc">Die Anwendung Installation über USB installieren</string>
   <string name="month_report_month_report_switch">Monatsbericht anzeigen</string>
   <string name="never">1 Mal</string>
   <string name="notification_button_text_of_low_memory">Bereinigen</string>
@@ -295,8 +295,8 @@
   <string name="notification_title_firewall_blocked">Blockiert</string>
   <string name="ok">OK</string>
   <string name="packages_subtitle">Inklusive Pakete</string>
-  <string name="pc_install_manager">Install via USB</string>
- +  <string name="pc_to_phone_install">Blocked installation of %s via USB</string>
+  <string name="pc_install_manager">Über USB installieren</string>
+ +  <string name="pc_to_phone_install">Die Installation von %s über USB ausführen</string>
   <string name="percentage">%d%%</string>
   <string name="permission_action_accept">Akzeptieren</string>
   <string name="permission_action_prompt">Fragen</string>
@@ -510,7 +510,7 @@ Sie müssen Ihre Akku-Einstellungen ändern bevor Sie dieses Profil löschen kö
   <string name="protection_category_recommend_title">Empfohlene Änderungen(%d)</string>
   <string name="protection_category_security_title">Löschen (%d)</string>
   <string name="recently_reject_message">Installation von %1$s und %2$d und andere Anwendungen Abgelehnt.</string>
-  <string name="recently_reject_message_one">Rejected %1$s installation requests</string>
+  <string name="recently_reject_message_one">%1$s Installationsanforderungen Abgelehnt</string>
   <string name="reject_all">Alle beschränken</string>
   <string name="reject_countdown">(%d)Verweigern</string>
   <string name="reject_usb_install">Verweigert die Installation der folgenden Anwendungen über USB</string>
