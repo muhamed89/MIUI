@@ -3647,10 +3647,10 @@ Jeder Nutzer kann aktualisierte App-Berechtigungen im Namen aller anderen Nutzer
   <string name="vpn_disconnect_confirm">Dieses VPN trennen.</string>
   <string name="vpn_dns_servers">DNS-Server</string>
   <string name="vpn_dns_servers_hint">z.b. 8.8.8.8</string>
-  <string name="vpn_done">Verwerfen</string>
+  <string name="vpn_done">Abbrechen</string>
   <string name="vpn_edit">VPN-Profil bearbeiten</string>
   <string name="vpn_enable">VPN</string>
-  <string name="vpn_forget">Vergessen</string>
+  <string name="vpn_forget">Löschen</string>
   <string name="vpn_ipsec_ca_cert">IPSec-CA-Zertifikat</string>
   <string name="vpn_ipsec_identifier">IPSec-ID</string>
   <string name="vpn_ipsec_secret">Vorinstallierter IPSec-Schlüssel</string>
