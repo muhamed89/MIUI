@@ -31,6 +31,7 @@ Möchten Sie dies jetzt und in Zukunft zulassen?"</string>
   <string name="app_permissions">App-Berechtigungen</string>
   <string name="app_permissions_breadcrumb">Apps</string>
   <string name="app_permissions_group_summary">%1$d von %2$d Apps sind berechtigt.</string>
+  <string name="caller_app">Berechtigungsanfrage von %1$s</string>
   <string name="cancel">Abbrechen</string>
   <string name="current_permission_template">%1$s von %2$s</string>
   <string name="default_permission_description">Unbekannte Aktion durchführen</string>
@@ -38,6 +39,7 @@ Möchten Sie dies jetzt und in Zukunft zulassen?"</string>
   <string name="dlg_app_replacement_statement">"Die App, die Sie momentan installieren, wird eine andere App ersetzen.
 
 Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
+  <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) wird die derzeit installierte Version (%3$s) ersetzen. Existierende App Daten bleiben erhalten.</string>
   <string name="dlg_app_replacement_title">App ersetzen?</string>
   <string name="dlg_ok">OK</string>
   <string name="dlg_sys_app_replacement_statement">"Dies ist eine Systemanwendung.
@@ -115,15 +117,35 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="old_sdk_deny_warning">Diese App wurde für eine ältere Version von Android konzipiert. Wenn Sie keine Berechtigung erteilen, funktioniert die App möglicherweise nicht mehr ordnungsgemäß.</string>
   <string name="orb_search_action">Suchaktion</string>
   <string name="other_permissions">Andere App-Funktionen</string>
+  <string name="other_relative">Andere</string>
   <string name="out_of_space_dlg_text">"%1$s konnte nicht installiert werden. Geben Sie Speicherplatz frei und versuchen Sie es erneut."</string>
   <string name="out_of_space_dlg_title">Kein freier Speicher vorhanden</string>
+  <string name="perm_action_accept">Erlauben</string>
+  <string name="perm_action_prompt">Nachfragen</string>
+  <string name="perm_action_reject">Verweigern</string>
+  <string name="perm_notice">Alarmieren</string>
+  <string name="perm_privacy_app_finish">OK</string>
+  <string name="perm_privacy_app_installed">App wurde installiert</string>
+  <string name="perm_privacy_app_launch">Öffnen</string>
+  <string name="perm_privacy_app_trust">Berechtigung anfragen</string>
+  <string name="perm_privacy_app_trust_summary">Berechtigung anfragen, wenn diese App versucht, auf andere Teile des Systems zuzugreifen</string>
+  <string name="perm_sysopt_boost_auto_start">Autostart Berechtigung</string>
+  <string name="perm_sysopt_boost_auto_start_summary">This app can start automatically</string>
   <string name="permdesc_togglePermissions">Ermöglicht dem Inhaber die Benutzeroberfläche für das Umschalten von App-Berechtigungen zu starten. Sollte für eine normale Anwendungen nie benötigt werden.</string>
+  <string name="permission_group_title_charges_related">Telefon</string>
+  <string name="permission_group_title_media_related">Medien</string>
+  <string name="permission_group_title_others">Andere</string>
+  <string name="permission_group_title_privacy_related">Datenschutz</string>
+  <string name="permission_group_title_settings_related">Einstellungen</string>
+  <string name="permission_send_sms_descx">App kann SMS und MMS senden</string>
+  <string name="privacy_relative">Datenschutz</string>
   <string name="permission_request_title">Berechtigungsanfrage</string>
   <string name="permission_summary_enforced_by_policy">Von Richtlinien durchgesetzt</string>
   <string name="permission_title">Berechtigungen für %1$s</string>
   <string name="permission_warning_template">Zulassen %1$s von %2$s?</string>
   <string name="permlab_togglePermissions">Berechtigungen umschalten</string>
   <string name="privacyPerms">Datenschutz</string>
+  <string name="safe_relative">Sicherheit</string>
   <string name="screen_overlay_button">Einstellungen öffnen</string>
   <string name="screen_overlay_message">Um diese Berechtigungseinstellung zu ändern, müssen Sie zunächst das Bildschirm-Overlay Einstellungen deaktivieren &gt; Apps</string>
   <string name="screen_overlay_title">Bildschirm-Overlay erkannt</string>

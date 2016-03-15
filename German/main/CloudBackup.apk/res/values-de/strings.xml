@@ -90,7 +90,7 @@ Wichtig: Die Daten der einzelnen Apps werden dabei nicht in der Mi Cloud gesiche
   <string name="open_wifi_setting">WLAN-Einstellungen</string>
   <string name="process_whole_recovery">Wiederherstellung \"%s\"</string>
   <string name="query_restore_back_view">Mi Cloud Sicherung</string>
-  <string name="query_restore_description">Startbildschirm Apps und Einstellungen aus dieser Sicherung wiederherstellen. Apps die bereits vorhanden sind, werden dabei überschrieben. Apps die nicht in der Sicherung enthalten sind, werden auf den letzten Startbildschirm verschoben.</string>
+  <string name="query_restore_description">Startbildschirm, Apps und Einstellungen aus dieser Sicherung wiederherstellen. Apps die bereits vorhanden sind, werden dabei überschrieben. Apps die nicht in der Sicherung enthalten sind, werden auf den letzten Startbildschirm verschoben.</string>
   <string name="query_restore_summary">Eine Mi Cloud Sicherung wurde für dieses Gerät gefunden. Startbildschirm Apps und Einstellungen aus der Sicherung wiederherstellen oder dieses Gerät als Neu behandeln und alle älteren Sicherungen löschen?</string>
   <string name="recover_from_micloud">Wiederherstellung aus der Mi Cloud</string>
   <string name="recover_home_settings">Startbildschirm-Einstellungen wiederherstellen</string>
