@@ -455,7 +455,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="phone_storage_total">Gesamt</string>
   <string name="phone_storage_video_title">Videos: </string>
   <string name="phone_storage_zip_title">Archive: </string>
-  <string name="pick_file">Dateien auswählen files</string>
+  <string name="pick_file">Dateien auswählen</string>
   <string name="pick_folder">Ordner auswählen</string>
   <string name="port_range">Port muss zwischen 1024-65535 sein</string>
   <string name="private_files">Privat</string>

@@ -126,7 +126,7 @@
   <string name="account_setup_options_mail_window_auto">Automatisch</string>
   <string name="account_setup_options_mail_window_default">Kontostandard verwenden</string>
   <string name="account_setup_options_mail_window_label">Synchronisationszeitraum</string>
-  <string name="account_setup_options_mail_window_label_imap_or_pop3">Keep for</string>
+  <string name="account_setup_options_mail_window_label_imap_or_pop3">Vorhaltezeit</string>
   <string name="account_setup_options_title">Kontoeinstellungen</string>
   <string name="account_setup_outgoing_port_label">Port</string>
   <string name="account_setup_outgoing_require_login_label">Anmeldung erforderlich</string>

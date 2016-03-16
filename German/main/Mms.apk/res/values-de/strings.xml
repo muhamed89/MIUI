@@ -399,8 +399,8 @@
   <string name="pref_title_mms_retrieval_during_roaming">MMS downloaden bei Roaming</string>
   <string name="pref_title_mms_validity_period">MMS Ablauf</string>
   <string name="pref_title_notification_body_enabled">Vorschau anzeigen</string>
-  <string name="pref_title_ringtone_repeat">Erinnerungston</string>
-  <string name="pref_title_ringtone_repeat_summary">Spielen Sie eine Benachrichtigung sound ab, wenn eine SMS-Nachricht empfangen wurde, während der Bildschirm ausgeschaltet ist</string>
+  <string name="pref_title_ringtone_repeat">Benachrichtigungston</string>
+  <string name="pref_title_ringtone_repeat_summary">Einen Benachrichtigungston abspielen, wenn Sie eine Nachricht erhalten, während der Bildschirm ausgeschaltet ist</string>
   <string name="pref_title_send_delivery_reports">Sende Auslieferungsnachricht</string>
   <string name="pref_title_show_recent_contacts">Letzte Kontakte anzeigen</string>
   <string name="pref_title_sms_delete">Maximalanzahl SMS</string>

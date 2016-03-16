@@ -651,7 +651,7 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="builtin_keyboard_settings_summary">Hardware Tastatur Einstellungen</string>
   <string name="builtin_keyboard_settings_title">Hardware Tastatur</string>
   <string name="button_disconnect_network">Netzwerk trennen</string>
-  <string name="button_light_timeout">Keep button lights on</string>
+  <string name="button_light_timeout">Tastenbeleuchtung bleibt ein für</string>
   <string name="button_text_login">Anmelden</string>
   <string name="button_text_reboot_now">Neustarten</string>
   <string name="cache_header_label">Cache</string>
