@@ -1,5 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">Datenverbrauch für %d Apps wird nicht aufgezeichnet</item>
+        <item quantity="one">Datenverbrauch für %d Apps wird nicht aufgezeichnet</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">Datenverbrauch für %d Apps wird aufgezeichnet</item>
+        <item quantity="one">Datenverbrauch für %d App wird aufgezeichnet</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">%d Apps optimiert</item>
+        <item quantity="one">%d App optimiert</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">%d Apps können optimiert werden</item>
+        <item quantity="one">%d App kann optimiert werden</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">%d Apps verwenden Datenreduzierung</item>
+        <item quantity="one">%d App verwendet Datenreduzierung</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="other">%d Apps verwenden keine Datenreduzierung</item>
+        <item quantity="one">%d App verwendet keine Datenreduzierung</item>
+    </plurals>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">Vor %d Tagen verwendet</item>
+        <item quantity="one">Gestern verwendet</item>
+    </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">%d Apps durchsuchen</item>
+        <item quantity="one">%d App durchsuchen</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d Apps dürfen Datenroaming verwenden</item>
+        <item quantity="one">%d App darf Datenroaming verwenden</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">%d Apps dürfen Datenroaming nicht verwenden</item>
+        <item quantity="one">%d App darf Datenroaming nicht verwenden</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">%d Apps gefunden</item>
+        <item quantity="one">%d App gefunden</item>
+    </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d Tage "</item>
         <item quantity="one">"%d Tag "</item>

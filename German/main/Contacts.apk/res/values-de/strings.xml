@@ -1094,6 +1094,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="type_mx_msg">Cloud-Nachrichten</string>
   <string name="type_outgoing">Ausgehender Anruf</string>
   <string name="type_voicemail">Mailbox</string>
+  <string name="unable_get_device_id">IMEI kann nicht gelesen werden</string>
   <string name="unknow_phone_number_call_failed">Unbekannte Nummer kann nicht angerufen werden</string>
   <string name="unknow_phone_number_mms_failed">Nachricht kann nicht an unbekannte Nummer versendet werden</string>
   <string name="unknown">Unbekannt</string>

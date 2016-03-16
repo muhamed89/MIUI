@@ -61,6 +61,8 @@
   <string name="label_pref_summary">Wecker benennen</string>
   <string name="lap">Runde</string>
   <string name="lap_num">Runde</string>
+  <string name="legal_off_day">Gesetzlicher Feiertag</string>
+  <string name="legal_off_day_message">" (Alarm ist an Werktagen deaktiviert)"</string>
   <string name="legal_workday">Gesetzlicher Arbeitstag</string>
   <string name="legal_workday_invalidate">Daten ungültig (Wecker klingelt von Mo bis Fr)</string>
   <string name="legal_workday_invalidate_message">(Daten ungültig. Aktualisiere die Einstellungen)</string>
@@ -75,6 +77,7 @@
   <string name="minute">1 Minute</string>
   <string name="minutes">%s Minuten</string>
   <string name="never">Einmalig</string>
+  <string name="oneshot_alarm">Löschen, sobald der Wecker klingelt</string>
   <string name="pause">Pause</string>
   <string name="remind_ringtone">Klingelton</string>
   <string name="reset">Zurücksetzen</string>

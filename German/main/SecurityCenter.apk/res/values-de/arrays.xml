@@ -7,6 +7,80 @@
         <item>In 30 Minuten</item>
         <item>Nie</item>
     </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Diese Woche "</item>
+        <item>"Heute "</item>
+        <item>"Diesen Monat "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Gestern "</item>
+        <item>"Heute "</item>
+        <item>"Diesen Monat "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Diese Woche: "</item>
+        <item>"Heute: "</item>
+        <item>"Diesen Monat: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Gestern: "</item>
+        <item>"Heute: "</item>
+        <item>"Diesen Monat: "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Gestern (Daten)</item>
+        <item>Heute (Daten)</item>
+        <item>Diesen Monat (Daten)</item>
+        <item>Gestern WLAN</item>
+        <item>Heute WLAN</item>
+        <item>Diesen Monat WLAN</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Gestern (Daten)</item>
+        <item>Heute (Daten)</item>
+        <item>Diesen Monat (Daten)</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 Sek.</item>
+        <item>4 Sek.</item>
+        <item>5 Sek.</item>
+        <item>6 Sek.</item>
+        <item>7 Sek.</item>
+        <item>8 Sek.</item>
+        <item>9 Sek.</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Mobile Daten "</item>
+        <item>"WLAN "</item>
+        <item>"Dataen gespeichert "</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Mobile Daten "</item>
+        <item>"WLAN "</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>"Mobile Daten "</item>
+        <item>"WLAN "</item>
+        <item>"Dataen gespeichert "</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>Automatisch beziehen</item>
+        <item>Manuell einstellen</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Warnung anzeigen</item>
+        <item>Warnen und mobile Daten ausschalten</item>
+    </string-array>
+    <string-array name="roaming_apps_sorted_type">
+        <item>Am häufigsten verwendet</item>
+        <item>Name</item>
+    </string-array>
+    <string-array name="traffic_saving_compress_level_string_array">
+        <item>Aus</item>
+        <item>Niedrig</item>
+        <item>Mittel</item>
+        <item>Hoch</item>
+    </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Nach 1 Minute</item>
         <item>Nach 5 Minuten</item>

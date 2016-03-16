@@ -944,6 +944,7 @@
         <item>Einmalig</item>
         <item>Täglich</item>
         <item>an Werktagen</item>
+		<item>an freien Tagen</item>
         <item>Mo bis Fr</item>
         <item>Benutzerdefiniert</item>
     </string-array>
@@ -959,12 +960,13 @@
         <item>2</item>
         <item>3</item>
         <item>4</item>
+		<item>5</item>
     </integer-array>
     <integer-array name="alarm_repeat_type_no_workdays_values">
         <item>0</item>
-        <item>1</item>
-        <item>3</item>
+        <item>1</item>        
         <item>4</item>
+		<item>5</item>
     </integer-array>
     <string-array name="alarm_set">
         <item>Der Wecker klingelt in weniger als 1 Minute</item>

@@ -8,6 +8,7 @@
   <string name="back_up_task_unfinished">Sicherung nicht vollständig</string>
   <string name="backing_up_to_micloud">Sichern…</string>
   <string name="backup_fail">"Sicherung der Startbildschirm-Apps fehlgeschlagen"</string>
+  <string name="backup_finished_notification_content">Startbildschirm, Systemeinstellungen, etc. wurden gesichert</string>
   <string name="backup_size">Größe: %s</string>
   <string name="backup_success">App Sicherung erfolgreich</string>
   <string name="backup_to_cloud">App sichern</string>
