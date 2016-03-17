@@ -90,8 +90,8 @@
   <string name="baby_album_setting_title">Baby info</string>
   <string name="baby_album_sharer_accept_dialog_msg">"%1$s's %2$s,
 %3$s's %4$s teilte %5$s's Alben mit Ihnen"</string>
-  <string name="baby_album_sharer_recommand_face">Add existing photos of %1$s?</string>
-  <string name="baby_album_sharers_page_title">Teile mit Familie</string>
+  <string name="baby_album_sharer_recommand_face">Vorhandenen Fotos von %1$s hinzufügen?</string>
+  <string name="baby_album_sharers_page_title">Mit Familie teilen</string>
   <string name="baby_birthday">Geburtstag</string>
   <string name="baby_lock_wallpaper">Sperrbildschirm Hintergrund</string>
   <string name="baby_lock_wallpaper_cancelled">Standard Sperrbildschirm-Hintergrund eingestellt</string>
