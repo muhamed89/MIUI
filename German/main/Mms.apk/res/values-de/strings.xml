@@ -48,6 +48,7 @@
   <string name="bookmark_confirm_delete_message">Ausgewählte Nachrichten aus den Favoriten entfernen?</string>
   <string name="bookmark_empty">Keine Favoriten</string>
   <string name="bookmark_list_title">Favoriten</string>
+  <string name="call_sender">Absender anrufen</string>
   <string name="cannot_add_picture_and_video">Auf ein Dia kann kein Video und Bild eingefügt werden</string>
   <string name="cannot_add_slide_anymore">Es können keine weiteren Dias hinzugefügt werden</string>
   <string name="cannot_forward_drm_obj">Das in der Nachricht enthaltene DRM-Objekt kann nicht weitergeleitet werden</string>
@@ -505,6 +506,7 @@
   <string name="set">Festlegen</string>
   <string name="share_img">Teilen</string>
   <string name="show_all_messages">Alle Nachrichten anzeigen</string>
+  <string name="show_sender">Absender Infos anzeigen</string>
   <string name="sim_card1">SIM-Karte 1</string>
   <string name="sim_card2">SIM-Karte 2</string>
   <string name="sim_card_cloud">%s (Mi Nachricht)</string>
