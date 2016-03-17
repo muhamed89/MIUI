@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <resources>
+     <plurals name="numberOfItemsAvailable">
+         <item quantity="other">%d Elemente löschen?</item>
+         <item quantity="one">Dieses Element löschen?</item>
+     </plurals>
+ +</resources>
