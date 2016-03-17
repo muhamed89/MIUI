@@ -44,7 +44,7 @@
   <string name="answer_state_setting_summary">Zusätzliche Optionen für eingehende Anrufe</string>
   <string name="answer_state_setting_title">Eingehende Anruf Einstellungen</string>
   <string name="antispam_notification_title">Unbekannte Nummer</string>
-  <string name="apn_settings">AP-Namen</string>
+  <string name="apn_settings">Zugangspunkte</string>
   <string name="area_code_preference_summary">Automatische Wahl der Vorwahl</string>
   <string name="areacode_set_default">Standard</string>
   <string name="atr_disable">Verkehrsmeldungen deaktiviert</string>
@@ -596,7 +596,7 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="international_dial_complete_yes">Nutze Mi Voice</string>
   <string name="international_disable">Internationale Nachrichten ausgeschaltet</string>
   <string name="international_enable">Internationale Nachrichten eingeschaltet</string>
-  <string name="international_roaming_setting">Data-Roaming</string>
+  <string name="international_roaming_setting">Daten-Roaming</string>
   <string name="internet_phone">VOIP</string>
   <string name="invalidPin">Geben Sie eine 4- bis 8-stellige PIN ein</string>
   <string name="invalidPin2">Geben Sie eine 4- bis 8-stellige PIN2 ein</string>
@@ -1070,7 +1070,7 @@ Ihr Telefon wird nach einem weiteren gescheiterten Versuch automatisch gesperrt"
   <string name="preferred_network_mode_td_scdma_wcdma_lte_choice">TD-SCDMA/WCDMA/LTE</string>
   <string name="preferred_network_mode_td_scdma_wcdma_lte_summary">Preferred network mode: TD-SCDMA/WCDMA/LTE</string>
   <string name="preferred_network_mode_td_scdma_wcdma_summary">Preferred network mode: TD-SCDMA / WCDMA</string>
-  <string name="preferred_network_mode_title">Bevorzugter Netzwerk Typ</string>
+  <string name="preferred_network_mode_title">Bevorzugter Netzwerktyp</string>
   <string name="preferred_network_mode_wcdma_only_choice">WCDMA only</string>
   <string name="preferred_network_mode_wcdma_only_summary">Preferred network mode: WCDMA only</string>
   <string name="preferred_network_mode_wcdma_perf_summary">Preferred network mode: WCDMA preferred</string>
