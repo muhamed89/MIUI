@@ -42,7 +42,7 @@
   <string name="anc_title">Aktive Rauschunterdrückung</string>
   <string name="answer_features_setting_category">Antworten</string>
   <string name="answer_state_setting_summary">Zusätzliche Optionen für eingehende Anrufe</string>
-  <string name="answer_state_setting_title">Eingehende Anruf Einstellungen</string>
+  <string name="answer_state_setting_title">Einstellungen für eingehende Anrufe</string>
   <string name="antispam_notification_title">Unbekannte Nummer</string>
   <string name="apn_settings">Zugangspunkte</string>
   <string name="area_code_preference_summary">Automatische Wahl der Vorwahl</string>
