@@ -1213,8 +1213,8 @@ Ihre SIM-Karte wird nach einem weiteren gescheiterten Versuch gelöscht</string>
   <string name="search_networks">Search networks</string>
   <string name="selectContact">Kontakt auswählen</string>
   <string name="select_automatically">Automatisch auswählen</string>
-  <string name="select_cancel">Cancel</string>
-  <string name="select_continue">Continue</string>
+  <string name="select_cancel">Abbrechen</string>
+  <string name="select_continue">Weiter</string>
   <string name="select_ok">OK</string>
   <string name="select_voice_call_sim">Bitte auswählen</string>
   <string name="sendSms">SMS senden</string>
