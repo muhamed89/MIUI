@@ -156,7 +156,7 @@
   <string name="downloading">Wird geladen</string>
   <string name="downloading_in_3g">Download über 3G…</string>
   <string name="email_platform">E-Mail</string>
-  <string name="enable_documentsui">Aktivieren Sie zuerst %s in Einstellungen/InstalledApps</string>
+  <string name="enable_documentsui">Aktivieren Sie zuerst %s in Einstellungen &gt; Installierten Apps</string>
   <string name="enable_sd_card">SD-Karte einsetzen oder USB-Massenspeicher ausschalten</string>
   <string name="enable_usb">USB Gerät anschließen</string>
   <string name="encrypt_error">Dateien können nicht Privat gesetzt werden. Versuchen Sie es erneut.</string>
