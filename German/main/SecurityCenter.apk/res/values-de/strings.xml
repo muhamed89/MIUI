@@ -181,7 +181,6 @@ oder Passwort eingeben"</string>
   <string name="connect_internet_by_mobiledata">Internetverbindung über Mobilnetz herstellen</string>
   <string name="connect_internet_by_usbshare">Internetverbindung über USB herstellen</string>
   <string name="connect_internet_by_wifi">WLAN</string>
-  <string name="continue_install">Installieren</string>
   <string name="correction_attention_dialog_message">Die Einstellungen jetzt anpassen. Warten Sie, bis der Vorgang abgeschlossen ist, und versuchen Sie es erneut.</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Abbrechen</string>
