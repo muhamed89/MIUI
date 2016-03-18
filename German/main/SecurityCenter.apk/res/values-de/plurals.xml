@@ -85,44 +85,44 @@
         <item quantity="one">Update vorhanden für %d App.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">Password should contain at least %d letters.</item>
-        <item quantity="one">"Password should contain at least 1 letter. "</item>
+        <item quantity="other">Das Passwort sollte mindestens %d Buchstaben enthalten.</item>
+        <item quantity="one">"Das Passwort sollte mindestens 1 Buchstaben enthalten."</item>
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">Password should contain at least %d lowercase letters.</item>
-        <item quantity="one">Password should contain at least 1 lowercase …</item>
+        <item quantity="other">Das Passwort sollte mindestens %d Kleinbuchstaben enthalten.</item>
+        <item quantity="one">Das Passwort sollte mindestens 1 Kleinbuchstaben enthalten…</item>
     </plurals>
     <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">Password should contain at least %d uppercase letters.</item>
-        <item quantity="one">Password should contain at least 1 uppercase …</item>
+        <item quantity="other">Das Passwort sollte mindestens %d Großbuchstaben enthalten.</item>
+        <item quantity="one">Das Passwort sollte mindestens 1 Großbuchstaben enthalten…</item>
     </plurals>
     <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">Password should contain at least %d numbers.</item>
-        <item quantity="one">Password should contain at least 1 …</item>
+        <item quantity="other">Das Passwort sollte mindestens %d Zahlen enthalten.</item>
+        <item quantity="one">Das Passwort sollte mindestens 1 Zahl enthalten…</item>
     </plurals>
     <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">Password should contain at least %d special symbols.</item>
-        <item quantity="one">Password should contain at least 1 special …</item>
+        <item quantity="other">Das Passwort sollte mindestens %d Sonderzeichen enthalten.</item>
+        <item quantity="one">Das Passwort sollte mindestens 1 Sonderzeichen enthalten…</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Password should contain at least %d characters other than letters.</item>
-        <item quantity="one">Password should contain at least 1 character other than …</item>
+        <item quantity="other">Das Passwort sollte mindestens %d Zeichen enthalten ohne Buchstaben.</item>
+        <item quantity="one">Das Passwort sollte mindestens 1 Zeichen enthalten ohne Buchstaben…</item>
     </plurals>
     <plurals name="number_locked">
-        <item quantity="other">%d apps locked</item>
-        <item quantity="one">%d app locked</item>
+        <item quantity="other">%d Apps gesperrt</item>
+        <item quantity="one">%d App gesperrt</item>
     </plurals>
     <plurals name="number_to_lock">
-        <item quantity="other">%d apps not locked</item>
-        <item quantity="one">%d app not locked</item>
+        <item quantity="other">%d Apps sind nicht gesperrt</item>
+        <item quantity="one">%d App ist nicht gesperrt</item>
     </plurals>
     <plurals name="find_applications">
-        <item quantity="other">Search among %d apps</item>
-        <item quantity="one">Search among %d app</item>
+        <item quantity="other">Suche unter %d apps</item>
+        <item quantity="one">Suche unter %d app</item>
     </plurals>
     <plurals name="found_apps_title">
-        <item quantity="other">%d apps found</item>
-        <item quantity="zero">0 app found</item>
-        <item quantity="one">%d app found</item>
+        <item quantity="other">%d Apps gefunden</item>
+        <item quantity="zero">0 APP gefunden</item>
+        <item quantity="one">%d APP gefunden</item>
     </plurals>
 </resources>
