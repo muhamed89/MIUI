@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_install_intercept">Installation blockiert</string>
+  <string name="app_install_intercept">Installation blockiert</string>  
   <string name="continue_install">Installieren</string>
   <string name="empty_app">Keine Anwendung</string>
   <string name="install_title">Mit dem PC installieren</string>
@@ -86,6 +86,7 @@ oder Passwort eingeben"</string>
   <string name="apn_exception_title">APN Konfigurationen</string>
   <string name="app_detail">Details</string>
   <string name="app_mobile">Mobil</string>
+  <string name="app_name">Anwendungssperre</string>
   <string name="app_name_na">Datenverbrauch</string>
   <string name="app_name_securitycenter">Sicherheit</string>
   <string name="app_not_installed_toast">"App ist auf Ihrem Gerät nicht installiert."</string>
@@ -126,6 +127,7 @@ oder Passwort eingeben"</string>
   <string name="brightness_auto_adjust_on">Die Helligkeit wird je nach Umgebungslicht optimiert</string>
   <string name="btn_finish_diagnostic">OK</string>
   <string name="btn_jump">Skip</string>
+  <string name="btn_lock">Sperre hinzufügen</string>
   <string name="btn_lock">Sperre hinzufügen</string>
   <string name="btn_start_diagnostic">Netzwerktest</string>
   <string name="btn_stop_diagnostic">Stopp</string>
@@ -991,6 +993,7 @@ Sie müssen Ihre Akku-Einstellungen ändern bevor Sie dieses Profil löschen kö
   <string name="system_check_content">%1$d verdächtige Elemente</string>
   <string name="system_check_content_none">Sicher</string>
   <string name="system_header_title">%1$d Prozesse beenden um %2$s Speicher frei zu machen</string>
+  <string name="system_info_remind">Richten Sie eine Sperre ein, um unbefugten Zugriff auf Ihre Apps zu verhindern</string>
   <string name="tc_diagnostic_all_error_notification_summary">Antippen, um ein Problem zu melden</string>
   <string name="tc_diagnostic_all_error_notification_title">"Diagnose kann nicht abgeschlossen werden"</string>
   <string name="tc_diagnostic_brand_error_notification_summary">Antippen, um Netzwerktyp festzulegen</string>

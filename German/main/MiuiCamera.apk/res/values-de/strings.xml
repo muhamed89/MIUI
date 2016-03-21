@@ -82,8 +82,8 @@
   <string name="pref_camera_asd_night_title">Autom. Nachtaufnahmen verbessern</string>
   <string name="pref_camera_asd_popup_title">Benachrichtigen wenn Blitz erforderlich ist</string>
   <string name="pref_camera_audio_capture_title">Ton</string>
-  <string name="pref_camera_auto_capture_when_stable_summary">Um ein Objekt auszuwählen, tippen Sie zwei diagonale Punkte um seine Grenze. Wenn das Objekt stationäre rastet die Kamera automatisch einen Aufnahme.</string>
-  <string name="pref_camera_auto_capture_when_stable_title">Erfasst Aufnahme wenn Objekt stillsteht</string>
+  <string name="pref_camera_auto_capture_when_stable_summary">Um ein Objekt auszuwählen, markieren Sie zwei genenüberliegende Eckpunkte. Wenn das Objekt stillsteht, wird die Kamera automatisch auslösen.</string>
+  <string name="pref_camera_auto_capture_when_stable_title">Bewegliches Objekt aufnehmen, sobald es stillsteht</string>
   <string name="pref_camera_auto_chroma_flash_title">Chrome-Blitz</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Mittenbetonte Messung</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Bildmittelung</string>
