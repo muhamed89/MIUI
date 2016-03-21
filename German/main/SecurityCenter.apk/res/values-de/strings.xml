@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_install_intercept">Installation blockiert</string>  
+  <string name="app_install_intercept">Installation blockiert</string>
   <string name="continue_install">Installieren</string>
   <string name="empty_app">Keine Anwendung</string>
   <string name="install_title">Mit dem PC installieren</string>
@@ -127,7 +127,6 @@ oder Passwort eingeben"</string>
   <string name="brightness_auto_adjust_on">Die Helligkeit wird je nach Umgebungslicht optimiert</string>
   <string name="btn_finish_diagnostic">OK</string>
   <string name="btn_jump">Skip</string>
-  <string name="btn_lock">Sperre hinzufügen</string>
   <string name="btn_lock">Sperre hinzufügen</string>
   <string name="btn_start_diagnostic">Netzwerktest</string>
   <string name="btn_stop_diagnostic">Stopp</string>
