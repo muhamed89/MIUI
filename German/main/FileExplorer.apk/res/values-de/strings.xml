@@ -4,7 +4,7 @@
   <string name="action_mode_deselect_all">Keine</string>
   <string name="action_mode_select_all">Alle</string>
   <string name="ad_download">Download</string>
-  <string name="ad_downloading">Laden…</string>
+  <string name="ad_downloading">Einen Moment…</string>
   <string name="add_private">Dateien jetzt verbergen</string>
   <string name="add_private_files">Dateien hinzufügen</string>
   <string name="add_task">Hinzufügen</string>
@@ -26,13 +26,13 @@
   <string name="archive_send_to">Sende an…</string>
   <string name="background">Verbergen</string>
   <string name="backup_cancel">Abbrechen</string>
-  <string name="backup_checkbox_msg">Immer sichern und Benachrichtigungen anzeigen</string>
+  <string name="backup_checkbox_msg">Automatisch sichern</string>
   <string name="backup_confirm">Jetzt sichern</string>
   <string name="backup_success_cancel">OK</string>
   <string name="backup_success_confirm">Anzeigen</string>
   <string name="backup_success_message">Sicherung auf %1$s</string>
   <string name="backup_success_title">Gesichert</string>
-  <string name="backup_title">WeChat-Videosicherungen</string>
+  <string name="backup_title">Chat Video sichern?</string>
   <string name="big5_summary">Standardcodierung für Traditionelles Chinesisch in Windows</string>
   <string name="big5_title">BIG5</string>
   <string name="bind_account">Sync KuaiPan Konto</string>
@@ -52,8 +52,8 @@
   <string name="category_bluetooth">Bluetooth</string>
   <string name="category_default_number_text">(0)</string>
   <string name="category_document">Dokumente</string>
-  <string name="category_download">Download</string>
-  <string name="category_favorite">Markiert</string>
+  <string name="category_download">Downloads</string>
+  <string name="category_favorite">Favoriten</string>
   <string name="category_file">Datei</string>
   <string name="category_files">Dateien</string>
   <string name="category_midrive">KuaiPan</string>
@@ -73,7 +73,7 @@
   <string name="change_sticker">Pick another</string>
   <string name="choose_report_reason">Warum melden Sie das?</string>
   <string name="choose_send_type">Methode auswählen</string>
-  <string name="choose_upload_location">Zum KuaiPan-Ordner hochladen</string>
+  <string name="choose_upload_location">Auf KuaiPan hochladen</string>
   <string name="clean_hint">Tippen, um Speicherplatz freizugeben</string>
   <string name="clean_message">%1$s Speicherplatz freigegeben</string>
   <string name="clean_title">Dateien älter als 30 Tage löschen</string>
@@ -145,8 +145,8 @@
   <string name="dir_not_support">"Can't hide this folder"</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Leer</string>
-  <string name="disk_available">Verfügbar:</string>
-  <string name="disk_total">Gesamt:</string>
+  <string name="disk_available">"Verfügbar: "</string>
+  <string name="disk_total">"Gesamt: "</string>
   <string name="dlg_error_unmount_text">USB-Speicher konnte nicht getrennt werden</string>
   <string name="download">Download</string>
   <string name="download_current_progress">%1$d%%</string>
@@ -183,7 +183,7 @@
   <string name="file_info_location">Pfad:</string>
   <string name="file_info_modified">Geändert:</string>
   <string name="file_info_size">Größe:</string>
-  <string name="file_loading">Wird geladen…</string>
+  <string name="file_loading">Einen Moment…</string>
   <string name="file_name_invalid">"Dateiname kann nicht folgende Zeichen enthalten: /\\:*?&lt;&gt;"</string>
   <string name="file_not_exist">Datei nicht vorhanden</string>
   <string name="file_too_large">Datei ist zum Hochladen zu groß</string>
@@ -215,7 +215,7 @@
   <string name="group_title_extra_new">Neu</string>
   <string name="has_installed">Installiert</string>
   <string name="homepage_tab_category">Kategorien</string>
-  <string name="homepage_tab_file_view">Telefon</string>
+  <string name="homepage_tab_file_view">Speicher</string>
   <string name="homepage_tab_recent">Kürzlich verwendet</string>
   <string name="hot_sticker">Beliebte Sticker</string>
   <string name="hot_video">Beliebte Videos</string>
@@ -247,16 +247,16 @@
   <string name="kuaipan_photo_folder_divider">,</string>
   <string name="kuaipan_photo_locate">Standort %1$s</string>
   <string name="kuaipan_photo_more_folder_count">%1$s</string>
-  <string name="kuaipan_prompt">Hinweis</string>
+  <string name="kuaipan_prompt">Server nicht verfügbar</string>
   <string name="kuaipan_prompt_message">"
- Der Server ist momentan nicht ereichbar. Versuchen Sie es später erneut.
+ Entschuldigung, der Server ist momentan nicht ereichbar.
 "</string>
   <string name="kuaipan_root_fooder">Home</string>
   <string name="kuaipan_tech_support">Anmelden bei kuaipan.cn</string>
   <string name="load_err">Laden fehlgeschlagen</string>
   <string name="load_more">Mehr anzeigen</string>
   <string name="load_sticker_fail">Laden fehlgeschlagen, versuchen Sie es erneut</string>
-  <string name="loading">Wird geladen…</string>
+  <string name="loading">Einen Moment…</string>
   <string name="local_image">Fotos</string>
   <string name="local_music">Musik</string>
   <string name="local_sticker_str">Lokal</string>
@@ -300,7 +300,7 @@
   <string name="month_day_format">MMM dd</string>
   <string name="move_failed">Verschieben fehlgeschlagen.</string>
   <string name="move_icon_to_desktop_hint">Erstellen Sie eine Verknüpfung Startbildschirm für Explorer-Dateien zu verwalten effizienter.</string>
-  <string name="move_icon_to_desktop_success">Sie finden die Verknüpfung zum Explorer auf dem Startbildschirm.</string>
+  <string name="move_icon_to_desktop_success">Verknüpfung auf dem Startbildschirm erstellt.</string>
   <string name="move_to">Verschieben nach…</string>
   <string name="move_to_confirm">Erstellen</string>
   <string name="msg_set_password">Zuerst muss ein Passwort festgelegt werden</string>
@@ -348,7 +348,7 @@ Laden Sie sie herunter, wann immer Sie wollen
 und verpassen Sie keine Neuen mehr!"</string>
   <string name="new_function_title_str">Über WeChat Sticker</string>
   <string name="no">Nein</string>
-  <string name="no_apk">Antippen, um beliebte Apps zu zeigen.</string>
+  <string name="no_apk">Antippen, um Apps zu bekommen.</string>
   <string name="no_app_tags">Keine vorhanden</string>
   <string name="no_display_file">%1$s kann nicht angezeigt werden</string>
   <string name="no_downloaded_sticker_tip">Keine heruntergeladen Sticker gefunden. Sehen Sie sich die geteilten Sticker von anderen Mi Fans an.</string>
@@ -431,7 +431,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="operation_send">Senden</string>
   <string name="operation_share">Teilen</string>
   <string name="operation_show_sys">Versteckte Dateien anzeigen</string>
-  <string name="operation_unfavorite">Demarkieren</string>
+  <string name="operation_unfavorite">Aus Favoriten entfernen</string>
   <string name="operation_unlike">Gefällt mir nicht mehr</string>
   <string name="otg_file_can_not_open">"Die Datei auf dem USB-Speicher kann nicht geöffnet werden. Kopieren Sie die Datei zunächst auf den internen Speicher."</string>
   <string name="pan_settting">KuaiPan-Einstellungen</string>
@@ -494,7 +494,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="rlv_last_refreshing_time">Zuletzt gesucht: %1$s</string>
   <string name="rlv_loading_more">Einen Moment…</string>
   <string name="rlv_pull_to_refresh">Ziehen zum aktualisiere</string>
-  <string name="rlv_refreshing">Suche Dateien…</string>
+  <string name="rlv_refreshing">Aktualisieren…</string>
   <string name="rlv_release_to_refresh">Loslassen zum aktualisieren</string>
   <string name="save_to_local">Download</string>
   <string name="sd_card_available">Verfügbar: %1$s</string>
@@ -521,7 +521,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="search_keyword_buy">Einkaufen</string>
   <string name="search_keyword_game">Spiele</string>
   <string name="search_keyword_im">Chat</string>
-  <string name="search_keyword_messge">Express</string>
+  <string name="search_keyword_messge">Nachrichten</string>
   <string name="search_keyword_news">News</string>
   <string name="search_keyword_wallet">Wallet</string>
   <string name="search_result">Results</string>
@@ -593,16 +593,16 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="sys_size_enable">Aktivieren</string>
   <string name="system_alert">Internetverbindung</string>
   <string name="tab_category">Kategorien</string>
-  <string name="tab_common_app">Basis Apps</string>
+  <string name="tab_common_app">Apps &amp; Ordner</string>
   <string name="tab_expand">Erweitern</string>
   <string name="tab_local">LOKAL</string>
-  <string name="tab_local_video">Lokal</string>
+  <string name="tab_local_video">Offline</string>
   <string name="tab_more">Mehr</string>
   <string name="tab_path">ORDNER</string>
   <string name="tab_remote_video">Beliebt</string>
   <string name="tab_source">APPS</string>
   <string name="tab_storage">SPEICHER</string>
-  <string name="tag_weixin_video">Kleine Videos</string>
+  <string name="tag_weixin_video">Videoclips</string>
   <string name="terabyteShort">TB</string>
   <string name="title_app_tags">Apps</string>
   <string name="title_enable_documentsui">DocumentsUI aktivieren</string>
@@ -610,8 +610,8 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="title_more_source">Mehr Apps</string>
   <string name="title_recent">Zuletzt</string>
   <string name="title_report_video">Melden</string>
-  <string name="title_select_volume">Laufwerk auswählen</string>
-  <string name="title_upload_video">Kleine Videos teilen</string>
+  <string name="title_select_volume">Ordner auswählen</string>
+  <string name="title_upload_video">Videoclips teilen</string>
   <string name="toast_file_not_can_read">Keine App zum Öffnen der Datei gefunden.</string>
   <string name="tools">Tools</string>
   <string name="trans_task">Netzwerkübertragung</string>
@@ -628,9 +628,9 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="ui_main_menu_option_sign_in">Anmelden</string>
   <string name="ui_main_menu_option_task_manage">Übertragungsoptionen</string>
   <string name="ui_main_progress_txt_open_file">Lade…</string>
-  <string name="ui_main_toast_favorite_added">Markiert</string>
-  <string name="ui_main_toast_favorite_removed">Demarkiert</string>
-  <string name="ui_main_toast_operation_failed">Demarkieren von %1$s fehlgeschlagen.</string>
+  <string name="ui_main_toast_favorite_added">Zu Favoriten hinzugefügt</string>
+  <string name="ui_main_toast_favorite_removed">Aus Favoriten entfernt</string>
+  <string name="ui_main_toast_operation_failed">Entfernen von %1$s aus Favoriten fehlgeschlagen.</string>
   <string name="unmount_inform_text">USB-Speicher trennen?</string>
   <string name="upload_failed">Upload fehlgeschlagen</string>
   <string name="upload_file_toolarge_message">%1$d Dateien nicht hochgeladen. Dateien größer als 300MB können nicht hochgeladen werden.</string>
@@ -648,10 +648,10 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="user_guide_continue_use">OK</string>
   <string name="user_guide_download_other_version">KuaiPan für Windows oder OSX runterladen</string>
   <string name="user_guide_kuaipan_copy">Zugriff auf Ihre Dateien von mehreren Geräten</string>
-  <string name="user_guide_kuaipan_lable">KuaiPan gehört Ihnen</string>
+  <string name="user_guide_kuaipan_lable">Bequemer und sicherer Cloudspeicher</string>
   <string name="user_guide_other_version">Download auf mi.kuaipan.cn. Anmeldung mit Ihrem Konto (%1$s)</string>
   <string name="user_guide_save_file">Speichern Sie Ihre Dateien und Bilder auf Kuaipan.</string>
-  <string name="user_guide_summary">Ein kurzer Überblick</string>
+  <string name="user_guide_summary">Bequemer und sicherer Cloudspeicher</string>
   <string name="user_guide_upload_to_kuaipan">Dateien auf KuaiPan speichern</string>
   <string name="user_not_login">Zuerst anmelden</string>
   <string name="utf8_summary">System FTP-Standardcodierung</string>

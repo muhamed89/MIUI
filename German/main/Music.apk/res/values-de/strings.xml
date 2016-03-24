@@ -21,6 +21,7 @@
   <string name="action_item_send">Senden</string>
   <string name="action_item_share">Teilen</string>
   <string name="add_music">Titel hinzufügen</string>
+  <string name="add_to_last_of_playlist">Am Ende der Playlist einreihen.</string>
   <string name="alaka_required">"Song nicht verfügbar."</string>
   <string name="album_name">Album</string>
   <string name="album_search_title">Album</string>
@@ -244,6 +245,7 @@
   <string name="japan_korea_group">Musikgruppen aus Japan und Korea</string>
   <string name="japan_korea_male">Männliche Sänger aus Japan und Korea</string>
   <string name="ktv_playlist">KTV Wiedergabeliste</string>
+  <string name="latest_song">Wiedergabeverlauf(%d).</string>
   <string name="like">Gefällt mir</string>
   <string name="list_detail_title">Details</string>
   <string name="list_item_play_FM_radio">Berühren, um FM-Radio abzuspielen</string>
@@ -268,6 +270,7 @@
   <string name="metered_allow">Streamen</string>
   <string name="metered_disallow">Abbrechen</string>
   <string name="metered_play_toast">Nutze mobile Datenverbindung für Streams</string>
+  <string name="milink_unavaliable_please_update">MiLink Funktion nicht verfügnar. MIUI Systemupdate notwendig.</string>
   <string name="min_sleep_time">1</string>
   <string name="miui_music">Mi Musik</string>
   <string name="miuishare_account_activate_confirmation">Aktivierung nötig</string>
@@ -366,6 +369,7 @@
   <string name="payment_success">Zahlung erfolgreich</string>
   <string name="period_format">%1$s-%2$s</string>
   <string name="play_all_song">Alle abspielen</string>
+  <string name="play_next">Nächsten abspielen</string>
   <string name="playback_failed_no_title_by_bad_file">"Das Audioformat wird nicht unterstützt oder die Datei existiert nicht."</string>
   <string name="playlist_deleted_message">Wiedergabeliste gelöscht</string>
   <string name="playlist_renamed_message">Wiedergabeliste umbenannt</string>
@@ -380,10 +384,20 @@
   <string name="priority_storage_summary">Automatisch auf externe SD-Karte herunterladen, falls verfügbar</string>
   <string name="project_device">Mi Phone</string>
   <string name="project_device_mobile">Mobiles Gerät</string>
+  <string name="radar">ACRCloud</string>
+  <string name="radar_click_to_retry">Antippen, um es erneut zu versuchen</string>
+  <string name="radar_fail">Kein Ergebnis</string>
+  <string name="radar_fail_by_noise">Vielleicht ist es zu laut</string>
+  <string name="radar_listening_state">Erkennung läuft</string>
+  <string name="radar_possible_result">Mögliche Titel</string>
+  <string name="radar_retry">Nochmal</string>
+  <string name="radar_searching_state">Suche läuft</string>
+  <string name="radar_support_by">Powered by ACRCloud</string>
   <string name="really_pay">Jetzt bezahlen?</string>
   <string name="recommend_fragment_title">Featured</string>
   <string name="remaining">Diesen Monat verbleibend:</string>
   <string name="remove">Entfernen</string>
+  <string name="remove_from_nowplaying">Von Wiedergabeliste entfernen.</string>
   <string name="renew">Überarbeiten:</string>
   <string name="renew_1">Überarbeiten</string>
   <string name="renew_period">"Gültig bis: "</string>
@@ -392,6 +406,7 @@
   <string name="restart_immediate">Jetzt neu starten</string>
   <string name="retry">Wiederholen</string>
   <string name="ringtone_not_support">"Das Audioformat wird nicht unterstützt"</string>
+  <string name="save_to_playlist">Als Wiedergabeliste speichern</string>
   <string name="search_album">Suche Album</string>
   <string name="search_for_album">Album</string>
   <string name="search_for_artist">Interpret</string>

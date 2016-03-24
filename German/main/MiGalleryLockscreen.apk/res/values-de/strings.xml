@@ -2,6 +2,7 @@
 <resources>
   <string name="app_name">Täglicher Sperrbildschirm</string>
   <string name="at_least_one">Bitte wählen Sie mindestens eine Kategorie</string>
+   <string name="auto_interval">Auto</string>
   <string name="cancel">Beenden</string>
   <string name="cancel_international">Abbrechen</string>
   <string name="change_time">Wechselintervall</string>
@@ -14,6 +15,7 @@
   <string name="lockscreen_magazine_summary">Legen Sie fest welche Hintergrundbilder auf dem Sperrbildschirm angezeigt werden sollen</string>
   <string name="lockscreen_magazine_system_title">Standard</string>
   <string name="lockscreen_magazine_title">Tägliche Hintergrundbilder festlegen</string>
+  <string name="minutes_15">15 Minuten</string>
   <string name="no_long_show">"Nicht nochmal anzeigen"</string>
   <string name="ok_international">OK</string>
   <string name="ok_lockscreen">OK</string>

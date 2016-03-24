@@ -71,6 +71,7 @@
   <string name="aqi_quality_index_moderate">AQI %1$s</string>
   <string name="aqi_quality_index_pure">AQI %1$s</string>
   <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
+  <string name="autofill_popup_content_description">Autofill Pop-up anzeigen</string>
   <string name="autologin_bar_error">"Anmeldung fehlgeschlagen"</string>
   <string name="autologin_bar_hide_text">Verwerfen</string>
   <string name="autologin_bar_login_text">Anmelden</string>
@@ -414,6 +415,7 @@ Diese Seite verlassen?"</string>
   <string name="page_info_address">Addresse:</string>
   <string name="page_info_view">Seiteninfo ansehen</string>
   <string name="password">Passwort</string>
+  <string name="password_generation_popup_content_description">Passwort Pop-up anzeigen</string>
   <string name="pause_download">Pausiert</string>
   <string name="paused_queued_for_wifi">Warte auf Netzwerkverbindung…</string>
   <string name="paused_unknown">Pausiert</string>
@@ -697,6 +699,7 @@ Diese Seite verlassen?"</string>
   <string name="version_update_file_download_toast">Lade</string>
   <string name="version_update_file_not_found">"Kann keine Updates finden"</string>
   <string name="video_activity_name">Favoriten</string>
+  <string name="video_buffering_percent">"Pufferung "</string>
   <string name="video_buffering_percent_string">"Pufferung "</string>
   <string name="video_collect_cancel">Unfavorite</string>
   <string name="video_collect_success">Favorisiert</string>
@@ -728,6 +731,7 @@ Diese Seite verlassen?"</string>
   <string name="video_group_noupdates_list">Keine Updates verfügbar</string>
   <string name="video_group_updates_list">Updates</string>
   <string name="video_history_empty">Keine Verlaufseinträge gefunden</string>
+  <string name="video_play_error">Fehler bei der Videowiedergabe</string>
   <string name="video_project_button">Stop</string>
   <string name="video_project_msg">Video is casting to %s</string>
   <string name="video_project_title">Video casting</string>

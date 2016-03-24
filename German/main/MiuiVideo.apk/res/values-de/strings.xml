@@ -393,6 +393,7 @@
   <string name="vp_VideoView_error_text_invalid_progressive_playback">"Dieser Dateityp wird vom Gerät nicht unterstützt."</string>
   <string name="vp_VideoView_error_text_unknown">Ein unbekannter Fehler ist aufgetreten.</string>
   <string name="vp_VideoView_error_title">Unbekannter Fehler</string>
+  <string name="vp_ad_skip">Überspringen</string>
   <string name="vp_adapt_height">Höhe anpassen</string>
   <string name="vp_adapt_width">Breite anpassen</string>
   <string name="vp_app_download">App Download</string>

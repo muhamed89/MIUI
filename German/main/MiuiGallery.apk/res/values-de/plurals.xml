@@ -108,6 +108,18 @@
         <item quantity="other">%1$s Fotos von %2$s</item>
         <item quantity="one">%1$s Fotos von %2$s</item>
     </plurals>
+    <plurals name="age_year">
+       <item quantity="other">%d Jahre</item>
+       <item quantity="one">%d Jahr</item>
+   </plurals>
+   <plurals name="age_month">
+       <item quantity="other">%d Monate</item>
+       <item quantity="one">%d Monat</item>
+   </plurals>
+   <plurals name="age_day">
+       <item quantity="other">%d Tage</item>
+       <item quantity="one">%d Tag</item>
+      </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
         <item quantity="other">%1$d Fotos von %2$s werden hinzugefügt</item>
         <item quantity="one">%1$d Foto von %2$s wird hinzugefügt</item>
@@ -129,9 +141,29 @@
         <item quantity="one">%1$d Tag</item>
     </plurals>
     <plurals name="baby_album_share_user_count_tip">
-        <item quantity="other">%1$d Follower</item>
-        <item quantity="one">%1$d Follower</item>
+        <item quantity="other">%1$d Anhänger</item>
+        <item quantity="one">%1$d Anhänger</item>
     </plurals>
+    <plurals name="album_already_share_user_count">
+        <item quantity="other">Bereits mit %d Personen geteilt</item>
+        <item quantity="one">Bereits mit %d Person geteilt</item>
+    </plurals>
+    <plurals name="delete_video_msg_format">
+        <item quantity="other">%1$d Videos %2$s löschen?</item>
+       <item quantity="one">%1$d Video %2$s löschen?</item>
+    </plurals>
+    <plurals name="delete_media_msg_format">
+       <item quantity="other">%1$d Elemente %2$s löschen?</item>
+       <item quantity="one">%1$d Element %2$s löschen?</item>
+    </plurals>
+   <plurals name="album_item_msg_format">
+       <item quantity="other">(%d Elemente gesamt)</item>
+       <item quantity="one">(%d Element gesamt)</item>
+    </plurals>
+   <plurals name="album_count">
+       <item quantity="other">%d Fotos</item>
+       <item quantity="one">%d Foto</item>
+      </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d Fotos warten auf Synchronisation</item>
         <item quantity="one">1 Foto wartet auf Synchronisation</item>
