@@ -2,11 +2,13 @@
 <resources>
   <string name="access_denied">Zugriff verweigert</string>
   <string name="account">Konto</string>
-  <string name="activate">Aktiviere</string>
+  <string name="account_related">Ihr Gerät ist mit einem bestehenden Mi Konto verknüpft(%s). Stellen Sie eine Internetverbindung her, um das Gerät zu verifizieren.</string>
+  <string name="activate">Aktivieren</string>
   <string name="activate_number_change_dialog_message">Wählen Sie eine Telefonnummer, welche sichtbar für andere Geräte ist, wenn Sie per VoIP telefonieren.</string>
-  <string name="activating">Aktiviere…</string>
-  <string name="alert_notif_title_dspt">Synchronisiere nicht</string>
-  <string name="antispam_sync">Bitte nicht stören Einstellungen</string>
+  <string name="activating">Wird aktiviert…</string>
+  <string name="activate_finddevice">Stellen Sie eine Internetverbindung her, um das Gerät zu aktivieren</string>
+  <string name="alert_notif_title_dspt">Nicht synchronisieren</string>
+  <string name="antispam_sync">\"Bitte nicht stören\" Einstellungen</string>
   <string name="app_name">Mi Cloud</string>
   <string name="apple_10gb">20GB</string>
   <string name="apple_cloud">Apple Cloud Service</string>
@@ -49,8 +51,11 @@ Zuletzt gesichert am %2$s"</string>
   <string name="cloud_space_upgrade_title">Mehr Speicherplatz für Mi Cloud</string>
   <string name="cloudservice_new_sync">%s mit Mi Cloud synchronisieren</string>
   <string name="cmcc_micloud_dspt">Verwenden Sie Mi Cloud um Ihre Daten zu synchronisieren, Ihr Gerät zu finden und Dinge mit Ihren Freunden zu teilen.</string>
+  <string name="connect_network">Mit einem WLAN verbinden oder SIM-Karte einlegen</string>
+  <string name="connect_wlan">Mit einem WLAN verbinden</string>
   <string name="contact">Kontakte</string>
   <string name="deskclock_backup">Uhrzeiten Sicherung</string>
+  <string name="detect_sim_card">Erneut nach einer SIM-Karte suchen</string>
   <string name="disable_find_device_error">"Kann Gerätesuche nicht ausschalten. %1$s"</string>
   <string name="disable_find_device_success">Gerätelokalisierung ist aus.</string>
   <string name="enableAll">Synchronisiere alles</string>

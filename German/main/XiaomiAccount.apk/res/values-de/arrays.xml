@@ -29,4 +29,58 @@
         <item>Y</item>
         <item>Z</item>
     </string-array>
+    <string-array name="education">
+        <item>Mittelschule</item>
+        <item>Grundschule</item>
+        <item>Gymnasium</item>
+        <item>Gesangsschule</item>
+        <item>Fachhochschule</item>
+        <item>Universität (Master)</item>
+        <item>Universität (Doktor)</item>
+    </string-array>
+    <string-array name="income">
+        <item>&lt; 2000</item>
+        <item>2001~4000</item>
+        <item>4001~6000</item>
+        <item>6001~8000</item>
+        <item>8001~12000</item>
+        <item>&gt; 12000</item>
+    </string-array>
+    <string-array name="question_no1">
+        <item>Familie</item>
+        <item>Name der Großmutter mütterlicherseits</item>
+        <item>Name des Großvaters mütterlicherseits</item>
+        <item>Name des Großvaters väterlicherseits</item>
+        <item>Name der Großmutter väterlicherseits</item>
+        <item>Geburtstag des Vaters</item>
+        <item>Geburtstag der Mutter</item>
+        <item>Was ist der Altersunterschied Ihrer Eltern (Jahre und Monate)?</item>
+    </string-array>
+    <string-array name="question_no2">
+        <item>Alma Mater</item>
+        <item>Wer war Ihr Klassensprecher in der Mittelschule?</item>
+        <item>Wer war Ihr Klassensprecher in der Grundschule?</item>
+        <item>Ihre Matrikelnummer</item>
+        <item>Wie lautet der Name Ihres ersten Zimmerkollegen?</item>
+        <item>Wie lautet der Name Ihres ersten Betreuers?</item>
+    </string-array>
+    <string-array name="question_no3">
+        <item>Persönliche Informationen</item>
+        <item>Wie nennen Ihre Eltern Sie?</item>
+        <item>Die letzten 6 Stellen Ihrer Passnummer</item>
+        <item>In welchem Krankenhaus wurden Sie geboren?</item>
+        <item>"Wie heißt Ihr/e beste/r Freund/in?"</item>
+    </string-array>
+    <string-array name="question_no4">
+        <item>Erste Male</item>
+        <item>Wie lautet der Name Ihres ersten Haustiers?</item>
+        <item>Wie lautet der Name Ihres/Ihrer ersten Freundes/Freundin</item>
+        <item>In welcher Firma hatten Sie Ihren ersten Job?</item>
+    </string-array>
+    <string-array name="question_no5">
+        <item>Ehe</item>
+        <item>Wann haben Sie geheiratet?</item>
+        <item>Name Ihres Ehepartners</item>
+        <item>Geburtstag Ihres Ehepartners</item>
+    </string-array>
 </resources>

@@ -1,18 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="trans_calculating">Berechne...</string>
-  <string name="trans_calculating_app_sd_size">Berechne Datengröße zum senden, %s gescannt</string>
-  <string name="trans_calculating_base_size">"Berechnung der App Basisgröße"</string>
-  <string name="trans_connect_failed_message">"Verbindung fehlgeschlagen, erneut versuchen oder neu starten. Navigieren Sie auf dem anderen Gerät zu den Einstellungen > Weitere Einstellungen > Mi Mover, Berühren Sie [Ich bin der Sender], oder versuchen Sie es nach einem Neustart erneut."</string>
-  <string name="trans_connect_failed_title">Verbindung fehlgeschlagen</string>
-  <string name="trans_native_no_space">"Dieses Gerät hat nicht genügend Speicherplatz zur Verfügung 
-Bitte reinigen Sie mindestens %s"</string>
-  <string name="trans_please_waiting">Bitte warten ...</string>
-  <string name="trans_progress_subdescript_transingsddata_receiver">Empfangen von Daten von der SD-Karte %1$s, %2$s abgeschlossen</string>
-  <string name="trans_progress_subdescript_transingsddata_sender">Senden sdcard Daten von %1$s, %2$s abgeschlossen</string>
-  <string name="trans_retry">Erneut Versuchen</string>
-  <string name="trans_start_failed_message">Start fehlgeschlagen, bitte erneut versuchen oder neu starten</string>
-  <string name="trans_start_failed_title">Start fehlgeschlagen</string>
   <string name="abort_backup_confirm">"Sicherung nicht abgeschlossen. Trotzdem abbrechen?"</string>
   <string name="account_contact_backup_info">Google, MiKonto und Kontaktdaten</string>
   <string name="account_login">Anmelden</string>
@@ -164,6 +151,8 @@ Bitte reinigen Sie mindestens %s"</string>
   <string name="notif_restore_complete_title">Wiederherstellung erfolgreich</string>
   <string name="notif_restore_content">Benutzerdaten werden wiederhergestellt</string>
   <string name="notif_restore_title">Daten wiederhergestellen</string>
+  <string name="notif_trans_receiving_completed">Daten erfolgreich empfangen</string>
+  <string name="notif_trans_sending_completed">Daten erfolgreich versandt</string>
   <string name="page_loading">Einen Moment…</string>
   <string name="progress_backup_hint">Sichern…</string>
   <string name="progress_restore_hint">Wiederherstellen…</string>
@@ -256,6 +245,20 @@ Bitte reinigen Sie mindestens %s"</string>
   <string name="total_num">%d Elemente,</string>
   <string name="trans_backingup">Sichern…</string>
   <string name="trans_backingup_no_items">Synchronisieren…</string>
+  <string name="trans_calculating">Wird berechnet…</string>
+  <string name="trans_calculating_app_sd_size">Datengröße wird berechnet, %s gescannt</string>
+  <string name="trans_calculating_base_size">Datengröße wird berechnet</string>
+  <string name="trans_connect_failed_message">"Verbindung fehlgeschlagen, erneut versuchen oder neu starten. Navigieren Sie auf dem anderen Gerät zu den Einstellungen > Weitere Einstellungen > Mi Mover, Berühren Sie [Ich bin der Sender], oder versuchen Sie es nach einem Neustart erneut."</string>
+  <string name="trans_connect_failed_title">Verbindung fehlgeschlagen</string>
+  <string name="trans_native_no_space">"Dieses Gerät hat nicht genügend Speicherplatz zur Verfügung 
+Bitte bereinigen Sie mindestens %s"</string>
+  <string name="trans_please_waiting">Bitte warten ...</string>
+  <string name="trans_progress_subdescript_transingsddata_receiver">Empfangen von Daten von der SD-Karte %1$s, %2$s abgeschlossen</string>
+  <string name="trans_progress_subdescript_transingsddata_sender">Senden sdcard Daten von %1$s, %2$s abgeschlossen</string>
+  <string name="trans_retry">Wiederholen</string>
+  <string name="trans_start_failed_message">Start fehlgeschlagen, bitte erneut versuchen oder neu starten</string>
+  <string name="trans_start_failed_title">Start fehlgeschlagen</string>
+
   <string name="trans_cancel_confirm">Übertragung läuft. Jetzt abbrechen?</string>
   <string name="trans_cancelling">Abbrechen</string>
   <string name="trans_connect_failed_toast">"Verbindung nicht möglich"</string>
@@ -283,9 +286,11 @@ Gehen Sie zu Einstellungen > weitere Einstellungen > Mi Mover
  [Ich bin Sender] antippen"</string>
   <string name="trans_progress_subdescript_br_receiver">Wiederherstellung von %1$s, %2$s abgeschlossen</string>
   <string name="trans_progress_subdescript_br_sender">Sicherung von %1$s, %2$s abgeschlossen</string>
+  <string name="trans_progress_subdescript_br_sender_finish">%s gesichert, warten auf Senden…</string>
   <string name="trans_progress_subdescript_transing_receiver">Empfangen von %1$s, %2$s abgeschlossen</string>
   <string name="trans_progress_subdescript_transing_sender">Senden von %1$s, %2$s abgeschlossen</string>
   <string name="trans_progress_subdescript_transingsd_receiver">Dateien empfangen, %s abgeschlossen</string>
+  <string name="trans_progress_subdescript_transing_receiver_finish">%s empfangen, warten auf Wiederherstellung…</string>
   <string name="trans_progress_subdescript_transingsd_sender">Dateien senden, %s abgeschlossen</string>
   <string name="trans_progress_subdescript_waiting">Warten auf Empfang von %s</string>
   <string name="trans_receiver">"Ich bin der Empfänger"</string>
@@ -326,6 +331,12 @@ Gehen Sie zu Einstellungen > weitere Einstellungen > Mi Mover
   <string name="unknown_hint">Unbekannt</string>
   <string name="wifi_title">WLAN-Einstellungen</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="xiaomi_external_storage_unavailable">Kein Speicherplatz verfügbar, überprüfen Sie die SD-Karte.</string>
   <string name="xiaomi_router">MiRouter</string>
   <string name="xiaomi_router_location">MiRouter %s</string>
+  <string name="xiaomi_update_dialog_message">"Neue Version %1$s
+Größe: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"Neue Version %1$s
+Delta Updategröße: %2$s"</string>
+  <string name="xiaomi_update_dialog_title">Neue Version verfügbar!</string>
 </resources>

@@ -251,10 +251,10 @@
   <string name="search_favorite_title">Favorites</string>
   <string name="search_history">Suchverlauf</string>
   <string name="search_history_empty">Keine Elemente</string>
-  <string name="search_history_month">MM/dd</string>
+  <string name="search_history_month">dd.MM.</string>
   <string name="search_history_title">Verlauf</string>
   <string name="search_history_today">Heute</string>
-  <string name="search_history_year">MM/dd/yyyy</string>
+  <string name="search_history_year">dd.MM. yyyy</string>
   <string name="search_history_yesterday">Gestern</string>
   <string name="search_hot_anime">Zeichentrickfilme</string>
   <string name="search_hot_movie">Filme</string>

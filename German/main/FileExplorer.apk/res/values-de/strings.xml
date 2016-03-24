@@ -164,10 +164,12 @@
   <string name="encrypt_success">Alle Dateien auf Privat gesetzt</string>
   <string name="encrypt_success_first_five">"Datei verschlüsselt und verborgen. Auf der Startseite nach unten wischen, um private Dateien anzuzeigen."</string>
   <string name="encrypting">Verschlüsseln…</string>
+  <string name="error_contains_sharer_path">"Dateien im Ordner /MIUI/Gallery/cloud/sharer können nicht verschlüsselt werden. Verschieben Sie die Dateien in einen anderen Ordner und versuchen Sie es erneut."</string>
   <string name="error_filename_too_long">Dateiname ist zu lang</string>
   <string name="error_info_cant_send_folder">Dateityp wird nicht unterstützt</string>
   <string name="error_open_file_failed_no_app_found">Keine App zum Öffnen dieser Datei gefunden</string>
   <string name="expand_all">Alle</string>
+  <string name="extended_storage_file_can_not_open">"Datei kann nicht geöffnet werden. Kopieren Sie sie zuerst auf den internen Speicher."</string>
   <string name="extract">Entpacken</string>
   <string name="fail_to_create_folder">Nicht genug Speicher oder Ordner ist bereits vorhanden</string>
   <string name="fail_to_create_folder_unknown">Ordner konnte nicht erstellt werden</string>

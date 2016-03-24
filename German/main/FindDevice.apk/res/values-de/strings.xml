@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activate_xiaomi_account">Dieses Gerät aktivieren</string>
+  <string name="adding_or_updating_account">Konto wird aktualisiert…</string>
   <string name="app_name">Gerät finden</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">"Entsperren fehlgeschlagen. %s."</string>
@@ -9,6 +10,7 @@
   <string name="device_lost">Dieses Gerät wurde verloren</string>
   <string name="disable_find_device_error">"\"Gerät finden\" konnte nicht deaktiviert werden. %1$s"</string>
   <string name="disable_find_device_success">"\"Gerät finden\" ist deaktiviert"</string>
+  <string name="doing_extra_login_steps">Anmeldung wird verifiziert…</string>
   <string name="enable_find_device_error">"\"Gerät finden\" konnte nicht aktiviert werden. %1$s"</string>
   <string name="enable_find_device_success">"\"Gerät finden\" ist aktiviert"</string>
   <string name="find_device">Gerät finden</string>
@@ -30,21 +32,37 @@ Wenn Sie die SIM-Karte tauschen, wird automatisch eine SMS gesendet, um diese Fu
   <string name="i_know">OK</string>
   <string name="lock_msg_phone">Kontakt-Information: %s</string>
   <string name="login_failed">"Einloggen fehlgeschlagen"</string>
+  <string name="login_extra_steps">Anmeldeverifikation</string>
+  <string name="login_failed">"Anmeldung fehlgeschlagen. %s."</string>
+  <string name="passport_checking_vcode">Passwort wird überprüft…</string>
+  <string name="passport_error_empty_vcode">Verifikationscode eingeben</string>
+  <string name="passport_notification_need_unlock_again">Nochmals versuchen</string>
+  <string name="passport_notification_processing">Wird verarbeitet…</string>
+  <string name="passport_trust_device">Diesem Gerät vertrauen</string>
+  <string name="passport_vcode_prompt_long">Verifikationscode eingeben</string>
+  <string name="passport_verify">Verifizieren</string>
   <string name="password">Passwort</string>
   <string name="phone_locked">Dieses Gerät ist möglicherweise mit einem bestehenden Mi Konto(%s) verknüpft. Melden Sie sich an, um das Gerät zu aktivieren.</string>
   <string name="stop_on_empty_captcha">"Captcha darf nicht leer sein"</string>
   <string name="stop_on_empty_password">"Passwort darf nicht leer sein"</string>
+  <string name="time_correction_failure">"Uhrzeit kann nicht korrigiert werden (%s)"</string>
+  <string name="time_correction_failure_network">Netzwerkfehler</string>
+  <string name="time_correction_failure_no_ntp">"NTP Server nicht verfügbar"</string>
+  <string name="time_correction_success">Uhrzeit korrigiert</string>
   <string name="unlock">Aktivieren</string>
   <string name="unlock_access_denied">Zugang verweigert</string>
   <string name="unlock_bad_authentication">Ungültiger Benutzername oder Passwort</string>
+  <string name="unlock_error_abort">Abbruch durch Benutzer</string>
   <string name="unlock_error_device_id">"Geräte ID kann nicht ermittelt werden"</string>
   <string name="unlock_error_interrupted">Unterbrochen</string>
   <string name="unlock_error_network">"Keine Netzwerkverbindung"</string>
+  <string name="unlock_error_passport_sdk_timeout">"Mi Konto SDK antwortet nicht"</string>
   <string name="unlock_error_rpc">RPC Fehler</string>
   <string name="unlock_error_server">Server Fehler</string>
   <string name="unlock_error_ssl_hand_shake">"Keine Verbindung zum Server, stellen Sie Datum und Uhrzeit manuell ein."</string>
   <string name="unlock_error_unknown">"Anmeldung nicht möglich"</string>
   <string name="unlock_error_user_name">Ungültiger Benutzername</string>
+  <string name="unlock_error_wrong_vcode">Der eingegebene Code ist falsch</string>
   <string name="unlock_help">"Bleiben Sie mit dem Netzwerk verbunden
  Stellen Sie sicher, dass eine gültige SIM-Karte eingelegt ist, und Ihr Gerät nicht mit einem ineffektiven WLAN verbunden ist.
  
@@ -56,5 +74,6 @@ Wenn Sie die SIM-Karte tauschen, wird automatisch eine SMS gesendet, um diese Fu
   <string name="unlock_help_title">Entsperrhilfe:</string>
   <string name="unlock_wrong_captcha">Der eingegebene Code ist falsch</string>
   <string name="unlocking">Aktivierung…</string>
+  <string name="verifing_account">Passwort wird verifiziert…</string>
   <string name="verify_password_failed">"Mi Konto ID konnte nicht überprüft werden. %s."</string>
 </resources>

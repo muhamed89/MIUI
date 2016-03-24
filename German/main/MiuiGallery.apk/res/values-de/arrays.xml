@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="baby_sexy">
+        <item>Junge</item>
+        <item>Mädchen</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Vater</item>
+        <item>Mutter</item>
+        <item>Opa väterlicherseits</item>
+        <item>Oma väterlicherseits</item>
+        <item>Großvater mütterlicherseits</item>
+        <item>Großvater mütterlicherseits</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>Ich</item>
+        <item>Kind</item>
+        <item>Familie</item>
+        <item>Kollegen</item>
+        <item>Schulkollegen</item>
+        <item>Freunde</item>
+        <item>Unbekannt</item>
+    </string-array>
+</resources>

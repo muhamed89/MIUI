@@ -105,6 +105,7 @@
   <string name="delete_addon">Löschen</string>
   <string name="delete_addon_content">Dieses Element löschen?</string>
   <string name="delete_with">Löschen (%d)</string>
+  <string name="detail">Detail</string>
   <string name="detail_comment_empty">Leer</string>
   <string name="develop_version">Beta updates</string>
   <string name="development_setting">Developer-Einstellungen</string>
@@ -287,6 +288,8 @@
   <string name="qiyi">iQiyi</string>
   <string name="rank_title_movie">Top Videos</string>
   <string name="receive_develop_summary">Erhalten Sie Updates für die Beta-Version dieser App</string>
+  <string name="receive_follow">Benachrichtigung bei neuen Episoden</string>
+  <string name="receive_follow_summary">Erhalten Sie Benachrichtigungen, sobald neue Episoden verfügbar sind</string>
   <string name="receive_mipush">Push-Benachrichtigungen</string>
   <string name="receive_mipush_summary">Benachrichtigungen bei neuem Inhalt erhalten</string>
   <string name="recentplay">Kürzlich abgespielt</string>
@@ -335,6 +338,7 @@
   <string name="start_addon">AddOn ausführen</string>
   <string name="storage_remain">"Verfügbar: "</string>
   <string name="storage_total">"Speicher insgesamt: "</string>
+  <string name="subscribe">Abonnieren</string>
   <string name="suffix_countdown">s</string>
   <string name="system_setting">App Einstellungen</string>
   <string name="tab_loading">...</string>
@@ -394,6 +398,10 @@
   <string name="vp_VideoView_error_text_unknown">Ein unbekannter Fehler ist aufgetreten.</string>
   <string name="vp_VideoView_error_title">Unbekannter Fehler</string>
   <string name="vp_ad_skip">Überspringen</string>
+  <string name="vp_ad_countdown_m_s">Werbung %1$dm%2$ss</string>
+  <string name="vp_ad_countdown_s">%1$s</string>
+  <string name="vp_ad_skip">Werbung überspringen</string>
+  <string name="vp_ad_skip_at">SWerbung nach %1$d übersprignen</string>
   <string name="vp_adapt_height">Höhe anpassen</string>
   <string name="vp_adapt_width">Breite anpassen</string>
   <string name="vp_app_download">App Download</string>
