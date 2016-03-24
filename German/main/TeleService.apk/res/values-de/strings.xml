@@ -25,6 +25,7 @@
   <string name="advanced_settings_show">▷ Alle Zeigen</string>
   <string name="advertisements_disable">Werbung deaktiviert</string>
   <string name="advertisements_enable">Werbung aktiviert</string>
+  <string name="agree_provision">Zustimmen und fortfahren</string>
   <string name="alert_dialog_close">Profil schließen</string>
   <string name="alert_dialog_dismiss">Ablehnen</string>
   <string name="alert_dialog_in_ecm_call">Die ausgewählte Aktion ist während eines Notrufs nicht verfügbar</string>
@@ -45,6 +46,7 @@
   <string name="answer_state_setting_title">Einstellungen für eingehende Anrufe</string>
   <string name="antispam_notification_title">Unbekannte Nummer</string>
   <string name="apn_settings">Zugangspunkte</string>
+  <string name="area_code_preference_be_set_summary">Aktueller Standort: %s</string>
   <string name="area_code_preference_summary">Automatische Wahl der Vorwahl</string>
   <string name="areacode_set_default">Standard</string>
   <string name="atr_disable">Verkehrsmeldungen deaktiviert</string>
@@ -314,6 +316,8 @@
   <string name="cloud_antispam_title">Unbekannte Nummern identifizieren</string>
   <string name="cmcc_ut_data_enable_prompt">Die Verbindung mit VoLTE-Netz ist nicht möglich. Schalten Sie mobiles Internet ein.</string>
   <string name="command_error_fdn_failure">Sie müssen zuerst FDN ausschalten</string>
+  <string name="common_problem_message">Mehr erfahren unter %1$s, oder rufen Sie unseren Kundendienst unter 400-100-5678 an</string>
+  <string name="common_setting">Allgemeine Einstellungen</string>
   <string name="config_default_data_sim">Einstellungen</string>
   <string name="config_dialing_emergency_number_suffix"/>
   <string name="confirmPin2Label">Bestätigen Sie den neuen PIN2</string>
@@ -338,6 +342,8 @@
   <string name="contactdeleteSuccess">SIM-Kontakt erfolgreich gelöscht</string>
   <string name="corporate_unlock_failed">SIM Firma Entsperranforderung erfolglos</string>
   <string name="corporate_unlock_success">SIM Firma Entsperranforderung erfolgreich</string>
+  <string name="creat_account_error">"Konto konnte nicht erstellt werden. Nochmal versuchen?"</string>
+  <string name="creating_account">Konto wird erstellt…</string>
   <string name="cursorError">Ungültige Cursor-Daten</string>
   <string name="data_enable_summary">Datenzugriff über Mobilfunk einschalten</string>
   <string name="data_enabled">Datenverbindung einschalten</string>
@@ -421,6 +427,7 @@
   <string name="display_name_title">Anzeigename</string>
   <string name="do_not_ask">"Nicht nochmal fragen"</string>
   <string name="domain_address_title">Server</string>
+  <string name="domestic_calls">Nur Inland</string>
   <string name="doneButton">Fertig</string>
   <string name="dtmf_tone_enable_title">Wähltastentöne</string>
   <string name="dtmf_tone_entries_long">Lang</string>
@@ -551,6 +558,7 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="hac_mode_title">Hörgeräte</string>
   <string name="handon_ringer_summary">Bei einem eingehenden Anruf wird das Gerät nicht vibrieren</string>
   <string name="handon_ringer_title">Nicht vibrieren</string>
+  <string name="help_view">Hilfe</string>
   <string name="hintName">Name</string>
   <string name="hintPhonenumber">Telefonnummer</string>
   <string name="importAllSimEntries">Alle importieren</string>
@@ -590,6 +598,7 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="incall_status_dialed_mmi">MMI Sequenz starten…</string>
   <string name="incoming_video_show_pref_summary">Zeigen Sie das vom Anrufer festgelegte Profil-Video an. Um diese Funktion zu nutzen, schalten Sie Kontaktkarten an.</string>
   <string name="incoming_video_show_pref_title">"Anrufer-Profil-Video anzeigen"</string>
+  <string name="international_calls">Nur international</string>
   <string name="international_dial_complete_intention">Sparen Sie Geld bei internationalen Anrufen</string>
   <string name="international_dial_complete_no">Nicht jetzt</string>
   <string name="international_dial_complete_summary">Mit MIUI Konto aufladen und bei internationalen Anrufen Ermäßigungen erhalten.</string>
@@ -681,9 +690,12 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="livetalk_continue_button_creat_account">Konto erstellen</string>
   <string name="livetalk_creat_account_fialed">Kontofehler</string>
   <string name="livetalk_dial_direct">Direkt wählen</string>
+   <string name="livetalk_enable_switch">Aufladepaket anwenden</string>
   <string name="livetalk_experience_button">Jetzt probieren</string>
   <string name="livetalk_introduction_text">Günstige internationale Anrufe</string>
   <string name="livetalk_last_step">Zurück</string>
+  <string name="livetalk_login_message">"Mit Mi Konto anmelden
+ um Aufladepakete zu verwenden"</string>
   <string name="livetalk_login_experience_button">Anmelden</string>
   <string name="livetalk_name">Prepaid-Paket</string>
   <string name="livetalk_network_confirm">OK</string>
@@ -699,11 +711,13 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="livetalk_provider">Zur Verfügung gestellt von %1$s</string>
   <string name="livetalk_provision">Nutzungsbedingungen</string>
   <string name="livetalk_provision_checkbox">Nutzungsbedingungen aktzeptieren</string>
+  <string name="livetalk_provision_content">Sie müssen %1$s zustimmen, um Aufladepakete zu verwenden. Für diesen Service müssen Sie mit dem Internet verbunden sein. Eine Aktivierungs-SMS wird versendet. Zustimmen?</string>
   <string name="livetalk_provision_second">, und muß mit dem Internet verbunden werden, um normal zu funktionieren.</string>
   <string name="livetalk_provision_title">Bereitstellung</string>
   <string name="livetalk_service_and_short_number_not_support">Servicenummern und Kurznummern werden nicht unterstützt</string>
   <string name="livetalk_setting">Prepaid-Einstellungen</string>
   <string name="livetalk_sim_card_not_activated">Diese Karte ist nicht aktiviert</string>
+  <string name="livetalk_terms_conditions">Geschäftsbedingungen</string>
   <string name="livetalk_unavaiable_info">Dieser Dienst ist zur Zeit nicht verfügbar</string>
   <string name="livetalk_user_config_title">Aktiviere SIM Karte</string>
   <string name="livetalk_version">Prepaid-Paket Version 0.9 | Beta</string>
@@ -724,6 +738,7 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="local_weather_enable">Lokalwetter eingeschaltet</string>
   <string name="lodgings_disable">Unterkünfte ausgeschaltet</string>
   <string name="lodgings_enable">Unterkünfte eingeschaltet</string>
+  <string name="login_account_button_text">Anmelden</string>
   <string name="lte_checkbox_text">Stellen Sie mobile Daten an die ausgewählte SIM-Karte, sobald Standard 4G/3G SIM-Karte geändert wird</string>
   <string name="lte_recognition_title">Anerkennung der SIM-Karte</string>
   <string name="lte_recognize_summary">Zwei 4G/3G SIM-Karten werden erkannt, müssen Sie die Standard 4G/3G SIM-Karte festlegen:</string>
@@ -920,6 +935,7 @@ Werde stattdessen bevorzugtes Netzwerk nutzen."</string>
   <string name="onscreenSwapCallsText">Tauschen</string>
   <string name="onscreenVideoCallText">Videoanruf</string>
   <string name="open_miui">Öffnen</string>
+  <string name="operator_first">Netzbetreibertarif priorisieren</string>
   <string name="optional_summary">&lt;Optional&gt;</string>
   <string name="order_by_name">Alphabetisch</string>
   <string name="order_by_recent">Häufig genutzt</string>
@@ -1153,8 +1169,8 @@ Ihre SIM-Karte wird nach einem weiteren gescheiterten Versuch gelöscht</string>
   <string name="reject_via_sms_summary">Vorlagen bearbeiten</string>
   <string name="reject_via_sms_title">Schnell Antworten</string>
   <string name="remain_mins_divider">or</string>
-  <string name="remain_mins_domestic">Remaining (domestic)</string>
-  <string name="remain_mins_international">Remaining (international)</string>
+  <string name="remain_mins_domestic">Inland</string>
+  <string name="remain_mins_international">International</string>
   <string name="remain_mins_unit">min</string>
   <string name="remember_my_choice">Immer für VOIP verwenden</string>
   <string name="remove">Löschen</string>
@@ -1391,13 +1407,16 @@ Next period starts in %2$d days (%3$s)"</string>
   <string name="updating_title">Anrufeinstellungen</string>
   <string name="uplmn_list_setting_add_plmn">Neuer PLMN</string>
   <string name="uplmn_list_setting_title">Bevorzugte Netzwerke</string>
-  <string name="uplmn_numeric_is_empty">Netzwerk ID eingeben</string>
+  <string name="uplmn_numeric_is_empty">Netzwerk ID eingeben</string>#
+  <string name="use_current_account_creat_livetalk">"Sie haben sich mit diesem Mi Konto angemeldet: %1$s.
+ Für Aufladepaket verwenden?"</string>
+  <string name="use_current_account_creat_livetalk_button">Use</string>
   <string name="use_history">Aktivität</string>
   <string name="use_history_duration_hour">%1$h</string>
   <string name="use_history_duration_min">%1$smin</string>
   <string name="use_history_endtime">Endet: %1$s</string>
   <string name="use_history_starttime">Beginnt: %1$s</string>
-  <string name="use_range">Features</string>
+  <string name="use_range">Bereich</string>
   <string name="username_title">Benutzername</string>
   <string name="ussdRunning">USSD-Code wird ausgeführt…</string>
   <string name="ussd_dialog_sep">----------</string>
@@ -1430,6 +1449,7 @@ Falls dieses Problem weiterhin besteht, setzen Sie sich mit Ihrem Mobilfunkanbie
   <string name="volte_switch_summary">Verwenden Sie VoLTE um die Qualität der Sprach- und Videoanrufe zu verbessern</string>
   <string name="volte_switch_title">VoLTE</string>
   <string name="wait_prompt_str">Die folgenden Töne senden?</string>
+  <string name="whole_calls">Alle Anrufe</string>
   <string name="wifi_call_setting">Wifi Call Settings</string>
   <string name="wifi_calling_call_assistant">Anrufassistent</string>
   <string name="wifi_calling_call_assistant_configure">Konfigurieren</string>
