@@ -1407,7 +1407,7 @@ Next period starts in %2$d days (%3$s)"</string>
   <string name="updating_title">Anrufeinstellungen</string>
   <string name="uplmn_list_setting_add_plmn">Neuer PLMN</string>
   <string name="uplmn_list_setting_title">Bevorzugte Netzwerke</string>
-  <string name="uplmn_numeric_is_empty">Netzwerk ID eingeben</string>#
+  <string name="uplmn_numeric_is_empty">Netzwerk ID eingeben</string>
   <string name="use_current_account_creat_livetalk">"Sie haben sich mit diesem Mi Konto angemeldet: %1$s.
  Für Aufladepaket verwenden?"</string>
   <string name="use_current_account_creat_livetalk_button">Use</string>
