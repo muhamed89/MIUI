@@ -92,9 +92,7 @@
   <string name="alert_init_merged_message">Fotos auf dem Gerät und in der Mi Cloud werden zusammen angezeigt.</string>
   <string name="alert_init_merged_title">Alle Ihre Fotos endlich vereint</string>
   <string name="alert_message_open_sync">Zuerst mit Mi Cloud synchronisieren</string>
-  <string name="alert_secret_album_message">Wechseln Sie in den Reiter \"Cloud\" und wische Sie nach unten, um die verborgenen Alben der Mi Cloud einzublenden</string>
   <string name="alert_secret_album_set_pattern">Setze Entsperrungsmuster</string>
-  <string name="alert_secret_album_title">Zu verborgenen Album hinzugefügt</string>
   <string name="all_video_album_display_name">Alle Videos</string>
   <string name="already_apply_album">%1$s öffnen?</string>
   <string name="already_create_baby_album">Baby Album existiert in Mi Cloud</string>
@@ -467,7 +465,6 @@
   <string name="impunity_declaration_settings">Netzwerkhinweis anzeigen</string>
   <string name="impunity_declaration_summary">Bei jedem Start der Galerie anzeigen</string>
   <string name="impunity_declaration_title">Netzwerkhinweis</string>
-  <string name="impunity_declaration_summary">Netzwerkhinweis jedes Mal einzeigen, wenn Sie die Galerie öffnen</string>
   <string name="in_home_page_long_press_photo_setting_secret_photo">Um ein Foto zu verstecken, das Foto lange gedrückt halten und dann im Menü \"Zum versteckten Album hinzufügen\" auswählen</string>
   <string name="initial_cloud_button_text">Anmelden</string>
   <string name="initial_cloud_text">Speichern und betrachten Sie Ihre Fotos jederzeit von überall</string>  
@@ -891,14 +888,13 @@
   <string name="times">Zeiten</string>
   <string name="tint">Färbung</string>
   <string name="title">Dateiname</string>
-  <string name="title_set_name">Setze Name</string>
   <string name="tip_capture_location">"Ort:"</string>
   <string name="tip_capture_params">"Parameter: "</string>
   <string name="tip_capture_time">"Aufgenommen am: "</string>
   <string name="tip_file_info">"Dateiinfo: "</string>
   <string name="tip_file_path">"Lokaler Pfad: "</string>
   <string name="tip_not_download">Nicht herunterladen. Wird beim Abspielen automatisch heruntergeladen.</string>
-  <string name="title_set_name">Nemen eingeben</string>
+  <string name="title_set_name">Namen eingeben</string>
   <string name="title_warn">Warnung</string>
   <string name="to_count">Insgesamt %d</string>
   <string name="to_enable_sync_dialog_message">Zuerst Synchronisierung einschalten</string>
