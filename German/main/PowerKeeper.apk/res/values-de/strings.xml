@@ -33,10 +33,7 @@
   <string name="config_suggest_description">"Apps und Aktivitäten erkennen, um wichtige Prozesse am Laufen zu halten.
  Battery Saver wird wichtige Apps bevorzugt behandeln."</string>
   <string name="config_suggest_suffix_title">MIUI Battery Saver (empfohlen)</string>
-  <string name="config_suggest_title">MIUI Battery Aaver</string>
-  <string name="config_mode_title">Config wählen</string>
-  <string name="config_suggest_description">Verschiedene Energiesparkonfigurationen für unterschiedliche Apps verwenden</string>
-  <string name="config_suggest_title">Empfohlene</string>
+  <string name="config_suggest_title">MIUI Battery Saver</string>
   <string name="disabled">Aus</string>
   <string name="empty_title_apps_container_list">Keine Apps</string>
   <string name="error_filename_too_long">Der Dateiname ist zu lang</string>
@@ -50,7 +47,6 @@
   <string name="hide_mode_desc">Wenn Apps im Hintergrund laufen, werden ihre Aktivitäten überwacht um den Energieverbrauch zu reduzieren. Netzwerkverbindung, Ortungsdienste, Radio, Timer, etc. können durch diese Funktion beeinträchtigt werden. Diese Konfiguration ist für die meisten Apps optimal. Wenn sich aber eine bestimmte App ungewöhnlich verhält während sie im Hintergrund läuft, können Sie die Einstellungen der App anpassen.</string>
   <string name="hide_mode_desc_title">"Energieverbrauch verwalten"</string>
   <string name="hide_mode_ultimate_desc">Ultimativmodus is ein. Apps im Hintergrund werden eingefroren. Schalten Sie Battery Saver aus, um den Ultimativmodus zu verlassen.</string>
-  <string name="high">Performance</string>
   <string name="high">Leistung</string>
   <string name="hints_loading_text">Lade…</string>
   <string name="invalid_size_value">Packetgröß konnte nicht ermittelt werden</string>
