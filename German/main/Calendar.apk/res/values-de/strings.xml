@@ -377,7 +377,7 @@
   <string name="str_hour_of_next">nächstes Mal %s</string>
   <string name="subscribe">Abonnieren</string>
   <string name="subscribe_all">Alle abonnieren</string>
-  <string name="subscribe_card_more_default_text">mehrstring>
+  <string name="subscribe_card_more_default_text">mehr</string>
   <string name="subscribe_card_recommend_default_text">Empfohlene abonnieren</string>
   <string name="subscribe_description_card_default_title">Profil</string>
   <string name="subscribe_description_card_more_cut">Zusammenklappen</string>
