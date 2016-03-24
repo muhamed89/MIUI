@@ -1,19 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_install_intercept">Installation blockiert</string>
-  <string name="continue_install">Installieren</string>
-  <string name="empty_app">Keine Anwendung</string>
-  <string name="install_title">Mit dem PC installieren</string>
-  <string name="monitor_requests_from_pc">Die Anwendung Installation mit dem Pc ausführen</string>
-  <string name="pc_install_manager">Installation Manager</string>
-  <string name="pc_to_phone_install">Die Installation von %s auf dem PC Blockiert</string>
-  <string name="pm_remember_choice">Meine Auswahl beibehalten</string>
-  <string name="preference_key_permcenter_install_intercept_enabled">key_permcenter_install_intercept_enabled</string>
-  <string name="recently_reject_message">Installation von %1$s und %2$d und anderer Anwendungen Abgelehnt.</string>
-  <string name="recently_reject_message_one">%1$s Installationsanforderungen Abgelehnt</string>
-  <string name="reject_countdown">(%d) Verweigert</string>
-  <string name="reject_usb_install">Die Installation der Anwendungen mit den PC verweigert.</string>
-  <string name="usb_install_desc">Die Anwendungen mit dem PC installieren ?</string>
   <string name="SMS_and_MMS">SMS und MMS</string>
   <string name="Setting_lock">Einstellungen</string>
   <string name="Settings_title_anti_spam">Sperrlisten-Einstellungen</string>
