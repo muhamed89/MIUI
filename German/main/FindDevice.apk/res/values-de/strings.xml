@@ -31,7 +31,6 @@ Wenn Sie die SIM-Karte tauschen, wird automatisch eine SMS gesendet, um diese Fu
   <string name="find_device_success_title">Gerät finden</string>
   <string name="i_know">OK</string>
   <string name="lock_msg_phone">Kontakt-Information: %s</string>
-  <string name="login_failed">"Einloggen fehlgeschlagen"</string>
   <string name="login_extra_steps">Anmeldeverifikation</string>
   <string name="login_failed">"Anmeldung fehlgeschlagen. %s."</string>
   <string name="passport_checking_vcode">Passwort wird überprüft…</string>
