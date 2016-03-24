@@ -82,6 +82,7 @@ oder Passwort eingeben"</string>
   <string name="antivirus_privacy_dialog_title">Datenschutzbestimmungen</string>
   <string name="antivirus_sec_support">Powered by %s</string>
   <string name="antivirus_update_db">%s</string>
+  <string name="app_install_intercept">Installation blockieren</string>
   <string name="apn_exception_summary">Zugangspunktnamen vom Netzbetreiber überprüfen</string>
   <string name="apn_exception_title">APN Konfigurationen</string>
   <string name="app_detail">Details</string>
@@ -183,6 +184,7 @@ oder Passwort eingeben"</string>
   <string name="connect_internet_by_usbshare">Internetverbindung über USB herstellen</string>
   <string name="connect_internet_by_wifi">WLAN</string>
   <string name="correction_attention_dialog_message">Die Einstellungen jetzt anpassen. Warten Sie, bis der Vorgang abgeschlossen ist, und versuchen Sie es erneut.</string>
+  <string name="continue_install">Installieren</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Abbrechen</string>
   <string name="cta_checkbox_title">Nicht mehr anzeigen</string>
@@ -276,6 +278,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="dialog_title_attention">Warnung</string>
   <string name="dialog_title_auto_start_declare">Über Autostart</string>
   <string name="dialog_title_stop_virus_scan">Virusscan anhalten</string>
+  <string name="empty_app">Keine Apps</string>
   <string name="disable_air_mode">Zuerst Flugmodus ausschalten</string>
   <string name="dns_exception_summary">DNS-Einstellungen des Routers überprüfen</string>
   <string name="dns_exception_title">DNS-Einstellungen überprüfen</string>
@@ -373,6 +376,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="hints_virus_scan_result_descx">"Diese App ist die größte Gefahr für Ihr System."</string>
   <string name="history_details_title">Verlaufdetails</string>
   <string name="info_and_call">Anrufe und Nachrichten</string>
+  <string name="install_title">Via USB installieren</string>
   <string name="input_aviable_traffic">Datenlimit einstellen</string>
   <string name="input_traffic_pkg">Datenvolumen eingeben</string>
   <string name="input_used_hint">Datenvolumen eingeben</string>
@@ -488,6 +492,7 @@ Peak: %1$s%2$s verbleibend | %3$s verbraucht"</string>
   <string name="menu_text_power_manager">Energieverwaltung</string>
   <string name="menu_text_power_percent">%s Akku</string>
   <string name="menu_text_power_percent_title">Akku %s</string>
+  <string name="monitor_requests_from_pc">Installation von Apps via USB verwalten</string>
   <string name="mi_service_app_detail">Datenverbrauchsdetails</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_traffic_detail">Framework Details</string>
@@ -585,6 +590,8 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="package_setted_error_notification_summary">Tippen um Datenverbrauch im Detail anzuzeigen</string>
   <string name="package_setted_error_notification_titile">"kein Datenverbrauch verfügbar"</string>
   <string name="packages_subtitle">Inklusive Pakete</string>
+  <string name="pc_install_manager">Installation via USB</string>
+  <string name="pc_to_phone_install">Installation von %s via USB blockiert</string>
   <string name="pay_charge">Weitere Daten erwerben</string>
   <string name="percentage">%d%%</string>
   <string name="permission_action_accept">Akzeptieren</string>
@@ -614,6 +621,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="pm_auto_start_by_other_services">Deaktivieren Sie diese Dienste</string>
   <string name="pm_auto_start_by_system">Apps starten</string>
   <string name="pm_auto_start_proc_is_running">Ausführen</string>
+  <string name="pm_remember_choice">Meine Auswahl merken</string>
   <string name="pm_root_success_notification_title">Root-Zugriff aktiviert</string>
   <string name="power_20s_enter_mode">Wechseln von %1$ds zu %2$s</string>
   <string name="power_20s_shutdown">Telefon schaltet sich in 20 Sekunden aus</string>
@@ -885,6 +893,8 @@ Sie müssen Ihre Akku-Einstellungen ändern bevor Sie dieses Profil löschen kö
   <string name="protection_category_dangerous_title">Risiko (%d)</string>
   <string name="protection_category_recommend_title">Empfohlene Änderungen(%d)</string>
   <string name="protection_category_security_title">Löschen (%d)</string>
+  <string name="recently_reject_message">Installation von %1$s und %2$d weiteren Apps verweigert</string>
+  <string name="recently_reject_message_one">%1$s Installationsversuche verweigert</string>
   <string name="protocol_exception_title">Netzwerkprotokoll-Diagnose</string>
   <string name="protocol_loop_back_exception_summary">Loop-Back-Test fehlgeschlagen. Um den Fehler an MIUI zu melden, öffnen Sie die Fehlerbericht-App und senden Sie den Bericht von Ihrem Gerät.</string>
   <string name="reach_daily_limit_value_body">Verringern Sie Ihren mobilen Datenverbrauch.</string>
@@ -892,7 +902,9 @@ Sie müssen Ihre Akku-Einstellungen ändern bevor Sie dieses Profil löschen kö
   <string name="reach_daily_limit_value_title">Tägliches Datenlimit erreicht</string>
   <string name="read_number">86 Artikel</string>
   <string name="read_unit">" Artikel"</string>
-  <string name="reject_all">Alle beschränken</string>
+  <string name="reject_all">Alle verweigern</string>
+  <string name="reject_countdown">Verweigern (%d)</string>
+  <string name="reject_usb_install">Installation der folgenden Apps via USB verweigert</string>
   <string name="renew_ip">Wiederholen</string>
   <string name="repair">Reparieren</string>
   <string name="repair_loading_text">Einen Moment…</string>
@@ -1258,6 +1270,7 @@ Der verbleibende Datenverbauch beinhalten auch jenen Verbrauch, welcher in dem l
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Aktiv lassen</string>
   <string name="usage_type_wifi_running">WLAN aktiv</string>
+  <string name="usb_install_desc">Diese App via USB isntallieren?</string>
   <string name="usbsharenet_exception_summary">Es kann keine Internetverbindung über USB hergestellt werden. Überprüfen Sie die USB-Verbindung und starten Sie MiPC-Suite erneut.</string>
   <string name="usbsharenet_exception_title">USB-Internetfreigabe testen</string>
   <string name="usbsharenet_pc_exception_summary">Es kann keine Internetverbindung über die geteilte Verbindung hergestellt werden. Überprüfen Sie die Internetverbindung des Computers.</string>

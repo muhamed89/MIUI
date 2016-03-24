@@ -22,6 +22,18 @@
   <string name="background">App läuft im Hintergrund</string>
   <string name="config_custom_description">Wenn vorgeschlagene Konfigurationen nicht Ihren Anforderungen entsprechen, können sie angepasst werden</string>
   <string name="config_custom_title">Benutzerdefiniert</string>
+  <string name="config_description">"MIUI kann Apps mit spezifischen Hintergrundaktivitäten erkennen (z.B., Nachrichten, Navigation, Medienplayer) und den Battery Saver so anwenden, dass wichtige Hintergrundaktivitäten nicht beeinflusst werden ."</string>
+  <string name="config_mode_title">Hintergrundeinstellungen</string>
+  <string name="config_no_restrict_description">"Battery Saver schränkt die Aktivitäten der App nicht ein"</string>
+  <string name="config_no_restrict_title">Keine Einschränkungen</string>
+  <string name="config_restrict_function_description">"Einige Funktionen (z.B., Push-Benachrichtigungen) sind betroffen, aber Apps werden nicht beendet"</string>
+  <string name="config_restrict_function_title">Hintergrundprozesse einschränken</string>
+  <string name="config_restrict_running_description">Apps werden geschlowwen, um Strom zu sparen</string>
+  <string name="config_restrict_running_title">Hintergrundaktivitäten einschränken</string>
+  <string name="config_suggest_description">"Apps und Aktivitäten erkennen, um wichtige Prozesse am Laufen zu halten.
+ Battery Saver wird wichtige Apps bevorzugt behandeln."</string>
+  <string name="config_suggest_suffix_title">MIUI Battery Saver (empfohlen)</string>
+  <string name="config_suggest_title">MIUI Battery Aaver</string>
   <string name="config_mode_title">Config wählen</string>
   <string name="config_suggest_description">Verschiedene Energiesparkonfigurationen für unterschiedliche Apps verwenden</string>
   <string name="config_suggest_title">Empfohlene</string>
@@ -29,11 +41,16 @@
   <string name="empty_title_apps_container_list">Keine Apps</string>
   <string name="error_filename_too_long">Der Dateiname ist zu lang</string>
   <string name="foreground_change">App läuft im Vordergrund</string>
+  <string name="fragment_nonesys_listempty">Keine installierten Apps</string>
+  <string name="fragment_tab_title_nonsys">Installierte Apps</string>
+  <string name="fragment_tab_title_sys">Systemanwendungen</string>
   <string name="full_screen_enter">Vollbild an</string>
   <string name="full_screen_exit">Vollbild aus</string>
   <string name="hide_mode">Energieverbrauch verwalten</string>
   <string name="hide_mode_desc">Wenn Apps im Hintergrund laufen, werden ihre Aktivitäten überwacht um den Energieverbrauch zu reduzieren. Netzwerkverbindung, Ortungsdienste, Radio, Timer, etc. können durch diese Funktion beeinträchtigt werden. Diese Konfiguration ist für die meisten Apps optimal. Wenn sich aber eine bestimmte App ungewöhnlich verhält während sie im Hintergrund läuft, können Sie die Einstellungen der App anpassen.</string>
   <string name="hide_mode_desc_title">"Energieverbrauch verwalten"</string>
+  <string name="hide_mode_ultimate_desc">Ultimativmodus is ein. Apps im Hintergrund werden eingefroren. Schalten Sie Battery Saver aus, um den Ultimativmodus zu verlassen.</string>
+  <string name="high">Performance</string>
   <string name="high">Leistung</string>
   <string name="hints_loading_text">Lade…</string>
   <string name="invalid_size_value">Packetgröß konnte nicht ermittelt werden</string>
@@ -74,6 +91,8 @@
   <string name="power_config_app_full_screen_title">Vollbild</string>
   <string name="power_config_app_launch_title">Vordergrund</string>
   <string name="power_config_apps">Akkuverbrauchsreduzierung im Hintergrund</string>
+  <string name="power_config_bg_data_delay_time_dialog_title">Zeit auswählen, in der Hintergrundaktivitäten eingeschränkg werden sollen</string>
+  <string name="power_config_bg_data_delay_time_title">Hintergrunddaten einschränken</string>
   <string name="power_config_choose_apps">Apps auswählen</string>
   <string name="power_config_confirm_event_delete">Diese Konfiguration löschen?</string>
   <string name="power_config_cpu_freq_dialog_title">CPU Frequenz</string>
@@ -104,8 +123,11 @@
   <string name="power_config_select_apps_title">Apps</string>
   <string name="power_config_title">Einstellungen</string>
   <string name="power_config_ultimate_description">Appaktivitäten im Hintergrund werden eingefroren</string>
-  <string name="power_config_ultimate_title">Ultimativ</string>
+  <string name="power_config_ultimate_off_already">Ultimativmodus aus</string>
+  <string name="power_config_ultimate_on_already">Ultimativmodus ein</string>
+  <string name="power_config_ultimate_title">Ultimativmodus</string>
   <string name="power_configure_screen_brightness_enable">Bildschirmhelligkeit einstellen</string>
+  <string name="power_config_ultimate_unlock_already">Alles freigeschaltet</string>
   <string name="power_customize_giveup_change">Änderungen verwerfen?</string>
   <string name="power_dialog_cancel">Abbrechen</string>
   <string name="power_dialog_cpu_max_freq_title">MAX CPU Frequenz</string>
@@ -136,6 +158,7 @@
   <string name="power_optimize_activity_profile_file_error">Fehler Energie sparen</string>
   <string name="quick_disconnect_description">Apps können im Hintergrund nur kurz auf eine Netzwerkverbindung zugreifen. Der dauerhafte Zugriff ist beschränkt</string>
   <string name="quick_disconnect_title">Getrennt</string>
+  <string name="ragment_sys_listempty">Keine Systemanwendungen</string>
   <string name="reading">Lesen</string>
   <string name="screen_off">Bildschirm aus</string>
   <string name="screen_off_10_min">Bildschirm nach 10 Minuten Aus</string>
