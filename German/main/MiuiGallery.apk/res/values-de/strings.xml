@@ -311,6 +311,7 @@
   <string name="deselect_all">Keine</string>
   <string name="details">Details</string>
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
+  <string name="detail_title">Detailinfo</string>
   <string name="details_ms">%1$02d:%2$02d</string>
   <string name="details_sharer">Geteilt von</string>
   <string name="details_title">%1$d von %2$d Elementen</string>
@@ -626,10 +627,13 @@
   <string name="operation_remove_secret_button">Anzeigen</string>
   <string name="operation_rename">Umbenennen</string>
   <string name="operation_rename_baby">Name eingeben</string>
+  <string name="operation_send">Senden</string>
   <string name="operation_set_as_screensaver">Als Bildschirmschoner</string>
+  <string name="operation_set_contact_photo">Als Kontaktfoto festlegen</string>
+  <string name="operation_set_wallpaper">Als Hintergrund festlegen</string>
   <string name="operation_share">Teilen</string>
   <string name="operation_show_in_photos_tab">Auf Startseite anzeigen</string>
-  <string name="operation_show_on_map">Auf karte anzeigen</string>
+  <string name="operation_show_on_map">Auf Karte anzeigen</string>
   <string name="operation_slide_show">Diashow starten</string>
   <string name="operation_successful">Fertig</string>
   <string name="operation_too_often">Zu viele Anfragen von Ihrer IP-Adresse. Warten Sie 1 oder 2 Minuten und versuchen Sie es erneut.</string>
