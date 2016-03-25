@@ -41,7 +41,7 @@ Um mehr Speicherplatz zu erhalten, besuchen Sie mi.com/micloud."</string>
 Zuletzt gesichert am %2$s"</string>
   <string name="cloud_back_up_open_info_no_backuptime">Apps sichern, wenn Sie mit einem WLAN verbunden sind, einmal alle %1$s</string>
   <string name="cloud_back_up_remove_success">Sicherung gelöscht</string>
-  <string name="cloud_back_up_title">Appssichern </string>
+  <string name="cloud_back_up_title">Apps sichern </string>
   <string name="cloud_back_up_summary">Sichern, wenn Sie mit einem WLAN verbunden sind</string>
   <string name="cloud_backup_dialog_title">In der Mi Cloud sichern</string>
   <string name="cloud_find_device">Gerät finden</string>
