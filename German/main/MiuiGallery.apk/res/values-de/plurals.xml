@@ -148,19 +148,23 @@
         <item quantity="other">Bereits mit %d Personen geteilt</item>
         <item quantity="one">Bereits mit %d Person geteilt</item>
     </plurals>
+    <plurals name="delete_photo_msg_format">
+        <item quantity="other">%1$d Fotos %2$s löschen?</item>
+        <item quantity="one">Dieses Foto %2$s löschen?</item>
+    </plurals>
     <plurals name="delete_video_msg_format">
         <item quantity="other">%1$d Videos %2$s löschen?</item>
-       <item quantity="one">%1$d Video %2$s löschen?</item>
+        <item quantity="one">Dieses Video %2$s löschen?</item>
     </plurals>
     <plurals name="delete_media_msg_format">
        <item quantity="other">%1$d Elemente %2$s löschen?</item>
        <item quantity="one">%1$d Element %2$s löschen?</item>
     </plurals>
-   <plurals name="album_item_msg_format">
+    <plurals name="album_item_msg_format">
        <item quantity="other">(%d Elemente gesamt)</item>
        <item quantity="one">(%d Element gesamt)</item>
     </plurals>
-   <plurals name="album_count">
+    <plurals name="album_count">
        <item quantity="other">%d Fotos</item>
        <item quantity="one">%d Foto</item>
       </plurals>
