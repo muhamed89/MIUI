@@ -286,6 +286,12 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="auto_brightness_title">Adaptive Helligkeit</string>
   <string name="auto_caps">Auto. Groß-/Kleinschr.</string>
   <string name="auto_caps_summary">Jeden Satz mit einem Großbuchstaben beginnen</string>
+  <string name="auto_disable_screenbuttons_ask">Nachfragen</string>
+  <string name="auto_disable_screenbuttons_auto">Immer deaktivieren</string>
+  <string name="auto_disable_screenbuttons_cancel">Abbrechen</string>
+  <string name="auto_disable_screenbuttons_no">Niemals deaktivieren</string>
+  <string name="auto_disable_screenbuttons_summary">Bei bestimmten Apps die Navigationstasten automatisch dekativieren. Zweimal antippen, um die Tasten wieder zu aktivieren.</string>
+  <string name="auto_disable_screenbuttons_title">Navigationstasten automatisch deaktivieren</string>
   <string name="auto_launch_disable_text">Keine Standards eingestellt</string>
   <string name="auto_launch_enable_text">Sie haben diese App für einige Aktionen als Standard festgelegt.</string>
   <string name="auto_launch_label">Standardmäßig starten</string>
