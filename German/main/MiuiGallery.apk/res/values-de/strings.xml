@@ -531,6 +531,7 @@
   <string name="manual">Handbuch</string>
   <string name="me">Ich</string>
   <string name="megabyteShort"> MB</string>
+  <string name="menu_album_new_album">Neues Album</string>
   <string name="menu_item_sort">Sortieren</string>
   <string name="menu_item_sort_date">Datum</string>
   <string name="menu_item_sort_date_asc">Datum (Aufsteigend)</string>
