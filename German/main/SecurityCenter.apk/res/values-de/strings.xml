@@ -972,7 +972,7 @@ Sie müssen Ihre Akku-Einstellungen ändern bevor Sie dieses Profil löschen kö
   <string name="setting_traffic_pkg">Datenpakete einstellen</string>
   <string name="settings">Einstellung zur Datennutzung</string>
   <string name="settings_title_permission">Berechtigungseinstellungen</string>
-  <string name="showpattern">Muster anzwigen</string>  
+  <string name="showpattern">Muster anzeigen</string>  
   <string name="show_traffic_dialog_message">Ihre Datennutzung wird in der Statusleiste angezeigt. Sie können diese Funktion in den Einstellungen der Datennutzung jederzeit verändern.</string>
   <string name="show_traffic_dialog_title">Zeige Verbrauch in der Statusleiste</string>
   <string name="shutdown_cancel_reminder">Nicht ausgeschaltet</string>
