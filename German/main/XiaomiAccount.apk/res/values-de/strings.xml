@@ -154,7 +154,7 @@
   <string name="login_title">Bei Ihrem Mi Konto anmelden</string>
   <string name="login_with_email_or_id"><u>Mit E-Mail-Adresse oder Mi Konto ID anmelden</u></string>
   <string name="logout_failed">"Abmeldung fehlgeschlagen"</string>
-  <string name="mi_account_dspt_provision">"Mit einem Konto an der Mi Cloud, dem MIUI Themes Store und weiteren Mi-Diensten anmelden."</string>
+  <string name="mi_account_dspt_provision">"Mit einem Konto an der Mi Cloud, dem MIUI Themen Store und weiteren Mi-Diensten anmelden."</string>
   <string name="mi_account_identity_title">Überprüfen Sie Ihre Identität</string>
   <string name="mi_pass">Mi Pass</string>
   <string name="micloud_account_name">Mi Konto</string>
@@ -385,7 +385,7 @@ Stellen Sie sicher, dass Sie sich die Antworten auf diese Fragen merken."</strin
   <string name="sns_access_token_expired_warning">Die Anmeldung ist abgelaufen. Melden Sie sich erneut an um sich mit Ihrem Konto zu verbinden.</string>
   <string name="submit_answers">Abschicken</string>
   <string name="success">Fertig</string>
-  <string name="theme_store">MIUI Themes Store</string>
+  <string name="theme_store">MIUI Themen Store</string>
   <string name="theme_store_dspt">Passen Sie das Aussehen an. Hunderte frei anpassbare Designs sind verfügbar, um Ihr Gerät einzigartig zu machen.</string>
   <string name="timeout_retry">Zeitüberschreitung. Versuche es erneut.</string>
   <string name="title_reg">Konto erstellen</string>

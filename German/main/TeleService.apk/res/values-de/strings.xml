@@ -1165,9 +1165,9 @@ Ihre SIM-Karte wird nach einem weiteren gescheiterten Versuch gelöscht</string>
   <string name="registration_status_registering">Registrierung läuft…</string>
   <string name="registration_status_server_unreachable">Kontoregistrierung fehlgeschlagen. Bitte überprüfen Sie den Servernamen.</string>
   <string name="registration_status_still_trying">Einen Moment…</string>
-  <string name="reject_via_sms">Schnell Antworten</string>
+  <string name="reject_via_sms">Antwortvorlagen</string>
   <string name="reject_via_sms_summary">Vorlagen bearbeiten</string>
-  <string name="reject_via_sms_title">Schnell Antworten</string>
+  <string name="reject_via_sms_title">Antwortvorlagen</string>
   <string name="remain_mins_divider">or</string>
   <string name="remain_mins_domestic">Inland</string>
   <string name="remain_mins_international">International</string>

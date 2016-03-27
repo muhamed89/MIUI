@@ -20,7 +20,7 @@
   <string name="backup_theme_progress_message">Sicherung läuft…</string>
   <string name="backup_theme_success_message">Sicherung abgeschlossen</string>
   <string name="change_wallpaper">Hintergrund</string>
-  <string name="choose_new_themes">Themes</string>
+  <string name="choose_new_themes">Themen</string>
   <string name="close">Schließen</string>
   <string name="component_category_finest_title">ALLGEMEIN</string>
   <string name="component_category_more_title">ERWEITERT</string>
@@ -58,7 +58,7 @@
   <string name="gift_present_success_dlg_title">Geschenk versendet</string>
   <string name="gift_present_success_no_sms_dlg_content">Die Geschenke-Historie ist auf Ihrer Kontoseite gelistet</string>
   <string name="gift_presented">Verschickt</string>
-  <string name="gift_purchase_success_dlg_content">Sie haben %1$s als Geschenk gekauft. Zum Verschicken gehen Sie bitte zu Ihrer Themes Kontoseite.</string>
+  <string name="gift_purchase_success_dlg_content">Sie haben %1$s als Geschenk gekauft. Zum Verschicken gehen Sie bitte zu Ihrer Themen Kontoseite.</string>
   <string name="gift_purchase_success_dlg_title">Geschenk gekauft</string>
   <string name="gift_purchased_endnote">An: %1$s</string>
   <string name="gift_purchased_list_empty">Sie haben keine Geschenke vergeben</string>
@@ -194,7 +194,7 @@
   <string name="resource_get_auth_exceed_max_limit_tips">Sie haben bereits 10 Geräte für dieses Konto aktiviert</string>
   <string name="resource_get_auth_exceed_max_limit_title">Maximale Anzahl an Geräten erreicht</string>
   <string name="resource_get_auth_has_been_undercarriaged">Dieses Theme ist nicht mehr verfügbar</string>
-  <string name="resource_get_auth_not_official">Themes von Drittanbietern werden nicht unterstützt</string>
+  <string name="resource_get_auth_not_official">Themen von Drittanbietern werden nicht unterstützt</string>
   <string name="resource_get_auth_retrieving">Berechtigung wird abgerufen…</string>
   <string name="resource_has_been_downloaded">Sie haben dieses Theme bereits heruntergeladen</string>
   <string name="resource_hint">Hinweis</string>
@@ -338,11 +338,11 @@
   <string name="theme_favorite_delete_success">Stern vom Thema entfernt</string>
   <string name="theme_favorite_list_empty">Sie haben noch keinem Thema einen Stern vergeben</string>
   <string name="theme_favorite_waiting">Einen Augenblick…</string>
-  <string name="theme_fresh_man_notifaction">Neue Themes verfügbar</string>
+  <string name="theme_fresh_man_notifaction">Neue Themen verfügbar</string>
   <string name="theme_immediately_apply_tip">Theme Update jetzt anwenden?</string>
   <string name="theme_import_from_sdcard">Importieren</string>
   <string name="theme_is_external_priority_storage">Auf SD-Karte speichern</string>
-  <string name="theme_is_external_priority_storage_summary">Die Themes App startet nach jeder Änderung neu</string>
+  <string name="theme_is_external_priority_storage_summary">Die Themen App startet nach jeder Änderung neu</string>
   <string name="theme_multiple_button_title_customize">Anpassen</string>
   <string name="theme_name">%1$s</string>
   <string name="theme_no">Nein</string>

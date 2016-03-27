@@ -1670,7 +1670,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="local_backup_password_toast_confirmation_mismatch">"Neues Passwort und Bestätigung stimmen nicht überein"</string>
   <string name="local_backup_password_toast_success">Neues Sicherungs Passwort</string>
   <string name="local_backup_password_toast_validation_failure">Fehler beim Erstellen des Sicherungs Passworts</string>
-  <string name="local_backup_section_summary">System Einstellungen, Konten und Apps sichern</string>
+  <string name="local_backup_section_summary">Systemeinstellungen, Konten und Apps sichern</string>
   <string name="local_backup_section_title">Lokale Sicherungen</string>
   <string name="locale_default">Standard</string>
   <string name="locale_settings">Lokal</string>
