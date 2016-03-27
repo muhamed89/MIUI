@@ -778,7 +778,7 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="missed_call_notify_once">1 mal</string>
   <string name="missed_call_notify_ten_times">10 mal</string>
   <string name="missed_call_notify_thrice">3 mal</string>
-  <string name="missed_call_notify_times_summary">Auswählen wie oft Sie an verpasste Anrufe erinnert werden möchten (Erinnerungen werden durch Intervalle von 5 Minuten getrennt)</string>
+  <string name="missed_call_notify_times_summary">Auswählen, wie oft Sie an verpasste Anrufe erinnert werden möchten (Erinnerungen werden durch Intervalle von 5 Minuten getrennt)</string>
   <string name="missed_call_notify_times_title">Anruferinnerungen</string>
   <string name="missed_call_notify_twice">2 mal</string>
   <string name="mmiCancelled">MMI Code abgebrochen</string>
