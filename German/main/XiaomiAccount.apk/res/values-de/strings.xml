@@ -46,7 +46,7 @@
   <string name="account_user_location_title">Standort auswählen</string>
   <string name="account_user_name">Name</string>
   <string name="account_user_name_dialog_title">Benutzernamen eingeben</string>
-  <string name="account_user_other_info">Weitere Quelleb</string>
+  <string name="account_user_other_info">Weitere Quellen</string>
   <string name="account_user_phone">Telefonnummer</string>
   <string name="account_user_recovery_phone">Notfall-Telefon</string>
   <string name="account_user_secure_info">Telefon &amp; E-Mail</string>
