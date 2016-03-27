@@ -36,6 +36,7 @@
   <string name="account_user_base_info">Persönliche Details</string>
   <string name="account_user_birthday">Geburtstag</string>
   <string name="account_user_details">Persönliche Details</string>
+  <string name="account_user_education">Ausbildung</string>
   <string name="account_user_email">E-Mail</string>
   <string name="account_user_gender">Geschlecht</string>
   <string name="account_user_gender_female">Weiblich</string>
