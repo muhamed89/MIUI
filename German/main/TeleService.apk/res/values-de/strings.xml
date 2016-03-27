@@ -1132,7 +1132,7 @@ Ihre SIM-Karte wird nach einem weiteren gescheiterten Versuch gelöscht</string>
   <string name="purchase_description_title">About</string>
   <string name="purchase_limit">Sie haben das Prepaid-Limit erreicht</string>
   <string name="purchase_list">Kaufhistorie</string>
-  <string name="purchase_notes">Note: It can be used for international calls. The amount paid for 1 min of the international call equals the amount for 6 min domestic.</string>
+  <string name="purchase_notes">Hinweis: Es kann für internationale Anrufe verwendet werden. Der Betrag für 1 min. des internationalen Anruf bezahlt entspricht dem Betrag für 6 min. Inland..</string>
   <string name="purchase_notification">"Preise darüber sind für Inlandsgespräche. Bei Auslandsgesprächen finden Sie im "</string>
   <string name="purchase_notification_title">Überprüfen Sie die unterstützte Regionen</string>
   <string name="purchase_rates_title">Preise</string>
