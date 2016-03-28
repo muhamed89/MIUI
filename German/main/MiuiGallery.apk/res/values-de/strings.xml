@@ -24,7 +24,7 @@
   <string name="add_event">Event hinzufügen</string>
   <string name="add_event_hint">Label eingeben</string>
   <string name="add_sharer">Benutzer hinzufügen</string>
-  <string name="add_to_album">Album</string>
+  <string name="add_to_album">Einem Album hinzufügen</string>
   <string name="add_to_album_bulk_result">%d fehlgeschlagen</string>
   <string name="add_to_album_exist">Foto existiert bereits im Album</string>
   <string name="add_to_album_failed">Hinzufügen zu Album fehlgeschlagen</string>
@@ -607,9 +607,9 @@
   <string name="open_public_title">Teilen</string>
   <string name="open_single_image_failure">Bild konnte nicht geladen werden</string>
   <string name="open_sync_title">Synchronisation einschalten</string>
-  <string name="operation_add_album">Album</string>
+  <string name="operation_add_album">Einem Album hinzufügen</string>
   <string name="operation_add_picture">Bilder hinzufügen</string>
-  <string name="operation_add_secret">Geheimes Album</string>
+  <string name="operation_add_secret">Verbergen</string>
   <string name="operation_add_secret_button">Verbergen</string>
   <string name="operation_delete">Löschen</string>
   <string name="operation_delete_confirm_message_folder">"Der gesamte Ordnerinhalt wird gelöscht. "</string>
