@@ -106,6 +106,7 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="add_device_admin_msg">Geräteadministrator aktivieren?</string>
   <string name="add_fingerprint_done_msg">Sie können Ihr Gerät nun mit Ihrem Fingerabdruck entsperren.</string>
   <string name="add_fingerprint_done_title">Fertig</string>
+  <string name="add_fingerprint_failed_retry_text">Fingerabdruck konnte nicht hinzugefügt werden, versuchen Sie es noch einmal</string>
   <string name="add_fingerprint_finished_button_text">Fertig</string>
   <string name="add_fingerprint_instruction_dialog_msg">"Um Ihre Fingerabdruckdetails hinzuzufügen, legen Sie Ihren Finger auf dem Sensor.
 Stellen Sie sicher, dass Ihr Finger die Innenkante des Sensors bedeckt"</string>
