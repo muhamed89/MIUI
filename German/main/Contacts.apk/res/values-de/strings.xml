@@ -783,7 +783,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
 "</string>
   <string name="noGroups">Keine Gruppen</string>
   <string name="noMatchingContacts">Keine passenden Kontakte gefunden</string>
-  <string name="noRecentContacts">Keine neuen Kontakte</string>
+  <string name="noRecentContacts">Keine aktuellen Kontakte</string>
   <string name="no_account_prompt">"Die Kontakte-App funktioniert am besten mit einem Google-Konto.
 
 • Zugriff über einen beliebigen Browser.
@@ -937,8 +937,8 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="recentCalls_removeFromRecentList">Aus Anrufliste entfernen</string>
   <string name="recentCalls_shareVoicemail">Sprachnachricht teilen</string>
   <string name="recentCalls_trashVoicemail">Sprachnachricht löschen</string>
-  <string name="recent_contacts_label">Neuesten</string>
-  <string name="recent_number">Neuesten</string>
+  <string name="recent_contacts_label">Aktuellste</string>
+  <string name="recent_number">Aktuell</string>
   <string name="recent_updates">Kürzliche Updates</string>
   <string name="redirect_calls_to_vm_confirm_message">Vor dem Einrichten Ihrer Mailbox, überprüfen Sie die Bedingungen Ihres Vertrages mit Ihrem Mobilfunkanbieter.</string>
   <string name="redirect_calls_to_vm_confirm_text">OK</string>
