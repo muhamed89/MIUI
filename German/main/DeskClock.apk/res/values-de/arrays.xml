@@ -925,6 +925,11 @@
         <item>C298</item>
         <item>C299</item>
     </string-array>
+   <string-array name="stat_volume_button_behaviors">
+       <item>Keine</item>
+       <item>Schlummern</item>
+       <item>Beenden</item>
+   </string-array>
     <string-array name="alarm_in_furture">
         <item>Wecker klingelt in weniger als 1 Minute</item>
         <item>Wecker klingelt in %1$s</item>

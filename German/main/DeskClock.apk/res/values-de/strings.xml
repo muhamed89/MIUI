@@ -43,7 +43,6 @@
   <string name="delelte_selected_timezone">Ausgewählte Zeitzone löschen?</string>
   <string name="delete">Löschen</string>
   <string name="delete_alarm">Wecker löschen</string>
-  <string name="delete_alarm_confirm">Diesen Wecker löschen?</string>
   <string name="delete_selected_timer_item">Ausgewählten Timer löschen?</string>
   <string name="delete_timer_item_title">Timer löschen</string>
   <string name="delete_timezone_title">Zeitzone löschen</string>
@@ -95,6 +94,13 @@
   <string name="snooze_duration_title">Schlummerdauer</string>
   <string name="start">Start</string>
   <string name="start_up">Starten</string>
+  <string name="stat_repeat_everyday">täglich</string>
+  <string name="stat_repeat_legal_off_day">an Feiertagen</string>
+  <string name="stat_repeat_legal_workday">an Werktagen</string>
+  <string name="stat_repeat_none">niemals</string>
+  <string name="stat_repeat_self_define">benutzerdefiniert</string>
+  <string name="stat_repeat_weekdays">Mo - Fr</string>
+  <string name="stat_repeat_weekends">am Wochenende</string>
   <string name="stopwatch_lap_empty_text">Keine Rundenzeit</string>
   <string name="stopwatch_title">Stoppuhr</string>
   <string name="system_time_setting">Einstellungen</string>

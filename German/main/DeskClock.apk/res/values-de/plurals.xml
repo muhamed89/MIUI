@@ -32,4 +32,12 @@
         <item quantity="other">Alarme werden nach %d Minuten stumm geschalten.</item>
         <item quantity="one">Alarme werden nach %d Minute stumm geschalten.</item>
     </plurals>
+    <plurals name="delete_alarm_confirm">
+        <item quantity="other">Die ausgewählten Wecker löschen?</item>
+        <item quantity="one">Diesen Wecker löschen?</item>
+    </plurals>
+    <plurals name="delete_timezone_confirm">
+        <item quantity="other">Die ausgewählten Zeitzonen löschen?</item>
+        <item quantity="one">Diese Zeitzone löschen?</item>
+    </plurals>
 </resources>
