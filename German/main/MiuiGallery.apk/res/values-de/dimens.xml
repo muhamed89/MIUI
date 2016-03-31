@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <dimen name="paint_actionbar_item_width">85.0dip</dimen>
     <dimen name="paint_effects_menu_padding_left">20.0dip</dimen>
 	<dimen name="paint_effects_menu_item_margin_left">10.0dip</dimen>
 	<dimen name="paint_effects_menu_width_land">55.0dip</dimen>
