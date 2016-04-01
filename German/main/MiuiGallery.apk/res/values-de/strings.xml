@@ -57,14 +57,14 @@
   <string name="album_already_forced_top">Bereits an oberster Stelle</string>
   <string name="album_camera_name">Kamera</string>
   <string name="album_detail_page_empty">Kein Bild oder Video</string>
-  <string name="album_faces_name">Gesicht</string>
+  <string name="album_faces_name">Personen</string>
   <string name="album_member">Albumbenutzer %s</string>
   <string name="album_name">Albumname</string>
   <string name="album_others_share_baby_info_format">Babyalbum von %s</string>
   <string name="album_others_share_info_format">Von %s</string>
   <string name="album_owner_share">Geteilt</string>
   <string name="album_page_empty">Leer</string>
-  <string name="album_page_label">Album</string>
+  <string name="album_page_label">Alben</string>
   <string name="album_quota_fulfiled">Zu viele Alben. Löschen Sie einige Alben und erneut versuchen.</string>
   <string name="album_screenshot_name">Screenshot</string>
   <string name="album_setting_show_in_photo_tab_success">Dieses Album ist bereits auf der Startseite</string>
