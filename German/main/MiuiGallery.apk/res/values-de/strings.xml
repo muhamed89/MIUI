@@ -369,7 +369,7 @@
   <string name="external_usb_device">USB-Speicher</string>
   <string name="external_usb_device_hm">Externer USB-Speicher</string>
   <string name="face_album">Personen</string>
-  <string name="exit_video_play">Exit</string>
+  <string name="exit_video_play">Beenden</string>
   <string name="expand_people">Weitere Personen anzeigen</string>
   <string name="face_album_detecting_tip">Einen Moment…</string>
   <string name="face_album_empty">Leer.</string>
