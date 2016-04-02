@@ -304,7 +304,8 @@
   <string name="mx_btn_enable_now">Einschalten</string>
   <string name="mx_count_dspt">Sie haben %1$d SMS und %2$d MMS gesendet</string>
   <string name="mx_current_status">Zusätzliche Einstellungen</string>
-  <string name="mx_dspt">Senden Sie kostenlos Nachrichten an andere MIUI-Nutzer</string>
+  <string name="mx_dspt_listview">Senden Sie kostenlos Nachrichten an andere MIUI-Nutzer</string>
+  <string name="mx_dspt">Senden Sie kostenlos Nachrichten an andere MIUI-Nutzer, wenn Sie mit einem WLAN verbunden sind</string>
   <string name="mx_dspt_provision">Mit Mi Nachrichten können Sie kostenlos Nachrichten zwischen MIUI-Benutzern versenden</string>
   <string name="mx_dspt_provision_ex">"Senden Sie Nachrichten und tätigen Sie Anrufe zu anderen MIUI Benutzern, ohne Gebüren durch Ihrem Anbieter. VoIP wird unterstützt von Weihui. Siehe Weihui's Datenschutzrichtlinien."</string>
   <string name="mx_dspt_provision_ex2">Datenschutzrichtlinien</string>
