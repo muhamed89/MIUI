@@ -115,7 +115,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="lb_search_bar_hint_with_title">Suchen %1$s</string>
   <string name="lb_search_bar_hint_with_title_speech">Sprechen Sie, um zu suchen %1$s</string>
   <string name="lift_ban">erlauben</string>
-  <string name="lift_ban_once">einmalig erlauben/string>
+  <string name="lift_ban_once">einmalig erlauben</string>
   <string name="loading">Laden…</string>
   <string name="location_settings">Standorteinstellungen</string>
   <string name="location_warning">%1$s ist ein Anbieter von Standortdiensten für dieses Gerät. Die Berechtigungen für den Zugriff auf Ihren Standort können Sie in den Standorteinstellungen ändern.</string>
