@@ -329,6 +329,8 @@ Gehen Sie zu Einstellungen > weitere Einstellungen > Mi Mover
   <string name="unit_byte">B</string>
   <string name="unit_piece">" Elemente"</string>
   <string name="unknown_hint">Unbekannt</string>
+  <string name="user_notice_title">Nutzerbenachrichtigung</string>
+  <string name="user_notice_message">Einige Funktionen erfordern eine Internetverbindung, um ordnungsgemäß zu funktionieren.</string>
   <string name="wifi_title">WLAN-Einstellungen</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_external_storage_unavailable">Kein Speicherplatz verfügbar, überprüfen Sie die SD-Karte.</string>
