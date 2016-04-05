@@ -114,7 +114,7 @@
   <string name="files_backup_info">Alle Dateien auf der SD-Karte (inkl. Fotos, Lieder, Videos, App-Daten, usw.)</string>
   <string name="findlost_contact">Kontakte wiederherstellen</string>
   <string name="findlost_contact_online">Kontakte aus der MiCloud wiederherstellen</string>
-  <string name="guarded_mode_dialog_backup_message">Backups sind im Gastmodus nicht erlaubt."</string>
+  <string name="guarded_mode_dialog_backup_message">Backups sind im Gastmodus nicht erlaubt.</string>
   <string name="guarded_mode_dialog_title">"Sie befinden sich im Gastmodus"</string>
   <string name="guarded_mode_dialog_transfer_message">Mi Mover kann im Gastmodus nicht verwendet werden.</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Mi Talk herunterladen und anmelden.
