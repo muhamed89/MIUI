@@ -241,7 +241,6 @@
   <string name="pref_section_auto_clean_and_alert">Automatisch bereinigen</string>
   <string name="pref_summary_auto_clean_and_alert">Zeitplan für automatische Bereinigung einrichten</string>
   <string name="pref_summary_auto_deepclean_and_alert">Benachrichtigung über unbenutzte Apps</string>
-  <string name="pref_summary_auto_deepclean_and_alert">"Benachrichtigen, wenn weniger als 1GB Speicher zur Verfügung stehen"</string>
   <string name="pref_summary_auto_update_cleanup_db">Zuletzt %s aktualisiert</string>
   <string name="pref_summary_cleanup_white_list">Ausgewählte Apps werden nicht bereinigt</string>
   <string name="pref_summary_expand_cache_group">Cache-Details automatisch anzeigen</string>
