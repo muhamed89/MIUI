@@ -145,8 +145,8 @@
   <string name="dir_not_support">"Can't hide this folder"</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Leer</string>
-  <string name="disk_available">"Verfügbar: "</string>
-  <string name="disk_total">"Gesamt: "</string>
+  <string name="disk_available">Verfügbar</string>
+  <string name="disk_total">Gesamt</string>
   <string name="dlg_error_unmount_text">USB-Speicher konnte nicht getrennt werden</string>
   <string name="download">Download</string>
   <string name="download_current_progress">%1$d%%</string>

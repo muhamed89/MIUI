@@ -1029,7 +1029,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="delete_fingerprint_confirm_msg">Fingerabdruck entfernen?</string>
   <string name="delete_fingerprint_text">Fingerabdruck entfernen</string>
   <string name="delete_legacy_fingerprint">Löschen</string>
-  <string name="delete_or_keep_legacy_passwords_confirm_msg">Fingerabdruckdaten entfernen?</string>
+  <string name="delete_or_keep_legacy_passwords_confirm_msg">Diesen Fingerabdruck entfernen?</string>
   <string name="deny">Ablehnen</string>
   <string name="deny_sms_message">Installierten Apps das Senden von SMS verbieten</string>
   <string name="deny_sms_title">SMS sperren</string>
@@ -1345,6 +1345,7 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="fingerprint_and_password_entrance_title">Sperrbildschirm &amp; Fingerabdruck</string>
   <string name="fingerprint_enroll_button_add">Einen weiteren hinzufügen</string>
   <string name="fingerprint_enroll_button_next">Weiter</string>
+  <string name="fingerprint_for_keyguard_disabled">Fingerabdruck wurde in den Sicherheitseinstellungen deaktiviert.</string>
   <string name="fingerprint_identificating_msg">Fingerabdruck wird gescannt…</string>  
   <string name="fingerprint_identify_input_password_msg">Passwort eingeben</string>
   <string name="fingerprint_identify_msg">Fingerabdruck wird gescannt…</string>

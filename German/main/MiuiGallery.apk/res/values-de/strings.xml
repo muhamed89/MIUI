@@ -156,7 +156,7 @@
   <string name="baidu_flyflow_downloads">Baidu-Browser</string>  
   <string name="beautyphone">Beauty Telefon</string>
   <string name="begin_share">Erstellen Sie ein Babyalbum \"%s\" und teilen Sie es sofort</string>
-  <string name="begin_share_toast">Ein Babyalbum wird auf Basis von diesem Album erstellt, ok?</string>
+  <string name="begin_share_toast">Vor dem Teilen ein eigenes Album für dieses Kind erstellen?</string>
   <string name="big_screen_alertdialog_title">Geräteliste</string>
   <string name="bigscreen_slide_exit">Diashow beenden</string>
   <string name="bigscreen_slide_fail_cause_loading">Diashow nach dem Laden des Bildes erneut starten</string>
@@ -311,7 +311,7 @@
   <string name="deselect_all">Keine</string>
   <string name="details">Details</string>
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
-  <string name="detail_title">Detailinfo</string>
+  <string name="detail_title">Details</string>
   <string name="details_ms">%1$02d:%2$02d</string>
   <string name="details_sharer">Geteilt von</string>
   <string name="details_title">%1$d von %2$d Elementen</string>
@@ -373,6 +373,7 @@
   <string name="expand_people">Weitere Personen anzeigen</string>
   <string name="face_album_detecting_tip">Einen Moment…</string>
   <string name="face_album_empty">Leer.</string>
+  <string name="face_album_empty_syncing_when_connect_wifi">Personenalben synchroniseiren, wenn WLAN verfügbar ist</string>
   <string name="face_album_long_tap_tip">Zur auswahl von mehreren Personen oder ändern der Gruppeneinstellungen, halten &amp; Sie ein Profilbild gedrückt</string>
   <string name="face_album_new_name_hint">Neuer Name</string>
   <string name="face_album_not_named">Unbenannt</string>
@@ -613,7 +614,7 @@
   <string name="operation_add_secret_button">Verbergen</string>
   <string name="operation_delete">Löschen</string>
   <string name="operation_delete_confirm_message_folder">"Der gesamte Ordnerinhalt wird gelöscht. "</string>
-  <string name="operation_detail">Information löschen</string>  
+  <string name="operation_detail">Details</string>  
   <string name="operation_disable_auto_upload">AutoBackup deaktivieren</string>
   <string name="operation_download">Foto herunterladen (%s)</string>
   <string name="operation_edit">Bearbeiten</string>

@@ -32,9 +32,9 @@
     </string-array>    
     <string-array name="call_barring_outgoing_display_values">
         <item>Aus</item>
-        <item>International Roaming-Anruf</item>
-        <item>Auslandsgespräch</item>
-        <item>Abgehender Anruf</item>
+        <item>Sperren von Roaminggesprächenn</item>
+        <item>Sperre von Auslandsgesprächen</item>
+        <item>Sperre von ausgehenden Anrufen</item>
     </string-array>    
     <string-array name="call_barring_incoming_display_values">
         <item>Aus</item>

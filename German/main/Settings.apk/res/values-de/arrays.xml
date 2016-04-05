@@ -549,6 +549,10 @@
         <item>Grün</item>
         <item>Magenta</item>
     </string-array>
+    <string-array name="screen_key_position_action">
+        <item>Menütaste links, Zurück-Taste rechts</item>
+        <item>Zurück-Taste links, Menütaste rechts</item>
+    </string-array>
     <string-array name="screen_key_press_action">
         <item>Zuletzt verwendet</item>
         <item>Menü anzeigen</item>

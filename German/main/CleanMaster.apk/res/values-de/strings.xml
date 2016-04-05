@@ -126,7 +126,7 @@
   <string name="empty_title_ad">Keine Werbung gefunden</string>
   <string name="empty_title_apk">Keine Installationspakete gefunden</string>
   <string name="empty_title_garbage_cache">Nichts zu Bereinigen</string>
-  <string name="empty_title_garbage_white_list">Keine Ausnahmen.</string>
+  <string name="empty_title_garbage_white_list">Lange antippen, um Ausnahmen hinzuzufügen.</string>
   <string name="empty_title_installed_apps">Leer</string>
   <string name="empty_title_large_files">Leer</string>
   <string name="empty_title_residual">Keine Reste gefunden</string>
@@ -206,6 +206,9 @@
   <string name="label_preserve_the_best_image">Die schärfsten Fotos speichern</string>
   <string name="last_check_canceled">Die letzte Suche wurde abgebrochen</string>
   <string name="load_only_under_wlan">Nachrichten nur bei WLAN-Verbindung laden</string>
+  <string name="login_immediately">Anmelden</string>
+  <string name="long_click_dialog_summary">Lange antippen, um zu den Ausnahmen hinzuzufügen.</string>
+  <string name="long_click_dialog_title">Hinweis</string>
   <string name="mainbtn_text_quick_cleanup">%s bereinigen</string>
   <string name="memeory_check_content">%1$d Apps, Speicher %2$s</string>
   <string name="msg_cleanup_db_update_checking">Suche Updates…</string>
@@ -216,6 +219,7 @@
   <string name="msg_update_error_code_success">Fertig</string>
   <string name="msg_update_error_code_unknown_error">Unbekannter Fehler.</string>
   <string name="name_optimizer">"Cheetah Mobile's Datenschutzbestimmungen"</string>
+  <string name="news_change">Ändern</string>
   <string name="nb_clear_set">ROM bereinigen, Akku- und Sperrlistendetails in der Statusleiste anzeigen</string>
   <string name="notification_summary_after_auto_cleanup">%s bereinigt.</string>
   <string name="notification_summary_of_apps_cleanup">Nicht verwendete Apps verbrauchen %s des Speichers</string>
@@ -228,13 +232,15 @@
   <string name="opened">An</string>
   <string name="optimizecenter_data_support">Unterstützt von Clean Master</string>
   <string name="positive_confirm">OK</string>
-  <string name="pref_category_title_auto_clean_settings">Zeitplan</string>
+  <string name="pref_category_title_auto_clean_settings">Automatisch bereinigen</string>
   <string name="pref_category_title_auto_update_cleanup_db">Weitere Einstellungen</string>
   <string name="pref_category_title_cleanup_white_list">Ausnahmen</string>
   <string name="pref_category_title_garbage_cleanup_check">Benachrichtigungen</string>
   <string name="pref_category_title_other_clean_settings">Weitere Einstellungen</string>
   <string name="pref_content_cleanup_white_list_none">Keine</string>
+  <string name="pref_section_auto_clean_and_alert">Automatisch bereinigen</string>
   <string name="pref_summary_auto_clean_and_alert">Zeitplan für automatische Bereinigung einrichten</string>
+  <string name="pref_summary_auto_deepclean_and_alert">Benachrichtigung über unbenutzte Apps</string>
   <string name="pref_summary_auto_deepclean_and_alert">"Benachrichtigen, wenn weniger als 1GB Speicher zur Verfügung stehen"</string>
   <string name="pref_summary_auto_update_cleanup_db">Zuletzt %s aktualisiert</string>
   <string name="pref_summary_cleanup_white_list">Ausgewählte Apps werden nicht bereinigt</string>
@@ -244,12 +250,11 @@
   <string name="pref_summary_garbage_cleanup_check_time">Bereinigungsplan</string>
   <string name="pref_summary_garbage_process_mode">Benachrichtigen, wenn die Bereinigung läuft</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Unbekannte Dateinamen hochladen und Online überprüfen</string>
-  <string name="pref_summary_open_optimizer_memory_scan">Apps automatisch auswählen und bereinigen</string>
   <string name="pref_title_apps_check_size">Speicherlimit</string>
   <string name="pref_title_apps_check_time">Frequenz</string>
   <string name="pref_title_auto_clean_and_alert">Automatisch bereinigen</string>
   <string name="pref_title_auto_clean_content_choose">Elemente zum Bereinigen auswählen</string>
-  <string name="pref_title_auto_deepclean_and_alert">Benachrichtigung für nicht verwendete Apps</string>
+  <string name="pref_title_auto_deepclean_and_alert">Gründliche Bereinigung</string>
   <string name="pref_title_auto_update_cleanup_db">Automatisch aktualisieren</string>
   <string name="pref_title_cleanup_white_list">Ausnahmen</string>
   <string name="pref_title_expand_cache_group">Elemente im Cache anzeigen</string>
@@ -260,7 +265,7 @@
   <string name="pref_title_garbage_process_mode">Benachrichtigungen</string>
   <string name="pref_title_manual_check_cleanup_db_update">Aktualisierungen suchen</string>
   <string name="pref_title_open_optimizer_cloud_scan">Hochladen</string>
-  <string name="pref_title_open_optimizer_memory_scan">Apps automatisch auswählen</string>
+  <string name="pref_title_open_optimizer_memory_scan">App-Speicher überprüfen</string>
   <string name="privacy_app_desc">Konto und Passwort</string>
   <string name="privacy_app_desc_message">Konto, Passwort, und Nachrichten</string>
   <string name="privacy_app_desc_search">Konto, Passwort, und Suchverlauf</string>
@@ -291,6 +296,8 @@
   <string name="summary_delete_video">&gt;Ausgewählte Videos dauerhaft löschen?</string>
   <string name="summary_optimizer">"Diese Funktion lädt Ordnernamen zur Cheetah Mobile's Online-Datenbank hoch und benötigt dafür Ihre Geräte-ID."</string>
   <string name="text_optimizer">Ordnernamen hochladen</string>
+  <string name="there_is_no">Sieht alles gut aus, schauen Sie später wieder vorbei</string>
+  <string name="tips_of_app_manage">Kaum verwendete Apps löschen, um Speicherplatz zu sparen</string>
   <string name="tips_of_auto_launch_manage">Verhindern Sie den automatischen Start von selten verwendeten Apps</string>
   <string name="tips_of_garbage_cloud_scan">Finden Sie versteckten Müll mit dem Cloud-Scan</string>
   <string name="tips_of_operators_set">Datenverbrauchsstatistiken automatisch anpassen</string>
@@ -302,6 +309,7 @@
   <string name="title_delete_clipboard">Inhalt Zwischenablage</string>
   <string name="title_delete_deepclean">Löschen</string>
   <string name="title_delete_large_file">Diese Datei löschen?</string>
+  <string name="title_of_app_manage">Apps</string>
   <string name="title_of_garbage_cloud_scan">Cloud-Scan</string>
   <string name="title_of_operators_set">Anbietereinstellungen</string>
   <string name="title_of_package_set">Datenplaneinstellungen</string>

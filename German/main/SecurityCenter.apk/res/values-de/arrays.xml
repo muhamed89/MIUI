@@ -28,17 +28,17 @@
         <item>"Diesen Monat: "</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Gestern (Daten)</item>
-        <item>Heute (Daten)</item>
-        <item>Diesen Monat (Daten)</item>
-        <item>Gestern WLAN</item>
-        <item>Heute WLAN</item>
-        <item>Diesen Monat WLAN</item>
+        <item>Mobile Daten gestern</item>
+        <item>Mobile Daten heute</item>
+        <item>Mobile Daten diesen Monat</item>
+        <item>WLAN gestern WLAN</item>
+        <item>WLAN heute</item>
+        <item>WLAN diesen Monat</item>
     </string-array>
     <string-array name="date_of_app">
-        <item>Gestern (Daten)</item>
-        <item>Heute (Daten)</item>
-        <item>Diesen Monat (Daten)</item>
+        <item>Mobile Daten gestern</item>
+        <item>Mobile Daten heute</item>
+        <item>Mobile Daten diesen Monat</item>
     </string-array>
     <string-array name="network_speed_update_internals">
         <item>3 Sek.</item>

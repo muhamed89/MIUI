@@ -423,6 +423,10 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="lockpassword_confirm_your_password_header">Passwort bestätigen</string>
   <string name="lock_settings_title">Sperrbildschirm und Passwort</string>
   <string name="lockpassword_confirm_your_pattern_header">Muster bestätigen</string>
+  <string name="lockscreen_access_pattern_cell_added">Knoten hinzugefügt</string>
+  <string name="lockscreen_access_pattern_cleared">Muster gelöscht</string>
+  <string name="lockscreen_access_pattern_detected">Muster komplett</string>
+  <string name="lockscreen_access_pattern_start">Muster gestartet</string>
   <string name="lockscreen_glogin_password_hint">Passwort</string>
   <string name="lockscreen_glogin_submit_button">Anmelden</string>
   <string name="lockscreen_glogin_checking_password">Wird überprüft…</string>

@@ -51,6 +51,7 @@
   <string name="call_title_redialing_with_times">%d Wahlwiederholungen</string>
   <string name="caller_manage_header">Konferenzanruf %s</string>
   <string name="calling_via_template">Anruf über %s</string>
+  <string name="can_not_call_oneself">Diese Nummer kann nicht angerufen werden</string>
   <string name="cancel">Abbrechen</string>
   <string name="card_title_call_ended">Anruf beendet</string>
   <string name="card_title_conf_call">Telefonkonferenz</string>

@@ -31,18 +31,14 @@
     <string-array name="cache_clean_menu">
         <item>Bereinigen</item>
         <item>Datei</item>
-        <item>Datei zu den Ausnahmen hinzufügen</item>
-        <item>App zu den Ausnahmen hinzufügen</item>
     </string-array>
 	<string-array name="trash_clean_menu">
         <item>Bereinigen</item>
         <item>Datei</item>
-        <item>Datei zu den Ausnahmen hinzufügen</item>
      </string-array>
 	 <string-array name="video_clean_menu">
         <item>Diese Datei bereinigen</item>
         <item>Öffnen</item>
-        <item>Datei zu den Ausnahmen hinzufügen</item>
     </string-array>
     <string-array name="empty_floder_clean_menu">
         <item>Bereinigen</item>
@@ -51,7 +47,12 @@
         <item>Bereinigen</item>
         <item>Installieren</item>
         <item>In Ordner anzeigen</item>
+    </string-array>
+    <string-array name="long_add_menu">
         <item>Zu Ausnahmen hinzufügen</item>
+    </string-array>
+    <string-array name="long_add_app_menu">
+        <item>App zu den Ausnahmen hinzufügen</item>
     </string-array>
     <string-array name="app_clean_menu">
         <item>Entfernen</item>

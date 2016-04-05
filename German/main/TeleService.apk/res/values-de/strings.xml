@@ -201,7 +201,7 @@
   <string name="call_recording_notification_toggle_title">Anrufaufnahmebenachrichtigung</string>
   <string name="call_recording_setting">Anrufaufnahme</string>
   <string name="call_remove_exception_numbers_confirm">%d Nummern werden gelöscht</string>
-  <string name="call_settings">Anrufeinstellungen</string>
+  <string name="call_settings">Telefon</string>
   <string name="call_settings_category">Anruf</string>
   <string name="call_settings_primary_user_only">Anrufeinstellungen können nur von dem primären Benutzer geändert werden.</string>
   <string name="call_settings_with_label">Anruf-Einstellungen (%s)</string>
@@ -581,6 +581,7 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="ims_vt_call_quality_unknown">Unbekannt</string>
   <string name="incall_error_call_failed">Anruf fehlgeschlagen</string>
   <string name="incall_error_emergency_only">Nicht im Netzwerk angemeldet</string>
+  <string name="incall_error_low_battery">Verbindung wegen geringer Akkuleistung nicht möglich</string>
   <string name="incall_error_missing_voicemail_number">Unbekannte Sprachboxnummer</string>
   <string name="incall_error_no_active_sim">SIM Karte wurde noch nicht aktiviert</string>
   <string name="incall_error_no_phone_number_supplied">Anruf fehlgeschlagen. Kein gültige Nummer eingegeben.</string>
@@ -588,7 +589,7 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="incall_error_power_off">Um einen Anruf zu tätigen, schalten Sie den Flugmodus aus</string>
   <string name="incall_error_sim_deactive">SIM Karte inaktiv</string>
   <string name="incall_error_supp_service_conference">Telefonkonferenz nicht möglich</string>
-  <string name="incall_error_supp_service_hangup">Gespräch(e) beenden nicht möglich</string>
+  <string name="incall_error_supp_service_hangup">Gespräch beenden nicht möglich</string>
   <string name="incall_error_supp_service_reject">Gespräche abweisen nicht möglich</string>
   <string name="incall_error_supp_service_separate">Gespräche trennen nicht möglich</string>
   <string name="incall_error_supp_service_switch">Zwischen Gesprächen umschalten nicht möglich</string>
@@ -636,6 +637,7 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="labelCFU">Immer weiterleiten</string>
   <string name="labelCW">Anklopfen</string>
   <string name="labelCallerId">Anrufer-ID</string>
+  <string name="labelCbCancelAll">Anrufsperre deaktivieren</string>
   <string name="labelGSMMore">GSM-Anrufeinstellungen</string>
   <string name="labelNwService">Netzwerkdiensteinstellungen</string>
   <string name="label_available">Verfügbare Netzwerke</string>
@@ -690,7 +692,7 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="livetalk_continue_button_creat_account">Konto erstellen</string>
   <string name="livetalk_creat_account_fialed">Kontofehler</string>
   <string name="livetalk_dial_direct">Direkt wählen</string>
-   <string name="livetalk_enable_switch">Aufladepaket anwenden</string>
+  <string name="livetalk_enable_switch">Aufladepaket anwenden</string>
   <string name="livetalk_experience_button">Jetzt probieren</string>
   <string name="livetalk_introduction_text">Günstige internationale Anrufe</string>
   <string name="livetalk_last_step">Zurück</string>
@@ -863,9 +865,10 @@ Werde stattdessen bevorzugtes Netzwerk nutzen."</string>
   <string name="new_password_label">Neues Passwort (4 Ziffern)</string>
   <string name="new_pin2_label">Neue PIN2</string>
   <string name="new_pin_label">Neue PIN</string>
-  <string name="new_sim_detected">New SIM card detected:</string>
-  <string name="no_balance_message">Not enough funds remaining in your top-up package. You can tryto make a regular call instead.</string>
-  <string name="no_balance_title">Insufficient funds</string>
+  <string name="new_sim_detected">Neue SIM-Karte erkannt:</string>
+  <string name="no_balance_message">Guthaben nicht ausreichend. Sie können stattdessen einen normalen Anruf tätigen.</string>
+  <string name="no_balance_title">Guthaben nicht ausreichend</string>
+  <string name="no_call_barring">Anrufsperre ist deaktiviert</string>
   <string name="no_change">Es wurden keine Änderungen vorgenommen</string>
   <string name="no_data">Keine Daten</string>
   <string name="no_internet_available">Überprüfen Sie zunächst Ihre Internetverbindung, bevor Sie einen Internetanruf tätigen</string>
@@ -935,6 +938,7 @@ Werde stattdessen bevorzugtes Netzwerk nutzen."</string>
   <string name="onscreenSwapCallsText">Tauschen</string>
   <string name="onscreenVideoCallText">Videoanruf</string>
   <string name="open_miui">Öffnen</string>
+  <string name="operation_successfully">Fertig</string>
   <string name="operator_first">Netzbetreibertarif priorisieren</string>
   <string name="optional_summary">&lt;Optional&gt;</string>
   <string name="order_by_name">Alphabetisch</string>

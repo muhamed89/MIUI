@@ -445,7 +445,7 @@
   <string name="user_notice_button_ok">OK</string>
   <string name="user_notice_declaration_ignore">"Nicht mehr anzeigen"</string>
   <string name="user_notice_message">"Der Verwendung dieser Funktion akzeptieren Sie Xiaomi´s %1$s und %2$s. Diese App benötigt eine Internetverbindung, um ordnungsgemäß ausgeführt werden zu können."</string>
-  <string name="user_notice_title">Benutzerbenachrichtigung</string>
+  <string name="user_notice_title">Achtung</string>
   <string name="user_notification">Benachrichtigungen</string>
   <string name="user_notification_descrip">Benachrichtigung beim Öffnen des Kalenders immer anzeigen</string>
   <string name="view_all_matches">Alle anzeigen</string>
