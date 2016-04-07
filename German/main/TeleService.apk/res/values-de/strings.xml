@@ -535,7 +535,7 @@
   <string name="fdn_service_unavailable">FDN-Dienst ist nicht verfügbar</string>
   <string name="fdn_summary">Beschränkt ausgehende Anrufe auf eingetragene Nummern oder auf bestimmte Vorwahlen</string>
   <string name="feedback">Feedback</string>
-  <string name="flash_when_ring_summary">Benachrichtigungs-LED für eingehende Anrufe blinke8n lassen</string>
+  <string name="flash_when_ring_summary">Benachrichtigungs-LED für eingehende Anrufe blinken lassen</string>
   <string name="flash_when_ring_title">Beim Klingeln blinken lassen</string>
   <string name="fw_change_failed">"Die Weiterleitungsnummer konnte nicht geändert werden.
 Kontaktieren Sie Ihren Provider, falls das Problem weiterhin besteht."</string>
