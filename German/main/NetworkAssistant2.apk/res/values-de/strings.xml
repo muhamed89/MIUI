@@ -44,7 +44,7 @@
   <string name="data_usage_disabled_dialog">"Sie haben Ihr Datenvolumen verbraucht. Die Nutzung der mobilen Datenverbindung, außerhalb des vom Anbieter festgelegtem Limit, kann zu erhöhten Kosten führen."</string>
   <string name="data_usage_disabled_dialog_enable">Daten einschalten</string>
   <string name="data_usage_leisure_warning_body">Datenverbrauchsdetails anzeigen</string>
-  <string name="data_usage_leisure_warning_title">Datenverbauchslimit</string>
+  <string name="data_usage_leisure_warning_title">Datenverbrauchslimit</string>
   <string name="data_usage_limit_body">Mobile Daten einschalten</string>
   <string name="data_usage_limit_snoozed_body">"Sie haben Ihr Datenlimit für diesen Monat überschritten."</string>
   <string name="data_usage_mobile_limit_snoozed_title">Datenlimit überschritten</string>
@@ -56,7 +56,7 @@
   <string name="data_usage_restricted_title">Hintergrunddaten beschränkt</string>
   <string name="data_usage_warning_body">Datenverbrauchsdetails anzeigen</string>
   <string name="data_usage_warning_title">Datenverbrauchswarnung</string>
-  <string name="datausage_ignore_app_list_count">Datenverbauch von %d Apps ignorieren</string>
+  <string name="datausage_ignore_app_list_count">Datenverbrauch von %d Apps ignorieren</string>
   <string name="datausage_purchase_backto_ns">Zurück</string>
   <string name="datausage_purchase_banner_title">%s Top Angebot (Xiaomi Exklusiv)</string>
   <string name="datausage_purchase_buy">Kaufen</string>
@@ -163,7 +163,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="main_button_usage_adjust_manual">Datenverbrauch einstellen</string>
   <string name="main_button_usage_adjusting">Wird geändert…</string>
   <string name="main_button_usage_package_setting">Datenverbrauch einstellen</string>
-  <string name="main_message_no_package_by_dual">Datenverbauchsgrenze %s</string>
+  <string name="main_message_no_package_by_dual">Datenverbrauchsgrenze %s</string>
   <string name="main_primary_message_traffic_cur_leisure">Off-Peak Datennutzung</string>
   <string name="main_primary_message_traffic_cur_normal">Unter Datenlimit</string>
   <string name="main_primary_message_traffic_cur_normal_overlimit">Datenlimit überschritten</string>
@@ -321,13 +321,13 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="pref_connect_settings_exceed_limit_hint">Datenverbindung ausschalten, wenn das Limit erreicht wurde</string>
   <string name="pref_daily_adjust">Datenlimit einstellen</string>
   <string name="pref_daily_traffic">Datenlimit</string>
-  <string name="pref_data_usage_ignore_settings">Datenverbauch ignorieren</string>
+  <string name="pref_data_usage_ignore_settings">Datenverbrauch ignorieren</string>
   <string name="pref_data_usage_ignore_settings_summary">Zeichnet keinen Datenverbrauch der gewählten Gruppe von Apps auf</string>
   <string name="pref_data_usage_not_set">Datenverbrauchslimit einstellen</string>
   <string name="pref_free_adjust">Off-Peak Datenlimit einstellen</string>
   <string name="pref_free_traffic_exceed_limit">Benachrichtigen wenn das Datenlimit erreicht wurde</string>
   <string name="pref_free_traffic_limit_warn">Off-Peak Datenverbrauchswarnung</string>
-  <string name="pref_free_traffic_settings">Off-Peak Datenverbauchseinstellungen</string>
+  <string name="pref_free_traffic_settings">Off-Peak Datenverbrauchseinstellungen</string>
   <string name="pref_key_new_installed_app_firewall_mobile">pref_key_new_installed_app_firewall_mobile</string>
   <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
   <string name="pref_leisure_no_overlay">Eingeschaltet</string>
@@ -337,7 +337,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="pref_month_first_day">Erster Tag des Monats</string>
   <string name="pref_more_traffic_settings">Erweiterte Einstellungen</string>
   <string name="pref_new_installed_preconfig_title">Standard für neue Apps</string>
-  <string name="pref_open_adjust_traffic">Synchronisation der Datenverbauchsstatistiken mit dem Anbieter</string>
+  <string name="pref_open_adjust_traffic">Synchronisation der Datenverbrauchsstatistiken mit dem Anbieter</string>
   <string name="pref_package_traffic_leisure">%1$s | Off-peak: %2$s</string>
   <string name="pref_package_traffic_normal">Enthalten: %s</string>
   <string name="pref_package_traffic_overlay">%1$s | Zusätzlich: %2$s</string>
@@ -445,7 +445,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="tc_sms_report_geting_sms">SMS-Details werden abgerufen…</string>
   <string name="tc_sms_report_notify_correction_body">Gehe zur Datennutzungsapp im Sicherheitscenter und versuche es nochmals manuell.</string>
   <string name="tc_sms_report_notify_correction_failure_title">"Datennutzungsinformation konnte nicht aktualisiert werden"</string>
-  <string name="tc_sms_report_notify_get_failure_body">Datenverbauchsübersicht konnte nicht übermittelt werden. Stellen Sie sicher, dass Sie mit dem Netzwerk verbunden sind.</string>
+  <string name="tc_sms_report_notify_get_failure_body">Datenverbrauchsübersicht konnte nicht übermittelt werden. Stellen Sie sicher, dass Sie mit dem Netzwerk verbunden sind.</string>
   <string name="tc_sms_report_notify_get_failure_title">Datenverbrauchsübersicht anfordern fehlgeschlagen</string>
   <string name="tc_sms_report_notify_get_timeout_body">Zeitüberschreitung. Stellen Sie sicher, dass der eingegebene Code korrekt ist.</string>
   <string name="tc_sms_report_notify_get_timeout_title">Datenverbrauchsübersicht anfordern fehlgeschlagen</string>
@@ -473,9 +473,9 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="tips_message">"Um Ihre Tarifdetails zu erhalten, wählen Sie %2$s (%1$s)."</string>
   <string name="title_limit_traffic_per_day">Tägliche Datennnutzungsbeschränkung</string>
   <string name="traffic_alert_auto_modify_notification_sumarry">Monatlicher Plan geändert zu %s.</string>
-  <string name="traffic_alert_auto_modify_notification_titile">Datenverbauchsplan aktualisiert</string>
+  <string name="traffic_alert_auto_modify_notification_titile">Datenverbrauchsplan aktualisiert</string>
   <string name="traffic_alert_auto_modify_package_summary">"Datenpakete automatisch anpassen, je nach Trägerinformationen"</string>
-  <string name="traffic_config_alert_auto_modify">Datenverbauchsplan automatisch aktualisieren</string>
+  <string name="traffic_config_alert_auto_modify">Datenverbrauchsplan automatisch aktualisieren</string>
   <string name="traffic_config_alert_body">"Ihr Anbieter übermittelt ein monatliches Datenlimit von %s.
 
 Wollen Sie diese Daten übernehmen?"</string>
@@ -493,7 +493,7 @@ Ihr monatlich eingestelltes Limit ist %1$s. Dies unterscheidet sich vom dem manu
   <string name="traffic_config_alert_nomore">"Nicht mehr zeigen"</string>
   <string name="traffic_config_alert_ok">OK</string>
   <string name="traffic_config_alert_package">"
-Extra Datenverbauch überschritten"</string>
+Extra Datenverbrauch überschritten"</string>
   <string name="traffic_config_alert_setted">Einstellungen wurden übernommen</string>
   <string name="traffic_config_alert_title">%s Korrektur</string>
   <string name="traffic_correction_failed">"Information nicht verfügbar"</string>
@@ -505,7 +505,7 @@ Extra Datenverbauch überschritten"</string>
   <string name="traffic_limit_error_alert_iknow">OK</string>
   <string name="traffic_limit_error_alert_package">"
 
-Der verbleibende Datenverbauch beinhalten auch jenen Verbrauch, welcher in dem letzten Monat überschritten wurde."</string>
+Der verbleibende Datenverbrauch beinhalten auch jenen Verbrauch, welcher in dem letzten Monat überschritten wurde."</string>
   <string name="traffic_limit_error_alert_reset">Limit zurücksetzen</string>
   <string name="traffic_limit_error_alert_title">Erinnerung der Datenbeschränkung %s</string>
   <string name="traffic_none">Keine</string>

@@ -1337,7 +1337,7 @@ Ihre SIM-Karte wird nach einem weiteren gescheiterten Versuch gelöscht</string>
   <string name="sum_xdivert_enabled">Umleitung aktiviert</string>
   <string name="summary_manage_subscriptions">Netzwerkeinstellungen der jeweiligen SIM-Karte verwalten</string>
   <string name="t9_indexing_method_pinyin">Pinyin</string>
-  <string name="t9_indexing_method_title">T9 Such Eingabe</string>
+  <string name="t9_indexing_method_title">T9 Sucheingabe</string>
   <string name="t9_indexing_method_zhuyin">Zhuyin</string>
   <string name="t9_indexing_rebuilding_message">Wiederaufbau T9 Index…</string>
   <string name="technology_news_disable">Technik Nachrichten ausgeschaltet</string>

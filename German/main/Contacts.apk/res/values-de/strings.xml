@@ -467,9 +467,9 @@ Grund: \"%s\"."</string>
   <string name="import_failure_no_vcard_file">Keine vCard-Dateien im Speicher gefunden.</string>
   <string name="import_from_onekey_migrate">Über Mi Mover importieren</string>
   <string name="import_from_other_phone">Von anderem Telefon importieren</string>
-  <string name="import_from_sdcard">aus Speicher importieren</string>
-  <string name="import_from_sim">Importiere aus der SIM-Karte</string>
-  <string name="import_from_sim1">Von SIM-Karte importieren</string>
+  <string name="import_from_sdcard">Aus Speicher importieren</string>
+  <string name="import_from_sim">Von SIM-Karte importieren</string>
+  <string name="import_from_sim1">Von SIM-Karte 1 importieren</string>
   <string name="import_from_sim2">Von SIM-Karte 2 importieren</string>
   <string name="import_multiple_vcard_string">Mehrere vCard-Dateien importieren</string>
   <string name="import_name">Name</string>
@@ -872,7 +872,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="preference_contacts">Kontakte</string>
   <string name="preference_contacts_display">Anzeigeeinstellungen</string>
   <string name="preference_contacts_filter">Kontaktlisteneinstellungen</string>
-  <string name="preference_contacts_more">Kontakt Optionen</string>
+  <string name="preference_contacts_more">Kontaktoptionen</string>
   <string name="preference_contacts_recovery_introduction">Kontakte wiederherstellen</string>
   <string name="preference_dial_pad_touch_tone_default">Standard</string>
   <string name="preference_dial_pad_touch_tone_human">Sprache</string>

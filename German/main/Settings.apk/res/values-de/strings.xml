@@ -2395,7 +2395,7 @@ Betriebssystem auswählen:"</string>
   <string name="priority_storage_app_settings">Benutzerdaten speichern unter %1$s</string>
   <string name="priority_storage_settings_summary">"Wenn keine SD-Karte vorhanden ist, werden die Benutzerdaten automatisch im internen Speicher des Gerätes gespeichert"</string>
   <string name="priority_storage_summary">Standardverzeichnis zum Speichern der Daten auswählen</string>
-  <string name="priority_storage_title">Speicher Einstellungen</string>
+  <string name="priority_storage_title">Speichereinstellungen</string>
   <string name="privacy_mode_dialog_message">Nachrichten, Notizen, Fotos, Einstellungen und eingehende Anrufe ausblenden</string>
   <string name="privacy_mode_dialog_title">Gastmodus</string>
   <string name="privacy_mode_enable_sum">Nachrichten, Notizen, Fotos, Einstellungen und eingehende Anrufe ausblenden</string>
