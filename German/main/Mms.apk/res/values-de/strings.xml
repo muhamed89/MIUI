@@ -307,7 +307,7 @@
   <string name="mx_dspt_listview">Senden Sie kostenlos Nachrichten an andere MIUI-Nutzer</string>
   <string name="mx_dspt">Senden Sie kostenlos Nachrichten an andere MIUI-Nutzer, wenn Sie mit einem WLAN verbunden sind</string>
   <string name="mx_dspt_provision">Mit Mi Nachrichten können Sie kostenlos Nachrichten zwischen MIUI-Benutzern versenden</string>
-  <string name="mx_dspt_provision_ex">"Senden Sie Nachrichten und tätigen Sie Anrufe zu anderen MIUI Benutzern, ohne Gebüren durch Ihrem Anbieter. VoIP wird unterstützt von Weihui. Siehe Weihui's Datenschutzrichtlinien."</string>
+  <string name="mx_dspt_provision_ex">"Senden Sie Nachrichten und tätigen Sie Anrufe zu anderen MIUI Benutzern, ohne Gebühren durch Ihrem Anbieter. VoIP wird unterstützt von Weihui. Siehe Weihui's Datenschutzrichtlinien."</string>
   <string name="mx_dspt_provision_ex2">Datenschutzrichtlinien</string>
   <string name="mx_enable">Mi Nachrichten</string>
   <string name="mx_enable_ex">Mi Nachrichten &amp; Sprache</string>
@@ -616,7 +616,7 @@ Bisherige Versuche: %s."</string>
   <string name="view_hms_details">Details</string>
   <string name="view_message_details">Zeige Details</string>
   <string name="voip_enable">Mi Nachrichten und Sprache</string>
-  <string name="voip_enable_popup_msg">"Tätigen Sie Anrufe zu anderen MIUI Benutzern, ohne Gebüren durch Ihren Anbieter. VoIP wird unterstützt durch Weihui. Siehe Weihui's Datenschutzrichtlinien."</string>
+  <string name="voip_enable_popup_msg">"Tätigen Sie Anrufe zu anderen MIUI Benutzern, ohne Gebühren durch Ihren Anbieter. VoIP wird unterstützt durch Weihui. Siehe Weihui's Datenschutzrichtlinien."</string>
   <string name="voip_enable_popup_msg2">Datenschutzrichtlinien</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="warning_show">Senden in %ds</string>

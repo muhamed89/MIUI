@@ -2,8 +2,8 @@
 <resources>
   <string name="apk_not_exist">Updatedatei existiert nicht</string>
   <string name="app_name">FWUpgrade</string>
-  <string name="battery_low">Der Akkustand beträgt weniger als 30%, bitte versuchen Sie es wieder, sobald der Akku voll ist!</string>
-  <string name="battery_remove">Bitte nochmals versuchen, wenn das Ladegerät abgesteckt ist!</string>
+  <string name="battery_low">Der Akkustand beträgt weniger als 30%, bitte versuchen Sie es wieder, sobald der Akku voll ist!</string>  
+  <string name="battery_remove">Bitte nach dem Entfernen des Ladekabels nochmals versuchen!</string>
   <string name="battery_remove_title">Warnung</string>
   <string name="btn_cancel">Abbrechen</string>
   <string name="btn_cancel_check">Abbrechen</string>
@@ -84,11 +84,11 @@
   <string name="unmount_sdcard">SD-Kartenfehler, bitte überprüfen.</string>
   <string name="updateFailTitle">Installation fehlgeschlagen</string>
   <string name="updateFailed">Installation von Version %s fehlgeschlagen</string>
-  <string name="updateSuccess">Erfolgreih auf Version %s aktualisiert</string>
+  <string name="updateSuccess">Erfolgreich auf Version %s aktualisiert</string>
   <string name="updateSuccessTitle">Installation erfolgreich</string>
   <string name="update_later">Später aktualisieren</string>
   <string name="update_now">Jetzt aktualisieren</string>
-  <string name="update_prompt">Tipps: Während der Aktualisierung sind alle Eingaben ungültig. Der Vorgang wird einige Minuten in Anspruch nehmen, vergewissern Sie sich, dass Sie ausreichend Akkuleistung übrig haben.</string>
+  <string name="update_prompt">Tipps: Während der Aktualisierung sind alle Eingaben ungültig. Der Vorgang wird einige Minuten in Anspruch nehmen, vergewissern Sie sich, dass Ihr Akku ausreichend aufgeladen ist.</string>
   <string name="upgrade_hint">Updatehinweis</string>
   <string name="upgrade_newversion">Eine neue Version ist verfügbar:</string>
   <string name="ver_notes_title">Release Notes</string>
