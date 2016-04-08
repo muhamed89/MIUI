@@ -51,7 +51,7 @@
   <string name="button_send">Senden</string>
   <string name="button_return">Zurück</string>
   <string name="call_title">Anrufliste</string>
-  <string name="camera_summary">Kamera Einstellungen (ohne Fotos)</string>
+  <string name="camera_summary">Kameraeinstellungen (ohne Fotos)</string>
   <string name="cancel">Abbrechen</string>
   <string name="cancel_backup">Anhalten</string>
   <string name="cancel_restore">Anhalten</string>
@@ -111,7 +111,7 @@
   <string name="feature_title_call_log">Anrufverlauf</string>
   <string name="feature_title_mms">MMS</string>
   <string name="file_uploading">Hochladen…</string>
-  <string name="files_backup_info">Alle Dateien auf der SD-Karte (inkl. Fotos, Lieder, Videos, App-Daten, usw.)</string>
+  <string name="files_backup_info">Alle Dateien auf der SD-Karte (inkl. Fotos, Musik, Videos, App-Daten, usw.)</string>
   <string name="findlost_contact">Kontakte wiederherstellen</string>
   <string name="findlost_contact_online">Kontakte aus der MiCloud wiederherstellen</string>
   <string name="guarded_mode_dialog_backup_message">Backups sind im Gastmodus nicht erlaubt.</string>
@@ -171,7 +171,7 @@
   <string name="restore_contact_content">Wiederherstellung kann zu doppelten Kontakten führen.</string>
   <string name="restore_contacts_hit">Erneut anmelden, um wiederhergestellte Daten einzusehen.</string>
   <string name="restore_counts">Wiederherstellungen:</string>
-  <string name="restore_data">Daten Wiederherstellen</string>
+  <string name="restore_data">Daten wiederherstellen</string>
   <string name="restore_failed">"Wiederherstellung fehlgeschlagen"</string>
   <string name="restore_finished">Wiederherstellung abgeschlossen</string>
   <string name="restore_is_running">Gerät wiederherstellen</string>
@@ -209,7 +209,7 @@
   <string name="software_backup_info">App-Daten</string>
   <string name="start_backup">Sichern</string>
   <string name="start_restore">Wiederherstellen</string>
-  <string name="state_mounting">Zugriff auf Ihren Router Speicher…</string>
+  <string name="state_mounting">Zugriff auf Ihren Routerspeicher…</string>
   <string name="state_waiting">Einen Moment…</string>
   <string name="succeed">Abgeschlossen</string>
   <string name="summary_err_backup_encrypting">Melden Sie sich bei Ihrem MiKonto an.</string>
