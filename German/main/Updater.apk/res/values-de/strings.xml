@@ -45,7 +45,7 @@
   <string name="check_local_package_validate_error_button">OK</string>
   <string name="check_local_package_validate_error_msg">Updatepaket konnte nicht verifiziert werden</string>
   <string name="check_local_package_wipe_btn">Löschen und aktualisieren</string>
-  <string name="check_local_package_wipe_msg">"Sie sind dabei, auf MIUI Version %s zu wechseln, welche älter als die aktuelle Version ist. Ihre persönlichen Daten werden debei gelöscht. Vergewissern Sie sich, dass sie alle wichtigen Daten gesichert haben, bevor Sie diesen Vorgang starten."</string>
+  <string name="check_local_package_wipe_msg">"Sie sind dabei, auf MIUI Version %s zu wechseln, welche älter als die aktuelle Version ist. Ihre persönlichen Daten werden dabei gelöscht. Vergewissern Sie sich, dass sie alle wichtigen Daten gesichert haben, bevor Sie diesen Vorgang starten."</string>
   <string name="check_local_package_wipe_title">Daten löschen</string>
   <string name="check_new_version">Überprüfen</string>
   <string name="check_update">Auf Updates überprüfen</string>
@@ -188,7 +188,7 @@
   <string name="reboot_now">Neustart</string>
   <string name="reboot_to_new_system">Zum Abschließen neustarten</string>
   <string name="recovery_failed_button">OK</string>
-  <string name="recovery_failed_msg">"Zu wenig Speicherplatz verfügbar, um in den Recovery-Modus zu booten und die Update zu installieren. Bitte die Mi PC Suite verwenden:
+  <string name="recovery_failed_msg">"Zu wenig Speicherplatz verfügbar, um in den Recovery-Modus zu booten und das Update zu installieren. Bitte die Mi PC Suite verwenden:
 http://zhushou.xiaomi.com"</string>
   <string name="recovery_failed_notification_msg">Kann nicht in das Recovery starten</string>
   <string name="recovery_failed_title">Verwenden Sie die Mi-PC Suite um Ihr System zu aktualisieren</string>
@@ -197,8 +197,8 @@ http://zhushou.xiaomi.com"</string>
   <string name="recovery_power_not_enough_title">Niedriger Akkustand</string>
   <string name="repeat">Wiederholen</string>
   <string name="root_acquired">Erlaube Root Zugriff</string>
-  <string name="root_agree_check_box_title">Die Risiken einens Root Zugriffs sind mir bewusst</string>
-  <string name="root_dangerous_msg">Root Zugriff ist riskant und kann Ihr Gerät sowie persönlichen Daten für Angreifer oder Schadprogramme verfügbar machen. Sie stimmen zu , dass Sie für alle Schäden an Ihrem Gerät oder Datenverluste, die aus der Gewährung des root-Zugriffs führen können allein verantwortlich sind.</string>
+  <string name="root_agree_check_box_title">Die Risiken eines Rootzugriffs sind mir bewusst</string>
+  <string name="root_dangerous_msg">Root Zugriff ist riskant und kann Ihr Gerät sowie persönlichen Daten für Angreifer oder Schadprogramme verfügbar machen. Sie stimmen zu , dass Sie für alle Schäden an Ihrem Gerät oder Datenverluste, die aus der Gewährung des root-Zugriffs führen können, allein verantwortlich sind.</string>
   <string name="sd_not_available">No SD card detected</string>
   <string name="sdcard_is_not_present_dialog_title">Keine SD-Karte gefunden</string>
   <string name="sdcard_is_not_present_dialog_body">Stellen Sie sicher, dass eine SD-Karte eingesetzt ist.</string>
