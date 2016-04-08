@@ -22,7 +22,7 @@
   <string name="Dashboard_Perm_SU_Desc">Überwachung von %1$d Apps mit Root-Zugriff</string>
   <string name="Dashboard_Perm_SU_Disabled">Root-Zugriff ist aus</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">Root-Zugriff ist in der Stable-Version von MIUI nicht verfügbar</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Wenn Sie Drittanbieter-Apps Root-Berechtigung gewähren könnte zur Systeminstabiltät, Datenverlust oder zu Hardwarebeschädigung führen.
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Wenn Sie Drittanbieter-Apps Root-Berechtigung gewähren könnte das zur Systeminstabiltät, Datenverlust oder zu Hardwarebeschädigung führen.
 
 Um Root-Zugriff zu erhalten müssen Sie die Entwickler-Version von MIUI installieren."</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">MIUI herunterladen</string>
@@ -121,7 +121,7 @@ Um Root-Zugriff zu erhalten müssen Sie die Entwickler-Version von MIUI installi
   <string name="HIPS_Perm_Location_Desc">Netzwerk und GPS verwenden, um Ihre Position zu lokalisieren</string>
   <string name="HIPS_Perm_Location_Hint">%1$s Apps dürfen Netzwerk und GPS verwenden, um Ihre Position zu lokalisieren</string>
   <string name="HIPS_Perm_Location_Monitor">Ihre Bewegungen verfolgen</string>
-  <string name="HIPS_Perm_Location_Source_Cellular">Ihren Standort über die Basisstationzu ermittlen</string>
+  <string name="HIPS_Perm_Location_Source_Cellular">Ihren Standort über die Basisstation zu ermittlen</string>
   <string name="HIPS_Perm_Location_Source_GPS">Ihren Standort über GPS bestimmen</string>
   <string name="HIPS_Perm_Location_Source_Network">Ihren Standort über das Netzwerk ermittlen</string>
   <string name="HIPS_Perm_MMS">MMS</string>
@@ -171,15 +171,15 @@ Um Root-Zugriff zu erhalten müssen Sie die Entwickler-Version von MIUI installi
   <string name="HIPS_Perm_Read_SMS_Desc">Zugriff auf SMS erhalten</string>
   <string name="HIPS_Perm_Read_SMS_Hint">%1$s Apps haben Zugriff auf Ihre SMS</string>
   <string name="HIPS_Perm_Recorder_Audio">Audio aufzunehmen</string>
-  <string name="HIPS_Perm_Recorder_AudioVideo">Audio und Video aufzuzeichen</string>
+  <string name="HIPS_Perm_Recorder_AudioVideo">Audio und Video aufzunehmen</string>
   <string name="HIPS_Perm_Recorder_Camera">Fotos aufnehmen</string>
-  <string name="HIPS_Perm_Recorder_Video">Audio und Video aufzeichen</string>
+  <string name="HIPS_Perm_Recorder_Video">Audio und Video aufzunehmen</string>
   <string name="HIPS_Perm_Recorder_VoiceCall">Anrufe aufzeichen</string>
   <string name="HIPS_Perm_RejectAll">Alle verweigern</string>
   <string name="HIPS_Perm_SMS">SMS und MMS</string>
   <string name="HIPS_Perm_SMS_Access">SMS lesen</string>
   <string name="HIPS_Perm_SMS_Desc">SMS schreiben und lesen</string>
-  <string name="HIPS_Perm_SMS_Hint">%1$s Apps dürfen SMS und MMS Konversationen abfragen</string>
+  <string name="HIPS_Perm_SMS_Hint">%1$s Apps dürfen SMS- und MMS-Konversationen abfragen</string>
   <string name="HIPS_Perm_SendMMS">MMS senden</string>
   <string name="HIPS_Perm_SendMMS_Desc">MMS versenden</string>
   <string name="HIPS_Perm_SendMMS_Hint">%1$s Apps dürfen MMS versenden</string>
@@ -225,7 +225,7 @@ Um Root-Zugriff zu erhalten müssen Sie die Entwickler-Version von MIUI installi
   <string name="HIPS_Perm_process_nfc">NFC</string>
   <string name="HIPS_Perm_process_nfc_Desc">Zugriff auf Nahfeldkommunikation (NFC) zu erhalten</string>
   <string name="HIPS_Perm_process_outgoing_calls">Telefonzugang</string>
-  <string name="HIPS_Perm_process_outgoing_calls_Desc">Anrufen zu überwachen und zu beenden</string>
+  <string name="HIPS_Perm_process_outgoing_calls_Desc">Anrufe zu überwachen und zu beenden</string>
   <string name="HIPS_Perm_use_sip">Video-Dienste</string>
   <string name="HIPS_Perm_use_sip_Desc">Session Initiation Log zum Streamen von Videos zu verwenden</string>
   <string name="HIPS_SecurityPrompt_Accept">Zulassen (%d)</string>
@@ -252,7 +252,7 @@ Um Root-Zugriff zu erhalten müssen Sie die Entwickler-Version von MIUI installi
   <string name="Privacy_App_Log">Protokolle</string>
   <string name="Privacy_App_Manage">Details</string>
   <string name="Privacy_App_Trust">Berechtigung nachfragen</string>
-  <string name="Privacy_App_TrustDialog_Content">Es wird nicht Nachgefragt, wenn die App versucht Zugriff auf andere Bereiche des Systems zu erlangen.</string>
+  <string name="Privacy_App_TrustDialog_Content">Es wird nicht nachgefragt, wenn die App versucht Zugriff auf andere Bereiche des Systems zu erlangen.</string>
   <string name="Privacy_App_TrustDialog_Title">App-Berechtigungen</string>
   <string name="Privacy_App_Trust_Summary_Off">Nachfragen, wenn die App versucht Zugriff auf weitere Bereiche des Systems zu erlangen</string>
   <string name="Privacy_App_Trust_Summary_On">Nachfragen, wenn die App versucht Zugriff auf weitere Bereiche des Systems zu erlangen</string>
@@ -260,7 +260,7 @@ Um Root-Zugriff zu erhalten müssen Sie die Entwickler-Version von MIUI installi
   <string name="Privacy_Perm_Count">%1$d zugelassen | %2$d verweigert</string>
   <string name="Su_Enable_Dialog">%1$s fordert Root-Zugriff an.</string>
   <string name="Su_Package_Forbidden">%1$s hat keinen Root-Zugriff.</string>
-  <string name="Su_Unavailable">Root-Zugriff ist in der stabilen Version von MIUI nicht verfügbar. Sie müssen die Entwickler-Version von MIUI installieren, um Root-Zugriff zu erlangen.</string>
+  <string name="Su_Unavailable">Root-Zugriff ist in der stabilen Version von MIUI nicht verfügbar. Sie müssen die Entwickler-Version von MIUI installieren, um Root-Zugriff zu erhalten.</string>
   <string name="SysOpt_Boost_AutoStart">Autostart-Berechtigungen</string>
   <string name="SysOpt_Boost_AutoStart_Group">Autostart</string>
   <string name="SysOpt_Boost_Boot">Boot</string>
@@ -272,7 +272,7 @@ Um Root-Zugriff zu erhalten müssen Sie die Entwickler-Version von MIUI installi
   <string name="grant_dialog_button_allow">Zulassen</string>
   <string name="grant_dialog_button_deny">Abbrechen</string>
   <string name="location_settings">Standort-Einstellungen</string>
-  <string name="location_warning">%1$s ist ein Anbieter von Standortdiensten für dieses Gerät. Standort Zugriff kann in den Standorteinstellungen geändert werden.</string>
+  <string name="location_warning">%1$s ist ein Anbieter von Standortdiensten für dieses Gerät. Der Standortzugriff kann in den Standorteinstellungen geändert werden.</string>
   <string name="never_ask_again">Nie wieder Fragen</string>
   <string name="ok">OK</string>
   <string name="permission_group_title_charges_related">Gebühren</string>
@@ -283,6 +283,6 @@ Um Root-Zugriff zu erhalten müssen Sie die Entwickler-Version von MIUI installi
   <string name="permission_warning_template">Zulassen %1$s von %2$s ?</string>
   <string name="permisson_reject_notice_toast_text">"\"%1$s\" hat keine Berechtigung um %2$s. Sie können die App-Berechtigungen jederzeit unter Sicherheit &gt; Berechtigungen."</string>
   <string name="screen_overlay_button">Einstellungen</string>
-  <string name="screen_overlay_message">Um diese Berechtigung Einstellung zu ändern, müssen Sie zuerst den Bildschirm auszuschalten Zurichtung von Einstellungen &gt; Apps</string>
-  <string name="screen_overlay_title">Bildschirm Zurichtung erkannt</string>
+  <string name="screen_overlay_message">Um diese Berechtigungseinstellung zu ändern, müssen Sie zuerst den Bildschirm auszuschalten Überlagerung von Einstellungen &gt; Apps</string>
+  <string name="screen_overlay_title">Bildschirmüberlagerung erkannt</string>
 </resources>
