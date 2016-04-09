@@ -203,9 +203,9 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="unknown">Unbekannt</string>
   <string name="unknown_apps_admin_dlg_text">"Ihr Administrator erlaubt die Installation von Apps aus unbekannten Quellen nicht."</string>
   <string name="unknown_apps_dlg_text">Aus Sicherheitsgründen können Sie auf Ihrem Telefon keine Apps von unbekannten Quellen installieren.</string>
-  <string name="unknown_apps_dlg_text1">"Your phone is set to block the installation of apps from unknown sources. You can turn this feature off in "</string>
-  <string name="unknown_apps_dlg_text2">\"Settings\"</string>
-  <string name="unknown_apps_dlg_text3">.</string>
+  <string name="unknown_apps_dlg_text1">"Aus Sicherheitsgründen können Sie auf Ihrem Telefon keine Apps von unbekannten Quellen installieren. Sie können diese Funktion jedoch unter "</string>
+  <string name="unknown_apps_dlg_text2">\"Einstellungen\"</string>
+  <string name="unknown_apps_dlg_text3">" aktivieren."</string>
   <string name="unknown_apps_dlg_title">Installation gesperrt</string>
   <string name="v7_preference_off">Aus</string>
   <string name="v7_preference_on">An</string>
