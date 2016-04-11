@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="download_finished">
+       <item quantity="other">&lt;font color=\"red\">%d Lieder&lt;/font> heruntergeladen</item>
+       <item quantity="one">&lt;font color==\"red\">%d Lied&lt;/font> heruntergeladen</item>
+    </plurals>
+    <plurals name="download_running">
+       <item quantity="other">&lt;font color=\"red\">%d Lieder&lt;/font> werden heruntergeladen</item>
+       <item quantity="one">&lt;font color==\"red\">%d Lied&lt;/font> wird heruntergeladen</item>
+    </plurals>
     <plurals name="Nalert_msg_vip_songs_for_download_limited">
         <item quantity="other">Sie können diesen Monat nur %d Premium-Lieder herunterladen. Stocken Sie Ihr Premium-Paket auf, um weitere Lieder herunterladen zu können.</item>
      </plurals>

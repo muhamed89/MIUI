@@ -157,6 +157,7 @@
   <string name="archived">Archiviert</string>
   <string name="att_download_failed_content">Download fehlgeschlagen</string>
   <string name="att_download_failed_network_slow">Schlechte Verbindung, bitte später erneut versuchen</string>
+  <string name="att_download_failed_permission_denied">Sie haben keine Berechtigung, auf den externen Speicher zuzugreifen</string>
   <string name="att_download_failed_title">Anhang konnte nicht heruntergeladen werden</string>
   <string name="att_file_not_exists">Datei %s nicht gefunden!</string>
   <string name="att_mgr_no_attachment">Keine Anhänge.</string>
@@ -229,7 +230,7 @@
   <string name="clear_display_images_whitelist_dialog_title">Lösche Bild Genehmigungen?</string>
   <string name="clear_display_images_whitelist_title">Lösche Bild Genehmigungen</string>
   <string name="click_download_all_content">[ Tippen Sie, um Inhalte herunterzuladen ]</string>
-  <string name="click_to_reload">Klicken Sie auf Bildschirm um neu zu laden</string>
+  <string name="click_to_reload">Bildschirm antippen, um neu zu laden</string>
   <string name="collapse_recipient_details">Details zum Empfänger Ausblenden</string>
   <string name="colon">:</string>
   <string name="compose">Verfassen</string>
@@ -336,6 +337,7 @@
   <string name="download_confirm_message">%1$s Anhänge herunterladen?</string>
   <string name="download_confirm_title">Anhang herunterladen</string>
   <string name="download_message_failed_for_too_large">Die Nachricht ist zu groß zum runterladen.</string>
+  <string name="download_whole_email">Den restlichen Inhalt herunterladen</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Navigationsleiste schließen</string>
   <string name="drawer_open">Navigationsleiste öffnen</string>
@@ -366,6 +368,8 @@
   <string name="feedback">Feedback senden</string>
   <string name="feedback_body">Nachricht</string>
   <string name="feedback_sent">Danke für Ihre Feedback</string>
+  <string name="feedback_user_edit_hint">Beschreiben Sie hier das Problem. Wir werden Ihnen eine E-Mail senden, sobald wir es bearbeitet haben.</string>
+  <string name="feedback_user_edit_tag">Von MIUI </string>
   <string name="fetching_attachment">Anhang wird abgerufen…</string>
   <string name="file_deleted_success">Datei gelöscht!</string>
   <string name="file_not_found">Datei auf dem Mail Server nicht gefunden!</string>
@@ -481,6 +485,7 @@
   <string name="mail_body_turncated">Diese Email ist zu groß zum laden. Es wird nur ein Teil angezeigt. Vollständige Email am Pc abrufen</string>
   <string name="mail_header_network_not_available">Keine Netzwerkverbindung verfügbar.</string>
   <string name="mailbox_list_account_selector_combined_view">Kombinierte Ansicht</string>
+  <string name="mailbox_name_display_ad">Werbung &amp; Benachrichtigungen</string>
   <string name="mailbox_name_display_drafts">Entwürfe</string>
   <string name="mailbox_name_display_inbox">Posteingang</string>
   <string name="mailbox_name_display_junk">Spam</string>
@@ -528,7 +533,7 @@
   <string name="menu_att_mgr_order_size">Nach Größe</string>
   <string name="menu_change_folders">Verschieben</string>
   <string name="menu_compose">Schreiben</string>
-  <string name="menu_discovery">Erkenntnis</string>
+  <string name="menu_discovery">Entdecken</string>
   <string name="menu_folder_options">Synchronisierungsoptionen</string>
   <string name="menu_move_to">Verschieben nach</string>
   <string name="menu_move_to_inbox">In den Posteingang verschieben</string>
@@ -565,7 +570,7 @@
   <string name="net_check_title">Das Netzwerk konnte nicht verbunden werden. Überprüfen Sie die Netzwerkeinstellungen und versuchen Sie es erneut.</string>
   <string name="network_error">Keine Verbindung</string>
   <string name="network_not_available">Netzwerkverbindung nicht verfügbar. Versuchen Sie es später erneut</string>
-  <string name="network_try_again">Bitte überprüfen Sie das Netzwerk</string>
+  <string name="network_try_again">Bitte überprüfen Sie das Netzwerk und versuchen Sie es erneut</string>
   <string name="network_unavailable">Netzwerk ist nicht erreichbar</string>
   <string name="new_incoming_messages_one">Neue Nachricht von %s. anzeigen.</string>
   <string name="new_messages">%1$d neue Nachrichten</string>
@@ -685,7 +690,7 @@
   <string name="protocol_legacy_imap">imap</string>
   <string name="protocol_pop3">pop3</string>
   <string name="pull_to_refresh">Zum aktualisieren, nach unten ziehen</string>
-  <string name="pull_up_to_load_more">Load on get more</string>
+  <string name="pull_up_to_load_more">Hochziehen, um weitere zu laden</string>
   <string name="push_wps_better_confirm_download">Download</string>
   <string name="push_wps_better_confirm_exit">Nicht jetzt</string>
   <string name="push_wps_better_confirm_message">Versuchen Sie WPS Office um dieses Anhang zu öffnen.</string>

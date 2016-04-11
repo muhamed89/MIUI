@@ -109,6 +109,7 @@
   <string name="appwidget_empty_text">Keine Fotos</string>
   <string name="appwidget_title">Galerie</string>
   <string name="associate_face_album">Wähle ein Album</string>
+  <string name="auto_backup_introduce">Sichern Sie Fotos und Videos automatisch (Mi Konto erforderlich)</string>
   <string name="auto">Auto</string>
   <string name="auto_create_recent_album">Albenfavoriten automatisch erstellen</string>
   <string name="auto_create_recent_album_confirm">Alle automatisch erstellten Favoriten werden entfernt. Vom Benutzer erstellte Favoriten bleiben unberührt.</string>
