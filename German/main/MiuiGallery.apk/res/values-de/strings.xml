@@ -646,8 +646,6 @@
   <string name="operation_unset_as_screensaver">Bildschirmschoner abbrechen</string>
   <string name="operation_unforce_top">Lösen</string>
   <string name="orientation">Ausrichtung</string>
-  <string name="operation_unforce_top">Nicht mehr anheften</string>
-  <string name="operation_unhide">Nicht mehr verstecken</string>
   <string name="orientation_lock_tip">Ausrichtung fixiert</string>
   <string name="orientation_unlock_tip">Automatisch drehen aktiviert</string>
   <string name="original">Original</string>
