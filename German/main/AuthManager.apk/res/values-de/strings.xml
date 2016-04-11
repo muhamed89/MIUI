@@ -281,8 +281,8 @@ Um Root-Zugriff zu erhalten müssen Sie die Entwickler-Version von MIUI installi
   <string name="permission_group_title_settings_related">Einstellungen</string>
   <string name="permission_request_title">Berechtigungsverwaltung</string>
   <string name="permission_warning_template">Zulassen %1$s von %2$s ?</string>
-  <string name="permisson_reject_notice_toast_text">"\"%1$s\" hat keine Berechtigung um %2$s. Sie können die App-Berechtigungen jederzeit unter Sicherheit &gt; Berechtigungen."</string>
+  <string name="permisson_reject_notice_toast_text">"\"%1$s\" hat keine Berechtigung um %2$s. Sie können die App-Berechtigungen jederzeit unter Sicherheit > Berechtigungen."</string>
   <string name="screen_overlay_button">Einstellungen</string>
-  <string name="screen_overlay_message">Um diese Berechtigungseinstellung zu ändern, müssen Sie zuerst den Bildschirm auszuschalten Überlagerung von Einstellungen &gt; Apps</string>
+  <string name="screen_overlay_message">Um diese Berechtigungseinstellung zu ändern, müssen Sie die Bildschirmüberlagerung zuerst unter Einstellungen > Apps ausschalten</string>
   <string name="screen_overlay_title">Bildschirmüberlagerung erkannt</string>
 </resources>
