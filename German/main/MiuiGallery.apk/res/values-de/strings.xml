@@ -620,7 +620,9 @@
   <string name="operation_edit">Bearbeiten</string>
   <string name="operation_enable_auto_upload">AutoBackup aktivieren</string>  
   <string name="operation_failed">Aktion fehlgeschlagen</string>
+  <string name="operation_force_top">Anheften</string> 
   <string name="operation_give_name">Name</string>
+  <string name="operation_hide">Verbergen</string>
   <string name="operation_in_process">Verarbeitung…</string>
   <string name="operation_refresh">Aktualisieren</string>
   <string name="operation_remove_from_face_album">Aus Album entfernen</string>
@@ -639,7 +641,9 @@
   <string name="operation_slide_show">Diashow starten</string>
   <string name="operation_successful">Fertig</string>
   <string name="operation_too_often">Zu viele Anfragen von Ihrer IP-Adresse. Warten Sie 1 oder 2 Minuten und versuchen Sie es erneut.</string>
+  <string name="operation_unhide">Anzeigen</string>
   <string name="operation_unset_as_screensaver">Bildschirmschoner abbrechen</string>
+  <string name="operation_unforce_top">Lösen</string>
   <string name="orientation">Ausrichtung</string>
   <string name="operation_unforce_top">Nicht mehr anheften</string>
   <string name="operation_unhide">Nicht mehr verstecken</string>

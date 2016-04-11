@@ -1040,7 +1040,7 @@ Sie müssen Ihre Akku-Einstellungen ändern bevor Sie dieses Profil löschen kö
   <string name="system_check_content">%1$d verdächtige Elemente</string>
   <string name="system_check_content_none">Sicher</string>
   <string name="system_header_title">%1$d Prozesse beenden um %2$s Speicher frei zu machen</string>
-  <string name="system_info_remind">Sichern Sie den Zugriff auf Ihre Apps</string>
+  <string name="system_info_remind">Schützen Sie den Zugriff auf Ihre Apps</string>
   <string name="tc_diagnostic_all_error_notification_summary">Antippen, um ein Problem zu melden</string>
   <string name="tc_diagnostic_all_error_notification_title">"Diagnose kann nicht abgeschlossen werden"</string>
   <string name="tc_diagnostic_brand_error_notification_summary">Antippen, um Netzwerktyp festzulegen</string>

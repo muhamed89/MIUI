@@ -257,7 +257,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="app_sees_restricted_accounts_and_controlled_by">Diese App darf auf Ihre Konten zugreifen. Kontrolliert durch %1$s</string>
   <string name="app_special_disable_dlg_text">Wenn Sie eine integrierte App ausschalten, kann dies das Verhalten anderer Apps beeinträchtigen. Außerdem werden ihre Daten gelöscht.</string>
   <string name="app_special_disable_dlg_title">Daten löschen und App ausschalten?</string>
-  <string name="app_switch_key">Kürzlich</string>
+  <string name="app_switch_key">Menü</string>
   <string name="app_usage_preference">Appnutzungs-Einstellungen</string>
   <string name="application_forbid_auto_startup">%s das Starten im Hintergrund verweigern</string>
   <string name="application_info_label">App-Info</string>
@@ -291,7 +291,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="auto_disable_screenbuttons_auto">Immer deaktivieren</string>
   <string name="auto_disable_screenbuttons_cancel">Abbrechen</string>
   <string name="auto_disable_screenbuttons_no">Niemals deaktivieren</string>
-  <string name="auto_disable_screenbuttons_summary">Bei bestimmten Apps die Navigationstasten automatisch dekativieren. Zweimal antippen, um die Tasten wieder zu aktivieren.</string>
+  <string name="auto_disable_screenbuttons_summary">Bei bestimmten Apps die Navigationstasten automatisch deaktivieren. Zweimal antippen, um die Tasten wieder zu aktivieren.</string>
   <string name="auto_disable_screenbuttons_title">Navigationstasten automatisch deaktivieren</string>
   <string name="auto_launch_disable_text">Keine Standards eingestellt</string>
   <string name="auto_launch_enable_text">Sie haben diese App für einige Aktionen als Standard festgelegt.</string>
@@ -311,7 +311,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="average_memory_use">Durchschnittliche Speichernutzung</string>
   <string name="average_used">Durchschnittlich verwendet (%)</string>
   <string name="awake">Aktivzeit des Geräts</string>
-  <string name="back_key">Zurück Taste</string>
+  <string name="back_key">Zurück</string>
   <string name="background_data">Hintergrunddaten</string>
   <string name="background_data_dialog_message">Durch das Ausschalten von Hintergrunddaten kann die Akkulaufzeit verlängert und die Verwendung von Daten verringert werden. Einige Apps nutzen die Hintergrunddatenverbindung eventuell weiterhin.</string>
   <string name="background_data_dialog_title">Hintergrunddaten ausschalten?</string>
@@ -1511,7 +1511,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="high_power_system">Akkuoptimierung nicht verfügbar</string>
   <string name="history_details_title">Verlaufsdetails</string>
   <string name="home_app_uninstall_button">Diese App entfernen</string>
-  <string name="home_key">Home Taste</string>
+  <string name="home_key">Home</string>
   <string name="home_settings">Home</string>
   <string name="home_work_profile_not_supported">"Unterstützt keine Arbeitsprofile"</string>
   <string name="ignore_optimizations_off">Optimieren</string>
