@@ -464,7 +464,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="private_folder">Privatordner</string>
   <string name="private_folder_no_file_hints">Keine versteckten Dateien.</string>
   <string name="private_folder_update">Versteckte Dateien aktualisieren…</string>
-  <string name="private_toast_hint1">Tippen um Dateien zu einem verteckten Ordner hinzuzufügen</string>
+  <string name="private_toast_hint1">Tippen um Dateien zu einem versteckten Ordner hinzuzufügen</string>
   <string name="private_toast_hint2">Um eine Datei zu verstecken berühren und halten Sie diese und schieben Sie sie in einen versteckten Ordner.</string>
   <string name="private_toast_hint3">Nach unten ziehen um versteckte Ordner anzuzeigen</string>
   <string name="promot_enctypt_password">Um das Gerät zu entsperren, geben Sie das Passwort ein oder schalten Sie die Kindersicherung aus</string>
