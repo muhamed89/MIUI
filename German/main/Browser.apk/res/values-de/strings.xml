@@ -19,6 +19,9 @@
   <string name="accessibility_time_picker_second">Sekunde</string>
   <string name="account_prifix">Konto:</string>
   <string name="action">Anmelden</string>
+  <string name="action_menu_account_not_login">Nicht angemeldet</string>
+  <string name="action_menu_account_not_login_hint">Cloudeinstellungen zum Anmelden verwenden</string>
+  <string name="action_menu_bookshelf">Bücherregal</string>
   <string name="action_menu_current_version">Aktuelle Version</string>
   <string name="action_menu_text_add_bookmark">Lesezeichen hinzufügen</string>
   <string name="action_menu_text_bandwidth">Datenreduzierung</string>
@@ -40,6 +43,9 @@
   <string name="action_menu_text_share">Teilen</string>
   <string name="action_menu_text_snapshot">Seite speichern</string>
   <string name="action_menu_text_video">Video</string>
+  <string name="action_menu_toolbox">Toolbox</string>
+  <string name="action_menu_useful_page">Nützliche Seite hinzufügen</string>
+  <string name="action_menu_useful_page_added">Zu nützlichen Seiten hinzugefügt</string>
   <string name="actionbar_share">Teilen</string>
   <string name="actionbar_web_search">Websuche</string>
   <string name="adblock_notification">%d Werbung blockiert</string>
@@ -145,6 +151,8 @@
   <string name="color_picker_hue">Schattierung</string>
   <string name="color_picker_saturation">Sättigung</string>
   <string name="color_picker_value">Wert</string>
+  <string name="comment_app_menu">Kommentieren</string>
+  <string name="comment_menu">Kommentieren</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
   <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
   <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
@@ -180,6 +188,10 @@
   <string name="current_version_pad">Pad</string>
   <string name="current_version_pc">PC</string>
   <string name="current_version_phone">Smartphone</string>
+  <string name="custom_head_card_text">"Glauben Sie immer daran, dass etwas
+ Wunderbares geschehen wird"</string>
+   <string name="custom_head_card_text_incognito">"Nur Gott und Sie selbst kennen
+ dieses private Fenster​"</string>
   <string name="data_traffic_prompt_change">Die Nutzung der mobilen Datenverbindung zum Anschauen von Videos erhöht Ihren Datenverbrauch. Falls Sie Ihr Datenvolumen überschreiten, kann Ihr Mobilfunkanbieter Ihnen dies in Rechnung stellen.</string>
   <string name="data_traffic_prompt_message">Die Nutzung der mobilen Datenverbindung zum Anschauen von Videos erhöht Ihren Datenverbrauch. Falls Sie Ihr Datenvolumen überschreiten, kann Ihr Mobilfunkanbieter Ihnen dies in Rechnung stellen.</string>
   <string name="data_traffic_prompt_title">Datenverbrauchswarnung</string>
@@ -319,6 +331,7 @@ Diese Seite verlassen?"</string>
   <string name="license_activity_title">System-WebView Lizenzen</string>
   <string name="loading_tips">Nach unten ziehen um zu aktualisieren</string>
   <string name="local_bookmarks">Mi</string>
+  <string name="login_failed_toast">Anmeldung fehlgeschlagen, bitte aktualisieren.</string>
   <string name="low_memory_error">Vorheriger Vorgang kann aufgrund geringen Speichers nicht abgeschlossen werden</string>
   <string name="max_tabs_warning">"Weitere Tabs können nicht geöffnet werden"</string>
   <string name="maximum_input_alert">"Maximal 2048 Zeichen möglich"</string>
@@ -560,6 +573,7 @@ Diese Seite verlassen?"</string>
   <string name="remove_history_item">Aus dem Verlauf entfernen</string>
   <string name="remove_snapshot">Lösche gespeicherte Seite</string>
   <string name="removed_from_bookmarks">Aus Lesezeichen entfernt</string>
+  <string name="reply_comment_title">Antwort: %s</string>
   <string name="resume_download">Start</string>
   <string name="retry_after_network_available">"Keine Netzwerkverbindung"</string>
   <string name="retry_download">Nochmals versuchen</string>
@@ -612,6 +626,8 @@ Diese Seite verlassen?"</string>
   <string name="security_warnings_confirm_message">Das Deaktivieren dieser Funktion kann zu Sicherheitsrisiken führen.</string>
   <string name="select_dot">Text auswählen</string>
   <string name="select_download_device">Gerät auswählen</string>
+  <string name="send_comment_button">Senden</string>
+  <string name="send_comment_title">Kommentieren</string>
   <string name="share_page_text">"Ich genieße 【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">"Die Adresse dieser Seite wird an Xiaomis Server gesendet, um deren Sicherheit zu prüfen. Sie können diese Funktion jederzeit in den Einstellungen deaktivieren."</string>
   <string name="show_check_security_url_check_tip_dialog_title">Überprüfe URL-Sicherheit</string>
