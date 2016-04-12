@@ -13,10 +13,10 @@
         <item>Anpassen</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
-        <item>Sehr Klein</item>
+        <item>Sehr klein</item>
         <item>Klein</item>
         <item>Normal</item>
         <item>Groß</item>
-        <item>Sehr Groß</item>
+        <item>Sehr groß</item>
     </string-array>
 </resources>
