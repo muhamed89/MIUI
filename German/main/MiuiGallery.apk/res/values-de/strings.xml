@@ -613,8 +613,8 @@
   <string name="open_sync_title">Synchronisation einschalten</string>
   <string name="operation_add_album">Einem Album hinzufügen</string>
   <string name="operation_add_picture">Bilder hinzufügen</string>
-  <string name="operation_add_secret">Verbergen</string>
-  <string name="operation_add_secret_button">Verbergen</string>
+  <string name="operation_add_secret">Verstecken</string>
+  <string name="operation_add_secret_button">Verstecken</string>
   <string name="operation_delete">Löschen</string>
   <string name="operation_delete_confirm_message_folder">"Der gesamte Ordnerinhalt wird gelöscht. "</string>
   <string name="operation_detail">Details</string>  
@@ -625,7 +625,7 @@
   <string name="operation_failed">Aktion fehlgeschlagen</string>
   <string name="operation_force_top">Anheften</string> 
   <string name="operation_give_name">Name</string>
-  <string name="operation_hide">Verbergen</string>
+  <string name="operation_hide">Verstecken</string>
   <string name="operation_in_process">Verarbeitung…</string>
   <string name="operation_refresh">Aktualisieren</string>
   <string name="operation_remove_from_face_album">Aus Album entfernen</string>
