@@ -9,7 +9,7 @@
   <string name="auth_notif_message">Sitzungsschlüssel eingeben für %1$s</string>
   <string name="auth_notif_ticker">OBEX-Authentifizierungsanfrage</string>
   <string name="auth_notif_title">Sitzungsschlüssel</string>
-  <string name="ble_device_address">Bluetooth-Gerät MAC</string>
+  <string name="ble_device_address">Bluetooth-Gerät-MAC</string>
   <string name="ble_device_profile">Bluetooth Geräteprofil</string>
   <string name="ble_device_profile_header_title">Profile</string>
   <string name="ble_device_profile_title">Verbundenes Bluetooth-Gerät</string>
@@ -44,7 +44,7 @@
   <string name="bt_enable_title"/>
   <string name="bt_error_btn_ok">OK</string>
   <string name="bt_share_picker_label">Bluetooth</string>
-  <string name="bt_sm_2_1">"Auf dem USB-Speicher verfügt über zu wenig Speicherplatz für die Datei von \"%1$s\""</string>
+  <string name="bt_sm_2_1">"Auf dem USB-Speicher ist zu wenig Speicherplatz für die Datei von \"%1$s\""</string>
   <string name="bt_sm_2_2">Erforderlicher Speicherplatz: %1$s</string>
   <string name="bt_toast_1">Die Datei wird empfangen. Überprüfen Sie den Fortschritt in der Benachrichtigungskonsole.</string>
   <string name="bt_toast_2">Die Datei kann nicht empfangen werden.</string>
@@ -109,11 +109,11 @@
   <string name="mi_key_find_mikey">MiKey suchen</string>
   <string name="mi_key_find_phone">Gerät suchen</string>
   <string name="mi_key_open_camera">Kamera starten</string>
-  <string name="mi_key_summary_find_phone">Drücke &amp; halten Sie den MiKey, um ein klingeln auszulösen</string>
+  <string name="mi_key_summary_find_phone">Drücken &amp; halten Sie den MiKey, um ein Klingeln auszulösen</string>
   <string name="mi_key_summary_open_camera">Doppelklicken Sie den MiKey, um die Kamera zu öffnen</string>
   <string name="mi_key_summary_take_photo">Drücken Sie den MiKey, um ein Foto aufzunehmen</string>
   <string name="mi_key_take_photo">Foto aufnehmen</string>
-  <string name="miui_transfer_history_title">Bluetooth Übertragungen</string>
+  <string name="miui_transfer_history_title">Bluetoothübertragungen</string>
   <string name="miui_transfer_inbound_title">Empfangen</string>
   <string name="miui_transfer_outbound_title">Gesendet</string>
   <string name="no_transfers">Übertragungsverlauf ist leer.</string>
@@ -137,9 +137,9 @@
   <string name="pbap_authentication_timeout_message">Zeitüberschreitung bei Eingabe des Sitzungsschlüssels bei %1$s.</string>
   <string name="pbap_session_key_dialog_header">Bluetooth-Sitzungsschlüssel erforderlich</string>
   <string name="pbap_session_key_dialog_title">Sitzungsschlüssel für %1$s eingeben</string>
-  <string name="permdesc_bluetoothAvrcpDataManager">Erlaubt der Appp auf den BluetoothAvrcpData Manager zuzugreifen und Daten auf dem UI anzuzeigen.</string>
-  <string name="permdesc_bluetoothShareManager">Ermöglicht der App, auf den Bluetooth-Download-Manager zuzugreifen und diesen für die Übertragung von Dateien zu verwenden.</string>
-  <string name="permdesc_bluetoothWhitelist">Ermöglicht der App, ein Bluetooth-Gerät vorübergehend zur Whitelist hinzuzufügen, sodass es ohne Bestätigung des Nutzers Dateien an dieses Gerät senden kann</string>
+  <string name="permdesc_bluetoothAvrcpDataManager">Erlaubt der App auf den BluetoothAvrcpData Manager zuzugreifen und Daten auf dem UI anzuzeigen.</string>
+  <string name="permdesc_bluetoothShareManager">Ermöglicht der App auf den Bluetooth-Download-Manager zuzugreifen und diesen für die Übertragung von Dateien zu verwenden.</string>
+  <string name="permdesc_bluetoothWhitelist">Ermöglicht der App ein Bluetooth-Gerät vorübergehend zur Whitelist hinzuzufügen, sodass es ohne Bestätigung des Nutzers Dateien an dieses Gerät senden kann</string>
   <string name="permdesc_handoverStatus">Ermöglicht den Empfang von Statusinformationen zur Übertragung über Bluetooth</string>
   <string name="permlab_bluetoothAvrcpDataManager">Auf avrcp Metadaten zugreifen.</string>
   <string name="permlab_bluetoothShareManager">Auf Downloadmanager zugreifen</string>
@@ -167,7 +167,7 @@
   <string name="transfer_menu_clear_all">Liste löschen</string>
   <string name="transfer_menu_open">Öffnen</string>
   <string name="unbind_device_alert_cancel">Abbruch</string>
-  <string name="unbind_device_alert_content">Verbindung mit %1$s verloren. Um Akku zu sparen, trennen Sie dieses Gerät jetzt.</string>
+  <string name="unbind_device_alert_content">Verbindung mit %1$s verloren. Um Strom zu sparen, trennen Sie dieses Gerät jetzt.</string>
   <string name="unbind_device_alert_ok">Trennen</string>
   <string name="unbind_device_alert_title">Gerät trennen</string>
   <string name="unknownName">Unbekannter Name</string>
