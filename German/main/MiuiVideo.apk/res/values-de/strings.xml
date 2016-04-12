@@ -33,6 +33,8 @@
   <string name="app_latest_version">Keine Updates verfügbar</string>
   <string name="app_name">Video</string>
   <string name="app_plugin_ready">%1$s installiert</string>
+  <string name="app_charging_wifi_mode">Automatisch aktualisieren</string>
+  <string name="app_charging_wifi_mode_summary">App automatisch aktualisieren, wenn WLAN verfügbar und das Ladegerät angeschlossen ist</string>
   <string name="app_update_background">Update die App im Hintergrund.</string>
   <string name="app_upgrade_hint">Klicken Sie hier, um die vollständige Polymerisation, HD online-Videos zu sehen.</string>
   <string name="app_upgrade_title">Die aktuellste Mi Video Version ist bereits installiert.</string>
