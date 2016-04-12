@@ -218,6 +218,8 @@
   <string name="cloud_gallery_space_full">Nicht genug Speicherplatz in ihrer Cloud</string>
   <string name="cloud_gallery_space_full_buy_more">"Kann neue Fotos nicht mit Ihrer Mi Cloud synchronisieren. Um mehr Fotos zu synchronisieren, kaufen Sie zusätzlichen Speicherplatz."</string>
   <string name="cloud_gallery_space_full_title">Mi Cloud ist voll</string>
+  <string name="cloud_guide_slim_text">Automatisches Backup. Reduziere internen Speicherbedarf für Fotos um 90%.</string>
+  <string name="cloud_guide_slim_title">Reduziere Foto Speicherbedarf auf internen Speicher um %1$s</string>
   <string name="cloud_media_set_set">Cloud-Alben</string>
   <string name="cloud_owner_album_share_guide">Sie können dieses Album mit Freunden teilen</string>
   <string name="cloud_screenshots_display_name">Screenshots</string>
@@ -511,7 +513,7 @@
   <string name="limit_height">Höhe sollte > 0 sein</string>
   <string name="limit_width">Breite sollte > 0 sein</string>
   <string name="loading">Lade…</string>
-  <string name="loading_fail">Download gehlgeschlagen</string>
+  <string name="loading_fail">Download fehlgeschlagen</string>
   <string name="loading_failure">Foto kann nicht geladen werden</string>
   <string name="loading_gif">gif wird heruntergeladen…</string>
   <string name="loading_gif_thumbnail">gif Vorschau wird heruntergeladen…</string>
