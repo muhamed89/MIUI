@@ -367,7 +367,7 @@
   <string name="more_online_song">Mehr</string>
   <string name="more_online_suggest">Mehr</string>
   <string name="more_settings">Erweiterte Einstellungen</string>
-  <string name="more_settings_summary">Download einstellungen, Schlafmodus, Flusssteuerung , Dateifilterung und so weiter.</string>
+  <string name="more_settings_summary">Downloadeinstellungen, Schlummerfunktion, Dateifilter etc.</string>
   <string name="multichoice">Auswählen</string>
   <string name="music_browser_label">Musik</string>
   <string name="music_filter">Audiodateien filtern</string>
@@ -491,7 +491,7 @@
   <string name="send_to">Teilen</string>
   <string name="send_to_title">Senden an (%1$s)</string>
   <string name="server_error">Serverfehler. Bitte versuche es später nochmal</string>
-  <string name="service_and_settings">Service und Einstellungen</string>
+  <string name="service_and_settings">Einstellungen</string>
   <string name="service_stop">Dienst eingestellt</string>
   <string name="set_album_successful">Album gespeichert</string>
   <string name="set_as_ring">Als Klingelton auswählen</string>
