@@ -266,7 +266,7 @@
   <string name="local_video_empty">Keine kleinen Videos gefunden. Schauen Sie sich die beliebten an.</string>
   <string name="login_reg_content">Speichern von Dateien und Synchronisierung auf mehreren Geräten</string>
   <string name="login_reg_content0">Alle Ihre Inhalte. Wohin Sie auch gehen.</string>
-  <string name="make_private">Auf Privat setzen</string>
+  <string name="make_private">Verstecken</string>
   <string name="make_private_msg_1">Diese Datei verstecken?</string>
   <string name="make_private_msg_2">Diese Dateien verstecken?</string>
   <string name="make_private_msg_3">Alle Dateien in diesem Ordner werden ausgeblendet.</string>
