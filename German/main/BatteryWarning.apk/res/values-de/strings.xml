@@ -8,8 +8,8 @@
   <string name="msg_charger_over_voltage">Das Ladegerät hat Überspannung, bitte Ladegerät entfernen!</string>
   <string name="msg_over_current_protection">Der Akku hat Überspannung, bitte Akku entfernen!</string>
   <string name="msg_safety_timer_timeout">Die Ladung dauert zu lange, bitte Ladegerät entfernen!</string>
-  <string name="title_battery_low_temperature">Zu niedrige Akku Temperatur</string>
-  <string name="title_battery_over_temperature">Zu hohe Akku Temperatur</string>
+  <string name="title_battery_low_temperature">Zu niedrige Akkutemperatur</string>
+  <string name="title_battery_over_temperature">Zu hohe Akkutemperatur</string>
   <string name="title_battery_over_voltage">Zu hohe Akkuspannung</string>
   <string name="title_charger_over_voltage">Zu hohe Ladespannung</string>
   <string name="title_over_current_protection">Überspannungsschutz</string>
