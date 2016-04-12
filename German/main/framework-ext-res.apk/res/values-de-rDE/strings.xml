@@ -111,5 +111,6 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; System &gt; Tast
   <string name="status_bar_toggle_wifi">WLAN</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
   <string name="subinfo_default_name">SIM %d</string>
+  <string name="turn_off">Ausschalten</string>
   <string name="unknown_caller">Unbekannte Nummer</string>
 </resources>

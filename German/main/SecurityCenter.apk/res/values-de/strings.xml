@@ -7,12 +7,12 @@
   <string name="Settings_title_garbage_cleanup">Bereinigungs-Einstellungen</string>
   <string name="Settings_title_network_assistants">Datenverbrauchs-Einstellungen</string>
   <string name="Settings_title_power_center">Akku-Einstellungen</string>
-  <string name="access_control_need_password">"%s Sperre erfolgreich hinzugefügt"</string>
-  <string name="access_control_need_to_unlock">"Entperren mit Fingerabdruck
-oder Passwort eingeben"</string>
-  <string name="access_control_need_to_unlock_nofingerprint">Geben Sie Kennwort ein zum entsperren</string>
-  <string name="access_control_recording_intro_header">Zeichenmuster app Sperre hinzugefügt</string>
-  <string name="access_control_reset_by_account">Melden Sie sich mit Ihrem Mi Konto an, um App Sperre zurücksetzen</string>
+  <string name="access_control_need_password">"%s  erfolgreich hinzugefügt"</string>
+  <string name="access_control_need_to_unlock">"Fingerabdruck scannen
+oder Passwort für Anwengungssperre eingeben"</string>
+  <string name="access_control_need_to_unlock_nofingerprint">Passwort für Anwengungssperre eingeben</string>
+  <string name="access_control_recording_intro_header">Muster zeichnen, um Anwendungssperre hinzuzufügen</string>
+  <string name="access_control_reset_by_account">Melden Sie sich mit Ihrem Mi Konto an, um die Anwendungssperre zurücksetzen</string>
   <string name="activity_title_antispam">Sperrliste</string>
   <string name="activity_title_antivirus">Virenscanner</string>
   <string name="activity_title_apps_manager">Apps</string>
@@ -164,8 +164,8 @@ oder Passwort eingeben"</string>
   <string name="cmcc_app_check_dialog_negative">Später</string>
   <string name="cmcc_app_check_dialog_positive">Jetzt neu starten</string>
   <string name="cmcc_app_check_dialog_title">System repariert</string>
-  <string name="confirm_fingerprint_msg">Platzieren Sie Ihren Finger auf dem Sensor</string>
-  <string name="confirm_reject_all_permission">Beschränken Sie alle Apps aus der Verwendung dieser Funktion?</string>  
+  <string name="confirm_fingerprint_msg">Legen Sie Ihren Finger auf den Sensor</string>
+  <string name="confirm_reject_all_permission">Verweigern Sie allen Apps die Verwendung dieser Funktion?</string>  
   <string name="connect_internet_by_mobiledata">Internetverbindung über Mobilnetz herstellen</string>
   <string name="connect_internet_by_usbshare">Internetverbindung über USB herstellen</string>
   <string name="connect_internet_by_wifi">WLAN</string>
@@ -289,15 +289,15 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="examination_score_80_60">Einige Punkte können optmiert werden</string>
   <string name="examination_score_has_virus">Einige Apps sind verdächtig.</string>
   <string name="fingerprint_to_lock">Per Fingerabdruck entsperren</string>
-  <string name="fingerprint_verification">Fingerabdruck-Verifikation</string>
-  <string name="fingerprint_verification_message">Fingerabdruck verifizieren, um diese Funktion zu verwenden.</string>
-  <string name="finger_remind_message">Anwendungssperre unterstützt Fingerabruck zum Entsperren. Fingerabdruck hinzufügen?</string>
+  <string name="fingerprint_verification">Fingerabdruck scannen</string>
+  <string name="fingerprint_verification_message">Fingerabdruck scannen, um diese Funktion zu verwenden.</string>
+  <string name="finger_remind_message">Sie können auch Ihren Fingerabdruck zur Anwendungssperre verwenden</string>
   <string name="fingerprint_not_remind">Nicht wieder nachfragen</string>
   <string name="fingerprint_verify_succeed">Erfolgreich verifiziert</string>
   <string name="fingerprint_verify_failed">Konnte nicht verifiziert werden</string>
   <string name="fingerprint_verify_try_agin">Konnte nicht gescannt werden, nochmals versuchen</string>
   <string name="fingerprint_remind_dialog_title">Entsperren mit Fingerabdruck</string>  
-  <string name="fingerprint_identify_msg">Fingerabdruck wird gescannt…</string>
+  <string name="fingerprint_identify_msg">Scannen Sie Ihren Fingerabdruck</string>
   <string name="fingerprint_not_identified_msg">Passwort eingeben, um Ihr Gerät zu entsperren.</string>
   <string name="firewall_activity_lable">Datenverbrauch nach App einschränken</string>
   <string name="firewall_applist">Apps</string>
@@ -328,7 +328,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="gateway_exception_summary">Überprüfen Sie Ihren Router und versuchen Sie es erneut.</string>
   <string name="gateway_exception_summary2">Verbindung zum Server fehlgeschlagen</string>
   <string name="gateway_exception_title">Router-Test</string>
-  <string name="go_to_setting_fingerprint">Zu den Einstellungen gehen</string>
+  <string name="go_to_setting_fingerprint">Einstellungen</string>
   <string name="handle_text_cache">Cache</string>
   <string name="handle_text_memory">Speicher</string>
   <string name="handle_text_system">System</string>
@@ -408,6 +408,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="lockpattern_tutorial_cancel_label">Abbrechen</string>
   <string name="lockpattern_tutorial_continue_label">Weiter</string>
   <string name="lockpattern_retry_button_text">Nochmal zeichnen</string>
+  <string name="lockpattern_settings_help_how_to_record">Zeichnen Sie ein Muster</string>
   <string name="lockpattern_continue_button_text">Weiter</string>
   <string name="lockpattern_confirm_button_text">OK</string>
   <string name="lockpattern_need_to_unlock">Muster bestätigen</string>
@@ -419,7 +420,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="lockpattern_need_to_confirm">Zur Bestätigung Muster nochmals zeichnen</string>
   <string name="lockpattern_need_to_unlock_wrong">Nochmals versuchen</string>
   <string name="lockpattern_recording_inprogress">Finger wegnehmen, wenn das Muster vollständig ist</string>
-  <string name="lockpattern_pattern_confirmed_header">Ihr neues Entsperrmuster</string>
+  <string name="lockpattern_pattern_confirmed_header">Neues Entsperrmuster</string>
   <string name="lockpassword_confirm_your_password_header">Passwort bestätigen</string>
   <string name="lock_settings_title">Sperrbildschirm und Passwort</string>
   <string name="lockpassword_confirm_your_pattern_header">Muster bestätigen</string>
@@ -1105,7 +1106,7 @@ Sie müssen Ihre Akku-Einstellungen ändern bevor Sie dieses Profil löschen kö
   <string name="text_antivirus_oversea">Virusdefinitionen aktualisieren</string>
   <string name="text_lock_info">Entsperrmuster zeichnen</string>
   <string name="three_percent_total_pkg">%s (3%% der monatlichen Daten)</string>
-  <string name="third_application">Apps von Drittanbietern</string>
+  <string name="third_application">Installierte Apps</string>
   <string name="timeshow_h">%.1fh</string>
   <string name="timeshow_h_int">%dh</string>
   <string name="timeshow_h_m">%1$dh %2$dm</string>
@@ -1113,6 +1114,7 @@ Sie müssen Ihre Akku-Einstellungen ändern bevor Sie dieses Profil löschen kö
   <string name="timeshow_m_s">%1$dm %2$ds</string>
   <string name="timeshow_s">%ds</string>
   <string name="title_antivirus">Tencent’s Datenschutzbestimmungen</string>
+  <string name="title_app_lock_disable">Anwendungen sperren</string>
   <string name="title_app_update">Updates vorhanden</string>
   <string name="title_cleaner_cloudscan">Ordnernamen hochladen</string>
   <string name="title_cloud_account">MiKonto</string>

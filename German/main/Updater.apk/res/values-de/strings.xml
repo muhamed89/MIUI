@@ -193,7 +193,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="recovery_failed_notification_msg">Kann nicht in das Recovery starten</string>
   <string name="recovery_failed_title">Verwenden Sie die Mi-PC Suite um Ihr System zu aktualisieren</string>
   <string name="recovery_power_not_enough_msg">Zum Aktualisieren schließen Sie Ihr Ladegerät an, wenn der Akkustand weniger als 30% beträgt</string>
-  <string name="recovery_power_not_enough_msg_plugged">Der Akkustand muss mehr als 15% betragen, um mit der Aktualisierung zu beginnen</string>
+  <string name="recovery_power_not_enough_msg_plugged">Der Akkustand muss mehr als 30% betragen, um mit der Aktualisierung zu beginnen</string>
   <string name="recovery_power_not_enough_title">Niedriger Akkustand</string>
   <string name="repeat">Wiederholen</string>
   <string name="root_acquired">Erlaube Root Zugriff</string>

@@ -1356,6 +1356,7 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="fingerprint_list_title">Fingerabdruck</string>  
   <string name="fingerprint_manage_category_title">Fingerabdrücke verwalten</string>
   <string name="fingerprint_not_recognized">Nicht erkannt</string>
+  <string name="fingerprint_removal_failed">Fingerabdruck konnte nicht entfernt werden</string>
   <string name="fingerprint_usage_category_title">Fingerabdruck verwenden für</string>
   <string name="finish_application">Beenden</string>
   <string name="finish_button_label">Fertigstellen</string>
@@ -3814,6 +3815,8 @@ WLAN Assistent"</string>
   <string name="wifi_empty_list_wifi_off">WLAN einschalten, um verfügbare Netze anzuzeigen</string>
   <string name="wifi_empty_list_wifi_on">Suche WLAN Netzwerke...</string>
   <string name="wifi_enable">WLAN</string>
+  <string name="wifi_enable_data_and_wifi_roam">Daten- und WLAN-Roaming aktivieren</string>
+  <string name="wifi_enable_data_and_wifi_roam_summary">Auf die mobile Datenverbindung umschalten, wenn über WLAN keine Internetverbindung möglich ist.</string>
   <string name="wifi_enable_watchdog_service_summary">Nur gute Verbindungen verwenden.</string>
   <string name="wifi_error">Fehler</string>
   <string name="wifi_fail_to_scan">Netzwerksuche nicht möglich</string>
