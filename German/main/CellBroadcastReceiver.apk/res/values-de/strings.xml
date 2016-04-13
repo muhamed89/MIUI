@@ -3,8 +3,8 @@
   <string name="alert_reminder_interval_summary"/>
   <string name="alert_reminder_interval_title">Alarmerinnerung</string>
   <string name="alert_sound_duration_summary"/>
-  <string name="alert_sound_duration_title">Benachrichtigungston-Dauer</string>
-  <string name="app_label">Mobilgerät-Broadcasts</string>
+  <string name="alert_sound_duration_title">Benachrichtigungstondauer</string>
+  <string name="app_label">Mobilgerätbroadcasts</string>
   <string name="button_cancel">Abbrechen</string>
   <string name="button_delete">Löschen</string>
   <string name="button_dismiss">OK</string>
@@ -12,8 +12,8 @@
   <string name="category_dev_settings_title">Entwickleroptionen</string>
   <string name="category_etws_settings_title">ETWS-Einstellungen</string>
   <string name="category_india_settings_title">Einstellungen für Indien</string>
-  <string name="cb_other_message_identifiers">Mobilgerät-Broadcast</string>
-  <string name="cell_broadcast_settings_not_available">Mobilgerät-Broadcast Einstellungen sind für diesen Benutzer nicht verfügbar</string>
+  <string name="cb_other_message_identifiers">Mobilgerätbroadcast</string>
+  <string name="cell_broadcast_settings_not_available">Mobilgerätbroadcast-Einstellungen sind für diesen Benutzer nicht verfügbar</string>
   <string name="cmas_amber_alert">Kindesentführung (Entführungsalarm)</string>
   <string name="cmas_category_cbrne">Chemie/Biologie/Kernenergie/Sprengstoffe</string>
   <string name="cmas_category_env">Umwelt</string>
@@ -55,19 +55,19 @@
   <string name="cmas_urgency_expected">Innerhalb der nächsten Stunde handeln</string>
   <string name="cmas_urgency_heading">Dringlichkeit:</string>
   <string name="cmas_urgency_immediate">Sofort handeln</string>
-  <string name="confirm_delete_all_broadcasts">Alle empfangenen Broadcast-Nachrichten löschen?</string>
+  <string name="confirm_delete_all_broadcasts">Alle empfangenen Broadcastnachrichten löschen?</string>
   <string name="confirm_delete_broadcast">Broadcast löschen?</string>
   <string name="delivery_time_heading">Empfangen:</string>
   <string name="emergency_alert_settings_title">Einstellungen für Notfallbenachrichtigungen</string>
   <string name="enable_alert_speech_summary">Text-in-Sprache zum Sprechen von Notfallbenachrichtigungen verwenden</string>
   <string name="enable_alert_speech_title">Benachrichtigung sprechen</string>
-  <string name="enable_alert_vibrate_summary">Vibriere bei Alarm</string>
-  <string name="enable_alert_vibrate_title">Vibriere</string>
+  <string name="enable_alert_vibrate_summary">Bei Alarm vibrieren</string>
+  <string name="enable_alert_vibrate_title">Vibrieren</string>
   <string name="enable_channel_50_alerts_summary">Kanal 50 wird in Brasilien für aktuelle Gebietsinformationen verwendet.</string>
   <string name="enable_channel_50_alerts_title">Kanal 50-Broadcasts zeigen</string>
   <string name="enable_channel_60_alerts_summary">Kanal 60 wird in Indien für aktuelle Gebietsinformationen verwendet.</string>
   <string name="enable_channel_60_alerts_title">Kanal 60-Broadcasts zeigen</string>
-  <string name="enable_cmas_amber_alerts_summary">Notfall-Bulletins zu Kindesentführung anzeigen (Entführungsalarm)</string>
+  <string name="enable_cmas_amber_alerts_summary">Notfallbulletins zu Kindesentführung anzeigen (Entführungsalarm)</string>
   <string name="enable_cmas_amber_alerts_title">Entführungsalarm anzeigen</string>
   <string name="enable_cmas_extreme_threat_alerts_summary">Warnungen zu extremen Gefahren für Leben und Eigentum anzeigen</string>
   <string name="enable_cmas_extreme_threat_alerts_title">Extreme Gefahren anzeigen</string>
@@ -77,7 +77,7 @@
   <string name="enable_cmas_test_alerts_title">CMAS-Testsendungen anzeigen</string>
   <string name="enable_emergency_alerts_summary">Notfallbenachrichtigungs-Broadcasts anzeigen</string>
   <string name="enable_emergency_alerts_title">Benachrichtigungen aktivieren</string>
-  <string name="enable_etws_test_alerts_summary">Test-Broadcasts für Erdbeben-/Tsunami-Warnsystem anzeigen</string>
+  <string name="enable_etws_test_alerts_summary">Testbroadcasts für Erdbeben-/Tsunami-Warnsystem anzeigen</string>
   <string name="enable_etws_test_alerts_title">ETWS-Testsendungen anzeigen</string>
   <string name="etws_earthquake_and_tsunami_warning">Erdbeben- und Tsunamiwarnung</string>
   <string name="etws_earthquake_warning">Erdbebenwarnung</string>
@@ -93,8 +93,8 @@
   <string name="notification_multiple">%s ungelesene Warnungen</string>
   <string name="notification_multiple_title">Neue Warnungen</string>
   <string name="pws_other_message_identifiers">Notfallbenachrichtigung</string>
-  <string name="show_cmas_opt_out_summary">Opt-out-Dialog nach der Anzeige der ersten CMAS Warnung (außer Präsidenten Alarm).</string>
-  <string name="show_cmas_opt_out_title">Opt-out Dialog anzeigen</string>
-  <string name="sms_cb_settings">Einstellungen für Mobilgerät-Broadcast</string>
+  <string name="show_cmas_opt_out_summary">Opt-out-Dialog nach der Anzeige der ersten CMAS Warnung (außer Präsidentenalarm).</string>
+  <string name="show_cmas_opt_out_title">Opt-out-Dialog anzeigen</string>
+  <string name="sms_cb_settings">Einstellungen für Mobilgerätbroadcast</string>
   <string name="view_details_title">Alarmdetails</string>
 </resources>
