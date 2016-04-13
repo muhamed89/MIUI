@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Zertifikats-Installer</string>
+  <string name="app_name">Zertifikatsinstaller</string>
   <string name="cert_is_added">%s ist installiert.</string>
   <string name="cert_missing_error">Installation nicht möglich, weil die Zertifikatdatei nicht gefunden wurde.</string>
   <string name="cert_not_saved">Das Zertifikat ist nicht installiert.</string>
   <string name="cert_read_error">Installation nicht möglich, weil die Zertifikatdatei nicht gelesen werden konnte.</string>
   <string name="cert_too_large_error">Installation nicht möglich, weil das Zertifikat zu groß ist.</string>
-  <string name="credential_info">Das Paket enthält Folgendes:</string>
+  <string name="credential_info">Das Paket enthält folgendes:</string>
   <string name="credential_name">Zertifikatname:</string>
   <string name="credential_password">Geben Sie das Passwort zum Extrahieren der Zertifikate ein.</string>
   <string name="credential_usage_label">Verwendung der Anmeldedaten:</string>
@@ -19,11 +19,11 @@
   <string name="name_char_error">Geben Sie einen Namen ein, der ausschließlich aus Buchstaben und Zahlen besteht.</string>
   <string name="name_credential_dialog_title">Zertifikat benennen</string>
   <string name="name_empty_error">Geben Sie einen Namen ein.</string>
-  <string name="no_cert_file_found">Keine zertifikatdatei auf USB-Speicher gefunden.</string>
+  <string name="no_cert_file_found">Keine Zertifikatsdatei auf USB-Speicher gefunden.</string>
   <string name="no_cert_to_saved">Kein zu installierendes Zertifikat</string>
   <string name="one_cacrt">ein CA-Zertifikat</string>
   <string name="one_usercrt">ein Benutzerzertifikat</string>
-  <string name="one_userkey">ein Benutzersschlüssel</string>
+  <string name="one_userkey">ein Benutzerschlüssel</string>
   <string name="only_primary_user_allowed">Nur der Eigentümer dieses Geräts kann Zertifikate installieren.</string>
   <string name="p12_description">Zertifikate im PKCS12-Keystore</string>
   <string name="password_empty_error">Geben Sie das Passwort ein.</string>
