@@ -1750,7 +1750,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="lock_screen_secure_after_timeout_title">Passwort erforderlich</string>
   <string name="lock_screen_unlock_show">Ziehen ausschalten</string>
   <string name="lock_screen_unlock_show_summary">Direkt zum Desktop oder zur Passworteingabe gehen</string>
-  <string name="lock_settings">Bildschirmsperre und Passwort</string>
+  <string name="lock_settings">Bildschirmsperre & Passwort</string>
   <string name="lock_settings_common_title">Sperreinstellungen</string>
   <string name="lock_settings_picker_fingerprint_message">Alternative Methode zur Bildschirmsperre auswählen</string>
   <string name="lock_settings_picker_settings">Bildschirmsperre</string>
