@@ -10,15 +10,15 @@
   <string name="debug_tool_delete_button">Jetzt löschen</string>
   <string name="debug_tool_email_body">Beigefügt ist meine Kalenderdatenbank mit meinen Terminen und persönlichen Informationen. Bitte gehen Sie sorgfältig damit um.</string>
   <string name="debug_tool_email_sender_picker">App zum Senden der Datei auswählen.</string>
-  <string name="debug_tool_email_subject">Kalender-DB angehängt</string>
+  <string name="debug_tool_email_subject">Kalenderdatenbank angehängt</string>
   <string name="debug_tool_message">Sie sind dabei, 1) eine Kopie Ihrer Kalenderdatenbank auf der SD-Karte bzw. dem USB-Speicher zu speichern, die von jeder App gelesen werden kann, und 2) sie per E-Mail zu versenden. Löschen Sie sie, sobald sie vom Gerät kopiert ist oder die E-Mail erhalten wurde.</string>
   <string name="debug_tool_start_button">Starten</string>
   <string name="holiday_data_no_network">Kein Netzwerk. Später erneut versuchen.</string>
-  <string name="holiday_data_update_failed">Prüfen Sie das Update auf Fehler und später erneut versuchen.</string>
-  <string name="holiday_data_update_succeed">Update auf Vollständigkeit prüfen.</string>
+  <string name="holiday_data_update_failed">Überprüfen Sie das Update auf Fehler und versuchen sie es später erneut.</string>
+  <string name="holiday_data_update_succeed">Überprüfen Sie das Update auf Vollständigkeit.</string>
   <string name="holiday_data_updating">Aktualisiere...</string>
-  <string name="holiday_update_summary">Updates prüfen drücken</string>
-  <string name="holiday_update_title">Werktagsdaten benötigen eine Netzwerkverbindung und Update.</string>
+  <string name="holiday_update_summary">Updates überprüfen drücken</string>
+  <string name="holiday_update_title">Werktagsdaten benötigen eine Netzwerkverbindung und ein Update.</string>
   <string name="provider_label">Kalender</string>
   <string name="upgrade_msg">Kalenderdatenbank wird aktualisiert.</string>
 </resources>
