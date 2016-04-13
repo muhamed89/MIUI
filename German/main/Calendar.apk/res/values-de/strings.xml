@@ -312,7 +312,7 @@
   <string name="privacy_label">Datenschutz</string>
   <string name="quick_response_custom_msg">Benutzerdefinierte Nachricht</string>
   <string name="quick_response_dialog_title">Standardantworten auswählen</string>
-  <string name="quick_response_email_failed">"Keine Email-App gefunden"</string>
+  <string name="quick_response_email_failed">"Keine E-Mail-App gefunden"</string>
   <string name="quick_response_settings">Standardantworten</string>
   <string name="quick_response_settings_edit_title">Standardantworten</string>
   <string name="quick_response_settings_summary">Standardantworten bearbeiten</string>
