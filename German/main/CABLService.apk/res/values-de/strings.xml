@@ -5,8 +5,8 @@
   <string name="cabl_enable_summary_on">Die Hintergrundbeleuchtung wird abhängig vom Bildschirminhalt angepasst</string>
   <string name="cabl_enable_title">Inhaltabhängige Hintergrundbeleuchtung einschalten</string>
   <string name="cabl_info_default">Unbekannt</string>
-  <string name="cabl_levels_summary">Ein niedrigerer Level wird so viel Strom wie möglich sparen, ohne den dargestellten Inhalt merklich zu beeinflussen. Automatischer Level bedeutet, dass CABL die Akkulaufzeit maximiert, basierend auf automatischer Erkennung des dargestellten Inhalts.</string>
-  <string name="cabl_levels_title">Optischer Qualitätslevel</string>
-  <string name="cabl_settings_title">Einstellungen für Inhaltsabhängige Hintergrundbeleuchtung (CABL)</string>
-  <string name="cabl_version_title">CABL Version</string>
+  <string name="cabl_levels_summary">Ein niedrigeres Level wird so viel Strom wie möglich sparen, ohne den dargestellten Inhalt merklich zu beeinflussen. Automatisches Level bedeutet, dass CABL die Akkulaufzeit, basierend auf automatischer Erkennung des dargestellten Inhalts, maximiert .</string>
+  <string name="cabl_levels_title">Optisches Qualitätslevel</string>
+  <string name="cabl_settings_title">Einstellungen für inhaltsabhängige Hintergrundbeleuchtung (CABL)</string>
+  <string name="cabl_version_title">CABL-Version</string>
 </resources>
