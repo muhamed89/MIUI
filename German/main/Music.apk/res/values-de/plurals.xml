@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="download_finished">
-       <item quantity="other">&lt;font color=\"red\">%d Lieder&lt;/font> heruntergeladen</item>
-       <item quantity="one">&lt;font color==\"red\">%d Lied&lt;/font> heruntergeladen</item>
+       <item quantity="other">&lt;font color=\"red\">%d Titel&lt;/font> heruntergeladen</item>
+       <item quantity="one">&lt;font color==\"red\">%d Titel&lt;/font> heruntergeladen</item>
     </plurals>
     <plurals name="download_running">
-       <item quantity="other">&lt;font color=\"red\">%d Lieder&lt;/font> werden heruntergeladen</item>
-       <item quantity="one">&lt;font color==\"red\">%d Lied&lt;/font> wird heruntergeladen</item>
+       <item quantity="other">&lt;font color=\"red\">%d Titel&lt;/font> werden heruntergeladen</item>
+       <item quantity="one">&lt;font color==\"red\">%d Titel&lt;/font> wird heruntergeladen</item>
     </plurals>
     <plurals name="Nalert_msg_vip_songs_for_download_limited">
-        <item quantity="other">Sie können diesen Monat nur %d Premium-Lieder herunterladen. Stocken Sie Ihr Premium-Paket auf, um weitere Lieder herunterladen zu können.</item>
+        <item quantity="other">Sie können diesen Monat nur %d Premiumtitel herunterladen. Stocken Sie Ihr Premiumpaket auf, um weitere Titel herunterladen zu können.</item>
      </plurals>
      <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
-        <item quantity="other">Sie können diesen Monat nur %d Premium-Lieder herunterladen. Ausgewählte Lieder trotzdem herunterladen?</item>
+        <item quantity="other">Sie können diesen Monat nur %d Premiumtitel herunterladen. Ausgewählte Titel trotzdem herunterladen?</item>
      </plurals>
     <plurals name="Ntracks_search_result">
-        <item quantity="other">%d Lieder gefunden</item>
-        <item quantity="one">%d Lied gefunden</item>
+        <item quantity="other">%d Titel gefunden</item>
+        <item quantity="one">%d Titel gefunden</item>
     </plurals>
     <plurals name="Nexpired_remind">
         <item quantity="other">%d Tage verbleibend</item>
         <item quantity="one">%d Tag verbleibend</item>
     </plurals>
     <plurals name="NTrackstoDownload">
-        <item quantity="other">%d Lieder werden heruntergeladen</item>
-        <item quantity="one">1 Lied wird heruntergeladen</item>
+        <item quantity="other">%d Titel werden heruntergeladen</item>
+        <item quantity="one">1 Titel wird heruntergeladen</item>
     </plurals>
     <plurals name="NPlaylist_delete_confirm">
         <item quantity="other">Lösche %d Wiedergabelisten?</item>
@@ -35,63 +35,63 @@
         <item quantity="one">1 neu</item>
     </plurals>
     <plurals name="Ntracks_count">
-        <item quantity="other">%d Lieder</item>
-        <item quantity="one">%d Lied</item>
+        <item quantity="other">%d Titel</item>
+        <item quantity="one">%d Titel</item>
     </plurals>
     <plurals name="Ntracks_similar_count">
-        <item quantity="other">%d ähnliche Lieder</item>
-        <item quantity="one">%d ähnliches Lied</item>
+        <item quantity="other">%d ähnliche Titel</item>
+        <item quantity="one">%d ähnlicher Titel</item>
     </plurals>
     <plurals name="Nartists_count">
         <item quantity="other">%d Interpreten</item>
-        <item quantity="one">%d Interprete</item>
+        <item quantity="one">%d Interpret</item>
     </plurals>
     <plurals name="Ngroups_count">
         <item quantity="other">%d Bands</item>
         <item quantity="one">%d Band</item>
     </plurals>
     <plurals name="dialog_delete_descript">
-        <item quantity="other">Lösche %d Lieder?</item>
-        <item quantity="one">Lösche %d Lied?</item>
+        <item quantity="other">Lösche %d Titel?</item>
+        <item quantity="one">Lösche %d Titel?</item>
     </plurals>
     <plurals name="dialog_remove_descript">
-        <item quantity="other">Entferne %d Lieder?</item>
-        <item quantity="one">Entferne %d Lied?</item>
+        <item quantity="other">Entferne %d Titel?</item>
+        <item quantity="one">Entferne %d Titel?</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
-        <item quantity="other">%d Lieder zur Wiedergabeliste hinzugefügt</item>
-        <item quantity="one">Lied zur Wiedergabeliste hinzugefügt</item>
+        <item quantity="other">%d Titel zur Wiedergabeliste hinzugefügt</item>
+        <item quantity="one">Titel zur Wiedergabeliste hinzugefügt</item>
     </plurals>
     <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">%d Lieder von der Wiedergabeliste entfernt</item>
-        <item quantity="one">Lied von der Wiedergabeliste entfernt</item>
+        <item quantity="other">%d Titel von der Wiedergabeliste entfernt</item>
+        <item quantity="one">Titel von der Wiedergabeliste entfernt</item>
     </plurals>
     <plurals name="artist_list_fragment_item_count_format">
-        <item quantity="other">%d Lieder</item>
-        <item quantity="one">1 Lied</item>
+        <item quantity="other">%d Titel</item>
+        <item quantity="one">1 Titel</item>
     </plurals>
     <plurals name="Nquit_warning">
         <item quantity="other">Player stoppt in %d Minuten</item>
         <item quantity="one">Player stoppt in %d Minute</item>
     </plurals>
     <plurals name="send_songs_toast">
-        <item quantity="other">%d Lieder werden gesendet</item>
-        <item quantity="one">1 Lied wird gesendet</item>
+        <item quantity="other">%d Titel werden gesendet</item>
+        <item quantity="one">1 Titel wird gesendet</item>
     </plurals>
     <plurals name="folder_songs_count">
-        <item quantity="other">%d Lieder</item>
-        <item quantity="one">1 Lied</item>
+        <item quantity="other">%d Titel</item>
+        <item quantity="one">1 Titel</item>
     </plurals>
     <plurals name="Nnew_local_audios">
-        <item quantity="other">%d Lieder hinzugefügt</item>
-        <item quantity="one">%d Lied hinzugefügt</item>
+        <item quantity="other">%d Titel hinzugefügt</item>
+        <item quantity="one">%d Titel hinzugefügt</item>
     </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">%d Elemente ausgewählt</item>
         <item quantity="one">%d Element ausgewählt</item>
     </plurals>
     <plurals name="song_already_favorite">
-        <item quantity="other">Lieder wurden zu Favoriten hinzugefügt.</item>
-        <item quantity="one">Lied wurde zu Favoriten hinzugefügt.</item>
+        <item quantity="other">Titel wurden zu Favoriten hinzugefügt.</item>
+        <item quantity="one">Titel wurde zu Favoriten hinzugefügt.</item>
     </plurals>
 </resources>
