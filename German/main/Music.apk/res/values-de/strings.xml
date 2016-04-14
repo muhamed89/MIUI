@@ -262,7 +262,7 @@
   <string name="eq_preset_select">Voreinstellung auswählen</string>
   <string name="eq_rock">Rock</string>
   <string name="equalizer">Equalizer</string>
-  <string name="error_forbidden">Synchronisation wurde aufgrund von Problemen mit dem MiKonto deaktiviert.</string>
+  <string name="error_forbidden">Synchronisation wurde aufgrund von Problemen mit dem Mi-Konto deaktiviert.</string>
   <string name="error_not_acceptable">Synchronisation ausgeschaltet.</string>
   <string name="error_title">"Synchronisation fehlgeschlagen"</string>
   <string name="error_unauthorized">Synchronisation wurde aufgrund von zu vielen Anmeldeversuche deaktiviert.</string>
@@ -279,7 +279,7 @@
   <string name="female_artist">Weibliche Interpreten</string>
   <string name="file_not_found">"Datei existiert nicht"</string>
   <string name="filter_by_duration">Nach Länge</string>
-  <string name="filter_by_duration_format">%2$dm %5$2ds</string>
+  <string name="filter_by_duration_format">%2$d m %5$2d s</string>
   <string name="filter_by_duration_max">5 Min.</string>
   <string name="filter_by_duration_min">0 Sek.</string>
   <string name="filter_by_duration_prefix">"Dateien Verbergen die kürzer sind als"</string>
@@ -287,8 +287,8 @@
   <string name="filter_by_folder">Nach Ordner</string>
   <string name="filter_by_folder_summary">Ordner zum Anzeigen wählen</string>
   <string name="filter_by_size">Nach Größe</string>
-  <string name="filter_by_size_max">2MB</string>
-  <string name="filter_by_size_min">0KB</string>
+  <string name="filter_by_size_max">2 MB</string>
+  <string name="filter_by_size_min">0 KB</string>
   <string name="filter_by_size_prefix">"Verberge Dateien die kleiner sind als "</string>
   <string name="filter_by_size_summary">Verberge kleine Audiodateien</string>
   <string name="find_music">Musik entdecken</string>
@@ -342,7 +342,7 @@
   <string name="local_music">Offline</string>
   <string name="local_music_is_not_available">Lokale Titel sind nicht verfügbar.</string>
   <string name="local_tracks_short">Offline</string>
-  <string name="login_first">Zuerst mit Mi Konto anmelden</string>
+  <string name="login_first">Zuerst mit Mi-Konto anmelden</string>
   <string name="lrc_search_failed">"Songtext konnte nicht gefunden werden"</string>
   <string name="lrc_searching">Suche…</string>
   <string name="lyric">Songtexte</string>
@@ -374,8 +374,8 @@
   <string name="miuishare_account_login_cancel">Abbrechen</string>
   <string name="miuishare_account_login_confirmation">Anmeldung nötig</string>
   <string name="miuishare_account_login_ok">Anmelden</string>
-  <string name="miuishare_account_need_activate">Zum Teilen verknüpfen Sie Ihr Weibo Konto mit Ihrem Mi Konto, welches noch nicht aktiviert wurde. Möchten Sie es jetzt aktivieren?</string>
-  <string name="miuishare_account_need_login">Zum Teilen verknüpfen Sie Ihr Weibo Konto mit Ihrem Mi Konto.</string>
+  <string name="miuishare_account_need_activate">Zum Teilen verknüpfen Sie Ihr Weibo Konto mit Ihrem Mi-Konto, welches noch nicht aktiviert wurde. Möchten Sie es jetzt aktivieren?</string>
+  <string name="miuishare_account_need_login">Zum Teilen verknüpfen Sie Ihr Weibo Konto mit Ihrem Mi-Konto.</string>
   <string name="miuishare_app_name">MIUI Share</string>
   <string name="miuishare_no_network">Keine Netzwerkverbindung</string>
   <string name="miuishare_publish">Senden</string>
@@ -408,7 +408,7 @@
   <string name="music_settings">Musik</string>
   <string name="music_traffic">Musik-Datentarif</string>
   <string name="music_traffic_summary">Hören und laden Sie Titel herunter, ohne Daten zu verwenden</string>
-  <string name="my_account">Mi Konto</string>
+  <string name="my_account">Mi-Konto</string>
   <string name="my_music_empty">Die Wiedergabeliste ist leer.</string>
   <string name="my_music_empty_goto_online">Keine Titel gefunden</string>
   <string name="my_playlist">Meine Wiedergabeliste</string>
@@ -511,7 +511,7 @@
   <string name="privacy_notif_content">Antippen, um Details anzuzeigen.</string>
   <string name="privacy_notif_title">Xunlei Downloadbeschleniger ist ausgeschaltet</string>
   <string name="privacy_tip_cancel">Abbrechen</string>
-  <string name="privacy_tip_content">Xunlei Downloadbeschleniger verwenden, um Dateien herunterzuladen? Die Download-URL wird dabei auf die Xunlei Server hochgeladen. Ihre Mi Kontodaten werden ebenfalls hochgeladen, um zu überprüfen, ob Sie diesen Dienst abonniert haben.</string>
+  <string name="privacy_tip_content">Xunlei Downloadbeschleniger verwenden, um Dateien herunterzuladen? Die Download-URL wird dabei auf die Xunlei Server hochgeladen. Ihre Mi-Kontodaten werden ebenfalls hochgeladen, um zu überprüfen, ob Sie diesen Dienst abonniert haben.</string>
   <string name="privacy_tip_ok">OK</string>
   <string name="privacy_tip_title">Xunlei Downloadbeschleniger verwenden?</string>
   <string name="project_device">Mi Telefon</string>
@@ -676,8 +676,8 @@
   <string name="track_search_title">Titel</string>
   <string name="track_view">Titel</string>
   <string name="traffic_free_to_play">Musik-Datentarif verwenden</string>
-  <string name="traffic_network_alert">Mi Musi-Datentarif</string>
-  <string name="traffic_network_alert_message">Sie verwenden einen Mi Musi-Datentarif von China Unicom. Sie sollten mit einem 3GNetzwerk verbudnen sein, um Musik ohne zusätzliche Kosten zu streamen. Überprüfen Sie vor dem Musikstreaming Ihre Einstellungen.</string>
+  <string name="traffic_network_alert">Mi Musik-Datentarif</string>
+  <string name="traffic_network_alert_message">Sie verwenden einen Mi Musik-Datentarif von China Unicom. Sie sollten mit einem 3GNetzwerk verbudnen sein, um Musik ohne zusätzliche Kosten zu streamen. Überprüfen Sie vor dem Musikstreaming Ihre Einstellungen.</string>
   <string name="trigger_to_scan_media_library_finish">Aktualisiert</string>
   <string name="trigger_to_scan_media_library_processing">Aktualisiere…</string>
   <string name="trigger_to_scan_media_library_start">Aktualisiere…</string>
