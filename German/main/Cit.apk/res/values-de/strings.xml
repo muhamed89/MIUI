@@ -88,7 +88,7 @@ Telefon, wie bei einem Anruf halten, ins Mikrofon sprechen. Die Stimme sollte mi
 
 3.Es wird Ihnen Kalibrierungsergebnis mit der erfolgreichen Kalibrierung angezeigt"</string>
   <string name="cit_camera_sdcard_error">"SD-Karte voll. Bilder konnten nicht gespeichert werden."</string>
-  <string name="cit_charger_plugin_check_summary">Dieser Test überprüft den Status des Ladegerätes."</string>
+  <string name="cit_charger_plugin_check_summary">Dieser Test überprüft den Status des Ladegerätes</string>
   <string name="cit_charger_plugin_check_title">Ladegerät (verbunden)</string>
   <string name="cit_charger_plugout_check_summary">Aus- und Wiedereinstecken startet den Test</string>
   <string name="cit_charger_plugout_check_title">Ladegerätverbindung testen</string>
@@ -257,8 +257,8 @@ Datei hinzufügen und Test erneut starten."</string>
   <string name="cit_tool_bluetooth_not_on">Bluetooth ist deaktiviert!</string>
   <string name="cit_tool_bluetooth_off">Bluetooth deaktivieren</string>
   <string name="cit_tool_bluetooth_on">Bluetooth aktivieren</string>
-  <string name="cit_tool_bluetooth_tx_h">Bluetooth Single-Sound-Test （2.480GHz) starten</string>
-  <string name="cit_tool_bluetooth_tx_l">Bluetooth Single-Sound-Test （2.402GHz） starten</string>
+  <string name="cit_tool_bluetooth_tx_h">Bluetooth Single-Sound-Test (2.480GHz) starten</string>
+  <string name="cit_tool_bluetooth_tx_l">Bluetooth Single-Sound-Test (2.402GHz) starten</string>
   <string name="cit_tool_cal_camera">Kamera-Kalibrationstool</string>
   <string name="cit_tool_enable_3A_log">3A Log-Switch aktivieren</string>
   <string name="cit_tool_log">Berichte</string>
