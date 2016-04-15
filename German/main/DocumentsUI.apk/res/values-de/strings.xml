@@ -8,8 +8,8 @@
   <string name="copy_preparing">Kopieren wird vorbereitet…</string>
   <string name="copy_remaining">Noch %s</string>
   <string name="create_error">Ordner konnte nicht erstellt werden.</string>
-  <string name="drawer_close">Root-Verzeichnis ausblenden</string>
-  <string name="drawer_open">Root-Verzeichnis anzeigen</string>
+  <string name="drawer_close">Rootverzeichnis ausblenden</string>
+  <string name="drawer_open">Rootverzeichnis anzeigen</string>
   <string name="empty">Keine Dokumente</string>
   <string name="menu_advanced_hide">Interner Speicher ausblenden</string>
   <string name="menu_advanced_show">Interner Speicher anzeigen</string>
@@ -28,7 +28,7 @@
   <string name="menu_settings">Einstellungen</string>
   <string name="menu_share">Teilen</string>
   <string name="menu_sort">Sortieren nach</string>
-  <string name="notification_touch_for_details">Berühren Sie, um Details anzuzeigen</string>
+  <string name="notification_touch_for_details">Tippen Sie an um Details anzuzeigen</string>
   <string name="query_error">Fehler bei der Anforderung von Dokumenten</string>
   <string name="retry">Erneut versuchen</string>
   <string name="root_available_bytes">%1$s verfügbar</string>
