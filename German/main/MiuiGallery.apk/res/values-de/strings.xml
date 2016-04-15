@@ -219,7 +219,7 @@
   <string name="cloud_gallery_space_full_buy_more">"Kann neue Fotos nicht mit Ihrer Mi Cloud synchronisieren. Um mehr Fotos zu synchronisieren, kaufen Sie zusätzlichen Speicherplatz."</string>
   <string name="cloud_gallery_space_full_title">Mi Cloud ist voll</string>
   <string name="cloud_guide_slim_text">Automatisches Backup. Reduziere internen Speicherbedarf für Fotos um 90%.</string>
-  <string name="cloud_guide_slim_title">Speicherbedarf für Fotos auf internen Speicher um %1$s reduzieren</string>
+  <string name="cloud_guide_slim_title">Speicherbedarf für Fotos auf internem Speicher um %1$s reduzieren</string>
   <string name="cloud_media_set_set">Cloud-Alben</string>
   <string name="cloud_owner_album_share_guide">Sie können dieses Album mit Freunden teilen</string>
   <string name="cloud_screenshots_display_name">Screenshots</string>
