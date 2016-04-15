@@ -27,7 +27,7 @@
   <string name="auto_silence_title">Automatische Stummschaltung</string>
   <string name="battery_charging_level">%d%%</string>
   <string name="birthday_alarm">Geburtstagsalarm</string>
-  <string name="birthday_alarm_summary">Spiele \"Happy Birthday\" an deinem Geburtstag anstelle des Standard Wecktons</string>
+  <string name="birthday_alarm_summary">Spiele \"Happy Birthday\" an deinem Geburtstag anstelle des Standardwecktons</string>
   <string name="cancel">Abbrechen</string>
   <string name="close_alarm">Weckruf schließen</string>
   <string name="common_settings">Einstellungen</string>
@@ -37,8 +37,8 @@
   <string name="day">1 Tag</string>
   <string name="day_concat">". "</string>
   <string name="days">%s Tage</string>
-  <string name="default_alarm_alert">Standard Weckton festlegen</string>
-  <string name="default_alarm_title">Standard Weckton</string>
+  <string name="default_alarm_alert">Standardweckton festlegen</string>
+  <string name="default_alarm_title">Standardweckton</string>
   <string name="default_label">Wecker</string>
   <string name="delelte_selected_timezone">Ausgewählte Zeitzone löschen?</string>
   <string name="delete">Löschen</string>
@@ -70,7 +70,7 @@
   <string name="menu_add_worldclock">Neue Weltzeit</string>
   <string name="menu_desk_clock">Schreibtischuhr</string>
   <string name="menu_edit_timer_item">Timer bearbeiten</string>
-  <string name="menu_item_dock_settings">Dock-Einstellungen</string>
+  <string name="menu_item_dock_settings">Dockeinstellungen</string>
   <string name="menu_item_sort_by_gmt_offset">Nach Zeit sortieren</string>
   <string name="menu_item_sort_by_name">Nach Namen sortieren</string>
   <string name="minute">1 Minute</string>
@@ -129,6 +129,6 @@
   <string name="volume_button_setting_summary">Verhalten dieser Tasten während Wecker klingelt</string>
   <string name="volume_button_setting_title">Lautstärketasten</string>
   <string name="workday_alarm_clock">Wecker an Werktagen</string>
-  <string name="worldclock_empty_text">Keine Weltuhren</string>
+  <string name="worldclock_empty_text">Keine Weltzeituhren</string>
   <string name="worldclock_title">Uhr</string>
 </resources>
