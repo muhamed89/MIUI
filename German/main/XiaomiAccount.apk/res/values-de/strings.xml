@@ -331,7 +331,7 @@
   <string name="passport_xiaomi_account_dspt">Nutzen Sie Ihr Mi Konto um überall auf die Mi Cloud, den MIUI Theme Store und weitere Dienste zuzugreifen.</string>
   <string name="passport_xiaomi_account_sec_dspt"/>
   <string name="passport_xiaomi_account_sec_dspt2">Zur Anmeldung deines Mi Kontos wird eine Internetverbindung benötigt. Anschließend wird die Standortbestimmung, die Mi Cloud und Mi VIP automatisch eingeschaltet.</string>
-  <string name="passport_xiaomi_account_sec_dspt2_vip">Anmelden bei Ihrem Mi Konto erfordert eine Internetverbindung. Darüber hinaus werden Zugangsdaten wie, Mi Cloud und Mi-VIP automatisch aktiviert.</string>
+  <string name="passport_xiaomi_account_sec_dspt2_vip">Anmelden bei Ihrem Mi Konto erfordert eine Internetverbindung. Darüber hinaus werden Zugangsdaten wie, Mi Cloud und Mi VIP automatisch aktiviert.</string>
   <string name="password">Passwort eingeben</string>
   <string name="phone_activated">%s aktiviert</string>
   <string name="phone_send_verify_code_prompt">Sende Bestätigungscode an %s</string>

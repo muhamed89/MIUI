@@ -275,7 +275,7 @@
   <string name="mx_activate_dlg_title_ex">Mi Nachrichten &amp; Sprache aktivieren</string>
   <string name="mx_activate_error_malformed_info">Mi Nachrichten muss reaktiviert werden</string>
   <string name="mx_activate_error_server">Aktivierung fehlgeschlagen</string>
-  <string name="mx_activate_error_sim_change">SIM-Karte getauscht. Mi-Nachrichten reaktivieren.</string>
+  <string name="mx_activate_error_sim_change">SIM-Karte getauscht. Mi Nachrichten reaktivieren.</string>
   <string name="mx_activate_error_title">Aktivierung fehlgeschlagen</string>
   <string name="mx_activate_hint_malformed_info">Zum Reaktivieren von Mi Nachrichten wird eine evtl. gebührenpflichtige (Providerabhängig) SMS versendet</string>
   <string name="mx_activate_hint_server">Zum Reaktivieren von Mi Nachrichten wird eine evtl. gebührenpflichtige (Providerabhängig) SMS versendet</string>

@@ -112,7 +112,7 @@
   <string name="gadget_error_text">Laden des Widgets fehlgeschlagen</string>
   <string name="gadget_google_search_label">Google-Suche</string>
   <string name="gadget_load_error">Wird geladen…</string>
-  <string name="gadget_mtz_label">Mi-Gadgets </string>
+  <string name="gadget_mtz_label">Mi Gadgets </string>
   <string name="gadget_notes_label">Notizen </string>
   <string name="gadget_photo_22_label">Bild 2x2</string>
   <string name="gadget_photo_24_label">Bild 4x2</string>

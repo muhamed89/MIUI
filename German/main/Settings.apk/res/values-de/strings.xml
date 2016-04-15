@@ -1158,7 +1158,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="dndm_vip_list_custom_group">Ausnahmen</string>
   <string name="dndm_vip_list_group">Ausnahmeliste</string>
   <string name="dndm_vip_list_starred_contact">Favorit</string>
-  <string name="dndm_wristband">Aktivieren mit Mi-Band</string>
+  <string name="dndm_wristband">Aktivieren mit Mi Band</string>
   <string name="dndm_wristband_detailed">Nachtmodus einschalten, wenn das MiBand erkennt, dass Sie innerhalb einer Stunde vor der geplanten Zeit schlafen</string>
   <string name="dndm_wristband_detailed2">Nachtmodus ausschalten, wenn das MiBand erkennt, dass Sie innerhalb einer Stunde vor der geplanten Zeit aufwachen</string>
   <string name="do_not_disturb_mode">Nachtmodus</string>
@@ -1845,7 +1845,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="manage_space_text">Leerzeichen verwalten</string>
   <string name="manage_trust_agents">Vertrauenswürdige Geräte</string>
   <string name="manage_trust_agents_summary">Vertrauenswürdige Geräte anzeigen oder deaktivieren</string>
-  <string name="manage_xiaomi_router">Mi-Router Einstellungen</string>
+  <string name="manage_xiaomi_router">Mi Router Einstellungen</string>
   <string name="manageapplications_settings_summary">Installierte Apps verwalten und entfernen</string>
   <string name="manageapplications_settings_title">Apps verwalten</string>
   <string name="managed_device_admin_title">Arbeit</string>

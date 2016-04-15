@@ -701,7 +701,7 @@
   <string name="upgrade_waringing">"Sie werden nur in der Lage sein, lokale Titel abzuspielen."</string>
   <string name="valid_period">"Gültig: "</string>
   <string name="version_info">Version</string>
-  <string name="vip_auto_renew_message">Ihre Musik-Abonnement wird heute Abend automatisch verlängert. Stellen Sie sicher, dass Sie genügend Mi-Credits haben um diese Zahlung abzuschließen.</string>
+  <string name="vip_auto_renew_message">Ihre Musik-Abonnement wird heute Abend automatisch verlängert. Stellen Sie sicher, dass Sie genügend Mi Credits haben um diese Zahlung abzuschließen.</string>
   <string name="vip_auto_renew_notification_message">Fügen Sie Mi Credits um Ihr Musik-Abonnement zu verlängern.</string>
   <string name="vip_auto_renew_notification_title">Abonnement-Zahlung</string>
   <string name="vip_auto_renew_title">Abo-Verlängerung</string>
