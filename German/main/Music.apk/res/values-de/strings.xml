@@ -176,14 +176,14 @@
   <string name="download_auto_when_all_network">Nutze mobile Daten und WLAN</string>
   <string name="download_auto_when_free_network">Nutze nur WLAN</string>
   <string name="download_auto_when_free_network_summary">Zusätzliche Einstellungen für Lieblingstitel</string>
-  <string name="download_cloud_error_not_auth">Mi-Konto anmelden und versuchen Sie es erneut.</string>
+  <string name="download_cloud_error_not_auth">Mi Konto anmelden und versuchen Sie es erneut.</string>
   <string name="download_cloud_error_retryable">Mi Cloud-Fehler, versuchen Sie später noch einmal.</string>
   <string name="download_cloud_error_unknow">"Konnte keine Verbindung zur Mi Cloud hergestellt werden."</string>
   <string name="download_complete">Download abgeschlossen</string>
   <string name="download_complete_start_install">Download abgeschlossen, Installation beginnt...</string>
   <string name="download_completed">Heruntergeladen</string>
   <string name="download_confirm_button_text">Install</string>
-  <string name="download_confirm_text">Mi Music lädt und installiert %s</string>
+  <string name="download_confirm_text">Mi Musik lädt und installiert %s</string>
   <string name="download_error">Fehlgeschlagen</string>
   <string name="download_error_insufficient_space">Zu wenig Speicherplatz</string>
   <string name="download_filesize_unknown">Unbekannt</string>
@@ -262,7 +262,7 @@
   <string name="eq_preset_select">Voreinstellung auswählen</string>
   <string name="eq_rock">Rock</string>
   <string name="equalizer">Equalizer</string>
-  <string name="error_forbidden">Synchronisation wurde aufgrund von Problemen mit dem Mi-Konto deaktiviert.</string>
+  <string name="error_forbidden">Synchronisation wurde aufgrund von Problemen mit dem Mi Konto deaktiviert.</string>
   <string name="error_not_acceptable">Synchronisation ausgeschaltet.</string>
   <string name="error_title">"Synchronisation fehlgeschlagen"</string>
   <string name="error_unauthorized">Synchronisation wurde aufgrund von zu vielen Anmeldeversuche deaktiviert.</string>
@@ -342,7 +342,7 @@
   <string name="local_music">Offline</string>
   <string name="local_music_is_not_available">Lokale Titel sind nicht verfügbar.</string>
   <string name="local_tracks_short">Offline</string>
-  <string name="login_first">Zuerst mit Mi-Konto anmelden</string>
+  <string name="login_first">Zuerst mit Mi Konto anmelden</string>
   <string name="lrc_search_failed">"Songtext konnte nicht gefunden werden"</string>
   <string name="lrc_searching">Suche…</string>
   <string name="lyric">Songtexte</string>
@@ -374,8 +374,8 @@
   <string name="miuishare_account_login_cancel">Abbrechen</string>
   <string name="miuishare_account_login_confirmation">Anmeldung nötig</string>
   <string name="miuishare_account_login_ok">Anmelden</string>
-  <string name="miuishare_account_need_activate">Zum Teilen verknüpfen Sie Ihr Weibo Konto mit Ihrem Mi-Konto, welches noch nicht aktiviert wurde. Möchten Sie es jetzt aktivieren?</string>
-  <string name="miuishare_account_need_login">Zum Teilen verknüpfen Sie Ihr Weibo Konto mit Ihrem Mi-Konto.</string>
+  <string name="miuishare_account_need_activate">Zum Teilen verknüpfen Sie Ihr Weibo Konto mit Ihrem Mi Konto, welches noch nicht aktiviert wurde. Möchten Sie es jetzt aktivieren?</string>
+  <string name="miuishare_account_need_login">Zum Teilen verknüpfen Sie Ihr Weibo Konto mit Ihrem Mi Konto.</string>
   <string name="miuishare_app_name">MIUI Share</string>
   <string name="miuishare_no_network">Keine Netzwerkverbindung</string>
   <string name="miuishare_publish">Senden</string>
@@ -408,7 +408,7 @@
   <string name="music_settings">Musik</string>
   <string name="music_traffic">Musik-Datentarif</string>
   <string name="music_traffic_summary">Hören und laden Sie Titel herunter, ohne Daten zu verwenden</string>
-  <string name="my_account">Mi-Konto</string>
+  <string name="my_account">Mi Konto</string>
   <string name="my_music_empty">Die Wiedergabeliste ist leer.</string>
   <string name="my_music_empty_goto_online">Keine Titel gefunden</string>
   <string name="my_playlist">Meine Wiedergabeliste</string>
@@ -503,7 +503,7 @@
   <string name="pref_summary_no_limit_popup">Unbegrenzt</string>
   <string name="pref_title_enable_max_bytes_popup">Datenverbrauchswarnung anzeigen</string>
   <string name="preferences_title">Einstellungen</string>
-  <string name="preset_music_playlist">Mi Music Wiedergabeliste</string>
+  <string name="preset_music_playlist">Mi Musik Wiedergabeliste</string>
   <string name="presonal_center">Kontoeinstellungen</string>
   <string name="price">"Preis: "</string>
   <string name="priority_storage">Externe SD-Karte verwenden</string>
@@ -511,7 +511,7 @@
   <string name="privacy_notif_content">Antippen, um Details anzuzeigen.</string>
   <string name="privacy_notif_title">Xunlei Downloadbeschleniger ist ausgeschaltet</string>
   <string name="privacy_tip_cancel">Abbrechen</string>
-  <string name="privacy_tip_content">Xunlei Downloadbeschleniger verwenden, um Dateien herunterzuladen? Die Download-URL wird dabei auf die Xunlei Server hochgeladen. Ihre Mi-Kontodaten werden ebenfalls hochgeladen, um zu überprüfen, ob Sie diesen Dienst abonniert haben.</string>
+  <string name="privacy_tip_content">Xunlei Downloadbeschleniger verwenden, um Dateien herunterzuladen? Die Download-URL wird dabei auf die Xunlei Server hochgeladen. Ihre Mi Kontodaten werden ebenfalls hochgeladen, um zu überprüfen, ob Sie diesen Dienst abonniert haben.</string>
   <string name="privacy_tip_ok">OK</string>
   <string name="privacy_tip_title">Xunlei Downloadbeschleniger verwenden?</string>
   <string name="project_device">Mi Telefon</string>
@@ -586,10 +586,10 @@
   <string name="settings_notification_title">Benachrichtigung Schatten-Widget</string>
   <string name="share_append_text">Aus @MIUI</string>
   <string name="share_chooser_title">Teilen</string>
-  <string name="share_description">Aus Mi Music</string>
-  <string name="share_end_note">Aus Mi Music</string>
-  <string name="share_text_list">"Ich habe eine Wiedergabeliste auf Mi Music gefunden: "</string>
-  <string name="share_text_song">"Ich habe einen Titel auf Mi Music gefunden: "</string>
+  <string name="share_description">Aus Mi Musik</string>
+  <string name="share_end_note">Aus Mi Musik</string>
+  <string name="share_text_list">"Ich habe eine Wiedergabeliste auf Mi Musik gefunden: "</string>
+  <string name="share_text_song">"Ich habe einen Titel auf Mi Musik gefunden: "</string>
   <string name="show_more">%s weitere anzeigen</string>
   <string name="shuffle_off_notif">Zufallswiedergabe ist aus</string>
   <string name="shuffle_on_notif">Zufallswiedergabe ist an</string>
@@ -651,7 +651,7 @@
   <string name="title_online_suggest">Das könnte dir gefallen</string>
   <string name="title_search_history">Chronik durchsuchen</string>
   <string name="title_search_hot">Besondere Vorschläge</string>
-  <string name="to_mi_pay">MiCredits</string>
+  <string name="to_mi_pay">Mi Credits</string>
   <string name="toast_cancel_download">Download abgebrochen</string>
   <string name="toast_cancel_play">Wiedergabe abgebrochen</string>
   <string name="toast_download_error_by_count_limit">Sie haben Ihre Download-Quote für diesen Monat verbraucht.</string>
@@ -702,7 +702,7 @@
   <string name="valid_period">"Gültig: "</string>
   <string name="version_info">Version</string>
   <string name="vip_auto_renew_message">Ihre Musik-Abonnement wird heute Abend automatisch verlängert. Stellen Sie sicher, dass Sie genügend Mi-Credits haben um diese Zahlung abzuschließen.</string>
-  <string name="vip_auto_renew_notification_message">Fügen Sie MiCredits um Ihr Musik-Abonnement zu verlängern.</string>
+  <string name="vip_auto_renew_notification_message">Fügen Sie Mi Credits um Ihr Musik-Abonnement zu verlängern.</string>
   <string name="vip_auto_renew_notification_title">Abonnement-Zahlung</string>
   <string name="vip_auto_renew_title">Abo-Verlängerung</string>
   <string name="vip_renew_message">"Es ist nicht möglich Musik in hoher Qualität zu streamen, aber einige Songs werden in standard Qualität verfügbar sein."</string>

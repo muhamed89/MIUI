@@ -98,7 +98,7 @@
   <string name="copy_db">Datenbank senden</string>
   <string name="copy_email">E-Mail-Adresse kopieren</string>
   <string name="copy_number">Telefonnummer kopieren</string>
-  <string name="create_an_account_desc">"Der Kalender bietet mit einem MiKonto mehr Möglichkeiten.
+  <string name="create_an_account_desc">"Der Kalender bietet mit einem Mi Konto mehr Möglichkeiten.
 
 • Zugriff über jeden beliebigen Browser
 • Sichern von Terminen mit Schutzfunktion"</string>
@@ -201,7 +201,7 @@
   <string name="gadget_no_events">Keine anstehenden Termine</string>
   <string name="gadget_title">Kalender</string>
   <string name="goto_today">Heute</string>
-  <string name="guide_card_hint_text">Antippen um die MiCloud zu öffnen</string>
+  <string name="guide_card_hint_text">Antippen um die Mi Cloud zu öffnen</string>
   <string name="hide_controls">Steuerelemente aus</string>
   <string name="hint_attendees">Gäste</string>
   <string name="hint_description">Beschreibung</string>
@@ -384,10 +384,10 @@
   <string name="subscribe_description_card_more_launch">Ausklappen</string>
   <string name="subscribe_detail_title">Abodetails</string>
   <string name="subscribe_ed">Bereits abonniert</string>  
-  <string name="sync_notice_cancel_toast_message">"Der lokale Kalender wird nicht mit der MiCloud synchronisiert"</string>
-  <string name="sync_notice_message">Möchten Sie Ihren Kalender jetzt mit der MiCloud synchronisieren?</string>
+  <string name="sync_notice_cancel_toast_message">"Der lokale Kalender wird nicht mit der Mi Cloud synchronisiert"</string>
+  <string name="sync_notice_message">Möchten Sie Ihren Kalender jetzt mit der Mi Cloud synchronisieren?</string>
   <string name="sync_notice_ok">OK</string>
-  <string name="sync_notice_ok_toast_message">Der lokale Kalender wird mit der MiCloud synchronisiert</string>
+  <string name="sync_notice_ok_toast_message">Der lokale Kalender wird mit der Mi Cloud synchronisiert</string>
   <string name="sync_notice_title">Kalender synchronisieren</string>
   <string name="synced">Synchronisiert</string>
   <string name="tab_category">Kategorie</string>

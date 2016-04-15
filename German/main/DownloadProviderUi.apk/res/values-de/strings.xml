@@ -84,7 +84,7 @@
   <string name="download_list_get_hightspeed_flow_pay_ok">Bezahlung abgeschlossen.</string>
   <string name="download_list_get_hightspeed_flow_sucess_head">Xunlei Demo-Sitzung erstellt</string>
   <string name="download_list_get_hightspeed_flow_sucess_tail">Erleben Sie höhere Downloadgeschwindigkeiten unterstützt von Xunlei</string>
-  <string name="download_list_intoAuth">Überprüfen Sie Ihr MiKonto</string>
+  <string name="download_list_intoAuth">Überprüfen Sie Ihr Mi Konto</string>
   <string name="download_list_intoAuthAlert">Laden</string>
   <string name="download_list_open_xl_cancel">Abbrechen</string>
   <string name="download_list_open_xl_message">Der Xunlei-Beschleuniger erhöht die Downloadgeschwindigkeit.</string>
@@ -172,8 +172,8 @@
   <string name="menu_title_pause_all">Alle anhalten</string>
   <string name="menu_title_resume_all">Alle starten</string>
   <string name="menu_title_settings">Einstellungen</string>
-  <string name="mi_money">Mi-Credits</string>
-  <string name="mi_money_">Mi-Credits</string>
+  <string name="mi_money">Mi Credits</string>
+  <string name="mi_money_">Mi Credits</string>
   <string name="missing_title">&lt;Unbekannt&gt;</string>
   <string name="net_error">"Kann nicht mit Netzwerk verbinden, versuchen Sie es erneut"</string>
   <string name="network_error">"Netzwerkverbindung fehlgeschlagen"</string>
@@ -216,7 +216,7 @@
   <string name="pref_title_enable_max_bytes_popup">Downloadbenachrichtigung</string>
   <string name="preferences_title">Einstellungen</string>
   <string name="privacy_tip_cancel">Abbrechen</string>
-  <string name="privacy_tip_content">"Xunlei-Beschleuniger zum schnelleren Download nutzen? Die Download-URL wird auf die Xiaomi-Server hochgeladen. Ihre MiKonto-Details werden ebenfalls hochgeladen, um zu überprüfen, ob Sie bestimmte Dienste aktiviert haben."</string>
+  <string name="privacy_tip_content">"Xunlei-Beschleuniger zum schnelleren Download nutzen? Die Download-URL wird auf die Xiaomi-Server hochgeladen. Ihre Mi Konto-Details werden ebenfalls hochgeladen, um zu überprüfen, ob Sie bestimmte Dienste aktiviert haben."</string>
   <string name="privacy_tip_ok">OK</string>
   <string name="privacy_tip_title">Xunlei-Beschleuniger verwenden?</string>
   <string name="quit_btn">Beenden</string>
@@ -368,7 +368,7 @@ Beschleunige Downloads auf allen Ihren Geräten."</string>
   <string name="vip_speedup">Geschwindigkeitssteigerung:</string>
   <string name="web_dialog_cancel">Abbrechen</string>
   <string name="web_dialog_confirm">OK</string>
-  <string name="xiaomi_account_not_exist_message">"Mi-Konto nicht vorhanden"</string>
+  <string name="xiaomi_account_not_exist_message">"Mi Konto nicht vorhanden"</string>
   <string name="xl_annual_vip_open">Jährliche Mitgliedschaft (%1$s Mi Credits oder %2$s monatlich)</string>
   <string name="xl_annual_vip_renew">Um 1 Jahr verlängern (%1$s Mi Credits oder %2$s monatlich)</string>
   <string name="xl_bind_account">Bestehenden Xunlei Account hinzufügen </string>

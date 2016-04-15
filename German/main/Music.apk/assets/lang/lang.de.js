@@ -499,9 +499,9 @@
 	"tos": "Nutzungsbedingungen",
 	"auto_payment": "Automatisch verlängern",
 	"share_chooser_title": "Teile",
-	"share_description": "Von Mi Music",
-	"share_end_note": "Von Mi Music",
-	"share_text_list": "Ich fand eine geniale Wiedergabeliste auf Mi Music:",
-	"share_text_song": "Ich fand einen genialen Song auf Mi Music:",
+	"share_description": "Von Mi Musik",
+	"share_end_note": "Von Mi Musik",
+	"share_text_list": "Ich fand eine geniale Wiedergabeliste auf Mi Musik:",
+	"share_text_song": "Ich fand einen genialen Song auf Mi Musik:",
 	"share_append_text": "Von @小米音乐"
 }

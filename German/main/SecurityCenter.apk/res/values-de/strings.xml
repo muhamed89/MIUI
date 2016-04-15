@@ -1113,12 +1113,12 @@ Sie müssen Ihre Akku-Einstellungen ändern bevor Sie dieses Profil löschen kö
   <string name="timeshow_m">%dm</string>
   <string name="timeshow_m_s">%1$dm %2$ds</string>
   <string name="timeshow_s">%ds</string>
-  <string name="title_antivirus">Tencent’s Datenschutzbestimmungen</string>
+  <string name="title_antivirus">Tencents Datenschutzbestimmungen</string>
   <string name="title_app_lock_disable">Anwendungen sperren</string>
   <string name="title_app_update">Updates vorhanden</string>
   <string name="title_cleaner_cloudscan">Ordnernamen hochladen</string>
-  <string name="title_cloud_account">MiKonto</string>
-  <string name="title_cloud_service">MiCloud</string>
+  <string name="title_cloud_account">Mi Konto</string>
+  <string name="title_cloud_service">Mi Cloud</string>
   <string name="title_cloud_space_almost_full">Cloud-Speicher ist fast voll, es kann zu Synchronisierungsproblemen kommen</string>
   <string name="title_cloud_space_full">"Cloud-Speicher voll, Synchronisieren nicht möglich"</string>
   <string name="title_cmcc_app_check">Überprüfung unvollständig</string>

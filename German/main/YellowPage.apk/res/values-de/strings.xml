@@ -10,7 +10,7 @@
   <string name="account_type_name">Mi Konto</string>
   <string name="account_updating_device">Wird aktualisiert</string>
   <string name="account_updating_device_failed">"Anmeldung fehlgeschlagen"</string>
-  <string name="account_verify_password">"Sie verwenden diesen Dienst auf einem anderen Gerät. Zu Ihrer Sicherheit müssen Sie Ihr Mi-Konto auf diesem Gerät erneut bestätigen."</string>
+  <string name="account_verify_password">"Sie verwenden diesen Dienst auf einem anderen Gerät. Zu Ihrer Sicherheit müssen Sie Ihr Mi Konto auf diesem Gerät erneut bestätigen."</string>
   <string name="account_yellowpage_favorite">Favoriten</string>
   <string name="account_yellowpage_followed">Verlauf anzeigen</string>
   <string name="account_yellowpage_recent">Siehe Verlauf</string>
@@ -125,7 +125,7 @@ Bitte überprüfen Sie Ihre Paketnummer."</string>
   <string name="express_inquiry_serial_number_indication">Paketnummer</string>
   <string name="express_inquiry_serial_number_prefix">Nummer: %s</string>
   <string name="express_inquiry_trace">Track</string>
-  <string name="express_inquiry_trace_device_login_notice">"Sie Nutzen diesen Dienst auf einem anderen Gerät. Wenn Sie den Bestellstatus auf diesem Gerät erhalten möchten, müssen Sie Ihr Mi-Konto bestätigen."</string>
+  <string name="express_inquiry_trace_device_login_notice">"Sie Nutzen diesen Dienst auf einem anderen Gerät. Wenn Sie den Bestellstatus auf diesem Gerät erhalten möchten, müssen Sie Ihr Mi Konto bestätigen."</string>
   <string name="express_inquiry_trace_success">Tracking</string>
   <string name="express_inquiry_trace_user_notice_content">"Wir werden Sie benachrichtigen, wenn sich Ihr Bestellstatus ändert."</string>
   <string name="express_inquiry_untrace">"Nicht tracken"</string>

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abort_backup_confirm">"Sicherung nicht abgeschlossen. Trotzdem abbrechen?"</string>
-  <string name="account_contact_backup_info">Google, MiKonto und Kontaktdaten</string>
+  <string name="account_contact_backup_info">Google, Mi Konto und Kontaktdaten</string>
   <string name="account_login">Anmelden</string>
-  <string name="account_summary">Google, MiKonto und weitere Benutzerdaten sichern</string>
+  <string name="account_summary">Google, Mi Konto und weitere Benutzerdaten sichern</string>
   <string name="already_enable_encrypt">Verschlüsselung bereits aktiviert</string>
   <string name="app_name">Sicherung</string>
   <string name="apps_and_data_item_desc">Apps und Daten</string>
@@ -56,17 +56,17 @@
   <string name="cancel_backup">Anhalten</string>
   <string name="cancel_restore">Anhalten</string>
   <string name="click_to_view">Anzeigen</string>
-  <string name="cloud_app_name">MiCloud Sicherung</string>
+  <string name="cloud_app_name">Mi Cloud Sicherung</string>
   <string name="cloud_backup_hint">Um Zugriff auf die Sicherungen zu erhalten, bitte anmelden</string>
-  <string name="cloud_backup_login">Mit MiKonto anmelden</string>
-  <string name="cloud_backup_window_title">MiCloud Sicherung</string>
-  <string name="cloud_home_title">MiCloud</string>
-  <string name="cloud_item_info_summary">" (Lokal: %1$s | MiCloud: %2$s)"</string>
+  <string name="cloud_backup_login">Mit Mi Konto anmelden</string>
+  <string name="cloud_backup_window_title">Mi Cloud Sicherung</string>
+  <string name="cloud_home_title">Mi Cloud</string>
+  <string name="cloud_item_info_summary">" (Lokal: %1$s | Mi Cloud: %2$s)"</string>
   <string name="cloud_last_backup">"Zuletzt gesichert am"</string>
   <string name="cloud_no_backup">Keine Sicherungen</string>
   <string name="cloud_restore_guide">Um Benutzerdaten für %s wiederherzustellen, Start drücken</string>
   <string name="cloud_restore_title">Sicherung wiederherstellen</string>
-  <string name="cloud_restore_window_title">MiCloud Wiederherstellung</string>
+  <string name="cloud_restore_window_title">Mi Cloud Wiederherstellung</string>
   <string name="cloud_search">Suche…</string>
   <string name="compute_backup_info">Sicherungsinfo abfragen…</string>
   <string name="compute_delete_contact_info">Suche nach zu löschenden Kontakten…</string>
@@ -91,8 +91,8 @@
   <string name="enable_encrypt_fail">Verschlüsselung fehlgeschlagen</string>
   <string name="enable_encrypt_indicator">Zum Verschlüsseln berühren</string>
   <string name="enable_encrypt_ok">OK</string>
-  <string name="enable_encrypt_summery1">Mit MiKonto anmelden, um verschlüsselte Sicherungen verwenden zu können.</string>
-  <string name="enable_encrypt_summery2">"Sicherungen werden automatisch verschlüsselt. Mit MiKonto anmelden, um verschlüsselte Sicherungen verwenden zu können."</string>
+  <string name="enable_encrypt_summery1">Mit Mi Konto anmelden, um verschlüsselte Sicherungen verwenden zu können.</string>
+  <string name="enable_encrypt_summery2">"Sicherungen werden automatisch verschlüsselt. Mit Mi Konto anmelden, um verschlüsselte Sicherungen verwenden zu können."</string>
   <string name="enable_encrypt_title">Verschlüsselung einschalten</string>
   <string name="enable_encrypt_xiaomi_account">Sicherung wurde von %1$s erstellt. Zum Wiederherstellen das aktuelle Konto löschen und als %2$s anmelden.</string>
   <string name="err_authentication_failed">Authentifikation fehlgeschlagen</string>
@@ -113,14 +113,14 @@
   <string name="file_uploading">Hochladen…</string>
   <string name="files_backup_info">Alle Dateien auf der SD-Karte (inkl. Fotos, Musik, Videos, App-Daten, usw.)</string>
   <string name="findlost_contact">Kontakte wiederherstellen</string>
-  <string name="findlost_contact_online">Kontakte aus der MiCloud wiederherstellen</string>
+  <string name="findlost_contact_online">Kontakte aus der Mi Cloud wiederherstellen</string>
   <string name="guarded_mode_dialog_backup_message">Backups sind im Gastmodus nicht erlaubt.</string>
   <string name="guarded_mode_dialog_title">"Sie befinden sich im Gastmodus"</string>
   <string name="guarded_mode_dialog_transfer_message">Mi Mover kann im Gastmodus nicht verwendet werden.</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Mi Talk herunterladen und anmelden.
 \u0009http://www.miliao.com
 
-2.\u0009In die MiTalk-Einstellungen wechseln und ”Kontakte im MiKonto sichern” wählen""</string>
+2.\u0009In die MiTalk-Einstellungen wechseln und ”Kontakte im Mi Konto sichern” wählen""</string>
   <string name="import_from_xiaomi_account_hint2">Falls Sicherung bereits vorhanden ist, weiter drücken.</string>
   <string name="import_from_xiaomi_account_hint_title">MiTalk verwenden, um Kontakte auf anderen Geräten wiederherzustellen.</string>
   <string name="local_app_name">Sicherungen</string>
@@ -186,9 +186,9 @@
   <string name="sc_internal_server_error">Interner Serverfehler</string>
   <string name="sc_network_unavailable">Netzwerkverbindungsfehler</string>
   <string name="sc_others">Es ist ein Fehler aufgetreten</string>
-  <string name="sc_precondition_failed">Mi-Konto muss mit einer gültigen E-Mail-Adresse verknüpft sein</string>
+  <string name="sc_precondition_failed">Mi Konto muss mit einer gültigen E-Mail-Adresse verknüpft sein</string>
   <string name="sc_request_timeout">Zeitüberschreitung der Anforderung</string>
-  <string name="sc_service_unavailable">MiCloud nicht verfügbar</string>
+  <string name="sc_service_unavailable">Mi Cloud nicht verfügbar</string>
   <string name="sc_unaccess_password_file">"WLAN-Kennwörter nicht speichern"</string>
   <string name="sc_unauthorized">Bitte erneut anmelden</string>
   <string name="sd_not_available">Keine SD-Karte gefunden</string>
@@ -212,9 +212,9 @@
   <string name="state_mounting">Zugriff auf Ihren Routerspeicher…</string>
   <string name="state_waiting">Einen Moment…</string>
   <string name="succeed">Abgeschlossen</string>
-  <string name="summary_err_backup_encrypting">Melden Sie sich bei Ihrem MiKonto an.</string>
+  <string name="summary_err_backup_encrypting">Melden Sie sich bei Ihrem Mi Konto an.</string>
   <string name="summary_err_backup_no_network">"Netzwerkverbindung fehlgeschlagen"</string>
-  <string name="summary_err_restore_encrypting">"Wiederherstellung fehlgeschlagen. Stellen Sie sicher, dass diese Sicherung mit Ihrem MiKonto erstellt wurde."</string>
+  <string name="summary_err_restore_encrypting">"Wiederherstellung fehlgeschlagen. Stellen Sie sicher, dass diese Sicherung mit Ihrem Mi Konto erstellt wurde."</string>
   <string name="summary_err_restore_no_network">"Netzwerkverbindung fehlgeschlagen"</string>
   <string name="system_backup">Sicherung</string>
   <string name="system_backup_info">Systemeinstellungen und Desktop-Layout</string>

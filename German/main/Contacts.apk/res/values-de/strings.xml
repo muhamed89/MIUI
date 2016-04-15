@@ -28,8 +28,8 @@
   <string name="add_organization">Organisation hinzufügen</string>
   <string name="add_to_my_contacts">Zu meinen Kontakten hinzufügen</string>
   <string name="add_wait">Warten einfügen</string>
-  <string name="add_xiaomi_account_dialog_btn">MiKonto benutzen</string>
-  <string name="add_xiaomi_account_dialog_msg">MiKonto zum Synchronisieren Ihrer Kontakte nutzen, um von überall darauf zuzugreifen</string>
+  <string name="add_xiaomi_account_dialog_btn">Mi Konto benutzen</string>
+  <string name="add_xiaomi_account_dialog_msg">Mi Konto zum Synchronisieren Ihrer Kontakte nutzen, um von überall darauf zuzugreifen</string>
   <string name="add_xiaomi_account_dialog_title">Konto auswählen</string>
   <string name="aggregation_suggestion_edit_dialog_message">Zur Bearbeitung des ausgewählten Kontakts wechseln? Die bisher eingegebenen Informationen werden kopiert.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Ausgewählte Kontakte bearbeiten</string>
@@ -156,11 +156,11 @@
   <string name="close_dial_pad">Tastatur schließen</string>
   <string name="cloud_antispam_mark">Als Spam markieren</string>
   <string name="cloud_antispam_title">Unbekannte Nummern identifizieren</string>
-  <string name="cloud_recommend_msg">Tippen, um Kontakte mit MiCloud zu synchronisieren</string>
-  <string name="cloud_state_disabled">Synchronisieren mit MiCloud ist deaktiviert</string>
+  <string name="cloud_recommend_msg">Tippen, um Kontakte mit Mi Cloud zu synchronisieren</string>
+  <string name="cloud_state_disabled">Synchronisieren mit Mi Cloud ist deaktiviert</string>
   <string name="cloud_state_loading">Bitte warten…</string>
-  <string name="cloud_state_sync_finished">Synchronisieren mit MiCloud</string>
-  <string name="cloud_state_syncing">Mit MiCloud synchronisiert</string>
+  <string name="cloud_state_sync_finished">Synchronisieren mit Mi Cloud</string>
+  <string name="cloud_state_syncing">Mit Mi Cloud synchronisiert</string>
   <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
   <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
@@ -194,7 +194,7 @@
   <string name="contact_detail_miprofile_accept_fail_toast">Kontaktkarte konnte nicht abgerufen werden</string>
   <string name="contact_detail_miprofile_accept_success_toast">Kontaktkarten ausgetauscht</string>
   <string name="contact_detail_miprofile_binded_label">Hinzugefügt</string>
-  <string name="contact_detail_miprofile_exchange_closed">Es ist keine Telefonnummer mit diesem MiKonto verknüpft.
+  <string name="contact_detail_miprofile_exchange_closed">Es ist keine Telefonnummer mit diesem Mi Konto verknüpft.
 Kontaktkarten sind ausgeschaltet.</string>
   <string name="contact_detail_miprofile_privacy_settings">Zum Anzeigen ist eine Berechtigung erforderlich</string>
   <string name="contact_detail_miprofile_request">Kontaktkarten austauschen</string>
@@ -465,7 +465,7 @@ Grund: \"%s\"."</string>
   <string name="import_all_vcard_string">Alle vCard-Dateien importieren</string>
   <string name="import_contact_card_button">Kontakt importieren</string>
   <string name="import_failure_no_vcard_file">Keine vCard-Dateien im Speicher gefunden.</string>
-  <string name="import_from_onekey_migrate">Über MiMover importieren</string>
+  <string name="import_from_onekey_migrate">Über Mi Mover importieren</string>
   <string name="import_from_other_phone">Von anderem Telefon importieren</string>
   <string name="import_from_sdcard">Aus Speicher importieren</string>
   <string name="import_from_sim">Von SIM-Karte importieren</string>
@@ -481,13 +481,13 @@ Grund: \"%s\"."</string>
   <string name="import_to_xiaomi_account_confirm">Importieren</string>
   <string name="import_to_xiaomi_account_progress_finish">Importieren abgeschlossen</string>
   <string name="import_to_xiaomi_account_progress_message">Importiere…</string>
-  <string name="import_to_xiaomi_account_progress_title">Kontakte in MiKonto importieren</string>
-  <string name="import_to_xiaomi_account_title">Sollen die folgenden Kontakte in Ihrem MiKonto importiert werden?</string>
+  <string name="import_to_xiaomi_account_progress_title">Kontakte in Mi Konto importieren</string>
+  <string name="import_to_xiaomi_account_title">Sollen die folgenden Kontakte in Ihrem Mi Konto importiert werden?</string>
   <string name="import_vcard_description">"Kontakte von USB-Speicher importieren"</string>
   <string name="import_weibo_dialog_title">Weibo Kontakte importieren</string>
   <string name="import_weibo_error_no_matched_contacts">Keine übereinstimmenden Kontakte</string>
   <string name="import_weibo_error_no_network">Netzwerkfehler</string>
-  <string name="import_weibo_error_no_xiaomi_phone">Keine Telefonnummern in Ihrem MiKonto gespeichert</string>
+  <string name="import_weibo_error_no_xiaomi_phone">Keine Telefonnummern in Ihrem Mi Konto gespeichert</string>
   <string name="import_weibo_error_unknown">Unbekannter Fehler</string>
   <string name="import_weibo_error_user_cancel">Abgebrochen</string>
   <string name="import_weibo_fetch_followers">Kontakte abrufen…</string>
@@ -629,11 +629,11 @@ Grund: \"%s\"."</string>
   <string name="menu_viewContact">Kontakt anzeigen</string>
   <string name="merge_contact_message">%1$d Kontakte mit teilweise identischen Daten</string>
   <string name="messageShortcutActivityTitle">Nummer für Nachricht auswählen</string>
-  <string name="miprofile_account_type">MiKonto</string>
+  <string name="miprofile_account_type">Mi Konto</string>
   <string name="miprofile_alertdialog_edit">Name eingeben</string>
   <string name="miprofile_alertdialog_message">Diesen Namen anzeigen, wenn Sie Karten austauschen möchten</string>
   <string name="miprofile_alertdialog_title">Name eingeben</string>
-  <string name="miprofile_bind_account_alertdialog_message">Sie müssen diese Telefonnummer zu Ihrem MiKonto hinzufügen, um diese Funktion nutzen zu können</string>
+  <string name="miprofile_bind_account_alertdialog_message">Sie müssen diese Telefonnummer zu Ihrem Mi Konto hinzufügen, um diese Funktion nutzen zu können</string>
   <string name="miprofile_bind_account_alertdialog_positive">Nummer hinzufügen</string>
   <string name="miprofile_bind_account_alertdialog_title">Telefonnummer hinzufügen</string>
   <string name="miprofile_contact_add">Hinzufügen</string>
@@ -643,7 +643,7 @@ Grund: \"%s\"."</string>
   <string name="miprofile_contact_verifying">Wird überprüft</string>
   <string name="miprofile_edit_title">Profil bearbeiten</string>
   <string name="miprofile_error_accept_self">Sie können Ihre eigene Kontaktkarte nicht austauschen</string>
-  <string name="miprofile_error_no_miaccount">Bei Ihrem MiKonto anmelden</string>
+  <string name="miprofile_error_no_miaccount">Bei Ihrem Mi Konto anmelden</string>
   <string name="miprofile_error_not_opened">Kontaktkarten ausschalten</string>
   <string name="miprofile_error_not_set">Ihre Kontaktkarte wurde nicht mit dem Server synchronisiert</string>
   <string name="miprofile_error_unknown">Unbekannter Fehler</string>

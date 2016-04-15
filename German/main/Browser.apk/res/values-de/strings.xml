@@ -267,10 +267,10 @@
   <string name="error_console_eval_text_hint">JavaScript auswerten</string>
   <string name="error_console_header_text_maximized">JavaScript Konsole</string>
   <string name="error_console_header_text_minimized">Zeige JavaScript Konsole</string>
-  <string name="error_forbidden">Die Synchronisation wurde aufgrund Problemen mit Ihrem Mi-Konto deaktiviert.</string>
+  <string name="error_forbidden">Die Synchronisation wurde aufgrund Problemen mit Ihrem Mi Konto deaktiviert.</string>
   <string name="error_not_acceptable">Synchronisation ist deaktiviert.</string>
   <string name="error_title">"Synchronisation fehlgeschlagen"</string>
-  <string name="error_unauthorized">Die Synchronisation mit Ihrem Mi-Konto wurde aufgrund mehrerer Anmeldeversuche deaktiviert.</string>
+  <string name="error_unauthorized">Die Synchronisation mit Ihrem Mi Konto wurde aufgrund mehrerer Anmeldeversuche deaktiviert.</string>
   <string name="exit_browser_warning">Browser jetzt verlassen?</string>
   <string name="file_dir">Verzeichnis</string>
   <string name="file_name">Name</string>

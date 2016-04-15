@@ -213,9 +213,9 @@ Um Root-Zugriff zu erhalten müssen Sie die Entwickler-Version von MIUI installi
   <string name="HIPS_Perm_Wakelock">Schlafen</string>
   <string name="HIPS_Perm_Wakelock_Desc">den Schlafmodus des Geräts verhindern</string>
   <string name="HIPS_Perm_Wakelock_Hint">%1$s Apps dürfen den Schlafmodus des Geräts verhindern</string>
-  <string name="HIPS_Perm_Xiaomi_Account">Mi-Konto</string>
+  <string name="HIPS_Perm_Xiaomi_Account">Mi Konto</string>
   <string name="HIPS_Perm_Xiaomi_Account_Desc">Zugriff auf Ihr Mi Konto erhalten</string>
-  <string name="HIPS_Perm_Xiaomi_Account_Hint">%1$s Apps haben Zugriff auf Ihr Mi-Konto</string>
+  <string name="HIPS_Perm_Xiaomi_Account_Hint">%1$s Apps haben Zugriff auf Ihr Mi Konto</string>
   <string name="HIPS_Perm_add_voicemail">Sprachaufzeichnung</string>
   <string name="HIPS_Perm_add_voicemail_Desc">Sprachaufzeichnungen hinzufügen</string>
   <string name="HIPS_Perm_get_accounts">Zugangskonten auf dem Gerät</string>

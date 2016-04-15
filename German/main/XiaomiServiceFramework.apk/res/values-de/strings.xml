@@ -54,9 +54,9 @@ Geben Sie die zugehörige Telefonnummer  ein, um %s zu reaktiviren"</string>
   <string name="activate_popup_desc_new_mixed_sim_cards">Ihre SIM-Karten wurden gewechselt. Um die 2 neuen SIM-Karten zu aktivieren wird eine SMS und eine internationale SMS verschickt, damit Funktionen wie %s verwendet werden können (Tarif Ihres Mobilfunkanbieters).</string>
   <string name="activate_popup_desc_new_sim_card">Ihre SIM-Karte wurde gewechselt. Um die neue SIM-Karte zu aktivieren wird eine SMS verschickt, damit Funktionen wie %s verwendet werden können (Tarif Ihres Mobilfunkanbieters).</string>
   <string name="activate_popup_desc_new_sim_card_downlink">Ihre SIM-Karte wurde gewechselt. Damit Funktionen wie %s verwendet werden können, geben Sie bitte die Nummer Ihrer SIM-Karte ein.</string>
-  <string name="activate_popup_desc_register_account">Zum registrieren Ihres Mi-Kontos wird eine SMS verschickt</string>
-  <string name="activate_popup_desc_register_account_downlink">Um Ihr Mi-Konto zu registrieren, geben Sie bitte die Nummer Ihrer SIM-Karte ein</string>
-  <string name="activate_popup_desc_register_account_intl">Zum registrieren Ihres Mi-Kontos wird eine internationale SMS verschickt</string>
+  <string name="activate_popup_desc_register_account">Zum registrieren Ihres Mi Kontos wird eine SMS verschickt</string>
+  <string name="activate_popup_desc_register_account_downlink">Um Ihr Mi Konto zu registrieren, geben Sie bitte die Nummer Ihrer SIM-Karte ein</string>
+  <string name="activate_popup_desc_register_account_intl">Zum registrieren Ihres Mi Kontos wird eine internationale SMS verschickt</string>
   <string name="activate_popup_desc_sim_card">Damit Funktionen wie %s verwendet werden können, wird eine SMS zum aktivieren Ihrer SIM-Karte verschickt (Tarif Ihres Mobilfunkanbieters)</string>
   <string name="activate_popup_desc_sim_card_downlink">Damit Funktionen wie %s verwendet werden können, geben Sie bitte die Nummer Ihrer SIM-Karte ein</string>
   <string name="activate_popup_desc_voip_privacy">Datenschutzerklärung</string>
@@ -71,11 +71,11 @@ Geben Sie die zugehörige Telefonnummer  ein, um %s zu reaktiviren"</string>
   <string name="activate_popup_title_failed_server">Aktivierung fehlgeschlagen</string>
   <string name="activate_popup_title_manual">%s aktivieren</string>
   <string name="activate_popup_title_new_sim_card">%s reaktivieren</string>
-  <string name="activate_popup_title_register_account">MiKonto erstellen</string>
+  <string name="activate_popup_title_register_account">Mi Konto erstellen</string>
   <string name="activate_status_desc_acquire_phone_number">Telefonnummer vom Server abfragen</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Während der Abfrage der Telefonnummer ist ein Serverfehler aufgetreten</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">Telefonnummer konnte nicht abgerufen werden</string>
-  <string name="activate_status_desc_checking_xiaomi_account">MiKonto wird erstellt</string>
+  <string name="activate_status_desc_checking_xiaomi_account">Mi Konto wird erstellt</string>
   <string name="activate_status_desc_checking_xiaomi_account_server_error">Bei der Prüfung des Mi Kontos ist ein Serverfehler aufgetreten</string>
   <string name="activate_status_desc_completed_with_sms_sent">SMS zur SIM-Aktivierung gesendet</string>
   <string name="activate_status_desc_device_id_error">Ungültige IMEI Nummer</string>
@@ -88,7 +88,7 @@ Geben Sie die zugehörige Telefonnummer  ein, um %s zu reaktiviren"</string>
   <string name="activate_status_desc_query_activation_info_server_error">Während der Aktivierung Ihres Kontos trat ein Fehler mit dem Server auf</string>
   <string name="activate_status_desc_registering_sim_account">SIM-Karte mit Ihrem Konto verknüpfen</string>
   <string name="activate_status_desc_registering_sim_account_server_error">Bei der Registrierung der SIM-Karte ist ein Serverfehler aufgetreten</string>
-  <string name="activate_status_desc_registering_xiaomi_account">Registriere Mi-Konto</string>
+  <string name="activate_status_desc_registering_xiaomi_account">Registriere Mi Konto</string>
   <string name="activate_status_desc_registering_xiaomi_account_server_error">Bei dem Erstellen des Mi Kontos ist ein Serverfehler aufgetreten</string>
   <string name="activate_status_desc_request_activation_sms">Anforderung einer Aktivierungs-SMS vom Server auf Ihr Handy</string>
   <string name="activate_status_desc_request_activation_sms_server_error">Bei der Anforderung einer Aktivierungs-SMS vom Server auf Ihr Handy ist ein Serverfehler aufgetreten</string>

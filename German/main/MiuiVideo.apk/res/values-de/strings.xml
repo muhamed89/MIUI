@@ -221,7 +221,7 @@
   <string name="need_upgrade_title">Neue Version verfügbar</string>
   <string name="negative_comment">Negativ</string>
   <string name="netease">NetEase</string>
-  <string name="no_login_xiaomi_account">Um Kommentare zu schreiben, melden Sie sich bei Ihrem MiKonto an.</string>
+  <string name="no_login_xiaomi_account">Um Kommentare zu schreiben, melden Sie sich bei Ihrem Mi Konto an.</string>
   <string name="no_longer_tips">"Nicht mehr anzeigen"</string>
   <string name="no_pay_record">Kein Zahlungsverlauf</string>
   <string name="no_sdcard_no_download">Nicht genügend Speicherplatz.</string>
@@ -495,7 +495,7 @@
   <string name="waiting_to_download">Warte</string>
   <string name="wasu">Wasu</string>
   <string name="write_comment">Kommentar hinzufügen</string>
-  <string name="xiaomi_account_type_unsupported">"Mi-Konto wird nicht unterstützt"</string>
+  <string name="xiaomi_account_type_unsupported">"Mi Konto wird nicht unterstützt"</string>
   <string name="xiaomi_user">Benutzer</string>
   <string name="yinyuetai">YinYueTai</string>
   <string name="youku">Youku</string>

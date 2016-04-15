@@ -3,7 +3,7 @@
   <string name="about_to_recover">Einen Moment…</string>
   <string name="app_name">Startbildschirmlayout sichern​</string>
   <string name="as_new_device">Vorherige Einstellungen und Startbildschirm ersetzen</string>
-  <string name="as_new_device_summary">Vorherige MiCloud Sicherungen löschen</string>
+  <string name="as_new_device_summary">Vorherige Mi Cloud Sicherungen löschen</string>
   <string name="back_up_task_in_process">Sichern…</string>
   <string name="back_up_task_unfinished">Sicherung nicht vollständig</string>
   <string name="backing_up_to_micloud">Sichern…</string>
@@ -18,7 +18,7 @@
   <string name="cancel_recover_settings"><u>Abbrechen</u></string>
   <string name="click_try_to_restore_again">Tippen, um es erneut zu versuchen</string>
   <string name="cloud_app_backup_success">Appsicherung abgeschlossen</string>
-  <string name="cloud_app_check_data">MiCloud wird verbunden…</string>
+  <string name="cloud_app_check_data">Mi Cloud wird verbunden…</string>
   <string name="cloud_app_current_device">Aktuelles Gerät</string>
   <string name="cloud_app_dont_restore">Nicht wiederherstellen</string>
   <string name="cloud_app_no_data">Keine vorherigen Appinstallationen gefunden</string>
@@ -30,14 +30,14 @@
   <string name="cloud_app_restore_success">Apps wiederhergestellt</string>
   <string name="cloud_app_restore_wifi_prompt">Um die App wiederherzustellen, stellen Sie eine WLAN-Verbindung her</string>
   <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
-  <string name="cloud_back_up_detail_discription">"Folgende Daten werden in Ihrer MiCloud gesichert, wenn eine WLAN-Verbindung besteht: 
+  <string name="cloud_back_up_detail_discription">"Folgende Daten werden in Ihrer Mi Cloud gesichert, wenn eine WLAN-Verbindung besteht: 
 *\u0009\u0009\u0009\u0009Apps und das Startbildschirmlayout 
 *\u0009\u0009\u0009\u0009Klingeltöne, Hintergrundbilder und Schriftarten 
 *\u0009\u0009\u0009\u0009Wecker und Zeiteinstellungen 
 *\u0009\u0009\u0009\u0009Benachrichtigungseinstellungen 
 *\u0009\u0009\u0009\u0009Einstellungen des \"Bitte nicht stören Modus\" 
 *\u0009\u0009\u0009\u0009MIUI und Systemeinstellungen 
-Wichtig: Die Daten der einzelnen Apps werden dabei nicht in der MiCloud gesichert."</string>
+Wichtig: Die Daten der einzelnen Apps werden dabei nicht in der Mi Cloud gesichert."</string>
   <string name="cloud_back_up_frequence_choice_title">Sicherungszeitplan</string>
   <string name="cloud_back_up_frequence_long">Alle 7 Tage</string>
   <string name="cloud_back_up_frequence_short">Täglich</string>
@@ -54,11 +54,11 @@ Wichtig: Die Daten der einzelnen Apps werden dabei nicht in der MiCloud gesicher
   <string name="cloud_backup_detail_frequence_day">%1$s einmalig sichern</string>
   <string name="cloud_backup_detail_manage">Sicherung verwalten</string>
   <string name="cloud_backup_detail_manage_summary">%1$s Sicherung, belegte Größe:%2$s</string>
-  <string name="cloud_backup_detail_state">MiCloud Sicherung</string>
+  <string name="cloud_backup_detail_state">Mi Cloud Sicherung</string>
   <string name="cloud_backup_detail_state_summary">Apps, Startbildschirm und Systemeinstellungen</string>
   <string name="cloud_backup_detail_time">, Sicherungsdatum:%1$s</string>
-  <string name="cloud_backup_have_data">Sicherung gefunden auf der MiCloud</string>
-  <string name="cloud_backup_select_recover">Wählen Sie Sicherung auf der MiCloud</string>
+  <string name="cloud_backup_have_data">Sicherung gefunden auf der Mi Cloud</string>
+  <string name="cloud_backup_select_recover">Wählen Sie Sicherung auf der Mi Cloud</string>
   <string name="cloud_restore_from_other_device">"Wiederherstellung von %s abbrechen und Sicherung löschen? Diese Aktion kann nicht rückgängig gemacht werden."</string>
   <string name="cloud_restore_task">Wiederherstellen…</string>
   <string name="cloud_task_in_process">"%s abbrechen und Sicherung löschen? Diese Aktion kann nicht rückgängig gemacht werden."</string>
@@ -90,10 +90,10 @@ Wichtig: Die Daten der einzelnen Apps werden dabei nicht in der MiCloud gesicher
   <string name="open_wifi_description">Um Apps wiederherzustellen, verbinden Sie sich mit einem WLAN-Netzwerk</string>
   <string name="open_wifi_setting">WLAN-Einstellungen</string>
   <string name="process_whole_recovery">Wiederherstellung \"%s\"</string>
-  <string name="query_restore_back_view">MiCloud Sicherung</string>
+  <string name="query_restore_back_view">Mi Cloud Sicherung</string>
   <string name="query_restore_description">Startbildschirm, Apps und Einstellungen aus dieser Sicherung wiederherstellen. Apps die bereits vorhanden sind, werden dabei überschrieben. Apps die nicht in der Sicherung enthalten sind, werden auf den letzten Startbildschirm verschoben.</string>
-  <string name="query_restore_summary">Eine MiCloud Sicherung wurde für dieses Gerät gefunden. Startbildschirmapps und Einstellungen aus der Sicherung wiederherstellen oder dieses Gerät als Neu behandeln und alle älteren Sicherungen löschen?</string>
-  <string name="recover_from_micloud">Wiederherstellung aus der MiCloud</string>
+  <string name="query_restore_summary">Eine Mi Cloud Sicherung wurde für dieses Gerät gefunden. Startbildschirmapps und Einstellungen aus der Sicherung wiederherstellen oder dieses Gerät als Neu behandeln und alle älteren Sicherungen löschen?</string>
+  <string name="recover_from_micloud">Wiederherstellung aus der Mi Cloud</string>
   <string name="recover_home_settings">Startbildschirmeinstellungen wiederherstellen</string>
   <string name="recover_miui_settings">Systemeinstellungen wiederherstellen</string>
   <string name="recover_settings_description">Gerät nicht ausschalten</string>
@@ -101,14 +101,14 @@ Wichtig: Die Daten der einzelnen Apps werden dabei nicht in der MiCloud gesicher
   <string name="remove_task_in_process">Entfernen…</string>
   <string name="remove_task_unfinished">Entfernen fehlgeschlagen</string>
   <string name="restore_data_summary">Diese Funktion benötigt eine Internetverbindung.</string>
-  <string name="restore_from_cloud">Wiederherstellung aus der MiCloud</string>
+  <string name="restore_from_cloud">Wiederherstellung aus der Mi Cloud</string>
   <string name="restore_from_this_device">Diese Sicherung wiederherstellen</string>
-  <string name="restore_home_screen_apps">Wiederherstellen mit einer Sicherung aus der MiCloud</string>
+  <string name="restore_home_screen_apps">Wiederherstellen mit einer Sicherung aus der Mi Cloud</string>
   <string name="restoreing_file_tile">%d Dateien wiederherstellen</string>
   <string name="retry">Wiederholen</string>
   <string name="self_phone">Dieses Telefon</string>
   <string name="settings_backup">Systemeinstellungen</string>
-  <string name="start_backup_to_micloud">Apps in der MiCloud sichern</string>
+  <string name="start_backup_to_micloud">Apps in der Mi Cloud sichern</string>
   <string name="start_recover">%s wiederherstellen</string>
   <string name="success_open_cloudbackup">Sicherung der Startbildschirmapps aktiviert</string>
   <string name="wait_icon_download">Appicons herunterladen</string>

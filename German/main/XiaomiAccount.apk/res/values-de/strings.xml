@@ -15,7 +15,7 @@
   <string name="account_crop_user_avatar">Foto zuschneiden</string>
   <string name="account_dspt_provision">"Verwenden Sie das Mi Konto zum Anmelden an der Mi Cloud, dem MIUI-Theme-Store und weiteren Diensten."</string>
   <string name="account_dspt_provision2">Mehr erfahren</string>
-  <string name="account_empty_user_name">MiKonto Benutzername eingeben</string>
+  <string name="account_empty_user_name">Mi Konto Benutzername eingeben</string>
   <string name="account_error_longer_user_name">"Maximal 20 Zeichen"</string>
   <string name="account_error_shorter_user_name">Der Name muss mehr als 2 Zeichen haben</string>
   <string name="account_error_user_birthday">Der von Ihnen eingegebene Geburtstag ist ungültig</string>
@@ -72,7 +72,7 @@
   <string name="bind_sns_description">Vervollständigen Sie Ihr Profil mit Ihren persönlichen Informationen über %s</string>
   <string name="bind_weibo_description">Finden und synchronisieren Sie Ihre Freunde von Sina Weibo</string>
   <string name="binded">Hinzugefügt</string>
-  <string name="binded_description" formatted="false">%s wurde Ihrem MiKonto hinzugefügt. Ihr Profil wurde mit Infos aus Ihrem %s-Konto aktualisiert.</string>
+  <string name="binded_description" formatted="false">%s wurde Ihrem Mi Konto hinzugefügt. Ihr Profil wurde mit Infos aus Ihrem %s-Konto aktualisiert.</string>
   <string name="btn_return">Zurück</string>
   <string name="button_cancel">Abbrechen</string>
   <string name="button_unbind">Abmelden</string>
@@ -251,7 +251,7 @@
   <string name="passport_login_check_find_device">Gerätelokalisierungstatus wird überprüft…</string>
   <string name="passport_login_check_find_device_failed">"Gerätelokalisierungstatus konnte nicht überprüft werden. Überprüfen Sie Ihre Netzwerkverbindung."</string>
   <string name="passport_login_failed">Anmeldung nicht möglich</string>
-  <string name="passport_login_find_device_bind">Dieses Gerät ist mit einem MiKonto verbunden (%s). Melden Sie sich an, um dieses Gerät zu aktivieren.</string>
+  <string name="passport_login_find_device_bind">Dieses Gerät ist mit einem Mi Konto verbunden (%s). Melden Sie sich an, um dieses Gerät zu aktivieren.</string>
   <string name="passport_login_instead_reg">Diese Nummer verwenden</string>
   <string name="passport_login_instead_reg_with_email">Diese E-Mail verwenden</string>
   <string name="passport_login_notice">Anmelden…</string>
@@ -331,7 +331,7 @@
   <string name="passport_xiaomi_account_dspt">Nutzen Sie Ihr Mi Konto um überall auf die Mi Cloud, den MIUI Theme Store und weitere Dienste zuzugreifen.</string>
   <string name="passport_xiaomi_account_sec_dspt"/>
   <string name="passport_xiaomi_account_sec_dspt2">Zur Anmeldung deines Mi Kontos wird eine Internetverbindung benötigt. Anschließend wird die Standortbestimmung, die Mi Cloud und Mi VIP automatisch eingeschaltet.</string>
-  <string name="passport_xiaomi_account_sec_dspt2_vip">Anmelden bei Ihrem MiKonto erfordert eine Internetverbindung. Darüber hinaus werden Zugangsdaten wie, Mi-Cloud und Mi-VIP automatisch aktiviert.</string>
+  <string name="passport_xiaomi_account_sec_dspt2_vip">Anmelden bei Ihrem Mi Konto erfordert eine Internetverbindung. Darüber hinaus werden Zugangsdaten wie, Mi Cloud und Mi-VIP automatisch aktiviert.</string>
   <string name="password">Passwort eingeben</string>
   <string name="phone_activated">%s aktiviert</string>
   <string name="phone_send_verify_code_prompt">Sende Bestätigungscode an %s</string>

@@ -54,7 +54,7 @@
   <string name="privacy_notif_content">Berühren, um Details anzuzeigen.</string>
   <string name="privacy_notif_title">Xunlei-Downloadbeschleuniger ist an</string>
   <string name="privacy_tip_cancel">Abbrechen</string>
-  <string name="privacy_tip_content">"Xunlei-Beschleuniger zum schnelleren Download verwenden? Die Download-URL wird auf die Xiaomi-Server hochgeladen. Ihre MiKonto-Details werden ebenfalls hochgeladen, um zu überprüfen, ob Sie bestimmte Dienste aktiviert haben."</string>
+  <string name="privacy_tip_content">"Xunlei-Beschleuniger zum schnelleren Download verwenden? Die Download-URL wird auf die Xiaomi-Server hochgeladen. Ihre Mi Konto-Details werden ebenfalls hochgeladen, um zu überprüfen, ob Sie bestimmte Dienste aktiviert haben."</string>
   <string name="privacy_tip_ok">OK</string>
   <string name="privacy_tip_title">Benutze Xunlei Accelerator?</string>
   <string name="recommended_file_size_download_in_mobile">%s der Mobilen Daten verwenden um diese Datei runterzuladen?</string>

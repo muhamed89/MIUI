@@ -75,7 +75,7 @@ Zuletzt gesichert am %2$s"</string>
   <string name="error_unauthorized">Synchronisation wurde abgeschalten, wegen zu vieler Log-In Versuche.</string>
   <string name="error_unknown">"Anmeldung fehlgeschlagen"</string>
   <string name="find_device">Gerät suchen</string>
-  <string name="find_device_disabled_notice">"Sie können diese Funtion jederzeit in den Mi-Cloud Einstellungen ein- oder ausschalten."</string>
+  <string name="find_device_disabled_notice">"Sie können diese Funtion jederzeit in den Mi Cloud Einstellungen ein- oder ausschalten."</string>
   <string name="find_device_disabled_title">Gerätesuche ist ausgeschaltet</string>
   <string name="find_device_disabling">Schalte aus…</string>
   <string name="find_device_dspt">Finden, Sperren oder Zurücksetzen deines Gerätes aus der Ferne</string>
@@ -130,9 +130,9 @@ Zuletzt gesichert am %2$s"</string>
   <string name="micloud_battery_low_notification_message">Zum Synchronisieren Aufladegerät verbinden</string>
   <string name="micloud_battery_low_notification_title">Geringer Akkustand</string>
   <string name="micloud_buy_member">Konto</string>
-  <string name="micloud_check_sim_notify_text">"Sieht aus, als hätten Sie Ihre SIM-Karte(n) gewechselt. Melden Sie sich mit Ihrem Mi-Konto an, um die Mi Cloud zu reaktivieren."</string>
+  <string name="micloud_check_sim_notify_text">"Sieht aus, als hätten Sie Ihre SIM-Karte(n) gewechselt. Melden Sie sich mit Ihrem Mi Konto an, um die Mi Cloud zu reaktivieren."</string>
   <string name="micloud_check_sim_notify_title">Reaktiviere Mi Cloud</string>
-  <string name="micloud_check_sim_title">"Sieht aus, als hätten Sie Ihre SIM-Karte(n) gewechselt. Melden Sie sich mit Ihrem Mi-Konto an, um die Mi Cloud zu reaktivieren."</string>
+  <string name="micloud_check_sim_title">"Sieht aus, als hätten Sie Ihre SIM-Karte(n) gewechselt. Melden Sie sich mit Ihrem Mi Konto an, um die Mi Cloud zu reaktivieren."</string>
   <string name="micloud_confusion_account_hint">"Änderungen auf diesem Gerät werden mit all Ihren Geräten synchronisiert. Um Ihr Konto zu schützen, empfehlen wir Ihnen die Synchronisierung für Ihre nicht verwendeten Geräte auszuschalten."</string>
   <string name="micloud_confusion_account_name">"Mi Konto: "</string>
   <string name="micloud_confusion_account_notify_text">Ihr Mi Konto wurde von einem anderem Gerät geändert. Überprüfen Sie gleich ihr Konto.</string>
@@ -185,8 +185,8 @@ Zuletzt gesichert am %2$s"</string>
   <string name="micloud_find_device_guide_fail_reopen">Aktivieren Sie die Gerätelokalisierung in der Mi Cloud</string>
   <string name="micloud_find_device_guide_fail_sub_net">Überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut.</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">Zeitüberschreitung der Verbindung. Versuchen Sie es später erneut.</string>
-  <string name="micloud_find_device_guide_micloud">Synchronisation mit der MiCloud aktivieren</string>
-  <string name="micloud_find_device_guide_micloud_sub_content">Synchronisieren Sie Kontakte, Fotos, Notizen und mehr mit der MiCloud</string>
+  <string name="micloud_find_device_guide_micloud">Synchronisation mit der Mi Cloud aktivieren</string>
+  <string name="micloud_find_device_guide_micloud_sub_content">Synchronisieren Sie Kontakte, Fotos, Notizen und mehr mit der Mi Cloud</string>
   <string name="micloud_find_device_guide_noti_content">Aktivieren</string>
   <string name="micloud_find_device_guide_noti_title">Aktivieren Sie die Gerätelokalisierung, um Ihre Daten zu schützen, wenn Sie Ihr Gerät verlieren</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Aktivieren Sie die Gerätelokalisierung, um Ihre WeChat-Daten zu schützen</string>
@@ -268,11 +268,11 @@ Berühre den Einstellungsknopf, um mehr Optionen zu sehen"</string>
   <string name="micloud_notif_content_master_depend_wifi">Verbinden Sie sich zuerst mit einem WLAN.</string>
   <string name="micloud_notif_content_memory_low">Nicht genügend Speicherplatz.</string>
   <string name="micloud_notif_content_sync_with_off">Tippen Sie hier, um Ihr Gerät jetzt zu synchronisieren.</string>
-  <string name="micloud_notif_title_battery_low">"Kann nicht mit Mi-Cloud synchronisieren"</string>
+  <string name="micloud_notif_title_battery_low">"Kann nicht mit Mi Cloud synchronisieren"</string>
   <string name="micloud_notif_title_clipboard_push">Inhalt in die Zwischenablage kopiert</string>
   <string name="micloud_notif_title_depend_wifi">%d warten auf Synchronisierung</string>
-  <string name="micloud_notif_title_master_depend_wifi">"Kann nicht mit Mi-Cloud synchronisieren"</string>
-  <string name="micloud_notif_title_memory_low">"Kann nicht mit Mi-Cloud synchronisieren."</string>
+  <string name="micloud_notif_title_master_depend_wifi">"Kann nicht mit Mi Cloud synchronisieren"</string>
+  <string name="micloud_notif_title_memory_low">"Kann nicht mit Mi Cloud synchronisieren."</string>
   <string name="micloud_notif_title_sync_with_off">Sync mit Mi Cloud</string>
   <string name="micloud_other_product_price">Preise vergleichen</string>
   <string name="micloud_proceed">Fortfahren</string>

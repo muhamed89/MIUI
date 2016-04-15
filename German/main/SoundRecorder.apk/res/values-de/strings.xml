@@ -9,11 +9,11 @@
   <string name="call_record">Anrufaufnahmen (%d)</string>
   <string name="cloud_record">Cloud-Aufnahme (%d)</string>
   <string name="cloud_record_open">Aufnahmen synchronisieren</string>
-  <string name="cloud_record_tip">Aufnahmen mit der MiCloud synchronisieren.</string>
+  <string name="cloud_record_tip">Aufnahmen mit der Mi Cloud synchronisieren.</string>
   <string name="cloud_status_full_dialog_cancel">Nicht jetzt</string>
   <string name="cloud_status_full_dialog_msg">"Die Aufnahmen können nicht synchronisiert werden, weil Ihr Cloud-Speicher voll ist. Erweitern Sie Ihr Konto, um mehr Speicherplatz zu erhalten."</string>
   <string name="cloud_status_full_dialog_ok">Erweitern</string>
-  <string name="cloud_status_full_dialog_title">Der MiCloud-Speicher ist voll</string>
+  <string name="cloud_status_full_dialog_title">Der Mi Cloud-Speicher ist voll</string>
   <string name="data_connection_body">Download im mobilen Datennetzwerk kann erhöhte Kosten verursachen</string>
   <string name="data_connection_button_text">OK</string>
   <string name="data_connection_title">Tipp</string>

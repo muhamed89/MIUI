@@ -17,7 +17,7 @@
   <string name="access_control_no_back_footer">Zum Beenden [icon] drücken</string>
   <string name="access_control_password_title">Passwort</string>
   <string name="access_control_recording_intro_header">Zeichnen Sie ein Entsperrmuster:</string>
-  <string name="access_control_reset_by_account">Um Ihr Passwort zurückzusetzen, melden Sie sich mit Ihrem Mi-Konto an.</string>
+  <string name="access_control_reset_by_account">Um Ihr Passwort zurückzusetzen, melden Sie sich mit Ihrem Mi Konto an.</string>
   <string name="access_point_names">Zugangspunktnamen</string>
   <string name="accessibility_captioning_title">Beschriftungen</string>
   <string name="accessibility_category_personal">Persönliche Profil-Konten</string>
@@ -1074,7 +1074,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="device_status_summary">Telefonnummer, Signal, etc.</string>
   <string name="dial_application_title">Wählen</string>
   <string name="dial_pad_tones_title">Wähltastenfeldtöne</string>
-  <string name="dialog_content_login">Für das Update in Ihr Mi-Konto anmelden?</string>
+  <string name="dialog_content_login">Für das Update in Ihr Mi Konto anmelden?</string>
   <string name="dialog_no">Nein</string>
   <string name="dialog_title_color_calibration">Standard Farbkorrektur</string>
   <string name="dialog_title_font_size">Schriftgröße</string>
@@ -2409,10 +2409,10 @@ Betriebssystem auswählen:"</string>
   <string name="privacy_settings_title">Sichern &amp; Zurücksetzen</string>
   <string name="private_gallery_need_to_unlock">Password erforderlich:</string>
   <string name="private_gallery_recording_intro_header">Entsperrmuster zeichnen:</string>
-  <string name="private_gallery_reset_by_account">Um Ihr Passwort zurückzusetzen, melden Sie sich mit Ihrem Mi-Konto an</string>
+  <string name="private_gallery_reset_by_account">Um Ihr Passwort zurückzusetzen, melden Sie sich mit Ihrem Mi Konto an</string>
   <string name="private_sms_need_to_unlock">Passwort erforderlich:</string>
   <string name="private_sms_recording_intro_header">Entsperrmuster zeichnen:</string>
-  <string name="private_sms_reset_by_account">Um Ihr Passwort zurückzusetzen, melden Sie sich bei Ihrem Mi-Konto an</string>
+  <string name="private_sms_reset_by_account">Um Ihr Passwort zurückzusetzen, melden Sie sich bei Ihrem Mi Konto an</string>
   <string name="process_dex2oat_label">App Optimierung</string>
   <string name="process_format">%1$s (%2$d)</string>
   <string name="process_kernel_label">Android OS</string>
@@ -3251,7 +3251,7 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="title_local_resource">Lokale Quellen</string>
   <string name="title_system_resource">System Quellen</string>
   <string name="toast_lockscreen_glogin_empty_password">Passwort eingeben</string>
-  <string name="toast_need_login">Melden Sie sich bei Ihrem Mi-Konto an</string>
+  <string name="toast_need_login">Melden Sie sich bei Ihrem Mi Konto an</string>
   <string name="total_memory">Gesamter Speicher</string>
   <string name="total_size">Insgesamt: %s</string>
   <string name="total_size_label">Insgesamt</string>
@@ -4112,8 +4112,8 @@ Das Einrichten des Telefons kann eine erhöhte Netzwerkaktivität erfordern."</s
   <string name="write_tag">Schreiben</string>
   <string name="wrong_pin_code_pukked">Falscher SIM PIN-Code, Sie müssen jetzt Ihren Telefonanbieter kontaktieren, um Ihr Gerät zu entsperren.</string>
   <string name="xiaomi_account">Mi Konto</string>
-  <string name="xiaomi_cloud_service">Mi-Cloud</string>
-  <string name="xiaomi_money_service">Mi-Credit</string>
+  <string name="xiaomi_cloud_service">Mi Cloud</string>
+  <string name="xiaomi_money_service">Mi Credit</string>
   <string name="xiaomi_router_available_notif_summary">Antippen um:</string>
   <string name="xiaomi_router_available_notif_title">Mi Router verfügbar</string>
   <string name="xiaomi_router_notif_summary">Benachrichtigen wenn Mi Router HotSpots verfügbar sind</string>
