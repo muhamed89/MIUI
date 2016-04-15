@@ -219,7 +219,7 @@
   <string name="cloud_gallery_space_full_buy_more">"Kann neue Fotos nicht mit Ihrer Mi Cloud synchronisieren. Um mehr Fotos zu synchronisieren, kaufen Sie zusätzlichen Speicherplatz."</string>
   <string name="cloud_gallery_space_full_title">Mi Cloud ist voll</string>
   <string name="cloud_guide_slim_text">Automatisches Backup. Reduziere internen Speicherbedarf für Fotos um 90%.</string>
-  <string name="cloud_guide_slim_title">Reduziere Foto Speicherbedarf auf internen Speicher um %1$s</string>
+  <string name="cloud_guide_slim_title">Speicherbedarf für Fotos auf internen Speicher um %1$s reduzieren</string>
   <string name="cloud_media_set_set">Cloud-Alben</string>
   <string name="cloud_owner_album_share_guide">Sie können dieses Album mit Freunden teilen</string>
   <string name="cloud_screenshots_display_name">Screenshots</string>
@@ -355,6 +355,7 @@
   <string name="error_share_with_creator">Dieses Album wurde bereits mit Ihnen geteilt</string>
   <string name="error_should_not_select_image">Dateityp wird nicht unterstützt</string>
   <string name="error_should_not_select_video">Dateityp wird nicht unterstützt</string>
+  <string name="enable_slim_title">Fotogröße reduzieren</string>
   <string name="error_socket_timeout">Netzwerkzeitüberschreitung</string>
   <string name="error_title">Synchronisationsfehler</string>
   <string name="error_unauthorized">Synchronisation wurde aufgrund zu vieler Anmeldeversuche ausgeschaltet</string>
@@ -858,7 +859,15 @@
   <string name="slideshow_interval_invalid">Intervall muss zwischen 3 und 3600 Sekunden liegen</string>
   <string name="slideshow_interval_title">Jedes Bild anzeigen für</string>
   <string name="slideshow_interval_value">%1$d Sekunden</string>
-  <string name="slideshow_repeat_mode">Wiederholen</string> 
+  <string name="slideshow_repeat_mode">Wiederholen</string>
+  <string name="slim_introduce">Ersetzen Sie Fotos und Videos mit voller Auflösung auf dem Gerät durch optimierte, kleinere Versionen, nachdem die Originale in der Mi Cloud gesichert wurden. Die Originale mit der vollen Auflösung sind nach wie vor in der Mi Cloud verfügbar. Das kann Ihnen eine Menge Speicherplatz sparen. Für diese Funktion ist ein Mi Konto erforderlich.</string>
+  <string name="slim_introduce_with_specific_size">Ersetzen Sie Fotos und Videos mit voller Auflösung auf dem Gerät durch optimierte, kleinere Versionen, nachdem die Originale in der Mi Cloud gesichert wurden. Die Originale mit der vollen Auflösung sind nach wie vor in der Mi Cloud verfügbar. Das kann Ihnen bis zu %1$s an Speicherplatz sparen. Für diese Funktion ist ein Mi Konto erforderlich.</string>
+  <string name="slim_now">Jetzt reduzieren</string>
+  <string name="slim_result_size">%1$s gespart</string>
+  <string name="slim_result_title">Erfolgreich reduziert</string>
+  <string name="slim_tip_msg">Photo size will be reduced automatically when WLAN is available. To download full-resolution files from Mi Cloud, tap \"Download photo\" in Details.</string>
+  <string name="slim_tip_title">About reducing photo size</string>
+  <string name="slimming">Wird reduziert…</string>  
   <string name="slim_after_backuped_summary">Ersetzen Sie nach der Sicherung in der Mi Cloud die Fotos mit der vollen Auflösung lokal durch optimierte Versionen. Die Originale beleiben in der Mi Cloud gespeichert. Das kann Ihnen viel Speicherplatz einsparen.</string>
   <string name="slim_after_backuped_title">Lokalen Speicher nach der Sicherung optimieren</string>
   <string name="sports_camera">Sport Kamera</string>
@@ -956,6 +965,7 @@
   <string name="weibo">Weibo</string>
   <string name="weikan_weikan">Weikan TV</string>
   <string name="weixin">WeChat</string>
+  <string name="welcome_to_slim">Behalten Sie Ihre Fotos, sparen Sie Platz</string>
   <string name="where_is_barcode">Wo ist der QR-Code?</string>
   <string name="white_balance">Weißabgleich</string>
   <string name="who_is_this">Wer?</string>
