@@ -189,7 +189,7 @@ d. MMMM"</string>
   <string name="status_bar_network_flow_purchase">"   Kaufe &gt;"</string>
   <string name="status_bar_network_flow_today">Heute: %1$s</string>
   <string name="status_bar_network_name_separator">|</string>
-  <string name="status_bar_no_recent_apps">Keine kürzlichen Apps</string>
+  <string name="status_bar_no_recent_apps">Keine kürzlich verwendeten Apps</string>
   <string name="status_bar_notification_inspect_item_title">App-Info</string>
   <string name="status_bar_recent_guide_all">"Zum Schließen hochwischen
 Zum Sperren runterwischen"</string>
