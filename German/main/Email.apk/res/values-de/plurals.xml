@@ -22,7 +22,7 @@
     <plurals name="confirm_delete_conversation_with_sub">
         <item quantity="other">Diese Unterhaltungen enhalten zusammengeführte Einträge. Dennoch löschen?</item>
         <item quantity="zero">Diese Unterhaltungen enhalten zusammengeführte Einträge. Dennoch löschen?</item>
-        <item quantity="one">Dies Unterhaltung enhält zusammengeführte Einträge. Dennoch löschen?</item>
+        <item quantity="one">Die Unterhaltung enthält zusammengeführte Einträge. Dennoch löschen?</item>
         <item quantity="two">Diese Unterhaltungen enhalten zusammengeführte Einträge. Dennoch löschen?</item>
         <item quantity="few">Diese Unterhaltungen enhalten zusammengeführte Einträge. Dennoch löschen?</item>
         <item quantity="many">Diese Unterhaltungen enhalten zusammengeführte Einträge. Dennoch löschen?</item>
@@ -36,23 +36,23 @@
         <item quantity="many">%d ausgewählt</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">&lt;b>%1$d&lt;/b> Archiviert.</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> Archiviert.</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> Archiviert</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> Archiviert</item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other">&lt;b>%1$d&lt;/b> gelöscht.</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> gelöscht.</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> gelöscht</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> gelöscht</item>
     </plurals>
     <plurals name="conversation_folder_changed">
-        <item quantity="other">Geänderte Ordner.</item>
-        <item quantity="one">Geänderter Ordner.</item>
+        <item quantity="other">Geänderte Ordner</item>
+        <item quantity="one">Geänderter Ordner</item>
     </plurals>
     <plurals name="conversation_muted">
         <item quantity="other">&lt;b>%1$d&lt;/b> stumm geschalten</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> stumm geschalten.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> stumm geschalten</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">&lt;b>%1$d&lt;/b>" Nachrichten von "wichtig" Ordner entfernt"</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b>" Nachrichten von "Wichtig" Ordner entfernt"</item>
         <item quantity="one">&lt;b>%1$d&lt;/b>" von "wichtig" Ordner entfernt"</item>
     </plurals>
     <plurals name="conversation_not_spam">
@@ -88,12 +88,12 @@
         <item quantity="many">Verschiebe %1$d Unterhaltungen</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
-        <item quantity="other">Zeige %1$d neue Nachrichten.</item>
-        <item quantity="zero">Zeige %1$d neue Nachrichten.</item>
-        <item quantity="one">Zeige %1$d neu Nachricht.</item>
-        <item quantity="two">Zeige %1$d neue Nachrichten.</item>
-        <item quantity="few">Zeige %1$d neue Nachrichten.</item>
-        <item quantity="many">Zeige %1$d neue Nachrichten.</item>
+        <item quantity="other">Zeige %1$d neue Nachrichten</item>
+        <item quantity="zero">Zeige %1$d neue Nachrichten</item>
+        <item quantity="one">Zeige %1$d neue Nachricht</item>
+        <item quantity="two">Zeige %1$d neue Nachrichten</item>
+        <item quantity="few">Zeige %1$d neue Nachrichten</item>
+        <item quantity="many">Zeige %1$d neue Nachrichten</item>
     </plurals>
     <plurals name="num_selected">
         <item quantity="other">%d ausgewählt</item>
