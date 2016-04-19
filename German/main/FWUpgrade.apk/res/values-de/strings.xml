@@ -19,17 +19,17 @@
   <string name="check_now">Auf Updates prüfen</string>
   <string name="current_version_text">Aktuell:</string>
   <string name="downloadSuccess">Download abgeschlossen</string>
-  <string name="download_completed_text">Download abgeschlossen, zum Installieren abtippen</string>
+  <string name="download_completed_text">Download abgeschlossen, zum Installieren antippen</string>
   <string name="download_confirm_content">Sie sind nicht mit einem WLAN verbunden, das könnte zusätzliche Kosten verursachen. Möchten Sie trotzdem mit dem Download fortfahren?</string>
   <string name="download_error_content">Keine Netzwerkverbindung</string>
   <string name="download_pause">Download angehalten</string>
   <string name="download_progress">Fortschritt:</string>
   <string name="downloading_text">Die neue Version wird heruntergeladen, bitte warten…</string>
-  <string name="empty_directory">Kein zip Archiv in diesem Ordner!</string>
+  <string name="empty_directory">Kein Ziparchiv in diesem Ordner!</string>
   <string name="filesize_error">Dateifehler</string>
   <string name="full_update">Komplettes Update</string>
   <string name="install_selfupdate">Installation</string>
-  <string name="insufficient_space_content">Die Installation benötigt mindestens %s Bytes im Speicher. Bitte Speicher bereinigen, um fortzufahren.</string>
+  <string name="insufficient_space_content">Die Installation benötigt mindestens %s Bytes im Speicher. Bitte Speicher bereinigen um fortzufahren.</string>
   <string name="network_error">Keine Netzwerkverbindung</string>
   <string name="new_version">Neue Version:</string>
   <string name="new_version_query">Auf Updates prüfen…</string>
@@ -48,9 +48,9 @@
   <string name="package_unzip_error">Fehler beim Entpacken</string>
   <string name="ratio">0%</string>
   <string name="reboot">Neustart…</string>
-  <string name="reboot_prompt_content">Entschuldigung,FotaUpdateReboot Datei existiert nicht, ein unerwarteter Fehler ist aufgetreten!</string>
+  <string name="reboot_prompt_content">Entschuldigung, FotaUpdateReboot Datei existiert nicht, ein unerwarteter Fehler ist aufgetreten!</string>
   <string name="reboot_prompt_title">Systemfehler</string>
-  <string name="rom_damage">Ihr System wurde beschädigt, OTA Update wurde deaktiviert!</string>
+  <string name="rom_damage">Ihr System wurde beschädigt, OTA-Update wurde deaktiviert!</string>
   <string name="rom_damage_need_full_update">Ihr System wurde beschädigt, Sie können nur ein komplettes Update durchführen! Bitte sichern Sie vorher Ihre Daten!</string>
   <string name="sdCard_update_tips_content">&lt;Data&gt; &amp;lt;div style=font-size:15px;color:#4c4c4c&amp;gt;&amp;lt;p&amp;gt;1. Vergewissern Sie sich, dass die ausgewählte Datei offiziell ist.;&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;2. Ein lokales Update kann Ihre Daten löschen, sichern Sie sie zuerst ab.;&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;3. Die Installation der falschen Datei kann Ihr System unbrauchbar machen.;&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;4. Tippen Sie auf [Jetzt aktualisieren], Ihr Gerät wird im Recoverymodus neu starten. Bitte unterbrechen Sie den Vorgang nicht, bis er abgeschlossen ist.&amp;lt;/p&amp;gt;&amp;lt;/div&amp;gt; &lt;/Data&gt;" "</string>
   <string name="sdCard_upgrade_copy_file_fail">Einfügen fehlgeschlagen</string>
@@ -75,9 +75,9 @@
   <string name="setting_autodownload">Bei WLAN automatisch herunterladen</string>
   <string name="setting_autodownload_hint">Updatepaket wird automatisch heruntergeladen</string>
   <string name="setting_help_guide">Hilfe</string>
-  <string name="setting_network_tip">You are in 2G/3G, please change the [Updates via Wi-Fi only] option and try again.</string>
+  <string name="setting_network_tip">Sie sind in einem Mobilfunknetz, bitte ändern Sie die [Updates via Wi-Fi only] Option und versuchen es nochmals.</string>
   <string name="setting_only_wifi">Updates via Wi-Fi only</string>
-  <string name="setting_only_wifi_hint">Update packages download via Wi-Fi only</string>
+  <string name="setting_only_wifi_hint">Download des Updatepakets nur via WLAN</string>
   <string name="start_full_size_update">Komplettes Update beginnen</string>
   <string name="tips">Tipps</string>
   <string name="tips_content">&lt;Data&gt; &amp;lt;div style=font-size:15px;color:#4c4c4c&amp;gt;&amp;lt;p&amp;gt;1. FOTA kann helfen, Ihr System geschmeidiger und effizienter zu machen.&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;2. Es wird empfohlen, das Updatepaket über WLAN herunterzuladen.&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;3. Vergewissern Sie sich, dass Ihr Akkustand mehr als 30% beträgt und trennen Sie das Ladegerät vor der Aktualisierung.&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;4. Ihr Gerät wird evtl. mehrere Neustarts durchführen, bitte unterbrechen Sie den Vorgang nicht, bis er abgeschlossen ist.&amp;lt;/p&amp;gt;&amp;lt;/div&amp;gt; &lt;/Data&gt;" "</string>
