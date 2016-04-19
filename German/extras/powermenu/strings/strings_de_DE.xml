@@ -3,7 +3,9 @@
     <string name="label_silent_mode">Lautlos</string>
     <string name="label_reboot">Neustart</string>
     <string name="label_shutdown">Ausschalten</string>
+    <string name="label_alert_bootloader">Bootloader</string>
     <string name="label_alert_reboot">Neustart</string>
+    <string name="label_alert_recovery">Recovery</string>
     <string name="label_alert_shutdown">Ausschalten</string>
     <string name="label_blank">Schlafmodus</string>
 </resources>
