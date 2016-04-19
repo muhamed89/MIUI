@@ -16,19 +16,19 @@
         <item>Alle Sender</item>
         <item>Adult Hits</item>
         <item>Klassik</item>
-        <item>Klassik Rock</item>
+        <item>Klassischer Rock</item>
         <item>College</item>
         <item>Country</item>
-        <item>Emergency</item>
-        <item>Emergency Test</item>
-        <item>Foreign Language</item>
+        <item>Notfall</item>
+        <item>Notfalltest</item>
+        <item>Fremde Sprache</item>
         <item>Information</item>
         <item>Jazz</item>
         <item>News</item>
         <item>Nostalgie</item>
         <item>Oldies</item>
         <item>Personality</item>
-        <item>Public</item>
+        <item>Öffentlich</item>
         <item>Religiöse Musik</item>
         <item>Religiöser Talk</item>
         <item>Rhythm and Blues</item>
@@ -73,32 +73,32 @@
     <string-array name="search_category_rds_entries">
         <item>Alle Sender</item>
         <item>Kultur</item>
-        <item>aktuelle Angelegenheiten</item>
+        <item>Zeitgeschehen</item>
         <item>Kinderprogramme</item>
         <item>Country Musik</item>
         <item>Dokumentation</item>
         <item>Drama</item>
-        <item>Easy Listening Musik</item>
+        <item>Easy Listening</item>
         <item>Bildung</item>
-        <item>Emergency</item>
-        <item>Emergency Test</item>
+        <item>Notfall</item>
+        <item>Notfalltest</item>
         <item>Finanzen</item>
         <item>Volksmusik</item>
         <item>Information</item>
-        <item>Jazz Musik</item>
+        <item>Jazz</item>
         <item>Leichte Klassik</item>
         <item>Freizeit</item>
         <item>News</item>
-        <item>National Musik</item>
+        <item>Einheimisch</item>
         <item>Andere Musik</item>
-        <item>Oldies Musik</item>
-        <item>Phone In</item>
-        <item>Pop Musik</item>
+        <item>Oldies</item>
+        <item>Hörerradio</item>
+        <item>Popmusik</item>
         <item>Religion</item>
-        <item>Rock Musik</item>
+        <item>Rockmusik</item>
         <item>Wissenschaft</item>
-        <item>Ernste Klassic</item>
-        <item>Soziale Angelegenheiten</item>
+        <item>Ernste Klassik</item>
+        <item>Soziales</item>
         <item>Sport</item>
         <item>Reisen</item>
         <item>Verschiedenes</item>
@@ -259,20 +259,20 @@
     </string-array>
     <string-array name="rf_cfg">
         <item>Erhalte Parameter des aktuellen Senders</item>
-        <item>Erhalte Sender-Parameter (20x wiederholen)</item>
-        <item>Erhalte Such-Station Parameter</item>
-        <item>Erhalte FM band sweep Parameter</item>
-        <item>FM Suchparameter konfigurieren</item>
+        <item>Erhalte Senderparameter (20x wiederholen)</item>
+        <item>Erhalte Suchstationparameter</item>
+        <item>Erhalte FM-Suchparameter</item>
+        <item>FM-Suchparameter konfigurieren</item>
     </string-array>
     <string-array name="cfg_rf">
-        <item>Setze FM RSSI delta</item>
+        <item>Setze FM-RSSI-Delta</item>
         <item>Setze Signalgrenzwert</item>
-        <item>RF Statistiken</item>
+        <item>RF-Statistiken</item>
     </string-array>
     <string-array name="stats_options">
         <item>Erweiterte Optionen</item>
-        <item>FM Suchparameter konfigurieren</item>
-        <item>RF Statistiken</item>
+        <item>FM-Suchparameter konfigurieren</item>
+        <item>RF-Statistiken</item>
     </string-array>
     <string-array name="freq_entries">
         <item>" "</item>
