@@ -16,7 +16,7 @@
   <string name="app_name_camera">Kamera</string>
   <string name="app_name_downloadedrom">Pakete</string>
   <string name="app_name_downloads">Downloads</string>
-  <string name="app_name_market">App Store</string>
+  <string name="app_name_market">Appstore</string>
   <string name="app_name_midrop">Mi Drop</string>
   <string name="app_name_miui">MIUI</string>
   <string name="app_name_miuimusic">Musik</string>
@@ -40,7 +40,7 @@
   <string name="binded_accout_description">Konten wurden synchronisiert. Sie können jetzt Ihr Mi Konto benutzen, um Daten von KuaiPan aufzurufen.</string>
   <string name="binded_accout_title">Konten synchronisiert</string>
   <string name="byteShort">B</string>
-  <string name="can_not_send_with_too_many">Zu viele Elemente zum senden</string>
+  <string name="can_not_send_with_too_many">Zuviele Elemente zum senden</string>
   <string name="cancel">Abbrechen</string>
   <string name="cancel_error">Verschieben fehlgeschlagen. Versuchen Sie es erneut.</string>
   <string name="cancel_operation">Aktion abbrechen</string>
@@ -70,11 +70,11 @@
   <string name="category_type_other">Andere</string>
   <string name="category_video">Videos</string>
   <string name="category_zip">Archive</string>
-  <string name="change_sticker">Pick another</string>
+  <string name="change_sticker">Wähle einen weiteren</string>
   <string name="choose_report_reason">Warum melden Sie das?</string>
   <string name="choose_send_type">Methode auswählen</string>
   <string name="choose_upload_location">Auf KuaiPan hochladen</string>
-  <string name="clean_hint">Tippen, um Speicherplatz freizugeben</string>
+  <string name="clean_hint">Tippen um Speicherplatz freizugeben</string>
   <string name="clean_message">%1$s Speicherplatz freigegeben</string>
   <string name="clean_title">Dateien älter als 30 Tage löschen</string>
   <string name="clean_trash_box">Papierkorb leeren</string>
@@ -142,7 +142,7 @@
   <string name="dialog_type_image">Bild</string>
   <string name="dialog_type_text">Text</string>
   <string name="dialog_type_video">Video</string>
-  <string name="dir_not_support">"Can't hide this folder"</string>
+  <string name="dir_not_support">"Kann diesen Ordner nicht verstecken"</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Leer</string>
   <string name="disk_available">Verfügbar</string>
@@ -192,7 +192,7 @@
   <string name="files">Dateien</string>
   <string name="finished">Abgeschlossen</string>
   <string name="folder_exist">Ordner ist bereits vorhanden</string>
-  <string name="folder_name_empty">Ordner Name darf nicht leer sein</string>
+  <string name="folder_name_empty">Ordnername darf nicht leer sein</string>
   <string name="need_read_storage_permission">"Explorer benötigt die Berechtigung, auf den internen Speicher zuzugreifen"</string>
   <string name="folder_name_illegal">Ungültiger Ordnername</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Hier drücken&lt;/a&gt;, um zum Papierkorb zu wechseln.</string>
@@ -301,17 +301,17 @@
   <string name="mobile_photo_desc"/>
   <string name="month_day_format">MMM dd</string>
   <string name="move_failed">Verschieben fehlgeschlagen.</string>
-  <string name="move_icon_to_desktop_hint">Erstellen Sie eine Verknüpfung Startbildschirm für Explorer-Dateien zu verwalten effizienter.</string>
+  <string name="move_icon_to_desktop_hint">Erstellen Sie eine Verknüpfung auf dem Startbildschirm um Explorerdateien effizienter zu verwalten.</string>
   <string name="move_icon_to_desktop_success">Verknüpfung auf dem Startbildschirm erstellt.</string>
   <string name="move_to">Verschieben nach…</string>
   <string name="move_to_confirm">Erstellen</string>
   <string name="msg_set_password">Zuerst muss ein Passwort festgelegt werden</string>
   <string name="multi_select_title">%1$s ausgewählt</string>
-  <string name="my_app">App-Daten</string>
+  <string name="my_app">Appdaten</string>
   <string name="my_app_desc"/>
   <string name="my_bak">Backups</string>
   <string name="my_bak_desc"/>
-  <string name="my_bakup">Telefon-Backups</string>
+  <string name="my_bakup">Telefonbackups</string>
   <string name="my_bakup_app">Apps</string>
   <string name="my_bakup_app_desc"/>
   <string name="my_bakup_doc">Dokumente</string>
@@ -348,7 +348,7 @@
   <string name="new_function_str">"WeChat-Sticker können automatisch heruntergeladen werden.
 Laden Sie sie herunter, wann immer Sie wollen
 und verpassen Sie keine Neuen mehr!"</string>
-  <string name="new_function_title_str">Über WeChat Sticker</string>
+  <string name="new_function_title_str">Über WeChat-Sticker</string>
   <string name="no">Nein</string>
   <string name="no_apk">Antippen, um Apps zu bekommen.</string>
   <string name="no_app_tags">Keine vorhanden</string>
@@ -378,21 +378,21 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="notification_summary">%1$s unterstützt diese Funtkion nicht</string>
   <string name="notification_title">Benachrichtigen wenn Dateien zu %1$s hinzugefügt werden</string>
   <string name="notification_wechat_auto_backup_hint">Tippen Sie hier, um mehr zu erfahren.</string>
-  <string name="notification_wechat_auto_backup_switch_title">Sichern Sie WeChat videos</string>
-  <string name="notification_wechat_expired_empty">WeChat hat bereits diese Videos gelöscht</string>
-  <string name="notification_wechat_sticker_hint">Zeigen Sie Benachrichtigung an, wenn neue WeChat Sticker verfügbar sind</string>
+  <string name="notification_wechat_auto_backup_switch_title">Sichern Sie WeChat-Videos</string>
+  <string name="notification_wechat_expired_empty">WeChat hat diese Videos bereits gelöscht</string>
+  <string name="notification_wechat_sticker_hint">Zeigen Sie eine Benachrichtigung an, wenn neue WeChat-Sticker verfügbar sind</string>
   <string name="notification_wechat_sticker_switch_title">Tägliche Benachrichtigung über neue Sticker</string>
   <string name="notification_wechat_title">Benachrichtigen, wenn WeChat-Video abläuft</string>
   <string name="notify_private_folder_msg">Mehr über Private Ordner.</string>
-  <string name="notify_private_folder_title">Schützen Sie ihre Private Dateien</string>
+  <string name="notify_private_folder_title">Schützen Sie ihre privaten Dateien</string>
   <string name="online_not_support">"Diese Datei kann im Moment nicht online angezeigt werden."</string>
-  <string name="open_changed_file_message">"Datei die Sie öffnen möchten wurde geändert. Sie können:
+  <string name="open_changed_file_message">"Die Datei, die Sie öffnen möchten, wurde geändert. Sie können:
 1. die Datei erneut runterladen
-2. in Ihr KuaiPan konto hochladen"</string>
+2. in Ihr KuaiPan-Konto hochladen"</string>
   <string name="open_changed_file_title">Datei wurde geändert</string>
   <string name="open_file_failed">Öffnen fehlgeschlagen</string>
   <string name="open_private_folder">Privaten Ordner erstellen…</string>
-  <string name="operate_confirm_in_3g">Mobile Datenverbindug zum laden dieser großen Datei verwenden?</string>
+  <string name="operate_confirm_in_3g">Mobile Datenverbindung zum runterladen dieser großen Datei verwenden?</string>
   <string name="operating">Einen Moment…</string>
   <string name="operation_add_fav">Zu Favoriten hinzufügen…</string>
   <string name="operation_agree">Zustimmen</string>
@@ -495,7 +495,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="rlv_last_loading_time">Zuletzt aktualisiert: %1$s</string>
   <string name="rlv_last_refreshing_time">Zuletzt gesucht: %1$s</string>
   <string name="rlv_loading_more">Einen Moment…</string>
-  <string name="rlv_pull_to_refresh">Ziehen zum aktualisiere</string>
+  <string name="rlv_pull_to_refresh">Ziehen zum aktualisieren</string>
   <string name="rlv_refreshing">Aktualisieren…</string>
   <string name="rlv_release_to_refresh">Loslassen zum aktualisieren</string>
   <string name="save_to_local">Download</string>
@@ -564,7 +564,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="shared_sticker_page_no_file">Netzwerkverbindung fehlgeschlagen. Überprüfen Sie Ihre Netzwerkverbindung und versuchen Sie es erneut.</string>
   <string name="shared_sticker_str">Geteilt von Mi Fans</string>
   <string name="shared_sticker_suffix">Sticker an %s</string>
-  <string name="shared_sticker_use_tip">Sie können Sticker in WeChat Unterhaltungen senden, als ob Sie Bilder versenden.</string>
+  <string name="shared_sticker_use_tip">Sie können Sticker in WeChat Unterhaltungen senden, wie wenn Sie Bilder versenden würden.</string>
   <string name="shared_sticker_use_tip_title">Wie verwende ich Sticker</string>
   <string name="shared_str">Geteilt von %s</string>
   <string name="show_message">Datei muss zum Öffnen heruntergeladen werden.</string>
@@ -621,7 +621,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="transfer_private_data">Private Dateien von der SD-Karte verschieben…</string>
   <string name="transing">Sende…</string>
   <string name="trash_box_capacity">Papierkorb %1$s</string>
-  <string name="trash_box_link">Um den Papiekorb zu leeren, besuchen Sie <b>pan.xiaomi.com</b></string>
+  <string name="trash_box_link">Um den Papierkorb zu leeren, besuchen Sie <b>pan.xiaomi.com</b></string>
   <string name="trash_box_message1">Löschen Sie nicht mehr benötigte Dateien um Speicherplatz zu gewinnen.</string>
   <string name="trash_box_message2">Leeren Sie den Papierkorb um Speicherplatz zu gewinnen.</string>
   <string name="type_not_support">Dieses Dateiformat wird nicht unterstützt. Datei entpacken und erneut versuchen.</string>
@@ -656,13 +656,13 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="user_guide_summary">Bequemer und sicherer Cloudspeicher</string>
   <string name="user_guide_upload_to_kuaipan">Dateien auf KuaiPan speichern</string>
   <string name="user_not_login">Zuerst anmelden</string>
-  <string name="utf8_summary">System FTP-Standardcodierung</string>
+  <string name="utf8_summary">System-FTP-Standardcodierung</string>
   <string name="utf8_title">UTF-8</string>
   <string name="video_ad_download">Installieren</string>
   <string name="video_play_failed">Unbekannter Fehler</string>
   <string name="video_releasing">Wird hochgeladen…</string>
   <string name="video_replay">Nochmal abspielen</string>
-  <string name="view_more_sticker">Mehr stickers anzeigen</string>
+  <string name="view_more_sticker">Weitere Sticker anzeigen</string>
   <string name="wait_net">Warte auf Netzwerk</string>
   <string name="wait_sdcard">Warte auf SD-Karte…</string>
   <string name="wait_wifi">Warte auf WLAN</string>
