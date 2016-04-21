@@ -52,7 +52,7 @@
     <string-array name="traffic_type">
         <item>"Mobile Daten "</item>
         <item>"WLAN "</item>
-        <item>"Dataen gespeichert "</item>
+        <item>"Daten gespeichert "</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
         <item>"Mobile Daten "</item>
@@ -61,7 +61,7 @@
     <string-array name="traffic_sort_type">
         <item>"Mobile Daten "</item>
         <item>"WLAN "</item>
-        <item>"Dataen gespeichert "</item>
+        <item>"Daten gespeichert "</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
         <item>Automatisch beziehen</item>
