@@ -117,8 +117,8 @@
         <item quantity="one">%d App ist nicht gesperrt</item>
     </plurals>
     <plurals name="find_applications">
-        <item quantity="other">Suche unter %d apps</item>
-        <item quantity="one">Suche unter %d app</item>
+        <item quantity="other">Suche unter %d Apps</item>
+        <item quantity="one">Suche unter %d App</item>
     </plurals>
     <plurals name="found_apps_title">
         <item quantity="other">%d Apps gefunden</item>
