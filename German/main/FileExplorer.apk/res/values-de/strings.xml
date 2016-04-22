@@ -428,7 +428,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="operation_pause_all">Alle anhalten</string>
   <string name="operation_refresh">Aktualisieren</string>
   <string name="operation_rename">Umbenennen</string>
-  <string name="operation_rename_message">Ordner umbenennen</string>
+  <string name="operation_rename_message">Auswahl umbenennen</string>
   <string name="operation_resume">Fortsetzen</string>
   <string name="operation_resume_all">Alle fortsetzen</string>
   <string name="operation_save">Speichern</string>
