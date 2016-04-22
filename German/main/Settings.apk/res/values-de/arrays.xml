@@ -758,4 +758,18 @@ Note: Nur für Ubuntu 8.04!"</item>
         <item>Dateien</item>
         <item>App lock</item>
     </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Aus</item>
+        <item>480p</item>
+        <item>480p (gesichert)</item>
+        <item>720p</item>
+        <item>720p (gesichert)</item>
+        <item>1080p</item>
+        <item>1080p (gesichert)</item>
+        <item>4K</item>
+        <item>4K (gesichert)</item>
+        <item>4K (hochskaliert)</item>
+        <item>4K (hochskaliert, gesichert)</item>
+        <item>720p, 1080p (zwei Displays)</item>
+    </string-array>
 </resources>

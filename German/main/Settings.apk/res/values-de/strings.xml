@@ -638,6 +638,8 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="bluetooth_unlock_turned_on">Eingeschaltet</string>
   <string name="bluetooth_untether_blank">Tethering für %1$s wird ausgeschaltet.</string>
   <string name="bluetooth_visibility_timeout">Zeit für Sichtbarkeit</string>
+  <string name="bootloader">Fastbootmodus</string>
+  <string name="bootloader_summary">Flashen Sie Ihr Gerät über USB</string>
   <string name="breathing_light_color_menu_title">Licht Farbe</string>
   <string name="breathing_light_color_summary">Licht Farbe bei Eingang einer Benachrichtigung</string>
   <string name="breathing_light_freq_summary">Zeit zwischen dem Blinken der LED</string>
