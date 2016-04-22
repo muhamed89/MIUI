@@ -10,7 +10,7 @@
   <string name="access_control_need_password">"%s  erfolgreich hinzugefügt"</string>
   <string name="access_control_need_to_unlock">"Fingerabdruck scannen
 oder Passwort für Anwendungssperre eingeben"</string>
-  <string name="access_control_need_to_unlock_nofingerprint">Passwort für Anwendungssperre eingeben</string>
+  <string name="access_control_need_to_unlock_nofingerprint">Muster für Anwendungssperre zeichnen</string>
   <string name="access_control_recording_intro_header">Muster zeichnen, um Anwendungssperre hinzuzufügen</string>
   <string name="access_control_reset_by_account">Melden Sie sich mit Ihrem Mi Konto an, um die Anwendungssperre zurücksetzen</string>
   <string name="activity_title_antispam">Sperrliste</string>
