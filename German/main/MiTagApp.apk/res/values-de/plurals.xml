@@ -6,7 +6,7 @@
     </plurals>
     <plurals name="play_description">
         <item quantity="other">Aufgaben</item>
-        <item quantity="one">ufgabe</item>
+        <item quantity="one">Aufgabe</item>
     </plurals>
     <plurals name="history_description">
         <item quantity="other">Einträge</item>
