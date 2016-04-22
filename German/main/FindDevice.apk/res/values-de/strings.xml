@@ -5,8 +5,9 @@
   <string name="app_name">Gerät finden</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">"Entsperren fehlgeschlagen. %s."</string>
-  <string name="default_lock_msg_words">Hallo! Ich habe mein Telefon verloren. Ich werde mich mit Ihnen in Verbindung setzen. Danke für Ihr Verständnis! / Hi! I lost my phone. I will contact you later. Thank you for understanding!</string>
+  <string name="default_lock_msg_words">Dieses Gerät ist mit einem existierenden Mi Konto verknüpft. Aus Sicherheitsgründen müssen Sie Ihr Passwort eingeben, um das Gerät zu verifizieren.</string>
   <string name="default_lock_msg_words_with_phone">Hallo! Ich habe mein Telefon verloren. Könnten Sie mich bitte kontaktieren? Vielen Dank! / Hi! I lost my phone. Could you please contact me? Thanks!</string>
+  <string name="device_locked">Dieses Gerät ist gesperrt</string>
   <string name="device_lost">Dieses Gerät wurde verloren</string>
   <string name="disable_find_device_error">"\"Gerät finden\" konnte nicht deaktiviert werden. %1$s"</string>
   <string name="disable_find_device_success">"\"Gerät finden\" ist deaktiviert"</string>
