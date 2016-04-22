@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="application_name">Live Hintergrund</string>
+  <string name="application_name">Livehintergrund</string>
   <string name="configure_wallpaper">Einstellungen…</string>
-  <string name="live_wallpaper_empty">Keine Live-Hintergründe.</string>
-  <string name="live_wallpaper_loading">Live-Hintergrund wird geladen…</string>
+  <string name="live_wallpaper_empty">Keine Livehintergründe.</string>
+  <string name="live_wallpaper_loading">Livehintergrund wird geladen…</string>
   <string name="live_wallpaper_picker_label">Live</string>
-  <string name="live_wallpaper_picker_title">Live-Hintergrund auswählen</string>
-  <string name="live_wallpaper_preview_title">Vorschau für Live-Hintergrund</string>
+  <string name="live_wallpaper_picker_title">Livehintergrund auswählen</string>
+  <string name="live_wallpaper_preview_title">Vorschau für Livehintergrund</string>
   <string name="set_live_wallpaper">Hintergrund festlegen</string>
   <string name="wallpaper_cancel">Abbrechen</string>
   <string name="wallpaper_instructions">Hintergrund festlegen</string>
