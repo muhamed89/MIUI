@@ -111,12 +111,14 @@
   <string name="dialog_content_select_all_confirm">Eine Kopie dieses Fotos behalten?</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Apps sichern und entfernen?</string>
   <string name="dialog_msg_check_all">Auswahl von %1$s mit %2$d enthaltenen Elementen bestätigen</string>
+  <string name="dialog_msg_esc_cleanmaster">Die laufende Überprüfung anhalten?</string>
   <string name="dialog_msg_load_cleanup_engine_error">Bereinigungsmodul fehlerhaft!</string>
   <string name="dialog_msg_stop_scan">"Möchten Sie die Bereinigung wirklich abbrechen?"</string>
   <string name="dialog_msg_uninstall_apps">Diese Apps entfernen?</string>
   <string name="dialog_title_backup_and_uninstall_apps">Sichern und entfernen</string>
   <string name="dialog_title_check_all">Alle auswählen</string>
   <string name="dialog_title_delete_image">Ausgewählte Bilder löschen</string>
+  <string name="dialog_title_esc_cleanmaster">Clean Master beenden</string>
   <string name="dialog_title_load_cleanup_engine_error">Es ist ein Fehler aufgetreten</string>
   <string name="dialog_title_stop_scan">Bereinigung abbrechen</string>
   <string name="dialog_title_uninstall_apps">Entfernen</string>
@@ -218,7 +220,7 @@
   <string name="msg_update_error_code_no_newer_db">Aktuell</string>
   <string name="msg_update_error_code_success">Fertig</string>
   <string name="msg_update_error_code_unknown_error">Unbekannter Fehler.</string>
-  <string name="name_optimizer">"Cheetah Mobile's Datenschutzbestimmungen"</string>
+  <string name="name_optimizer">"Clean Master's Datenschutzbestimmungen"</string>
   <string name="news_change">Ändern</string>
   <string name="nb_clear_set">ROM bereinigen, Akku- und Sperrlistendetails in der Statusleiste anzeigen</string>
   <string name="notification_summary_after_auto_cleanup">%s bereinigt.</string>
@@ -231,10 +233,13 @@
   <string name="open">Aktivieren</string>
   <string name="opened">An</string>
   <string name="optimizecenter_data_support">Unterstützt von Clean Master</string>
+  <string name="optimizecenter_data_support_cm">Unterstützt von Clean Master</string>
+  <string name="optimizecenter_data_support_tc">Unterstützt von Tencent</string>
   <string name="positive_confirm">OK</string>
   <string name="pref_category_title_auto_clean_settings">Automatisch bereinigen</string>
   <string name="pref_category_title_auto_update_cleanup_db">Weitere Einstellungen</string>
   <string name="pref_category_title_cleanup_white_list">Ausnahmen</string>
+  <string name="pref_category_title_engine_settings">Scandefinitionseinstellungen</string>
   <string name="pref_category_title_garbage_cleanup_check">Benachrichtigungen</string>
   <string name="pref_category_title_other_clean_settings">Weitere Einstellungen</string>
   <string name="pref_content_cleanup_white_list_none">Keine</string>
@@ -255,6 +260,7 @@
   <string name="pref_title_auto_clean_content_choose">Elemente zum Bereinigen auswählen</string>
   <string name="pref_title_auto_deepclean_and_alert">Gründliche Bereinigung</string>
   <string name="pref_title_auto_update_cleanup_db">Automatisch aktualisieren</string>
+  <string name="pref_title_choose_engine">Definitionen</string>
   <string name="pref_title_cleanup_white_list">Ausnahmen</string>
   <string name="pref_title_expand_cache_group">Elemente im Cache anzeigen</string>
   <string name="pref_title_garbage_auto_clean_content">Elemente zum Bereinigen</string>

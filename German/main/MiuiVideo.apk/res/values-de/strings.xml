@@ -450,6 +450,7 @@
   <string name="vp_mobile_network_using_warning">Ihr Datenverbrauch steigt, wenn Sie Videos über die mobile Datenverbindung ansehen. Wenn Sie Ihr Datenvolumen überschreiten, könnte Ihr Mobilfunkanbieter Ihnen zusätzliche Gebühren verrechnen.</string>
   <string name="vp_mobile_network_using_warning_line_1">Ihr Datenverbrauch steigt, wenn Sie Videos über die mobile Datenverbindung ansehen.</string>
   <string name="vp_mobile_network_using_warning_line_2">Wenn Sie Ihr Datenvolumen überschreiten, könnte Ihr Mobilfunkanbieter Ihnen zusätzliche Gebühren verrechnen.</string>
+  <string name="vp_more_show_video">Werbespot anzeigen</string>
   <string name="vp_mplayer_error_io">IO operation error</string>
   <string name="vp_mplayer_error_malformed">Fehlerhafter Medieninhalt</string>
   <string name="vp_mplayer_error_server_died">Medienserver hat den Geist aufgegeben</string>

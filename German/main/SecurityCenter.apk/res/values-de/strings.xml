@@ -584,6 +584,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wen
   <string name="networkchanged_exception_title">Verbindung gewechselt</string>
   <string name="none_mi_service_app_detail">Leer</string>
   <string name="notification_button_text_of_low_memory">Bereinigen</string>
+  <string name="notification_item">Anwendungssperre einschalten</string>
   <string name="notification_summary_cmcc_app_check">Berühren für mehr Details.</string>
   <string name="notification_title_cmcc_app_check">%d Tage seit letztem Check</string>
   <string name="notification_title_firewall_blocked">Blockiert</string>
