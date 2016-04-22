@@ -259,7 +259,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="dialog_msg_auto_start_declare">Einige Sicherheitsapps können fälschlicherweise angeben, dass MIUI Ihren Start verhindert. Um die Berechtigungen, die einzelnen Anwendungen erteilt wurden zu überprüfen, gehen Sie zu Einstellungen -> Apps.</string>
   <string name="dialog_msg_stop_virus_scan">Sind Sie sicher?</string>
   <string name="dialog_roaming_apps_sorted_title">Sortiert nach</string>
-  <string name="dialog_roaming_message">Apps in den Ausnahmen können auf das Datennetz zugreifen, wenn Daten-Roaming aktiviert ist. App zu den Ausnahmen hinzufügen?</string>
+  <string name="dialog_roaming_message">Apps in den Ausnahmen können auf das Datennetz zugreifen, wenn Datenroaming aktiviert ist. App zu den Ausnahmen hinzufügen?</string>
   <string name="dialog_roaming_title">Datenroaming</string>  
   <string name="dialog_title_attention">Warnung</string>
   <string name="dialog_title_auto_start_declare">Über Autostart</string>
@@ -944,6 +944,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="restrictbackground_conflict_saving_msg">Die Datenreduzierung kann bei Beschränkung der Hintergrunddaten nicht verwendet werden. Möchten Sie die Datenreduzierung und die Beschränkung der Hintergrunddaten ausschalten?</string>
   <string name="right_precent">100%</string>
   <string name="risk_list_header_title">%d verdächtige App(s) gefunden!</string>
+  <string name="roaming_allow_network_dialog_title">Datenroaming erlauben?</string>
   <string name="roaming_limit_dialog_message">Tägliches Datenlimit bei Roaming erreicht.</string>
   <string name="roaming_limit_network_notification_body">Tippen, um die verfügbaren Netzwerke anzuzeigen</string>
   <string name="roaming_limit_notification_title">Tägliches Datenlimit bei Roaming erreicht</string>
@@ -1004,6 +1005,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="suggest_app_tolock">Vorschläge</string>
   <string name="summary_antivirus">Appnamen sowie Appdetails hochladen und online überprüfen</string>
   <string name="summary_antivirus_oversea">Virusdefinitionen automatisch aktualisieren</string>
+  <string name="summary_app_lock_disable">Anwendungen sperren, im Ihre Privatsphäre zu schützen</string>
   <string name="summary_cleaner_cloudscan">Unbekannte Ordner hochladen und mit Onlinevirendefinitionen vergleichen</string>
   <string name="summary_cloud_account">Das Optimale aus Ihrem Mi Gerät herausholen</string>
   <string name="summary_cloud_service">Synchronisieren Sie Ihre Fotos, Kontakte und noch viel mehr zwischen all Ihren Geräten</string>

@@ -75,6 +75,11 @@
         <item>Am häufigsten verwendet</item>
         <item>Name</item>
     </string-array>
+    <string-array name="roaming_network_type">
+        <item>Immer</item>
+        <item>Nur Ausnahmen</item>
+        <item>Nie</item>
+    </string-array>
     <string-array name="traffic_saving_compress_level_string_array">
         <item>Aus</item>
         <item>Niedrig</item>
