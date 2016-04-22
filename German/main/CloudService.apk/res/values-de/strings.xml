@@ -375,6 +375,9 @@ Diese Funktion verschlüsselt und sendet ihre Geräte-ID zum Mi-Server."</string
   <string name="sina_token_expired_warning">Weibo Konto ist abgelaufen: Bitte erneut binden</string>
   <string name="sina_token_invalid_warning">Weibo Konto ist ungültig: Bitte erneut binden</string>
   <string name="sms">Nachrichten</string>
+  <string name="soundrecorder_sync_only_in_wifi">Nur WLAN zum Synchronisieren verwenden</string>
+  <string name="soundrecorder_sync_only_in_wifi_summary">Rekorder wird nicht die mobile Datenverbindung verwenden, um Aufnahmen hochzuladen</string>
+  <string name="soundrecorder_sync_records">Mit Mi Cloud synchronisieren</string>
   <string name="start_micloud">Start</string>
   <string name="storage">Speicher</string>
   <string name="sub_alert_notif_dspt_add">%s Dinge warten, um synchronisiert zu werden</string>

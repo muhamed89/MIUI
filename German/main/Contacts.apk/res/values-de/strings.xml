@@ -484,6 +484,7 @@ Grund: \"%s\"."</string>
   <string name="import_to_xiaomi_account_progress_title">Kontakte in Mi Konto importieren</string>
   <string name="import_to_xiaomi_account_title">Sollen die folgenden Kontakte in Ihrem Mi Konto importiert werden?</string>
   <string name="import_vcard_description">"Kontakte von USB-Speicher importieren"</string>
+  <string name="import_vcard_dialog_message">vCard importieren?</string>
   <string name="import_weibo_dialog_title">Weibo Kontakte importieren</string>
   <string name="import_weibo_error_no_matched_contacts">Keine übereinstimmenden Kontakte</string>
   <string name="import_weibo_error_no_network">Netzwerkfehler</string>
@@ -606,8 +607,8 @@ Grund: \"%s\"."</string>
   <string name="menu_help">Hilfe</string>
   <string name="menu_import_export">Importieren/Exportieren</string>
   <string name="menu_joinAggregate">Zusammenführen</string>
-  <string name="menu_newContact">Neuer Kontakt</string>
-  <string name="menu_newContactButton">Neuer Kontakt</string>
+  <string name="menu_newContact">Neuen Kontakt erstellen</string>
+  <string name="menu_newContactButton">Hinzufügen</string>
   <string name="menu_new_contact_action_bar">Neu</string>
   <string name="menu_new_favorite_action_bar">Zu Favoriten hinzufügen</string>
   <string name="menu_new_group_action_bar">Neu</string>
@@ -686,6 +687,7 @@ Grund: \"%s\"."</string>
   <string name="miprofile_switch_on_alertdialog_title">Profilfotoupdate</string>
   <string name="missing_name">(Kein Name)</string>
   <string name="missing_required_permission">Sie haben eine notwendige Berechtigung nicht erteilt.</string>
+  <string name="mobile_equipment_identification">Mobilgeräteidentifikation</string>
   <string name="more_call_logs">Detaillierte Anrufliste anzeigen auf i.mi.com</string>
   <string name="move_and_resize">Verschieben und Skalieren</string>
   <string name="multi_number_menu_call">Anruf</string>
@@ -795,7 +797,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="no_contacts_selected">Keine Kontakte ausgewählt</string>
   <string name="no_sdcard_message">Kein USB-Speicher gefunden</string>
   <string name="no_voip_contacts">Keine MiVoicekontakte gefunden</string>
-  <string name="non_phone_add_to_contacts">Zu Kontakten hinzufügen</string>
+  <string name="non_phone_add_to_contacts">Zu einem existierenden Kontakt hinzufügen</string>
   <string name="non_phone_caption">Telefonnummer</string>
   <string name="non_phone_close">Schließen</string>
   <string name="none_paired">Zurzeit sind keine Geräte verbunden.</string>
@@ -929,7 +931,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="rebuild_t9_index_dialog_message">Indexdaten neu erstellen…</string>
   <string name="recent">Kürzlich</string>
   <string name="recentCallsIconLabel">Anrufliste</string>
-  <string name="recentCalls_addToContact">Zu Kontakten hinzufügen</string>
+  <string name="recentCalls_addToContact">Zu einem existierenden Kontakt hinzufügen</string>
   <string name="recentCalls_callNumber">Anruf %s</string>
   <string name="recentCalls_deleteAll">Anrufliste löschen</string>
   <string name="recentCalls_editNumberBeforeCall">Nummer vor Anruf bearbeiten</string>
@@ -1138,14 +1140,14 @@ Wählen Sie eine der folgenden Optionen:"</string>
   <string name="voicemail_status_configure_voicemail">Mailbox einrichten</string>
   <string name="voicemail_status_messages_waiting">Verbindung zum Server nicht möglich. Neue Sprachnachrichten werden pausiert.</string>
   <string name="voicemail_status_voicemail_not_available">Es kann keine Verbindung zum Mailboxserver hergestellt werden</string>
-  <string name="voip_audio_description">Antippen, um Sprachnachricht zu senden</string>
+  <string name="voip_audio_description">VoIP-Anruf</string>
   <string name="voip_contact_label">Mi Voice</string>
   <string name="voip_contacts_entry">Mi Voice</string>
   <string name="voip_loading_contact">Einen Moment…</string>
   <string name="voip_name">Mi Voice</string>
   <string name="voip_recommend_msg">Tippen Sie um Mi Voice zu benützen</string>
   <string name="voip_shortcut_name">Mi Voice</string>
-  <string name="voip_video_description">Antippen, um einen VoIP Videoanruf zu machen</string>
+  <string name="voip_video_description">VoIP-Videoanruf</string>
   <string name="websiteLabelsGroup">Webseite</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Daten löschen</string>

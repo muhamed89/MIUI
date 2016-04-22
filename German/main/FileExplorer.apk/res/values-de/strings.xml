@@ -554,6 +554,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="server_control_advanced_settings">FTP-Einstellungen</string>
   <string name="server_control_charset">Übertragungscodierung</string>
   <string name="server_control_settings">Einstellungen</string>
+  <string name="server_error">Serverfehler, versuchen Sie es später. (Fehler %s)</string>
   <string name="share_box">Geteilt</string>
   <string name="share_box_receive">Empfangen</string>
   <string name="share_box_send">Gesendet</string>
