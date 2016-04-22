@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Accounts_settings_title">Konten</string>
+  <string name="aaid_info">"
+Die Werbe-ID ist eine permanente, eindeutige ID für Ihr Gerät. Verkäufer verwenden diese, um Ihnen auf Sie zugeschnittene Werbung anbieten zu können.
+
+Wenn Sie sich gegen personalisierte Werbung entscheiden, wird die ANzahl der Werbeeinblendungen nicht reduziert, aber die Anzahl an für Sie interessante Werbung wird deutlich sinken."</string>
   <string name="about_settings">Über das Gerät</string>
   <string name="about_settings_summary">Rechtliche Hinweise, Status und Softwareversion anzeigen</string>
   <string name="ac_enable_title">Apps sperren</string>
@@ -97,6 +101,7 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="active_input_method_subtypes">Aktive Eingabemethoden</string>
   <string name="activity_not_found">App ist nicht auf dem Gerät installiert.</string>
   <string name="activity_picker_label">Aktivität auswählen</string>
+  <string name="ad_service">Werbung</string>
   <string name="adb_keys_warning_message">"Zugriff auf USB-Debugging von allen Computern, die Sie vorher autorisiert haben widerrufen?"</string>
   <string name="adb_warning_message">USB-Debugging ist nur für Entwicklungszwecke vorgesehen. Damit können Sie Daten zwischen Ihrem Computer und Ihrem Gerät kopieren, Apps auf Ihrem Gerät ohne Benachrichtigung installieren und Protokolldaten lesen.</string>
   <string name="adb_warning_title">USB-Debugging zulassen?</string>
@@ -639,6 +644,12 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="bluetooth_untether_blank">Tethering für %1$s wird ausgeschaltet.</string>
   <string name="bluetooth_visibility_timeout">Zeit für Sichtbarkeit</string>
   <string name="bootloader">Fastbootmodus</string>
+  <string name="bootloader_apply_step_1">Fastbootmodus aktivieren?</string>
+  <string name="bootloader_apply_step_2">Wenn sich Ihr Gerät im Fastbootmodus befindet und Sie es mit einem PC verbinden,</string>
+  <string name="bootloader_apply_step_3">kann auf Daten (z.B. Passwörter, Nachrichten) ohne Ihre Berechtigung zugegriffen werden.</string>
+  <string name="bootloader_apply_step_4">Dies könnte zur Veröffentlichung oder zum Verlust von Daten, oder zu irreparablen Hardwareschäden führen.</string>
+  <string name="bootloader_apply_step_5">Seien Sie sich dessen bewußt, bevor Sie den Fastbootmodus aktivieren.</string>
+  <string name="bootloader_apply_title">Wichtige Warnung</string>
   <string name="bootloader_summary">Flashen Sie Ihr Gerät über USB</string>
   <string name="breathing_light_color_menu_title">Licht Farbe</string>
   <string name="breathing_light_color_summary">Licht Farbe bei Eingang einer Benachrichtigung</string>
@@ -661,8 +672,13 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="builtin_keyboard_settings_title">Hardware Tastatur</string>
   <string name="button_disconnect_network">Netzwerk trennen</string>
   <string name="button_light_timeout">Tastenbeleuchtung bleibt ein für</string>
+  <string name="button_text_accept">Zustimmen</string>
+  <string name="button_text_accept_timer">Zustimmen (%d)</string>
   <string name="button_text_login">Anmelden</string>
+  <string name="button_text_next_step">Weiter</string>
+  <string name="button_text_next_step_timer">Weiter (%d)</string>
   <string name="button_text_reboot_now">Neustarten</string>
+  <string name="button_text_reject">Ablehnen</string>
   <string name="cache_header_label">Cache</string>
   <string name="cache_size_label">Cache</string>
   <string name="cached">Hintergrundprozess im Cache</string>
@@ -797,6 +813,7 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="confirm_fingerprint_icon_content_description">Benutzen Sie Ihren Fingerabdruck, um fortzufahren.</string>
   <string name="confirm_fingerprint_msg">Legen Sie Ihren Finger auf den Fingerabdruckscanner</string>
   <string name="confirm_new_backup_pw_prompt">Neues Passwort für vollständige Sicherung erneut eingeben</string>
+  <string name="confirm_reset_aaid">OK</string>
   <string name="connect_to_internet">Verbindung zum Netzwerk</string>
   <string name="connected_via_passpoint">Verbunden via %1$s</string>
   <string name="connected_via_wfa">Verbunden via WLAN Assistent</string>
@@ -2553,6 +2570,7 @@ Betriebssystem auswählen:"</string>
   <string name="remove_managed_profile_label">Arbeitsprofil entfernen</string>
   <string name="repeat">Wiederholen</string>
   <string name="repeat_title">Wiederholen</string>
+  <string name="reset_aaid">Werbe-ID zurücksetzen</string>
   <string name="reset_app_preferences">App-Einstellungen zurücksetzen</string>
   <string name="reset_app_preferences_button">Apps zurücksetzen</string>
   <string name="reset_app_preferences_desc">"Folgende Einstellungen werden zurückgesetzt:
@@ -2653,6 +2671,7 @@ Diese Einstellung betrifft alle Nutzer auf diesem Telefon."</string>
   <string name="screen_key_long_press">Langer Tastendruck</string>
   <string name="screen_key_long_press_action">Optionen</string>
   <string name="screen_key_long_press_timeout">Verzögerung</string>
+  <string name="screen_key_position">Navigationstasten</string>
   <string name="screen_key_press">Drücken Sie die Navigationstasten</string>
   <string name="screen_key_press_action">Auslösefunktion</string>
   <string name="screen_locking_sounds_title">Bildschirmsperrentöne</string>
@@ -3257,6 +3276,7 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="total_memory">Gesamter Speicher</string>
   <string name="total_size">Insgesamt: %s</string>
   <string name="total_size_label">Insgesamt</string>
+  <string name="touch_assistant">Berührungsassistent</string>
   <string name="touch_filtered_warning">Ihre Eingabe wird von Einstellungen nicht erkannt, weil eine App die Berechtigungsanfrage verdeckt</string>
   <string name="touch_sensitive_summary">Unterstützung für die Bedienung mit Handschuhen und Fehlbedienungsmodus wird eingeschaltet</string>
   <string name="touch_sensitive_title">Handschuhmodus</string>
@@ -3436,8 +3456,8 @@ Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden 
   <string name="usb_charging_summary">Schalten Sie alle anderen USB-Verbindungen ab, um das Aufladen zu beschleunigen.</string>
   <string name="usb_charging_title">Laden beschleunigen</string>
   <string name="usb_connection_category">Verbinden als</string>
-  <string name="usb_eject">Hängen Sie den USB-Speicher aus</string>
-  <string name="usb_eject_summary">Hängen Sie den USB-Speicher aus, damit Sie ihn sicher entfernen können</string>
+  <string name="usb_eject">USB-Speicher auswerfen</string>
+  <string name="usb_eject_summary">USB-Speicher auswerfen, damit Sie ihn sicher entfernen können</string>
   <string name="usb_format">USB-Speicher löschen</string>
   <string name="usb_format_summary">Löscht alle Daten auf dem USB-Speicher, wie z.B. Musik und Fotos</string>
   <string name="usb_host_mode_subtext">Für die Verwendung von einem Game-Controller und anderen Geräten über den USB-Anschluss. Die Laufzeit des Akkus wird verringert</string>

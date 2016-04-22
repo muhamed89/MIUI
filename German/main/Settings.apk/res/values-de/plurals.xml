@@ -93,4 +93,12 @@
         <item quantity="other">Sie sind %1$d Schritte von den Fehlerberichten entfernt.</item>
         <item quantity="one">Sie sind %1$d Schritt von den Fehlerberichten entfernt.</item>
     </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Für %d Apps immer deaktivieren</item>
+        <item quantity="one">Für 1 App immer deaktivieren</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Für %d Apps niemals deaktivieren</item>
+        <item quantity="one">Für 1 App niemals deaktivieren</item>
+    </plurals>
 </resources>
