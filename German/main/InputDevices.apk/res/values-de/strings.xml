@@ -34,8 +34,8 @@
   <string name="keyboard_layout_spanish_label">Spanisch</string>
   <string name="keyboard_layout_spanish_latin">Spanisch (Lateinisch)</string>
   <string name="keyboard_layout_swedish">Schwedisch</string>
-  <string name="keyboard_layout_swiss_french_label">Schweizer Französisch</string>
-  <string name="keyboard_layout_swiss_german_label">Schweizerdeutsch</string>
+  <string name="keyboard_layout_swiss_french_label">Französisch (Schweiz)</string>
+  <string name="keyboard_layout_swiss_german_label"Deutsch (Schweiz)</string>
   <string name="keyboard_layout_turkish">Türkisch</string>
   <string name="keyboard_layout_ukrainian">Ukrainisch</string>
   <string name="keyboard_layouts_label">Android-Tastatur</string>
