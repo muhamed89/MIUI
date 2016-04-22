@@ -109,12 +109,15 @@
   <string name="dialog_content_checkbox_delete_cloud_image">Fotos auch aus der Mi Cloud löschen</string>
   <string name="dialog_content_delete_image_confirm">%d Fotos löschen?</string>
   <string name="dialog_content_select_all_confirm">Eine Kopie dieses Fotos behalten?</string>
+  <string name="dialog_msg_add_white_list_error">Diese Datei kann nicht zu den Ausnahmen hinzugefügt werden</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Apps sichern und entfernen?</string>
   <string name="dialog_msg_check_all">Auswahl von %1$s mit %2$d enthaltenen Elementen bestätigen</string>
   <string name="dialog_msg_esc_cleanmaster">Die laufende Überprüfung anhalten?</string>
   <string name="dialog_msg_load_cleanup_engine_error">Bereinigungsmodul fehlerhaft!</string>
   <string name="dialog_msg_stop_scan">"Möchten Sie die Bereinigung wirklich abbrechen?"</string>
   <string name="dialog_msg_uninstall_apps">Diese Apps entfernen?</string>
+  <string name="dialog_ok_add_white_list_error">Verstanden</string>
+  <string name="dialog_title_add_white_list_error">Achtung</string>
   <string name="dialog_title_backup_and_uninstall_apps">Sichern und entfernen</string>
   <string name="dialog_title_check_all">Alle auswählen</string>
   <string name="dialog_title_delete_image">Ausgewählte Bilder löschen</string>
