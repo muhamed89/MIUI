@@ -73,12 +73,12 @@
         <item quantity="one">%d App</item>
     </plurals>
     <plurals name="hints_get_root_enable_title">
-        <item quantity="other">%d Apps haben root Zugriff</item>
-        <item quantity="one">%d App hat root Zugriff</item>
+        <item quantity="other">%d Apps haben Rootzugriff</item>
+        <item quantity="one">%d App hat Rootzugriff</item>
     </plurals>
     <plurals name="hints_get_root_disable_title">
-        <item quantity="other">"%d Apps haben keinen root Zugriff"</item>
-        <item quantity="one">"%d App hat keinen root Zugriff"</item>
+        <item quantity="other">"%d Apps haben keinen Rootzugriff"</item>
+        <item quantity="one">"%d App hat keinen Rootzugriff"</item>
     </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Updates vorhanden für %d Apps.</item>
