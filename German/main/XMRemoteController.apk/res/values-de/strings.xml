@@ -557,7 +557,6 @@ Um Ihr Konto zu aktivieren, folgen Sie dem
   <string name="passport_remove_confirm">Abmelden</string>
   <string name="passport_remove_unactivated_account_notice">"Ihr Konto wurde noch nicht aktiviert."</string>
   <string name="passport_resend_active_email">E-Mail erneut senden</string>
-  <string name="passport_resend_active_email">Resend email</string>
   <string name="passport_reset_fail_title">"Konnte nicht zurückgesetzt werden"</string>
   <string name="passport_reset_password_prompt">Passwort ist falsch</string>
   <string name="passport_reset_password_title">Passwort zurücksetzen</string>
