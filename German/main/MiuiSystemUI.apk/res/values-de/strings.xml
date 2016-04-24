@@ -5,7 +5,7 @@
   <string name="accessibility_battery_level">Akku %d Prozent.</string>
   <string name="accessibility_bluetooth_connected">Bluetooth verbunden.</string>
   <string name="accessibility_bluetooth_disconnected">Bluetooth nicht verbunden.</string>
-  <string name="accessibility_bluetooth_tether">Bluetooth-Tethering.</string>
+  <string name="accessibility_bluetooth_tether">Bluetoothtethering.</string>
   <string name="accessibility_camera_button">Kamera</string>
   <string name="accessibility_clear_all">Alle Meldungen löschen.</string>
   <string name="accessibility_data_connection_3.5g">3.5G</string>
@@ -20,7 +20,7 @@
   <string name="accessibility_data_three_bars">Daten 3 Balken.</string>
   <string name="accessibility_data_two_bars">Daten 2 Balken.</string>
   <string name="accessibility_home">Home</string>
-  <string name="accessibility_managed_profile">Arbeits-Profil</string>
+  <string name="accessibility_managed_profile">Arbeitsprofil</string>
   <string name="accessibility_menu">Menü</string>
   <string name="accessibility_no_data">Kein Datenempfang.</string>
   <string name="accessibility_no_phone">Kein Empfang.</string>
@@ -46,7 +46,7 @@
   <string name="accessibility_wimax_three_bars">WiMAX 3 Balken.</string>
   <string name="accessibility_wimax_two_bars">WiMAX 2 Balken.</string>
   <string name="account_info">Nicht angemeldet</string>
-  <string name="activate_usb_message">SIM Karte zum Aktivieren dieses Features einlegen.</string>
+  <string name="activate_usb_message">SIM-Karte zum Aktivieren dieses Features einlegen.</string>
   <string name="activate_usb_title">Aktiviere USB</string>
   <string name="always_use_accessory">Immer für dieses USB-Zubehör verwenden</string>
   <string name="always_use_device">Immer für dieses USB-Gerät verwenden</string>
@@ -60,13 +60,13 @@
   <string name="block_record_notification_more_text">Verberge Nachrichten von %1$s &amp; %2$d Apps.</string>
   <string name="block_record_notification_text">Benachrichtigungen von %1$s ausblenden.</string>
   <string name="block_record_notification_title">Benachrichtigungen ausblenden</string>
-  <string name="bluetooth_tethered">Bluetooth Internetfreigabe</string>
+  <string name="bluetooth_tethered">Bluetoothinternetfreigabe</string>
   <string name="call_status_dialing">Wählen</string>
   <string name="call_status_ringing">Klingeln</string>
   <string name="camera_key_action_app_title">App öffnen</string>
   <string name="camera_key_action_category_title">Verwenden, wenn die Kamera nicht geöffnet ist</string>
   <string name="camera_key_action_none_title">Keine Aktion</string>
-  <string name="camera_key_action_setting_title">MI-Taste</string>
+  <string name="camera_key_action_setting_title">MI Taste</string>
   <string name="camera_key_action_shortcut_call">Anrufen</string>
   <string name="camera_key_action_shortcut_home">Zurück zum Startbildschirm</string>
   <string name="camera_key_action_shortcut_screenshot">Screenshot</string>
@@ -86,7 +86,7 @@ Wenn Sie die Datenverbindung wieder einschalten, können hohe Kosten entstehen."
   <string name="description_direction_left">Für %s nach links wischen.</string>
   <string name="description_direction_up">Für %s nach oben wischen.</string>
   <string name="description_target_search">Suche</string>
-  <string name="disable_notification_summary">Benachrichtigungen von ausgewählten apps nie zeigen</string>
+  <string name="disable_notification_summary">Zeige Benachrichtigungen von ausgewählten Apps nie</string>
   <string name="disable_notification_title">Benachrichtigungen verbergen</string>
   <string name="dismount_storage">Nein</string>
   <string name="dlg_confirm_kill_storage_users_text">Wenn Sie den USB-Speicher einschalten, werden einige Apps angehalten und möglicherweise nicht mehr verfügbar sein, bis Sie das USB-Speichergerät ausschalten.</string>
@@ -104,7 +104,7 @@ Wenn Sie die Datenverbindung wieder einschalten, können hohe Kosten entstehen."
   <string name="ext_media_mountable_notification_title">USB-Speichergerät verbunden</string>
   <string name="ext_media_nofs_notification_message">USB-Speicher ist leer oder hat ein nicht unterstütztes Dateisystem.</string>
   <string name="ext_media_nofs_notification_title">USB-Speicher leer</string>
-  <string name="ext_media_nomedia_notification_message">USB-Speicher entfernt. Legen Sie eine neue ein.</string>
+  <string name="ext_media_nomedia_notification_message">USB-Speicher entfernt. Legen Sie einen neuen ein.</string>
   <string name="ext_media_nomedia_notification_title">USB-Speicher entfernt</string>
   <string name="ext_media_safe_remove">Sicher entfernen</string>
   <string name="ext_media_safe_unmount_notification_message">Sie können den USB-Speicher sicher entfernen.</string>
@@ -119,7 +119,7 @@ Bitte Ladegerät benutzen."</string>
   <string name="label_view">Anzeigen</string>
   <string name="lland">L Land</string>
   <string name="lockscreen_carrier_default">Kein Dienst</string>
-  <string name="managed_profile_foreground_toast">"Sie verwenden Ihre Arbeit-Profil"</string>
+  <string name="managed_profile_foreground_toast">"Sie verwenden Ihr Arbeitsprofil"</string>
   <string name="mdb_entering">Wird gestartet…</string>
   <string name="mdb_restore_cancel">Abbrechen</string>
   <string name="mdb_restore_info1">"Daten Ihres Telefons wiederherstellen"</string>
@@ -161,8 +161,8 @@ Bitte Ladegerät benutzen."</string>
   <string name="return_to_incall_screen">Zurück zum Anruf</string>
   <string name="screen_button_notification_text">Um sie zu aktivieren, drücken Sie gleichzeitig die Start und Power-Tasten.</string>
   <string name="screen_button_notification_title">Navigationstasten sind ausgeschaltet</string>
-  <string name="screen_pinning_description">Dies wird weiterhin angezeigt, bis sie es unpinnen. Berühren und Halten Sie gleichzeitig Zurück und Übersicht, um es zu entpinnen.</string>
-  <string name="screen_pinning_description_accessible">Dies wird weiterhin angezeigt, bis sie es unpinnen. Berühren und Halten Sie Übersicht, um es zu entpinnen.</string>
+  <string name="screen_pinning_description">Dies wird weiterhin angezeigt, bis sie es unpinnen. Berühren und halten Sie gleichzeitig Zurück und Übersicht, um es zu entpinnen.</string>
+  <string name="screen_pinning_description_accessible">Dies wird weiterhin angezeigt, bis sie es unpinnen. Berühren und halten Sie Übersicht, um es zu entpinnen.</string>
   <string name="screen_pinning_negative">Nein Danke</string>
   <string name="screen_pinning_positive">Hab es</string>
   <string name="screen_pinning_title">Bildschirm ist gepinnt</string>
@@ -190,7 +190,7 @@ d. MMMM"</string>
   <string name="status_bar_network_flow_today">Heute: %1$s</string>
   <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_recent_apps">Keine kürzlich verwendeten Apps</string>
-  <string name="status_bar_notification_inspect_item_title">App-Info</string>
+  <string name="status_bar_notification_inspect_item_title">Appinfo</string>
   <string name="status_bar_recent_guide_all">"Zum Schließen hochwischen
 Zum Sperren runterwischen"</string>
   <string name="status_bar_recent_guide_bottom">Zum Sperren runterwischen</string>
@@ -214,12 +214,12 @@ Zum Sperren runterwischen"</string>
   <string name="usb_accessory_permission_prompt">Der App %1$s erlauben, auf das USB-Zubehör zuzugreifen?</string>
   <string name="usb_accessory_uri_prompt">Keine App für dieses USB-Zubehör gefunden. Erfahren Sie mehr über dieses Zubehör auf %1$s</string>
   <string name="usb_debugging_always">Von diesem Computer immer erlauben</string>
-  <string name="usb_debugging_message">"Der Computer RSA-Schlüssel Fingerabdruck ist:
+  <string name="usb_debugging_message">"Der Computer RSA-Schlüsselfingerabdruck ist:
 %1$s"</string>
   <string name="usb_debugging_title">USB-Debugging erlauben?</string>
   <string name="usb_device_confirm_prompt">%1$s öffnen, wenn dieses USB-Gerät angeschlossen wird?</string>
   <string name="usb_device_permission_prompt">Der App %1$s erlauben, auf das USB-Gerät zuzugreifen?</string>
-  <string name="usb_function_charging_text">Verbunden im Auflade-Modus</string>
+  <string name="usb_function_charging_text">Verbunden im Auflademodus</string>
   <string name="usb_mode_dont_ask">Nicht mehr fragen</string>
   <string name="usb_mode_mount_storage_title">USB-Speicher öffnen?</string>
   <string name="usb_mode_notification">USB-Speicher</string>
@@ -241,7 +241,7 @@ Zum Sperren runterwischen"</string>
   <string name="usb_storage_stop_notification_title">USB-Speicher beenden</string>
   <string name="usb_storage_stop_title">USB-Speicher in Verwendung</string>
   <string name="usb_storage_title">USB verbunden</string>
-  <string name="user_guide_for_notification">Neue Benachrichtigung empfangen, zum Lesen die Statusleiste herunterziehen</string>
+  <string name="user_guide_for_notification">Neue Benachrichtigung empfangen, zum lesen die Statusleiste herunterziehen</string>
   <string name="user_guide_for_toggle">Die Schalterliste kann auch horizontal bewegt werden</string>
   <string name="user_guide_for_toggle_list">Schalter verwalten</string>
   <string name="vpn_text">Berühren Sie, um die Einstellungen zu sehen.</string>
