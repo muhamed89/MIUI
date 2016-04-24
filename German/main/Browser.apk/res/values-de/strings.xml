@@ -540,7 +540,7 @@ Diese Seite verlassen?"</string>
   <string name="pref_security_remember_passwords">Passwörter merken</string>
   <string name="pref_security_remember_passwords_summary">Benutzernamen und Passwörter für Webseiten speichern</string>
   <string name="pref_security_save_form_data">Formulardaten merken</string>
-  <string name="pref_security_save_form_data_summary">Eingegebene Formulardaten zur späteren Verwendung speicher</string>
+  <string name="pref_security_save_form_data_summary">Eingegebene Formulardaten zur späteren Verwendung speichern</string>
   <string name="pref_security_show_security_warning">Sicherheitswarnungen anzeigen</string>
   <string name="pref_security_show_security_warning_summary">Warnung bei Zertifikatsproblemen von Webseiten anzeigen</string>
   <string name="pref_set_homepage_to">Einstellen</string>
