@@ -407,8 +407,8 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="battery_info_voltage_label">Akkuspannung:</string>
   <string name="battery_info_voltage_units">mV</string>
   <string name="battery_level_title">Akkuladung</string>
-  <string name="battery_light_summary">Blinkende LED beim Laden einschalten</string>
-  <string name="battery_light_title">Während des Ladevorgangs leuchtet</string>
+  <string name="battery_light_summary">LED während dem Laden einschalten</string>
+  <string name="battery_light_title">Ladekontrollleuchte</string>
   <string name="battery_msg_unaccounted">Der Akkuverbrauch ist eine Näherung von Stromverbrauch und enthält nicht jede Quelle von Batterieentladung. Sonstiges ist die Differenz von dem berechneten ungefähren Stromverbrauch und der eigentlichen beobachteten Entladung der Batterie.</string>
   <string name="battery_saver">Akku-Sparer</string>
   <string name="battery_saver_turn_on_automatically_never">Nie</string>
