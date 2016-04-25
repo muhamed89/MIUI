@@ -1301,10 +1301,10 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="erase_external_storage">USB-Speicher löschen</string>
   <string name="erase_external_storage_description">Alle Daten, z.B. Musik und Fotos aus dem internen USB-Speicher löschen</string>
   <string name="erase_internal_storage">Gespeicherte Inhalte löschen</string>
-  <string name="erase_internal_storage_description">Löscht Musik, Fotos, Videos und andere Benutzerdaten.</string>
+  <string name="erase_internal_storage_description">Löscht Musik, Fotos, Videos und andere Benutzerdaten</string>
   <string name="erase_optional">Inhalt</string>
   <string name="erase_personal_data">Alle Daten auf dem Gerät</string>
-  <string name="erase_personal_data_description">Löscht alle Daten, inkl. Konten, Fotos, Kontakten, Appdaten und Einstellungen.</string>
+  <string name="erase_personal_data_description">Löscht alle Daten, inkl. Konten, Fotos, Kontakten, Appdaten und Einstellungen</string>
   <string name="erase_sd_data">SD-Karte formatieren</string>
   <string name="erase_sd_data_description">Beim Formatieren ferden sämtliche Daten auf der SD-Karte gelöscht</string>
   <string name="erase_sure">Persönliche Daten</string>
