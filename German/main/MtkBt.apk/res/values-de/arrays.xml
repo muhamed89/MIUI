@@ -40,7 +40,7 @@
     </string-array>
     <string-array name="bt_bpp_entry_error">
         <item>Kein Fehler</item>
-        <item>v-Card Datei-Erstellung fehlgeschlagen</item>
+        <item>vCard-Dateierstellung fehlgeschlagen</item>
         <item>Nicht unterstütztes Bildformat</item>
     </string-array>
     <string-array name="bluetooth_ftp_client_file_operations">
