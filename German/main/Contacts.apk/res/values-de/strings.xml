@@ -47,6 +47,7 @@
   <string name="bluetooth_connection_failed_toast">Bluetoothverbindung wurde unterbrochen</string>
   <string name="blurbJoinContactDataWith">Wählen Sie den Kontakt aus, den Sie mit %s zusammenführen möchten.</string>
   <string name="btn_rotation">Drehen</string>
+  <string name="btn_delete_one_contact">Kontakt löschen</string>
   <string name="btn_split_contact">Separater Kontakt</string>
   <string name="button_cancel_scan">Abbrechen</string>
   <string name="button_scan">Erneut Suchen</string>
