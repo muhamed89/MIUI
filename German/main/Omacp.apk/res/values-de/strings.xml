@@ -8,7 +8,7 @@
   <string name="apn_mms_proxy_label">"MMS-Proxy: "</string>
   <string name="apn_type_label">"APN-Typ: "</string>
   <string name="app_label">Omacp</string>
-  <string name="application_label">"AppliKation: "</string>
+  <string name="application_label">"Applikation: "</string>
   <string name="auth_data_label">"Sicherheitsdatei: "</string>
   <string name="auth_level_label">"Sicherheitsstufe: "</string>
   <string name="auth_type_label">"Sicherheitstyp: "</string>
