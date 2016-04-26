@@ -7,10 +7,10 @@
         <item>E-mail</item>
         <item>Organisation</item>
         <item>IM</item>
-        <item>SIP Telefon</item>
+        <item>SIP-Telefon</item>
         <item>Geburtstag</item>
         <item>Webseite</item>
-        <item>Addresse</item>
+        <item>Adresse</item>
         <item>Notizen</item>
     </string-array>
     <string-array name="font_size_names">
