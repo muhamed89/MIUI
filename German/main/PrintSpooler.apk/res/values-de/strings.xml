@@ -3,7 +3,7 @@
   <string name="add_print_service_label">Druckdienst hinzufügen</string>
   <string name="all_printers">Alle Drucker…</string>
   <string name="all_printers_label">Alle Drucker</string>
-  <string name="app_label">Druck Spooler</string>
+  <string name="app_label">Druckspooler</string>
   <string name="blocked_notification_title_template">Drucker blockiert %1$s</string>
   <string name="cancel">Abbrechen</string>
   <string name="cancelling_notification_title_template">Abgebrochen %1$s</string>
@@ -13,7 +13,7 @@
   <string name="expand_handle">Expand handle</string>
   <string name="failed_notification_title_template">Druckfehler %1$s</string>
   <string name="generating_print_job">Druckauftrag erzeugen</string>
-  <string name="install_for_print_preview">PDF viewer für Vorschau installieren</string>
+  <string name="install_for_print_preview">PDF-Viewer für Vorschau installieren</string>
   <string name="label_color">Farbe</string>
   <string name="label_copies">Kopien</string>
   <string name="label_copies_summary">Kopien:</string>
@@ -33,9 +33,9 @@
   <string name="page_description_template">Seite %1$d von %2$d</string>
   <string name="pages_range_example">e.g. 1—5,8,11—13</string>
   <string name="permdesc_accessAllPrintJobs">Ermöglicht dem Besitzer auf Druckaufträge, die von einer anderen App erstellt wurden zuzugreifen. Sollte für normale Apps nie benötigt werden.</string>
-  <string name="permdesc_startPrintServiceConfigActivity">Ermöglicht dem Besitzer, die Konfigurationsaktivitäten eines Druckdiensten auszuführen. Sollte für normale Apps nie benötigt werden.</string>
+  <string name="permdesc_startPrintServiceConfigActivity">Ermöglicht dem Besitzer, die Konfigurationsaktivitäten eines Druckdienstes auszuführen. Sollte für normale Apps nie benötigt werden.</string>
   <string name="permlab_accessAllPrintJobs">Auf alle Druckaufträge zugreifen</string>
-  <string name="permlab_startPrintServiceConfigActivity">Konfigurationsaktivitäten-Druckdienst ausführen</string>
+  <string name="permlab_startPrintServiceConfigActivity">Konfigurationsaktivitätendruckdienst ausführen</string>
   <string name="print_add_printer">Drucker hinzufügen</string>
   <string name="print_button">Drucken</string>
   <string name="print_dialog">Druckdialogfeld</string>
@@ -54,9 +54,9 @@
   <string name="print_select_printer">Drucker auswählen</string>
   <string name="print_write_error_message">"Datei konnte nicht erstellt werden"</string>
   <string name="printer_unavailable">%1$s – nicht verfügbar</string>
-  <string name="printing_app_crashed">Drucker App abgestürtzt</string>
+  <string name="printing_app_crashed">Druckerapp abgestürtzt</string>
   <string name="printing_notification_title_template">Drucke %1$s</string>
-  <string name="reason_unknown">unbekannt</string>
+  <string name="reason_unknown">Unbekannt</string>
   <string name="restart">Neu starten</string>
   <string name="save_as_pdf">Als PDF speichern</string>
   <string name="savetopdf_button">Als PDF speichern</string>
