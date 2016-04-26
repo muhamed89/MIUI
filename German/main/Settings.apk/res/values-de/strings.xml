@@ -95,6 +95,11 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="account_settings_menu_auto_sync_work">Auto-Sync Arbeitsdaten</string>
   <string name="account_settings_title">Konten</string>
   <string name="account_sync_settings_title">Synchronisierung</string>
+  <string name="ac_enable_title">Anwendungssperre</string>
+  <string name="ac_enable_summary">Ein Passwort ist erforderlich, um die App zu öffnen</string>
+  <string name="ac_set_apps_title">Zu sperrende Apps auswählen</string>
+  <string name="ac_privacy_mode_title">Passwort</string>
+  <string name="ac_privacy_mode_sum">Ein Passwort ist erforderlich, um den Gastmodus zu beenden</string>
   <string name="activate_miui_screensaver">Bildschirmschoner</string>
   <string name="activating">Einschalten…</string>
   <string name="active_device_admin_msg">Geräteadministrator</string>
