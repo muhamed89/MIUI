@@ -144,7 +144,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="out_of_space_dlg_text">"%1$s konnte nicht installiert werden. Geben Sie Speicherplatz frei und versuchen Sie es erneut."</string>
   <string name="out_of_space_dlg_title">Kein freier Speicher vorhanden</string>
   <string name="package_delete_confirm_step_1">Löschen %s?</string>
-  <string name="package_delete_confirm_step_2">Das Löschen dieser App kann ihr System unstabil machen.</string>
+  <string name="package_delete_confirm_step_2">Das Löschen dieser App kann ihr System instabil machen.</string>
   <string name="package_delete_confirm_step_3">"Sie werden diese App nach dem löschen nicht mehr öffnen können."</string>
   <string name="perm_action_accept">Erlauben</string>
   <string name="perm_action_prompt">Nachfragen</string>
