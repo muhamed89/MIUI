@@ -2,7 +2,7 @@
 <resources>
   <string name="app_name">Täglicher Sperrbildschirm</string>
   <string name="at_least_one">Bitte wählen Sie mindestens eine Kategorie</string>
-   <string name="auto_interval">Auto</string>
+  <string name="auto_interval">Auto</string>
   <string name="cancel">Abbrechen</string>
   <string name="cancel_international">Abbrechen</string>
   <string name="change_time">Wechselintervall</string>
@@ -25,13 +25,17 @@
   <string name="setting_head">Einstellungen</string>
   <string name="sst_favor_desc">Favoriten durchstöbern</string>
   <string name="sst_favor_title">Favoriten</string>
+  <string name="sst_grid_view_select_all">Alle</string>
+  <string name="sst_grid_view_unselect_all">Keine</string>
   <string name="sst_no_favor_wallpaper_hint">Keine Favoriten</string>
-  <string name="sst_prov_enable_desc">Genießen Sie noch wundervollere Hintergrundbilder am Sperrbildschirm</string>
+  <string name="sst_prov_enable_desc">Hintergrundbildkarussell am Sperrbildschirm</string>
   <string name="sst_prov_enable_title">Hintergrundbildkarussell einschalten</string>
   <string name="sst_require_one_category_hint">Abonnieren Sie zumindest ein Element</string>
-  <string name="sst_sti_desc">Intervall für den Wechsel des Hintergrundbildes festlegen</string>
+  <string name="sst_sti_desc">Wechselintervall festlegen</string>
   <string name="sst_sti_title">Wechselintervall</string>
   <string name="sst_subscribe_title">Abonnieren</string>
+  <string name="sst_wifi_only_desc">Ausschalten, um Daten zu sparen</string>
+  <string name="sst_wifi_only_title">Über mobile Datenverbindung aktualisieren</string>
   <string name="summary_international">"Wenn Sie diese Funktion verwenden, stimmen Sie unseren &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Nutzungsbedingungen&lt;/a&gt; und &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Datenschutzrichtlinien&lt;/a&gt; zu. Damit diese App ordnungsgemäß funktioniert, ist eine Internetverbindung erforderlich.​"</string>  
   <string name="summary">"Akzeptieren unsere &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Nutzungsbedingungen&lt;/a&gt; und &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Datenschutzrichtlinien&lt;/a&gt; um zu starten. Internetverbindung erforderlich."</string>
   <string name="theme_apply_failured">"Sperrbildschirmhintergrundbild kann nicht verwendet werden"</string>
