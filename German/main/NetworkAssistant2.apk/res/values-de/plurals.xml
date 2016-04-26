@@ -33,12 +33,12 @@
         <item quantity="one">%d App durchsuchen</item>
     </plurals>
     <plurals name="hints_roaming_enable_title">
-        <item quantity="other">%d Apps können Daten-Roaming verwenden</item>
-        <item quantity="one">%d App kann Daten-Roaming verwenden</item>
+        <item quantity="other">%d Apps können Datenroaming verwenden</item>
+        <item quantity="one">%d App kann Datenroaming verwenden</item>
     </plurals>
     <plurals name="hints_roaming_disable_title">
-        <item quantity="other">%d Apps können Daten-Roaming nicht verwenden</item>
-        <item quantity="one">%d App kann Daten-Roaming nicht verwenden</item>
+        <item quantity="other">%d Apps können Datenroaming nicht verwenden</item>
+        <item quantity="one">%d App kann Datenroaming nicht verwenden</item>
     </plurals>
     <plurals name="hints_roaming_found_app_count_title">
         <item quantity="other">%d Apps gefunden</item>
