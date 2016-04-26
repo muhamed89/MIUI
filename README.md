@@ -4,10 +4,10 @@
 
 ## Introduction
 
-This repository contains the german translation of the MIUI Weekly ROM Releases from [xiaomi.eu](http://xiaomi.eu/community/forums/103/).
+This repository contains the german translation of the MIUI Weekly ROM Releases from [xiaomi.eu](http://xiaomi.eu/community/forums/103/), [miuipro.ru](http://miuipro.ru/roms/) and other MIUI custom ROMs.
 
 All strings were translated by the community - special thanks go to:
-muhamed89, cp82, dahool2016, and more..!
+muhamed89, cp82, berlinux2016 and more..!
 
 ## Reporting issues
 
