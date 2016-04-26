@@ -9,7 +9,7 @@
   <string name="fra_fra_sample">Voici un échantillon de synthèse vocale en français avec Pico.</string>
   <string name="installed">Installiert</string>
   <string name="ita_ita_sample">Questo è un esempio di sintesi vocale in italiano con Pico.</string>
-  <string name="no_market_app">Market App wurde noch nicht Installiert.</string>
-  <string name="not_installed">Nicht Installiert</string>
+  <string name="no_market_app">Marketapp wurde noch nicht installiert.</string>
+  <string name="not_installed">Nicht installiert</string>
   <string name="spa_esp_sample">Este es un ejemplo de síntesis de voz en español con Pico.</string>
 </resources>
