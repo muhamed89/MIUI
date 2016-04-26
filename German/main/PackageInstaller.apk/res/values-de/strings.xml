@@ -174,7 +174,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="permission_warning_template">Zulassen %1$s von %2$s?</string>
   <string name="permlab_togglePermissions">Berechtigungen umschalten</string>
   <string name="privacyPerms">Datenschutz</string>
-  <string name="reboot_time">Wird bereitgemacht fürs nNustarten… (%1$s)</string>
+  <string name="reboot_time">Wird bereitgemacht fürs Neustarten… (%1$s)</string>
   <string name="safe_guard_support">Technischer Support bereitgestellt von %1$s</string>
   <string name="safe_relative">Sicherheit</string>
   <string name="screen_overlay_button">Einstellungen öffnen</string>
