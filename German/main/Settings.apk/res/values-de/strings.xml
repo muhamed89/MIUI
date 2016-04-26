@@ -2767,7 +2767,7 @@ Diese Einstellung betrifft alle Nutzer auf diesem Telefon."</string>
   <string name="screen_key_long_press_action">Optionen</string>
   <string name="screen_key_long_press_timeout">Verzögerung</string>
   <string name="screen_key_position">Navigationstasten</string>
-  <string name="screen_key_press">Drücken Sie die Navigationstasten</string>
+  <string name="screen_key_press">Kurzer Tastendruck</string>
   <string name="screen_key_press_action">Auslösefunktion</string>
   <string name="screen_locking_sounds_title">Bildschirmsperrentöne</string>
   <string name="screen_never_timeout_title">Niemals schlafen</string>
