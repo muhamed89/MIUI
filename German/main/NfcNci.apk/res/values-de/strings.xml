@@ -16,7 +16,7 @@
   <string name="beam_try_again">Geräte erneut nebeneinander platzieren</string>
   <string name="cancel">Abbrechen</string>
   <string name="complete_with">Durchführen mit</string>
-  <string name="confirm_pairing">Möchten Sie das Bluetooth-Gerät %1$s wirklich koppeln?</string>
+  <string name="confirm_pairing">Möchten Sie das Bluetoothgerät %1$s wirklich koppeln?</string>
   <string name="connect_peripheral_failed">Verbindung zu %1$s nicht möglich</string>
   <string name="connected_peripheral">Mit %1$s verbunden</string>
   <string name="connecting_peripheral">Verbindung zu %1$s wird hergestellt</string>
@@ -34,7 +34,7 @@
   <string name="pair_no">Nein</string>
   <string name="pair_yes">Ja</string>
   <string name="pairing_peripheral">Paarung mit %1$s wird durchgeführt</string>
-  <string name="pairing_peripheral_failed">Pairing mit %1$s nicht möglich</string>
+  <string name="pairing_peripheral_failed">Paarung mit %1$s nicht möglich</string>
   <string name="pay_with">Zahlen mit</string>
   <string name="prompt_connect_to_network">Verbindung zum Netzwerk %1$s herstellen?</string>
   <string name="status_unable_to_connect">Verbindung zum Netzwerk konnte nicht hergestellt werden.</string>
