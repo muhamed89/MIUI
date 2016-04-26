@@ -17,8 +17,8 @@
     </string-array>
     <string-array name="date_of_app_all">
         <item>Gestern (Mobil)</item>
-        <item>Heute (Mobil))</item>
-        <item>Monat (Mobil) (data)</item>
+        <item>Heute (Mobil)</item>
+        <item>Monat (Mobil)</item>
         <item>Gestern WLAN</item>
         <item>Heute WLAN</item>
         <item>Monat WLAN</item>
