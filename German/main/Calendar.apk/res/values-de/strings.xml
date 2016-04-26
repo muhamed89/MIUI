@@ -224,6 +224,8 @@
   <string name="local_calendar_display_name">Lokaler Kalender</string>
   <string name="local_owner_account_name">Lokales Konto</string>
   <string name="lunar_date">Monddatum</string>
+  <string name="match_ed">Beendet</string>
+  <string name="match_ing">Laufend</string>
   <string name="menu_about_preferences">Über Kalender</string>
   <string name="menu_general_preferences">Allgemein</string>
   <string name="menu_preferences">Einstellungen</string>

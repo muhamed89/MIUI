@@ -313,6 +313,8 @@
   <string name="search_hint">Suche Onlinevideo</string>
   <string name="search_result_empty_hint">Kein Treffer</string>
   <string name="search_result_empty_text">"Es konnte nichts gefunden werden"</string>
+  <string name="search_snack_more">Weiter Informationen</string>
+  <string name="search_snack_sniff">Die ganze Webquelle</string>
   <string name="second"> Sekunde</string>
   <string name="see_all_count_comment">%d weitere Kommentare</string>
   <string name="select_all">Alle auswählen</string>
@@ -329,9 +331,9 @@
   <string name="share_device">Freigegebenes Gerät</string>
   <string name="similar">ähnliche</string>
   <string name="sina">Sina</string>
-  <string name="sniff">Sniff</string>
+  <string name="sniff">Quelle</string>
   <string name="souhu">Souhu</string>
-  <string name="source_error">Fehler bei Quelle</string>
+  <string name="source_error">Fehler bei der Quelle</string>
   <string name="star1">1 Stern</string>
   <string name="star2">2 Sterne</string>
   <string name="star3">3 Sterne</string>

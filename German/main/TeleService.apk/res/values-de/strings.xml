@@ -188,6 +188,7 @@
   <string name="call_record_auto_whitelist_no_item">Drücken Sie die + Taste um ein Nummer hinzuzufügen</string>
   <string name="call_record_auto_whitelist_summary">%d Nummern</string>
   <string name="call_record_auto_whitelist_summary_for_one">1 Nummer</string>
+  <string name="call_record_loading_content">Wird geladen…</string>
   <string name="call_record_off_summary">Auto-Aufnahme deaktiviert</string>
   <string name="call_record_on_summary">Auto-Aufnahme aktiviert</string>
   <string name="call_record_setting">Anrufaufnahmeeinstellungen</string>

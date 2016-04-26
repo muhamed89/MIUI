@@ -34,6 +34,7 @@
   <string name="add_to_secret_failed_with_reason">"Kann dem versteckten Album nicht hinzugefügt werden. %1$s."</string>
   <string name="add_to_secret_failed_with_reason_and_count">"%2$s Elemente können nicht dem versteckten Album hinzugefügt werden. %1$s."</string>
   <string name="add_to_secret_successful">Zum versteckten Album hinzugefügt</string>
+  <string name="adding">Wird hinzugefügt</string>
   <string name="add_to_cloud_album">Zu einem Album hinzufügen</string>
   <string name="add_to_cloud_exceeded_the_size_message">Datei zu groß</string>
   <string name="add_to_cloud_failed_message_with_count">%2$s Elemente können dem Cloudalbum: %1$s nicht hinzugefügt werden</string>
@@ -309,6 +310,7 @@
   <string name="delete_owner_and_other_shared_images_format">%1$d gelöscht, %2$d behalten</string>
   <string name="delete_third_party_photo">Dieses Foto löschen?</string>
   <string name="delete_third_party_video">Dieses Video löschen?</string>
+  <string name="delete_to_trash_tips">Synchronisierte Fotos, die kürzlich gelöscht wurden, können Sie in den Einstellungen im Papierkorb ansehen</string>
   <string name="deny">Verweigern</string>
   <string name="description">Beschreibung</string>
   <string name="deselect_all">Keine</string>
@@ -947,6 +949,7 @@
   <string name="user_policy">Datenschutzbestimmungen</string>
   <string name="user_notice_identify_summary_format">"Wenn Sie diesen Service nutzen, stimmen Sie Xiaomi's %1$s und %2$s zu."</string>
   <string name="user_notice_title">Achtung</string>
+  <string name="video_edit_file_not_exits_tip">Sie müssen das Video zuerst herunterladen</string>
   <string name="video_err">Video kann nicht abgespielt werden</string>
   <string name="video_not_exist">Video existiert nicht</string>
   <string name="videos">Videos</string>

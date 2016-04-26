@@ -19,6 +19,8 @@
   <string name="add_slide_hint">Neues Dia hinzufügen</string>
   <string name="add_smiley">Smiley</string>
   <string name="add_timing">Zeitplan</string>
+  <string name="add_to_browser_favorite_failed">fehlgeschlagen</string>
+  <string name="add_to_browser_favorite_success">erfolgreich</string>
   <string name="add_video">Video hinzufügen</string>
   <string name="adding_attachments">Bitte warten während die Elemente zur Diashow hinzugefügt werden</string>
   <string name="adding_attachments_title">Anhänge werden hinzugefügt</string>
