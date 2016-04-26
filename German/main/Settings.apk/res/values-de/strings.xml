@@ -90,7 +90,6 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
   <string name="account_autostar_label">Autostart</string>
   <string name="account_contact_backup_info">Google Konto, Mi Konto und Kontakte</string>
   <string name="account_list">Andere Konten</string>
-  <string name="account_list">Alle</string>
   <string name="account_settings">Konten</string>
   <string name="account_settings_menu_auto_sync">Auto-Sync Daten</string>
   <string name="account_settings_menu_auto_sync_personal">Auto-Sync persönl. Daten</string>
