@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Sicherheits-Service-Plugin</string>
+  <string name="app_name">Sicherheitsserviceplugin</string>
   <string name="cancel_button">Abbruch</string>
   <string name="empty">" "</string>
   <string name="main_toolbar_purchase">Aufladen</string>
@@ -25,7 +25,7 @@
   <string name="no_network_btn">Erneut versuchen</string>
   <string name="ok_button">OK</string>
   <string name="open_browser">Im Browser öffnen</string>
-  <string name="pm_lable_name">Über Root-Zugriff</string>
+  <string name="pm_lable_name">Über Rootzugriff</string>
   <string name="privacy_declare_dialog_title">Nutzungsbedingungen</string>
   <string name="privacy_prompt_traffic_purchase_message">Um mehr Details über Ihre Bezahloptionen zu erhalten, wird Ihre Telefonnummer und die Anbieterdetails verschlüsselt und an Xiaomi gesendet.</string>
   <string name="share">Teilen</string>
