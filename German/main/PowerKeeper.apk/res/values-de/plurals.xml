@@ -5,8 +5,8 @@
        <item quantity="one">%1$d Schritt vom UUltimativmodus entfernt</item>
     </plurals>
     <plurals name="power_config_ultimate_off_count">
-       <item quantity="other">%1$d Schritte vom Verslassen des Ultimativmodus entfernt</item>
-       <item quantity="one">%1$d Schritt vom Verslassen des Ultimativmodus entfernt</item>
+       <item quantity="other">%1$d Schritte vom Verlassen des Ultimativmodus entfernt</item>
+       <item quantity="one">%1$d Schritt vom Verlassen des Ultimativmodus entfernt</item>
     </plurals>
     <plurals name="power_config_ultimate_unlock_count">
        <item quantity="other">Beenden Sie %1$d Schritte, um alle Elemente freizuschalten</item>
