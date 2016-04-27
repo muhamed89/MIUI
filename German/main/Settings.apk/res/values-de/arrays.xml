@@ -754,7 +754,7 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="common_password_business_names">
         <item>Tastensperre</item>
-        <item>Jugendschutz</item>
+        <item>Kindersicherung</item>
         <item>Dateien</item>
         <item>App lock</item>
     </string-array>
