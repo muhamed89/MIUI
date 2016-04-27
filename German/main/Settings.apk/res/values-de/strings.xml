@@ -778,8 +778,8 @@ Broadcasting nutzt Low-Power Bluetooth Signale."</string>
   <string name="checking_for_updates">Prüfe auf Updates...</string>
   <string name="children_mode_enable_title">Kindersicherung</string>
   <string name="children_mode_set_apps_title">Erlaubte Apps</string>
-  <string name="children_mode_tips_off">Nachdem die Kindersicherung eingeschaltet wurde, drücke den Home Button um zurückzukehren.</string>
-  <string name="children_mode_tips_on">Nachdem die Kindersicherung ausgeschaltet wurde, drücke den Home Button um zurückzukehren.</string>
+  <string name="children_mode_tips_off">Nachdem die Kindersicherung eingeschaltet wurde, drücken Sie die Home-Taste um zurückzukehren</string>
+  <string name="children_mode_tips_on">Nachdem die Kindersicherung ausgeschaltet wurde, drücken Sie die Home-Taste um zurückzukehren</string>
   <string name="children_mode_title">Kindersicherung</string>
   <string name="choose_assist_title">Assistenten auswählen</string>
   <string name="choose_profile">Profil auswählen</string>
@@ -2453,7 +2453,7 @@ Betriebssystem auswählen:"</string>
   <string name="pref_button_light_summary">Menü-, Home- und Zurück-Taste beleuchten</string>
   <string name="pref_edge_handgrip">Kantensteuerungen</string>
   <string name="pref_operational_key">Tasten</string>
-  <string name="pref_volume_wake_summary">Lautstärketasten drücken, um Telefon aufzuwecken.</string>
+  <string name="pref_volume_wake_summary">Lautstärketasten drücken, um Telefon aufzuwecken</string>
   <string name="pref_volume_wake_title">Lautstärketasten</string>
   <string name="preference_change_password_title">Passwort ändern</string>
   <string name="preferred_app_settings">Standard App Einstellungen</string>
@@ -2771,7 +2771,7 @@ Diese Einstellung betrifft alle Nutzer auf diesem Telefon."</string>
   <string name="screen_key_press_action">Auslösefunktion</string>
   <string name="screen_locking_sounds_title">Bildschirmsperrentöne</string>
   <string name="screen_never_timeout_title">Niemals schlafen</string>
-  <string name="screen_on_proximity_sensor_summary">Das Telefon wird automatisch gesperrt wenn es in der Tasche ist.</string>
+  <string name="screen_on_proximity_sensor_summary">Das Telefon wird automatisch gesperrt wenn es in der Tasche ist</string>
   <string name="screen_on_proximity_sensor_title">Fehlbedienung verhindern</string>
   <string name="screen_optimize">Kontrast</string>
   <string name="screen_paper_mode_adjust_level">Stärke</string>
