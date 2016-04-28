@@ -97,7 +97,7 @@
   <string name="declaration">Nutzungsbedingungen</string>
   <string name="declaration_allow">Stimmen</string>
   <string name="declaration_content">"1. Bei Nutzung dieser App, stimmen Sie den Nutzungsbedingenungen von Sohu Video, iQiyi, und anderen Inhaltsanbietern "&lt;a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1"&gt;zu&lt;/a&gt;".
-2. Helfen Sie mit bei der Verbesserung dieses Produktes und senden Sie automatisch Diagnose und Nutzungsdaten an Xiaomi.
+2. Um das Benutzererlebnis zu verbessern, sammeln wir Daten über Ihr Gerät und die Inhalte, die sie betrachten. Youku und iQiyi werden auch Ihre Geräte-IMEI lesen.&amp;#8203;
 3. Unser HD-Videoplugin wird automatisch installiert.
 4. Diese App braucht einen Internetzugang um normal zu funktionieren."</string>
   <string name="declaration_content_td_custom">Diese App braucht einen Internetzugang, um normal zu funktionieren.</string>

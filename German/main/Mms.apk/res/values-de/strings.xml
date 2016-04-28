@@ -120,6 +120,9 @@
   <string name="delete_message">Löschen</string>
   <string name="delete_phrase">Vorlage löschen</string>
   <string name="delete_unlocked">Gesperrte Nachrichten löschen</string>
+  <string name="delete_wild_sims">Nummern löschen</string>
+  <string name="delete_wild_sims_confirm">Alle Nachrichten, die zu den ausgewählten Nummern gehören, werden von diesem Telefon gelöscht. Auf i.mi.com können Sie sie wiederherstellen.</string>
+  <string name="delete_wild_sims_title">Ausgewählte Nummern löschen</string>
   <string name="delivery_report_activity">Zustellbericht</string>
   <string name="delivery_toast_body">%s hat die Nachricht erhalten.</string>
   <string name="disable_notifications_dialog_message">Doppelte SMS-Benachrichtigungen von der Standardnachrichtenapp verhindern?</string>

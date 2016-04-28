@@ -28,6 +28,15 @@
   <string name="action_text_new_event">Neuer Termin</string>
   <string name="action_text_online">Abonniert</string>
   <string name="action_text_today">Heute</string>
+  <string name="ad_card_connecting">Verbinden…</string>
+  <string name="ad_card_download_count">%1$s Downloads</string>
+  <string name="ad_card_download_count_million">%1$s Millionen Downloads</string>
+  <string name="ad_card_downloading">Wird heruntergeladen…</string>
+  <string name="ad_card_install">Installieren</string>
+  <string name="ad_card_installed">Installiert</string>
+  <string name="ad_card_installing">Wird installiert…</string>
+  <string name="ad_card_network_error">Keine Netzwerkverbindung, versuchen Sie es später noch einmal!</string>
+  <string name="ad_card_spread">Verbreitung</string>
   <string name="add_account">Konto hinzufügen</string>
   <string name="add_calendar">Kalender hinzufügen</string>
   <string name="add_card">Karte hinzufügen</string>

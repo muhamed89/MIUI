@@ -391,11 +391,12 @@ Kontaktkarten sind ausgeschaltet.</string>
   <string name="event_edit_field_hint_text">Datum</string>
   <string name="export_sim_contact_finish">Export abgeschlossen</string>
   <string name="export_sim_contact_finish_msg">%1$d übertragen | %2$d übersprungen | %3$d verbleibend</string>
-  <string name="export_to_sdcard">In Speicher exportieren</string>
+  <string name="export_to_sdcard">Auf die SD-Karte exportieren</string>
   <string name="export_to_sim">Auf SIM-Karte exportieren</string>
   <string name="export_to_sim1">Auf SIM-Karte 1 exportieren</string>
   <string name="export_to_sim2">Auf SIM-Karte 2 exportieren</string>
   <string name="export_to_sim_title">Exportiere…</string>
+  <string name="export_to_storage">Auf internen Speicher exportieren</string>
   <string name="export_vcard_description">"vCard in USB-Speicher exportieren"</string>
   <string name="exporting_contact_failed_message">"Die Kontaktdaten wurden nicht exportiert.
 Grund: \"%s\"."</string>
@@ -1069,6 +1070,10 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="status_available">Verfügbar</string>
   <string name="status_away">Abwesend</string>
   <string name="status_busy">Beschäftigt</string>
+  <string name="storage_internal_description">Internal storage</string>
+  <string name="storage_sd_card">SD-Karte</string>
+  <string name="storage_sd_card_description">SD-Karte</string>
+  <string name="storage_usb_description">USB-Speicher</string>
   <string name="strequentList">Favoriten</string>
   <string name="success_message_import_from_account">Kontakt importiert</string>
   <string name="summary_kind_title">Zusammenfassung</string>

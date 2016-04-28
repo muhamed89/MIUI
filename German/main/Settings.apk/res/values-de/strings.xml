@@ -3752,8 +3752,11 @@ Jeder Nutzer kann aktualisierte App-Berechtigungen im Namen aller anderen Nutzer
   <string name="vibrate_input_devices_summary">Vibration an Controller weitergeben, wenn verbunden.</string>
   <string name="vibrate_on_touch_title">Bei Berührung vibrieren</string>
   <string name="vibrate_when_ringing_title">Bei Klingeln vibrieren</string>
-  <string name="virtual_sim_category_title">Virtuelle SIM</string>
+  <string name="virtual_sim_category_title">Mi Roaming</string>
   <string name="virtual_sim_description">Zuverlässiger internationaler Roaming-Dienst</string>
+  <string name="virtual_sim_global_category_title">Mi SIM</string>
+  <string name="virtual_sim_global_description">Es ist keine SIM-Karte erforderlich, um sich mit einem Netzwerk zu verbinden</string>
+  <string name="virtual_sim_global_title">Datenverkehrsdienst</string>
   <string name="virtual_sim_search_title">Virtuelle SIM-Karte</string>
   <string name="virtual_sim_title">Roaming Datennetzwerk</string>
   <string name="virus_scan">Antivirus</string>

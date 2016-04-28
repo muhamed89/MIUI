@@ -12,6 +12,7 @@
   <string name="activate_feature_mx">Mi Nachrichten</string>
   <string name="activate_feature_mx_and_voip">Mi Nachricht und Sprache</string>
   <string name="activate_feature_register_xiaomi_account">Mi Konto einrichten</string>
+  <string name="activate_feature_remote_assist">Fernassistent</string>
   <string name="activate_feature_verify_mx_token">Mi Konto überprüfung</string>
   <string name="activate_history_cancelled">abgebrochen</string>
   <string name="activate_history_multisim_overview">Aktivierung für SIM Karte %3$d %1$s. Es wir ausgelöst mit der Funktion \"%2$s\".</string>
