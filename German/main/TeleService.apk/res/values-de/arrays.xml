@@ -7,11 +7,11 @@
     </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>TD-SCDMA, LTE, CDMA, EvDo GSM/WCDMA</item>
-        <item>TD-SCDMA, GSM/WCDMA, CDMA and EvDo</item>
-        <item>TD-SCDMA, GSM/WCDMA and LTE</item>
-        <item>TD-SCDMA, WCDMA and LTE</item>
+        <item>TD-SCDMA, GSM/WCDMA, CDMA und EvDo</item>
+        <item>TD-SCDMA, GSM/WCDMA und LTE</item>
+        <item>TD-SCDMA, WCDMA und LTE</item>
         <item>TD-SCDMA, GSM/WCDMA</item>
-        <item>TD-SCDMA, GSM and LTE</item>
+        <item>TD-SCDMA, GSM und LTE</item>
         <item>TD-SCDMA und GSM</item>
         <item>TD-SCDMA und LTE</item>
         <item>TD-SCDMA und WCDMA</item>
@@ -42,13 +42,13 @@
         <item>Alle</item>
     </string-array>    
     <string-array name="list_language_entries">
-        <item>English</item>
-        <item>French</item>
-        <item>Spanish</item>
-        <item>Japanese</item>
-        <item>Korean</item>
-        <item>Chinese</item>
-        <item>Hebrew</item>
+        <item>Englisch</item>
+        <item>Französisch</item>
+        <item>Spanisch</item>
+        <item>Japanisch</item>
+        <item>Koreanisch</item>
+        <item>Chinesisch</item>
+        <item>Hebräisch</item>
     </string-array>
     <string-array name="list_language_values">
         <item>1</item>
