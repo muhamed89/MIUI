@@ -7,13 +7,13 @@
   <string name="button_queue_for_wifi">Warteschlange</string>
   <string name="button_start_now">Download</string>
   <string name="call_record">Anrufaufnahmen (%d)</string>
-  <string name="cloud_record">Cloud-Aufnahme (%d)</string>
+  <string name="cloud_record">Cloudaufnahme (%d)</string>
   <string name="cloud_record_open">Aufnahmen synchronisieren</string>
   <string name="cloud_record_tip">Aufnahmen mit der Mi Cloud synchronisieren.</string>
   <string name="cloud_status_full_dialog_cancel">Nicht jetzt</string>
-  <string name="cloud_status_full_dialog_msg">"Die Aufnahmen können nicht synchronisiert werden, weil Ihr Cloud-Speicher voll ist. Erweitern Sie Ihr Konto, um mehr Speicherplatz zu erhalten."</string>
+  <string name="cloud_status_full_dialog_msg">"Die Aufnahmen können nicht synchronisiert werden, weil Ihr Cloudspeicher voll ist. Erweitern Sie Ihr Konto, um mehr Speicherplatz zu erhalten."</string>
   <string name="cloud_status_full_dialog_ok">Erweitern</string>
-  <string name="cloud_status_full_dialog_title">Der Mi Cloud-Speicher ist voll</string>
+  <string name="cloud_status_full_dialog_title">Der Mi Cloudspeicher ist voll</string>
   <string name="data_connection_body">Download im mobilen Datennetzwerk kann erhöhte Kosten verursachen</string>
   <string name="data_connection_button_text">OK</string>
   <string name="data_connection_title">Tipp</string>
@@ -26,7 +26,7 @@
   <string name="duration_format_minute">%sm</string>
   <string name="duration_format_second">%ss</string>
   <string name="error_app_internal">Möglicherweise wird die Aufnahmesoftware von einer anderen App benutzt. Überprüfen und erneut versuchen.</string>
-  <string name="error_app_internal_title">Soundrekorder Fehler</string>
+  <string name="error_app_internal_title">Soundrekorderfehler</string>
   <string name="error_file_access">Die Datei existiert nicht oder ist beschädigt</string>
   <string name="error_filename_illegal_char">Dateiname enthält mindestens ein ungültiges Zeichen</string>
   <string name="error_filename_too_long">Dateiname zu lang</string>
@@ -34,7 +34,7 @@
   <string name="error_sdcard_unmounted">SD-Karte nicht eingebunden, SD-Karte einsetzen</string>
   <string name="fm_record">Radioaufnahmen (%d)</string>
   <string name="loading_recording">Aufnahmen werden geladen</string>
-  <string name="low_battery_error">Der Akku hat weniger als 5%. Damit die Aufnahme nicht veloren geht, wurde sie gestoppt und gespeichert.</string>
+  <string name="low_battery_error">Der Akku hat weniger als 5%. Damit die Aufnahme nicht verloren geht, wurde sie gestoppt und gespeichert.</string>
   <string name="message_file_size_error">Die maximal unterstützte Aufnahmelänge für %s wurde erreicht</string>
   <string name="no_downloading_file">Momentan werden keine Dateien runtergeladen</string>
   <string name="no_file">Keine Aufnahmen</string>
@@ -58,10 +58,10 @@
   <string name="preference_tip_rename">Aufnahmen selbst bennenen</string>
   <string name="record_back_pressed_hint">Um die Aufnahme anzuhalten, nochmal den Zurück-Knopf berühren</string>
   <string name="record_download">Download von Mi Cloud</string>
-  <string name="record_download_activity">Aufnahme-Downloader</string>
+  <string name="record_download_activity">Aufnahmedownloader</string>
   <string name="record_download_complete">Fertig</string>
   <string name="record_download_failed">Fehlgeschlagen</string>
-  <string name="record_download_manager">Download-Manager</string>
+  <string name="record_download_manager">Downloadmanager</string>
   <string name="record_download_msg">Aufnahmen können erst abgespielt werden nachdem sie vollständig runtergeladen sind.</string>
   <string name="record_download_msg_reload">Aufnahme nicht vorhanden</string>
   <string name="record_download_paused">Angehalten</string>
@@ -72,8 +72,8 @@
   <string name="record_downloading_notification_count">%d geladen</string>
   <string name="record_list">Aufnahmen</string>
   <string name="record_list_call">Anrufaufnahmen</string>
-  <string name="record_list_cloud">Cloud-Aufnahmen</string>
-  <string name="record_list_cloud_call">Cloud-Anrufaufnahmen</string>
+  <string name="record_list_cloud">Cloudaufnahmen</string>
+  <string name="record_list_cloud_call">Cloudanrufaufnahmen</string>
   <string name="record_list_cloud_fm">Cloud-FM-Aufnahmen</string>
   <string name="record_list_fm">FM-Aufnahmen</string>
   <string name="record_name_hour">.</string>
@@ -95,12 +95,12 @@
   <string name="status_bar_recording">Aufnahme läuft…</string>
   <string name="status_bar_recording_pause">Aufnahme angehalten</string>
   <string name="sync_only_in_wifi">Synchronisation nur über WLAN</string>
-  <string name="sync_only_in_wifi_summary">Wenn diese Funktion ausgeschaltet ist, verwendet der Rekorder Ihre Mobile Datenverbindung zum Hoch- und Runterladen der Aufnahmen</string>
+  <string name="sync_only_in_wifi_summary">Wenn diese Funktion ausgeschaltet ist, verwendet der Rekorder Ihre mobile Datenverbindung zum Hoch- und Runterladen der Aufnahmen</string>
   <string name="sync_records">Synchronisation mit Mi Cloud</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="toast_file_is_downloading">Datei wird geladen</string>
   <string name="toast_max_record_time">%1$s kann Aufnehmen für %2$s</string>
   <string name="toast_uninstall_fileexplorer">Dateibrowser nicht installiert</string>
-  <string name="wifi_recommended_body" formatted="false">Wenn Sie Ihre mobile Datenverbindung zum Herunterladen von (%s) nutzen, dann wird Ihre Datennutzung erhöht. Wenn Sie Ihre Tarif-Datengrenze überschreiten, kann Ihr Anbieter zusätzlich Kosten verlangen. Um auf eine WLAN-Verbindung für den Download zu warten, hier %s tippen.</string>
+  <string name="wifi_recommended_body" formatted="false">Wenn Sie Ihre mobile Datenverbindung zum Herunterladen von (%s) nutzen, dann wird Ihre Datennutzung erhöht. Wenn Sie Ihre Tarifdatengrenze überschreiten, kann Ihr Anbieter zusätzlich Kosten verlangen. Um auf eine WLAN-Verbindung für den Download zu warten, hier %s tippen.</string>
   <string name="wifi_recommended_title">Datennutzungswarnung</string>
 </resources>
