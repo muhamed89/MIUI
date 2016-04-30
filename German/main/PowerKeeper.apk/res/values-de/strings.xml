@@ -50,7 +50,7 @@
   <string name="high">Leistung</string>
   <string name="hints_loading_text">Lade…</string>
   <string name="invalid_size_value">Paketgrösse konnte nicht ermittelt werden</string>
-  <string name="keep_connect_description">Apps können sich im hintergrund mit einem Netzwerk verbinden</string>
+  <string name="keep_connect_description">Apps können sich im Hintergrund mit einem Netzwerk verbinden</string>
   <string name="keep_connect_title">Verbunden bleiben</string>
   <string name="location_disable_description">Apps können im Hintergrund nur kurz auf Standortdienste zugreifen. Der dauerhafte Zugriff ist beschränkt</string>
   <string name="location_disable_title">Verweigert</string>
@@ -76,7 +76,7 @@
   <string name="operation_create_group">Name</string>
   <string name="operation_create_group_message">Neuen Gruppennamen eingeben</string>
   <string name="power_checker_recent_btn_title">Energieeinstellung</string>
-  <string name="power_checker_recent_group_title">Vor kurzem</string>
+  <string name="power_checker_recent_group_title">Vor Kurzem</string>
   <string name="power_checker_running_btn_title">Prozess unterbrechen</string>
   <string name="power_checker_running_group_title">Ausführen</string>
   <string name="power_checker_title">PowerChecker</string>
@@ -94,12 +94,12 @@
   <string name="power_config_cpu_freq_dialog_title">CPU-Frequenz</string>
   <string name="power_config_cpu_freq_title">CPU-Frequenz</string>
   <string name="power_config_cpu_mode_dialog_title">CPU-Modus</string>
-  <string name="power_config_cpu_mode_title">CPU Modus</string>
-  <string name="power_config_data_connect_summary">Apps erlauben sich im Hintergrund mit dem Netzwerk zu verbinden</string>
+  <string name="power_config_cpu_mode_title">CPU-Modus</string>
+  <string name="power_config_data_connect_summary">Apps erlauben, sich im Hintergrund mit dem Netzwerk zu verbinden</string>
   <string name="power_config_data_connect_title">Datenverbindung</string>
   <string name="power_config_disable_description">Appaktivitäten im Hintergrund werden nicht eingeschränkt</string>
   <string name="power_config_disable_title">Aus</string>
-  <string name="power_config_enhance_description">Aktivitäten aller Apps im Hintergrund werden wenn es möglich eingeschränkt</string>
+  <string name="power_config_enhance_description">Appaktivitäten im Hintergrund werden, wenn möglich, eingeschränkt</string>
   <string name="power_config_enhance_title">Erweitert</string>
   <string name="power_config_event_delete">Löschen</string>
   <string name="power_config_idle_notification_summary">Nur die erste Benachrichtigung der App anzeigen</string>
