@@ -509,7 +509,7 @@
   <string name="error_type_network">Netzwerkfehler</string>
   <string name="error_type_unknown">Unbekannter Fehler</string>
   <string name="error_updating_title">Anrufeinstellungsfehler</string>
-  <string name="exception_error">Netzwerk oder SIM-Karten Fehler</string>
+  <string name="exception_error">Netzwerk- oder SIM-Kartenfehler</string>
   <string name="expected_avaiable_minute">Minuten verbleibend</string>
   <string name="expected_avaiable_minute_summary">Internationale Tarife könnten schwanken</string>
   <string name="exportAllcontatsFailed">Export aller Kontakte auf die SIM-Karte fehlgeschlagen</string>
@@ -1144,7 +1144,7 @@ Ihre SIM-Karte wird nach einem weiteren gescheiterten Versuch gelöscht</string>
   <string name="purchase_rates_title">Preise</string>
   <string name="query">Abfrage</string>
   <string name="quickly_verify">Verify</string>
-  <string name="radio_off_error">Aktivieren Sie Ihre Mobilfunkverbindung, bevor Sie diese Einstellungen anzeigen</string>
+  <string name="radio_off_error">Aktivieren Sie Ihre Mobilfunkverbindung, bevor Sie diese Einstellungen anzeigen.</string>
   <string name="rates_correspond">Entsprechende Preise</string>
   <string name="rc_unlock_failed">Firmen-RUIM-Entsperrung fehlgeschlagen</string>
   <string name="rc_unlock_success">Entsperren der Firmen-RUIM erfolgreich</string>
@@ -1206,7 +1206,7 @@ Ihre SIM-Karte wird nach einem weiteren gescheiterten Versuch gelöscht</string>
   <string name="respond_via_sms_menu_reset_default_activity">Standard wiederherstellen</string>
   <string name="respond_via_sms_setting_summary">Vorlagen bearbeiten</string>
   <string name="respond_via_sms_setting_title">Kurzantworten</string>
-  <string name="response_error">Unerwartete Antwort von Netzwerk</string>
+  <string name="response_error">Unerwartete Antwort vom Netzwerk.</string>
   <string name="restaurants_disable">Restaurants ausgeschaltet</string>
   <string name="restaurants_enable">Restaurants eingeschaltet</string>
   <string name="retail_directory_disable">Handelsverzeichnis deaktiviert</string>
@@ -1310,8 +1310,8 @@ Ihre SIM-Karte wird nach einem weiteren gescheiterten Versuch gelöscht</string>
   <string name="stk_cc_ss_to_ussd_error">SS-Anfrage wurde in USSD-Anfrage umgewandelt</string>
   <string name="stock_quotes_disable">Börsennotierungen deaktiviert</string>
   <string name="stock_quotes_enable">Börsennotierungen aktiviert</string>
-  <string name="sub1LineNumber">Sub1 Nummer :</string>
-  <string name="sub2LineNumber">Sub2 Nummer :</string>
+  <string name="sub1LineNumber">Sub1 Nummer:</string>
+  <string name="sub2LineNumber">Sub2 Nummer:</string>
   <string name="sum_carrier_select">Choose a network operator</string>
   <string name="sum_cdma_call_settings">Zusätzliche Anrufeinstellungen nur für CDMA</string>
   <string name="sum_cfb_disabled">Ausgeschaltet</string>
