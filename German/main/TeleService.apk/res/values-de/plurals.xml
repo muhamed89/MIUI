@@ -5,11 +5,11 @@
         <item quantity="one">Keine Datenverbindung seit %s Minute</item>
     </plurals>
     <plurals name="alert_dialog_exit_ecm">
-        <item quantity="other">Das Telefon wird in den Notfallrückrufmodus für %s Minuten geschalten. Während dieser Zeit können keine Anwendungen mit Datenverbindungen genutzt werden. Möchten Sie diesen jetzt abbrechen?</item>
-        <item quantity="one">Das Telefon wird in den Notfallrückrufmodus für %s Minute geschalten. Während dieser Zeit können keine Apps mit Datenverbindungen genutzt werden. Möchten Sie diesen jetzt abbrechen?</item>
+        <item quantity="other">Das Telefon wird für %s Minuten in den Notfallrückrufmodus  geschaltet. Während dieser Zeit können keine Apps mit Datenverbindung genutzt werden. Möchten Sie diesen jetzt deaktivieren?</item>
+        <item quantity="one">Das Telefon wird für %s Minute in den Notfallrückrufmodus geschaltet. Während dieser Zeit können keine Apps mit Datenverbindung genutzt werden. Möchten Sie diesen jetzt deaktivieren?</item>
     </plurals>
     <plurals name="alert_dialog_not_avaialble_in_ecm">
-        <item quantity="other">"Die gewünschte Aktion ist im Notfallrückrufmodus nicht verfügbar. Das Telefon wird in diesem Modus für die nächsten %s Minuten sein. Möchten Sie diesen jetzt abbrechen?"</item>
-        <item quantity="one">"Die gewünschte Aktion ist im Notfallrückrufmodus nicht verfügbar. Das Telefon wird in diesem Modus für die nächsten %s Minute sein. Möchten Sie diesen jetzt abbrechen?"</item>
+        <item quantity="other">"Die gewünschte Aktion ist im Notfallrückrufmodus nicht verfügbar. Das Telefon ist die nächsten %s Minuten in diesem Modus. Möchten Sie diesen jetzt deaktivieren?"</item>
+        <item quantity="one">"Die gewünschte Aktion ist im Notfallrückrufmodus nicht verfügbar. Das Telefon ist die nächste %s Minute in diesem Modus. Möchten Sie diesen jetzt deaktivieren?"</item>
     </plurals>
 </resources>
