@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="permission_description">"Allows the application to directly affect the device's display paramter"</string>
-  <string name="permission_label">Affect Display Settings</string>
+  <string name="permission_description">"Erlaubt der Anwendung die Anzeigeparameter des Geräts direkt zu beeinflussen"</string>
+  <string name="permission_label">Anzeigeeinstellungen beeinflussen</string>
 </resources>
