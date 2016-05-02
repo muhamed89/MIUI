@@ -10,8 +10,8 @@
   <string name="headset_plugin_view_text">Headset ist angesteckt</string>
   <string name="headset_plugin_view_title">Headset</string>
   <string name="incall_error_call_failed">Anruf fehlgeschlagen</string>
-  <string name="no_vm_number">Fehlende Mailbox-Nummer</string>
-  <string name="no_vm_number_msg">Auf der SIM-Karte ist keine Mailbox-Nummer gespeichert.</string>
+  <string name="no_vm_number">Fehlende Mailboxnummer</string>
+  <string name="no_vm_number_msg">Auf der SIM-Karte ist keine Mailboxnummer gespeichert.</string>
   <string name="notification_missedCallTicker">Entgangener Anruf von %s</string>
   <string name="notification_missedCallTitle">Entgangener Anruf</string>
   <string name="notification_missedCall_call_back">Rückruf</string>
@@ -27,7 +27,7 @@
   <string name="respond_via_sms_canned_response_4">"Ich kann im Moment nicht sprechen. Rufst du mich später zurück?"</string>
   <string name="respond_via_sms_confirmation_format">Nachricht an %s gesendet.</string>
   <string name="respond_via_sms_edittext_dialog_title">Kurzantwort</string>
-  <string name="respond_via_sms_menu_reset_default_activity">Standard App zurücksetzen</string>
+  <string name="respond_via_sms_menu_reset_default_activity">Standardapp zurücksetzen</string>
   <string name="respond_via_sms_setting_summary"/>
   <string name="respond_via_sms_setting_title">Kurzantworten</string>
   <string name="respond_via_sms_setting_title_2">Kurzantworten bearbeiten</string>
