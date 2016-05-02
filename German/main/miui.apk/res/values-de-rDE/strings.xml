@@ -98,7 +98,7 @@
   <string name="heavenly_stems_wu">戊</string>
   <string name="heavenly_stems_xin">辛</string>
   <string name="heavenly_stems_yi">乙</string>
-  <string name="hybrid_provider">The web page provided by %1$s</string>
+  <string name="hybrid_provider">Die Internetseite von %1$s</string>
   <string name="im">IM</string>
   <string name="label">MIUI SDK</string>
   <string name="midnight">AM</string>
@@ -216,10 +216,10 @@
   <string name="the_childrens_day">Kindertag</string>
   <string name="the_chinese_youth_day">Jugendtag</string>
   <string name="the_christmas_day">Weihnachten</string>
-  <string name="the_double_ninth_festival">Chongyang -Fest</string>
+  <string name="the_double_ninth_festival">Chongyang-Fest</string>
   <string name="the_dragon_boat_festival">Drachenboot-Festival</string>
   <string name="the_easter_day">Ostern</string>
-  <string name="the_eve_of_the_spring_festival">Vorabend des Frühlingsfest</string>
+  <string name="the_eve_of_the_spring_festival">Vorabend des Frühlingsfests</string>
   <string name="the_fifth_day">Fünfter Tag</string>
   <string name="the_fools_day">Fools Day</string>
   <string name="the_forth_day">Fourth Day</string>
