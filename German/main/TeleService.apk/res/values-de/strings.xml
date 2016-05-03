@@ -52,7 +52,7 @@
   <string name="atr_disable">Verkehrsmeldungen deaktiviert</string>
   <string name="atr_enable">Verkehrsmeldungen aktiviert</string>
   <string name="audio_mode_bluetooth">Bluetooth</string>
-  <string name="audio_mode_earpiece">Telefohörer</string>
+  <string name="audio_mode_earpiece">Telefonhörer</string>
   <string name="audio_mode_speaker">Lautsprecher</string>
   <string name="audio_mode_wired_headset">Kopfhörer</string>
   <string name="auth_username_summary">Benutzernamen für die Authentifizierung</string>
