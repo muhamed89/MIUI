@@ -744,7 +744,7 @@
   <string name="re_download_message_info">Herunterladen der E-Mail fehlgeschlagen</string>
   <string name="read_string">Konversation gelesen</string>
   <string name="recipient_needed">Mindestens 1 Empfänger hinzufügen.</string>
-  <string name="recipient_needed_title">Warnung</string>
+  <string name="recipient_needed_title">Hinweis</string>
   <string name="reduce_the_receiving_frequencye_summary">E-Mails werden bei eingeschaltetem Nachtmodus seltener synchronisiert</string>
   <string name="reduce_the_receiving_frequencye_title">Seltener synchronisieren</string>
   <string name="refresh">Aktualisieren</string>
