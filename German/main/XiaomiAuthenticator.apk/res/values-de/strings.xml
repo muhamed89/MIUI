@@ -11,8 +11,8 @@
   <string name="app_name">Xiaomi Authenticator</string>
   <string name="app_name_lockpattern">LockPattern</string>
   <string name="app_name_short">Authenticator</string>
-  <string name="authenticator_invalid_tip">Sie haben eventuell diese Funktion mit Ihrem Desktop-Browser ausgestellt oder haben einen anderen Mi Security Token aktiviert.</string>
-  <string name="authenticator_invalid_title">Account：%1$s Sicherheits-Token ist abgelaufen.</string>
+  <string name="authenticator_invalid_tip">Sie haben eventuell diese Funktion mit Ihrem Desktopbrowser ausgestellt oder haben einen anderen Mi Security Token aktiviert.</string>
+  <string name="authenticator_invalid_title">Account：%1$s Sicherheitstoken ist abgelaufen.</string>
   <string name="authenticator_page_reactivation">Reaktivieren</string>
   <string name="button_add_account">Konto hinzufügen</string>
   <string name="button_add_account_manual_entry">Manuell ein Konto hinzufügen</string>
@@ -23,7 +23,7 @@
   <string name="button_next">Weiter</string>
   <string name="button_uninstall_old_app">Deinstallieren</string>
   <string name="cancel">Abbrechen</string>
-  <string name="change_security_lock">Mehr Bildschirm-sperr Möglichkeiten</string>
+  <string name="change_security_lock">Mehr Bildschirmsperrmöglichkeiten</string>
   <string name="check_code">Um den korrekten Schlüsselwert für %1$s zu überprüfen, bestätigen Sie den Integritätsprüfwert, der vom Server bereitgestellt wird:&lt;br/&gt;</string>
   <string name="check_code_menu_item">Schlüsselwert überprüfen</string>
   <string name="check_code_title">Integritätsprüfwert</string>
@@ -32,9 +32,9 @@
   <string name="correct_enter_password">Das eingegebene Passwort ist korrekt</string>
   <string name="correct_enter_update_password">Das eingegebene Passwort ist korrekt</string>
   <string name="counter_pin">Code bekommen</string>
-  <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Ihre Daten wurden erfolgreich aus der veralteten Xiaomi Authenticator App importiert. Jetzt kann die vorherige Version sicher deinstalliert werden, indem Sie unten klicken.</string>
+  <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Ihre Daten wurden erfolgreich aus der veralteten Xiaomi Authenticatorapp importiert. Jetzt kann die vorherige Version sicher deinstalliert werden, indem Sie unten klicken.</string>
   <string name="dataimport_import_succeeded_uninstall_dialog_title">Import erfolgreich</string>
-  <string name="decoding_exception">Decodierungs-Ausnahme</string>
+  <string name="decoding_exception">Decodierungsausnahme</string>
   <string name="details_patternforgotten">"Reaktiviere: 
 Bei account.xiaomi.com anmelden und Reactivate anklicken."</string>
   <string name="empty_pin">_ _ _ _ _ _</string>
@@ -42,17 +42,17 @@ Bei account.xiaomi.com anmelden und Reactivate anklicken."</string>
   <string name="enter_key_hint">Schlüssel eingeben</string>
   <string name="enter_key_illegal_char">Schlüsselwert hat ein unzulässiges Zeichen</string>
   <string name="enter_key_page_add_button">Hinzufügen</string>
-  <string name="enter_key_title">Manuelle Kontoeintrag</string>
+  <string name="enter_key_title">Manueller Kontoeintrag</string>
   <string name="enter_key_too_short">Schlüsselwert ist zu kurz</string>
-  <string name="enter_pin">Geben Sie diesen Bestätigungs-Code ein, wenn Sie während der Account-Anmeldung dazu aufgefordert werden:</string>
+  <string name="enter_pin">Geben Sie diesen Bestätigungscode ein, wenn Sie während der Accountanmeldung dazu aufgefordert werden:</string>
   <string name="error_empty_secret">Leeres Geheimnis kann nicht gespeichert werden</string>
   <string name="error_exists">Dieser Name wird schon verwendet.</string>
-  <string name="error_qr">Kann den QR Code nicht interpretieren.</string>
+  <string name="error_qr">Kann den QR-Code nicht interpretieren.</string>
   <string name="error_title">Fehler</string>
   <string name="error_uri">Schlüssel nicht erkannt.</string>
   <string name="forget_password"><u>Passwort vergessen</u></string>
   <string name="general_security_exception">Allgemeine Sicherheitsausnahme</string>
-  <string name="gif_not_support_camera_msg">Ihr Gerät unterstützt keine Video-Aufnahme.</string>
+  <string name="gif_not_support_camera_msg">Ihr Gerät unterstützt keine Videoaufnahme.</string>
   <string name="how_it_works_menu_item">Wie es funktioniert</string>
   <string name="howitworks_page_enter_code_details">Diese App wird den erforderlichen Code generieren, um bei der Anmeldung fortzufahren.</string>
   <string name="howitworks_page_enter_code_title">"Falls Sie sich mit einem neuen Rechner verbinden, bitte den Code per Telefon eingeben."</string>
@@ -61,8 +61,8 @@ Bei account.xiaomi.com anmelden und Reactivate anklicken."</string>
   <string name="howitworks_page_verify_device_details">"Sie können sich auch dazu entscheiden den Computer zu merken und Xiaomi wird dann nicht erneut nach dem Code fragen."</string>
   <string name="howitworks_page_verify_device_title">"Dann sind Sie angemeldet."</string>
   <string name="install_button">Installieren</string>
-  <string name="install_dialog_message">Um Barcodes zu scannen, die Schlüssel enthalten, müssen Sie den ZXing Barcode Scanner installieren.</string>
-  <string name="install_dialog_title">Barcode Scanner installieren?</string>
+  <string name="install_dialog_message">Um Strichcodes zu scannen, die Schlüssel enthalten, müssen Sie den ZXing Barcodescanner installieren.</string>
+  <string name="install_dialog_title">Strichcodescanner installieren?</string>
   <string name="jump_createpattern_tip">Passwort erstellen, um Ihr Konto zu schützen</string>
   <string name="jump_lockpattern_title">Achtung</string>
   <string name="jump_updatepattern_tip">Passwort erstellen, um Ihr Konto zu schützen</string>
@@ -82,7 +82,7 @@ Bei account.xiaomi.com anmelden und Reactivate anklicken."</string>
   <string name="lockpattern_recording_inprogress">Falls fertig, Finger loslassen.</string>
   <string name="lockpattern_recording_intro_header">Ein Entsperrmuster zeichnen:</string>
   <string name="lockpattern_redraw_button_text">Neu zeichnen</string>
-  <string name="lockpattern_retry_text">Muster-Passwort zurücksetzen</string>
+  <string name="lockpattern_retry_text">Musterpasswort zurücksetzen</string>
   <string name="lockpattern_settings_help_how_to_record">Wie man ein Entsperrmuster zeichnet</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Nochmal in %d Sekunden probieren.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Zu viele falsche Versuche!&lt;/font&gt;</string>
@@ -93,14 +93,14 @@ Bei account.xiaomi.com anmelden und Reactivate anklicken."</string>
   <string name="lockscreen_forgot_pattern_button_text"><u>Musterpasswort vergessen</u></string>
   <string name="login">Anmelden</string>
   <string name="main_preference_screen_title">Einstellungen</string>
-  <string name="mycard_scan_barcode">MiID Code Scanner</string>
+  <string name="mycard_scan_barcode">MiID-Codescanner</string>
   <string name="new_pattern_tip">Ihr Passwort sollte länger als 4 Zeichen sein</string>
   <string name="ok">OK</string>
   <string name="ok_button">OK</string>
   <string name="open_camera_exception_dialog_content">Problem mit der Systemkamera, starten Sie Ihr Gerät neu.</string>
   <string name="open_camera_exception_dialog_title">Fehlfunktion der Kamera</string>
   <string name="opensource_page_url">http://code.Xiaomi.com/p/Xiaomi-authenticator/</string>
-  <string name="opensource_preference_title">Open-source Projekt</string>
+  <string name="opensource_preference_title">Open-Source-Projekt</string>
   <string name="original_pattern_tip">Entsperrmuster eingeben</string>
   <string name="password_error">Das eingegebene Passwort ist falsch</string>
   <string name="password_forget">Passwort vergessen?</string>
@@ -108,20 +108,20 @@ Bei account.xiaomi.com anmelden und Reactivate anklicken."</string>
   <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
   <string name="privacy_preference_title">Datenschutzerklärung</string>
   <string name="progress_loading">Lädt…</string>
-  <string name="remove_Xiaomi_account_dialog_message">Dieses Konto entfernen wird <b>Ihre Fähigkeit entfernen </b> Codes zu generieren, jedoch, wird <b>not</b> die 2-Stufen-Verifizierung ausgestellt. Das könnte dazu führen, daß sich bei Ihrem Konto nicht mehr anmelden können. &lt;p&gt; Bevor Sie entfernen: &lt;ul&gt; &lt;li&gt;2-Stufen-Verifizierung für dieses Konto ausstellen, or&lt;/li&gt; &lt;li&gt;Gehen Sie sicher, daß Sie ein Alternativ-Mechanismus zur Code Generierung haben.&lt;/li&gt; &lt;/ul&gt;</string>
+  <string name="remove_Xiaomi_account_dialog_message">Dieses Konto entfernen wird <b>Ihre Fähigkeit entfernen </b> Codes zu generieren, jedoch, wird <b>not</b> die 2-Stufenverifizierung ausgestellt. Das könnte dazu führen, daß sich bei Ihrem Konto nicht mehr anmelden können. &lt;p&gt; Bevor Sie entfernen: &lt;ul&gt; &lt;li&gt;2-Stufenverifizierung für dieses Konto ausstellen, or&lt;/li&gt; &lt;li&gt;Gehen Sie sicher, daß Sie ein Alternativmechanismus zur Codegenerierung haben.&lt;/li&gt; &lt;/ul&gt;</string>
   <string name="remove_account">Konto entfernen</string>
   <string name="remove_account_dialog_message">"Wenn Sie dieses Konto entfernen, werden Sie nicht mehr in der Lage sein einen Code zu generieren. Dies könnte Sie daran hindern sich mit Ihrem Konto anzumelden.
 
 Vor der Entfernung:
-—Schalten Sie für dieses Konto die 2-Faktor-Authentifizierung aus, oder
-—Stellen Sie sicher, daß Sie einen Alternativ-Mechanismus zur Code Generierung haben."</string>
+—Schalten Sie für dieses Konto die 2-Faktorauthentifizierung aus, oder
+—Stellen Sie sicher, daß Sie einen Alternativmechanismus zur Code Generierung haben."</string>
   <string name="remove_account_dialog_title">Konto entfernen?</string>
   <string name="rename">Umbenennen</string>
   <string name="rename_message">Benenne %1$s um</string>
   <string name="resetbtn_patternforgotten">Zurücksetzen</string>
   <string name="save_key_message">Schlüssel speichern für</string>
   <string name="scan_barcode">Scanne MiID</string>
-  <string name="scan_barcode_info">Halte und scanne einen MiID Barcode innerhalb des Suchers.</string>
+  <string name="scan_barcode_info">Halte und scanne einen MiID Strichcode innerhalb des Suchers.</string>
   <string name="secret_saved">Geheimnis gesichert</string>
   <string name="security_setting">Sicherheiteinstellungen</string>
   <string name="settings_menu_item">Einstellungen</string>
@@ -133,7 +133,7 @@ Vor der Entfernung:
   <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
   <string name="terms_preference_title">Nutzungsbedingungen</string>
   <string name="timesync_about_feature_preference_title">Über diese Funktion</string>
-  <string name="timesync_about_feature_screen_details">"Falls Sie drücken &amp;quot;Sync now&amp;quot;, Authenticator wird einmal versuchen seine interne Uhr mit Google-Servern zu synchronisieren. Das Gerätedatum &amp; Zeiteinstellungen werden nicht geändert. &lt;p&gt; Authenticator wird keine persönlichen Daten oder Kontoinformationen während der Synchronisation der inneren Uhr mit Google-Servern übertragen. &lt;p&gt; <b>Warum das einem nutzt</b> &lt;p&gt; Authenticator generiert 2-Stufen-Bestätigungscodes basierend auf 1) der jetzigen Zeit, und 2) einer Geheimzahl, die der App und dem Server bekannt sind. &lt;p&gt; Falls Authenticator und die Server-Zeit widersprechen, werden die Codes bei der Anmeldung, die die App generiert, nicht akzeptiert. &lt;p&gt; Standardmäßig nutzt Authenticator das Gerätedatum &amp; die Zeiteinstellungen, und in den meisten Fällen werden Sie gültige Codes generieren können, indem sichergestellt wird, daß Ihre Zeit-, Datum- und Zeitzoneneinstellungen richtig aufgesetzt sind. Allerdings, wenn Zeit-Fehlanpassungen auftreten kann das nur schwierig behoben werden (vor allem, wenn Sie Netzwerk-gebundene Zeit oder Zeitzonen verwenden)."</string>
+  <string name="timesync_about_feature_screen_details">"Falls Sie drücken &amp;quot;Sync now&amp;quot;, Authenticator wird einmal versuchen seine interne Uhr mit Google-Servern zu synchronisieren. Das Gerätedatum &amp; Zeiteinstellungen werden nicht geändert. &lt;p&gt; Authenticator wird keine persönlichen Daten oder Kontoinformationen während der Synchronisation der inneren Uhr mit Google-Servern übertragen. &lt;p&gt; <b>Warum das einem nutzt</b> &lt;p&gt; Authenticator generiert 2-Stufenbestätigungscodes basierend auf 1) der jetzigen Zeit, und 2) einer Geheimzahl, die der App und dem Server bekannt sind. &lt;p&gt; Falls Authenticator und die Serverzeit widersprechen, werden die Codes bei der Anmeldung, die die App generiert, nicht akzeptiert. &lt;p&gt; Standardmäßig nutzt Authenticator das Gerätedatum &amp; die Zeiteinstellungen, und in den meisten Fällen werden Sie gültige Codes generieren können, indem sichergestellt wird, daß Ihre Zeit-, Datum- und Zeitzoneneinstellungen richtig aufgesetzt sind. Allerdings, wenn Zeitfehlanpassungen auftreten kann das nur schwierig behoben werden (vor allem, wenn Sie Netzwerkgebundene Zeit oder Zeitzonen verwenden)."</string>
   <string name="timesync_about_feature_screen_title">Über diese Funktion</string>
   <string name="timesync_preference_screen_summary">"Synchronisiere die interne Uhr des Authenticators mit der des Servers"</string>
   <string name="timesync_preference_screen_title">Zeitkorrektur für Codes</string>
@@ -143,9 +143,9 @@ Vor der Entfernung:
   <string name="timesync_sync_now_progress_dialog_details">Verbinde mit Server…</string>
   <string name="timesync_sync_now_progress_dialog_title">Jetzt Synchronisieren</string>
   <string name="timesync_sync_now_screen_title">Jetzt Synchronisieren</string>
-  <string name="timesync_sync_now_time_already_correct_dialog_details">"Die innere Uhr des Authenticators wurde nicht abgeglichen, weil sie anscheinend schon mit der Server-Uhr übereinstimmt."</string>
+  <string name="timesync_sync_now_time_already_correct_dialog_details">"Die innere Uhr des Authenticators wurde nicht abgeglichen, weil sie anscheinend schon mit der Serveruhr übereinstimmt."</string>
   <string name="timesync_sync_now_time_already_correct_dialog_title">Zeit stimmt bereits</string>
-  <string name="timesync_sync_now_time_corrected_dialog_details">"Die innere Uhr des Authenticators wurde abgeglichen, um mit der Server-Uhr übereinzustimmen. 
+  <string name="timesync_sync_now_time_corrected_dialog_details">"Die innere Uhr des Authenticators wurde abgeglichen, um mit der Serveruhr übereinzustimmen. 
 
 Das Datum &amp; Zeiteinstellungen auf diesem Gerät wurden nicht geändert."</string>
   <string name="timesync_sync_now_time_corrected_dialog_title">Zeit ist korrekt</string>
@@ -158,7 +158,7 @@ Das Datum &amp; Zeiteinstellungen auf diesem Gerät wurden nicht geändert."</st
   <string name="title_gesture">Entsperrmuster</string>
   <string name="title_lockpattern">Entsperrmuster erforderlich</string>
   <string name="title_myaccount">Mein Konto: %s</string>
-  <string name="title_nopassword">"Für kleine Beträge nicht erfoderlich"</string>
+  <string name="title_nopassword">"Für kleine Beträge nicht erforderlich"</string>
   <string name="title_nopassword_dialog">tägliches Limit</string>
   <string name="title_password">Passwort</string>
   <string name="title_password_threshold">tägliches Limit = ￥%1$s</string>
