@@ -221,6 +221,7 @@
   <string name="calling_via_template">Via %s anrufen</string>
   <string name="callwait_open_hint">\"Anklopfen\" ist eine Funktion, die von Ihrem Anbieter bereitgestellt wird. Wenn Sie eine Fehlermeldung erhalten, kontaktieren Sie Ihren Anbieter und stellen Sie sicher, dass diese Funktion für Ihre Nummer eingeschaltet ist.</string>
   <string name="can_not_call_self">"Eigene Nummer kann nicht gewählt werden."</string>
+  <string name="can_not_use_for_not_data_sim">"(Kann nicht verwendet werden: muss als Standarddaten-SIM festgelegt sein)"</string>
   <string name="cancel">Abbrechen</string>
   <string name="cancel_call">Abbrechen</string>
   <string name="card_title_MOcall_forwarding">Ausgehender weitergeleiter Anruf</string>

@@ -11,6 +11,7 @@
   <string name="activity_title_ignored_image">Ignoriert</string>
   <string name="activity_title_image_gallery">Duplikate löschen</string>
   <string name="activity_title_large_file">Große Dateien</string>
+  <string name="activity_title_main">Clean Master</string>
   <string name="activity_title_news">Neuigkeiten</string>
   <string name="activity_title_privacy_cache">Datenschutzcache</string>
   <string name="activity_title_residual">Reste</string>
@@ -137,6 +138,7 @@
   <string name="empty_title_residual">Keine Reste gefunden</string>
   <string name="empty_title_video">Keine Videos zum Löschen​</string>
   <string name="flow_rank_title">Datenverbrauch</string>
+  <string name="function_app_lock_title">%d Apps stellen ein Datenschutzrisiko dar​</string>
   <string name="go_to">Fortfahren</string>
   <string name="goto_set">Einrichten</string>
   <string name="grabage_rank_title">Heute bereinigt</string>

@@ -194,6 +194,7 @@
  dieses private Fenster​"</string>
   <string name="data_traffic_prompt_change">Die Nutzung der mobilen Datenverbindung zum Anschauen von Videos erhöht Ihren Datenverbrauch. Falls Sie Ihr Datenvolumen überschreiten, kann Ihr Mobilfunkanbieter Ihnen dies in Rechnung stellen.</string>
   <string name="data_traffic_prompt_message">Die Nutzung der mobilen Datenverbindung zum Anschauen von Videos erhöht Ihren Datenverbrauch. Falls Sie Ihr Datenvolumen überschreiten, kann Ihr Mobilfunkanbieter Ihnen dies in Rechnung stellen.</string>
+  <string name="data_traffic_prompt_message_short">Die Nutzung der mobilen Datenverbindung zum Anschauen von Videos kann dazu führen, dass Sie Ihr monatliches Datenvolumen überschreiten.</string>
   <string name="data_traffic_prompt_title">Datenverbrauchswarnung</string>
   <string name="date_picker_dialog_clear">Löschen</string>
   <string name="date_picker_dialog_other_button_label">Andere</string>
@@ -758,6 +759,9 @@ Diese Seite verlassen?"</string>
   <string name="video_downloaded_group">Heruntergeladen</string>
   <string name="video_downloading_group">Wird heruntergeladen</string>
   <string name="video_edit">Bearbeiten</string>
+  <string name="video_float_window">Popup</string>
+  <string name="video_float_window_playing">Video wird abgespielt</string>
+  <string name="video_float_window_text">Popup</string>
   <string name="video_fragment_name_collections">Favoriten</string>
   <string name="video_fragment_name_download">Offlinevideo</string>
   <string name="video_fragment_name_historys">Verlauf ansehen</string>

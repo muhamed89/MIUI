@@ -265,6 +265,8 @@
   <string name="operator_test_summary">Im Operatormodus ausgeführt</string>
   <string name="original_price">Originalpreis</string>
   <string name="other_setting">Weitere Einstellungen</string>
+  <string name="path_develop_settings">Video/Einstellungen/Entwicklereinstellungen</string>
+  <string name="path_settings">Video/Einstellungen</string>
   <string name="pause">Pause</string>
   <string name="pay_record">Zahlungsverlauf</string>
   <string name="percent_status">%.0f%%</string>
@@ -310,10 +312,12 @@
   <string name="score_douban">Douban Bewertung: %1$s</string>
   <string name="sdcard_storage">Interner Speicher</string>
   <string name="search">Suche</string>
+  <string name="search_develop_settings">Entwicklereinstellungen;Versionswahl;Version wählen;Videoupgrade;Version;Forum;Leistungsmodus;Bildqualität;Plugins</string>
   <string name="search_hint">Suche Onlinevideo</string>
   <string name="search_result_empty_hint">Kein Treffer</string>
   <string name="search_result_empty_text">"Es konnte nichts gefunden werden"</string>
-  <string name="search_snack_more">Weiter Informationen</string>
+  <string name="search_settings">Videoeinstellungen;Mobiles Netzwerk;WLAN;Videowiedergabe;Push;Benachrichtigung;Cache;Entwicklereinstellungen</string>
+  <string name="search_snack_more">Weitere Informationen</string>
   <string name="search_snack_sniff">Die ganze Webquelle</string>
   <string name="second"> Sekunde</string>
   <string name="see_all_count_comment">%d weitere Kommentare</string>

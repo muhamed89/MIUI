@@ -125,6 +125,7 @@
   <string name="auto_upload_title">Automatisch synchronisieren</string>
   <string name="auto_upload_before_share_message">Dieses Album muss auf Mi Cloud gesichert sein, bevor Sie es teilen können</string>
   <string name="auto_upload_before_share_title">Hinweis</string>
+  <string name="auto_upload_disable_tip">Automatische Sicherung ist deaktiviert</string>
   <string name="auto_upload_disable_toast">Fotos und Videos in diesem Album werden nicht automatisch gesichert</string>
   <string name="auto_upload_enable_toast">Fotos und Videos in diesem Album werden automatisch gesichert</string>
   <string name="autofix">Autofix</string>
@@ -655,6 +656,7 @@
   <string name="orientation_unlock_tip">Automatisch drehen aktiviert</string>
   <string name="original">Original</string>
   <string name="original_scale">Original</string>
+  <string name="other_album">Andere Alben</string>
   <string name="other_category">Zusätzliche Einstellungen</string>
   <string name="owner_album_subtitle">Geteilt mit %1$s Benutzern</string>
   <string name="paint_brush">Pinsel</string>

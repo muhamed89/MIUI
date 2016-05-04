@@ -7,6 +7,7 @@
   <string name="Settings_title_garbage_cleanup">Bereinigungseinstellungen</string>
   <string name="Settings_title_network_assistants">Datenverbrauchseinstellungen</string>
   <string name="Settings_title_power_center">Akkueinstellungen</string>
+  <string name="ac_enable_title">Anwendungssperre aktivieren</string>
   <string name="access_control_need_password">"%s  erfolgreich hinzugefügt"</string>
   <string name="access_control_need_to_unlock">"Fingerabdruck scannen
 oder Passwort für Anwendungssperre eingeben"</string>
@@ -51,6 +52,7 @@ oder Passwort für Anwendungssperre eingeben"</string>
   <string name="adjust_traffic_carrier_summary_two_day_before">Vor 2 Tagen aktualisiert</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Gestern um %s aktualisiert</string>
   <string name="adjust_traffic_data">Datenverbrauch festlegen</string>
+  <string name="after_the_lock_screen">"Die App wird gleichzeitig mit dem Bildschirm gesperrt. Sie können dies in den Einstellungen für die Anwendungssperre verändern."</string>
   <string name="antivirus_choose_engine">Definitionen von %s</string>
   <string name="antivirus_choose_engine_dialog_title">Definitionen auswählen</string>
   <string name="antivirus_choose_engine_disable_toast">"Während der Suche können die Definitionen nicht gewechselt werden"</string>
@@ -405,6 +407,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="list_empty_text">Leer</string>
   <string name="load_fail">Laden fehlgeschlagen</string>
   <string name="local_ip_exception_summary">Die lokale IP-Adresse konnte nicht abgerufen werden. Um den Fehler an MIUI zu senden, öffnen Sie die Fehlerberichtapp und versenden Sie den Log von Ihrem Gerät.</string>
+  <string name="lock_mode_title">Sperreinstellungen</string>
   <string name="lockpattern_tutorial_cancel_label">Abbrechen</string>
   <string name="lockpattern_tutorial_continue_label">Weiter</string>
   <string name="lockpattern_retry_button_text">Nochmal zeichnen</string>
