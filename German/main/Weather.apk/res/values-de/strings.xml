@@ -11,7 +11,7 @@
   <string name="act_weather_find_city_searching">Suche…</string>
   <string name="activity_alert_detail_title"/>
   <string name="activity_find_city_dialog_cancel">Abbrechen</string>
-  <string name="activity_find_city_dialog_message">Erlaube Wetter das abrufen Ihres Standortes</string>
+  <string name="activity_find_city_dialog_message">Erlaube Wetter das Abrufen Ihres Standortes</string>
   <string name="activity_find_city_dialog_set">Einstellungen</string>
   <string name="activity_find_city_dialog_title">Standort abrufen</string>
   <string name="activity_main_alert"/>
@@ -77,10 +77,10 @@
   <string name="indices_title_pressure">Luftdruck</string>
   <string name="indices_title_restriction">Car limit</string>
   <string name="indices_title_sport">Sport</string>
-  <string name="indices_title_uv">UV Index</string>
+  <string name="indices_title_uv">UV-Index</string>
   <string name="indices_title_visibility">Sichtweite</string>
   <string name="information_manager">Laden wenn mit WLAN verbunden</string>
-  <string name="information_manager_information">Wetter Information</string>
+  <string name="information_manager_information">Wetterinformation</string>
   <string name="information_manager_wlan">Laden wenn mit WLAN verbunden</string>
   <string name="information_menu_title"/>
   <string name="information_time_source">%1$s | %2$s</string>
@@ -93,7 +93,7 @@
   <string name="network_unavailable">Verbindung zum Netzwerk nicht möglich</string>
   <string name="no_network_btn">Wiederholen</string>
   <string name="open_browser">In Browser öffnen</string>
-  <string name="settings_cityname_translate_summary">Versuchen, Städtenamen zu übersetzen (über Google Maps API). Nachdem Sie diese Einstellung geändert haben, müssen Sie Stüdte löschen und nochmals hinzufügen. EXPERIMENTELL!</string>
+  <string name="settings_cityname_translate_summary">Versuchen, Städtenamen zu übersetzen (über Google Maps API). Nachdem Sie diese Einstellung geändert haben, müssen Sie Städte löschen und nochmals hinzufügen. EXPERIMENTELL!</string>
   <string name="settings_cityname_translate_title">Städtenamen übersetzen</string>
   <string name="settings_menu_title">Einstellungen</string>
   <string name="settings_pressure_unit">Druck</string>
