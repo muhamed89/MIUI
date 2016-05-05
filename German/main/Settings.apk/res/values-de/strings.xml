@@ -1807,7 +1807,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="lock_settings_picker_settings">Bildschirmsperre</string>
   <string name="lock_settings_picker_title">Sperre auswählen</string>
   <string name="lock_settings_title">Bildschirmsicherheit</string>
-  <string name="lock_settings_with_fingerprint">Sperre Bildschirm &amp; Passwort</string>
+  <string name="lock_settings_with_fingerprint">Bildschirmsperre &amp; Passwort</string>
   <string name="lock_setup">Einrichtung abgeschlossen.</string>
   <string name="lock_sounds_enable_title">Ton bei Bildschirmsperre</string>
   <string name="lockpassword_cancel_label">Abbrechen</string>
