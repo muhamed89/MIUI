@@ -22,14 +22,14 @@
   <string name="updating_title">Anrufeinstellungen</string>
   <string name="xdivert_active">Aktiv</string>
   <string name="xdivert_button">Umleitungseinstellung</string>
-  <string name="xdivert_enternumber_error">Enter phone number for both the subscriptions</string>
+  <string name="xdivert_enternumber_error">Telefonnummer für beide Abos eingeben</string>
   <string name="xdivert_imsi_not_read">Sim Initialization happening.Please try after some time.</string>
   <string name="xdivert_not_active">Nicht aktiv</string>
-  <string name="xdivert_not_supported">X-Divert Not supported for CDMA</string>
-  <string name="xdivert_partial_set">XDivert has been set only for 1st subscription</string>
-  <string name="xdivert_setting">X-Divert Setting</string>
-  <string name="xdivert_status">X-Divert Status</string>
-  <string name="xdivert_sub_absent">Both subscriptions should be activated to process X-Divert</string>
-  <string name="xdivert_summary">Call forward when unreachable</string>
+  <string name="xdivert_not_supported">X-Divert für CDMA nicht unterstützt</string>
+  <string name="xdivert_partial_set">XDivert wurde nur für das erste Abo eingestellt</string>
+  <string name="xdivert_setting">X-Diverteinstellungen</string>
+  <string name="xdivert_status">X-Divertstatus</string>
+  <string name="xdivert_sub_absent">Beide Abos sollten aktiviert werden um X-Divert zu verarbeiten</string>
+  <string name="xdivert_summary">Anrufweiterleitung wenn nicht erreichbar</string>
   <string name="xdivert_title">X-Divert</string>
 </resources>
