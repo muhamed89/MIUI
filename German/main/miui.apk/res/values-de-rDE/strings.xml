@@ -8,7 +8,7 @@
   <string name="activate">Aktivieren</string>
   <string name="activate_fail_notification_title">Synchronisation reaktivieren</string>
   <string name="activating">Aktiviere…</string>
-  <string name="address">Addresse</string>
+  <string name="address">Adresse</string>
   <string name="afternoon">PM</string>
   <string name="am">AM</string>
   <string name="birthday">Geburtstag</string>
@@ -147,7 +147,7 @@
   <string name="nickname">Nickname</string>
   <string name="night">PM</string>
   <string name="no_network">"Keine Netzwerkverbindung"</string>
-  <string name="no_sim">Keine Simkarte gefunden.</string>
+  <string name="no_sim">Keine SIM-Karte gefunden.</string>
   <string name="noon">PM</string>
   <string name="note">Notiz</string>
   <string name="organization">Organisation</string>
@@ -165,14 +165,14 @@
   <string name="select_item">Auswählen</string>
   <string name="send">Senden</string>
   <string name="send_sms_for_sync_notice">Für die Aktivierung per SMS könnten Gebühren bei Ihrem Betreiber anfallen.</string>
-  <string name="send_sms_for_sync_title">Datenverbrauch-Warnung</string>
-  <string name="sim_changed_reactivate_int_notice">Für die Reaktivierung ist eine SMS notwendig. Ihr Provider könnte für den internationalen SMS Versand eine Gebühr erheben.</string>
-  <string name="sim_changed_reactivate_notice">Für die Reaktivierung könnten Gebühren für den SMS Versand entstehen.</string>
+  <string name="send_sms_for_sync_title">Datenverbrauchswarnung</string>
+  <string name="sim_changed_reactivate_int_notice">Für die Reaktivierung ist eine SMS notwendig. Ihr Provider könnte für den internationalen SMS-Versand eine Gebühr erheben.</string>
+  <string name="sim_changed_reactivate_notice">Für die Reaktivierung könnten Gebühren für den SMS-Versand entstehen.</string>
   <string name="sim_in_airplane_mode">Flugzeugmodus deaktivieren.</string>
   <string name="sim_locked">SIM-Karte ist gesperrt.</string>
   <string name="sim_not_ready">SIM-Karte wird verwendet. Versuchen Sie es später erneut.</string>
   <string name="sim_unavailable">SIM-Karte nicht vorhanden.</string>
-  <string name="sip_phone">SIP Phone</string>
+  <string name="sip_phone">SIP-Telefon</string>
   <string name="size_byte">B</string>
   <string name="size_giga_byte">GB</string>
   <string name="size_kilo_byte">KB</string>
@@ -209,7 +209,7 @@
   <string name="sunday_shortest">S</string>
   <string name="sync_one_time_sync">Tippen Sie auf Synchronisieren ( %1$s )</string>
   <string name="the_anniversary_of_lifting_martial_law">Jahrestag der Aufhebung des Kriegsrechts</string>
-  <string name="the_anti_aggression_day">Anti-Aggression-Tag</string>
+  <string name="the_anti_aggression_day">Antiaggressionstag</string>
   <string name="the_arbor_day">Tag des Baumes</string>
   <string name="the_armed_forces_day">Tag der Streitkräfte</string>
   <string name="the_armys_day">Armystag</string>
@@ -217,7 +217,7 @@
   <string name="the_chinese_youth_day">Jugendtag</string>
   <string name="the_christmas_day">Weihnachten</string>
   <string name="the_double_ninth_festival">Chongyang-Fest</string>
-  <string name="the_dragon_boat_festival">Drachenboot-Festival</string>
+  <string name="the_dragon_boat_festival">Drachenbootfestival</string>
   <string name="the_easter_day">Ostern</string>
   <string name="the_eve_of_the_spring_festival">Vorabend des Frühlingsfests</string>
   <string name="the_fifth_day">Fünfter Tag</string>
