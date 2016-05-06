@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="android_ringtone_default_with_actual">Standard Klingelton (%1$s)</string>
+  <string name="android_ringtone_default_with_actual">Standardklingelton (%1$s)</string>
   <string name="android_ringtone_silent">Keine</string>
   <string name="android_ringtone_unknown">Unbekannter Klingelton</string>
   <string name="anniversary_of_lifting_martial_law">Jahrestag des Kriegsrechts</string>
-  <string name="anti_aggression_day">Antiaggressions Tag</string>
+  <string name="anti_aggression_day">Antiaggressionstag</string>
   <string name="app_name_which_call">Anwendung:%s</string>
   <string name="app_version_which_call">Anwendungsversion:%s</string>
   <string name="arbor_day">Tag des Baumes</string>
@@ -19,7 +19,7 @@
   <string name="cloud_state_finished">Synchronisiert mit Mi Cloud</string>
   <string name="cloud_state_syncing">Synchronisiert mit Mi Cloud</string>
   <string name="cold_dews">Kalter Tau</string>
-  <string name="day_following_good_friday">Tag nach Karfreitag</string>
+  <string name="day_following_good_friday">Karsamstag</string>
   <string name="def_alarm_alert">/system/media/audio/alarms/GoodMorning.ogg</string>
   <string name="def_notification_sound">/system/media/audio/notifications/FadeIn.ogg</string>
   <string name="def_ringtone">/system/media/audio/ringtones/MI.ogg</string>
@@ -37,7 +37,7 @@
   <string name="device_xiaomi">Mi Phone</string>
   <string name="double_seventh_day">Tanabata</string>
   <string name="easter">Ostern</string>
-  <string name="fools_day">der erste April</string>
+  <string name="fools_day">Erster April</string>
   <string name="good_friday">Karfreitag</string>
   <string name="grain_buds">Xiǎomǎn - Kleine Fülle/Ährenbildung</string>
   <string name="grain_in_ear">Mangzhong - Grannen/Ährenzeit</string>
@@ -125,7 +125,7 @@ gehe zu %s"</string>
   <string name="winter_begins">Lìdōng - Winterbeginn</string>
   <string name="winter_solstice">Dōngzhì - Winterankuft</string>
   <string name="yellow_page_module_sms_sent">SMS gesendet</string>
-  <string name="yellow_page_sms_disabled_in_privacy_mode">"Nachricht kann nicht im Gast-Modus gesendet werden"</string>
+  <string name="yellow_page_sms_disabled_in_privacy_mode">"Nachricht kann nicht im Gastmodus gesendet werden"</string>
   <string name="yellow_page_sms_send_failed">"SMS konnte nicht gesendet werden"</string>
   <string name="yellow_page_sms_sending">Sendet…</string>
   <string name="yellow_page_unable_send_sms">"SMS kann nicht gesendet werden"</string>
