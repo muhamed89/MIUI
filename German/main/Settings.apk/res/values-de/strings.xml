@@ -3751,7 +3751,7 @@ Jeder Nutzer kann aktualisierte Appberechtigungen im Namen aller anderen Nutzer 
   <string name="vibrate_input_devices">Vibration verwenden</string>
   <string name="vibrate_input_devices_summary">Vibration an Controller weitergeben, wenn verbunden.</string>
   <string name="vibrate_on_touch_title">Bei Berührung vibrieren</string>
-  <string name="vibrate_when_ringing_title">Bei Klingeln vibrieren</string>
+  <string name="vibrate_when_ringing_title">Beim Klingeln vibrieren</string>
   <string name="virtual_sim_category_title">Virtuelle SIM</string>
   <string name="virtual_sim_description">Zuverlässiger internationaler Roamingdienst</string>
   <string name="virtual_sim_search_title">Virtuelle SIM-Karte</string>
