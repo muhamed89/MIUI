@@ -202,6 +202,7 @@
   <string name="date_picker_dialog_title">Datum einstellen</string>
   <string name="date_time_picker_dialog_title">Datum und Uhrzeit einstellen</string>
   <string name="delete">Löschen</string>
+  <string name="delete_bookmark">Löschen</string>
   <string name="delete_bookmark_group_warning">\"%s\" löschen? Alle Lesezeichen in dieser Gruppe werden gelöscht.</string>
   <string name="delete_bookmark_warning">Lesezeichen löschen \"%s\"?</string>
   <string name="delete_download">Löschen</string>
@@ -256,8 +257,8 @@
   <string name="download_title">Downloads</string>
   <string name="download_wait_connect">Warte auf Netzwerkverbindung</string>
   <string name="edit">Bearbeiten</string>
-  <string name="edit_bookmark">Bearbeite Lesezeichen</string>
-  <string name="edit_quicklink">Bearbeite</string>
+  <string name="edit_bookmark">Bearbeiten</string>
+  <string name="edit_quicklink">Bearbeiten</string>
   <string name="empty_bookmark">Leer</string>
   <string name="empty_history_hint">Verlauf ist leer</string>
   <string name="empty_snapshot_hint">Leer</string>
