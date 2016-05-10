@@ -26,6 +26,7 @@ oder Passwort für Anwendungssperre eingeben"</string>
   <string name="activity_title_network_speed_detail">Verbindung</string>
   <string name="activity_title_networkassistants">Datenverbrauch</string>
   <string name="activity_title_notification_bar_manager">Benachrichtigungen</string>
+  <string name="activity_title_other_permission_manager">Andere Berechtigungen</string>
   <string name="activity_title_perm_manager">Rechte</string>
   <string name="activity_title_permission_manager">Rechteverwaltung</string>
   <string name="activity_title_permissions_manager">Rechteverwaltung</string>

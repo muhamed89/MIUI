@@ -9,8 +9,10 @@
   <string name="backing_up_to_micloud">Sichern…</string>
   <string name="backup_fail">"Sicherung der Startbildschirmapps fehlgeschlagen"</string>
   <string name="backup_finished_notification_content">Startbildschirm, Systemeinstellungen, etc. wurden gesichert</string>
+  <string name="backup_now">Jetzt sichern</string>
   <string name="backup_size">Größe: %s</string>
   <string name="backup_success">Appsicherung erfolgreich</string>
+  <string name="backup_successfully">Erfolgreich gesichert</string>
   <string name="backup_to_cloud">App sichern</string>
   <string name="button_cancel">Abbrechen</string>
   <string name="button_delete">Löschen</string>
@@ -56,7 +58,7 @@ Wichtig: Die Daten der einzelnen Apps werden dabei nicht in der Mi Cloud gesiche
   <string name="cloud_backup_detail_manage_summary">%1$s Sicherung, belegte Größe:%2$s</string>
   <string name="cloud_backup_detail_state">Mi Cloud Sicherung</string>
   <string name="cloud_backup_detail_state_summary">Apps, Startbildschirm und Systemeinstellungen</string>
-  <string name="cloud_backup_detail_time">, Sicherungsdatum:%1$s</string>
+  <string name="cloud_backup_detail_time">Letzte Sicherung:%1$s</string>
   <string name="cloud_backup_have_data">Sicherung gefunden auf der Mi Cloud</string>
   <string name="cloud_backup_select_recover">Wählen Sie Sicherung auf der Mi Cloud</string>
   <string name="cloud_restore_from_other_device">"Wiederherstellung von %s abbrechen und Sicherung löschen? Diese Aktion kann nicht rückgängig gemacht werden."</string>
@@ -104,6 +106,7 @@ Wichtig: Die Daten der einzelnen Apps werden dabei nicht in der Mi Cloud gesiche
   <string name="restore_from_cloud">Wiederherstellung aus der Mi Cloud</string>
   <string name="restore_from_this_device">Diese Sicherung wiederherstellen</string>
   <string name="restore_home_screen_apps">Wiederherstellen mit einer Sicherung aus der Mi Cloud</string>
+  <string name="restore_task_unfinished">Apps werden wiederhergestellt, versuchen Sie es später</string>
   <string name="restoreing_file_tile">%d Dateien wiederherstellen</string>
   <string name="retry">Wiederholen</string>
   <string name="self_phone">Dieses Telefon</string>

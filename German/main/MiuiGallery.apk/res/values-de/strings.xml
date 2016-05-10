@@ -555,6 +555,8 @@
   <string name="merge_album_title">Verbinde Alben</string>
   <string name="message_no_delete_access">Sie haben zum löschen von %s keine Berechtigung</string>
   <string name="messagelist_sender_self">Ich</string>
+  <string name="micloud_introduce">Fotos und Videos automatisch sichern (Mi Konto ist erforderlich)</string>
+  <string name="more_album_hint">, usw.</string>
   <string name="miliao">Mi Talk</string>
   <string name="miliao_folder_display_name">Mi Talk</string>
   <string name="miliao_painting_folder_display_name">Mi Talk Malen</string>
@@ -578,6 +580,7 @@
   <string name="mtxx">MTXX</string>
   <string name="multiface_crop_help">Zum Starten auf ein Gesicht tippen</string>
   <string name="must_pick_file">Bild auswählen</string>
+  <string name="name_split">,</string>
   <string name="name_wrong">"Das ist nicht %s"</string>
   <string name="need_to_log_in_xiaomi_account">Loggen Sie sich ein, um Bilder und Videos automatisch in der Mi Cloud zu sichern</string>
   <string name="need_to_turn_on_network">Sie haben keine Internetverbindung</string>
@@ -768,6 +771,7 @@
   <string name="rise">Warm</string>
   <string name="rotate">Drehen</string>
   <string name="rotate_tooltip">Zum Drehen Foto ziehen</string>
+  <string name="runtime_permission_ungranted">Galerie wurde wegen fehlender Berechtigung beendet</string>
   <string name="same_name_album_exist_and_toast">"Ein Album mit dem selben Namen ist bereits vorhanden. Stattdessen wurde '%s' erstellt."</string>
   <string name="same_name_album_exists_alert">Fotos werden zu einem existierenden Album mit dem gleichen Namen hinzugefügt</string>
   <string name="saturation">Sättigung</string>

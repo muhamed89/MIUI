@@ -123,6 +123,7 @@
   <string name="desktop_lyric_dialog_msg">In Meine Musik > Einstellungen > Mehr > erweiterte Einstellungen öffnen</string>
   <string name="desktop_lyric_dialog_positive_button">Jetzt ausprobieren</string>
   <string name="desktop_lyric_dialog_title">Startbildschirmsongtexte ausprobieren</string>
+  <string name="desktop_lyric_lock_toast">Gesperrt. Verwenden Sie zum Entsperren den Miniplayer in der Benachrichtigungsleiste</string>
   <string name="desktop_lyric_setting_summary">Songtext schwebend am Startbildschirm anzeigen</string>
   <string name="desktop_lyric_setting_title">Startbildschirmsongtexte</string>
   <string name="desktop_lyric_textsize">Text</string>
