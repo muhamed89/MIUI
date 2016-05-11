@@ -192,4 +192,28 @@
         <item quantity="few"> Downloads</item>
         <item quantity="many"> Downloads</item>
     </plurals>
+    <plurals name="video_play_num">
+        <item quantity="other">%1$s Mal abgespielt</item>
+        <item quantity="zero">nie abgespielt</item>
+        <item quantity="one">einmal abgespielt</item>
+        <item quantity="two">zweimal abgespielt</item>
+        <item quantity="few">%1$s Mal abgespielt</item>
+        <item quantity="many">%1$s Mal abgespielt</item>
+    </plurals>
+    <plurals name="video_num">
+        <item quantity="other">%1$s Videos</item>
+        <item quantity="zero">%1$s Videos</item>
+        <item quantity="one">%1$s Video</item>
+        <item quantity="two">%1$s Videos</item>
+        <item quantity="few">%1$s Videos</item>
+        <item quantity="many">%1$s Videos</item>
+    </plurals>
+    <plurals name="user_upload_items">
+        <item quantity="other">Videos</item>
+        <item quantity="zero">Videos</item>
+        <item quantity="one">Video</item>
+        <item quantity="two">Videos</item>
+        <item quantity="few">Videos</item>
+        <item quantity="many">Videos</item>
+    </plurals>
 </resources>

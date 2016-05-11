@@ -265,8 +265,8 @@
   <string name="operator_test_summary">Im Operatormodus ausgeführt</string>
   <string name="original_price">Originalpreis</string>
   <string name="other_setting">Weitere Einstellungen</string>
-  <string name="path_develop_settings">Video/Einstellungen/Entwicklereinstellungen</string>
-  <string name="path_settings">Video/Einstellungen</string>
+  <string name="path_develop_settings">Systemanwendungen/Einstellungen/Entwicklereinstellungen</string>
+  <string name="path_settings">Systemanwendungen/Einstellungen</string>
   <string name="pause">Pause</string>
   <string name="pay_record">Zahlungsverlauf</string>
   <string name="percent_status">%.0f%%</string>

@@ -89,6 +89,8 @@
   <string name="block_ads_message">Wollen Sie Nachrichten von dieser Webseite blockieren?</string>
   <string name="block_ads_title">Inhalt kann Werbung enthalten.</string>
   <string name="bookmark_add_to">Hinzufügen zu</string>
+  <string name="bookmark_btn_select_all">Alle auswählen</string>
+  <string name="bookmark_btn_select_none">Keine auswählen</string>
   <string name="bookmark_cannot_save_url">" Das Lesezeichen für diese Adresse konnte nicht gespeichert werden."</string>
   <string name="bookmark_folder_needs_title">Geben Sie einen Gruppennamen ein</string>
   <string name="bookmark_group_lable">Gruppe</string>

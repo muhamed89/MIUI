@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="agree">Zustimmen</string>
+  <string name="alert_dialog_btn_close">Deaktivieren</string>
+  <string name="alert_dialog_btn_open">Abbrechen</string>
+  <string name="alert_dialog_msg">"Einige der MIUI-Basisfunktionen und -services werden ohne diese Berechtigungen evtl. nicht richtig funktionieren (z.B. werden Kontaktinformationen während eines Telefonats nicht richtig angezeigt). Wenn Sie diese Berechtigung verweigern, werden Systemanwendungen nach einer individuellen Berechtigung fragen, sobald diese benötigt werden."</string>
+  <string name="alert_dialog_title">Einige Services könnten nciht richtig funktionieren...</string>
   <string name="congratulation_label"/>
   <string name="desc_extra_fingerprint"/>
   <string name="desc_fingerprint">Benutzen Sie Ihren Fingerabdruck, um das Telefon zu entsperren, Mi Pay Transaktionen zu verifizieren, oder sich bei Apps und Diensten anzumelden.</string>
@@ -21,6 +25,8 @@
   <string name="other_settings">Weitere Einstellungen</string>
   <string name="other_settings_location">Standort</string>
   <string name="other_settings_location_summary">Apps dürfen Ihren Standort lokalisieren</string>
+  <string name="other_settings_permission">MIUI-Serviceberechtigungen</string>
+  <string name="other_settings_permission_summary">Erteilen Sie Mi Cloud, Telefon und anderen Basisfunktionen und -services die notwendigen Berechtigungen, damit Sie ordnungsgemäß funktionieren</string>
   <string name="other_settings_user_experience">Benutzerfeedback</string>
   <string name="other_settings_user_experience_summary">Anonyme Nutzerdaten senden, um MIUI zu verbessern (%s)</string>
   <string name="other_settings_user_experience_summary1">Datenschutzbestimmungen</string>
