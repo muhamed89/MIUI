@@ -3899,8 +3899,8 @@ Jeder Nutzer kann aktualisierte Appberechtigungen im Namen aller anderen Nutzer 
   <string name="wifi_advanced_titlebar">Erweiterte WLAN-Einstellungen</string>
   <string name="wifi_aggressive_handover">Aggressives Umschalten von WLAN auf Mobilfunkdaten</string>
   <string name="wifi_aggressive_handover_summary">Wenn aktiviert, wird WLAN aggressiver Datenverbindung zum Handy übergeben, wenn das WLAN-Signal gering ist</string>
-  <string name="wifi_allow_scan_with_traffic">Erlaube immer WLAN-Roamscans</string>
-  <string name="wifi_allow_scan_with_traffic_summary">Erlaube/Verbiete WLAN-Roamscans bezogen auf die Menge des Datenverkehrs an der Schnittstelle</string>
+  <string name="wifi_allow_scan_with_traffic">WLAN-Roamingscans immer erlauben</string>
+  <string name="wifi_allow_scan_with_traffic_summary">WLAN-Roamsingcans erlauben/verbieten bezogen auf die Menge des Datenverkehrs an der Schnittstelle</string>
   <string name="wifi_and_mobile_skipped_message">"ACHTUNG: Wenn Sie WLAN überspringen, wird Ihr Telefon keine Internetverbindung haben, um anfängliche Downloads oder Updates zu nutzen."</string>
   <string name="wifi_api_test">WLAN API</string>
   <string name="wifi_assistant_card_message">Verbinde automatisch mit verfügbaren Netzwerken mit einem WLAN-Assistenten.</string>
