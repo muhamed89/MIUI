@@ -158,6 +158,10 @@
   <string name="disable_auto_payment_fail">"Konnte nicht deaktiviert werden"</string>
   <string name="disable_auto_payment_fail_message">"Die automatische Verlängerung konnte nicht deaktiviert werden"</string>
   <string name="disable_auto_payment_success">Deaktiviert</string>
+  <string name="permission_declaration_message">Erlauben Sie \"Musik\" den Speicherzugriff unter Sicherheit &gt; Rechte &gt; Rechteverwaltung &gt; Speicher &gt; Musik, damit die Anwendung ordungsgemäß funktioniert.</string>
+  <string name="permission_declaration_negative_text">Später</string>
+  <string name="permission_declaration_positive_text">\"Sicherheit\" öffnen</string>
+  <string name="permission_declaration_title">Zugriff erlauben</string>
   <string name="disable_auto_payment_success_message">"Automatische Verlängerung deaktiviert. Nach dem Ablauf Ihres Abonnements müssen Sie sich erneut anmelden, um wieder Titel herunter laden zu können."</string>
   <string name="disallow_add_to_fm">Titel können nicht von UKW-Radiosendern hinzugefügt werden.</string>
   <string name="disallow_add_to_personal_radio">Kann nicht zu benutzerdefiniertem Radio hinzugefügt werden</string>

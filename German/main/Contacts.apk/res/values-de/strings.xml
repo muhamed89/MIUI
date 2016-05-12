@@ -458,6 +458,12 @@ Grund: \"%s\"."</string>
   <string name="hint_distance"/>
   <string name="hint_findContacts">Kontakte suchen</string>
   <string name="hint_more_contact">Doppelte Kontakte zusammenführen</string>
+  <string name="hybrid_check_network">Netzwerkeinstellungen</string>
+  <string name="hybrid_data_error">Ein Fehler ist aufgetreten</string>
+  <string name="hybrid_locating_fail">Ihr Standort kann nicht ermittelt werden</string>
+  <string name="hybrid_network_unavaliable">Keine Netzwerkverbindung</string>
+  <string name="hybrid_service_unavailiable">Service nicht verfügbar</string>
+  <string name="hybrid_try_again">Erneut versuchen</string>
   <string name="ic_menu_back">Zurück</string>
   <string name="ic_menu_done">OK</string>
   <string name="imLabelsGroup">Chat</string>
@@ -889,6 +895,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="preference_import">Importieren</string>
   <string name="preference_import_export">Import/Export</string>
   <string name="preference_import_export_title">Kontakte Importieren/Exportieren</string>
+  <string name="preference_key_trash_bin_title">Gesicherte Kontakte nach kürzlich gelöschten durchsuchen</string>
   <string name="preference_others">Andere</string>
   <string name="preference_phone">Telefon</string>
   <string name="preference_phone_more_title">Anrufeinstellungen</string>

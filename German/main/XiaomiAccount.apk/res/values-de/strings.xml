@@ -242,6 +242,7 @@
   <string name="passport_error_verify_code">Der eingegebene Code ist ungültig</string>
   <string name="passport_failed_to_send_activate_email">"Aktivierungs-E-Mail konnte nicht gesendet werden</string>
   <string name="passport_find_device_activate_account">Konto aktivieren</string>
+  <string name="passport_find_device_display_id">Nummer freischalten:%s</string>
   <string name="passport_find_password_on_web_msg">Besuchen Sie mi.com, um Ihr Passwort zurückzusetzen</string>
   <string name="passport_forget_password"><u>Passwort vergessen</u></string>
   <string name="passport_forget_password_no_underline">Passwort vergessen</string>
