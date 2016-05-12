@@ -276,7 +276,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
   <string name="empty_title_auto_start_list">Kein Autostartapps</string>
-  <string name="empty_title_manual_item_white_list">Keine Ausnahmen.</string>
+  <string name="empty_title_manual_item_white_list">Keine Ausnahmen</string>
   <string name="empty_title_perm_apps">Leer</string>
   <string name="empty_title_permission_apps_list">Leer</string>
   <string name="empty_title_risk_list">Keine riskanten Apps</string>
