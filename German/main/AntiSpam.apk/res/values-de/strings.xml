@@ -58,9 +58,9 @@
   <string name="baidu_thanks">Powered by Baidu</string>
   <string name="birthday">Geburtstag</string>
   <string name="bl_block_info" formatted="false">Anrufe: %d | SMS: %d</string>
-  <string name="bl_no_blacklist">Keine gesperrten Nummern.</string>
-  <string name="bl_no_block_call">Keine gesperrten Anrufe.</string>
-  <string name="bl_no_block_sms">Keine gesperrten SMS.</string>
+  <string name="bl_no_blacklist">Keine gesperrten Nummern</string>
+  <string name="bl_no_block_call">Keine gesperrten Anrufe</string>
+  <string name="bl_no_block_sms">Keine gesperrten SMS</string>
   <string name="blacklist_prefix_add_hint">Sperre alle Nummern, welche mit dieser Vorwahl beginnen</string>
   <string name="block_message_number">SMS: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="block_phone_number">Anrufe: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
@@ -342,6 +342,6 @@
   <string name="user_define_title">Regel hinzufügen</string>
   <string name="website">Webseite</string>
   <string name="whitelist_prefix_add_hint">Alle Rufnummern mit Vorwahl zu Ausnahmen hinzufügen</string>
-  <string name="wl_no_whitelist">Keine Ausnahmen.</string>
+  <string name="wl_no_whitelist">Keine Ausnahmen</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
