@@ -51,7 +51,7 @@
   <string name="account_user_phone">Telefonnummer</string>
   <string name="account_user_recovery_phone">Notfalltelefon</string>
   <string name="account_user_secure_info">Telefon &amp; E-Mail</string>
-  <string name="account_user_using_facebook_avatar">Facebookprofilfoto verwenden</string>
+  <string name="account_user_using_facebook_avatar">Facebook-Profilfoto verwenden</string>
   <string name="account_user_using_qq_avatar">QQ-Profilfoto verwenden</string>
   <string name="account_user_using_weibo_avatar">SinaWeiboprofilfoto verwenden</string>
   <string name="account_vip_achievements">Leistung</string>
@@ -64,14 +64,14 @@
   <string name="app_name">Mi Konto</string>
   <string name="authorize_title">Genehmigung</string>
   <string name="bad_authentication">Ungültiger Benutzername oder Passwort</string>
-  <string name="barcode_add_account_prompt">Zum hinzufügen eines Kontos scannen sie nach der Anmeldung erneut den QR-Code</string>
-  <string name="bind_facebook">Facebookkonto hinzufügen</string>
+  <string name="barcode_add_account_prompt">Zum Hinzufügen eines Kontos scannen sie nach der Anmeldung erneut den QR-Code</string>
+  <string name="bind_facebook">Facebook-Konto hinzufügen</string>
   <string name="bind_qq">QQ-Konto hinzufügen</string>
   <string name="bind_settings">Konten</string>
   <string name="bind_sina_weibo">Sina-Weibo-Konto hinzufügen</string>
   <string name="bind_sns_description">Vervollständigen Sie Ihr Profil mit Ihren persönlichen Informationen über %s</string>
   <string name="bind_weibo_description">Finden und synchronisieren Sie Ihre Freunde von Sina Weibo</string>
-  <string name="binded">Hinzugefügt</string>
+  <string name="binded">Verbunden</string>
   <string name="binded_description" formatted="false">%s wurde Ihrem Mi Konto hinzugefügt. Ihr Profil wurde mit Infos aus Ihrem %s-Konto aktualisiert.</string>
   <string name="btn_return">Zurück</string>
   <string name="button_cancel">Abbrechen</string>
