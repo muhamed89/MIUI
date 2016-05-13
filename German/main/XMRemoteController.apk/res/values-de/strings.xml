@@ -229,7 +229,7 @@
   <string name="find_milink_frame">%1$d Mi Geräte erkannt</string>
   <string name="fix_keys">Fehlfunktion beheben</string>
   <string name="fix_keys_success">Erfolgreich behoben</string>
-  <string name="fix_keys_tips">Fallse einige tasten nicht funktionieren, können Sie hier versuchen, das Problem zu beheben.</string>
+  <string name="fix_keys_tips">Falls einige Tasten nicht funktionieren, können Sie hier versuchen, das Problem zu beheben.</string>
   <string name="from_share">Geteilt von anderen</string>
   <string name="gamepad">Spielecontroller</string>
   <string name="gamepad_rule">"Im Spielecontrollermodus kann das Gerät kein Querformat darstellen."</string>
