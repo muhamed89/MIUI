@@ -459,7 +459,7 @@
   <string name="notification_download_failed">Download fehlgeschlagen</string>
   <string name="notification_download_failed_more">Download von %1$d Elementen fehlgeschlagen</string>
   <string name="notification_download_success_more">%1$d heruntergeladen</string>
-  <string name="notification_headset_custom">Abweisen</string>
+  <string name="notification_headset_custom">Ablehnen</string>
   <string name="notification_headset_info">Tippen Sie hier, um die Einstellungen anzuzeigen.</string>
   <string name="notification_headset_settings">Kopfhörer angeschlossen</string>
   <string name="notification_need_wifi_for_size">Downloadgröße erfordert WLAN.</string>
