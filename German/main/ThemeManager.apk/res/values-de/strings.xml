@@ -37,7 +37,7 @@
   <string name="download_failed">Download fehlgeschlagen</string>
   <string name="download_preview_failed">Laden der Vorschau fehlgeschlagen</string>
   <string name="download_success">Download abgeschlossen</string>
-  <string name="fail_to_add_account">Konto, konnte nicht hinzugefügt werden</string>
+  <string name="fail_to_add_account">Konto konnte nicht hinzugefügt werden</string>
   <string name="favorite_list">Favoriten</string>
   <string name="favorite_list_format">Favoriten %1$s</string>
   <string name="gift_anonymous">Anonym</string>
