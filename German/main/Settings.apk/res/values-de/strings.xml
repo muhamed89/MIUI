@@ -3204,12 +3204,12 @@ Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerä
   <string name="status_bar_settings_show_floating_notification">Popups</string>
   <string name="status_bar_settings_show_floating_notification_summary">Popups werden nach der Anzeige am oberen Bildschirmrand automatisch ausgeblendet</string>
   <string name="status_bar_settings_show_flow_info">Datenverbrauch anzeigen</string>
-  <string name="status_bar_settings_show_home_message">Appicon Symbol</string>
+  <string name="status_bar_settings_show_home_message">Appiconsymbol</string>
   <string name="status_bar_settings_show_keyguard_notification">Popupbenachrichtigungen und Sperrbildschirm</string>
   <string name="status_bar_settings_show_keyguard_notification_summary"/>
   <string name="status_bar_settings_show_network_speed">Verbindungsgeschwindigkeit anzeigen</string>
   <string name="status_bar_settings_show_notification_icon">Benachrichtigungssymbole anzeigen</string>
-  <string name="status_bar_settings_show_screenshot_notification">Screenshot-Meldung anzeigen</string>
+  <string name="status_bar_settings_show_screenshot_notification">Screenshotmeldung anzeigen</string>
   <string name="status_bar_settings_show_wifi_name">WLAN anzeigen</string>
   <string name="status_bar_settings_status_bar">Benachrichtigungsleiste</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Nach Auswahl ausblenden</string>
