@@ -55,6 +55,7 @@ Um Root-Zugriff zu erhalten müssen Sie die Entwickler-Version von MIUI installi
   <string name="Generic_UserApp">Heruntergeladene Apps (%d)</string>
   <string name="Generic_Version">Version %1$s</string>
   <string name="HIPS_Action_Accept">Erlauben</string>
+  <string name="HIPS_Action_Accept_Once">Einmal erlauben</string>
   <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Erlauben&lt;/font&gt;</string>
   <string name="HIPS_Action_Accept_Count">Erlauben in %1$d</string>
   <string name="HIPS_Action_Prompt">Nachfragen</string>
@@ -226,6 +227,8 @@ Um Root-Zugriff zu erhalten müssen Sie die Entwickler-Version von MIUI installi
   <string name="HIPS_Perm_process_nfc_Desc">Zugriff auf Nahfeldkommunikation (NFC) zu erhalten</string>
   <string name="HIPS_Perm_process_outgoing_calls">Telefonzugang</string>
   <string name="HIPS_Perm_process_outgoing_calls_Desc">Anrufe zu überwachen und zu beenden</string>
+  <string name="HIPS_Perm_read_notification_sms">Servicenachricht</string>
+  <string name="HIPS_Perm_read_notification_sms_Desc">Servicenachricht lesen</string>
   <string name="HIPS_Perm_use_sip">Video-Dienste</string>
   <string name="HIPS_Perm_use_sip_Desc">Session Initiation Log zum Streamen von Videos zu verwenden</string>
   <string name="HIPS_SecurityPrompt_Accept">Zulassen (%d)</string>
@@ -285,4 +288,5 @@ Um Root-Zugriff zu erhalten müssen Sie die Entwickler-Version von MIUI installi
   <string name="screen_overlay_button">Einstellungen</string>
   <string name="screen_overlay_message">Um diese Berechtigungseinstellung zu ändern, müssen Sie die Bildschirmüberlagerung zuerst unter Einstellungen > Apps ausschalten</string>
   <string name="screen_overlay_title">Bildschirmüberlagerung erkannt</string>
+  <string name="wakepath_confirm_start_activity">%1$s erlauben, %2$s zu öffnen?</string>
 </resources>
