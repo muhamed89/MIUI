@@ -19,4 +19,14 @@
         <item>Groß</item>
         <item>Sehr groß</item>
     </string-array>
+         <string-array name="pref_nav_mode_summary">
+        <item>Telefon</item>
+        <item>Tablet</item>
+     </string-array>
+     <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Desktop</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+     </string-array>
 </resources>
