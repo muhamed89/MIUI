@@ -321,6 +321,7 @@
   <string name="is_last_tab">Die ist der letzte Tab</string>
   <string name="is_page_bottom">"Sie haben das Ende der Seite erreicht"</string>
   <string name="is_page_top">"Sie sind am oberen Seitenrand"</string>
+  <string name="isreplace">Die Datei existiert bereits, übersetzen?</string>
   <string name="js_dialog_before_unload">"%s
 
 Diese Seite verlassen?"</string>
@@ -344,6 +345,7 @@ Diese Seite verlassen?"</string>
   <string name="media_error_action_replace_video_source">"Quelle konnte nicht gewechselt werden"</string>
   <string name="media_error_failure">"Video kann nicht abgespielt werden"</string>
   <string name="media_error_format">"Das Videoformat wird nicht unterstützt"</string>
+  <string name="media_error_network_unreachable">Netzwerk nicht erreichbar</string>
   <string name="media_error_nomemory">Nicht genügend Speicher</string>
   <string name="media_error_source">"Kann Quelle nicht finden"</string>
   <string name="media_error_timeout">Zeitüberschreitung der Netzwerkverbindung</string>
@@ -456,6 +458,8 @@ Diese Seite verlassen?"</string>
   <string name="paused_unknown">Pausiert</string>
   <string name="paused_waiting_for_network">Warte auf Netzwerkverbindung…</string>
   <string name="paused_waiting_to_retry">Auf neuen Versuch warten…</string>
+  <string name="pay_failed_toast">Bezahlung fehlgeschlagen</string>
+  <string name="pay_success_toast">Bezahlung erfolgreich</string>
   <string name="popup_window_attempt">Dieser Seite erlauben ein Popup-Fenster zu öffnen?</string>
   <string name="positive_confirm_message">Trotzdem ausschalten</string>
   <string name="pref_accessibility">Eingabehilfen</string>
@@ -595,6 +599,7 @@ Diese Seite verlassen?"</string>
   <string name="remove_history_item">Aus dem Verlauf entfernen</string>
   <string name="remove_snapshot">Lösche gespeicherte Seite</string>
   <string name="removed_from_bookmarks">Aus Lesezeichen entfernt</string>
+  <string name="replace">Ersetzen</string>
   <string name="reply_comment_title">Antwort: %s</string>
   <string name="resume_download">Start</string>
   <string name="retry_after_network_available">"Keine Netzwerkverbindung"</string>
@@ -632,16 +637,21 @@ Diese Seite verlassen?"</string>
   <string name="search_easou">Easou</string>
   <string name="search_google">Google</string>
   <string name="search_hint">Search</string>
+  <string name="search_keyword_browser">Browser</string>
   <string name="search_label">Browser</string>
+  <string name="search_path_browser">Einstellungen/Systemanwendungen/Browser</string>
   <string name="search_s139">139</string>
   <string name="search_settings_description">Lesezeichen und Verlauf</string>
   <string name="search_shipin">Video</string>
   <string name="search_sm">SM</string>
   <string name="search_sogou">Sogou</string>
   <string name="search_taobao">Taobao</string>
+  <string name="search_title_browser">Browser</string>
   <string name="search_tupian">Image</string>
   <string name="search_yahoo">Yahoo!</string>
   <string name="search_yicha">Yicha</string>
+  <string name="secureaccess">In den sicheren Modus wechseln</string>
+  <string name="secureaccess_cancel">Ignorieren</string>
   <string name="secure_download_in_xiaomi_market">Im App-Store laden</string>
   <string name="security_url_confirm_message">Das Deaktivieren dieser Funktion kann zu Sicherheitsrisiken führen.</string>
   <string name="security_warning">Sicherheitswarnung</string>
@@ -688,6 +698,8 @@ Diese Seite verlassen?"</string>
   <string name="suggest_access_item_singer_pop">%d beliebte Lieder</string>
   <string name="suggest_access_music">Mi Musik</string>
   <string name="suggest_open_app_failed">"Konnte die App nicht öffnen"</string>
+  <string name="switch_proxy_dialog_msg">Netzwerk-Hijacking erkannt. Verwenden Sie die integrierte Sicherheitsapp, oder melden Sie diesen Vorfall bei Ihrem Netzbetreiber.</string>
+  <string name="switch_proxy_dialog_title">Netzwerk-Hijacking</string>
   <string name="tab_hotpage">Neuigkeiten</string>
   <string name="tab_quicklinks">Startseite</string>
   <string name="tab_yellowpage">Links</string>
