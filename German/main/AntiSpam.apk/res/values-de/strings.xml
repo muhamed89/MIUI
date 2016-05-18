@@ -22,6 +22,7 @@
   <string name="Call_DEFAULT">Smart Blockliste</string>
   <string name="Call_PREFIX">Vorwahlblockliste</string>
   <string name="Call_PRIVATE_CALL">Unterdrückte Anrufe</string>
+  <string name="MALICIOUS_URL">Bösartiger Link</string>
   <string name="NACaddnumcontent">Rufnummer eingeben</string>
   <string name="NACaddnumtitle">Rufnummer zu Ausnahmen hinzufügen</string>
   <string name="PAST_BLOCK">Zuletzt blockiert</string>
@@ -53,6 +54,7 @@
   <string name="antispam_notificaiton_type_show_except_blacklist">Nicht blockierte Nummern</string>
   <string name="antispam_notificaiton_type_show_none">Nie</string>
   <string name="antispam_notification_setting_title">Benachrichtigungen</string>
+  <string name="antispam_xpace_text">Bitte in den Eigentümerraum wechseln, um die Anti-Spameinstellungen zu ändern</string>
   <string name="app_name">Blockliste</string>
   <string name="backsound_set_hint">Abwesenheitsnachricht hinzufügen zu %s?</string>
   <string name="baidu_thanks">Powered by Baidu</string>
