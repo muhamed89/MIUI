@@ -279,6 +279,10 @@
   <string name="crop_save_text_setas">Übernehmen</string>
   <string name="crop_tooltip">Markierung verschieben, um das Foto zuzuschneiden</string>
   <string name="crossprocess">Crossentwicklung</string>
+  <string name="custom_select_title_deselect_all">Keine auswählen</string>
+  <string name="custom_select_title_select_all">Alle auswählen</string>
+  <string name="custom_select_title_select_item">Elemente auswählen</string>
+  <string name="debugging_tip">Debuginformationen werden generiert</string>
   <string name="cut">Ausschneiden</string>
   <string name="damaged_file">Datei beschädigt</string>
   <string name="dcim_100media">Taobao TMall</string>
@@ -328,7 +332,11 @@
   <string name="done">Fertig</string>
   <string name="doodle">Kritzeln</string>
   <string name="doodle_tooltip">Zum Kritzeln Foto berühren</string>
+  <string name="download_retry_message">Downloadfehler, überprüfen Sie die Netzwerkverbindung und versuchen Sie es erneut.</string>
+  <string name="download_retry_text">Wiederholen</string>
+  <string name="download_retry_title">Downloadfehler</string>
   <string name="download">Download</string>
+  <string name="download_title">Dateien werden vorbereitet...</string>
   <string name="download_fail">Download fehlgeschlagen</string>
   <string name="download_fail_confirm_continue">Download von %s fehlgeschlagen</string>
   <string name="download_refocus_data">Neufokussierungsdaten runterladen</string>
@@ -358,7 +366,7 @@
   <string name="error_share_with_creator">Dieses Album wurde bereits mit Ihnen geteilt</string>
   <string name="error_should_not_select_image">Dateityp wird nicht unterstützt</string>
   <string name="error_should_not_select_video">Dateityp wird nicht unterstützt</string>
-  <string name="enable_slim_title">Fotogröße reduzieren</string>
+  <string name="enable_slim_title">Optimieren</string>
   <string name="error_socket_timeout">Netzwerkzeitüberschreitung</string>
   <string name="error_title">Synchronisationsfehler</string>
   <string name="error_unauthorized">Synchronisation wurde aufgrund zu vieler Anmeldeversuche ausgeschaltet</string>
@@ -879,7 +887,8 @@
   <string name="slim_after_backuped_summary">Ersetzen Sie nach der Sicherung in der Mi Cloud die Fotos mit der vollen Auflösung lokal durch optimierte Versionen. Die Originale beleiben in der Mi Cloud gespeichert. Das kann Ihnen viel Speicherplatz einsparen.</string>
   <string name="slim_after_backuped_title">Lokalen Speicher nach der Sicherung optimieren</string>
   <string name="sports_camera">Sportkamera</string>
-  <string name="square">Quadrat</string> 
+  <string name="square">Quadrat</string>
+  <string name="start_debug">Galerie debuggen</string>  
   <string name="start_slide_show">Diashow starten</string>
   <string name="start_to_use_face_albumset">Nach Personen sortieren</string>
   <string name="storage_all_volumes">Alle Speichermedien</string>

@@ -144,6 +144,7 @@
   <string name="empty_data">Ist ein Fehler aufgetreten</string>
   <string name="empty_keyword_hint">Geben Sie Ihren Suchbegriff in das Feld oben ein</string>
   <string name="empty_tv_exiting">Beenden ...</string>
+  <string name="enter_detail">Mehr Information</string>
   <string name="episode_name_format">Ep. %1$s</string>
   <string name="episode_suffix">"Ep. %d "</string>
   <string name="error_empty_filter_title">Keine Ergebnisse</string>

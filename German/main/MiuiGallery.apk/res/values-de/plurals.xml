@@ -200,4 +200,12 @@
         <item quantity="other">%s Videos lokal und aus der Mi Cloud löschen?</item>
         <item quantity="one">%s Video lokal und aus der Mi Cloud löschen?</item>
     </plurals>
+    <plurals name="download_error">
+        <item quantity="other">%1$d Downloadfehler</item>
+        <item quantity="one">%1$d Downloadfehler</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d Elemente ausgewählt</item>
+        <item quantity="one">%d Element ausgewählt</item>
+    </plurals>
 </resources>

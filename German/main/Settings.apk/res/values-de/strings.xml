@@ -1570,7 +1570,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="ignore_optimizations_on">Nicht optimieren</string>
   <string name="ignore_optimizations_on_desc">Ihr Akku wird möglicherweise schneller leer</string>
   <string name="ignore_optimizations_title">%s erlauben, die Optimierung zu ignorieren?</string>
-  <string name="ime_security_warning">Diese Eingabemethode kann den gesamten von Ihnen eingegebenen Text erfassen, einschließlich personenbezogener Daten wie Passwörter und Kreditkartennummern. Sie ist Teil der App \"%1$s\". Möchten Sie diese Eingabemethode verwenden?</string>
+  <string name="ime_security_warning">%1$s kann den gesamten von Ihnen eingegebenen Text erfassen, einschließlich personenbezogener Daten wie Passwörter und Kreditkartennummern. Sie ist Teil der App \"%1$s\". Möchten Sie diese Eingabemethode verwenden?</string>
   <string name="imei_information_summary">Relevante IMEI-Informationen</string>
   <string name="imei_information_title">IMEI-Informationen</string>
   <string name="immediately_destroy_activities">Aktionen nicht speichern</string>
@@ -3119,6 +3119,7 @@ Verbleibende Versuche :"</string>
   <string name="skip_lock_screen_confirm_msg">Benachrichtigungen, Musiksteuerung und Kamera werden im Sperrbildschirm deaktiviert.</string>
   <string name="skip_step">Diesen Schritt überspringen</string>
   <string name="slot_name">SIM %d</string>
+  <string name="slot_number">(Slot %1$d)</string>
   <string name="slot_status_title">IMEI-Information</string>
   <string name="small_font">Klein</string>
   <string name="smallwindow_smartcover_title">Transparente Frontabdeckung</string>

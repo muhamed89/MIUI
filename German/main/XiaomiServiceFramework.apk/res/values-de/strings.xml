@@ -105,6 +105,9 @@ Geben Sie die zugehörige Telefonnummer  ein, um %s zu reaktiviren"</string>
   <string name="error_device_id_message">"Ungültige Geräte ID: %s
 Geräte-ID muss eine gültige IMEI oder MAC-Adresse sein. Ohne Geräte-ID werden die Konto- und Cloudfunktionen nicht verfügbar sein."</string>
   <string name="error_device_id_title">IMEI-Nummer kann nicht abgerufen werden</string>
+  <string name="explain_send_sms_permission_button">Verifizieren</string>
+  <string name="explain_send_sms_permission_msg">Um %s zu aktivieren, wird das Xiaomi-Serviceframework eine SMS senden, um Ihre Telefonnummer zu verifizieren. Es fallen dafür Gebühren bei Ihrem Netzbetreiber an.</string>
+  <string name="explain_send_sms_permission_title">Verifizieren Ihre Telefonnummer</string>
   <string name="sim_unactivated_title">SIM-Karte ist nicht aktiviert</string>
   <string name="sync_notification_title_format">Synchronisierung: %1$s</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>

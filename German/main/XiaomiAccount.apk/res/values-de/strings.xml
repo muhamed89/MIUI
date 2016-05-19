@@ -103,6 +103,7 @@
   <string name="data_keep_in_device">Auf dem Gerät belassen</string>
   <string name="data_wipe_from_device">Von diesem Gerät löschen</string>
   <string name="delete_action">Löschen</string>
+  <string name="delete_bank_card_failed">Entfernen der Bezahlmethode fehlgeschlagen</string>
   <string name="delete_device_btn">Entfernen</string>
   <string name="delete_device_failed">Gerät konnte nicht entfernt werden</string>
   <string name="delete_device_notice">"Nachdem das Gerät entfernt wurde, wird es automatisch von Ihrem Mi Konto abgemeldet. Sie haben mit diesem Gerät dann keinen Zugriff mehr auf Ihre Fotos, Nachrichten und andere Inhalte die in Ihrem Mi Konto gespeichert sind."</string>
@@ -133,6 +134,20 @@
   <string name="exit">Beenden</string>
   <string name="facebook">Facebook</string>
   <string name="failed_dup_secure_phone_number">Diese Telefonnummer ist bereits mit einem anderen Mi Konto verknüpft</string>
+  <string name="find_device_access_denied">"Status kann nicht überprüft werden, Zugriff verweigert"</string>
+  <string name="find_device_account_error">"Status kann wegen eines Kontofehlers nicht überprüft werden"</string>
+  <string name="find_device_bad_response_error">"Status kann wegen eines Systemfehlers nicht überprüft werden. Versuchen Sie es später nochmal."</string>
+  <string name="find_device_error_password_not_confirmed">"\" Gerät finden\" kann nicht ausgeschaltet werden. Geben Sie nochmals Ihr Mi Konto-Passwort ein"</string>
+  <string name="find_device_error_password_recently_changed">"Sie haben Ihr Passwort innerhalb der letzten 3 Tage geändert. Aus Sicherheitsgründen kann \" Gerät finden\" nicht ausgeschaltet werden."</string>
+  <string name="find_device_interrupted">Der Vorgang wurde unterbrochen, versuchen Sie es später</string>
+  <string name="find_device_io_error">Keine Netzwerkverbindung</string>
+  <string name="find_device_null_credential_error">"Geräteinformation kann nicht gelesen werden, kontaktieren Sie den Xiaomi Kundenservice"</string>
+  <string name="find_device_operation_failed_error">Ein Fehler ist aufgetreten</string>
+  <string name="find_device_operation_failed_error_unknown">Ein Fehler ist aufgetreten, versuchen Sie es später</string>
+  <string name="find_device_remote_exception">RPC-Fehler</string>
+  <string name="find_device_request_error">Status kann nicht überprüft werden, versuchen Sie es später</string>
+  <string name="find_device_request_prepare_error">Status kann nicht überprüft werden, versuchen Sie es später</string>
+  <string name="find_device_unknown_error">Status kann nicht überprüft werden, versuchen Sie es später</string>
   <string name="forward_to_bind">Verknüpfen</string>
   <string name="find_password_on_web_msg">Besuchen Sie account.mi.com um Ihr Passwort zurückzusetzen</string>
   <string name="forget_password">Passwort vergessen</string>
@@ -418,6 +433,8 @@ Stellen Sie sicher, dass Sie sich die Antworten auf diese Fragen merken."</strin
   <string name="title_reg">Konto erstellen</string>
   <string name="trust_device">Gerät als vertrauenswürdig einstufen</string>
   <string name="trying_read_verify_code_sms">Bestätigungscode versenden…</string>
+  <string name="turn_off_find_device_failed_title">\"Gerät finden\" kann nicht deaktiviert werden</string>
+  <string name="turning_off_find_device">\"Gerät finden\" wird deaktiviert…</string>
   <string name="unbind_sns_description">Nachdem Sie sich vom Konto abgemeldet haben, können Sie Ihr %s Konto nicht mehr verwenden um sich anzumelden</string>
   <string name="unbind_weibo_description">"Nach der Abmeldung werden Sie Ihre Kontakte von Weibo nicht mehr synchronisieren können. Eine Anmeldung ist auch nicht mehr möglich."</string>
   <string name="update_contacts">Kontakte aktualisieren</string>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Berührungsassistent</string>
+  <string name="app_not_installed">Nicht installiert</string>
+  <string name="applications">Anwendungen</string>
+  <string name="category_others">Andere</string>
+  <string name="category_setting">Einstellungen</string>
+  <string name="customize_entries">Funktion personalisieren</string>
+  <string name="enable_touch_assistant">Berührungsassistenten einschalten</string>
+  <string name="function_settings">Funktionseinstellungen</string>
+  <string name="hide_touch_assistant">Berührungsassistenten automatisch verbergen</string>
+  <string name="hide_touch_assistant_intro">Berührungsassistenten in ausgewählten Apps verbergen.</string>
+  <string name="name_alipay_payment_code">Alipay Schenllzahlung</string>
+  <string name="name_alipay_scan">Alipay Scancode</string>
+  <string name="name_kill_processes">Speicherbereinigung</string>
+  <string name="name_music_next_song">Nächster Titel</string>
+  <string name="name_music_prev_song">Voriger Titel</string>
+  <string name="name_music_toggle">Wiedergabe/Pause</string>
+  <string name="name_payment_code">Schenllzahlung</string>
+  <string name="name_press_back_key">Zurück</string>
+  <string name="name_press_home_key">Home</string>
+  <string name="name_press_menu_key">Menü</string>
+  <string name="name_quick_lock">Bildschirmsperre</string>
+  <string name="name_quick_search">Suche</string>
+  <string name="name_scan_to_pay">Scan to pay</string>
+  <string name="name_screenshot">Screenshot</string>
+  <string name="name_wechat_payment_code">WeChat Schenllzahlung</string>
+  <string name="name_wechat_scan">WeChat Scancode</string>
+  <string name="pay_entry_dialog_title_select">App öffnen</string>
+  <string name="pay_entry_dialog_title_setting">Set app checked to enable</string>
+  <string name="pref_category_others">Andere</string>
+  <string name="pref_category_quick_pay">Schenllzahlung</string>
+  <string name="pref_category_quick_settings">Schnelleinstellungen</string>
+  <string name="pref_category_system">Systemeinstellungen</string>
+  <string name="restore_default">Auf Standardeinstellungen zurücksetzen</string>
+  <string name="restore_intro">Auf Standardeinstellungen zurücksetzen. Es werden keine Daten auf Ihrem Telefon gelöscht.</string>
+</resources>
