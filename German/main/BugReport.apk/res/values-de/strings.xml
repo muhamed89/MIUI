@@ -50,7 +50,7 @@
   <string name="err_type_xiaomi_service">Kundendienst</string>
   <string name="error_no_connection">Netzwerkverbindung kann nicht hergestellt werden</string>
   <string name="feedback_bug_status_change_notification_desc">%1$s Probleme \"%2$s\"</string>
-  <string name="feedback_collect_log_failed">"ogs konnten nicht gelesen werden"/string>
+  <string name="feedback_collect_log_failed">Logs konnten nicht gelesen werden</string>
   <string name="feedback_description">Beschreibung</string>
   <string name="feedback_description_bugreport_hint">In manchen Fällen () verhält sich mein Telefon abnormal ().</string>
   <string name="feedback_description_label">Beschreibung</string>
