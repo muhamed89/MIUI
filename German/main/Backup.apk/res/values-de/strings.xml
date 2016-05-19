@@ -253,6 +253,7 @@
   <string name="trans_calculating_base_size">Datengröße wird berechnet</string>
   <string name="trans_connect_failed_message">"Verbindung fehlgeschlagen, erneut versuchen oder neu starten. Navigieren Sie auf dem anderen Gerät zu den Einstellungen > Weitere Einstellungen > Mi Mover, Berühren Sie [Ich bin der Sender], oder versuchen Sie es nach einem Neustart erneut."</string>
   <string name="trans_connect_failed_title">Verbindung fehlgeschlagen</string>
+  <string name="trans_connection_failed">Gerät getrennt</string>
   <string name="trans_native_no_space">"Dieses Gerät hat nicht genügend Speicherplatz zur Verfügung 
 Bitte bereinigen Sie mindestens %s"</string>
   <string name="trans_please_waiting">Bitte warten ...</string>
@@ -337,7 +338,11 @@ Gehen Sie zu Einstellungen > weitere Einstellungen > Mi Mover
   <string name="user_notice_message">Einige Funktionen erfordern eine Internetverbindung, um ordnungsgemäß zu funktionieren.</string>
   <string name="wifi_title">WLAN-Einstellungen</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="xiaomi_bytes_unit">%1$sB</string>
+  <string name="xiaomi_connect_download_manager_fail">Verbindung mit dem Downloadmanager ist fehlgeschlagen, bitte überprüfen Sie den Downloadmanagerstatus im Appmanagement.</string>
   <string name="xiaomi_external_storage_unavailable">Kein Speicherplatz verfügbar, überprüfen Sie die SD-Karte.</string>
+  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+  <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_router">MiRouter</string>
   <string name="xiaomi_router_location">MiRouter %s</string>
   <string name="xiaomi_update_dialog_message">"Neue Version %1$s
