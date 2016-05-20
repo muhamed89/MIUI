@@ -8,10 +8,9 @@
   <string name="DesTencent">Tencent</string>
   <string name="Mi">Mi</string>
   <string name="Tencent">Tencent</string>
-  <string name="app_name">com.securitycore.miui_t</string>
   <string name="avast_dialog_cloudscan" />
   <string name="avast_dialog_dbupdate" />
-  <string name="avast_dialog_header">"Diese Funktion verschlüsselt Ihre Geräte-ID und lädt sie auf die Avast-Server hoch (%s)."</string>
+  <string name="avast_dialog_header">Diese Funktion verschlüsselt Ihre Geräte-ID und lädt sie auf die Avast-Server hoch (%s)</string>
   <string name="avast_dialog_policy">Datenschutzerklärung</string>
   <string name="avast_dialog_title">"Avast's Datenschutzerklärung"</string>
   <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&amp;l=en_US</string>
@@ -21,17 +20,17 @@
   <string name="avast_virus_type_exploit_description">Der Virus ist ein Exploit. Er nutzt Schwachstellen im System aus, um unbeabsichtigtes oder bösartige Verhalten auszulösen.</string>
   <string name="avast_virus_type_heuristic_description">Die Infektion wurde von einer bestimmten Heuristik abgeleitet. Diese Heuristik, besagt, dass es sich um einen Virus handelt.</string>
   <string name="avast_virus_type_joke_description">Der Virus ist ein Joke. Er ruft nervende oder Lustige Effekte im System hervor und ist normalerweise eher harmlos</string>
-  <string name="avast_virus_type_pup_description">Der Virus ist ein potenziell unerwünschtes Programm (PUP).</string>
+  <string name="avast_virus_type_pup_description">Der Virus ist ein potenziell unerwünschtes Programm (PUP)</string>
   <string name="avast_virus_type_rootkit_description">Der Virus ist ein Rootkit. Das ist eine Sofware, die die Funktion Ihres Betribessystems verändern kann. Sie kann auch die Kontrolle über Ihr Gerät erlangen. Sie ermöglichen es auch anderen Viren, trotz Virenscanner unentdeckt zu bleiben.</string>
-  <string name="avast_virus_type_spyware_description">"Der Virus ist eine Spyware. Sie kann unbemerkt persönliche Daten ausspionieren"</string>
+  <string name="avast_virus_type_spyware_description">Der Virus ist eine Spyware. Sie kann unbemerkt persönliche Daten ausspionieren.</string>
   <string name="avast_virus_type_suspicious_description">Ein allgemein verdächtiger Datentyp. Es wird versucht, ihn zu klassifizieren.</string>
-  <string name="avast_virus_type_tool_description">The virus is a potentially evil tool infecting by means similar to PUP.</string>
+  <string name="avast_virus_type_tool_description">The virus is a potentially evil tool infecting by means similar to PUP</string>
   <string name="avast_virus_type_trjan_description">Der Virus ist ein Trojaner. Es ist eine Malware, die anderen unbefugten Zugriff auf Ihr Gerät ermöglicht. Normalerweise replizieren sich Trojaner nicht von selbst, aber Sie können andere Viren installieren, und können Datendiebstahl zur Folge haben.</string>
-  <string name="avast_virus_type_unknown_description">Unbekannte Infektion.</string>
-  <string name="avast_virus_type_worm_description">Der Virus ist ein Wurm. Es ist eine Malware, die sich selbst repliziert und auf andere Geräte verbreitet.Er kann sich ohne menschliche Interaktion verbreiten. Würmer können auch das netzwerk beeinträchtigen.</string>
+  <string name="avast_virus_type_unknown_description">Unbekannte Infektion</string>
+  <string name="avast_virus_type_worm_description">Der Virus ist ein Wurm. Es ist eine Malware, die sich selbst repliziert und auf andere Geräte verbreitet. Er kann sich ohne menschliche Interaktion verbreiten. Würmer können auch das netzwerk beeinträchtigen.</string>
   <string name="avl_dialog_cloudscan"/>
   <string name="avl_dialog_dbupdate"/>
-  <string name="avl_dialog_header">"Diese Funktion verschlüsselt die Geräte-ID und ladet sie zu den AVL-Servern hoch (%s)."</string>
+  <string name="avl_dialog_header">Diese Funktion verschlüsselt die Geräte-ID und ladet sie zu den AVL-Servern hoch (%s)</string>
   <string name="avl_dialog_policy">Zeige Datenschutzbestimmungen</string>
   <string name="avl_dialog_title">"AVL-Datenschutzbestimmungen"</string>
   <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
@@ -40,7 +39,7 @@
   <string name="menu_settings">Einstellungen</string>
   <string name="tencent_dialog_cloudscan">Online auf Viren überprüfen</string>
   <string name="tencent_dialog_dbupdate">Virendefinitionen automatisch hochladen</string>
-  <string name="tencent_dialog_header">"Diese Funktion verschlüsselt die Geräte-ID und ladet sie auf die Tencent-Server hoch (%s)."</string>
+  <string name="tencent_dialog_header">Diese Funktion verschlüsselt die Geräte-ID und ladet sie auf die Tencent-Server hoch (%s)</string>
   <string name="tencent_dialog_policy">Zeige Datenschutzbestimmungen</string>
   <string name="tencent_dialog_title">Tencent-Datenschutzbestimmungen</string>
   <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
