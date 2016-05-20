@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <array name="action_bar_colors">
+        <item>#ff7d97e1</item>
+        <item>#ff27bbd0</item>
+        <item>#ff8cc061</item>
+        <item>#ff3fbc7d</item>
+        <item>#ff11b599</item>
+        <item>#fff38f3a</item>
+        <item>#ffeb6e4a</item>
+        <item>#ffdd5a62</item>
+        <item>#ffe8774d</item>
+        <item>#ffe29255</item>
+        <item>#ff579ee0</item>
+        <item>#ff9b88d0</item>
+    </array>
+    <array name="month_today_colors">
+        <item>#ff809be8</item>
+        <item>#ff2ec2d7</item>
+        <item>#ff99ce6d</item>
+        <item>#ff46c987</item>
+        <item>#ff15bb9e</item>
+        <item>#fff49d52</item>
+        <item>#fff4734d</item>
+        <item>#ffea646b</item>
+        <item>#ffed7d54</item>
+        <item>#ffe8995d</item>
+        <item>#ff5ea4e6</item>
+        <item>#ffab99de</item>
+    </array>
     <string-array name="reminder_methods_labels">
         <item>Benachrichtigung</item>
         <item>E-Mail</item>
@@ -155,10 +183,10 @@
         <item>Jahr</item>
     </string-array>
     <string-array name="repeat_frequency_spinner_plural">
-        <item>Tag</item>
-        <item>Woche</item>
-        <item>Monat</item>
-        <item>Jahr</item>
+        <item>Tage</item>
+        <item>Wochen</item>
+        <item>Monate</item>
+        <item>Jahre</item>
     </string-array>
     <string-array name="repeat_choose_day">
         <item>1.</item>
@@ -232,5 +260,91 @@
         <item>Niemals</item>
         <item>Zeit</item>
         <item>Anzahl</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Marshallinseln</item>
+        <item>Midwayinseln</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Pacific Time</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Mountain Time</item>
+        <item>Zentralamerika</item>
+        <item>Central Time</item>
+        <item>Mexico-Stadt</item>
+        <item>Saskatchewan</item>
+        <item>Bogotà</item>
+        <item>Eastern Time</item>
+        <item>Venezuela</item>
+        <item>Atlantic Time (Barbados)</item>
+        <item>Atlantic Time (Kanada)</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Neufundland</item>
+        <item>Brasília</item>
+        <item>Buenos Aires</item>
+        <item>Grönland</item>
+        <item>Montevideo</item>
+        <item>Mittelatlantik</item>
+        <item>Azoren</item>
+        <item>Kap Verde</item>
+        <item>Casablanca</item>
+        <item>London, Dublin</item>
+        <item>Amsterdam, Berlin</item>
+        <item>Belgrad</item>
+        <item>Brüssel</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>W. Africa Time</item>
+        <item>Amman, Jordanien</item>
+        <item>Athen, Istanbul</item>
+        <item>Beirut, Libanon</item>
+        <item>Kairo</item>
+        <item>Helsinki</item>
+        <item>Jerusalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moskau</item>
+        <item>Kuwait</item>
+        <item>Nairobi</item>
+        <item>Teheran</item>
+        <item>Baku</item>
+        <item>Tiflis</item>
+        <item>Eriwan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karachi</item>
+        <item>Oral</item>
+        <item>Jekaterinburg</item>
+        <item>Kalkutta</item>
+        <item>Sri Lanka</item>
+        <item>Kathmandu</item>
+        <item>Astana</item>
+        <item>Rangun</item>
+        <item>Krasnojarsk</item>
+        <item>Bangkok</item>
+        <item>Peking</item>
+        <item>Hongkong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipeh</item>
+        <item>Seoul</item>
+        <item>Tokio, Osaka</item>
+        <item>Jakutsk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney, Canberra</item>
+        <item>Wladiwostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fidschi</item>
+        <item>Tonga</item>
     </string-array>
 </resources>
