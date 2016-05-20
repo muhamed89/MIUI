@@ -226,6 +226,7 @@
   <string name="get_verification_code_fail">Keinen Verifikationscode erhalten</string>
   <string name="get_cloud_space">500GB hinzufügen</string>
   <string name="gigabyteShort">GB</string>
+  <string name="good_tip">Gut gemacht!</string>
   <string name="group_title">%2$s von %1$s</string>
   <string name="group_title_extra_backup">Sicherungen</string>
   <string name="group_title_extra_expire">Läuft bald ab</string>
@@ -365,6 +366,7 @@
   <string name="networkView_notConnected">Netzwerk nicht verfügbar</string>
   <string name="network_connect_confirm_des">Der Dateibrowser benötigt eine Internetverbindung.</string>
   <string name="network_dialog_checkbox_tip">"Nicht wieder anzeigen"</string>
+  <string name="network_not_available">Keine Netzwerkverbindung</string>
   <string name="network_spent_reminding">Das Öffnen dieser Seite benötigt Daten von Ihrem Datenplan.</string>
   <string name="network_spent_reminding_title">Datenverbrauchsbenachrichtigung</string>
   <string name="never_notify_network_connect">"Nicht mehr anzeigen"</string>
@@ -384,6 +386,8 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="no_enough_storage_title">Nicht genügend Speicherplatz</string>
   <string name="no_file">Keine Dateien</string>
   <string name="no_local_sticker_tip">Keine heruntergeladen Sticker gefunden. Sehen Sie sich die geteilten Sticker von anderen Mi Fans an.</string>
+  <string name="no_login_btn_text">Sofort anemlden</string>
+  <string name="no_login_tip">Zu diesem Thema involvieren und Belohnungen gewinnen</string>
   <string name="no_more_space">Nicht genügend Speicherplatz.</string>
   <string name="no_network_retry">"Verbindung mit Netzwerk nicht möglich. Überprüfen Sie Ihre Verbindung und versuchen Sie es erneut."</string>
   <string name="no_network_str">Keine Netzwerkverbindung. Überprüfen und nochmals versuchen.</string>
@@ -535,6 +539,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="report_politics">Politisch nicht korrekt</string>
   <string name="report_porn">Porno</string>
   <string name="report_violence">Gewalt</string>
+  <string name="request_timeout">Netzwerktimeout</string>
   <string name="reset_password">Passwort ändern</string>
   <string name="restoring">Wiederherstellen…</string>
   <string name="rlv_last_loading_time">Zuletzt aktualisiert: %1$s</string>
@@ -639,6 +644,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="storage_usb_description">USB-Speicher</string>
   <string name="storage_warning">Externer Speicher nicht verfügbar.</string>
   <string name="subtitle_report_video">Von %1$s</string>
+  <string name="symbol_for_storage_tip">:</string>
   <string name="sys_size_enable">Aktivieren</string>
   <string name="system_alert">Internetverbindung</string>
   <string name="system_sticker_control">Beliebte Sticker anzeigen</string>
