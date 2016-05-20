@@ -38,4 +38,8 @@
         <item>Pi</item>
         <item>Gleich</item>
     </string-array>
+    <string-array name="mortgage_repayment">
+        <item>Gleiche Raten von Kapital und Zinsen (gleichbleibende monatliche Rückzahlung)</item>
+        <item>Gleiches Kapital (zur Verringerung der monatlichen Rückzahlung)</item>
+     </string-array>
 </resources>
