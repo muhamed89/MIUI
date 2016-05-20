@@ -10,11 +10,13 @@
   <string name="action_settings">Einstellungen</string>
   <string name="ad_mark">AD</string>
   <string name="ad_title">Personen laden dies auch mit %1$s runter</string>
+  <string name="ad_title_other">Personen, die dieses Bild heruntergeladen haben, laden auch herunter</string>
   <string name="add_flow_fail_haveget_msg">Testzeit abgelaufen</string>
   <string name="add_flow_fail_vip_msg">Xunlei-Downloadbeschleuniger ist an</string>
   <string name="add_flow_success_msg">%s diesen Monat hinzugefügt</string>
   <string name="all_downloads">Alle Downloads</string>
   <string name="all_fileter">Alle</string>
+  <string name="all_share_files_content">Die ausgewählten Dateien wurden bereits gelöscht.</string>
   <string name="all_the_internet">Alle Netzwerke</string>
   <string name="apk_filter">APK</string>
   <string name="app_downloads">%s Downloads</string>
@@ -34,6 +36,7 @@
   <string name="cancel_running_download">Abbrechen</string>
   <string name="cancle">Abbrechen</string>
   <string name="choose_open_time">"Startzeit auswählen"</string>
+  <string name="clear_data">Lösche</string>
   <string name="complete_time">Fertig:</string>
   <string name="confirm">OK</string>
   <string name="confirm_delete_downloads_message">%d Downloads werden gelöscht.</string>
@@ -50,6 +53,7 @@
   <string name="deselect_all">Alles abwählen</string>
   <string name="deselect_subfile_all">Alles abwählen</string>
   <string name="determine">OK</string>
+  <string name="dialog_btn_ok_disabled_net">Netzwerkeinstellungen</string>
   <string name="dialog_cannot_resume">Der Download wurde unterbrochen und kann nicht fortgesetzt werden.</string>
   <string name="dialog_confirm_delete_checkbox_message">Löscht auch die lokalen Dateien</string>
   <string name="dialog_confirm_delete_downloads_message">%d Downloads löschen?</string>
@@ -61,7 +65,9 @@
   <string name="dialog_insufficient_space_on_cache">Der Download kann nicht abgeschlossen werden, da der Speicherplatz des internen Speichers nicht ausreicht.</string>
   <string name="dialog_insufficient_space_on_external">Der Download kann nicht abgeschlossen werden, da der Speicherplatz des externen Speichers nicht ausreicht.</string>
   <string name="dialog_media_not_found">Der Download ist nicht möglich, da kein externes Speichermedium vorhanden ist.</string>
+  <string name="dialog_msg_disabled_net">%1$s schränkt Downloads für das derzeitige Netzwerk ein. Klicke auf Netzwerkeinstellungen, um zur Sicherheitsapp zu gelangen.</string>
   <string name="dialog_queued_body">Datei wurde zum späteren Download auf die Warteschlange gesetzt.</string>
+  <string name="dialog_title_disabled_net">Internetzugang</string>
   <string name="dialog_title_not_available">Download fehlgeschlagen</string>
   <string name="dialog_title_queued_body">Warten auf Download</string>
   <string name="disable">Aus</string>
@@ -134,6 +140,7 @@
   <string name="experience_xunlei_account_speed">Xunlei-Mitglieder genießen Downloads mit höherer Geschwindigkeit.</string>
   <string name="expire_notification_msg">Xunlei-Mitgliedschaft läuft bald ab.</string>
   <string name="expire_today_notification_msg">Xunlei-Mitgliedschaft läuft heute ab.</string>
+  <string name="extend">erweitern</string>
   <string name="extract_file">Datei entpacken…</string>
   <string name="file_exist_hint">Die Datei ist bereits vorhanden</string>
   <string name="file_picker">Standort auswählen</string>
@@ -144,6 +151,7 @@
   <string name="get_data_failed">"Informationen konnten nicht abgerufen werden, versuchen Sie es später noch einmal"</string>
   <string name="get_order_dialog_msg">Bestellinfo wird abgerufen…</string>
   <string name="get_order_fail_msg">"Bestellung konnte nicht erstellt werden"</string>
+  <string name="goto_global_search">Im Internet nach \"%1$s\" suchen</string>
   <string name="guess_like">Das könnte Ihnen auch gefallen</string>
   <string name="high_speed_channel">Xunlei-Beschleuniger (Kostenpflichtig)</string>
   <string name="high_speed_tryout">Downloadgeschwindigkeit ist langsam, werden Sie Xunlei-Mitglied</string>
@@ -153,6 +161,9 @@
   <string name="high_speed_tryout_time">Demo verbleibend: %1$s. Werden Sie Xunlei-Mitglied.</string>
   <string name="hint">Achtung</string>
   <string name="immediately_a_renewal">Sofort erneuern</string>
+  <string name="info_flow_only_load_wifi">Lade empfohlene Quellen, wenn mit WLAN verbunden</string>
+  <string name="info_flow_setting">Einstellungen</string>
+  <string name="info_flow_show">Empfohlene Quellen</string>
   <string name="input_valid_address">Dateipfad eingeben</string>
   <string name="install">Installieren</string>
   <string name="install_failed">"%1$s Konnte nicht installiert werden"</string>
@@ -181,9 +192,16 @@
   <string name="new_add_bt">Torrent hinzufügen</string>
   <string name="no_downloads">Keine Downloads</string>
   <string name="no_file_hint">Download für diese Datei ist bereits vorhanden</string>
+  <string name="no_result_for_keyword">"\"%1$s\" konnte nicht gefunden werden"</string>
+  <string name="no_share_file">Datei konnte nicht geteilt werden</string>
+  <string name="no_share_file_content">Die ausgewählte Datei wurde bereits gelöscht</string>
+  <string name="no_share_files">"Bereits gelöschte Dateien können nicht geteilt werden"</string>
+  <string name="no_share_files_content">Einige Dateien, die sie versuchen zu teilen, wurden bereits gelöscht. Alle anderen Dateien wurden erfolgreich geteilt.</string>
   <string name="no_vip_info">Xunlei-Mitgliedschaft erwerben, um die Downloads zu beschleunigen</string>
   <string name="no_vip_show_info">"Beschleunigen Sie Downloads zwischen all Ihren Geräten mit Xunlei"</string>
+  <string name="notify_disabled_net_by_app">Internetzugang eingeschränkt</string>
   <string name="notify_not_support">"Einige Benachrichtigungen werden nicht unterstützt, jetzt aktualisieren"</string>
+  <string name="notify_only_wifi_download">Warte auf WLAN</string>
   <string name="one_month">1 Monat</string>
   <string name="only_support_torrent">Nur Torrentdateien werden unterstützt</string>
   <string name="open">Öffnen</string>
@@ -245,6 +263,7 @@
   <string name="revert_default">Standardeinstellungen wiederherstellen</string>
   <string name="revert_download_path">Standarddownloadordner verwenden?</string>
   <string name="save_path">"Speichere Downloads in: "</string>
+  <string name="save_text">Speicher %1$s</string>
   <string name="search_clear_history_btn">Suchverlauf löschen</string>
   <string name="search_clear_history_toast">Verlauf gelöscht</string>
   <string name="search_favorite_empty">Einige Quellen zu den Favoriten hinzufügen</string>
@@ -256,8 +275,11 @@
   <string name="search_history_today">Heute</string>
   <string name="search_history_year">dd.MM. yyyy</string>
   <string name="search_history_yesterday">Gestern</string>
+  <string name="search_home_download_popup">Zurück zu Downloads</string>
+  <string name="search_home_vif_show_more">Mehr</string>
   <string name="search_hot_anime">Zeichentrickfilme</string>
   <string name="search_hot_movie">Filme</string>
+  <string name="search_hot_recommend">Empfohlen</string>
   <string name="search_hot_source">Populäre Quellen</string>
   <string name="search_hot_tv">TV Shows</string>
   <string name="search_hot_variety">Unterhaltung</string>
@@ -268,6 +290,8 @@
   <string name="search_nonetwork_prompt">Prüfen Sie die Internetverbindung und versuchen Sie es erneut</string>
   <string name="search_nonetwork_refresh">Aktualisieren</string>
   <string name="search_recommend_empty">Keine Elemente</string>
+  <string name="search_vif_empty">Keine empfohlenen Elemente</string>
+  <string name="search_vif_score_text">Bewertung: %1$s</string>
   <string name="search_website">Webseitenquelle</string>
   <string name="search_website_more">Mehr</string>
   <string name="select_all">Alles auswählen</string>
@@ -288,6 +312,7 @@
   <string name="sniff_cannot_use">"Link kann nicht verwendet werden, tippen Sie zum Download auf die URL."</string>
   <string name="sniff_connect_error_page_tips">"URL konnte nicht geöffnet werden"</string>
   <string name="sniff_connect_error_refresh">Neu laden</string>
+  <string name="sniff_copyright_text">"Ergebnisse können aufgrund von Urheberrechtsbeschränkungen nicht angezeigt werden"</string>
   <string name="sniff_download_task_already_exist">Download ist bereits vorhanden</string>
   <string name="sniff_download_task_create_success">Download hinzugefügt</string>
   <string name="sniff_find_some_prefix"/>
@@ -313,9 +338,14 @@
   <string name="sniff_shortcut_tip">Fügen Sie weitere Verknüpfungen hinzu um Quellen schneller ausfindig zu machen.</string>
   <string name="sniff_shortcut_tip2">Finden Sie Quellen für Ihre Downloads auf dem Startbildschirm.</string>
   <string name="sniff_sniffing_btn_text">Suche nach Quelle…</string>
+  <string name="sniff_terms_agree_new">Zustimmen</string>
   <string name="sniff_terms_agree">Annehmen</string>
+  <string name="sniff_terms_check_text">Nutzungsbedingungen zustimmen</string>
   <string name="sniff_terms_msg">Sie müssen den \"Allgemeinen Geschäftsbedingungen\" zustimmen um eine Drittanbietersuche zu verwenden.</string>
+  <string name="sniff_terms_msg_a">Diese Suchfunktion wird von einem Drittanbieter bereitgestellt. Sie müssen den Nutzungsbedingungen zustimmen, um fortzufahren.</string>
+  <string name="sniff_terms_msg_b">Diese Suchfunktion wird von einem Drittanbieter bereitgestellt. Sie müssen den Nutzungsbedingungen zustimmen, um fortzufahren. Wenn Sie den Bedingungen zustimmen, tippen Sie unten auf das Häkchen.</string>
   <string name="sniff_terms_msg_bold">Nutzungsbedingungen</string>
+  <string name="sniff_terms_msg_bold_new">Nutzungsbedingungen</string>
   <string name="sniff_terms_reject">Ablehnen</string>
   <string name="sniff_terms_title">Achtung</string>
   <string name="sniff_text_sniff_next_page">Weiter &gt;</string>
@@ -335,6 +365,8 @@
   <string name="subfile_list">Dateien</string>
   <string name="task_detail">Aufgaben</string>
   <string name="task_detail_notfound_confirm">OK</string>
+  <string name="task_fail">Fehlgeschlagen</string>
+  <string name="text_showmore_infoflow">Weitere Quellen anzeigen</string>
   <string name="third_web_cancel">Abbrechen</string>
   <string name="third_web_confirm">OK</string>
   <string name="third_web_default">Standort merken</string>
@@ -342,8 +374,10 @@
   <string name="third_web_filesize">Größe</string>
   <string name="third_web_savepath">Speicherort</string>
   <string name="third_web_title">Runterladen</string>
+  <string name="title_homepage_infoflow">Kürzliche Aktualisierungen</string>
   <string name="title_tips">Achtung</string>
   <string name="title_unbind_xunlei">Xunlei-Konto entfernen</string>
+  <string name="toast_only_wifi_download">Verbinden Sie das Telefon mit einem WLAN-Netzwerk, um dieses Objekt herunterzuladen</string>
   <string name="toast_xunlei_engine_open">Xunlei-Beschleuniger ist eingeschaltet</string>
   <string name="torrent_file_error">"Diese Torrentdatei konnte nicht analysiert werden"</string>
   <string name="torrent_no_subfile">Keine Unterdateien in diesem Torrent</string>
