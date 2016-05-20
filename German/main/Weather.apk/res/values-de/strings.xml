@@ -65,7 +65,7 @@
   <string name="close">Schließen</string>
   <string name="daily_forcast_no_stable_direction">Windstill</string>
   <string name="daily_forcast_drawer_on_bottom">Verbergen</string>
-  <string name="daily_forcast_drawer_on_top">Weitere Tage anzeigen</string>
+  <string name="daily_forcast_drawer_on_top">Weitere Tage</string>
   <string name="daily_forcast_no_wind">Kein Wind</string>
   <string name="daily_forcast_temperature_connect" />
   <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
