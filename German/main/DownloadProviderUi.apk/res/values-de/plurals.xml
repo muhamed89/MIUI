@@ -4,4 +4,12 @@
          <item quantity="other">%d Elemente löschen?</item>
          <item quantity="one">Dieses Element löschen?</item>
      </plurals>
+     <plurals name="sniff_find_resource">
+        <item quantity="other">%d Objekte gefunden</item>
+        <item quantity="one">1 Objekt gefunden</item>
+     </plurals>
+     <plurals name="sniff_find_result">
+        <item quantity="other">%d Ergebnisse gefunden</item>
+        <item quantity="one">1 Ergebnis gefunden</item>
+     </plurals>
  </resources>
