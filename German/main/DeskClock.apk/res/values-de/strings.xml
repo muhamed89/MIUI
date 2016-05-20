@@ -43,6 +43,7 @@
   <string name="delelte_selected_timezone">Ausgewählte Zeitzone löschen?</string>
   <string name="delete">Löschen</string>
   <string name="delete_alarm">Wecker löschen</string>
+  <string name="delete_alarm_confirm">Ausgewählten Wecker löschen?</string>
   <string name="delete_selected_timer_item">Ausgewählten Timer löschen?</string>
   <string name="delete_timer_item_title">Timer löschen</string>
   <string name="delete_timezone_title">Zeitzone löschen</string>
