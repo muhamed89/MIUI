@@ -3,7 +3,6 @@
   <string name="SMTP_independent_verification_text">SMTP-unabhängige Überprüfung</string>
   <string name="SMTP_password_text">Passwort</string>
   <string name="SMTP_username_text">Benutzername</string>
-  <string name="account_cache_provider">Kontencacheprovider</string>
   <string name="account_duplicate_dlg_message_fmt">"Sie verwenden diesen Benutzernamen bereits für dieses Konto \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Identisches Konto</string>
   <string name="account_manager_type_exchange">com.android.exchange</string>
@@ -287,7 +286,6 @@
   <string name="contextmenu_send_mail">E-Mail senden</string>
   <string name="contextmenu_sharelink">Link teilen</string>
   <string name="contextmenu_sms_dot">SMS senden…</string>
-  <string name="conversation_content_provider">Konversationsinhaltsprovider</string>
   <string name="conversation_folder_moved">Verschoben nach %1$s</string>
   <string name="conversation_item_mark_read">Gelesen</string>
   <string name="conversation_item_mark_unread">Ungelesen</string>
@@ -774,10 +772,6 @@
   <string name="reply_all">Allen Antworten</string>
   <string name="reply_attribution" formatted="false">Am %s, %s schrieb:</string>
   <string name="report_phishing">Phishing melden</string>
-  <string name="report_rendering_improvement">Sieht gut aus</string>
-  <string name="report_rendering_improvement_desc">Diese Nachricht sieht gut aus</string>
-  <string name="report_rendering_problem">Sieht schlecht aus</string>
-  <string name="report_rendering_problem_desc">Diese Nachricht sieht schlecht aus</string>
   <string name="report_spam">Spam melden</string>
   <string name="request_entity_large">Datei ist zu groß!</string>
   <string name="respond_inline">Im Text antworten</string>
@@ -906,7 +900,6 @@
   <string name="veiled_summary_unknown_person"/>
   <string name="via_domain">über %1$s</string>
   <string name="view_more_conversations">Weitere Konversationen ansehen</string>
-  <string name="wait_help_context">warten</string>
   <string name="wait_for_manual_sync_body">"Für dieses Konto ist keine automatische Synchronisierung eingerichtet.
 Tippen Sie auf "<b>Jetzt synchronisieren</b> um Ihre Mails einmalig zu syncronisieren oder <b>Synchronisations Einstellungen ändern</b> um dieses Konto automatisch zu synchronisieren.</string>
   <string name="wait_for_sync_title">Auf Synchronisierung warten</string>
