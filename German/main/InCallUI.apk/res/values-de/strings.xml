@@ -6,6 +6,9 @@
   <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Unbekannte Nummer</string>
   <string name="antispam_provider">Identifiziert von %s</string>
+  <string name="areacode_set_default">Als Standard festlegen</string>
+  <string name="call_button_dialer_text">Tastenfeld</string>
+  <string name="call_button_tools_text">Funktion</string>
   <string name="callFailed_cb_enabled">Sie können keine Anrufe tätigen, wenn die Anrufsperre aktiviert ist.</string>
   <string name="callFailed_congestion">Netzwerk ausgelastet</string>
   <string name="callFailed_dialToDial">DIAL-Anfrage modifiziert, um DIAL mit einer anderen Nummer zu nutzen.</string>
@@ -52,6 +55,7 @@
   <string name="caller_manage_header">Konferenzanruf %s</string>
   <string name="calling_via_template">Anruf über %s</string>
   <string name="can_not_call_oneself">Diese Nummer kann nicht angerufen werden</string>
+  <string name="can_not_use">Kann nicht verwendet werden</string>
   <string name="cancel">Abbrechen</string>
   <string name="card_title_call_ended">Anruf beendet</string>
   <string name="card_title_conf_call">Telefonkonferenz</string>
