@@ -44,6 +44,7 @@
   <string name="cant_remove_folder">Ordner kann nicht entfernt werden</string>
   <string name="cant_remove_retained_app">Anwendung kann nicht entfernt werden</string>
   <string name="cant_remove_system_app">"Systemanwendung kann nicht entfernt werden"</string>
+  <string name="change_wallpaper">Änderung</string>
   <string name="children_folder_title">Kinderordner</string>
   <string name="children_mode_exit">Beenden</string>
   <string name="children_mode_tips">Zurück zu Einstellungen um den Zugriff auf Anwendungen zu verwalten</string>
@@ -52,6 +53,11 @@
   <string name="cloud_app_restore_title">Ausstehend</string>
   <string name="configure_wallpaper">Einstellungen</string>
   <string name="confirm_btn_label">OK</string>
+  <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Geklonte App werden deinstalliert und entfernt</string>
+  <string name="confirm_uninstall_dialog_has_xspace_app_msg">Geklonte App werden deinstalliert und entfernt</string>
+  <string name="confirm_uninstall_dialog_title">Entsprechenden geklonten apps werden entfernt</string>
+  <string name="default_folder_title_claro">Claro</string>
+  <string name="default_folder_title_telcel">Telcel</string>
   <string name="current_preview">Vorschau</string>
   <string name="current_wallpaper">Aktuell</string>
   <string name="custom_wallpaper_picker">Eigene</string>
@@ -140,6 +146,7 @@
   <string name="guide_install_app_msg">Anwendung nicht installiert. Suchen und herunterladen?</string>
   <string name="guide_install_app_title">App installieren</string>
   <string name="guide_tips_editing_mode">Berühren &amp; halten, um Widget zu greifen</string>
+  <string name="home_screen">Startbildschirm</string>
   <string name="image_too_small_message">Originalbild ist nicht groß genug</string>
   <string name="install">Installieren</string>
   <string name="invalid_contact_shortcut">Ungültiger Kontakt</string>
@@ -150,6 +157,8 @@
   <string name="loading_desktop">Einen Moment…</string>
   <string name="loading_wallpaper">Einen Moment…</string>
   <string name="local_wallpaper">Runtergeladen</string>
+  <string name="lock_screen">Sperrbildschirm</string>
+  <string name="lock_screen_wallpaper">Sperrbildschirm Hintergrund </string>
   <string name="lock_screen_failed_message">Sperrbildschirmhintergrund kann nicht angewendet werden</string>
   <string name="lock_screen_success_message">Auf Sperrbildschirm angewendet</string>
   <string name="menu_add">Hinzufügen</string>
@@ -169,6 +178,7 @@
   <string name="mi_wallpaper">MIUI-Theme-Store</string>
   <string name="mtzgadget_missing_text">Widget nicht verfügbar</string>
   <string name="multi_selecting_tips">Icon berühren um App auszuwählen</string>
+  <string name="normal_wallpaper">Hintergrundbild</string>
   <string name="online_wallpaper">Online</string>
   <string name="out_of_space">Auf dem Startbildschirm ist kein Platz mehr vorhanden.</string>
   <string name="permdesc_install_shortcut">Ermöglicht einer Anwendung das Hinzufügen von Verknüpfungen ohne Eingriff des Nutzers</string>
@@ -247,6 +257,9 @@
   <string name="uninstall_result_other_failed" formatted="false">%s und %d weitere Apps können nicht entfernt werden</string>
   <string name="uninstall_result_succeeded">App entfernt</string>
   <string name="uninstall_result_two_failed">%s und 1 weitere App kann nicht entfernt werden</string>
+  <string name="uninstall_with_xspace_dialog_message">Entsprechenden geklonten apps werden zusammen mit App-Daten entfernt</string>
+  <string name="uninstall_xspace_dialog_message">Alle App-Daten vom geklonte App werden deinstalliert und entfernt</string>
+  <string name="uninstall_xspace_dialog_title_format">Geklonte \"%s\" deinstallieren</string>
   <string name="unknown_artist_name">Unbekannter Künstler</string>
   <string name="unnamed_folder_name">Unbenannter Ordner</string>
   <string name="wallpaper">Hintergrund</string>
@@ -254,6 +267,7 @@
   <string name="wallpaper_failed_message">Hintergrund kann nicht angewendet werden</string>
   <string name="wallpaper_scaling_message">Skalieren auf feste Größe</string>
   <string name="wallpaper_settings">Hintergrund</string>
+  <string name="wallpaper_scroll_type_tips">Hintergrundbild blättern</string>
   <string name="wallpaper_success_message">Hintergrund hinzugefügt</string>
   <string name="widget_favorite_contacts_edit">Editor</string>
   <string name="widget_favorite_contacts_label">Favoriten</string>
