@@ -791,7 +791,7 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
         <item>Zwei Seiten</item>
      </string-array>
      <string-array name="tts_pitch_entries">
-        <item>Sehr niedrig low</item>
+        <item>Sehr niedrig</item>
         <item>Niedrig</item>
         <item>Normal</item>
         <item>Hoch</item>
@@ -803,7 +803,7 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
         <item>Normal</item>
         <item>Schnell</item>
         <item>Schneller</item>
-        <item>Very fast</item>
+        <item>Sehr schnell</item>
         <item>Rasch</item>
         <item>Sehr rasch</item>
         <item>Am schnellsten</item>
