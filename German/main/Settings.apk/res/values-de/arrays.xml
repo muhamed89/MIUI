@@ -771,4 +771,41 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
         <item>4K (hochskaliert, gesichert)</item>
         <item>720p, 1080p (zwei Displays)</item>
     </string-array>
+         <string-array name="data_usage_data_range">
+        <item>Die letzten 30 Tage</item>
+        <item>Zykluszeit festlegen...</item>
+     </string-array>
+     <string-array name="proc_stats_memory_states">
+        <item>Normal</item>
+        <item>Gemäßigt</item>
+        <item>Niedrig</item>
+        <item>Kritisch</item>
+     </string-array>
+     <string-array name="security_settings_premium_sms_values">
+        <item>Nachfragen</item>
+        <item>Niemals erlauben</item>
+        <item>Immer erlauben</item>
+     </string-array>
+     <string-array name="status_bar_style_entries">
+        <item>Eine Seite</item>
+        <item>Zwei Seiten</item>
+     </string-array>
+     <string-array name="tts_pitch_entries">
+        <item>Sehr niedrig low</item>
+        <item>Niedrig</item>
+        <item>Normal</item>
+        <item>Hoch</item>
+        <item>Sehr hoch</item>
+     </string-array>
+     <string-array name="tts_rate_entries">
+        <item>Sehr langsam</item>
+        <item>Langsam</item>
+        <item>Normal</item>
+        <item>Schnell</item>
+        <item>Schneller</item>
+        <item>Very fast</item>
+        <item>Rasch</item>
+        <item>Sehr rasch</item>
+        <item>Am schnellsten</item>
+     </string-array>
 </resources>
