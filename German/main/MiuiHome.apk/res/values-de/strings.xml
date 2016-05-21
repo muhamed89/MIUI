@@ -44,7 +44,7 @@
   <string name="cant_remove_folder">Ordner kann nicht entfernt werden</string>
   <string name="cant_remove_retained_app">Anwendung kann nicht entfernt werden</string>
   <string name="cant_remove_system_app">"Systemanwendung kann nicht entfernt werden"</string>
-  <string name="change_wallpaper">Änderung</string>
+  <string name="change_wallpaper">Ändern</string>
   <string name="children_folder_title">Kinderordner</string>
   <string name="children_mode_exit">Beenden</string>
   <string name="children_mode_tips">Zurück zu Einstellungen um den Zugriff auf Anwendungen zu verwalten</string>
@@ -53,9 +53,9 @@
   <string name="cloud_app_restore_title">Ausstehend</string>
   <string name="configure_wallpaper">Einstellungen</string>
   <string name="confirm_btn_label">OK</string>
-  <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Geklonte App werden deinstalliert und entfernt</string>
-  <string name="confirm_uninstall_dialog_has_xspace_app_msg">Geklonte App werden deinstalliert und entfernt</string>
-  <string name="confirm_uninstall_dialog_title">Entsprechenden geklonten apps werden entfernt</string>
+  <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Geklonte Apps werden deinstalliert und entfernt</string>
+  <string name="confirm_uninstall_dialog_has_xspace_app_msg">Geklonte App wird deinstalliert und entfernt</string>
+  <string name="confirm_uninstall_dialog_title">Die entsprechenden geklonten Apps werden entfernt</string>
   <string name="default_folder_title_claro">Claro</string>
   <string name="default_folder_title_telcel">Telcel</string>
   <string name="current_preview">Vorschau</string>
@@ -257,8 +257,8 @@
   <string name="uninstall_result_other_failed" formatted="false">%s und %d weitere Apps können nicht entfernt werden</string>
   <string name="uninstall_result_succeeded">App entfernt</string>
   <string name="uninstall_result_two_failed">%s und 1 weitere App kann nicht entfernt werden</string>
-  <string name="uninstall_with_xspace_dialog_message">Entsprechenden geklonten apps werden zusammen mit App-Daten entfernt</string>
-  <string name="uninstall_xspace_dialog_message">Alle App-Daten vom geklonte App werden deinstalliert und entfernt</string>
+  <string name="uninstall_with_xspace_dialog_message">Die entsprechenden geklonten Apps werden zusammen mit den Appdaten entfernt</string>
+  <string name="uninstall_xspace_dialog_message">Alle Appdaten der geklonten App werden deinstalliert und entfernt</string>
   <string name="uninstall_xspace_dialog_title_format">Geklonte \"%s\" deinstallieren</string>
   <string name="unknown_artist_name">Unbekannter Künstler</string>
   <string name="unnamed_folder_name">Unbenannter Ordner</string>
