@@ -3,6 +3,7 @@
   <string name="SMTP_independent_verification_text">SMTP-unabhängige Überprüfung</string>
   <string name="SMTP_password_text">Passwort</string>
   <string name="SMTP_username_text">Benutzername</string>
+  <string name="account_cache_provider">Kontencacheprovider</string>
   <string name="account_duplicate_dlg_message_fmt">"Sie verwenden diesen Benutzernamen bereits für dieses Konto \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Identisches Konto</string>
   <string name="account_manager_type_exchange">com.android.exchange</string>
@@ -17,6 +18,7 @@
   <string name="account_security_policy_explanation_fmt">Der Server %s erfordert eine Freigabe, damit er einige Sicherheitsfunktionen Ihres Androidgerätes steuern kann.</string>
   <string name="account_security_title">Gerätesicherheit</string>
   <string name="account_set_up_change_type_note">Wenn Sie zwischen POP3- und IMAP-Einstellungen wechseln müssen, dann löschen Sie Ihr Konto und erstellen ein Neues mit den gewünschten Einstellungen.</string>
+  <string name="account_setting">Kontoeinstellungen</string>
   <string name="account_settings_action">Kontoeinstellungen</string>
   <string name="account_settings_background_attachments_label">Anhänge herunterladen</string>
   <string name="account_settings_background_attachments_summary">Anhänge herunterladen mit WLAN</string>
@@ -191,7 +193,8 @@
   <string name="auto_advance_help_title">Nach dem Löschen einer Nachricht, zeige…</string>
   <string name="auto_advance_label">Automatisch fortfahren</string>
   <string name="auto_advance_summary">Was soll nach dem Löschen einer Nachricht angezeigt werden?</string>
-  <string name="auto_sync_off">Automatische Synchronisation ist ausgeschaltet.</string>
+  <string name="auto_sync_off">Automatische Synchronisation ist ausgeschaltet</string>
+  <string name="battery_saver">Energiesparmodus</string>
   <string name="bcc">Bcc</string>
   <string name="bcc_heading">"Bcc: "</string>
   <string name="blank_feedback_toast">Bitte geben Sie eine Nachricht ein!</string>
@@ -239,6 +242,8 @@
   <string name="compose_send">Senden</string>
   <string name="compose_sent">E-Mail gesendet</string>
   <string name="confirm">OK</string>
+  <string name="confirm_before_delete">Vor dem Löschen bestätigen</string>
+  <string name="confirm_before_send">Vor dem Senden bestätigen</string>
   <string name="confirm_delete_conversation_title">Löschen</string>
   <string name="confirm_discard_text">Diese Nachricht verwerfen?</string>
   <string name="confirm_response">Senden…</string>
@@ -262,6 +267,7 @@
   <string name="contact_list_add_btn">Hinzufügen</string>
   <string name="contact_list_search_hint">Kontakte suchen</string>
   <string name="contact_list_title">Kontaktliste</string>
+  <string name="contact_permission_error">Keine Berechtigung, die Kontakte zu lesen</string>
   <string name="contact_select">Kontakte auswählen</string>
   <string name="content_description">%1$s about %2$s, %3$s on %4$s, %5$s</string>
   <string name="content_description_today">%1$s about %2$s, %3$s at %4$s, %5$s</string>
@@ -281,10 +287,12 @@
   <string name="contextmenu_send_mail">E-Mail senden</string>
   <string name="contextmenu_sharelink">Link teilen</string>
   <string name="contextmenu_sms_dot">SMS senden…</string>
+  <string name="conversation_content_provider">Konversationsinhaltsprovider</string>
   <string name="conversation_folder_moved">Verschoben nach %1$s</string>
   <string name="conversation_item_mark_read">Gelesen</string>
   <string name="conversation_item_mark_unread">Ungelesen</string>
   <string name="conversation_photo_welcome_text">Auf Absenderbild tippen um die entsprechende Konversation auszuwählen</string>
+  <string name="conversation_view">Konversationsansicht</string>
   <string name="copied">Kopiert</string>
   <string name="copy_email">E-Mailadresse kopieren</string>
   <string name="copy_number">Telefonnummer kopieren</string>
@@ -301,6 +309,7 @@
   <string name="default_signature">Gesendet von meinem Mi Telefon</string>
   <string name="del_account_questionnair_hint">"Könnten Sie uns sagen, warum Sie dieses Konto entfernen möchten?"</string>
   <string name="delete">Löschen</string>
+  <string name="delete_message_flow">automatisch springen</string>
   <string name="deleted">Gelöscht</string>
   <string name="device_activity_btn_str">Aktivieren</string>
   <string name="device_activity_lint_str">Aktivieren von vollständigem Mailserviceupdate sowie der Sicherheitseinstellungen</string>
@@ -318,6 +327,7 @@
   <string name="discard">Löschen</string>
   <string name="discard_drafts">Entwürfe löschen</string>
   <string name="dismiss_tip_hover_text">Tipp schließen</string>
+  <string name="disturb_switch">Nicht stören</string>
   <string name="done">Fertig</string>
   <string name="done_action">Fertig</string>
   <string name="donot_disturb_endtime_title">Bis</string>
@@ -384,6 +394,7 @@
   <string name="folder_drafts_name_en2">[Gmail]/Entwürfe</string>
   <string name="folder_junk_name_cn0">Spam-Ordner</string>
   <string name="folder_junk_name_cn1">Papierkorb</string>
+  <string name="folder_junk_name_cn2">[Gmail]/Spam</string>
   <string name="folder_junk_name_en0">Papierkorb</string>
   <string name="folder_junk_name_en1">Massenversand</string>
   <string name="folder_junk_name_en2">Junk Mail</string>
@@ -433,6 +444,7 @@
   <string name="get_database_exception">"Zum Löschen der Appdaten gehen Sie zu Einstellungen &gt; System Apps und versuchen Sie es erneut."</string>
   <string name="gmail_acceleration">Für Gmailkonto Proxyserver verwenden</string>
   <string name="gmail_login_confirm_to_use_proxy">Proxyserver für den Zugriff auf Ihr Gmailkonto verwenden?</string>
+  <string name="gmail_login_failed_non_proxy_title">Kein Zugriff auf Gmail-Server</string>
   <string name="gmail_server_authorization_deleted">"Authentifizierung fehlgeschlagen. Nochmals versuchen."</string>
   <string name="gmail_web_login_go">OK</string>
   <string name="gmail_web_login_required_message">Anmelden</string>
@@ -762,6 +774,10 @@
   <string name="reply_all">Allen Antworten</string>
   <string name="reply_attribution" formatted="false">Am %s, %s schrieb:</string>
   <string name="report_phishing">Phishing melden</string>
+  <string name="report_rendering_improvement">Sieht gut aus</string>
+  <string name="report_rendering_improvement_desc">Diese Nachricht sieht gut aus</string>
+  <string name="report_rendering_problem">Sieht schlecht aus</string>
+  <string name="report_rendering_problem_desc">Diese Nachricht sieht schlecht aus</string>
   <string name="report_spam">Spam melden</string>
   <string name="request_entity_large">Datei ist zu groß!</string>
   <string name="respond_inline">Im Text antworten</string>
@@ -792,6 +808,7 @@
   <string name="selected_lable">Ausgewählt</string>
   <string name="send">Senden</string>
   <string name="send_failed">Nicht gesendet</string>
+  <string name="send_feed_back">Feedback senden</string>
   <string name="sender_whitelist_cleared">Bilder werden nicht automatisch angezeigt.</string>
   <string name="senders_elided">..</string>
   <string name="senders_split_token">, </string>
@@ -880,6 +897,7 @@
   <string name="upload_log_success">Logs erfolgreich gesendet</string>
   <string name="upload_log_title">Logs an Xiaomi senden</string>
   <string name="upload_log_yes">Hochladen</string>
+  <string name="upload_logs">Logdatei hochladen</string>
   <string name="uploading_logs">Einen Moment…</string>
   <string name="validation_failed_prompt">Konto konnte nicht überprüft werden. Überprüfen Sie die Servereinstellungen für %s</string>
   <string name="veiled_address"/>
@@ -888,6 +906,7 @@
   <string name="veiled_summary_unknown_person"/>
   <string name="via_domain">über %1$s</string>
   <string name="view_more_conversations">Weitere Konversationen ansehen</string>
+  <string name="wait_help_context">warten</string>
   <string name="wait_for_manual_sync_body">"Für dieses Konto ist keine automatische Synchronisierung eingerichtet.
 Tippen Sie auf "<b>Jetzt synchronisieren</b> um Ihre Mails einmalig zu syncronisieren oder <b>Synchronisations Einstellungen ändern</b> um dieses Konto automatisch zu synchronisieren.</string>
   <string name="wait_for_sync_title">Auf Synchronisierung warten</string>
