@@ -57,7 +57,7 @@
   <string name="attendees_label">Gäste</string>
   <string name="birthday_calendar_display_name">Geburtstagserinnerungen</string>
   <string name="birthday_event_description">"%1$s hat heute %4$s!"</string>
-  <string name="birthday_event_description_a_week_ago">Vor einer Woche</string>
+  <string name="birthday_event_description_a_week_ago">vor einer Woche</string>
   <string name="birthday_event_description_a_week_later">in einer Woche</string>
   <string name="birthday_event_description_day_after_tomorrow">übermorgen</string>
   <string name="birthday_event_description_day_before_yesterday">vorgestern</string>
@@ -72,7 +72,7 @@
   <string name="birthday_event_description_yesterday">gestern</string>
   <string name="birthday_metric"/>
   <string name="birthday_notification_age_term"/>
-  <string name="birthday_notification_text_days_later">%1$s Tage bis %4$s (%5$s)</string>
+  <string name="birthday_notification_text_days_later">Noch %1$s Tage bis zum %4$s (%5$s)</string>
   <string name="birthday_notification_text_today">Nicht vergessen, zu gratulieren.</string>
   <string name="birthday_notification_title_days_later">"%1$s hat bald %2$s"</string>
   <string name="birthday_notification_title_today">"%1$s hat %3$s"</string>  
