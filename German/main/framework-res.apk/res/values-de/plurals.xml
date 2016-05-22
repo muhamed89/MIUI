@@ -115,4 +115,24 @@
         <item quantity="other">Für %d Stunden</item>
         <item quantity="one">Für eine Stunde</item>
     </plurals>
+         <plurals name="selected_count">
+        <item quantity="other">%1$d ausgewählt</item>
+        <item quantity="one">%1$d ausgewählt</item>
+     </plurals>
+     <plurals name="zen_mode_duration_hours_short">
+        <item quantity="other">Für %d h</item>
+        <item quantity="one">Für 1 h</item>
+     </plurals>
+     <plurals name="zen_mode_duration_hours_summary_short">
+        <item quantity="other">Für %1$d h (bis %2$s)</item>
+        <item quantity="one">Für 1 h (bis %2$s)</item>
+     </plurals>
+     <plurals name="zen_mode_duration_minutes_short">
+        <item quantity="other">Für %d min</item>
+        <item quantity="one">Für 1 min</item>
+     </plurals>
+     <plurals name="zen_mode_duration_minutes_summary_short">
+        <item quantity="other">Für %1$d min (bis %2$s)</item>
+        <item quantity="one">Für 1 min (bis %2$s)</item>
+     </plurals>
 </resources>
