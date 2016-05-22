@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+<string name="add_frequent_phrases">Häufig verwendete Sätze hinzufügen</string>
   <string name="android_ringtone_default_with_actual">Standardklingelton (%1$s)</string>
   <string name="android_ringtone_silent">Keine</string>
   <string name="android_ringtone_unknown">Unbekannter Klingelton</string>
@@ -32,12 +33,17 @@
   <string name="def_sms_received_sound_slot_1">/system/media/audio/notifications/MessageIncoming.ogg</string>
   <string name="def_sms_received_sound_slot_2">/system/media/audio/notifications/MessageIncoming.ogg</string>
   <string name="default_name">Standard</string>
+  <string name="delete_frequent_phrases">Häufig verwendete Sätze löschen</string>
+  <string name="delete_frequent_phrases_confirm">Ausgewählte Sätze löschen?</string>
   <string name="device_hongmi">Redmi</string>
   <string name="device_pad">Mi Pad</string>
   <string name="device_xiaomi">Mi Phone</string>
   <string name="double_seventh_day">Tanabata</string>
   <string name="easter">Ostern</string>
+  <string name="edit_frequent_phrases">Häufig verwendete Sätze bearbeiten</string>
   <string name="fools_day">Erster April</string>
+  <string name="frequent_phrases_des">Geben Sie häufig verwendete Sätze nur durch Antippen ein</string>
+  <string name="frequent_phrases_size_exceeded">Sie können 10 Sätze hinzufügen. Löschen Sie unnötige, um weiter hinzuzufügen</string>
   <string name="good_friday">Karfreitag</string>
   <string name="grain_buds">Xiǎomǎn - Kleine Fülle/Ährenbildung</string>
   <string name="grain_in_ear">Mangzhong - Grannen/Ährenzeit</string>
@@ -83,6 +89,9 @@ gehe zu %s"</string>
   <string name="lunar_yue">Monat</string>
   <string name="lunar_zheng">1. Mondmonat</string>
   <string name="maml_component_customization_title">Einstellungen</string>
+  <string name="menu_add_frequent_phrases">Hinzufügen</string>
+  <string name="menu_delete">Löschen</string>
+  <string name="menu_edit">Bearbeiten</string>
   <string name="mibi_license">Mi Credit Nutzungsbedingungen</string>
   <string name="miui_device_name">Android</string>
   <string name="national_day">Nationalfeiertag</string>
@@ -121,6 +130,8 @@ gehe zu %s"</string>
   <string name="tw_youth_day">Tag der Jugend</string>
   <string name="united_nations_day">Tag der Vereinten Nationen</string>
   <string name="valentines_day">Valentinstag</string>
+  <string name="vernal_equinox">Frühjahrstagundnachtgleiche</string>
+  <string name="vip_login">Zum Anmelden antippen</string>
   <string name="white_dews">Baílù - Weißer Tau</string>
   <string name="winter_begins">Lìdōng - Winterbeginn</string>
   <string name="winter_solstice">Dōngzhì - Winterankuft</string>
