@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add_frequent_phrases">Häufig verwendete Ausdrücke hinzufügen</string>
+  <string name="add_frequent_phrases">Häufig verwendete Sätze hinzufügen</string>
   <string name="all_call_livetalk_enable">Aufladepakete für nationale und internationale Anrufe verwenden</string>
   <string name="all_call_livetalk_remain_mins">Minuten übrig: %1$s National oder %2$s Ausland</string>
   <string name="alwaysUsePrompt">Auswahl merken</string>
@@ -38,7 +38,7 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; System &gt; Tast
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Nein Danke</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Anpassen</string>
   <string name="fp_nav_center_action_choose_dlg_title">Hometaste anpassen </string>
-  <string name="frequent_phrases">Häufig verwendete Ausdrücke</string>
+  <string name="frequent_phrases">Häufig verwendete Sätze</string>
   <string name="global_actions_airplane_mode">Flugmodus</string>
   <string name="global_actions_reboot">Neustart</string>
   <string name="global_actions_shutdown">Herunterfahren</string>
