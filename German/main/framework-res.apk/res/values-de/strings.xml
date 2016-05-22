@@ -1736,7 +1736,6 @@ Wenn Sie über längere Zeiträume hinweg Musik in hoher Lautstärke hören, kan
   <string name="vpn_title_long">VPN wurde von %s aktiviert.</string>
   <string name="wait">Warten</string>
   <string name="wallpaper_binding_label">Hintergrund</string>
-  <string name="web_user_agent_target_content">"Mobil "</string>
   <string name="webpage_unresponsive">"Die Seite reagiert nicht mehr.
 
 Möchten Sie die Seite schließen?"</string>
