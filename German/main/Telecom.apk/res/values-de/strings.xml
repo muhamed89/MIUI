@@ -4,12 +4,18 @@
   <string name="accessibility_speakerphone_enabled">Freisprechfunktion aktiviert</string>
   <string name="add_vm_number_str">Nummer hinzufügen</string>
   <string name="can_not_dial_while_vt_prompt">"Während eines Videoanrufs im Prozess lässt sich nicht wählen"</string>
+  <string name="change_default_dialer_dialog_title">Ändere Standard-Telefonapp?</string>
+  <string name="change_default_dialer_no_previous_app_set_text">Nutze %s als Standard-Telefonapp?</string>
+  <string name="change_default_dialer_with_previous_app_set_text">Nutze %1$s statt %2$s als Standard-Telefonapp?</string>
   <string name="dial_conference_fail_prompt">Die Telefonkonferenz kann nicht direkt einrichtet werden. Das aktuelle Netzwerk unterstützt VoLTE nicht.</string>
   <string name="dial_vt_fail_prompt"> Das aktuelle Netzwerk unterstützt VoLTE nicht. Standardtelefonie verwenden? </string>
+  <string name="duplicate_video_call_not_allowed">Anruf kann zurzeit nicht hinzugefügt werden.</string>
+  <string name="enable_account_preference_title">Anrufaccounts</string>
   <string name="handle_restricted">RESTRICTED</string>
   <string name="headset_plugin_view_text">Headset ist angesteckt</string>
   <string name="headset_plugin_view_title">Headset</string>
   <string name="incall_error_call_failed">Anruf fehlgeschlagen</string>
+  <string name="lch_dtmf_key">D</string>
   <string name="no_vm_number">Fehlende Mailboxnummer</string>
   <string name="no_vm_number_msg">Auf der SIM-Karte ist keine Mailboxnummer gespeichert.</string>
   <string name="notification_missedCallTicker">Entgangener Anruf von %s</string>
@@ -21,6 +27,8 @@
   <string name="notification_missedCallsTitle">Entgangene Anrufe</string>
   <string name="outgoing_call_error_no_phone_number_supplied">Geben Sie eine gültige Nummer ein.</string>
   <string name="outgoing_call_not_allowed">Der Geräteeigentümer hat nur Notrufe zugelassen.</string>
+  <string name="outgoing_call_not_allowed_no_permission">Diese App kann ohne die Telefonberechtigung keine ausgehenden Anrufe starten.</string>
+  <string name="outgoing_call_not_allowed_user_restriction">Der Geräteeigentümer hat nur Notrufe zugelassen.</string>
   <string name="respond_via_sms_canned_response_1">"Ich kann im Moment nicht sprechen. Was gibt's?"</string>
   <string name="respond_via_sms_canned_response_2">"Ich rufe gleich zurück."</string>
   <string name="respond_via_sms_canned_response_3">"Ich rufe später zurück."</string>
@@ -42,6 +50,7 @@
   <string name="test_account_3_label">Bay Voice Chat Pro</string>
   <string name="test_account_3_short_description">Chat mit Chat Netznutzer</string>
   <string name="unknown">Unbekannt</string>
+  <string name="userCallActivityLabel">Telefon</string>
   <string name="video_call_not_allowed_if_tty_enabled">Bitte deaktivieren Sie den TTY-Modus, um Videoanrufe tätigen zu können.</string>
   <string name="voice_dial_out">OK</string>
   <string name="voice_report_incoming_call">Eingehender Anruf</string>
