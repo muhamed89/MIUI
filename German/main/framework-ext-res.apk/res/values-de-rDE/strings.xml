@@ -1,11 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="add_frequent_phrases">Häufig verwendete Ausdrücke hinzufügen</string>
   <string name="all_call_livetalk_enable">Aufladepakete für nationale und internationale Anrufe verwenden</string>
   <string name="all_call_livetalk_remain_mins">Minuten übrig: %1$s National oder %2$s Ausland</string>
   <string name="alwaysUsePrompt">Auswahl merken</string>
   <string name="apply_password_action">Passwort festlegen</string>
   <string name="apply_password_confirm_dlg_msg">Kennwort für %s erforderlich?</string>
   <string name="apply_password_confirm_dlg_title">Dieses Passwort wird für %s verwendet</string>
+  <string name="auto_disable_screenbuttons_disable_toast_text">Navigationstasten sind gesperrt, zum Aktivieren irgendeine Taste zweimal antippen</string>
+  <string name="auto_disable_screenbuttons_enable_toast_text">Navigationstasten sind aktiv</string>
+  <string name="auto_disable_screenbuttons_float_text">Antippen, um die Navigationstasten zu sperren</string>
+  <string name="auto_disable_screenbuttons_prompts_message">Zum Aktivieren irgendeine Taste zweimal antippen</string>
+  <string name="auto_disable_screenbuttons_prompts_not_show_again">Nicht wieder anzeigen</string>
+  <string name="auto_disable_screenbuttons_prompts_ok">OK</string>
+  <string name="auto_disable_screenbuttons_prompts_title">Navigationstasten sperren?</string>
   <string name="auto_start_warning_allow">Erlauben</string>
   <string name="auto_start_warning_deny">Verweigern</string>
   <string name="auto_start_warning_title">Automatischen Start von %s erlauben?</string>
@@ -30,6 +38,7 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; System &gt; Tast
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Nein Danke</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Anpassen</string>
   <string name="fp_nav_center_action_choose_dlg_title">Hometaste anpassen </string>
+  <string name="frequent_phrases">Häufig verwendete Ausdrücke</string>
   <string name="global_actions_airplane_mode">Flugmodus</string>
   <string name="global_actions_reboot">Neustart</string>
   <string name="global_actions_shutdown">Herunterfahren</string>
@@ -78,6 +87,11 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; System &gt; Tast
   <string name="screen_on_proximity_sensor_title">Ungewollte Anrufe verhindern</string>
   <string name="screen_paper_mode_enter_toast">Lesemodus ist aktiv. Sie können ihn jederzeit unter Einstellungen &gt; Lesemodus aktivieren oder deaktivieren.</string>
   <string name="screen_rotation_freeze_message">Auto-Rotation deaktiviert</string>
+  <string name="security_permission_denied_text">Zugang verweigert</string>
+  <string name="security_permission_failed_text">Interner Fehler, später noch einmal versuchen</string>
+  <string name="security_permission_validate_warning">Danke, dass Sie helfen, MIUI zu verbessern!</string>
+  <string name="security_permission_wifi_and_data_opened_text">WLAN und mobile Daten eingeschaltet</string>
+  <string name="security_permission_xiaomi_account_missed_text">Mi Konto-ID eingeben</string>
   <string name="select">Auswählen</string>
   <string name="select_all">Alles</string>
   <string name="set_password_action">Passwort festlegen</string>
@@ -89,9 +103,11 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; System &gt; Tast
   <string name="sim_added_reboot_title">SIM-Karte wird nach einem Neustart aktiviert</string>
   <string name="softap_notifif_summary">%d verbunden</string>
   <string name="softap_notifif_title">Hotspot \"%s\" ist aktiv</string>
+  <string name="start_security_permission_verify_text">Berechtigungen mit Ihrem Mi Konto verifizieren</string>
   <string name="status_bar_toggle_ac">Zugriff</string>
   <string name="status_bar_toggle_auto_brightness">Helligkeit</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
+  <string name="status_bar_toggle_cast">Übertragen</string>
   <string name="status_bar_toggle_data">Mobile Daten</string>
   <string name="status_bar_toggle_flight_mode">Flugmodus</string>
   <string name="status_bar_toggle_gps">GPS</string>
@@ -111,6 +127,10 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; System &gt; Tast
   <string name="status_bar_toggle_wifi">WLAN</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
   <string name="subinfo_default_name">SIM %d</string>
+  <string name="translation_query_error">Keine Ergebnisse gefunden</string>
+  <string name="translation_query_error_network">Keine Netzwerkverbindung. Überprüfen Sie die Einstellungen und versuchen Sie es noch einmal.</string>
   <string name="turn_off">Ausschalten</string>
   <string name="unknown_caller">Unbekannte Nummer</string>
+  <string name="user_switching_dialog_text">Umschalten…</string>
+  <string name="xspace_resolver_activity_title">App auswählen</string>
 </resources>
