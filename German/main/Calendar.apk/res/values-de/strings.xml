@@ -303,6 +303,7 @@
   <string name="online_reminder_header_text">Erinnerung</string>
   <string name="online_reminder_minutes_text">Erinnerungszeit</string>
   <string name="online_reminder_slider_text">Aktive Erinnerung</string>
+  <string name="path_calendar">Kalender/Einstellungen</string>
   <string name="pengzu">Pengzu</string>
   <string name="prefDialogTitle_vibrateWhen">Vibration</string>
   <string name="pref_error_no_ringtone_select">Nichts ausgewählt</string>
