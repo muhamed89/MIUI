@@ -236,7 +236,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="datausage_purchase_title_order">Zusätzliche Daten erwerben</string>
   <string name="datausage_purchase_title_pkglist">Bezahldaten</string>
   <string name="datausage_purchase_view_detail">Details anzeigen</string>
-  <string name="declaration_dialog_msg">Diese Funktion kann Ihnen helfen, Ihren Datenverbrauch zu überwachen, es ist jedoch nicht garantiert das zusätzliche Kosten vermieden werden. Mit einem konservativen Limit erzielen Sie die besten Ergebnisse.</string>
+  <string name="declaration_dialog_msg">Diese Funktion kann Ihnen helfen, Ihren Datenverbrauch zu überwachen. Es ist jedoch nicht garantiert, dass zusätzliche Kosten vermieden werden. Mit einem konservativen Limit erzielen Sie die besten Ergebnisse.</string>
   <string name="delete">Entfernen</string>
   <string name="delete_from_manual_item_white_list">Von den Ausnahmen entfernen?</string>
   <string name="deleted_apps">Gelöschte Apps</string>
