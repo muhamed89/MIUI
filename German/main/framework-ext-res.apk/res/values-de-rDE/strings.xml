@@ -24,8 +24,8 @@
 
 Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; System &gt; Tasten."</string>
   <string name="fm_record_smaple_prefix_miui">FM Aufnahme</string>
-  <string name="force_exit_message">%1$s wurde beendet</string>
-  <string name="force_exit_skip_message">Systemkomponente %1$s kann nicht beendet werden</string>
+  <string name="force_exit_message">"\"%1$s\" wurde beendet"</string>
+  <string name="force_exit_skip_message">"Systemkomponente \"%1$s\" kann nicht beendet werden"</string>
   <string name="fp_nav_center_action_choose_dlg_msg">Sie können durch Drücken der Hometaste zurück zu Ihrem Homebildschirm gehen. Aber Sie können auch wählen, dass dies nur mit einem Fingertipp funktioniert. Die Hometaste in den Einstellungen anpassen &gt; Erweiterte Einstellungen &gt; Tasten.</string>
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Nein Danke</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Anpassen</string>
