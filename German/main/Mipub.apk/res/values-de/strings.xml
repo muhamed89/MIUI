@@ -97,7 +97,11 @@
   <string name="menu_new_contact">Neuer Kontakt</string>
   <string name="menu_unlock">Markierung aufheben</string>
   <string name="menu_yellowpage">Zeige %s</string>
+  <string name="message_block_confirmation">Nachrichten von diesem Account blockieren?</string>
+  <string name="message_block_processing">Verarbeite…</string>
+  <string name="message_block_reminder">Erinnerung</string>
   <string name="message_failed">Fehlgeschlagen</string>
+  <string name="message_list_all_read">Alle als gelesen markieren</string>
   <string name="message_pending">Gesendet</string>
   <string name="message_readed">Lesen</string>
   <string name="message_saved_as_draft">Nachricht als Entwurf gespeichert.</string>
