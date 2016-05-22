@@ -1336,7 +1336,7 @@ Ihre SIM-Karte wird nach einem weiteren gescheiterten Versuch gelöscht</string>
   <string name="sum_loading_settings">Lade Einstellungen…</string>
   <string name="sum_search_networks">Search for all available networks</string>
   <string name="sum_select_automatically">Bevorzugtes Netzwerk automatisch auswählen</string>
-  <string name="sum_show_caller_id">Nummer bei abgehenden Anrufen anzeigen</string>
+  <string name="sum_show_caller_id">Nummer bei ausgehenden Anrufen anzeigen</string>
   <string name="sum_voicemail_choose_provider">Mailbox-Dienst auswählen</string>
   <string name="sum_xdivert_disabled">Umleitung deaktiviert</string>
   <string name="sum_xdivert_enabled">Umleitung aktiviert</string>
