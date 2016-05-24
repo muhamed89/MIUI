@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="invisible_app_groups">
+        <item>ausgewählt</item>
+        <item>nicht gewählt</item>
+    </string-array>
     <string-array name="power_checker_group_prefix">
         <item>Verwendung</item>
         <item></item>
