@@ -167,12 +167,12 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="amber_alerts_summary">Erhalten Sie Meldungen über Kindesentführungen</string>
   <string name="amber_alerts_title">AMBER Alarmbereitschaft</string>
   <string name="android_beam_disabled_summary">Bitte NFC einschalten</string>
-  <string name="android_beam_explained">Sie können Webseiten, ein Video oder andere Inhalte auf ein anderes Gerät senden das Android Beam unterstützt, indem Sie die Geräte dicht nebeneinander halten.(Normalerweise Rückseite an Rückseite)</string>
+  <string name="android_beam_explained">Sie können Webseiten, ein Video oder andere Inhalte auf ein anderes Gerät senden, das Android Beam unterstützt, indem Sie die Geräte dicht nebeneinander halten.(Normalerweise Rückseite an Rückseite)</string>
   <string name="android_beam_label">Android Beam</string>
   <string name="android_beam_off_summary">Aus</string>
   <string name="android_beam_on_summary">Bereit zur Übertragung von Appinhalten über NFC</string>
   <string name="android_beam_settings_title">Android Beam</string>
-  <string name="android_beam_tips">Stellen Sie sicher, das sich die beiden Geräte berühren, und wählen Sie dann die Inhalte aus, die Sie senden möchten.</string>
+  <string name="android_beam_tips">Stellen Sie sicher, dass sich die beiden Geräte berühren, und wählen Sie dann die Inhalte aus, die Sie senden möchten.</string>
   <string name="android_beam_witch_label">Android Beam einschalten</string>
   <string name="animator_duration_scale_title">Animationsgeschwindigkeit</string>
   <string name="anti_spam">Blockliste</string>
@@ -211,7 +211,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="app_backup">Sicherungen</string>
   <string name="app_data_usage">Appdatenverbrauch</string>
   <string name="app_disable_dlg_positive">App deaktivieren</string>  
-  <string name="app_disable_dlg_text">Durch das Ausschalten einer integrierten App kommt es möglicherweise zu unerwünschtem Verhalten anderer Apps.</string>
+  <string name="app_disable_dlg_text">Durch  Ausschalten einer integrierten App kommt es möglicherweise zu unerwünschtem Verhalten anderer Apps.</string>
   <string name="app_disable_dlg_title">Integrierte App ausschalten?</string>
   <string name="app_disable_notifications_dlg_text">Wenn Sie Benachrichtigungen für diese App ausschalten, können Sie wichtige Warnungen und Updates verpassen.</string>
   <string name="app_disable_notifications_dlg_title">Benachrichtigungen ausschalten?</string>
@@ -508,7 +508,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="bluetooth_broadcasting_explaination">"Wenn diese Funktion angestellt ist, dann kann Ihr Handy mit anderen Geräten in der Umgebung kommunizieren.
 
 Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
-  <string name="bluetooth_confirm_passkey_msg">Zum Paaren mit: %1$s Stellen Sie sicher, das dieser Hauptschlüssel angezeigt wird: %2$s</string>
+  <string name="bluetooth_confirm_passkey_msg">Zum Paaren mit: %1$s Stellen Sie sicher, dass dieser Hauptschlüssel angezeigt wird: %2$s</string>
   <string name="bluetooth_connect_specific_profiles_title">Verbinden…</string>
   <string name="bluetooth_connected">Verbunden</string>
   <string name="bluetooth_connected_no_a2dp">Verbunden (außer Audiomedien)</string>
@@ -966,7 +966,7 @@ Damit Sie Ihr Gerät wieder verwenden können, müssen Sie es auf die Werkseinst
   <string name="data_usage_app_restrict_background">Hintergrunddaten beschränken</string>
   <string name="data_usage_app_restrict_background_summary">Hintergrunddaten in Mobilfunknetzen ausschalten. WLAN verwenden wenn es verfügbar ist.</string>
   <string name="data_usage_app_restrict_background_summary_disabled">Legen Sie zur Beschränkung der Apphintergrunddaten zuerst ein Mobildatenlimit fest.</string>
-  <string name="data_usage_app_restrict_dialog">"Diese Funktion könnte dazu führen, das Anwendungen, die mit Hintergrunddaten arbeiten, nicht mehr funktionieren wenn kein WLAN-Netzwerk verfügbar ist.
+  <string name="data_usage_app_restrict_dialog">"Diese Funktion könnte dazu führen, dass Anwendungen, die mit Hintergrunddaten arbeiten, nicht mehr funktionieren wenn kein WLAN-Netzwerk verfügbar ist.
 
 Geeignetere Kontrollmechanismen für den Datenverbrauch finden Sie in den Einstellungen der App."</string>
   <string name="data_usage_app_restrict_dialog_title">Hintergrunddaten beschränken?</string>
@@ -2433,7 +2433,7 @@ Betriebssystem auswählen:"</string>
   <string name="page_layout_7">Spiele</string>
   <string name="page_layout_8">Mi Life</string>
   <string name="page_layout_9">Themen</string>
-  <string name="page_layout_confirm_message">Um die Änderungen zu aktivieren muss das Telefon neu gestartet werden. Dieser Vorgang dauert ungefähr 1 Minute.</string>
+  <string name="page_layout_confirm_message">Um die Änderungen zu aktivieren, muss das Telefon neu gestartet werden. Dieser Vorgang dauert ungefähr 1 Minute.</string>
   <string name="page_layout_confirm_title">Bildschirmeinstellungen ändern</string>
   <string name="page_layout_godzilla_title">XXL</string>
   <string name="page_layout_huge_title">Extra Groß</string>
@@ -3258,7 +3258,7 @@ Um Screenpinning zu nutzen:
   <string name="show_touches_summary">Visuelles Feedback für Berührungen anzeigen</string>
   <string name="show_user_info_on_lockscreen_label">Benutzerinfos im Sperrbildschirm anzeigen</string>
   <string name="shut_down_find_device_failure_confirm">OK</string>
-  <string name="shut_down_find_device_network_failure_content">"Konnte Gerät nicht herunterfahren. Stellen sie sicher das das Gerät mit dem Internet verbunden ist."</string>
+  <string name="shut_down_find_device_network_failure_content">"Konnte Gerät nicht herunterfahren. Stellen sie sicher, dass das Gerät mit dem Internet verbunden ist."</string>
   <string name="shut_down_find_device_network_failure_title">"Konnte nicht mit dem Internet verbinden"</string>
   <string name="shuting_down_find_device">Gerät finden ausschalten…</string>
   <string name="silent_mode_title">Ruhemodus</string>
@@ -3587,8 +3587,8 @@ Nach dem Formatieren wird ^1 nur auf diesem Gerät funktionieren.
   <string name="storage_wizard_init_title">Richten Sie ^1 ein</string>
   <string name="storage_wizard_migrate_body">"Sie können Fotos, Dateien und einige Apps auf diesen neuen ^1 verschieben. 
 
-Das verschieben dauert etwa ^2 und wird ^3 auf dem internen Speicher freigeben. Einige Apps werden während diesem Vorgang nicht funktionieren."</string>
-     <string name="storage_wizard_migrate_confirm_body"><b>Das verschieben dauert etwa ^1 und wird ^2 auf dem ^3 freigeben.</b></string>
+Das Verschieben dauert etwa ^2 und wird ^3 auf dem internen Speicher freigeben. Einige Apps werden während diesem Vorgang nicht funktionieren."</string>
+     <string name="storage_wizard_migrate_confirm_body"><b>Das Verschieben dauert etwa ^1 und wird ^2 auf dem ^3 freigeben.</b></string>
      <string name="storage_wizard_migrate_confirm_next">Verschieben</string>
      <string name="storage_wizard_migrate_confirm_title">Jetzt verschieben</string>
      <string name="storage_wizard_migrate_details">"Während dem Verschieben: 
@@ -3932,7 +3932,7 @@ Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden 
   <string name="usage_type_wake_lock">Aktiv lassen</string>
   <string name="usage_type_wifi_running">WLAN aktiv</string>
   <string name="usb_audio_disable_routing">Deaktiviere USB-Audiorouting</string>
-  <string name="usb_audio_disable_routing_summary">Deaktivieren Sie die automatische Weiterleitung an das USB-Audioperipheriegeräte</string>
+  <string name="usb_audio_disable_routing_summary">Deaktivieren Sie die automatische Weiterleitung an USB-Audioperipheriegeräte</string>
   <string name="usb_charging_summary">Schalten Sie alle anderen USB-Verbindungen ab, um das Aufladen zu beschleunigen.</string>
   <string name="usb_charging_title">Laden beschleunigen</string>
   <string name="usb_connection_category">Verbinden als</string>
@@ -4366,7 +4366,7 @@ WLAN Assistent"</string>
   <string name="wifi_ip_settings_invalid_network_prefix_length">Netzwerkpräfix darf maximal 32 Zeichen enthalten.</string>
   <string name="wifi_ip_settings_menu_cancel">Abbrechen</string>
   <string name="wifi_ip_settings_menu_save">Speichern</string>
-  <string name="wifi_limit_optimizations_summary">Beschränke Akkuverbrauch, das durch WLAN verwendet wird</string>
+  <string name="wifi_limit_optimizations_summary">Beschränke Akkuverbrauch, der durch WLAN verwendet wird</string>
   <string name="wifi_menu_advanced">Erweitert</string>
   <string name="wifi_menu_connect">Mit Netzwerk verbinden</string>
   <string name="wifi_menu_forget">Netzwerk entfernen</string>
@@ -4632,7 +4632,7 @@ Das Einrichten des Telefons kann eine erhöhte Netzwerkaktivität erfordern."</s
   <string name="work_profile_usage_access_warning">Das Ausschalten des Datenzugriffs für diese App verhindert nicht, dass Ihr Administrator die Datennutzung für Apps in Ihrem Arbeitsprofil ermitteln kann.</string>  
   <string name="work_sim_title">Arbeits-SIM</string>
   <string name="wps_category">WPS</string>
-  <string name="wps_connect_summary">Stellen Sie sicher, das der Router WPS unterstützt und es eingeschaltet ist.</string>
+  <string name="wps_connect_summary">Stellen Sie sicher, dass der Router WPS unterstützt und es eingeschaltet ist.</string>
   <string name="wps_connect_title">WPS-Taster</string>
   <string name="write_tag">Schreiben</string>
   <string name="write_settings">Systemeinstellungen verändern</string>
