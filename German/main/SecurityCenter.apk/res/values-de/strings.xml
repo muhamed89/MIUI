@@ -1171,13 +1171,20 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="safe_result_item_info_wifi_connection">WLAN verbunden</string>
   <string name="safe_result_item_info_wifi_dns">DNS-Server ist sicher</string>
   <string name="safe_result_item_info_wifi_encryption">WLAN ist vershclüsselt</string>
-  <string name="safe_result_item_info_wifi_fake">Keine Fälschung</string>
+  <string name="safe_result_item_info_wifi_fake">Keine Fälschung</string>ss
+  <string name="safepay_alert_dialog_button_continue">Fortsetzen</string>
+  <string name="safepay_alert_dialog_button_risk">Beheben</string>
+  <string name="safepay_alert_dialog_button_unknown">Noch einmal prüfen</string>
+  <string name="safepay_alert_dialog_title_risk">&lt;font color=#ec2700>Risiko gefunden! Brechen Sie die Zahlung ab!&lt;/font></string>
+  <string name="safepay_alert_dialog_title_unknown">"&lt;font color=#f59c00>Zahlungssicherheit konnte nicht überprüft werden. Verbinden Sie sich mit dem Internet und versuchen Sie es erneut.&lt;/font>"</string>
   <string name="saving_conflict_dialog_cancel">Abbrechen</string>
   <string name="saving_conflict_dialog_ok">OK</string>
   <string name="saving_conflict_dialog_title">Achtung</string>
   <string name="saving_conflict_restrictbackground_msg">Die Datenreduzierung kann bei Beschränkung der Hintergrunddaten nicht verwendet werden. Möchten Sie die Datenreduzierung und die Beschränkung der Hintergrunddaten einschalten?</string>
   <string name="sc_allow_network_dialog_message">Diese App benötigt eine Verbindung zum Internet, um ordnungsgemäß ausgeführt werden zu können.</string>
   <string name="sc_allow_network_dialog_tiltle">"Diese Funktion kann nicht benutzt werden"</string>
+  <string name="scan_status_risk">Riskant</string>
+  <string name="scan_status_safe">Sicher</string>
   <string name="scanning_bar_cache_title">Scanne Papierkorb…</string>
   <string name="scanning_bar_memory_title">Cache durchsuchen…</string>
   <string name="scanning_bar_number">%d%%</string>
@@ -1186,6 +1193,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="score_pts">%</string>
   <string name="security_app_lock">Anwendungssperre</string>
   <string name="security_scan_optimizing">Optimieren…</string>
+  <string name="see_detail">Details</string>
   <string name="select_pattern">Muster auswählen</string>
   <string name="setting_traffic_pkg">Datenpakete einstellen</string>
   <string name="settings">Einstellung zur Datennutzung</string>
@@ -1203,11 +1211,24 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="sim_location_error_dialog_message">"Die SIM-Karte die Sie benutzen ist von %1$s. Das unterscheidet sich von Ihrem manuell eingestellten Standort (%2$s). Wollen Sie den SIM-Kartenstandort auf %3$s ändern?"</string>
   <string name="sim_location_error_notify_message">Tippen Sie auf SIM-Speicherort ändern</string>
   <string name="sim_location_error_notify_title">SIM-Kartenfehler</string>
+  <string name="sim_location_diagnostic">Standortdiagnose</string>
   <string name="sim_state_exception_summary">Es ist ein Fehler bei der SIM-Karte aufgetreten.</string>
   <string name="songs_number">18 Songs</string>
   <string name="songs_unit">" Songs"</string>
   <string name="sorted_button">Sortieren nach</string>
   <string name="sorted_dialog_title">Sortieren nach</string>
+  <string name="sp_back_title_text_zero">Sicher</string>
+  <string name="sp_monitored_apps_count_zero">Keine Zahlungsapp ist geschützt</string>
+  <string name="sp_monitored_apps_list_title">Überwachungseinstellungens</string>
+  <string name="sp_safe_score_text">Zahlungssicherheit</string>
+  <string name="sp_scan_item_monitor">Zahlungsüberwachung</string>
+  <string name="sp_scan_item_url_antispam">Schutz vor bösartigen URLs</string>
+  <string name="sp_settings_group_title_ime">Sichere IME</string>
+  <string name="sp_settings_info_input_method">Systemeingabemethode in Bezahlapps verwenden</string>
+  <string name="sp_settings_info_monitor">Systemumgebung überwachen, wenn Zahlungsapps gestartet werden</string>
+  <string name="sp_settings_plugin_monitor_summary">Scannen, wenn Zahlungs-Plugins in Apps gestartet werden</string>
+  <string name="sp_settings_plugin_monitor_title">Überwachung von Zahlungs-Plugins</string>
+  <string name="sp_settings_title_input_method">Sichere IME</string>
   <string name="spinner_title">%1$s - Mobile Daten: %2$s</string>
   <string name="st_title_mode_choose_group">Profil auswählen</string>
   <string name="start_diagnostic_botton">Start</string>
@@ -1259,7 +1280,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="tc_diagnostic_all_error_notification_summary">Antippen, um ein Problem zu melden</string>
   <string name="tc_diagnostic_all_error_notification_title">"Diagnose kann nicht abgeschlossen werden"</string>
   <string name="tc_diagnostic_brand_error_notification_summary">Antippen, um Netzwerktyp festzulegen</string>
-  <string name="tc_diagnostic_brand_error_notification_title">Falscher Netzwerktyp</string>  
+  <string name="tc_diagnostic_brand_error_notification_title">Falscher Netzwerktyp</string>
   <string name="tc_diagnostic_complete">Fertig</string>  
   <string name="tc_diagnostic_location_error_notification_summary">Antippen, um Standort festzulegen</string>
   <string name="tc_diagnostic_location_error_notification_title">Falscher Standort</string>
@@ -1316,8 +1337,11 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="tc_sms_report_toast_text">Details werden abgerufen…</string>
   <string name="tc_sms_report_upload_success">"Datenverbrauchs-SMS übermittelt. Wir werden uns gleich darum kümmern!"</string>
   <string name="tc_sms_report_upload_when_net">Vielen Dank für Ihr Feedback!</string>
+  <string name="ten_percent_total_pkg">%s (10%% der monatlichen Daten)</string>
   <string name="text_antivirus">App-Namen und Details hochladen</string>
   <string name="text_antivirus_oversea">Virusdefinitionen aktualisieren</string>
+  <string name="text_button">Verstanden</string>
+  <string name="text_day" />
   <string name="text_lock_info">Entsperrmuster zeichnen</string>
   <string name="three_percent_total_pkg">%s (3%% der monatlichen Daten)</string>
   <string name="third_application">Installierte Apps</string>
@@ -1327,6 +1351,8 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="timeshow_m">%dm</string>
   <string name="timeshow_m_s">%1$dm %2$ds</string>
   <string name="timeshow_s">%ds</string>
+  <string name="tips_dialog_title">Sie kennen Ihr Limit nicht</string>
+  <string name="tips_message">Um Details zu Ihrem Datentarif zu erhalten, wählen Sie %2$s (%1$s)."</string>
   <string name="title_antivirus">Tencents Datenschutzbestimmungen</string>
   <string name="title_app_lock_disable">Anwendungen sperren</string>
   <string name="title_app_update">Updates vorhanden</string>
@@ -1347,6 +1373,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="title_garbage_lib">Automatische Updates</string>
   <string name="title_install_virus_no">Installationsmonitor Aus</string>
   <string name="title_install_virus_yes">Installationsmonitor An</string>
+  <string name="title_limit_traffic_per_day">Tägliches Datenlimit</string>
   <string name="title_live_talk_purchase">Aufladepaket einschalten</string>
   <string name="title_miui_update">Update vorhanden</string>
   <string name="title_mms_no">Nachrichtenfilter ist aus</string>
@@ -1373,8 +1400,10 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="toast_garbage_lib">Automatische Bereinigungsupdates aktiviert</string>
   <string name="toast_lockscreen_glogin_empty_password">Passwort erforderlich</string>
   <string name="toast_network_switch">Diese App kann sich mit dem Internet verbinden</string>
+  <string name="toast_reject_sms_read_permission_success">Erfolgreich gesetzt!</string>
   <string name="toast_root_apply_accept">%s wurde Rootzugriff gewährt</string>
   <string name="toast_root_apply_reject">%s wurde Rootzugriff verweigert</string>
+  <string name="toast_set_success">Erfolgreich geöffnet!</string>
   <string name="toast_shortcut_install">Verknüpfung zum Startbildschirm hinzugefügt</string>
   <string name="toast_shortcut_uninstall">Verknüpfung entfernt</string>
   <string name="toast_show_notification">In der Benachrichtigungsleiste anpinnen</string>
@@ -1530,7 +1559,16 @@ Der verbleibende Datenverbrauch beinhalten auch jenen Verbrauch, welcher in dem 
   <string name="usbsharenet_exception_title">USB-Internetfreigabe testen</string>
   <string name="usbsharenet_pc_exception_summary">Es kann keine Internetverbindung über die geteilte Verbindung hergestellt werden. Überprüfen Sie die Internetverbindung des Computers.</string>
   <string name="virus_list_header_title">%d Viren gefunden</string>
+  <string name="voltage_symbol">V</string>
+  <string name="warning_open_mi_sim">Aktivieren Sie Mi SIM</string>
   <string name="wifi_exception_summary">Teste verfügbare WLAN-Netzwerke</string>
   <string name="wifi_exception_title">Teste WLAN-Netzwerk</string>
+  <string name="wifi_item_status_connection_no">Nicht verbunden</string>
+  <string name="wifi_item_status_connection_yes">Verbunden</string>
+  <string name="wifi_item_title_arp_attack">ARP-Angriff</string>
+  <string name="wifi_item_title_connection">WLAN-Verbindung</string>
+  <string name="wifi_item_title_dns">DNS-Serversicherheit</string>
+  <string name="wifi_item_title_encryption">WLAN-Verschlüsselung</string>
+  <string name="wifi_item_title_fake">Gefälschtes WLAN erkannt</string>
   <string name="wifi_network_blocked_notification_title">Keine Internetverbindung verfügbar</string>
 </resources>
