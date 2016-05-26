@@ -129,4 +129,40 @@
         <item quantity="zero">0 APP gefunden</item>
         <item quantity="one">%d APP gefunden</item>
     </plurals>
+         <plurals name="app_check_title_text">
+        <item quantity="other">%d Elemente können optimiert werden</item>
+        <item quantity="one">%d Element kann optimiert werden</item>
+     </plurals>
+     <plurals name="deep_clean_auto_memory_clean">
+        <item quantity="other">In %1$d Minuten</item>
+        <item quantity="one">In %1$d Minute</item>
+     </plurals>
+     <plurals name="quick_optimize_issue_count">
+        <item quantity="other">%d Akkuprobleme</item>
+        <item quantity="one">%d Akkuproblem</item>
+     </plurals>
+     <plurals name="quick_optimize_issue_found">
+        <item quantity="other">%d Akkuprobleme gefunden</item>
+        <item quantity="one">%d Akkuproblem gefunden</item>
+     </plurals>
+     <plurals name="quick_optimize_summary_text">
+        <item quantity="other">%d Akkuprobleme behoben</item>
+        <item quantity="one">%d Akkuproblem behoben</item>
+     </plurals>
+     <plurals name="sp_back_title_text">
+        <item quantity="other">%s Zahlungsrisiken</item>
+        <item quantity="one">%s Zahlungsrisiko</item>
+     </plurals>
+     <plurals name="sp_monitored_apps_count">
+        <item quantity="other">%s Zahlungsapps sind geschützt</item>
+        <item quantity="one">%s Zahlungsapp ist geschützt</item>
+     </plurals>
+     <plurals name="sp_monitored_apps_list_group_disable">
+        <item quantity="other">%s Apps sind nicht geschützt</item>
+        <item quantity="one">%s Apps ist nicht geschützt</item>
+     </plurals>
+     <plurals name="sp_monitored_apps_list_group_enable">
+        <item quantity="other">%s Apps sind geschützt</item>
+        <item quantity="one">%s App ist geschützt</item>
+     </plurals>
 </resources>
