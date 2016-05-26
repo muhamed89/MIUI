@@ -1171,7 +1171,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="safe_result_item_info_wifi_connection">WLAN verbunden</string>
   <string name="safe_result_item_info_wifi_dns">DNS-Server ist sicher</string>
   <string name="safe_result_item_info_wifi_encryption">WLAN ist vershclüsselt</string>
-  <string name="safe_result_item_info_wifi_fake">Keine Fälschung</string>ss
+  <string name="safe_result_item_info_wifi_fake">Keine Fälschung</string>
   <string name="safepay_alert_dialog_button_continue">Fortsetzen</string>
   <string name="safepay_alert_dialog_button_risk">Beheben</string>
   <string name="safepay_alert_dialog_button_unknown">Noch einmal prüfen</string>
