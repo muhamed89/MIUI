@@ -592,7 +592,7 @@ Diese Seite verlassen?"</string>
   <string name="readmode_recommend_message">"Sie haben das Buch schon gelesen. :)"</string>
   <string name="readmode_refresh">Aktualisieren</string>
   <string name="readmodelist_bookmarks_to_show">Reading list</string>
-  <string name="remember_passwords_confirm_message">Das Deaktivieren dieser Funktion kann die Bedienung beeinflussen.</string>
+  <string name="remember_passwords_confirm_message">Bedienung kann durch Deaktivieren beeinflusst werden.</string>
   <string name="remove_bookmark">Lesezeichen löschen</string>
   <string name="remove_bookmark_group">Gruppe löschen</string>
   <string name="remove_from_bookmarks">Aus den Lesezeichen entfernen</string>
