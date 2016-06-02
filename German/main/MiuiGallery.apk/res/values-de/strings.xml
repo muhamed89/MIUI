@@ -192,8 +192,8 @@
   <string name="cannot_send_message">Nachricht kann nicht gesendet werden</string>
   <string name="cannot_send_message_reason">Keine gültigen Empfänger</string>
   <string name="cant_delete_system_album">Kann nicht löschen %s weil es ein Systemalbum ist</string>
-  <string name="change_to_face_mode">Sortiere nach Leute</string>
-  <string name="change_to_photo_mode">Sortiere nach Alben</string>
+  <string name="change_to_face_mode">Nach Personen sortieren</string>
+  <string name="change_to_photo_mode">Nach Alben sortieren</string>
   <string name="choose_baby_sexy">Geschlecht</string>
   <string name="choose_cloud_album">Album auswählen</string>
   <string name="choose_owner_relation">Beziehung</string>
@@ -353,6 +353,7 @@
   <string name="enable">Einschalten</string>
   <string name="enable_cloud_for_sharing">Cloudalbum aktivieren, um geteilte Bilder anzuzeigen</string>
   <string name="enable_face_album_summary">Fotos automatisch nach Personen sortieren</string>
+  <string name="enable_face_album_title">Nach Personen sortieren</string>
   <string name="enabling_face_feature">Einen Moment bitte…</string>
   <string name="enter_email_hint">E-Mail-Adresse eingeben</string>
   <string name="error_album_not_exist">Album existiert nicht</string>
@@ -597,6 +598,11 @@
   <string name="negative">Negativ</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
   <string name="network_connected_rescan">"Netzwerkverbindung fehlgeschlagen"</string>
+  <string name="network_unsatisfied_button_text">Mit einem Netzwerk verbinden</string>
+  <string name="new_album_invalid_char">Der Name enthält ungültige Zeichen \"%s\", bitte geben Sie Buchstaben und Ziffern ein</string>
+  <string name="new_album_invalid_name">\"%s\" ist ein Systemalbum, verwenden Sie bitte einen anderen Namen</string>
+  <string name="new_album_invalid_prefix">Verwenden Sie nicht \".\" oder \"_\" als erstes Zeichen</string>
+  <string name="next">Weiter</string>
   <string name="new_device_tips">Drücken, um Gerät anzuzeigen</string>
   <string name="no">Nein</string>
   <string name="no_albums_alert">Keine Alben verfügbar</string>
