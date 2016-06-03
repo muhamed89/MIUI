@@ -8,4 +8,8 @@
         <item quantity="other">"Verberge %d apps' Benachrichtigungen?"</item>
         <item quantity="one">"Verberge Benachrichtigungen dieser App?"</item>
     </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Klar</item>
+        <item quantity="one">Sonnig</item>
+    </plurals>
 </resources>
