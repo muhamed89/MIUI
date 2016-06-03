@@ -27,6 +27,7 @@
   <string name="adding_recipients">Empfänger werden hinzugefügt…</string>
   <string name="alert_dlg_cancel_button">Abbrechen</string>
   <string name="alert_dlg_ok_button">OK</string>
+  <string name="already_followed">Sie folgen dieser Nummer bereits</string>
   <string name="app_label">SMS/MMS</string>
   <string name="app_name">Geräteverwaltung</string>
   <string name="attach_image">Bilder</string>
@@ -107,6 +108,7 @@
   <string name="context_menu_view_contact">Kontakt anzeigen</string>
   <string name="context_menu_view_mms">MMS anzeigen</string>
   <string name="conversation">Nachrichten</string>
+  <string name="conversation_style">Blase</string>
   <string name="converting_to_picture_message">Umwandlung in MMS…</string>
   <string name="converting_to_text_message">Umwandlung in SMS…</string>
   <string name="copy_message_text">Text kopieren</string>
@@ -163,6 +165,9 @@
   <string name="exporting_progress_private_message">Exportiere…</string>
   <string name="failed_to_add_media">%1$s konnte nicht zur Nachricht hinzugefügt werden</string>
   <string name="failed_to_resize_image">Bildgröße nicht angepasst</string>
+  <string name="fake_cell_alert_hint">Sieht so aus, als wurde diese Nachricht von einer anderen Nummer als der angezeigten gesendet. Seien Sie vorsichtig, wenn Sie nach sensiblen Daten gefragt werden.</string>
+  <string name="fake_cell_checking_hint">Sicherheitsüberprüfung…</string>
+  <string name="fake_cell_safe_hint">Diese Nachricht ist sicher</string>
   <string name="fdn_check_failure">Sie können nur Nachrichten an Nummern in Ihrer FDN-Liste senden</string>
   <string name="feedback_description_hint">Hier Feedback hinterlassen</string>
   <string name="feedback_submit">Senden</string>
@@ -180,11 +185,14 @@
   <string name="file_title">Name:</string>
   <string name="file_width_height">Größe:</string>
   <string name="flatshow_page_no">%1$d</string>
+  <string name="follow_finished">Sie folgen dieser Nummer</string>
+  <string name="follow_forbidden">Sie können dieser Nummer nicht folgen</string>
   <string name="forward_from">Weitergeleitet von:</string>
   <string name="forward_prefix">"WG: "</string>
   <string name="found_old_messages">Nachrichten früherer Konten hochladen: (%1$s) nach %2$s?</string>
   <string name="found_old_messages_title">Cloudnachrichten von Ihren anderen SIM-Karten hochladen?</string>
   <string name="found_wild_messages">Cloudnachrichten von Ihren anderen SIM-Karten runterladen?</string>
+  <string name="found_wild_messages_guide_cloud_desc">Um Nachrichten mit der Mi Cloud zu synchronisieren, melden Sie sich mit Ihrem Mi Konto an.</string>
   <string name="found_wild_messages_guide_settings_desc">Nachrichten mit der Mi Cloud synchronisieren siehe Nachrichteneinstellungen</string>
   <string name="found_wild_messages_guide_sync_not_started">Synchronisierung hat noch nicht begonnen</string>
   <string name="found_wild_messages_title">Synchronisation mit Mi Cloud</string>
@@ -328,8 +336,15 @@
   <string name="mx_online">Aktiviert</string>
   <string name="mx_reactivate">Mi Nachrichten reaktivieren</string>
   <string name="mx_recommend_msg">Berühren, um Mi Nachrichten einzuschalten</string>
+  <string name="mx_activate_allow_notice">Es fallen möglicherweise Kosten für eine Aktivierungs-SMS bei Ihrem Betreiber an, um diesen Service zu aktivieren.</string>
+  <string name="mx_msg_pageview_setting_title">Mi Nachrichten-Einstellungen</string>
+  <string name="mx_type_guide">Senden Sie Nachrichten an andere MIUI Benutzer ohne zusätzliche Kosten</string>
   <string name="mx_warning_notice">Zum Aktivieren der Cloudnachrichten wird eine SMS gesendet (providerabhängige Gebühr)</string>
   <string name="need_download">Wird synchronisiert</string>
+  <string name="network_error">Netzwerkfehler</string>
+  <string name="networking_allow_continue">OK</string>
+  <string name="networking_allow_desc">Mi Nachrichten erlaubt Ihnen gratis Text- und Sprachnachrichten zu senden, unbekannte Nummern zu erkennen, bietet einen Spamfilter etc. Wenn Sie diesen Service nutzen, stimmen Sie Xiaomis %1$s und %2$s zu. Sie müssen die Gelben Seiten aktivieren und mit dem Internet verbunden sein, um diesen Service zu verwenden.</string>
+  <string name="networking_allow_title">Hinweis</string>
   <string name="new_message">Neue Nachricht</string>
   <string name="new_message_arrived">Sie haben eine neue Nachricht</string>
   <string name="new_phrase">Neue Vorlage</string>
@@ -359,6 +374,8 @@
   <string name="playing_failed">Kann nicht abgespielt werden</string>
   <string name="prefDefault_ringtone_repeat">1</string>
   <string name="pref_advanced_settings_title">Erweiterte Einstellungen</string>
+  <string name="pref_allow_network_access_summary">Erhalten Sie Zustellberichte und andere Informationen</string>
+  <string name="pref_cell_broadcast">Netzbroadcasts</string>
   <string name="pref_collapse_sp_messages_summary">Benachrichtigungen des Mobilfunkanbieters gruppieren</string>
   <string name="pref_edit_smsc_address">SMS-Zentrale</string>
   <string name="pref_forward_title">Weiterleiten</string>
@@ -418,6 +435,7 @@
   <string name="pref_title_wake_up_screen">Bildschirm einschalten</string>
   <string name="preferences_title">Einstellungen</string>
   <string name="prepare_send">Senden wird vorbereitet…</string>
+  <string name="press_recording">Drücken &amp; halten Sie das Mikrosymbol um aufzunehmen</string>
   <string name="preview">Vorschau</string>
   <string name="preview_slideshow">Vorschau</string>
   <string name="priority_high">Hoch</string>
@@ -444,6 +462,7 @@
   <string name="refresh_failed">Update fehlgeschlagen</string>
   <string name="refreshing">Aktualisiere…</string>
   <string name="release_cancel">Abbrechen</string>
+  <string name="remind_follow">Dieser Nummer folgen?</string>
   <string name="remove">Entfernen</string>
   <string name="remove_music">Musik entfernen</string>
   <string name="remove_picture">Bild entfernen</string>
@@ -477,6 +496,13 @@
   <string name="search_setting_description">Text in Ihren Nachrichten</string>
   <string name="search_show_more_results">Mehr anzeigen</string>
   <string name="secs">sek.</string>
+  <string name="search_keyword_mms">Nachrichten</string>
+  <string name="search_path_mms">Eisntellungen/Systemanwendungen/Nachrichten</string>
+  <string name="search_title_mms">Nachrichten</string>
+  <string name="second_mms">Zweite Nachricht</string>
+  <string name="second_mms_introduction">Wechseln Sie zum Second Space</string>
+  <string name="second_mms_notice">Nur die zweite Nachricht anzeigen</string>
+  <string name="second_mms_switch">Benutzer wechseln</string>
   <string name="security_alert_desc">Der Absender ist nicht in Ihren Kontakten</string>
   <string name="security_alert_desc_highlight">Diese Nummer melden</string>
   <string name="security_alert_dialog_desc">Diese Nummer (%s) und Nachricht zur Überprüfung an Xiaomi senden</string>
@@ -509,6 +535,7 @@
   <string name="service_message_not_found">Nachricht abgelaufen oder nicht verfügbar</string>
   <string name="service_network_problem">Senden aufgrund eines Netzwerkproblems nicht möglich</string>
   <string name="service_not_activated">Dienst nicht verfügbar</string>
+  <string name="service_unavailiable">Dienst nicht verfügbar</string>
   <string name="set">Festlegen</string>
   <string name="share_img">Teilen</string>
   <string name="show_all_messages">Alle Nachrichten anzeigen</string>
@@ -526,6 +553,7 @@
   <string name="slide_number">Dia %s</string>
   <string name="slide_show_part">Teil %1$s/%2$s</string>
   <string name="slideshow_activity">Diashow</string>
+  <string name="sms_card_partner_label">"SMS-Partnerkarte: "</string>
   <string name="sms_content">Inhalt:</string>
   <string name="sms_full_body">Die eingehende Nachricht wurde zurückgewiesen, da der Speicher voll ist. Löschen Sie alte Nachrichten.</string>
   <string name="sms_full_title">SMS-Speicher voll</string>
@@ -540,6 +568,7 @@
   <string name="sp_category_bank">Bankdienstnachrichten</string>
   <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Benachrichtigungen</string>
+  <string name="sp_mark_as_read_menu_title">Als gelesen markieren</string>
   <string name="sp_mark_as_read">Alle als gelesen markieren?</string>
   <string name="sp_mark_as_read_progress">Als gelesen markieren…</string>
   <string name="sp_mark_as_read_title">Alle Benachrichtigungen als gelesen markieren ?</string>
@@ -572,6 +601,7 @@
   <string name="timed_message_expired_title_2">Erneut Senden?</string>
   <string name="timed_message_in_total">… (%d Nachrichten)</string>
   <string name="timed_message_to">an</string>
+  <string name="title_allow_network_access">Automatisch aktualisieren</string>
   <string name="title_collapse_sp_messages">Anbieternachrichten zusammenführen</string>
   <string name="title_date_type">Nachrichtenzeitstempel</string>
   <string name="title_recv_red_package">Holen Sie sich ein rotes Paket</string>
@@ -610,6 +640,11 @@ Bisherige Versuche: %s."</string>
   <string name="unstick_conversation">Aktuelle Unterhaltung lösen</string>
   <string name="unsticked_conversation">Aktuelle Unterhaltung wurde gelöst</string>
   <string name="unsupported_media_format">Format %1$s wird nicht unterstützt</string>
+  <string name="url_fraud_alert">Die Webseite, die Sie besuchen möchten %s könnte eine betrügerische Seite sein, wollen Sie wirklich fortfahren?</string>
+  <string name="url_fraud_title">Betrugsverdacht</string>
+  <string name="url_fraud_visit"><u>Trotzdem fortfahren</u></string>
+  <string name="url_result_safe">Diese URL ist sicher</string>
+  <string name="url_scanning">URL wird überprüft…</string>
   <string name="user_agreement1">Lesen Sie den Abschnitt sorgfältig, bevor Sie weitere Software installieren oder dieses Produkt benutzen.</string>
   <string name="user_agreement2">" Nutzungsbedingungen"</string>
   <string name="user_agreement3">" und "</string>
@@ -628,5 +663,6 @@ Bisherige Versuche: %s."</string>
   <string name="wild_msg_processing">Verarbeitung…</string>
   <string name="wild_msg_title">Wählen Sie die Telefonnummern für die Synchronisierung</string>
   <string name="xiaomi_service_number">Servicenummer</string>
+  <string name="yellowpage_recommend_msg">Probieren Sie die MIUI SMS-Funktionen</string>
   <string name="yes">OK</string>
 </resources>

@@ -26,6 +26,7 @@
     </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Letzte %d Tage</item>
+        <item quantity="one">Letzter Tag</item>
     </plurals>
     <plurals name="num_days_ago">
         <item quantity="other">vor %d Tagen</item>
