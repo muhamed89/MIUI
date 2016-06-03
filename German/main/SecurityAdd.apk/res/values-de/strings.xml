@@ -11,6 +11,11 @@
   <string name="month_report_activity_label">Monatlicher Bericht</string>
   <string name="month_report_click_reconnect_network">Erneut versuchen</string>
   <string name="month_report_disconnect_tip">Netzwerkverbindung fehlgeschlagen</string>
+  <string name="month_report_follow_service_negative">Nein danke</string>
+  <string name="month_report_follow_service_positive">Folgen</string>
+  <string name="month_report_follow_service_summary">Bleiben Sie über Sicherheitsupdates auf dem Laufenden, indem Sie dem offiziellen MIUI Security Konto folgen</string>
+  <string name="month_report_follow_service_title">Sicherheitsupdates</string>
+  <string name="month_report_history_activity_label">Verlauf</string>
   <string name="month_report_network_dialog_description">Möchten Sie der App den Zugriff auf das Internet gewähren, um Berichtsdetails abzurufen?</string>
   <string name="month_report_network_dialog_positive">Zulassen</string>
   <string name="month_report_network_dialog_title">Berichtdetails können nicht abgerufen werden</string>
@@ -25,6 +30,7 @@
   <string name="no_network_btn">Erneut versuchen</string>
   <string name="ok_button">OK</string>
   <string name="open_browser">Im Browser öffnen</string>
+  <string name="pc_activity_title">Akku optimieren</string>
   <string name="pm_lable_name">Über Rootzugriff</string>
   <string name="privacy_declare_dialog_title">Nutzungsbedingungen</string>
   <string name="privacy_prompt_traffic_purchase_message">Um mehr Details über Ihre Bezahloptionen zu erhalten, wird Ihre Telefonnummer und die Anbieterdetails verschlüsselt und an Xiaomi gesendet.</string>

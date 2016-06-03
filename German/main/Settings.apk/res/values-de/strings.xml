@@ -1690,6 +1690,14 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="keyboard_layout_picker_title">Tastaturlayouts</string>
   <string name="keyboard_settings_category">Tastatur &amp; Eingabemethoden</string>
   <string name="keyboard_settings_title">Androidtastatur</string>
+  <string name="keyguard_left_function_chooser_hint_text">Linke Verknüpfung geändert auf %s</string>
+  <string name="keyguard_left_function_chooser_title">App</string>
+  <string name="keyguard_left_function_title">Links</string>
+  <string name="keyguard_right_function_chooser_hint_text">Rechte Verknüpfung geändert auf %s</string>
+  <string name="keyguard_right_function_chooser_title">App</string>
+  <string name="keyguard_right_function_title">Rechts</string>
+  <string name="keyguard_shortcut_summary">Richten Sie zwei Verknüpfungen auf dem Sperrbildschirm ein</string>
+  <string name="keyguard_shortcut_title">Sperrbildschirmverknüpfungen</string>
   <string name="keywords_accounts">Konto</string>
   <string name="keywords_app">RAM</string>
   <string name="keywords_battery">Leistung</string>
@@ -2995,6 +3003,7 @@ Um Screenpinning zu nutzen:
   <string name="search_dndm_wristband">Mit Mi Band aktivieren</string>
   <string name="search_do_not_disturb">Nicht stören;Vip;Zeit festlegen;Ausnahmen;Wiederholte Anrufe</string>
   <string name="search_dtmf_tone_enable_title">Wähltastentöne</string>
+  <string name="search_empty">Entschuldigung, es wurden keine relevanten Einstellungen gefunden</string>
   <string name="search_equalizer">Equalizer</string>
   <string name="search_font">Systemschriftart</string>
   <string name="search_gps">GPS</string>

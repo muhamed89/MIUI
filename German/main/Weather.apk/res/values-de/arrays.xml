@@ -52,7 +52,7 @@
         <item>Staub</item>
         <item>Nebel</item>
         <item>Gefrierender Regen</item>
-        <item></item>
+        <item>Keine Daten</item>
     </string-array>
     <string-array name="indices_uv_level">
         <item>Schwach</item>

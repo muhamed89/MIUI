@@ -953,6 +953,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="power_save_low_battery_seekbar_title">Profil autom. wechseln, wenn Akkustand niedriger als %1$d%% ist</string>
   <string name="power_save_low_battery_title">Energiesparmodus</string>
   <string name="power_save_mode_enable">Autom. Energiesparmodus</string>
+  <string name="power_save_mode_ontime_enabled">Zeiten für das Umschalten zwuschen den Profilen festlegen</string>
   <string name="power_save_mode_summary">Hintergrundaktivitäten überwachen, Synchronisation anhalten und Systemanimationen ausschalten. Der Energiesparmodus wird automatisch verlassen, wenn der Akku zu 60% geladen ist.</string>
   <string name="power_save_on_time_default_time_na">00:00</string>
   <string name="power_save_on_time_end_time_summary_na">Bis</string>
@@ -1197,6 +1198,14 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="select_pattern">Muster auswählen</string>
   <string name="setting_traffic_pkg">Datenpakete einstellen</string>
   <string name="settings">Einstellung zur Datennutzung</string>
+  <string name="settings_battery_consume_abnormal_summary">Benachrichtigen, wenn der Akku zu schnell entleert wird</string>
+  <string name="settings_battery_consume_abnormal_title">Akkuverbrauchswarnung</string>
+  <string name="settings_battery_over_heat_summary">Benachrichtigen, wenn der Akku überhitzt</string>
+  <string name="settings_battery_over_heat_title">Überhitzungswarnung</string>
+  <string name="settings_category_other">Andere Einstellungen</string>
+  <string name="settings_category_overheat">Überhitzung</string>
+  <string name="settings_choice_no_notification">Aus</string>
+  <string name="settings_power_save_ontime_title">Zeitplan</string>
   <string name="settings_title_permission">Berechtigungseinstellungen</string>
   <string name="showpattern">Muster anzeigen</string>  
   <string name="show_traffic_dialog_message">Ihre Datennutzung wird in der Statusleiste angezeigt. Sie können diese Funktion in den Einstellungen der Datennutzung jederzeit verändern.</string>
