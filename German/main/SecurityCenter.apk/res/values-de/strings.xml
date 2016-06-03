@@ -953,7 +953,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="power_save_low_battery_seekbar_title">Profil autom. wechseln, wenn Akkustand niedriger als %1$d%% ist</string>
   <string name="power_save_low_battery_title">Energiesparmodus</string>
   <string name="power_save_mode_enable">Autom. Energiesparmodus</string>
-  <string name="power_save_mode_ontime_enabled">Zeiten für das Umschalten zwuschen den Profilen festlegen</string>
+  <string name="power_save_mode_ontime_enabled">Zeiten für das Umschalten zwischen den Profilen festlegen</string>
   <string name="power_save_mode_summary">Hintergrundaktivitäten überwachen, Synchronisation anhalten und Systemanimationen ausschalten. Der Energiesparmodus wird automatisch verlassen, wenn der Akku zu 60% geladen ist.</string>
   <string name="power_save_on_time_default_time_na">00:00</string>
   <string name="power_save_on_time_end_time_summary_na">Bis</string>
