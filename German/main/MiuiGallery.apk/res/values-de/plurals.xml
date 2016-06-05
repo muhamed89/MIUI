@@ -208,4 +208,40 @@
         <item quantity="other">%d Elemente ausgewählt</item>
         <item quantity="one">%d Element ausgewählt</item>
     </plurals>
+         <plurals name="album_count_and_size">
+        <item quantity="other">%1$d Elemente| %2$s</item>
+        <item quantity="one">%1$d Element| %2$s</item>
+     </plurals>
+     <plurals name="backup_waiting">
+        <item quantity="other">%1$d Elemente warten auf Sicherung</item>
+        <item quantity="one">%1$d Element wartet auf Sicherung</item>
+     </plurals>
+     <plurals name="backuped">
+        <item quantity="other">%1$d Elemente wurden gesichert</item>
+        <item quantity="one">%1$d Element wurde gesichert</item>
+     </plurals>
+     <plurals name="cloud_space_full">
+        <item quantity="other">Cloudspeicher ist voll. %1$d Elemente warten auf Sicherung</item>
+        <item quantity="one">Cloudspeicher ist voll. %1$d Element wartet auf Sicherung</item>
+     </plurals>
+     <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d Elemente ausgewählt</item>
+        <item quantity="one">%d Element ausgewählt</item>
+     </plurals>
+     <plurals name="download_error">
+        <item quantity="other">Downloadfehler bei %1$d Dateien</item>
+        <item quantity="one">Downloadfehler bei %1$d Datei</item>
+     </plurals>
+     <plurals name="local_space_full">
+        <item quantity="other">Wenig lokaler Speicherplatz. %1$d Elemente warten auf Sicherung</item>
+        <item quantity="one">Wenig lokaler Speicherplatz. %1$d Element wartet auf Sicherung</item>
+     </plurals>
+     <plurals name="network_unsatisfied">
+        <item quantity="other">Netzwerkfehler. %1$d Elemente warten auf Sicherung</item>
+        <item quantity="one">Netzwerkfehler. %1$d Element wartet auf Sicherung</item>
+     </plurals>
+     <plurals name="sync_off">
+        <item quantity="other">Synchronisation ist ausgeschaltet. %1$d Elemente warten auf Sicherung</item>
+        <item quantity="one">Synchronisation ist ausgeschaltet. %1$d Element wartet auf Sicherung</item>
+     </plurals>
 </resources>
