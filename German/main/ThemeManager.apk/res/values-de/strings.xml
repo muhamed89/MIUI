@@ -226,7 +226,7 @@
   <string name="resource_no_result">Hab nichts gefunden</string>
   <string name="resource_notification_default">Meldungen</string>
   <string name="resource_on_trial">Testen: %1$s</string>
-  <string name="resource_online">Online %1$s</string>
+  <string name="resource_online">Online</string>
   <string name="resource_pack_confirm">Auch wenn Sie bereits %1$d Teil(e) von diesem Thema gekauft haben, ist es trotzdem günstiger das ganze Thema zu kaufen.</string>
   <string name="resource_pack_discount_info">%1$s gespeichert!</string>
   <string name="resource_pack_get_auth_has_been_undercarriaged">Dieses Thema ist nicht mehr verfügbar</string>
