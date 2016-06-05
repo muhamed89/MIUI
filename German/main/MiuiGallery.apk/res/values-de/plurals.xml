@@ -224,14 +224,6 @@
         <item quantity="other">Cloudspeicher ist voll. %1$d Elemente warten auf Sicherung</item>
         <item quantity="one">Cloudspeicher ist voll. %1$d Element wartet auf Sicherung</item>
      </plurals>
-     <plurals name="custom_select_title_items_selected">
-        <item quantity="other">%d Elemente ausgewählt</item>
-        <item quantity="one">%d Element ausgewählt</item>
-     </plurals>
-     <plurals name="download_error">
-        <item quantity="other">Downloadfehler bei %1$d Dateien</item>
-        <item quantity="one">Downloadfehler bei %1$d Datei</item>
-     </plurals>
      <plurals name="local_space_full">
         <item quantity="other">Wenig lokaler Speicherplatz. %1$d Elemente warten auf Sicherung</item>
         <item quantity="one">Wenig lokaler Speicherplatz. %1$d Element wartet auf Sicherung</item>
