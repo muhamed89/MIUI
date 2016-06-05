@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="app_ops_labels">
-+        <item>Versucht den Standort zu ermitteln</item>
-+        <item>Versucht den Standort zu ermitteln</item>
-+        <item>Versucht den Standort zu ermitteln</item>
-+        <item>Versucht Vibration zu nutzen</item>
-+        <item>Versucht Kontakte zu lesen</item>
-+        <item>Versucht Kontakte zu ändern</item>
-+        <item>Versucht Anrufliste zu lesen</item>
-+        <item>Versucht Anrufliste zu ändern</item>
-+        <item>Versucht Kalender zu lesen</item>
-+        <item>Versucht Kalender zu ändern</item>
-+        <item>Versucht den Standort zu ermitteln</item>
-+        <item>Versucht eine Benachrichtigung zu senden</item>
-+        <item>Versucht den Standort zu ermitteln</item>
-+        <item>Versucht eine Anruf zu tätigen</item>
-+        <item>Versucht eine SMS zu lesen</item>
-+        <item>Versucht eine SMS zu ändern</item>
-+        <item>Versucht eine SMS zu empfangen</item>
-+        <item>Versucht eine SMS zu empfangen</item>
-+        <item>Versucht eine MMS zu empfangen</item>
-+        <item>Versucht eine SMS zu empfangen</item>
-+        <item>Versucht eine SMS zu senden</item>
-+        <item>Versucht eine SMS zu lesen</item>
-+        <item>Versucht eine SMS zu ändern</item>
-+        <item>Versucht die Einstellungen zu ändern</item>
-+        <item>Versucht an der Spitze zu ziehen</item>
-+        <item>Versucht Zugriff auf die Benachrichtigung zu erhalten</item>
-+        <item>Versucht auf die Kamera zu zugreifen</item>
-+        <item>Versucht Audio aufzunehmen</item>
-+        <item>Versucht Audio abzuspielen</item>
-+        <item>Versucht die Zwischenablage zu lesen</item>
-+        <item>Versucht die Zwischenablage zu ändern</item>
-+        <item>Versucht die Medientasten zu nutzen</item>
-+        <item>Versucht den Audiofokus zu nutzen</item>
-+        <item>Versucht die Hauptlautstärke zu nutzen</item>
-+        <item>Versucht die Sprachlautstärke zu nutzen</item>
-+        <item>Versucht die Klingeltonlautstärke zu nutzen</item>
-+        <item>Versucht die Medienlautstärke zu nutzen</item>
-+        <item>Versucht die Alarmlautstärke zu nutzen</item>
-+        <item>Versucht die Benachrichtigungslautstärke zu nutzen</item>
-+        <item>Versucht die Bluetoothlautstärke zu nutzen</item>
-+        <item>Versucht das Gerät wach zuhalten</item>
-+        <item>Versucht den Standort abzufragen</item>
-+        <item>Versucht den Standort abzufragen</item>
-+        <item>Versucht Nutzungsstatistiken zu erhalten</item>
-+        <item>Versucht das Mikrofon stumm zu schalten</item>
-+        <item>Versucht das Toastfenster zu nutzen</item>
-+        <item>Versucht Medienprojekt zu lesen</item>
-+        <item>Versucht VPN zu aktivieren</item>
-+        <item>Versucht WLAN an-/auszuschalten</item>
-+        <item>Versucht Bluetooth an-/auszuschalten</item>
-+        <item>Versucht MMS zu senden</item>
-+        <item>Versucht MMS zu lesen</item>
-+        <item>Versucht MMS zu schreiben</item>
-+        <item>Versucht automatisch zu starten</item>
-+        <item>Versucht NFC an-/auszuschalten</item>
-+        <item>Versucht SMS zu löschen</item>
-+        <item>Versucht MMS zu löschen</item>
-+        <item>Versucht Kontakte zu löschen</item>
-+        <item>Versucht Anrufliste zu löschen</item>
-+        <item>Versucht Datenverbindung an/auszuschalten</item>
+        <item>Versucht den Standort zu ermitteln</item>
+        <item>Versucht den Standort zu ermitteln</item>
+        <item>Versucht den Standort zu ermitteln</item>
+        <item>Versucht Vibration zu nutzen</item>
+        <item>Versucht Kontakte zu lesen</item>
+        <item>Versucht Kontakte zu ändern</item>
+        <item>Versucht Anrufliste zu lesen</item>
+        <item>Versucht Anrufliste zu ändern</item>
+        <item>Versucht Kalender zu lesen</item>
+        <item>Versucht Kalender zu ändern</item>
+        <item>Versucht den Standort zu ermitteln</item>
+        <item>Versucht eine Benachrichtigung zu senden</item>
+        <item>Versucht den Standort zu ermitteln</item>
+        <item>Versucht eine Anruf zu tätigen</item>
+        <item>Versucht eine SMS zu lesen</item>
+        <item>Versucht eine SMS zu ändern</item>
+        <item>Versucht eine SMS zu empfangen</item>
+        <item>Versucht eine SMS zu empfangen</item>
+        <item>Versucht eine MMS zu empfangen</item>
+        <item>Versucht eine SMS zu empfangen</item>
+        <item>Versucht eine SMS zu senden</item>
+        <item>Versucht eine SMS zu lesen</item>
+        <item>Versucht eine SMS zu ändern</item>
+        <item>Versucht die Einstellungen zu ändern</item>
+        <item>Versucht an der Spitze zu ziehen</item>
+        <item>Versucht Zugriff auf die Benachrichtigung zu erhalten</item>
+        <item>Versucht auf die Kamera zu zugreifen</item>
+        <item>Versucht Audio aufzunehmen</item>
+        <item>Versucht Audio abzuspielen</item>
+        <item>Versucht die Zwischenablage zu lesen</item>
+        <item>Versucht die Zwischenablage zu ändern</item>
+        <item>Versucht die Medientasten zu nutzen</item>
+        <item>Versucht den Audiofokus zu nutzen</item>
+        <item>Versucht die Hauptlautstärke zu nutzen</item>
+        <item>Versucht die Sprachlautstärke zu nutzen</item>
+        <item>Versucht die Klingeltonlautstärke zu nutzen</item>
+        <item>Versucht die Medienlautstärke zu nutzen</item>
+        <item>Versucht die Alarmlautstärke zu nutzen</item>
+        <item>Versucht die Benachrichtigungslautstärke zu nutzen</item>
+        <item>Versucht die Bluetoothlautstärke zu nutzen</item>
+        <item>Versucht das Gerät wach zuhalten</item>
+        <item>Versucht den Standort abzufragen</item>
+        <item>Versucht den Standort abzufragen</item>
+        <item>Versucht Nutzungsstatistiken zu erhalten</item>
+        <item>Versucht das Mikrofon stumm zu schalten</item>
+        <item>Versucht das Toastfenster zu nutzen</item>
+        <item>Versucht Medienprojekt zu lesen</item>
+        <item>Versucht VPN zu aktivieren</item>
+        <item>Versucht WLAN an-/auszuschalten</item>
+        <item>Versucht Bluetooth an-/auszuschalten</item>
+        <item>Versucht MMS zu senden</item>
+        <item>Versucht MMS zu lesen</item>
+        <item>Versucht MMS zu schreiben</item>
+        <item>Versucht automatisch zu starten</item>
+        <item>Versucht NFC an-/auszuschalten</item>
+        <item>Versucht SMS zu löschen</item>
+        <item>Versucht MMS zu löschen</item>
+        <item>Versucht Kontakte zu löschen</item>
+        <item>Versucht Anrufliste zu löschen</item>
+        <item>Versucht Datenverbindung an/auszuschalten</item>
      </string-array>
     <string-array name="emailAddressTypes">
         <item>Privat</item>

@@ -2603,8 +2603,8 @@ Betriebssystem auswählen:"</string>
   <string name="privacy_mode_title">Datenschutz</string>
   <string name="privacy_protect_title">Datenschutz</string>
   <string name="privacy_relative">Datenschutzrelevant</string>
-  <string name="privacy_settings">Sichern &amp; Zurücksetzen</string>
-  <string name="privacy_settings_title">Sichern &amp; Zurücksetzen</string>
+  <string name="privacy_settings">Sichern &amp; Wiederherstellen</string>
+  <string name="privacy_settings_title">Sichern &amp; Wiederherstellen</string>
   <string name="private_gallery_need_to_unlock">Password erforderlich:</string>
   <string name="private_gallery_recording_intro_header">Entsperrmuster zeichnen:</string>
   <string name="private_gallery_reset_by_account">Um Ihr Passwort zurückzusetzen, melden Sie sich mit Ihrem Mi Konto an</string>
@@ -2754,7 +2754,7 @@ Betriebssystem auswählen:"</string>
   <string name="recompute_size">Größe wird neuberechnet…</string>
   <string name="regulatory_info_text"/>
   <string name="regulatory_information">Regulierungsinformationen</string>
-  <string name="remove_account_failed">Dieses Konto ist für manche Apps erforderlich. Sie können es nur entfernen, indem Sie das Telefon unter Einstellungen &gt; Sichern &amp; zurücksetzen, auf die Werkseinstellungen zurücksetzen (damit werden alle Ihre persönlichen Daten gelöscht).</string>
+  <string name="remove_account_failed">Dieses Konto ist für manche Apps erforderlich. Sie können es nur entfernen, indem Sie das Telefon unter Einstellungen &gt; Sichern &amp; Wiederherstellen, auf die Werkseinstellungen zurücksetzen (damit werden alle Ihre persönlichen Daten gelöscht).</string>
   <string name="remove_account_label">Konto entfernen</string>
   <string name="remove_device_admin">Ausschalten</string>
   <string name="remove_from_frequently_fragment">\"%s\" aus den Allgemeinen Einstellungen entfernen?</string>
