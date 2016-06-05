@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_type">
+        <item>Sonnig</item>
+        <item>Wolkig</item>
+        <item>Bedeckt</item>
+        <item>Neblig</item>
+        <item>Starkregen</item>
+        <item>Platzregen</item>
+        <item>Regensturm</item>
+        <item>Gewitter</item>
+        <item>Schauer</item>
+        <item>Schwere Regenfälle</item>
+        <item>Mäßiger Regen</item>
+        <item>Leichter Regen</item>
+        <item>Schneeregen</item>
+        <item>Schneesturm</item>
+        <item>Schneefall</item>
+        <item>Starker Schneefall</item>
+        <item>Mäßiger Schneefall</item>
+        <item>Leichter Schneefall</item>
+        <item>Starker Sandsturm</item>
+        <item>Sandsturm</item>
+        <item>Sand</item>
+        <item>Windig</item>
+        <item>Hagel</item>
+        <item>Staub</item>
+        <item>Nebel</item>
+        <item>Gefrierender Regen</item>
+        <item>Keine Daten</item>
+    </string-array>
+</resources>
