@@ -32,3 +32,6 @@ Thumbs.db
 *.log
 *.sql
 *.sqlite
+
+*.tbt
+translation_api

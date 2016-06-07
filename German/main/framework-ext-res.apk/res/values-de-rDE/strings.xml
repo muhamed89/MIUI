@@ -117,7 +117,7 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; System &gt; Tast
   <string name="status_bar_toggle_paper_mode">Lesemodus</string>
   <string name="status_bar_toggle_power_mode">Leistung</string>
   <string name="status_bar_toggle_privacy_mode">Gastmodus</string>
-  <string name="status_bar_toggle_quiet_mode">Nachtmodus</string>
+  <string name="status_bar_toggle_quiet_mode">Nicht stören</string>
   <string name="status_bar_toggle_rotate">Nicht drehen</string>
   <string name="status_bar_toggle_screen_button">Tasten</string>
   <string name="status_bar_toggle_screenshot">Screenshot</string>

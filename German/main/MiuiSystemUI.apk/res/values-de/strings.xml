@@ -279,6 +279,7 @@ Zum Sperren runterwischen"</string>
   <string name="vpn_text_long">Verbunden mit %s. Berühren um die Einstellungen zu sehen.</string>
   <string name="vpn_title">VPN aktiviert</string>
   <string name="vpn_title_long">Mit VPN verbunden und es wird %s genutzt</string>
-  <string name="weather_description">%1$s | %2$s ></string>
+  <string name="weather_description">%1$s ></string>
   <string name="weather_description_no_aqi">%1$s ></string>
+  <string name="weather_publish_time">Aktualisiert um %1$s</string>
 </resources>
