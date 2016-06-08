@@ -225,6 +225,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="app_forward_locked">Diese App ist kopiergeschützt.</string>
   <string name="app_install_location_summary">Bevorzugten Installationspfad für neue Apps ändern</string>
   <string name="app_install_location_title">Bevorzugter Installationspfad</string>
+  <string name="app_invisible">Unsichtbare Apps</string>  
   <string name="app_launch_domain_links_title">Appverknüpfungen</string>
   <string name="app_launch_open_domain_urls_summary">Ohne Nachfragen öffnen</string>
   <string name="app_launch_open_domain_urls_title">Unterstützte Links öffnen</string>
@@ -276,6 +277,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="application_item_already_permission">Erlaubt</string>
   <string name="application_item_disable">Verweigern</string>
   <string name="application_item_permission">Erlauben</string>
+  <string name="application_lock_name">Anwendungssperre</string>
   <string name="application_manager_section_title">Appeinstellungen</string>
   <string name="application_permission_manager">Appberechtigungen</string>
   <string name="application_restrictions">Apps und Inhalte zulassen</string>
