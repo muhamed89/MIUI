@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="boot_msg_text">
+        <item>Update wird vorbereitet (0%)…</item>
+        <item>Update wird vorbereitet (1%)…</item>
+        <item>Update wird vorbereitet (2%)…</item>
+        <item>Update wird vorbereitet (3%)…</item>
+        <item>Update wird vorbereitet (4%)…</item>
+        <item>Update wird vorbereitet (5%)…</item>
+        <item>Update wird vorbereitet (6%)…</item>
+        <item>Update wird vorbereitet (7%)…</item>
+        <item>Update wird vorbereitet (8%)…</item>
+        <item>Update wird vorbereitet (9%)…</item>
+        <item>Update wird vorbereitet (10%)…</item>
+        <item>Update wird vorbereitet (11%)…</item>
+        <item>Update wird vorbereitet (12%)…</item>
+        <item>Update wird vorbereitet (13%)…</item>
+        <item>Update wird vorbereitet (14%)…</item>
+        <item>Update wird vorbereitet (15%)…</item>
+        <item>Update wird vorbereitet (16%)…</item>
+        <item>Update wird vorbereitet (17%)…</item>
+        <item>Update wird vorbereitet (18%)…</item>
+        <item>Update wird vorbereitet (19%)…</item>
+        <item>Update wird vorbereitet (20%)…</item>
+        <item>Aktualisierung (21%)…</item>
+        <item>Aktualisierung (22%)…</item>
+        <item>Aktualisierung (23%)…</item>
+        <item>Aktualisierung (24%)…</item>
+        <item>Aktualisierung (25%)…</item>
+        <item>Aktualisierung (26%)…</item>
+        <item>Aktualisierung (27%)…</item>
+        <item>Aktualisierung (28%)…</item>
+        <item>Aktualisierung (29%)…</item>
+        <item>Aktualisierung (30%)…</item>
+        <item>Aktualisierung (31%)…</item>
+        <item>Aktualisierung (32%)…</item>
+        <item>Aktualisierung (33%)…</item>
+        <item>Aktualisierung (34%)…</item>
+        <item>Aktualisierung (35%)…</item>
+        <item>Aktualisierung (36%)…</item>
+        <item>Aktualisierung (37%)…</item>
+        <item>Aktualisierung (38%)…</item>
+        <item>Aktualisierung (39%)…</item>
+        <item>Aktualisierung (40%)…</item>
+        <item>Optimierung (41%)…</item>
+        <item>Optimierung (42%)…</item>
+        <item>Optimierung (43%)…</item>
+        <item>Optimierung (44%)…</item>
+        <item>Optimierung (45%)…</item>
+        <item>Optimierung (46%)…</item>
+        <item>Optimierung (47%)…</item>
+        <item>Optimierung (48%)…</item>
+        <item>Optimierung (49%)…</item>
+        <item>Optimierung (50%)…</item>
+        <item>Optimierung (51%)…</item>
+        <item>Optimierung (52%)…</item>
+        <item>Optimierung (53%)…</item>
+        <item>Optimierung (54%)…</item>
+        <item>Optimierung (55%)…</item>
+        <item>Optimierung (56%)…</item>
+        <item>Optimierung (57%)…</item>
+        <item>Optimierung (58%)…</item>
+        <item>Optimierung (59%)…</item>
+        <item>Optimierung (60%)…</item>
+        <item>Optimierung (61%)…</item>
+        <item>Optimierung (62%)…</item>
+        <item>Optimierung (63%)…</item>
+        <item>Optimierung (64%)…</item>
+        <item>Optimierung (65%)…</item>
+        <item>Optimierung (66%)…</item>
+        <item>Optimierung (67%)…</item>
+        <item>Optimierung (68%)…</item>
+        <item>Optimierung (69%)…</item>
+        <item>Optimierung (70%)…</item>
+        <item>Optimierung (71%)…</item>
+        <item>Optimierung (72%)…</item>
+        <item>Optimierung (73%)…</item>
+        <item>Optimierung (74%)…</item>
+        <item>Optimierung (75%)…</item>
+        <item>Optimierung (76%)…</item>
+        <item>Optimierung (77%)…</item>
+        <item>Optimierung (78%)…</item>
+        <item>Optimierung (79%)…</item>
+        <item>Optimierung (80%)…</item>
+        <item>Optimierung (81%)…</item>
+        <item>Optimierung (82%)…</item>
+        <item>Optimierung (83%)…</item>
+        <item>Optimierung (84%)…</item>
+        <item>Optimierung (85%)…</item>
+        <item>Optimierung (86%)…</item>
+        <item>Optimierung (87%)…</item>
+        <item>Optimierung (88%)…</item>
+        <item>Optimierung (89%)…</item>
+        <item>Update wird abgeschlossen (90%)…</item>
+        <item>Update wird abgeschlossen (91%)…</item>
+        <item>Update wird abgeschlossen (92%)…</item>
+        <item>Update wird abgeschlossen (93%)…</item>
+        <item>Update wird abgeschlossen (94%)…</item>
+        <item>Update wird abgeschlossen (95%)…</item>
+        <item>Update wird abgeschlossen (96%)…</item>
+        <item>Update wird abgeschlossen (97%)…</item>
+        <item>Update wird abgeschlossen (98%)…</item>
+        <item>Update wird abgeschlossen (99%)…</item>
+        <item>Update wird abgeschlossen (100%)…</item>
+     </string-array>
+</resources>
