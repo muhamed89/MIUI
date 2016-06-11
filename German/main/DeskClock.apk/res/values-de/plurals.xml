@@ -21,16 +21,16 @@
         <item quantity="one">1 Minute</item>
     </plurals>
     <plurals name="snooze_message">
-        <item quantity="other">%d Minuten schlummern</item>
-        <item quantity="one">%d Minute schlummern</item>
+        <item quantity="other">%d min schlummern</item>
+        <item quantity="one">%d min schlummern</item>
     </plurals>
     <plurals name="alarm_alert_snooze_set">
-        <item quantity="other">Schlummern für %d Minuten.</item>
-        <item quantity="one">Schlummern für %d Minute.</item>
+        <item quantity="other">Schlummern für %d Minuten</item>
+        <item quantity="one">Schlummern für %d Minute</item>
     </plurals>
     <plurals name="auto_silence_summary">
-        <item quantity="other">Alarme werden nach %d Minuten stumm geschalten.</item>
-        <item quantity="one">Alarme werden nach %d Minute stumm geschalten.</item>
+        <item quantity="other">Alarme werden nach %d Minuten stumm geschalten</item>
+        <item quantity="one">Alarme werden nach %d Minute stumm geschalten</item>
     </plurals>
     <plurals name="delete_alarm_confirm">
         <item quantity="other">Die ausgewählten Wecker löschen?</item>

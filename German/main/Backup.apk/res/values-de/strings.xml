@@ -153,7 +153,7 @@
   <string name="notif_backup_title">Daten sichern</string>
   <string name="notif_restore_complete_title">Wiederherstellung erfolgreich</string>
   <string name="notif_restore_content">Benutzerdaten werden wiederhergestellt</string>
-  <string name="notif_restore_title">Daten wiederhergestellen</string>
+  <string name="notif_restore_title">Daten wiederherstellen</string>
   <string name="notif_trans_receiving_completed">Daten erfolgreich empfangen</string>
   <string name="notif_trans_sending_completed">Daten erfolgreich versandt</string>
   <string name="page_loading">Einen Moment…</string>

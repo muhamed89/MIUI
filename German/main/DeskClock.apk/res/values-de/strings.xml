@@ -11,8 +11,8 @@
   <string name="alarm_klaxon_service_desc">Tonwiedergabedienst eingestellte Wecker</string>
   <string name="alarm_label_hint">Weckername</string>
   <string name="alarm_list_title">Wecker</string>
-  <string name="alarm_notify_snooze_label">%s schlummern</string>
-  <string name="alarm_notify_text">Schlummern oder beenden.</string>
+  <string name="alarm_notify_snooze_label">Schlummern (%s)</string>
+  <string name="alarm_notify_text">Schlummern oder beenden</string>
   <string name="alarm_repeat">Wiederholen</string>
   <string name="alarm_screen">Weckbildschirm und Weckton</string>
   <string name="alarm_settings">Weckereinstellungen</string>
@@ -91,7 +91,7 @@
   <string name="skip_alarm_date_format">%1$s(%2$s)</string>
   <string name="skip_alarm_once_hint">Am %s einmalig ausschalten</string>
   <string name="slider_text">Zum Ausschalten nach oben wischen</string>
-  <string name="snooze_confirm_cancel">Schlummern abbrechen</string>
+  <string name="snooze_confirm_cancel">Beenden</string>
   <string name="snooze_duration_title">Schlummerdauer</string>
   <string name="start">Start</string>
   <string name="start_up">Starten</string>

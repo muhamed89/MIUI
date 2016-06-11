@@ -248,7 +248,7 @@ Berühre den Einstellungsknopf, um mehr Optionen zu sehen"</string>
   <string name="micloud_main_sync_exception">Synchronisationsfehler</string>
   <string name="micloud_main_sync_init">Erhalte Informationen</string>
   <string name="micloud_main_sync_now">Jetzt synchronisieren</string>
-  <string name="micloud_main_sync_on">Sync on</string>
+  <string name="micloud_main_sync_on">Aktivieren</string>
   <string name="micloud_main_sync_on_wifi">WLAN verwenden</string>
   <string name="micloud_main_sync_pause">Synchronisation angehalten</string>
   <string name="micloud_main_sync_pending">Warte auf Synchronisierung</string>
@@ -259,7 +259,7 @@ Berühre den Einstellungsknopf, um mehr Optionen zu sehen"</string>
   <string name="micloud_main_title_master_sync_off">Auto-Synchronisation ist aus</string>
   <string name="micloud_main_title_not_synced">Nicht synchronisiert</string>
   <string name="micloud_main_title_sync_fail">"Kann nicht synchronisieren"</string>
-  <string name="micloud_main_title_sync_off">Synchronisation ausschalten</string>
+  <string name="micloud_main_title_sync_off">Synchronisation deaktiviert</string>
   <string name="micloud_main_title_sync_on_wifi">WLAN verwenden</string>
   <string name="micloud_main_update_space">Holen Sie sich mehr Speicherplatz.</string>
   <string name="micloud_main_wlan_sync_data_count">%d Dinge warten um synchronisiert zu werden</string>
