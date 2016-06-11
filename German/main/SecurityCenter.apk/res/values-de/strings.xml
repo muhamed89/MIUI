@@ -10,7 +10,7 @@
   <string name="ac_enable_title">Anwendungssperre aktivieren</string>
   <string name="ac_enter_applock">Zur Anwendungssperre</string>
   <string name="ac_firstUseApplock_subTitle">Verwenden Sie die Anwendungssperre, um Ihre Privatsphäre zu schützen</string>
-  <string name="ac_firstUseApplock_title">Es ist ein Entsperrmuster erforderlich, um die ausgewählten Apps zu öffnen</string>
+  <string name="ac_firstUseApplock_title">Ausgewählte Apps werden mit einem Muster geschützt</string>
   <string name="ac_summaryOff">Ausgeschaltet, es ist kein Entsperrmuster zum Öffnen von Apps erforderlich</string>
   <string name="ac_summaryOn">Eingeschaltet, es ist ein Entsperrmuster zum Öffnen von Apps erforderlich</string>
   <string name="access_control_need_password">"%s  erfolgreich hinzugefügt"</string>
