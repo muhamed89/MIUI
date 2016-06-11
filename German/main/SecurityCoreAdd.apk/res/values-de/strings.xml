@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="Active">Aktiv</string>
-    <string name="PassWordGuard">Second-Space-Passwort</string>
+    <string name="PassWordGuard">Zweitprofilpasswort</string>
     <string name="PrivacyContactDes1">"Kontakte werden privat.
 Nachrichten erhalten Sie nur im Zweitprofil."</string>
     <string name="PrivacyContactDes2">"Wenn Sie private Nachrichten im Hauptprofil verwendet haben,
@@ -82,7 +82,7 @@ Sie können Sie auch separat installieren."</string>
     <string name="import_contacts_desc">Importierte Kontakte als privat markieren</string>
     <string name="import_contacts_suc">Importierte Kontakte</string>
     <string name="import_file_suc">Importierte Dateien</string>
-    <string name="import_now">Ecportieren</string>
+    <string name="import_now">Importieren</string>
     <string name="import_photo">Fotos importieren</string>
     <string name="import_photo_desc">Geteilte Ordner im Zweitprofil anzeigen</string>
     <string name="import_photo_suc">Importierte Fotos</string>

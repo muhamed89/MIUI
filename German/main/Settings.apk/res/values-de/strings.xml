@@ -1870,17 +1870,17 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="lock_settings_with_fingerprint">Bildschirmsperre &amp; Passwort</string>
   <string name="lock_setup">Einrichtung abgeschlossen.</string>
   <string name="lock_sounds_enable_title">Ton bei Bildschirmsperre</string>
-  <string name="lockpassword_choose_for_second_user">Passwort für Second Space festlegen</string>
+  <string name="lockpassword_choose_for_second_user">Passwort für Zweitprofil festlegen</string>
   <string name="lockpassword_cancel_label">Abbrechen</string>
   <string name="lockpassword_choose_lock_generic_header">Sperre einrichten</string>
   <string name="lockpassword_choose_your_password_header">Passwort festlegen</string>
   <string name="lockpassword_choose_your_password_second_space">"Passwort 
- für Second Space"</string>
+ für Zweitprofil"</string>
      <string name="lockpassword_choose_your_pin_header_second_space">"PIN 
- für Second Space"</string>
+ für Zweitprofil"</string>
   <string name="lockpassword_choose_your_pattern_header">Muster wählen</string>
   <string name="lockpassword_choose_your_pin_header">PIN festlegen</string>
-  <string name="lockpassword_confirm_for_second_user">Passwort für Second Space bestätigen</string>
+  <string name="lockpassword_confirm_for_second_user">Passwort für Zweitprofil bestätigen</string>
   <string name="lockpassword_confirm_passwords_dont_match">Die Passwörter stimmen nicht überein.</string>
   <string name="lockpassword_confirm_pins_dont_match">Die PINs stimmen nicht überein.</string>
   <string name="lockpassword_confirm_your_password_generic">Geben Sie Ihr Gerätepasswort ein um fortzufahren.</string>
@@ -1902,8 +1902,8 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="lockpassword_password_too_long">Das Passwort muss weniger als %d Zeichen enthalten</string>
   <string name="lockpassword_password_too_short">Das Passwort muss mindestens %d Zeichen enthalten</string>
   <string name="lockpattern_pattern_same_with_owner">Sollte unterschiedlich zum Standardpasswort sein</string>
-  <string name="lockpattern_pattern_same_with_security_space">Sollte unterschiedlich zum Passwort für den Second Space sein</string>
-  <string name="lockpattern_recording_intro_header_second_space">Zeichnen Sie ein Entsperrmuster für den Second Space:</string>
+  <string name="lockpattern_pattern_same_with_security_space">Sollte unterschiedlich zum Passwort für das Zweitprofil sein</string>
+  <string name="lockpattern_recording_intro_header_second_space">Zeichnen Sie ein Entsperrmuster für das Zweitprofil:</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts">Zu viele ungültige Versuche. Versuchen Sie es in %d Sekunden wieder.</string>
   <string name="lockpassword_pattern_set_toast">Das Muster wurde festgelegt.</string>
   <string name="lockpassword_pin_contains_non_digits">PIN darf nur Nummern enthalten.</string>
@@ -3062,7 +3062,7 @@ Um Screenpinning zu nutzen:
   <string name="search_screen_on_proximity_sensor_title">Wählen in der Tasche verhindern</string>
   <string name="search_screen_timeout">Bildschirmtimeout</string>
   <string name="search_screen_saver_settings">Screensaver</string>
-  <string name="search_second_space">Second Space</string>
+  <string name="search_second_space">Zweitprofil</string>
   <string name="search_security_encryption_title">Gerät mit Sperrbildschirmpasswort verschlüsseln</string>
   <string name="search_security_passwords_title">Passwort</string>
   <string name="search_security_settings">Privatsphäreeinstellungen</string>
@@ -3131,7 +3131,7 @@ Um Screenpinning zu nutzen:
   <string name="search_xiaomi_account">Mi Konto</string>
   <string name="search_xspace">XSpace</string>
   <string name="search_zen_mode_option_miui_silent">Lautlosmodus</string>
-  <string name="second_space">Second Space</string>
+  <string name="second_space">Zweitprofil</string>
   <string name="secure_keyguard_business_title">Sperrbildschirm einstellen</string>
   <string name="secure_lock_encryption_warning">"Da Sie einen Barrierefreiheitsdienst eingeschaltet haben, wird das Gerät Ihre Bildschirmsperre nicht verwenden um die Datenverschlüsselung zu verbessern."</string>
   <string name="security_enable_widgets_disabled_summary">Vom Administrator deaktiviert</string>
