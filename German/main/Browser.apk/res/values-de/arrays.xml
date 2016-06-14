@@ -29,4 +29,16 @@
         <item>iPhone</item>
         <item>iPad</item>
      </string-array>
+     <string-array name="shortcut_dialog_title">
+         <item>Nachricht vom Browser</item>
+         <item>Folgen sie den olympischen Spielen mit Mi</item>
+     </string-array>
+     <string-array name="shortcut_dialog_keep">
+         <item>OK</item>
+         <item>Folgen</item>
+     </string-array>
+     <string-array name="shortcut_dialog_delete">
+         <item>Löschen</item>
+         <item>Nein danke</item>
+     </string-array>
 </resources>

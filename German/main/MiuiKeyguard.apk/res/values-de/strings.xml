@@ -31,6 +31,7 @@
   <string name="invalid_sim_pin_hint">Geben Sie eine PIN mit 4 bis 8 Zahlen ein</string>
   <string name="invalid_sim_puk_hint">Der PUK-Code sollte aus 8 Zahlen oder mehr bestehen</string>
   <string name="keyguard_torch_cover_text">Halten Sie die Einschalttaste gedrückt, um die Lampe dauerhaft einzuschalten</string>
+  <string name="left_action_default_hint_text">Telefon</string>
   <string name="lock_screen_date">EEEE, dd. MMMM</string>
   <string name="lock_screen_date_12">EEEE, MMMM d</string>
   <string name="lockscreen_access_pattern_cell_added">Knoten hinzugefügt</string>
@@ -60,8 +61,8 @@
   <string name="notification_voicemail_text_format">%s anrufen</string>
   <string name="notification_voicemail_title">Neue Sprachnachricht</string>
   <string name="notification_voicemail_title_count">Neue Sprachnachricht (%d)</string>
-  <string name="open_camera_hint_text">Zum Öffnen der Kamera nach links wischen</string>
-  <string name="open_remote_center_hint_text">Zum Telefonieren nach rechts wischen</string>
+  <string name="open_camera_hint_text">Zum Öffnen von %s nach links wischen</string>
+  <string name="open_remote_center_hint_text">Zum Öffnen von %s nach rechts wischen</string>
   <string name="open_wifi_settings">Netzwerkverbindung öffnen</string>
   <string name="phone_locked_string">Gerät ist gesperrt</string>
   <string name="phone_locked_timeout_minutes_string">Nach %s Minuten erneut versuchen</string>

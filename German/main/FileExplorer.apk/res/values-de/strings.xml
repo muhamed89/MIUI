@@ -100,7 +100,8 @@
   <string name="connect_network_setting_des">Bei einer Internetverbindung nachfragen</string>
   <string name="connecting">Verbindung wird hergestellt…</string>
   <string name="connection_error">Verbindung fehlgeschlagen</string>
-  <string name="copy_failed">Kopieren fehlgeschlagen, sieht so aus, als wäre der Speicher voll</string>
+  <string name="copy_failed">Kopieren fehlgeschlagen</string>
+  <string name="copy_failed_retry">Kopieren fehlgeschlagen, versuchen Sie es in%1$s wieder</string>
   <string name="copy_file_to_kuaipan">Datei auf Kuaipan kopieren</string>
   <string name="copy_to">Kopieren nach…</string>
   <string name="create_kuaipan_shortcut_pref">Auf dem Startbildschirm hinzufügen</string>
@@ -139,6 +140,7 @@
   <string name="delete_dialog_button">Löschen</string>
   <string name="delete_error">"Löschen der Dateien fehlgeschlagen. Versuchen Sie es erneut.</string>
   <string name="delete_failed">Löschen fehlgeschlagen</string>
+  <string name="delete_failed_retry">Löschen fehlgeschlagen, versuchen Sie es in %1$s wieder</string>
   <string name="delete_file">Datei löschen?</string>
   <string name="delete_file_error">Datei kann nicht gelöscht werden</string>
   <string name="delete_files">%1$d Dateien löschen?</string>
@@ -327,7 +329,8 @@
   <string name="mobile_photo">Telefonfotos</string>
   <string name="mobile_photo_desc"/>
   <string name="month_day_format">MMM dd</string>
-  <string name="move_failed">Verschieben fehlgeschlagen.</string>
+  <string name="move_failed">Verschieben fehlgeschlagen</string>
+  <string name="move_failed_retry">Verschieben fehlgeschlagen, versuchen Sie es in %1$s wieder</string>
   <string name="move_icon_to_desktop_hint">Erstellen Sie eine Verknüpfung auf dem Startbildschirm um Explorerdateien effizienter zu verwalten.</string>
   <string name="move_icon_to_desktop_success">Verknüpfung auf dem Startbildschirm erstellt.</string>
   <string name="move_to">Verschieben nach…</string>

@@ -117,6 +117,7 @@
   <string name="copy_to_sdcard_fail">Anhang konnte nicht gespeichert werden</string>
   <string name="copy_to_sdcard_success">Anhang gespeichert als %s</string>
   <string name="database_corruption">Repariere…</string>
+  <string name="del_private_contact">Alle privaten Kontakte löschen</string>
   <string name="delete">Löschen</string>
   <string name="delete_bookmark">Aus Favoriten entfernen</string>
   <string name="delete_message">Löschen</string>

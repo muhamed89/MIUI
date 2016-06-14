@@ -81,10 +81,10 @@
   <string name="loan_edittext_hint_fund">Vorsorgekredit</string>
   <string name="loan_edittext_hint_fund_combined">Vorsorgekredite</string>
   <string name="loan_first_pay_date">Erster Zahlungstermin</string>
-  <string name="loan_interest_rate">Geldpreis</string>
+  <string name="loan_interest_rate">Zinsen</string>
   <string name="loan_pay_years">Laufzeit</string>
   <string name="loan_payback_way">Rückzahlung</string>
-  <string name="loan_unit">myriad</string>
+  <string name="loan_unit">x10K</string>
   <string name="minus">−</string>
   <string name="minusDesc">Subtraktion</string>
   <string name="mortgage_amount">Hypothekenbetrag</string>
@@ -102,10 +102,10 @@
   <string name="mortgage_detail_yearly_repayment">Rückzahlung in diesem Jahr</string>
   <string name="mortgage_details">Hypothekendetails</string>
   <string name="mortgage_equals">=</string>
-  <string name="mortgage_hint_accumulation_fund">Geben Sie den Summe der Anreicherungsfonds ein</string>
-  <string name="mortgage_hint_commercial">Geben Sie den Betrag des gewerblichen Darlehens ein</string>
-  <string name="mortgage_hint_loan">Geben Sie die Summe der Darlehen ein</string>
-  <string name="mortgage_input_error">Hypothekenbetrag eingeben</string>
+  <string name="mortgage_hint_accumulation_fund">Betrag eingeben</string>
+  <string name="mortgage_hint_commercial">Betrag eingeben</string>
+  <string name="mortgage_hint_loan">Betrag eingeben</string>
+  <string name="mortgage_input_error">Betrag eingeben</string>
   <string name="mortgage_interest_amount">Zinsen</string>
   <string name="mortgage_interest_rate">Zinssatz</string>
   <string name="mortgage_item_repayment">Rückzahlungsmethode</string>
@@ -326,7 +326,7 @@
   <string name="unit_data_short_volume_cu.mm">mm³</string>
   <string name="unit_data_short_volume_cu.um">μm³</string>
   <string name="unit_data_short_weight_ug">μg</string>
-  <string name="unit_myriads">Myriads</string>
+  <string name="unit_myriads">x10k</string>
   <string name="unit_percentage">%</string>
   <string name="unit_times" />
   <string name="unit_year">a</string>

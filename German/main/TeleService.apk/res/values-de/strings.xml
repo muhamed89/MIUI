@@ -773,6 +773,8 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="messageCFU">Immer diese Nummer verwenden</string>
   <string name="mhh_disable">Medizin, Gesundheit und Krankenhaus ausgeschaltet</string>
   <string name="mhh_enable">Medizin, Gesundheit und Krankenhaus eingeschaltet</string>
+  <string name="mi_sim_settings_summary">Verwenden Sie die mobile Datenverbindung ohne SIM-Karte</string>
+  <string name="mi_sim_settings_title">Mi SIM</string>
   <string name="mismatchPin">"Die eingegebenen PINs stimmen nicht überein. Versuchen Sie es nochmal."</string>
   <string name="mismatchPin2">"Die eingegebenen PIN2 stimmen nicht überein. Versuchen Sie es nochmal."</string>
   <string name="mismatch_password">Die eingegebenen Passwörter stimmen nicht überein</string>
@@ -1039,6 +1041,8 @@ Ihr Telefon wird nach einem weiteren gescheiterten Versuch automatisch gesperrt"
   <string name="port_title">Portnummer</string>
   <string name="preference_auto_ip_summary_disable">Deaktiviert</string>
   <string name="preference_category_ringtone">Klingelton &amp; Vibration</string>
+  <string name="preference_data_usage_summary">Datenvolumen festlegen, um Ihre mobilen Daten zu kontrollieren</string>
+  <string name="preference_data_usage_title">Datenvolumen festlegen</string>
   <string name="preference_dial_pad_touch_tone_default">Standard</string>
   <string name="preference_dial_pad_touch_tone_piano">Piano</string>
   <string name="preference_dial_pad_touch_tone_title">Wahltastentöne</string>
@@ -1278,6 +1282,9 @@ Ihre SIM-Karte wird nach einem weiteren gescheiterten Versuch gelöscht</string>
   <string name="sim_ndp_dismiss_text">Verwerfen</string>
   <string name="sim_ndp_unlock_text">Entsperren</string>
   <string name="sim_no_activated">Nicht aktiviert</string>
+  <string name="sim_roaming_settings_summary">Verbinden, um die mobile Datenverbidung bei Roaming zu verwenden</string>
+  <string name="sim_roaming_settings_title">Mi Roaming</string>
+  <string name="sim_service_setting">Mi SIM &amp; Mi Roaming</string>
   <string name="sim_unknown">Unknown</string>
   <string name="sim_unlock_failed">Entsperren der SIM fehlgeschlagen</string>
   <string name="sim_unlock_success">SIM erfolgreich entsperrt</string>
