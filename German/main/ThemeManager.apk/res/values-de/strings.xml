@@ -29,8 +29,8 @@
   <string name="component_backup_preference_title">Thema sichern</string>
   <string name="component_category_finest_title">ALLGEMEIN</string>
   <string name="component_category_more_title">ERWEITERT</string>
-  <string name="component_title_ringtone">Klingelton</string>
-  <string name="component_title_wallpaper">Hintergrund</string>
+  <string name="component_title_ringtone">Klingeltöne</string>
+  <string name="component_title_wallpaper">Hintergründe</string>
   <string name="deleting">Wird gelöscht…</string>
   <string name="description_author">Autor</string>
   <string name="description_designer">Designer</string>
@@ -41,7 +41,7 @@
   <string name="description_version">Version</string>
   <string name="description_version_szie">Version: %1$s Größe: %2$s</string>
   <string name="desktop_wallpaper">Desktop</string>
-  <string name="dev_options">ENTWICKLEROPTIONEN</string>
+  <string name="dev_options">Entwickleroptionen</string>
   <string name="dev_options_summary">Webressourcen</string>
   <string name="download_failed">Download fehlgeschlagen</string>
   <string name="download_preview_failed">Laden der Vorschau fehlgeschlagen</string>
@@ -334,12 +334,12 @@
   <string name="theme_component_title_boot_audio">Bootsound</string>
   <string name="theme_component_title_clock">Uhr</string>
   <string name="theme_component_title_contact">Telefon</string>
-  <string name="theme_component_title_font">Schriftart</string>
+  <string name="theme_component_title_font">Schriftarten</string>
   <string name="theme_component_title_framework">Rahmen</string>
   <string name="theme_component_title_icon">Symbole</string>
   <string name="theme_component_title_launcher">Launcher</string>
   <string name="theme_component_title_lockstyle">Lockstyle</string>
-  <string name="theme_component_title_lockwallpaper">Lockscreen</string>
+  <string name="theme_component_title_lockwallpaper">Sperrbildschirm</string>
   <string name="theme_component_title_miwallpaper">Hintergründe</string>
   <string name="theme_component_title_mms">SMS</string>
   <string name="theme_component_title_notification">Meldungen</string>

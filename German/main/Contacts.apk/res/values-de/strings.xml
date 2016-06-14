@@ -390,7 +390,7 @@ Kontaktkarten sind ausgeschaltet.</string>
   <string name="eventTypeCustom">Eigene</string>
   <string name="event_edit_field_hint_text">Datum</string>
   <string name="export_sim_contact_finish">Export abgeschlossen</string>
-  <string name="export_sim_contact_finish_msg">%1$d übertragen | %2$d übersprungen | %3$d verbleibend</string>
+  <string name="export_sim_contact_finish_msg">%1$d übertragen | %2$d übersprungen | %3$d verbleibend %4$s</string>
   <string name="export_to_sdcard">Auf die SD-Karte exportieren</string>
   <string name="export_to_sim">Auf SIM-Karte exportieren</string>
   <string name="export_to_sim1">Auf SIM-Karte 1 exportieren</string>

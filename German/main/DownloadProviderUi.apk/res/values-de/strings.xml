@@ -16,7 +16,7 @@
   <string name="add_flow_success_msg">%s diesen Monat hinzugefügt</string>
   <string name="all_downloads">Alle Downloads</string>
   <string name="all_fileter">Alle</string>
-  <string name="all_share_files_content">Die ausgewählten Dateien wurden bereits gelöscht.</string>
+  <string name="all_share_files_content">Die ausgewählten Dateien wurden bereits gelöscht</string>
   <string name="all_the_internet">Alle Netzwerke</string>
   <string name="apk_filter">APK</string>
   <string name="app_downloads">%s Downloads</string>
