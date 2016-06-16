@@ -65,7 +65,7 @@
      <string name="feedback_description_camera_access">Scanner kann nicht mit Kamera verbinden</string>
      <string name="feedback_description_save_photo">Bild oder Video konnte nicht gespeichet werden</string>
      <string name="flash_lable">Blitz</string>
-     <string name="image_file_name_format">&apos;scanner&apos;_yyyyMMdd_HHmmss</string>
+     <string name="image_file_name_format">"&apos;scanner&apos;_yyyyMMdd_HHmmss"</string>
      <string name="import_contact">Kontaktimport</string>
      <string name="impunity_declaration_content">Diese App braucht eine Internetverbindung für richtige Funktion.</string>
      <string name="impunity_declaration_negative_text">Beenden</string>
