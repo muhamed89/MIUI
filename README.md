@@ -1,4 +1,5 @@
-# ![logo](http://en.miui.com/static/index7/images/miui7/overview_0.png) MIUI V7 German Translation
+# ![logo](http://i.imgur.com/8mHvQNw.png)
+# MIUI V8 German Translation
 
 [![Issue Stats](http://www.issuestats.com/github/muhamed89/MIUI/badge/issue)](http://www.issuestats.com/github/muhamed89/MIUI) [![Issue Stats](http://www.issuestats.com/github/muhamed89/MIUI/badge/pr)](http://www.issuestats.com/github/muhamed89/MIUI)
 
