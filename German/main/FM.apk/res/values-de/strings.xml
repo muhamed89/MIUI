@@ -59,5 +59,9 @@
   <string name="turn_off_fm">Radio ausschalten</string>
   <string name="txt_divider">" | "</string>
   <string name="txt_sleep_mode">Schlafmodus</string>
+  <string name="using_recorder_cancel">Ablehnen</string>
+  <string name="using_recorder_confirm">Zustimmen</string>
+  <string name="using_recorder_dialog_message">FM benötigt Zugriff auf den Rekorder um ordnungsgemäß zu funktionieren</string>
+  <string name="using_recorder_dialog_title">Zugriffsberechtigung</string>
   <string name="view_stations_list">Senderliste anzeigen</string>
 </resources>

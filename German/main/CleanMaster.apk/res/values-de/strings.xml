@@ -236,6 +236,8 @@
   <string name="notify_when">Benachrichtigen, wenn der Datenmüll 100MB erreicht</string>
   <string name="ok">OK</string>
   <string name="open">Aktivieren</string>
+  <string name="open_app">Öffnen</string>
+  <string name="open_browser">Im Browser öffnen</string>
   <string name="opened">An</string>
   <string name="optimizecenter_data_support">Unterstützt von Clean Master</string>
   <string name="optimizecenter_data_support_cm">Unterstützt von Clean Master</string>

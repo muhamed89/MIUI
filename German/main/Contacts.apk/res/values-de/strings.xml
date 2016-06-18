@@ -371,6 +371,8 @@ Kontaktkarten sind ausgeschaltet.</string>
   <string name="display_warn_remove_ungrouped">Wenn \"%s\" aus der Synchronisation entfernt wird, werden auch alle nicht gruppierten Kontakte aus der Synchronisation entfernt</string>
   <string name="duplicate_group_name">Gruppe ist bereits vorhanden</string>
   <string name="editContactDescription">Kontakt bearbeiten</string>
+  <string name="editContactNameExpandCloseDescription">Weniger</string>
+  <string name="editContactNameExpandOpenDescription">Mehr</string>
   <string name="editGroupDescription">Gruppe bearbeiten</string>
   <string name="edit_contact">Kontakt bearbeiten</string>
   <string name="edit_contact_card_title">Kontaktkarte bearbeiten</string>
@@ -389,6 +391,8 @@ Kontaktkarten sind ausgeschaltet.</string>
   <string name="eventLabelsGroup">Geburtstag</string>
   <string name="eventTypeCustom">Eigene</string>
   <string name="event_edit_field_hint_text">Datum</string>
+  <string name="expandCloseViewDescription">Weniger</string>
+  <string name="expandOpenViewDescription">Mehr</string>
   <string name="export_sim_contact_finish">Export abgeschlossen</string>
   <string name="export_sim_contact_finish_msg">%1$d übertragen | %2$d übersprungen | %3$d verbleibend %4$s</string>
   <string name="export_to_sdcard">Auf die SD-Karte exportieren</string>
@@ -584,6 +588,7 @@ Grund: \"%s\"."</string>
   <string name="map_work">Geschäftsadresse anzeigen</string>
   <string name="meid">MEID</string>
   <string name="meid_invalid">Ungültige MEID</string>
+  <string name="menuMoreDescription">Mehr</string>
   <string name="menu_accounts">Konten</string>
   <string name="menu_addStar">Zu Favoriten hinzufügen</string>
   <string name="menu_bar_group_add">Neu</string>
