@@ -7,18 +7,18 @@
   <string name="Settings_title_garbage_cleanup">Bereinigungseinstellungen</string>
   <string name="Settings_title_network_assistants">Datenverbrauchseinstellungen</string>
   <string name="Settings_title_power_center">Akkueinstellungen</string>
-  <string name="ac_enable_title">Anwendungssperre aktivieren</string>
-  <string name="ac_enter_applock">Zur Anwendungssperre</string>
-  <string name="ac_firstUseApplock_subTitle">Verwenden Sie die Anwendungssperre, um Ihre Privatsphäre zu schützen</string>
-  <string name="ac_firstUseApplock_title">Ausgewählte Apps werden mit einem Muster geschützt</string>
+  <string name="ac_enable_title">Appsperre aktivieren</string>
+  <string name="ac_enter_applock">Zur Appsperre</string>
+  <string name="ac_firstUseApplock_subTitle">Verwenden Sie die Appsperre, um Ihre Privatsphäre zu schützen</string>
+  <string name="ac_firstUseApplock_title">Ausgewählte Apps mit einem Muster sperren</string>
   <string name="ac_summaryOff">Ausgeschaltet, es ist kein Entsperrmuster zum Öffnen von Apps erforderlich</string>
   <string name="ac_summaryOn">Eingeschaltet, es ist ein Entsperrmuster zum Öffnen von Apps erforderlich</string>
   <string name="access_control_need_password">"%s  erfolgreich hinzugefügt"</string>
   <string name="access_control_need_to_unlock">"Fingerabdruck scannen
-oder Passwort für Anwendungssperre eingeben"</string>
-  <string name="access_control_need_to_unlock_nofingerprint">Muster für Anwendungssperre zeichnen</string>
-  <string name="access_control_recording_intro_header">Muster zeichnen, um Anwendungssperre hinzuzufügen</string>
-  <string name="access_control_reset_by_account">Melden Sie sich mit Ihrem Mi Konto an, um die Anwendungssperre zurücksetzen</string>
+oder Passwort für Appsperre eingeben"</string>
+  <string name="access_control_need_to_unlock_nofingerprint">Muster für Appsperre zeichnen</string>
+  <string name="access_control_recording_intro_header">Muster zeichnen, um Appsperre hinzuzufügen</string>
+  <string name="access_control_reset_by_account">Melden Sie sich mit Ihrem Mi Konto an, um die Appsperre zurücksetzen</string>
   <string name="activity_title_antispam">Sperrliste</string>
   <string name="activity_title_antivirus">Virenscanner</string>
   <string name="activity_title_apps_manager">Apps</string>
@@ -59,7 +59,7 @@ oder Passwort für Anwendungssperre eingeben"</string>
   <string name="adjust_traffic_carrier_summary_two_day_before">Vor 2 Tagen aktualisiert</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Gestern um %s aktualisiert</string>
   <string name="adjust_traffic_data">Datenverbrauch festlegen</string>
-  <string name="after_the_lock_screen">"Die App wird gleichzeitig mit dem Bildschirm gesperrt. Sie können dies in den Einstellungen für die Anwendungssperre verändern."</string>
+  <string name="after_the_lock_screen">"Die App wird gleichzeitig mit dem Bildschirm gesperrt. Sie können dies in den Einstellungen für die Appsperre verändern."</string>
   <string name="antivirus_choose_engine">Definitionen von %s</string>
   <string name="antivirus_choose_engine_dialog_title">Definitionen auswählen</string>
   <string name="antivirus_choose_engine_disable_toast">"Während der Suche können die Definitionen nicht gewechselt werden"</string>
@@ -90,7 +90,7 @@ oder Passwort für Anwendungssperre eingeben"</string>
   <string name="apn_exception_title">APN-Konfigurationen</string>
   <string name="app_detail">Details</string>
   <string name="app_mobile">Mobil</string>
-  <string name="app_name">Anwendungssperre</string>
+  <string name="app_name">Appsperre</string>
   <string name="app_name_na">Datenverbrauch</string>
   <string name="app_name_securitycenter">Sicherheit</string>
   <string name="app_not_installed_toast">"App ist auf Ihrem Gerät nicht installiert."</string>
@@ -363,7 +363,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="fingerprint_to_lock">Per Fingerabdruck entsperren</string>
   <string name="fingerprint_verification">Fingerabdruck scannen</string>
   <string name="fingerprint_verification_message">Fingerabdruck scannen, um diese Funktion zu verwenden.</string>
-  <string name="finger_remind_message">Sie können auch Ihren Fingerabdruck zur Anwendungssperre verwenden</string>
+  <string name="finger_remind_message">Sie können auch Ihren Fingerabdruck zur Appsperre verwenden</string>
   <string name="fingerprint_not_remind">Nicht wieder nachfragen</string>
   <string name="fingerprint_verify_succeed">Erfolgreich verifiziert</string>
   <string name="fingerprint_verify_failed">Konnte nicht verifiziert werden</string>
@@ -475,7 +475,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="item_virus_lib">Virendatenbank automatisch aktualisieren</string>
   <string name="keywords_antispam">Blockliste;Block;Schwarze Liste;Smart blocklist;Betrug;Sales;Agents</string>
   <string name="keywords_antivirus">Virus;Risiko;Antivirus;Scan</string>
-  <string name="keywords_applicationlock">Passwort;Privatsphäre;Anwendungssperre;Zugriff;Sicherung</string>
+  <string name="keywords_applicationlock">Passwort;Privatsphäre;Appsperre;Zugriff;Sicherung</string>
   <string name="keywords_cleanmaster">Müll;Löschen;Bereinigen;Geschwindigkeit;Speicher;Cache</string>
   <string name="keywords_monthreport">Bericht;Monatlicher Bericht;Jahresbericht;Sicherheitsbericht</string>
   <string name="keywords_networkassistant_1">Daten;Verkehr</string>
@@ -485,7 +485,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="keywords_permcenter">Autostart;Berechtigung;ROOT;Standort;Zugriff auf Kontakte</string>
   <string name="keywords_powercenter">Energie sparen;Überhitzen;Einschalten;Ausschalten;Akku;Drain</string>
   <string name="keywords_securitycenter">Sicherheit;Check;Scan</string>
-  <string name="keywords_securitycenter_settings">Energiesparmodus;Berechtigung;Blockliste;Datenverbrauch;Datentarif;Daten sparen;Netzwerktest;Anwendungssperre;Energie sparen;Überhitzen;Einschalten;Ausschalten;Akku;Drain;Autostart;Berechtigung;ROOT;Standort;Zugriff auf Kontakte;Betrug;Sales;Agents;Daten;Verkehr;Calibrate;Sparen;Verbindung;Internet;Test;Passwort;Privatsphäre;Zugruff;Sicherheit</string>
+  <string name="keywords_securitycenter_settings">Energiesparmodus;Berechtigung;Blockliste;Datenverbrauch;Datentarif;Daten sparen;Netzwerktest;Appsperre;Energie sparen;Überhitzen;Einschalten;Ausschalten;Akku;Drain;Autostart;Berechtigung;ROOT;Standort;Zugriff auf Kontakte;Betrug;Sales;Agents;Daten;Verkehr;Calibrate;Sparen;Verbindung;Internet;Test;Passwort;Privatsphäre;Zugruff;Sicherheit</string>
   <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">K/s</string>
   <string name="last_check_canceled">Die letzte Suche wurde abgebrochen</string>
@@ -695,7 +695,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wen
   <string name="notification_exit_power_save_mode">Energiesparmodus ist deaktiviert</string>
   <string name="notification_exit_power_save_mode_subtitle">Akku zu %s aufgeladen</string>
   <string name="notification_button_text_of_low_memory">Bereinigen</string>
-  <string name="notification_item">Ausgewählte Apps mit einer Anwendungssperre sichern</string>
+  <string name="notification_item">Ausgewählte Apps mit einer Appsperre sichern</string>
   <string name="notification_subtitle">Zum Einschalten antippen</string>
   <string name="notification_summary_cmcc_app_check">Berühren für mehr Details.</string>
   <string name="notification_title_cmcc_app_check">%d Tage seit letztem Check</string>
@@ -1114,7 +1114,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="replace_dns">DNS automatisch ersetzen</string>
   <string name="resource_antispam">Blockliste</string>
   <string name="resource_antivirus">Virenscan</string>
-  <string name="resource_applicationlock">Anwendungssperre</string>
+  <string name="resource_applicationlock">Appsperre</string>
   <string name="resource_cleanmaster">Bereinigung</string>
   <string name="resource_monthreport">Sicherheitsbericht</string>
   <string name="resource_networkassistant_1">Datenverbrauch</string>
@@ -1194,7 +1194,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="scanning_bar_system_text">Appberechtigungen</string>
   <string name="scanning_bar_system_title">System durchsuchen…</string>
   <string name="score_pts">%</string>
-  <string name="security_app_lock">Anwendungssperre</string>
+  <string name="security_app_lock">Appsperre</string>
   <string name="security_scan_optimizing">Optimieren…</string>
   <string name="see_detail">Details</string>
   <string name="select_pattern">Muster auswählen</string>
