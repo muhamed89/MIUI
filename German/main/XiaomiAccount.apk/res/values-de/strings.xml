@@ -19,7 +19,7 @@
   <string name="account_error_longer_user_name">"Maximal 20 Zeichen"</string>
   <string name="account_error_shorter_user_name">Der Name muss mehr als 2 Zeichen haben</string>
   <string name="account_error_user_birthday">Der von Ihnen eingegebene Geburtstag ist ungültig</string>
-   <string name="account_has_been_set">Ändern</string>
+  <string name="account_has_been_set">Ändern</string>
   <string name="account_learn_more_title">Mi Konto erstellen</string>
   <string name="account_limit_update_birthday">Geburtstag kann momentan nicht aktualisiert werden</string>
   <string name="account_name">Konto: %1$s</string>
@@ -58,6 +58,7 @@
   <string name="account_vip_level">Konto</string>
   <string name="account_xiaomi_service">Dienste</string>
   <string name="activate_email_notice">Aktivieren Sie Ihr Konto innerhalb von 24 Stunden</string>
+  <string name="activity_not_found_notice">App nicht gefunden</string>
   <string name="add_account">Konto hinzufügen</string>
   <string name="agree_add_continue">Zustimmen</string>
   <string name="alert_title_remove_account">Konto entfernen?</string>
