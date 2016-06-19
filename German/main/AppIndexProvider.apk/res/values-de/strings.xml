@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">Einstellungen</string>
+  <string name="application_desc">Programm</string>
+  <string name="search_label">Einstellungen</string>
+  <string name="settings_description">Einstellungen</string>
+</resources>
