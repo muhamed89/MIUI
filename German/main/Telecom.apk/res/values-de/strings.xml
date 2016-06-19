@@ -5,7 +5,6 @@
   <string name="accessibility_speakerphone_enabled">Freisprechfunktion aktiviert</string>
   <string name="add_vm_number_str">Nummer hinzufügen</string>
   <string name="can_not_dial_while_vt_prompt">"Während eines Videoanrufs im Prozess lässt sich nicht wählen"</string>
-  <string name="default_connection_manager_component"/>
   <string name="change_default_dialer_with_previous_app_set_text">Nutze %1$s statt %2$s als Standard-Telefonapp?</string>
   <string name="dial_conference_fail_prompt">Die Telefonkonferenz kann nicht direkt einrichtet werden. Das aktuelle Netzwerk unterstützt VoLTE nicht.</string>
   <string name="dial_vt_fail_prompt"> Das aktuelle Netzwerk unterstützt VoLTE nicht. Standardtelefonie verwenden? </string>
