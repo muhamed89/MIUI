@@ -166,6 +166,7 @@
   <string name="disallow_add_to_fm">Titel können nicht von UKW-Radiosendern hinzugefügt werden.</string>
   <string name="disallow_add_to_personal_radio">Kann nicht zu benutzerdefiniertem Radio hinzugefügt werden</string>
   <string name="do_not_remind_again">"Nicht mehr anzeigen"</string>
+  <string name="doc_filter">Dokumente</string>
   <string name="done">Abgeschlossen</string>
   <string name="download">Herunterladen</string>
   <string name="download_all_song">Alle herunterladen</string>
@@ -187,7 +188,7 @@
   <string name="download_complete">Download abgeschlossen</string>
   <string name="download_complete_start_install">Download abgeschlossen, Installation beginnt...</string>
   <string name="download_completed">Heruntergeladen</string>
-  <string name="download_confirm_button_text">Install</string>
+  <string name="download_confirm_button_text">Installieren</string>
   <string name="download_confirm_text">Mi Musik lädt und installiert %s</string>
   <string name="download_error">Fehlgeschlagen</string>
   <string name="download_error_insufficient_space">Zu wenig Speicherplatz</string>
@@ -203,6 +204,11 @@
   <string name="download_manage">Downloads</string>
   <string name="download_manage_item_complete">ABGESCHLOSSEN</string>
   <string name="download_method">Herunterladen</string>
+  <string name="download_no_application_title">Datei kann nicht geöffnet werden</string>
+  <string name="download_paused">Download pausiert</string>
+  <string name="download_paused_in_power_save_mode">Aufgrund dem Stromsparmodus pausieren alle Downloads</string>
+  <string name="download_pending">Download wartet</string>
+  <string name="download_percent">%d%%</string>
   <string name="download_processing">Lade runter…</string>
   <string name="download_quality">Wiedergabequalität</string>
   <string name="download_quality_summary">Zusätzliche Eintellungen für Titel die heruntergeladen werden</string>
@@ -433,6 +439,7 @@
   <string name="next_time">Nächstes Mal</string>
   <string name="no_album_info">Keine Albuminformationen</string>
   <string name="no_artist_info">Keine Informationen zum Interpreten</string>
+  <string name="no_downloads">Keine Downloads</string>
   <string name="no_enough_info">Nicht genügend Titelinformationen</string>
   <string name="no_favorites_songs">Leer</string>
   <string name="no_file_picker_find">"Auf dem Gerät ist kein Dateimanager vorhanden"</string>
@@ -459,10 +466,17 @@
   <string name="notification_download_failed">Download fehlgeschlagen</string>
   <string name="notification_download_failed_more">Download von %1$d Elementen fehlgeschlagen</string>
   <string name="notification_download_success_more">%1$d heruntergeladen</string>
-  <string name="notification_headset_custom">Ablehnen</string>
+  <string name="notification_favorite_summary">Erhalte Nachrichten über neue Reales und Hits</string>
+  <string name="notification_favorite_title">Benachrichtigung über Lieblingsinterpreten</string>
+   <string name="notification_headset_custom">Ablehnen</string>
   <string name="notification_headset_info">Tippen Sie hier, um die Einstellungen anzuzeigen.</string>
   <string name="notification_headset_settings">Kopfhörer angeschlossen</string>
   <string name="notification_need_wifi_for_size">Downloadgröße erfordert WLAN.</string>
+  <string name="notification_play_summary">Anzeige des aktuellen, nächsten Song und Lyrics auf Home-Bildschirm</string>
+  <string name="notification_play_title">Benachrichtigungs Widget</string>
+  <string name="notification_recommend_summary">Weitere Informationen über neue Musiktrends und App-Promotions</string>
+  <string name="notification_recommend_title">Wichtige Benachrichtigungen</string>
+  <string name="notification_setting">Benachrichtigung Einstellung</string>
   <string name="notification_title_no_song">"Schauen Sie nach, was andere gerade hören!"</string>
   <string name="nowplaying_menu_item_delete">Löschen</string>
   <string name="ok">OK</string>
