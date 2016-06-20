@@ -56,7 +56,6 @@
   <string name="audio_mode_earpiece">Telefonhörer</string>
   <string name="audio_mode_speaker">Lautsprecher</string>
   <string name="audio_mode_wired_headset">Kopfhörer</string>
-  <string name="auth_username">AuthUserName</string>
   <string name="auth_username_summary">Benutzernamen für die Authentifizierung</string>
   <string name="auth_username_title">Benutzernamen Authentifizierung</string>
   <string name="auto_answer_delay_entries_delay_10s">10 Sekunden</string>
