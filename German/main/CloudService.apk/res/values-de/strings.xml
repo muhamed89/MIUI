@@ -121,7 +121,7 @@ Zuletzt gesichert am %2$s"</string>
   <string name="master_alert_notif_dspt_add">%s Elemente warten auf Synchronisation</string>
   <string name="master_alert_notif_content">Synchronisation nicht möglich</string>
   <string name="master_alert_notif_dspt_no">Synchronisiert</string>
-  <string name="master_alert_notif_title">Letzte Synchronisation vor %s Tage(n)</string>
+  <string name="master_alert_notif_title">Schalten Sie Sync. mit Mi Cloud ein</string>
   <string name="micloud_all_sub_1_intl_sms">"Es wird eine internationale Textnachricht gesendet, um Ihre SIM Karte zu aktivieren. Es können Kosten bei Ihrem Netzbetreiber entstehen. Wenn Sie die Funktion 'Gerät finden' einschalten, wird eine Aktivierungs SMS gesendet, sobald Sie die SIM Karte wechseln."</string>
   <string name="micloud_all_sub_1_sms">"Es wird eine Textnachricht gesendet, um Ihre SIM Karte zu aktivieren. Es können Kosten bei Ihrem Netzbetreiber entstehen. Wenn Sie die Funktion 'Gerät finden' einschalten, wird eine Aktivierungs SMS gesendet, sobald Sie die SIM Karte wechseln."</string>
   <string name="micloud_all_sub_1_sms_1_intl_sms">"2 Textnachrichten (national und international), um Ihre SIM Karte zu aktivieren. Es können Kosten bei Ihrem Netzbetreiber entstehen. Wenn Sie die Funktion 'Gerät finden' einschalten, wird eine Aktivierungs SMS gesendet, sobald Sie die SIM Karte wechseln."</string>
