@@ -11,6 +11,7 @@
   <string name="add_private_files">Dateien hinzufügen</string>
   <string name="add_task">Hinzufügen</string>
   <string name="adding_upload_tasks">Aufgaben hinzufügen…</string>
+  <string name="all_topic">Alle Schlagwörter</string>
   <string name="already_liked">Schon in den Favoriten vorhanden</string>
   <string name="already_signin_description">Sie sind bereits angemeldet</string>
   <string name="app_name">Dateien</string>
@@ -79,7 +80,9 @@
   <string name="category_type_other">Andere</string>
   <string name="category_video">Videos</string>
   <string name="category_zip">Archive</string>
+  <string name="change_mobile_network_message">Wechsle zu Mobilen Daten. die kann zu weiteren Kosten führen.</string>
   <string name="change_sticker">Wähle einen weiteren</string>
+  <string name="choose_report_comment_reason">Wiese wird der Kommentar gemeldet?</string>
   <string name="choose_report_reason">Warum melden Sie das?</string>
   <string name="choose_send_type">Methode auswählen</string>
   <string name="choose_upload_location">Auf KuaiPan hochladen</string>
@@ -100,9 +103,12 @@
   <string name="connect_network_setting_des">Bei einer Internetverbindung nachfragen</string>
   <string name="connecting">Verbindung wird hergestellt…</string>
   <string name="connection_error">Verbindung fehlgeschlagen</string>
+  <string name="copied">kopiert</string>
   <string name="copy_failed">Kopieren fehlgeschlagen</string>
   <string name="copy_failed_retry">Kopieren fehlgeschlagen, versuchen Sie es in%1$s wieder</string>
   <string name="copy_file_to_kuaipan">Datei auf Kuaipan kopieren</string>
+  <string name="copy_file_to_midrive">Kopiere Datei zu Mi Drive</string>
+  <string name="copy_text">Kopiere Text</string>
   <string name="copy_to">Kopieren nach…</string>
   <string name="create_kuaipan_shortcut_pref">Auf dem Startbildschirm hinzufügen</string>
   <string name="create_new_folder_desctiption">Erstelle Ordner…</string>
@@ -147,6 +153,7 @@
   <string name="delete_folder">Ordner löschen?</string>
   <string name="delete_folders">%1$d Ordner löschen?</string>
   <string name="delete_selected_tasks">Ausgewählte löschen?</string>
+  <string name="delete_success">Datei gelöscht</string>
   <string name="delete_video">Löschen</string>
   <string name="delete_video_dialog_tip">Sie können das Video nach dem Löschen nicht wiederherstellen</string>
   <string name="delete_video_dialog_title">Video löschen</string>
