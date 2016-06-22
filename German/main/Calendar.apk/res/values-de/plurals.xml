@@ -17,7 +17,7 @@
         <item quantity="one">1 Tag</item>
     </plurals>
     <plurals name="weekN">
-        <item quantity="other">Wochen %d</item>
+        <item quantity="other">Woche %d</item>
     </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
