@@ -17,7 +17,8 @@
   <string name="lockscreen_magazine_title">Tägliche Hintergrundbilder festlegen</string>
   <string name="minutes_15">15 Minuten</string>
   <string name="no_long_show">"Nicht nochmal anzeigen"</string>
-  <string name="ok_international">OK</string>
+  <string name="ok_enable_network_prov">Zustimmen</string>
+  <string name="ok_international">Zustimmen</string>
   <string name="ok_lockscreen">OK</string>
   <string name="ok_network">Zustimmen und aktivieren</string>
   <string name="resource_apply">Anwenden</string>
