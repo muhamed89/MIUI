@@ -44,7 +44,6 @@
   <string name="already_download">Wird heruntergeladen, bitte warten...</string>
   <string name="already_favorited">Bereits zu Favoriten hinzugefügt</string>
   <string name="android_sdk_too_low">"Die Androidversion ist veraltet, Musik kann nicht aktualisiert werden. Bitte führen Sie ein Update durch."</string>
-  <string name="apk_filter">APK</strin
   <string name="app_downloads">%s Downloads</string>
   <string name="app_label">Downloads</string>
   <string name="artist">Künstler</string>
@@ -83,7 +82,6 @@
   <string name="can_not_find_resource">"Quelle kann nicht gefunden werden"</string>
   <string name="cancel_running_download">Abbrechen</string>
   <string name="cancel">Abbrechen</string>
-  <string name="cancel_running_download">Abbrechen</string>
   <string name="channel_list_fragment_title">Radio</string>
   <string name="chinese_female">Weibliche Sänger aus China</string>
   <string name="chinese_group">Musikgruppen aus China</string>
@@ -513,10 +511,6 @@
   <string name="pay_now">Jetzt bezahlen</string>
   <string name="payment_fail">Zahlung fehlgeschlagen</string>
   <string name="payment_success">Zahlung erfolgreich</string>
-  <string name="permission_declaration_message">Allow access to storage in Security &gt; Permissions &gt; Permissions &gt; Storage &gt; Music to be able to use Music normally.</string>
-  <string name="permission_declaration_negative_text">Later</string>
-  <string name="permission_declaration_positive_text">Go to Security</string>
-  <string name="permission_declaration_title">Allow access</string>
   <string name="play_all_song">Alle abspielen</string>
   <string name="play_next">Nächsten abspielen</string>
   <string name="playback_failed_no_title_by_bad_file">"Das Audioformat wird nicht unterstützt oder die Datei existiert nicht."</string>
