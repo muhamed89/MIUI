@@ -195,6 +195,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="button_text_cleanup">Bereinigen</string>
   <string name="button_text_clear">Löschen</string>
   <string name="button_text_create_shortcut">Verknüpfung auf der Startseite erstellen</string>
+  <string name="button_text_deny">Verweigern</string>
   <string name="button_text_disconnect_now">Trennen</string>
   <string name="button_text_fix">Beheben</string>
   <string name="button_text_fix_now">Beheben</string>
@@ -235,6 +236,8 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="connect_internet_by_wifi">WLAN</string>
   <string name="correction_attention_dialog_message">Die Einstellungen werden angepasst. Warten Sie, bis der Vorgang abgeschlossen ist und versuchen Sie es erneut.</string>
   <string name="continue_install">Installieren</string>
+  <string name="convenient_mode">Alle Apps auf einmal entsperren</string>
+  <string name="convenient_summary">Nach dem Entsperren der ersten App ist kein Entsperrmuster mehr erforderlich</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Abbrechen</string>
   <string name="cta_checkbox_title">Nicht mehr anzeigen</string>
@@ -692,6 +695,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wen
   <string name="notification_battery_consume_abnormal_title">Akku wird zu schnell entleert</string>
   <string name="notification_battery_over_heat_summary">Finden Sie die Ursachen für die Überhitzung und kühlen Sie Ihr Gerät ab</string>
   <string name="notification_battery_over_heat_title">Die aktuelle Temperatur beträgt 40°C</string>
+  <string name="notification_charging_title">Wird geladen</string>
   <string name="notification_exit_power_save_mode">Energiesparmodus ist deaktiviert</string>
   <string name="notification_exit_power_save_mode_subtitle">Akku zu %s aufgeladen</string>
   <string name="notification_button_text_of_low_memory">Bereinigen</string>
@@ -1571,6 +1575,7 @@ Der verbleibende Datenverbrauch beinhalten auch jenen Verbrauch, welcher in dem 
   <string name="usbsharenet_pc_exception_summary">Es kann keine Internetverbindung über die geteilte Verbindung hergestellt werden. Überprüfen Sie die Internetverbindung des Computers.</string>
   <string name="virus_list_header_title">%d Viren gefunden</string>
   <string name="voltage_symbol">V</string>
+  <string name="wakepath_confirm_start_activity">%1$s erlauben %2$s zu öffnen?</string>
   <string name="warning_open_mi_sim">Aktivieren Sie Mi SIM</string>
   <string name="wifi_exception_summary">Teste verfügbare WLAN-Netzwerke</string>
   <string name="wifi_exception_title">Teste WLAN-Netzwerk</string>
