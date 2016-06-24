@@ -335,6 +335,7 @@
   <string name="impunity_declaration_summary">Nutzungsbedingungen jedes Mal anzeigen, wenn die App geöffnet wird</string>
   <string name="impunity_declaration_title">Nutzungsbedingungen</string>
   <string name="in_searching_please_wait">Suche…</string>
+  <string name="input_hint_prefix">Bitte %1$s eingeben</string>
   <string name="insufficient_space">Zu wenig Speicherplatz auf internem Speicher</string>
   <string name="is_loading_data">Titel werden noch heruntergeladen. Versuche es nach ein bis zwei Minuten erneut.</string>
   <string name="is_scanning">Scanne, bitte warten.</string>
@@ -353,8 +354,13 @@
   <string name="listview_index_of_total">%1$d/%2$d</string>
   <string name="loading_hint">Lade…</string>
   <string name="local_music">Offline</string>
+<<<<<<< HEAD
   <string name="local_music_empty">Die lokale Wiedergabeliste ist leer</string>
   <string name="local_music_empty_goto_online">Keine Titel gefunden</string>
+=======
+  <string name="local_music_empty">Lokale Abspielliste ist leer</string>
+  <string name="local_music_empty_goto_online">Kein Lied gefunden</string>
+>>>>>>> e29161df1a9044cfcf45c9d42f6d8e31cf0e4cf3
   <string name="local_music_is_not_available">Lokale Titel sind nicht verfügbar.</string>
   <string name="local_tracks_short">Offline</string>
   <string name="login_first">Zuerst mit Mi Konto anmelden</string>
@@ -400,6 +406,7 @@
   <string name="miuishare_title_share">Teilen</string>
   <string name="miuishare_wechat_timeline_title">WeChatchronik</string>
   <string name="miuishare_weibo_title">Weibo</string>
+  <string name="mobile_recommended_title">Mobile Daten benutzen</string>
   <string name="modify_lyric">Songtext bearbeiten</string>
   <string name="modify_progress">Fließgeschwindigkeit des Songtextes ändern</string>
   <string name="modify_progress_helper">Wische auf oder ab um den Fortschritt des Songtextes anzupassen.</string>
@@ -508,7 +515,6 @@
   <string name="pay_now">Jetzt bezahlen</string>
   <string name="payment_fail">Zahlung fehlgeschlagen</string>
   <string name="payment_success">Zahlung erfolgreich</string>
-  <string name="period_format">%1$s-%2$s</string>
   <string name="play_all_song">Alle abspielen</string>
   <string name="play_next">Nächsten abspielen</string>
   <string name="playback_failed_no_title_by_bad_file">"Das Audioformat wird nicht unterstützt oder die Datei existiert nicht."</string>
