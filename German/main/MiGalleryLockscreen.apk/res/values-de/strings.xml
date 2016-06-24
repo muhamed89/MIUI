@@ -5,6 +5,7 @@
   <string name="auto_interval">Auto</string>
   <string name="cancel">Abbrechen</string>
   <string name="cancel_international">Abbrechen</string>
+  <string name="cancel_lockscreen">Abbrechen</string>
   <string name="change_time">Wechselintervall</string>
   <string name="day">jeden Tag</string>
   <string name="declaration">Genießen Sie kostenlose Abonnements zu den besten globalen Medien. Halten Sie sich auf dem Laufenden mit den neuesten Nachrichten, Filmstarts und Promiklatsch.</string>
@@ -16,7 +17,8 @@
   <string name="lockscreen_magazine_system_title">Standard</string>
   <string name="lockscreen_magazine_title">Tägliche Hintergrundbilder festlegen</string>
   <string name="minutes_15">15 Minuten</string>
-  <string name="no_long_show">"Nicht nochmal anzeigen"</string>
+  <string name="no_long_show">Nicht nochmal anzeigen</string>
+  <string name="ok_enable_network_prov">Zustimmen</string>
   <string name="ok_international">OK</string>
   <string name="ok_lockscreen">OK</string>
   <string name="ok_network">Zustimmen und aktivieren</string>
