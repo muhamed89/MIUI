@@ -117,7 +117,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="battery_capacity_title">Akkukapazität</string>
   <string name="battery_charge_estimating">Wird berechnet…</string>
   <string name="battery_charge_full">Geladen</string>
-  <string name="battery_charging_prompt">Wird geladen</string>
+  <string name="battery_charging_prompt">"Wird geladen "</string>
   <string name="battery_desc_apps">Akkuverbrauch durch App</string>
   <string name="battery_desc_bluetooth">Akkuverbrauch durch Bluetooth</string>
   <string name="battery_desc_display">Akkuverbrauch durch Bildschirm und Beleuchtung</string>
