@@ -5,7 +5,7 @@
   <string name="accessibility_battery_level">Akku %d Prozent.</string>
   <string name="accessibility_bluetooth_connected">Bluetooth verbunden.</string>
   <string name="accessibility_bluetooth_disconnected">Bluetooth nicht verbunden.</string>
-  <string name="accessibility_bluetooth_tether">Bluetoothtethering.</string>
+  <string name="accessibility_bluetooth_tether">Bluetooth tethering</string>
   <string name="accessibility_camera_button">Kamera</string>
   <string name="accessibility_clear_all">Alle Meldungen löschen.</string>
   <string name="accessibility_data_connection_3.5g">3.5G</string>
