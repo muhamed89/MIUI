@@ -2764,7 +2764,7 @@ Betriebssystem auswählen:"</string>
   <string name="repeat">Wiederholen</string>
   <string name="repeat_title">Wiederholen</string>
   <string name="reset_aaid">Werbe-ID zurücksetzen</string>
-  <string name="reset_app_preferences">App einstellungen zurücksetzen</string>
+  <string name="reset_app_preferences">Appeinstellungen zurücksetzen</string>
   <string name="reset_app_preferences_button">Apps zurücksetzen</string>
   <string name="reset_app_preferences_desc">"Folgende Einstellungen werden zurückgesetzt:
 
