@@ -105,9 +105,13 @@
   <string name="payment_info">Mi Credits</string>
   <string name="present_local_themes">Heruntergeladen</string>
   <string name="present_online_themes">Online</string>
+  <string name="provision_default_theme_title">Default</string>
+  <string name="provision_loading_tips">Einen Moment…</string>
+  <string name="provision_second_title">Wählen Sie aus 5 verschiedenen Standardthemen</string>
+  <string name="provision_title">Wählen Sie ein Thema</string>
   <string name="purchased_list">Gekauft</string>
   <string name="purchased_list_format">%1$s gekauft</string>
-   <string name="reload">Noch einmal versuchen</string>
+  <string name="reload">Noch einmal versuchen</string>
   <string name="resource_account_abnormal_state">Anmeldefehler. Versuchen Sie es später erneut.</string>
   <string name="resource_account_fail_to_add">Konto hinzufügen fehlgeschlagen</string>
   <string name="resource_account_login">Anmelden</string>
@@ -118,6 +122,7 @@
   <string name="resource_app_name">Quellenbrowser</string>
   <string name="resource_apply">Anwenden</string>
   <string name="resource_apply_trial">Testen</string>
+  <string name="resource_back">Zurück</string>
   <string name="resource_buy">Kaufen</string>
   <string name="resource_can_not_selected">%1$s kann nicht ausgewählt werden</string>
   <string name="resource_category">Kategorie</string>
@@ -158,6 +163,7 @@
   <string name="resource_comment_upload_not_bought">Sie müssen das Thema übernehmen bevor Sie ein Kommentar schreiben können</string>
   <string name="resource_comment_upload_not_logined">Bitte zuerst anmelden</string>
   <string name="resource_comment_upload_success">Kommentar gesendet! Ihr Kommentar wird nach einer kurzen Überprüfung angezeigt.</string>
+  <string name="resource_continue">Weiter</string>
   <string name="resource_default">Standardklingelton</string>
   <string name="resource_default_name">Quelle</string>
   <string name="resource_delete">Löschen</string>
