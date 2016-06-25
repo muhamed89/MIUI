@@ -811,7 +811,7 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="choose_timezone">Zeitzone wählen</string>
   <string name="choose_voice_input_title">Spracheingabe auswählen</string>
   <string name="cleaner">Bereinigung</string>
-  <string name="clear_activities">Auf Standard zurücksetzen</string>
+  <string name="clear_activities">Zurücksetzen</string>
   <string name="clear_activities_summary">Diese App für einige Aktionen als Standard setzen</string>
   <string name="clear_adb_keys">USB-Debugginggenehmigungen widerrufen</string>
   <string name="clear_cache_btn_text">Cache leeren</string>
@@ -2542,7 +2542,7 @@ Betriebssystem auswählen:"</string>
   <string name="pref_volume_wake_summary">Lautstärketasten drücken, um Telefon aufzuwecken.</string>
   <string name="pref_volume_wake_title">Lautstärketasten</string>
   <string name="preference_change_password_title">Passwort ändern</string>
-  <string name="preferred_app_settings">Standardappeinstellungen</string>
+  <string name="preferred_app_settings">Einstellungen</string>
   <string name="preferred_app_settings_default">Standard</string>
   <string name="preferred_app_settings_reset">Auf Standard zurücksetzen?</string>
   <string name="preferred_app_settings_reset_button">Zurücksetzen</string>
