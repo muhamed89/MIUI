@@ -152,14 +152,13 @@
   <string name="chat_skype">Über Skype chatten</string>
   <string name="chat_yahoo">Über Yahoo chatten</string>
   <string name="checkhint">Anderes Telefon überprüfen</string>
-  <string name="clear_copy_number_description">Kopierte Nummer löschen</string>
   <string name="clearCallLogConfirmation">Alle Anruflisten werden gelöscht</string>
   <string name="clearCallLogConfirmation_title">Alle Anruflisten löschen?</string>
   <string name="clearCallLogProgress_title">Anrufliste wird gelöscht…</string>
   <string name="clearFrequentsConfirmation">Wenn Sie die Liste der häufig kontaktieren Personen in den Kontakten und auf dem Telefon löschen, müssen Ihre E-Mailapps Ihre bevorzugten Adressen von Grund auf neu erlernen</string>
   <string name="clearFrequentsConfirmation_title">Häufig kontaktierte Personen löschen?</string>
   <string name="clearFrequentsProgress_title">Liste der häufig kontaktierten Personen wird gelöscht…</string>
-  <string name="clear_copy_number_description">Lösche kopierte Nummer</string>
+  <string name="clear_copy_number_description">Kopierte Nummer löschen</string>
   <string name="clear_default">Standardwerte löschen</string>
   <string name="clear_digits">Telefonnummer löschen</string>
   <string name="click_close">Zum Schließen berühren</string>
