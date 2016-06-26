@@ -50,6 +50,8 @@
   <string name="btn_delete_one_contact">Kontakt löschen</string>
   <string name="btn_split_contact">Separater Kontakt</string>
   <string name="button_cancel_scan">Abbrechen</string>
+  <string name="button_join_service_number">Service Nummer hinzufügen</string>
+  <string name="button_my_center">Profil</string>
   <string name="button_scan">Erneut Suchen</string>
   <string name="caching_vcard_message">vCard(s) zwischenspeichern…</string>
   <string name="caching_vcard_title">Zwischenspeichern</string>
@@ -157,6 +159,7 @@
   <string name="clearFrequentsConfirmation">Wenn Sie die Liste der häufig kontaktieren Personen in den Kontakten und auf dem Telefon löschen, müssen Ihre E-Mailapps Ihre bevorzugten Adressen von Grund auf neu erlernen</string>
   <string name="clearFrequentsConfirmation_title">Häufig kontaktierte Personen löschen?</string>
   <string name="clearFrequentsProgress_title">Liste der häufig kontaktierten Personen wird gelöscht…</string>
+  <string name="clear_copy_number_description">Lösche kopierte Nummer</string>
   <string name="clear_default">Standardwerte löschen</string>
   <string name="clear_digits">Telefonnummer löschen</string>
   <string name="click_close">Zum Schließen berühren</string>
@@ -259,6 +262,10 @@ Kontaktkarten sind ausgeschaltet.</string>
   <string name="customLabelPickerTitle">Eigener Labelname</string>
   <string name="custom_list_filter">Ansicht festlegen</string>
   <string name="custom_nickname_hint">Spitzname eingeben</string>
+  <string name="data_already_used">Verbrauchte Daten</string>
+  <string name="data_charge">Top up mobile data</string>
+  <string name="data_left">Verbleibende Daten</string>
+  <string name="data_unit">MB</string>
   <string name="date_picker_label">3 Tage vorher und an dem Tag erinnern</string>
   <string name="date_time_set">Speichern</string>
   <string name="date_year_toggle">Jahr angeben</string>
@@ -681,6 +688,7 @@ Grund: \"%s\"."</string>
   <string name="miprofile_finding_label">Hier finden Sie Kontaktkarten</string>
   <string name="miprofile_name">Mein Profil</string>
   <string name="miprofile_nick_name_divider">"  |  "</string>
+  <string name="miprofile_nick_name_edit">Editiere Karten Benutzername</string>
   <string name="miprofile_nick_name_edit_dialog_hint">Spitzname eingeben</string>
   <string name="miprofile_nick_name_edit_dialog_message">Spitzname wird in Anrufliste und Detail angezeigt</string>
   <string name="miprofile_nick_name_edit_dialog_title">Spitznamen bearbeiten</string>
@@ -830,6 +838,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
   <string name="openDialKeyboard">Telefon</string>
   <string name="open_contact">Kontakt ansehen</string>
+  <string name="open_dial_pad_description">Öffne Wähltastatur</string>
   <string name="option_delete_contact">Löschen</string>
   <string name="option_delete_group">Löschen</string>
   <string name="option_edit_contact">Ändern</string>
@@ -878,6 +887,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="phone_primary">Primär</string>
   <string name="photoPickerNotFoundText">Auf dem Telefon sind keine Bilder verfügbar</string>
   <string name="photo_fragment">Foto</string>
+  <string name="photo_labels_group">Profil Foto</string>
   <string name="photo_load_failed">Foto konnte nicht geladen werden</string>
   <string name="pick_new_photo">Neues Bild aus der Galerie auswählen</string>
   <string name="pick_photo">Bild aus der Galerie auswählen</string>
@@ -893,6 +903,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="picker_postal_title">Anschrift auswählen</string>
   <string name="picker_recent_list_empty">Keine neuen Kontakte</string>
   <string name="pkgLabel">Kontakte und Wähltasten</string>
+  <string name="play_add_incall_show_entry">Video abspielen oder hinzufügen</string>
   <string name="play_incall_show_entry">Video abspielen</string>
   <string name="postalLabelsGroup">Adresse</string>
   <string name="postal_address">Adresse</string>
@@ -1138,7 +1149,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="status_available">Verfügbar</string>
   <string name="status_away">Abwesend</string>
   <string name="status_busy">Beschäftigt</string>
-  <string name="storage_internal_description">Internal storage</string>
+  <string name="storage_internal_description">Interner Speicher</string>
   <string name="storage_sd_card">SD-Karte</string>
   <string name="storage_sd_card_description">SD-Karte</string>
   <string name="storage_usb_description">USB-Speicher</string>
