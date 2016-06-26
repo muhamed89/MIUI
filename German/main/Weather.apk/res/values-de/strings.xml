@@ -39,6 +39,8 @@
   <string name="aqi_detail_sub_title">Luftqualitätsdetails</string>
   <string name="aqi_detail_subtitle">AQI %1$s</string>
   <string name="aqi_detail_title">Luftqualitätx</string>
+  <string name="aqi_data_source">Unterstützt von Caiyun Weather</string>
+  <string name="aqi_publish_source">Aktualisiert um %1$s von CNEMC</string>
   <string name="aqi_publish_time">Aktualisiert %1$s</string>
   <string name="aqi_quality_index_break">AQI %1$s</string>
   <string name="aqi_quality_index_break_short_desc">%1$s</string>
@@ -60,11 +62,14 @@
   <string name="aqi_sub_desc">AQI</string>
   <string name="aqi_top_pollution">Maximale Verschmutzung</string>
   <string name="button_abandon">Veränderungen verwerfen</string>
+  <string name="button_add_city">Ort hinzufügen</string>     
   <string name="button_allow">OK</string>
   <string name="button_confirm">Erlauben</string>
   <string name="button_exit">Beenden</string>
   <string name="button_not_allow">Abbrechen</string>
+  <string name="button_sure_abandon">Änderungen verwerfen?</string>
   <string name="close">Schließen</string>
+  <string name="daily_forecast_detail_date">dd.MM.</string>
   <string name="daily_forcast_no_stable_direction">Windstill</string>
   <string name="daily_forcast_drawer_on_bottom">Verbergen</string>
   <string name="daily_forcast_drawer_on_top">Weitere Tage</string>
@@ -112,7 +117,7 @@
   <string name="information_views"/>
   <string name="install">Installieren</string>
   <string name="international_detail_menu_title">Details</string>
- <string name="international_details_pressure_title">Luftdruck</string>
+  <string name="international_details_pressure_title">Luftdruck</string>
   <string name="international_details_real_feel_title">Fühlt sich an wie</string>
   <string name="international_details_title">Details</string>
   <string name="international_details_uv_index_title">UV Index</string>
@@ -144,6 +149,7 @@
   <string name="network_unavailable">Verbindung zum Netzwerk nicht möglich</string>
   <string name="no_data">--</string>
   <string name="no_network_btn">Wiederholen</string>
+  <string name="open">Öffnen</string>
   <string name="open_browser">In Browser öffnen</string>
   <string name="settings_autoupdate_weather_summary">Wettervorschau automatisch aktualisieren</string>
   <string name="settings_autoupdate_weather_title">Automatisches Update</string>
@@ -192,11 +198,16 @@
   <string name="top_pollution_pm10">PM10</string>
   <string name="top_pollution_pm25">PM2.5</string>
   <string name="top_pollution_so2">SO2</string>
+  <string name="traffic_control_daty_after_tomorrow_numbers">Übermorgen: %1$s %2$s</string>
+  <string name="traffic_control_today_numbers">Heute: %1$s %2$s</string>
+  <string name="traffic_control_tomorrow_numbers">Morgen: %1$s %2$s</string>
+  <string name="traffic_controls">Fahrbeschränkungen</string>
   <string name="twc_logo_title"/>
   <string name="view_forecast_item_yesterday">Gestern</string>
   <string name="view_indexes_item_today">Heute</string>
   <string name="view_indexes_item_tommorrow">Morgen</string>
   <string name="view_indexes_wind_unit">km/h</string>
+  <string name="weather_alert">Wetterwarnungen</string>
   <string name="weather_unit">°</string>
   <string name="wind_unit">%1$s km/h</string>
   <string name="zodiac_aries">Widder</string>
