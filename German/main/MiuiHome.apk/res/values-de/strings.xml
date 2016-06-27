@@ -57,9 +57,6 @@
   <string name="confirm_uninstall_dialog_has_xspace_app_msg">Geklonte App wird deinstalliert und entfernt</string>
   <string name="confirm_uninstall_dialog_title">Die entsprechenden geklonten Apps werden entfernt</string>
   <string name="default_folder_title_claro">Claro</string>
-  <string name="default_folder_title_game">Spiele</string>
-  <string name="default_folder_title_recommend">Mehr Apps</string>
-  <string name="default_folder_title_security">System</string>
   <string name="default_folder_title_telcel">Telcel</string>
   <string name="current_preview">Vorschau</string>
   <string name="current_wallpaper">Aktuell</string>
