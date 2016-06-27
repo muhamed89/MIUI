@@ -50,7 +50,7 @@
   <string name="btn_delete_one_contact">Kontakt löschen</string>
   <string name="btn_split_contact">Separater Kontakt</string>
   <string name="button_cancel_scan">Abbrechen</string>
-  <string name="button_join_service_number">Service Nummer hinzufügen</string>
+  <string name="button_join_service_number">Servicenummer hinzufügen</string>
   <string name="button_my_center">Profil</string>
   <string name="button_scan">Erneut Suchen</string>
   <string name="caching_vcard_message">vCard(s) zwischenspeichern…</string>
@@ -185,7 +185,7 @@
   <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">Anruflisten löschen?</string>
   <string name="confirm_delete_selected_all_call_logs">Anruflisten löschen?</string>
-  <string name="confirm_delete_sim_entry_miui_title">SIM-Karte Löschen</string>
+  <string name="confirm_delete_sim_entry_miui_title">SIM-Karte löschen</string>
   <string name="confirm_export_message">Ihre Kontaktliste wird in die Datei \"%s\" exportiert</string>
   <string name="confirm_export_title">Kontakte exportieren?</string>
   <string name="connections">Verbindungen</string>
@@ -225,7 +225,7 @@ Kontaktkarten sind ausgeschaltet.</string>
   <string name="contact_detail_profile_switch_off_success_toast">Kontaktkarten sind aus</string>
   <string name="contact_detail_profile_switch_on">Profilfotos anzeigen</string>
   <string name="contact_detail_profile_switch_on_fail_toast">Kontaktkarten konnten eingeschaltet werden</string>
-  <string name="contact_detail_profile_switch_on_subtitle">Tippen, um Kontaktkarten zu aktivieren</string>
+  <string name="contact_detail_profile_switch_on_subtitle">Tippen um Kontaktkarten zu aktivieren</string>
   <string name="contact_detail_profile_switch_on_success_toast">Kontaktkarten sind bereits eingeschaltet</string>
   <string name="contact_directory_description">Verzeichnis %1$s</string>
   <string name="contact_edit_save_error_empty">Kontakt ist leer</string>
@@ -262,7 +262,7 @@ Kontaktkarten sind ausgeschaltet.</string>
   <string name="custom_list_filter">Ansicht festlegen</string>
   <string name="custom_nickname_hint">Spitzname eingeben</string>
   <string name="data_already_used">Verbrauchte Daten</string>
-  <string name="data_charge">Top up mobile data</string>
+  <string name="data_charge">Datenpaket aufladen</string>
   <string name="data_left">Verbleibende Daten</string>
   <string name="data_unit">MB</string>
   <string name="date_picker_label">3 Tage vorher und an dem Tag erinnern</string>
@@ -1243,7 +1243,7 @@ Wählen Sie eine der folgenden Optionen:"</string>
   <string name="yellowpage_navigation_no_content">Keine Treffer</string>
   <string name="yellowpage_navigation_search_city_name_hint">Stadt</string>
   <string name="yellowpage_navigation_search_history">Verlauf</string>
-  <string name="yellowpage_navigation_search_offline_hint">Sie sind Offline</string>
+  <string name="yellowpage_navigation_search_offline_hint">Sie sind offline</string>
   <string name="yellowpage_navigation_search_result_average_price">Durchschnittlich %d RMB</string>
   <string name="yellowpage_navigation_search_result_network_error">Keine Netzwerkverbindung</string>
   <string name="yellowpage_navigation_search_result_no_more">Keine weiteren Treffer</string>
