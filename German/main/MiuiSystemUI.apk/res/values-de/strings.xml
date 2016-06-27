@@ -20,6 +20,7 @@
   <string name="accessibility_data_three_bars">Daten 3 Balken.</string>
   <string name="accessibility_data_two_bars">Daten 2 Balken.</string>
   <string name="accessibility_home">Home</string>
+  <string name="accessibility_ime_switch_button">Wächsle Eingabemodus Button.</string>
   <string name="accessibility_managed_profile">Arbeitsprofil</string>
   <string name="accessibility_menu">Menü</string>
   <string name="accessibility_no_data">Kein Datenempfang.</string>
@@ -171,7 +172,10 @@ Bitte Ladegerät benutzen."</string>
   <string name="oldman_incall_text">incall</string>
   <string name="oldman_status_bar_time_format_12">h:mm</string>
   <string name="oldman_status_bar_time_format_24">HH:mm</string>
+  <string name="quick_settings_bluetooth_detail_empty_text">Keine Endgeräte vorhanden</string>
+  <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_connect_success">Verbunden</string>
+  <string name="quick_settings_connecting">Verbinden</string>
   <string name="quick_settings_done">Fertig</string>
   <string name="quick_settings_more_settings">Weitere Einstellungen</string>
   <string name="quick_settings_wifi_detail_empty_text">Keine WLAN-Netzwerke verfügbar</string>
@@ -179,6 +183,7 @@ Bitte Ladegerät benutzen."</string>
   <string name="quick_settings_wifi_nearby">Wählen Sie ein Netzwerk in der Nähe</string>
   <string name="recent_task_app_info_text">Appdetails</string>
   <string name="recent_task_lock_text">Taskmanager sperren</string>
+  <string name="recent_task_unlock_text">Taskmanager entsperrt</string>
   <string name="reject_call">Anruf ablehnen</string>
   <string name="return_to_incall_screen">Zurück zum Anruf</string>
   <string name="save_mode_btn_ok">OK</string>
