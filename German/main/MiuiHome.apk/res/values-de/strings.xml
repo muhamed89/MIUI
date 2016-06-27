@@ -57,6 +57,9 @@
   <string name="confirm_uninstall_dialog_has_xspace_app_msg">Geklonte App wird deinstalliert und entfernt</string>
   <string name="confirm_uninstall_dialog_title">Die entsprechenden geklonten Apps werden entfernt</string>
   <string name="default_folder_title_claro">Claro</string>
+  <string name="default_folder_title_game">Spiele</string>
+  <string name="default_folder_title_recommend">Mehr Apps</string>
+  <string name="default_folder_title_security">System</string>
   <string name="default_folder_title_telcel">Telcel</string>
   <string name="current_preview">Vorschau</string>
   <string name="current_wallpaper">Aktuell</string>
@@ -178,6 +181,7 @@
   <string name="mi_wallpaper">MIUI-Theme-Store</string>
   <string name="mtzgadget_missing_text">Widget nicht verfügbar</string>
   <string name="multi_selecting_tips">Icon berühren um App auszuwählen</string>
+  <string name="no_detail_page">Keine Details Seite</string>
   <string name="normal_wallpaper">Hintergrundbild</string>
   <string name="online_wallpaper">Online</string>
   <string name="out_of_space">Auf dem Startbildschirm ist kein Platz mehr vorhanden.</string>
@@ -212,6 +216,7 @@
   <string name="process"/>
   <string name="recommend_apps_default_title">Leer</string>
   <string name="recommend_apps_notice">Empfohlene Apps</string>
+  <string name="recommend_apps_notice_nodata">Empfolene Apps (Keine Daten)</string>
   <string name="recommend_apps_switch_title">Empfohlene Apps</string>
   <string name="recommend_apps_tips">Diese Funktion benötigt eine Internetverbindung. Tippen Sie auf den Ordnername um die Funktion auszuschalten.</string>
   <string name="reset_scene_prompt">Standardlayout zurücksetzen</string>
