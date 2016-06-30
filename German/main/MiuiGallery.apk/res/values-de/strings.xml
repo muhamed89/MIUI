@@ -595,7 +595,7 @@
   <string name="local_time">(Lokal)</string>
   <string name="location">Standort</string>
   <string name="locations">Standorte</string>
-  <string name="login_and_enable_service">Melden Sie sich an und verwenden Sie Mi Cloud</string>
+  <string name="login_and_enable_service">Melden Sie sich mit einem Mi Konto an</string>
   <string name="lomoish">Lomo</string>
   <string name="long_press_to_refocus">Berühren &amp; halten, um neu zu fokussieren</string>
   <string name="make_download_dir_fail">Ordner, zum Speichern der Dateien konnte nicht erstellt werden</string>
@@ -603,6 +603,11 @@
   <string name="manual">Handbuch</string>
   <string name="me">Ich</string>
   <string name="megabyteShort"> MB</string>
+  <string name="main_discard_confirm_message">Es gibt nicht gespeicherte Änderungen</string>
+  <string name="main_discard_negative_btn">Verwerfen</string>
+  <string name="main_discard_positive_btn">Speichern &amp; Beenden</string>
+  <string name="main_save_error_msg">Die Änderungen konnten aufgrund eines Fehlers nicht gespeichert werden</string>
+  <string name="megabyteShort">MB</string>
   <string name="menu_album_new_album">Neues Album</string>
   <string name="menu_item_sort">Sortieren</string>
   <string name="menu_item_sort_date">Datum</string>
@@ -838,6 +843,7 @@
   <string name="rename_failed_duplicated_name">Dateiname existiert bereits</string>
   <string name="renren_image">RenRen</string>
   <string name="rename_from_contact">Name von einem Kontakt</string>
+  <string name="renren_description">Zur Verfügung gestellt von RenRen</string>
   <string name="request_qr_code_failed">QR-Code konnte nicht abgerufen werden</string>
   <string name="request_sms_url_failed">Details konnten nicht abgerufen werden</string>
   <string name="request_sms_url_msg">Details werden angefordert…</string>
@@ -967,6 +973,9 @@
   <string name="storage_no_space">Nicht genügend Speicherplatz</string>
   <string name="straighten">Ausrichten</string>
   <string name="straighten_tooltip">Zum Ausrichten Foto ziehen</string>
+  <string name="sub_discard_confirm_message">Änderungen speichern?</string>
+  <string name="sub_discard_negative_btn">Verwerfen</string>
+  <string name="sub_discard_positive_btn">Speichern</string>
   <string name="success_create_quick_icon_on_desk">Erfolgreich erstellt</string>
   <string name="sync_album">Album synchronisieren</string>
   <string name="sync_album_error">Synchronisieren der Fotos aus diesem Album fehlgeschlagen. Versuchen Sie es später erneut.</string>
@@ -1072,6 +1081,9 @@
   <string name="video_editor_more">Erweitert</string>
   <string name="video_editor_not_support_tips">Videoformat wird nicht unterstützt</string>
   <string name="video_editor_ok">OK</string>
+  <string name="video_editor_res_download_failed_tips">Download fehlgeschlagen, überprüfen Sie die Einstellungen und versuchen Sie es noch einmal</string>
+  <string name="video_editor_res_download_mobil_network_confirm_msg">Soundtracks über die mobile Datenverbindung herunterladen?</string>
+  <string name="video_editor_res_download_mobil_network_confirm_title">Mobile Datenverbindung verwenden</string>
   <string name="video_editor_template_family">Familie</string>
   <string name="video_editor_template_forbidden_tips">Funktion kann bei einem Template nicht verwendet werden</string>
   <string name="video_editor_template_oldfilm">Alter Film</string>

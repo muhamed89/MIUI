@@ -12,6 +12,7 @@
   <string name="backup_finished_notification_content">Startbildschirm, Systemeinstellungen, etc. wurden gesichert</string>
   <string name="backup_now">Jetzt sichern</string>
   <string name="backup_size">Größe: %s</string>
+  <string name="backup_size_summary">Größe: %1$s</string>
   <string name="backup_success">Appsicherung erfolgreich</string>
   <string name="backup_successfully">Erfolgreich gesichert</string>
   <string name="backup_to_cloud">App sichern</string>

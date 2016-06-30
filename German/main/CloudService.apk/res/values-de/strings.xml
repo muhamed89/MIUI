@@ -231,6 +231,10 @@ Um dies zu beheben, können Sie entweder alte Dateien bereinigen, um Platz für 
   <string name="micloud_main_memory_low_message">"Zur Synchronisation löschen Sie einige Elemente in Ihrer Cloud."</string>
   <string name="micloud_main_memory_low_title">Ungenügend Speicher</string>
   <string name="micloud_main_message_not_synced">%s Daten, die nicht synchronisiert</string>
+  <string name="micloud_main_multi_user_error_message">"Sie sind mit dem selben Mi Konto im Hauptprofil angemeldet, dies hat einen Mi Cloud-Fehler verursacht. Wenn Sie Ihre Daten sichern möchten:
+ 1. Verwenden Sie ein anderes Konto.
+ 2. Verschieben Sie Ihre Daten ins Hauptprofil"</string>
+  <string name="micloud_main_multi_user_error_title">Mi Cloud-Fehler</string>
   <string name="micloud_main_network_abnormal">"Verbindung zum Netzwerk fehlgeschlagen"</string>
   <string name="micloud_main_network_error">"Verbindung zum Netzwerk fehlgeschlagen"</string>
   <string name="micloud_main_not_sync">%d Elemente warten auf Synchronisation</string>
