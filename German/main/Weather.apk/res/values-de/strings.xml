@@ -122,7 +122,7 @@
   <string name="international_details_title">Details</string>
   <string name="international_details_uv_index_title">UV Index</string>
   <string name="international_details_wind_connect">%1$s %2$s</string>
-  <string name="international_details_wind_title">WIND</string>
+  <string name="international_details_wind_title">Wind</string>
   <string name="locate_fail_detail_err">Standort kann nicht ermittelt werden. Tippen Sie auf den Button, um den Standort manuell hinzuzufügen oder es noch einmal zu versuchen</string>
   <string name="location_management">Standorte</string>
   <string name="location_tag">Lokalisieren</string>
