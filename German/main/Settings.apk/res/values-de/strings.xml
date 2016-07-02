@@ -790,7 +790,7 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="cellular_data_summary">Datennutzung über Mobilfunknetz zulassen</string>
   <string name="cellular_data_title">Mobile Daten</string>
   <string name="change">Ändern</string>
-  <string name="change_password">Sperrbildschirm ändern</string>
+  <string name="change_password">Bildschirmsperre ändern</string>
   <string name="change_security_lock">Andere Entsperrmethoden</string>
   <string name="change_storage">Speicher tauschen</string>
   <string name="charging_sounds_title">Ladetöne</string>
@@ -2467,7 +2467,7 @@ Betriebssystem auswählen:"</string>
   <string name="passpoint_content">%1$s Zugangsdaten</string>
   <string name="passpoint_label">Gespeichert via</string>
   <string name="passwordIncorrect">Das eingegebene Passwort ist falsch</string>
-  <string name="password_entrance_title">Sperrbildschirm</string>
+  <string name="password_entrance_title">Bildschrimsperre</string>
   <string name="password_guard">Passwort</string>
   <string name="performance_category">Leistung</string>
   <string name="permission_detail_info">Rechte Details</string>
@@ -3150,7 +3150,7 @@ Um Screenpinning zu nutzen:
   <string name="security_encryption_diaglog_continue">Weiter</string>
   <string name="security_encryption_is_used">Ein</string>
   <string name="security_encryption_title">Gerät mit Sperrbildschirmpasswort verschlüsseln</string>
-  <string name="security_keyguard_category_name">Bildschirmsperre</string>
+  <string name="security_keyguard_category_name">Sperrbildschirm</string>
   <string name="security_password_category_name">Passwort</string>
   <string name="security_passwords_title">Passwörter</string>
   <string name="security_patch">Androidsicherheitsupdate</string>
@@ -3832,7 +3832,7 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="turn_off_radio">Mobilfunkverbindung ausschalten</string>
   <string name="turn_off_security_lock">Sperre ausschalten</string>
   <string name="turn_on_radio">Radio einschalten</string>
-  <string name="turn_on_security_lock">Sperrbildschirm wählen</string>
+  <string name="turn_on_security_lock">Bildschirmsperre wählen</string>
   <string name="uicc_eject">UICC-Speicher auswerfen</string>
   <string name="uicc_eject_summary">Werfen Sie den UICC-Speicher aus, damit Sie Ihn sicher trennen können</string>
   <string name="uicc_format">Lösche UICC-Speicher</string>
