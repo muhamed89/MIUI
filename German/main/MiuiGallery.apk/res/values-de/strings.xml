@@ -602,7 +602,6 @@
   <string name="maker">Hersteller</string>
   <string name="manual">Handbuch</string>
   <string name="me">Ich</string>
-  <string name="megabyteShort"> MB</string>
   <string name="main_discard_confirm_message">Es gibt nicht gespeicherte Änderungen</string>
   <string name="main_discard_negative_btn">Verwerfen</string>
   <string name="main_discard_positive_btn">Speichern &amp; Beenden</string>
