@@ -556,7 +556,7 @@ Diese Seite verlassen?"</string>
   <string name="pref_security_show_security_warning_summary">Warnung bei Zertifikatsproblemen von Webseiten anzeigen</string>
   <string name="pref_set_homepage_to">Einstellen</string>
   <string name="pref_setting_title">Seiteneinstellungen</string>
-  <string name="pref_ua_string">User Agent</string>
+  <string name="pref_ua_string">Benutzeragent</string>
   <string name="pref_version_info">Versionsinfo</string>
   <string name="pref_volume_key_action">Blättern mit den Lautstärketasten</string>
   <string name="pref_weather_location_summary">"Wird von dem Wetter-Plugin des Browsers verwendet"</string>
