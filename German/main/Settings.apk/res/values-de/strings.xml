@@ -873,6 +873,7 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="connected_via_passpoint">Verbunden via %1$s</string>
   <string name="connected_via_wfa">Verbunden via WLAN-Assistent</string>
   <string name="connected_wifi">Verbunden</string>
+  <string name="connecting_to_vpn">Verbindung zum VPN</string>
   <string name="continue_all_caps">WEITER</string>
   <string name="contributors_title">Mitwirkende</string>
   <string name="controls_label">Steuerung</string>
