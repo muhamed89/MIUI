@@ -24,7 +24,7 @@
   <string name="add_event">Event hinzufügen</string>
   <string name="add_event_hint">Label eingeben</string>
   <string name="add_sharer">Benutzer hinzufügen</string>
-  <string name="add_to_album">Einem Album hinzufügen</string>
+  <string name="add_to_album">Album hinzufügen</string>
   <string name="add_to_album_bulk_result">%d fehlgeschlagen</string>
   <string name="add_to_album_exist">Foto existiert bereits im Album</string>
   <string name="add_to_album_failed">Hinzufügen zu Album fehlgeschlagen</string>
