@@ -478,7 +478,7 @@
   <string name="notification_headset_info">Tippen Sie hier, um die Einstellungen anzuzeigen.</string>
   <string name="notification_headset_settings">Kopfhörer angeschlossen</string>
   <string name="notification_need_wifi_for_size">Downloadgröße erfordert WLAN.</string>
-  <string name="notification_play_summary">Anzeige des aktuellen, nächsten Song und Lyrics auf Home-Bildschirm</string>
+  <string name="notification_play_summary">Anzeige des aktuellen, nächsten Song und Lyrics auf Startbildschirm</string>
   <string name="notification_play_title">Benachrichtigungs Widget</string>
   <string name="notification_recommend_summary">Weitere Informationen über neue Musiktrends und App-Promotions</string>
   <string name="notification_recommend_title">Wichtige Benachrichtigungen</string>
