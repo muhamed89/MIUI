@@ -93,7 +93,7 @@
   <string name="album_type_share">Geteiltes Album</string>
   <string name="album_type_system">Systemalbum</string>
   <string name="album_videos_name">Videos</string>
-  <string name="alert_secret_album_enter">Bekannt</string>
+  <string name="alert_secret_album_enter">Verstanden</string>
   <string name="alert_secret_album_message">Auf der Startseite nach unten ziehen um versteckte Alben anzuzeigen.</string>
   <string name="alert_secret_album_title">So zeigen Sie versteckte Alben an</string>
   <string name="albums">Alben</string>
