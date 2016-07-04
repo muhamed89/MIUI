@@ -181,7 +181,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="btn_text_power_cleanup">Gründliche Bereinigung</string>
   <string name="btn_text_quick_cleanup">Bereinigen</string>
   <string name="btn_text_quick_optimize">Optimieren</string>
-  <string name="btn_text_quick_save_power">Abkühlen</string>
+  <string name="btn_text_quick_save_power">optimieren</string>
   <string name="btn_text_quick_scan">Scannen</string>
   <string name="btn_text_start_check">Überprüfen</string>
   <string name="btn_text_stop">Anhalten</string>
