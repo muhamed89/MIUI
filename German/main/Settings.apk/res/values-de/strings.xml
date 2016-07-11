@@ -719,14 +719,6 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="build_number">Buildnummer</string>
   <string name="builtin_keyboard_settings_summary">Hardwaretastatureinstellungen</string>
   <string name="builtin_keyboard_settings_title">Hardwaretastatur</string>
-  <string name="keyguard_left_function_chooser_hint_text">Linke Verknüpfung auf %s geändert</string>
-  <string name="keyguard_left_function_chooser_title">App</string>
-  <string name="keyguard_left_function_title">Links</string>
-  <string name="keyguard_right_function_chooser_hint_text">Rechte Verknüpfung auf %s geändert</string>
-  <string name="keyguard_right_function_chooser_title">App</string>
-  <string name="keyguard_right_function_title">Rechts</string>
-  <string name="keyguard_shortcut_summary">Richten Sie zwei Verknüpfungen auf dem Sperrbildschirm ein</string>
-  <string name="keyguard_shortcut_title">Sperrbildschirmverknüpfungen</string>
   <string name="button_backup">Sicherung</string>
   <string name="button_disconnect_network">Netzwerk trennen</string>
   <string name="button_light_timeout">Tastenbeleuchtung bleibt an für</string>
