@@ -140,7 +140,8 @@
   <string name="miliao_account_login">Anmelden über MiTalk</string>
   <string name="mms_title">MMS</string>
   <string name="multi_select_title">%1$s ausgewählt</string>
-  <string name="multi_user_mode_dialog_message">Mi Mover kann im Mehrbenutzermodus nicht verwendet werden. Schalten Sie den Mehrbenutzermodus aus, um fortzufahren."</string>
+  <string name="multi_user_mode_backup_message">Backup kann im Mehrbenutzermodus nicht verwendet werden. Schalten Sie den Mehrbenutzermodus aus, um fortzufahren.</string>
+  <string name="multi_user_mode_dialog_message">Mi Mover kann im Mehrbenutzermodus nicht verwendet werden. Schalten Sie den Mehrbenutzermodus aus, um fortzufahren.</string>
   <string name="multi_user_mode_dialog_title">Sie sind im Mehrbenutzermodus</string>
   <string name="never">Niemals</string>
   <string name="new_backup">Sichern</string>

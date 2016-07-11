@@ -54,6 +54,7 @@ Tippen Sie auf das Plus, um einen Ordner anzulegen"</string>
   <string name="menu_mark_privacy">Verstecken</string>
   <string name="menu_move_to">Verschieben</string>
   <string name="menu_move_parent_folder">Übergeordneter Ordner</string>
+  <string name="menu_send_as_image">Als Bild senden</string>
   <string name="menu_send_to_desktop">Auf dem Startbildschirm hinzufügen</string>
   <string name="menu_send_wechat">An WeChat senden</string>
   <string name="menu_send_weibo">An Weibo senden</string>
@@ -107,6 +108,7 @@ Tippen Sie auf das Plus, um einen Ordner anzulegen"</string>
   <string name="sns_choose_quality_low">Niedrig</string>
   <string name="sns_choose_quality_title">Bildqualität wählen</string>
   <string name="sns_content_default">Foto teilen</string>
+  <string name="sns_desc_image_preview">Nachrichtenvorschau</string>
   <string name="sns_desc_preview_wechat">WeChat Nachrichtenvorschau</string>
   <string name="sns_desc_preview_weibo">Weibo Nachrichtenvorschau</string>
   <string name="sns_footer_text">Mit MIUI 7 erstellt</string>

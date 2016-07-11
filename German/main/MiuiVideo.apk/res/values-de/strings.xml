@@ -155,6 +155,7 @@
   <string name="file_error">Dateifehler</string>
   <string name="file_not_exist">Die Datei ist nicht vorhanden.</string>
   <string name="filter">Filter</string>
+  <string name="finish_install">Erfolgreich installiert</string>
   <string name="forecast">Wetter</string>
   <string name="forecast_empty_hint">Leer</string>
   <string name="forecasts">Wetter</string>

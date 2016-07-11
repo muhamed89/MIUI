@@ -262,7 +262,8 @@ Um Rootzugriff zu erhalten müssen Sie die Entwicklerversion von MIUI installier
   <string name="Privacy_App_Uninstall">Entfernen</string>
   <string name="Privacy_Perm_Count">%1$d zugelassen | %2$d verweigert</string>
   <string name="Su_Enable_Dialog">%1$s fordert Rootzugriff an.</string>
-  <string name="Su_Package_Forbidden">%1$s hat keinen Rootzugriff.</string>
+  <string name="Su_Package_Forbidden">%1$s hat keinen Rootzugriff</string>
+  <string name="Su_Package_Forbidden2">hat keinen Rootzugriff</string>
   <string name="Su_Unavailable">Rootzugriff ist in der Stable-Version von MIUI nicht verfügbar. Sie müssen die Entwickler-Version von MIUI installieren, um Rootzugriff zu erhalten.</string>
   <string name="SysOpt_Boost_AutoStart">Autostartberechtigungen</string>
   <string name="SysOpt_Boost_AutoStart_Group">Autostart</string>
@@ -285,6 +286,7 @@ Um Rootzugriff zu erhalten müssen Sie die Entwicklerversion von MIUI installier
   <string name="permission_request_title">Berechtigungsverwaltung</string>
   <string name="permission_warning_template">Zulassen %1$s von %2$s ?</string>
   <string name="permisson_reject_notice_toast_text">"\"%1$s\" hat keinen Zugriff auf \"%2$s\". Sie können die App-Berechtigungen jederzeit unter Sicherheit > Berechtigungen ändern."</string>
+  <string name="permisson_reject_notice_toast_text2">hat keinen Zugriff auf %1$s</string>
   <string name="screen_overlay_button">Einstellungen</string>
   <string name="screen_overlay_message">Um diese Berechtigungseinstellung zu ändern, müssen Sie die Bildschirmüberlagerung zuerst unter Einstellungen > Apps ausschalten</string>
   <string name="screen_overlay_title">Bildschirmüberlagerung erkannt</string>
