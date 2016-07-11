@@ -114,6 +114,7 @@
   <string name="confirm_on">OK</string>
   <string name="connect_to_retry">"Kann mit dem Netzwerk nicht verbunden werden. Bitte Verbindung überprüfen und nochmal probieren."</string>
   <string name="connected">Verbunden</string>
+  <string name="connected_stb">Set-Top-Box</string>
   <string name="continue_to_add_other_rc">Mehr Geräte hinzufügen</string>
   <string name="control_vol_by_cellphone">Gerät zur Lautstärkenregulierung benutzen</string>
   <string name="controller_invalid">Fernbedienung nicht vorhanden</string>
