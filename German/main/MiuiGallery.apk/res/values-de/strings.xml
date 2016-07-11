@@ -702,7 +702,8 @@
   <string name="operation_disable_auto_upload">Autom. Backup deaktivieren</string>
   <string name="operation_download">Foto herunterladen (%s)</string>
   <string name="operation_edit">Bearbeiten</string>
-  <string name="operation_enable_auto_upload">Autom. Backup aktivieren</string>  
+  <string name="operation_enable_auto_upload">Autom. Backup aktivieren</string>
+  <string name="operation_enter_delete_local">Bereits gesicherte Fotos und Videos vom Gerät löschen</string>
   <string name="operation_enter_delte_thumbnail">Fotos und Videos löschen, die bereits in der Mi Cloud gesichert wurden</string>
   <string name="operation_failed">Aktion fehlgeschlagen</string>
   <string name="operation_force_top">Anheften</string> 
