@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="action_settings">Einstellungen</string>
+     <string name="activity_title_fakecell">Fake-Base-Schutz</string>
+     <string name="app_name">Funktionen Base-Systemen</string>
+     <string name="first_function">Chip identifizieren und eine Verbindung zu Fake-Base verhindern</string>
+     <string name="hello_world">Hallo Welt!</string>
+     <string name="point">Risikohinweis : Es ist möglich, dass das Telefon kein Signal in abgelegenen Gebieten empfangen wird</string>
+     <string name="restart_details">Um Fake-Base-Schutz zu aktivieren, ist es erforderlich das Telefon neu zu starten. Soll das Telefon jetzt neu gestartet werden?</string>
+     <string name="restart_later">Später neu starten</string>
+     <string name="restart_now">Jetzt neu starten</string>
+     <string name="second_function">Benutzedefiniert</string>
+     <string name="start_protect">Aktiviere Fake-Base-Schutz</string>
+     <string name="stop_protect">Deaktiviere Fake-Base-Schutz</string>
+</resources>
