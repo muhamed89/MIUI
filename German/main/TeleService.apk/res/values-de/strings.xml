@@ -729,7 +729,7 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="livetalk_sim_card_not_activated">Diese Karte ist nicht aktiviert</string>
   <string name="livetalk_terms_conditions">Geschäftsbedingungen</string>
   <string name="livetalk_unavaiable_info">Dieser Dienst ist zur Zeit nicht verfügbar</string>
-  <string name="livetalk_user_config_title">Aktiviere SIM Karte</string>
+  <string name="livetalk_user_config_title">SIM-Verifikation</string>
   <string name="livetalk_version">Prepaidpaket Version 0.9 | Beta</string>
   <string name="livetalk_welcome_description_text">"•Sparen Sie 70% auf Ihre Gesprächsgebühren.
 • Rufen Sie jedes Telefon an, es gibt keine Einschränkungen.
@@ -890,6 +890,7 @@ Werde stattdessen bevorzugtes Netzwerk nutzen."</string>
   <string name="no_internet_available_title">Keine Internetverbindung</string>
   <string name="no_more">Keine mehr</string>
   <string name="no_product_list">Leer</string>
+  <string name="no_number">Keine Telefonnummer</string>
   <string name="no_sim_card">Insert SIM card</string>
   <string name="no_sip_account_found">Auf diesem Telefon befinden sich keine Konten für Internetanrufe. Möchten Sie jetzt ein Konto hinzufügen?</string>
   <string name="no_sip_account_found_title">Kein Konto für Internetanrufe</string>
@@ -1298,6 +1299,7 @@ Ihre SIM-Karte wird nach einem weiteren gescheiterten Versuch gelöscht</string>
   <string name="sim_unknown">Unknown</string>
   <string name="sim_unlock_failed">Entsperren der SIM fehlgeschlagen</string>
   <string name="sim_unlock_success">SIM erfolgreich entsperrt</string>
+  <string name="sim_useless">SIM nicht verfügbar</string>
   <string name="sip_account_list">SIP-Konten</string>
   <string name="sip_accounts">VOIP (SIP) Konten</string>
   <string name="sip_accounts_title">SIP-Konten</string>

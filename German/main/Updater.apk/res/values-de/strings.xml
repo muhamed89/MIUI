@@ -72,6 +72,9 @@
   <string name="current_version_text">Aktuelle Version</string>
   <string name="current_version_update_monthly_build">Auf monatlichen Build aktualisieren</string>
   <string name="daily_build">Nightly</string>
+  <string name="dialog_reboot_message">MIUI wird aktualisiert. Dieser Vorgang dauert 5-20 Minuten. Lassen Sie Ihr Gerät eingeschaltetund starten Sie es nicht neu, während die Aktualisierung läuft.</string>
+  <string name="dialog_reboot_title">Systemupdate</string>
+  <string name="dialog_reboot_yes">Update</string>
   <string name="download_again">Erneut versuchen</string>
   <string name="download_cancel">Abbrechen</string>
   <string name="download_current_rom">Neustart durchführen, damit das Update übernommen werden </string>
@@ -124,8 +127,8 @@
   <string name="miui_summary_has_new_version">" Update verfügbar "</string>
   <string name="miui_summary_no_new_version">Keine Updates verfügbar</string>
   <string name="miui_summary_now_version">"Verbindung kann nicht aufgebaut werden"</string>
-  <string name="miui_summary_slogan">" "</string>
-  <string name="miui_summary_updating">"  Aktualisiere…  "</string>
+  <string name="miui_summary_slogan">"  Vereinfachen Sie Ihr Leben  "</string>
+  <string name="miui_summary_updating">"  Wird aktualisiert…  "</string>
   <string name="monthly_build">Monatlich</string>
   <string name="my_best_update">Bestes Update</string>
   <string name="my_expect_update">Erwartungen</string>

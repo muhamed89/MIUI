@@ -11,6 +11,8 @@
   <string name="function_settings">Funktionseinstellungen</string>
   <string name="hide_touch_assistant">Berührungsassistenten automatisch verbergen</string>
   <string name="hide_touch_assistant_intro">Berührungsassistenten in ausgewählten Apps verbergen</string>
+  <string name="hide_when_fullscreen">Im Vollbildmodus ausblenden</string>
+  <string name="hide_when_fullscreen_intro">Ausblenden, wenn der Vollbildmodus aktiviert wird</string>
   <string name="motion_behavior">Bewegungsmodus</string>
   <string name="name_alipay_payment_code">Alipay Schenllzahlung</string>
   <string name="name_alipay_scan">Alipay Scancode</string>
