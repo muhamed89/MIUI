@@ -125,7 +125,7 @@ Bitte Ladegerät benutzen."</string>
   <string name="label_view">Anzeigen</string>
   <string name="lland">L Land</string>
   <string name="lockscreen_carrier_default">Kein Dienst</string>
-  <string name="long_screenshot_not_support_msg">Aktuelle App unterstützt keinen Screenshot</string>
+  <string name="long_screenshot_not_support_msg">Aktuelle App unterstützt keinen Bildlauf</string>
   <string name="long_screenshot_out_of_memory_error">Fehlgeschlagen, das Bild ist zu groß</string>
   <string name="long_screenshot_processing">Wird bearbeitet…</string>
   <string name="long_screenshot_stop">Stop</string>
@@ -196,7 +196,7 @@ Bitte Ladegerät benutzen."</string>
   <string name="screen_pinning_title">Bildschirm ist gepinnt</string>
   <string name="screenshot_edit">Bearbeiten</string>
   <string name="screenshot_failed_text">"Screenshot konnte nicht gespeichert werden (zu wenig Speicher oder von der App verweigert)."</string>
-  <string name="screenshot_long_screenshot">Länger aufnehmen</string>
+  <string name="screenshot_long_screenshot">Bildlauf</string>
   <string name="screenshot_send">Senden</string>
   <string name="screenshot_saved_text">Zum Anzeigen antippen</string>
   <string name="screenshot_saved_title">Screenshot erstellt</string>
