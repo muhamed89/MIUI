@@ -207,7 +207,7 @@
   <string name="picking_participant">Kontaktinfo erhalten…</string>
   <string name="private_num">Private Nummer</string>
   <string name="respond_via_sms_custom_message">Schreibe deine eigene...</string>
-  <string name="select_audio_dialog_title">Please select answering mode</string>
+  <string name="select_audio_dialog_title">Bitte wählen Sie einen Gesprächsmodus</string>
   <string name="select_one_sim_title">Nur SIM %1$d kann verwendet werden</string>
   <string name="select_sim_hint">SIM %2$d kann nicht verwendet werden während SIM %1$d verwendet wird"</string>
   <string name="select_voice_call_sim">Wähle SIM-Karte</string>
