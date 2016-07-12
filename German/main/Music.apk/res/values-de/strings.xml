@@ -41,7 +41,8 @@
   <string name="all_music">Alle Titel</string>
   <string name="all_tracks">Alle Titel</string>
   <string name="all_tracks_short">Alle Titel</string>
-  <string name="already_download">Wird heruntergeladen, bitte warten...</string>
+  <string name="already_download">Wird heruntergeladen, bitte warten…</string>
+  <string name="already_download_btn">Wird heruntergeladen…</string>
   <string name="already_favorited">Bereits zu Favoriten hinzugefügt</string>
   <string name="android_sdk_too_low">"Die Androidversion ist veraltet, Musik kann nicht aktualisiert werden. Bitte führen Sie ein Update durch."</string>
   <string name="app_downloads">%s Downloads</string>
@@ -186,10 +187,12 @@
   <string name="download_cloud_error_retryable">Mi Cloudfehler, versuchen Sie später noch einmal.</string>
   <string name="download_cloud_error_unknow">"Konnte keine Verbindung zur Mi Cloud hergestellt werden."</string>
   <string name="download_complete">Download abgeschlossen</string>
-  <string name="download_complete_start_install">Download abgeschlossen, Installation beginnt...</string>
+  <string name="download_complete_btn">Installiert…</string>
+  <string name="download_complete_start_install">Download abgeschlossen, Installation beginnt…</string>
   <string name="download_completed">Heruntergeladen</string>
   <string name="download_confirm_button_text">Installieren</string>
   <string name="download_confirm_text">Mi Musik lädt und installiert %s</string>
+   <string name="download_done_btn">Heruntergeladen</string>
   <string name="download_error">Fehlgeschlagen</string>
   <string name="download_error_insufficient_space">Zu wenig Speicherplatz</string>
   <string name="download_filesize_unknown">Unbekannt</string>
@@ -218,6 +221,7 @@
   <string name="download_share_dialog">Teilen mit</string>
   <string name="download_speed_null"/>
   <string name="download_start">Starte Download…</string>
+  <string name="download_start_btn">Freier Download…</string>
   <string name="download_success">Fertig</string>
   <string name="download_title">Downloads</string>
   <string name="download_title_sorted_by_date">Downloads - sortiert nach Datum</string>

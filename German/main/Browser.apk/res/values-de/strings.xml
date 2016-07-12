@@ -291,6 +291,9 @@
   <string name="find_on_page_next">Weiter</string>
   <string name="find_on_page_prev">Zurück</string>
   <string name="find_previous">Vorheriges suchen</string>
+  <string name="force_quick_search_title">Suche</string>
+  <string name="force_touch_bookmark_history_title">Lesezeichen und Verlauf</string>
+  <string name="force_touch_infoflow_title">Neuigkeiten</string>
   <string name="geolocation_permissions_prompt_dont_share">Ablehnen</string>
   <string name="geolocation_permissions_prompt_message">%s möchte auf Ihren Standort zugreifen</string>
   <string name="geolocation_permissions_prompt_remember">Einstellungen merken</string>

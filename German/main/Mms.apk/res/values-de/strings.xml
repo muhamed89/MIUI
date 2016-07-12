@@ -186,6 +186,7 @@
   <string name="file_title">Name:</string>
   <string name="file_width_height">Größe:</string>
   <string name="flatshow_page_no">%1$d</string>
+  <string name="force_touch_new_message_title">Neue Nachricht</string>
   <string name="follow_finished">Sie folgen dieser Nummer</string>
   <string name="follow_forbidden">Sie können dieser Nummer nicht folgen</string>
   <string name="forward_from">Weitergeleitet von:</string>

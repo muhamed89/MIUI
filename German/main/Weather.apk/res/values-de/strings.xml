@@ -25,6 +25,7 @@
   <string name="activity_weathermain_locationg">Lokalisieren…</string>
   <string name="activity_weathermain_locationg_error">"Konnte nicht lokalisiert werden"</string>
   <string name="add_city">Hinzufügen</string>
+  <string name="alert_warning">Wetterwarnnug</string>
   <string name="app_name">Wetter</string>
   <string name="app_version">Version: %s</string>
   <string name="aqi_desc">Luftqualität</string>
@@ -39,6 +40,7 @@
   <string name="aqi_detail_sub_title">Luftqualitätsdetails</string>
   <string name="aqi_detail_subtitle">AQI %1$s</string>
   <string name="aqi_detail_title">Luftqualitätx</string>
+  <string name="aqi_detail_unit">Einheit:µg/m3(CO:mg/m3)</string>
   <string name="aqi_data_source">Unterstützt von Caiyun Weather</string>
   <string name="aqi_publish_source">Aktualisiert um %1$s von CNEMC</string>
   <string name="aqi_publish_time">Aktualisiert %1$s</string>
@@ -69,6 +71,7 @@
   <string name="button_not_allow">Abbrechen</string>
   <string name="button_sure_abandon">Änderungen verwerfen?</string>
   <string name="close">Schließen</string>
+  <string name="commercial">Kommerziell</string>
   <string name="daily_forecast_detail_date">dd.MM.</string>
   <string name="daily_forcast_no_stable_direction">Windstill</string>
   <string name="daily_forcast_drawer_on_bottom">Verbergen</string>
@@ -90,6 +93,7 @@
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="hourly_forcast_now">Jetzt</string>
   <string name="hourly_forecast_title">%1$s-Stunden-Vorschau</string>
+  <string name="index_item_install_now">Jetzt installieren</string>
   <string name="indices_desc_Precip1hr">%1$s mm</string>
   <string name="indices_desc_feel">Fühlt sich wie %1$s°C an</string>
   <string name="indices_desc_feel_without_pic">%1$s°C</string>
@@ -113,6 +117,7 @@
   <string name="information_manager_information">Wetterinformation</string>
   <string name="information_manager_wlan">Laden wenn mit WLAN verbunden</string>
   <string name="information_menu_title"/>
+  <string name="information_set">Information</string>
   <string name="information_time_source">%1$s | %2$s</string>
   <string name="information_views"/>
   <string name="install">Installieren</string>
@@ -151,6 +156,12 @@
   <string name="no_network_btn">Wiederholen</string>
   <string name="open">Öffnen</string>
   <string name="open_browser">In Browser öffnen</string>
+  <string name="retry">Wiederholen</string>
+  <string name="set">Einstellungen</string>
+  <string name="set_degree_centigrade">°C</string>
+  <string name="set_fahrenheit">°F</string>
+  <string name="set_kilometre">km/h</string>
+  <string name="set_land_mile">mph</string>
   <string name="settings_autoupdate_weather_summary">Wettervorschau automatisch aktualisieren</string>
   <string name="settings_autoupdate_weather_title">Automatisches Update</string>
   <string name="settings_category_units">Einheiten</string>
@@ -203,6 +214,9 @@
   <string name="traffic_control_tomorrow_numbers">Morgen: %1$s %2$s</string>
   <string name="traffic_controls">Fahrbeschränkungen</string>
   <string name="twc_logo_title"/>
+  <string name="unit">Einheit</string>
+  <string name="unit_temperature">Temperatureinheit</string>
+  <string name="unit_wind">Windgeschwindigkeitseinheit</string>
   <string name="view_forecast_item_yesterday">Gestern</string>
   <string name="view_indexes_item_today">Heute</string>
   <string name="view_indexes_item_tommorrow">Morgen</string>
