@@ -25,7 +25,7 @@
   <string name="activity_weathermain_locationg">Lokalisieren…</string>
   <string name="activity_weathermain_locationg_error">"Konnte nicht lokalisiert werden"</string>
   <string name="add_city">Hinzufügen</string>
-  <string name="alert_warning">Wetterwarnnug</string>
+  <string name="alert_warning">Wetterwarnung</string>
   <string name="app_name">Wetter</string>
   <string name="app_version">Version: %s</string>
   <string name="aqi_desc">Luftqualität</string>
