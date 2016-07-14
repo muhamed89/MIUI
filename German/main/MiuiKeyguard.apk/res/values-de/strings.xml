@@ -12,7 +12,7 @@
   <string name="experimental_validate_progress">Anmelden…</string>
   <string name="experimental_validate_thanks">Danke!</string>
   <string name="experimental_validate_username">Benutzername</string>
-  <string name="experimental_validate_warning">Danke, dass Sie uns helfen, MIUI zu verbessern!</string>
+  <string name="experimental_validate_warning">Danke, dass Sie uns helfen MIUI zu verbessern!</string>
   <string name="find_device_turn_off_flight_mode">Flugmodus ausschalten</string>
   <string name="fingerprint_lockout_msg">Warten Sie eine Minute. Versuchen Sie es danach nochmals, per Fingerabdruck zu entsperren</string>
   <string name="fingerprint_not_identified_msg">Um Ihr Gerät zu entsperren, geben Sie Ihr Passwort ein.</string>
@@ -49,7 +49,7 @@
   <string name="lockscreen_glogin_submit_button">Anmelden</string>
   <string name="login_website_in_case_forget_password">Besuchen Sie www.mi.com/micloud, um das Kennwort zurückzusetzen</string>
   <string name="missed_call_text">%d entgangene Anrufe</string>
-  <string name="miui_keyguard_ble_unlock_succeed_msg">Mit Bluetooth Gerät entsperrt</string>
+  <string name="miui_keyguard_ble_unlock_succeed_msg">Mit Bluetoothgerät entsperrt</string>
   <string name="notification_missedCallTicker">Entgangener Anruf von %s</string>
   <string name="notification_missedCallTitle">Entgangener Anruf</string>
   <string name="notification_missedCall_call_back">Zurückrufen</string>
