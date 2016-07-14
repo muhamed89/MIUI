@@ -5,7 +5,7 @@
   <string name="IZat_MENU_TEXT">Beschleunigte Standortsuche</string>
   <string name="IZat_SUB_TITLE_TEXT">Benutze Qualcomm® IZat™ Hardware beschleunigte Standortsuche</string>
   <string name="POLICY_LINK">&lt;a href=\"http://xt.qsp.qualcomm.com/privacy/privacy_policy.html\"&gt;AGB und Datenschutz&lt;/a&gt;</string>
-  <string name="POPUP_BOX_TEXT">Um Hardware Beschleunigung einzuschalten, erlaube IZat Positionsdaten zu sammeln. IZat speichert lokal einige Daten, auch wenn keine App verwendet wird.</string>
-  <string name="POPUP_BOX_TITLE">Ortung Zustimmung</string>
+  <string name="POPUP_BOX_TEXT">Um die Hardwarebeschleunigung einzuschalten, erlaube IZat Positionsdaten zu sammeln. IZat speichert lokal einige Daten, auch wenn keine App verwendet wird.</string>
+  <string name="POPUP_BOX_TITLE">Ortungszustimmung</string>
   <string name="XT_APP_TITLE">Qualcomm IZat</string>
 </resources>
