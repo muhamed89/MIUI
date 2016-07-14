@@ -52,6 +52,9 @@
   <string name="edit_systemtime">Systemzeit bearbeiten</string>
   <string name="elapsed_time_format">+%s</string>
   <string name="every_day">Täglich</string>
+  <string name="force_touch_add_alarm">Wecker hinzufügen</string>
+  <string name="force_touch_enter_stopwatch">Stoppuhr</string>
+  <string name="force_touch_enter_timer">Timer</string>
   <string name="full_wday_month_day_no_year">EEEE, d. MMMM</string>
   <string name="hour">1 Stunde</string>
   <string name="hour_unit">Std +</string>
