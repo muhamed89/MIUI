@@ -36,7 +36,7 @@
   <string name="cancel_running_download">Abbrechen</string>
   <string name="cancle">Abbrechen</string>
   <string name="choose_open_time">"Startzeit auswählen"</string>
-  <string name="clear_data">Lösche</string>
+  <string name="clear_data">Löschen</string>
   <string name="complete_time">Fertig:</string>
   <string name="confirm">OK</string>
   <string name="confirm_delete_downloads_message">%d Downloads werden gelöscht.</string>
@@ -305,7 +305,7 @@
   <string name="shortcut_dialog_content">Verknüpfungen auf dem Startbildschirm erstellen, um direkt nach Quellen zu suchen.</string>
   <string name="shortcut_dialog_create">Erstellen</string>
   <string name="shortcut_dialog_title">Verknüpfung auf dem Startbildschirm erstellen?</string>
-  <string name="show_more">Zeige %s mehr</string>
+  <string name="show_more">%s weitere anzeigen</string>
   <string name="sniff_associate_text">Tippen Sie auf das Schlüsselwort weiter unten um mehr Quellen zu finden</string>
   <string name="sniff_bt_text">Torrentdatei</string>
   <string name="sniff_btn_text">Quelle</string>

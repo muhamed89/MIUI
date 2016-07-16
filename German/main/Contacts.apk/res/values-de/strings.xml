@@ -356,12 +356,15 @@ Kontaktkarten sind ausgeschaltet.</string>
   <string name="dial">Wählen</string>
   <string name="dialerDialpadHintText">Nummer wählen</string>
   <string name="dialerIconLabel">Kürzlich</string>
-  <string name="dialerKeyboardHintText">Mit Hilfe der Tastatur wählen</string>
+  <string name="dialerKeyboardHintText">Mit Hilfe der Tastatur wählen</string>  
   <string name="dialer_addAnotherCall">Anruf hinzufügen</string>
+  <string name="dialer_copy_view_delete_description">Kopierte Nummer löschen</string>
+  <string name="dialer_digits_copy_number_label">Kopierte Nummer</string>
   <string name="dialer_empty_text_loading">Einen Moment…</string>
   <string name="dialer_empty_text_no_call_log">Keine Anrufe</string>
   <string name="dialer_empty_text_no_search_result">Keine Kontakte gefunden</string>
   <string name="dialer_menu_description">Antippen, um das Wählmenü zu öffnen</string>
+  <string name="dialer_menu_title">Optionen</string>
   <string name="dialer_returnToInCallScreen">Zurück zum aktuellen Gespräch</string>
   <string name="dialer_useDtmfDialpad">Tonwahltastatur verwenden</string>
   <string name="dialog_import">Kontakte importieren</string>

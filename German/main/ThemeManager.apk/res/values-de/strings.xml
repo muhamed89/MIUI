@@ -290,7 +290,7 @@
   <string name="resource_title_local">Offline</string>
   <string name="resource_title_rank">Top Charts</string>
   <string name="resource_title_select_ringtone">Klingelton auswählen</string>
-  <string name="resource_title_subject">Hervorgehoben</string>
+  <string name="resource_title_subject">Empfohlen</string>
   <string name="resource_trial_days">Testversion : %1$d Tage</string>
   <string name="resource_trial_days_hours">Testversion :%1$d Tage %2$d Stunden</string>
   <string name="resource_trial_end_message">Testversion von %1$s abgelaufen. Wenn Sie möchten, kaufen Sie es bitte.</string>
