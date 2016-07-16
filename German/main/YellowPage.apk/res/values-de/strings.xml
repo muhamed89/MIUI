@@ -235,7 +235,7 @@ Bitte überprüfen Sie Ihre Paketnummer."</string>
   <string name="menu_delete_one">Aus der Anrufliste entfernen</string>
   <string name="menu_enroll_in_yellow_page">Melden Sie sich für die Gelben Seiten an</string>
   <string name="menu_follow_yellow_page">Folgen</string>
-  <string name="menu_remove_black_list">Aus der Blockliste entfernen</string>
+  <string name="menu_remove_black_list">Aus der Sperrliste entfernen</string>
   <string name="menu_remove_from_favorite">Aus den Favoriten entfernen</string>
   <string name="menu_save_contact">Kontakt Nummer speichern</string>
   <string name="menu_unfollow_yellow_page">Entfolgen</string>
