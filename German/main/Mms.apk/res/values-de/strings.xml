@@ -59,7 +59,7 @@
   <string name="cannot_resend_audio">Aufnahme konnte nicht gesendet werden</string>
   <string name="cannot_send_message">Nachricht kann nicht gesendet werden</string>
   <string name="cannot_send_message_reason">Für die Nachricht sind keine gültigen Empfänger vorhanden.</string>
-  <string name="card_insert_to_contact">Kontakte Importieren</string>
+  <string name="card_insert_to_contact">Kontakte importieren</string>
   <string name="change_duration_activity">Dauer ändern</string>
   <string name="check_all">Alle</string>
   <string name="chenghu_disable_mms">Spitznamen können in MMS nicht verwendet werden</string>
@@ -71,7 +71,7 @@
   <string name="cloud_state_syncing">Synchronisiere mit Mi Cloud…</string>
   <string name="compressing">Bild zu groß. Wird komprimiert…</string>
   <string name="confirm">OK</string>
-  <string name="confirm_add_blacklist_dialog_dspt">Nummer zur Blockliste hinzufügen?</string>
+  <string name="confirm_add_blacklist_dialog_dspt">Nummer zur Sperrliste hinzufügen?</string>
   <string name="confirm_delete_SIM_message">SIM-Nachricht löschen?</string>
   <string name="confirm_delete_all_SIM_messages">Alle SIM-Nachrichten löschen?</string>
   <string name="confirm_delete_all_conversations">Alle Unterhaltungen löschen?</string>
@@ -89,11 +89,11 @@
   <string name="confirm_no_block_title">Nummer nicht blockieren und alle Nachrichten wiederherstellen?</string>
   <string name="confirm_rate_limit">Es werden mehrere MMS versendet. Möchten Sie fortfahren?</string>
   <string name="confirm_restore_all_title">Alle Nachrichten dieser Nummer wiederherstellen?</string>
-  <string name="confirm_restore_checkbox">Geblockte Nachrichten wiederherstellen</string>
+  <string name="confirm_restore_checkbox">Blockierte Nachrichten wiederherstellen</string>
   <string name="confirm_restore_message">Ausgewählte Nachrichten wiederherstellen?</string>
   <string name="confirm_restore_positive">Wiederherstellen</string>
   <string name="confirm_restore_title">Alle ausgewählten Nachrichten wiederherstellen?</string>
-  <string name="confirm_send_mms">Einer Ihrer Empfänger enthält eine E-Mail-Adresse. Diese Nachricht wird als MMS gesendet, was zu erhöhten Kosten führen kann.</string>
+  <string name="confirm_send_mms">Einer Ihrer Empfänger enthält eine E-Mailadresse. Diese Nachricht wird als MMS gesendet, was zu erhöhten Kosten führen kann.</string>
   <string name="context_menu_add_calendar">Im Kalender anzeigen</string>
   <string name="context_menu_add_contact">Zu Kontakten hinzufügen</string>
   <string name="context_menu_add_to_browser_favorite">Zu Browserfavoriten hinzufügen</string>
@@ -202,9 +202,9 @@
   <string name="group_message">Gruppennachricht</string>
   <string name="group_message_failed_title">Senden an %d Kontakte fehlgeschlagen</string>
   <string name="group_resend_message">Erneut senden(%d)</string>
-  <string name="guild_add_attachments">Berühren, um Smileys oder Dateien einzufügen</string>
-  <string name="guild_add_recipients">Berühren, um Empfänger aus dem Adressbuch hinzuzufügen</string>
-  <string name="guild_msim_switcher">Berühre um SIM-Karten zu wechseln</string>
+  <string name="guild_add_attachments">Berühren um Smileys oder Dateien einzufügen</string>
+  <string name="guild_add_recipients">Berühren um Empfänger aus dem Adressbuch hinzuzufügen</string>
+  <string name="guild_msim_switcher">Berühren um SIM-Karten zu wechseln</string>
   <string name="has_invalid_recipient">Ungültige(r) Empfänger: &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Ausgeblendete Absenderadresse</string>
   <string name="hint_search_sms">%d Nachrichten</string>
@@ -213,7 +213,7 @@
   <string name="hms_uri_param_err">URL kann nicht leer sein</string>
   <string name="importing_progress_private_message">Importiere Nachrichten…</string>
   <string name="in_sms">Nachricht</string>
-  <string name="insufficient_drm_rights">Nicht ausreichende DRM-Rechte ermittelt</string>
+  <string name="insufficient_drm_rights">Nicht ausreichende DRM-Rechte vorhanden</string>
   <string name="invalid_conversation">Ungültige Unterhaltung</string>
   <string name="invalid_destination">Ungültige Zieladresse</string>
   <string name="invalid_private_contact">Ungültiger Kontakt</string>
@@ -264,7 +264,7 @@
   <string name="message_sent">Senden</string>
   <string name="message_size_label">"Nachrichtengröße: "</string>
   <string name="message_too_big_for_audio">Nachricht zu groß</string>
-  <string name="message_too_big_for_video">Nachricht zu groß, um ein Video anzuhängen</string>
+  <string name="message_too_big_for_video">Nachricht zu groß um ein Video anzuhängen</string>
   <string name="message_type_label">"Typ: "</string>
   <string name="messagelist_sender_self">Ich</string>
   <string name="mipub_messaging_entry_title">Mi Nachricht</string>
