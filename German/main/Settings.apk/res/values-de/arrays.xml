@@ -756,7 +756,7 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
         <item>Kindersicherung</item>
         <item>Dateien</item>
         <item>App lock</item>
-        <item>Second space</item>
+        <item>Zweitprofil</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Aus</item>
