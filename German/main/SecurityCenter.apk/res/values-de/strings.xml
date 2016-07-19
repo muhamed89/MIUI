@@ -480,7 +480,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="item_usb_debug">USB-Debugging</string>
   <string name="item_virus">Virus</string>
   <string name="item_virus_lib">Virendatenbank automatisch aktualisieren</string>
-  <string name="keywords_antispam">Blockliste;Block;Schwarze Liste;Smart blocklist;Betrug;Sales;Agents</string>
+  <string name="keywords_antispam">Sperrliste;Block;Schwarze Liste;Smart blocklist;Betrug;Sales;Agents</string>
   <string name="keywords_antivirus">Virus;Risiko;Antivirus;Scan</string>
   <string name="keywords_applicationlock">Passwort;Privatsphäre;Appsperre;Zugriff;Sicherung</string>
   <string name="keywords_cleanmaster">Müll;Löschen;Bereinigen;Geschwindigkeit;Speicher;Cache</string>
@@ -492,7 +492,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="keywords_permcenter">Autostart;Berechtigung;ROOT;Standort;Zugriff auf Kontakte</string>
   <string name="keywords_powercenter">Energie sparen;Überhitzen;Einschalten;Ausschalten;Akku;Drain</string>
   <string name="keywords_securitycenter">Sicherheit;Check;Scan</string>
-  <string name="keywords_securitycenter_settings">Energiesparmodus;Berechtigung;Blockliste;Datenverbrauch;Datentarif;Daten sparen;Netzwerktest;Appsperre;Energie sparen;Überhitzen;Einschalten;Ausschalten;Akku;Drain;Autostart;Berechtigung;ROOT;Standort;Zugriff auf Kontakte;Betrug;Sales;Agents;Daten;Verkehr;Calibrate;Sparen;Verbindung;Internet;Test;Passwort;Privatsphäre;Zugruff;Sicherheit</string>
+  <string name="keywords_securitycenter_settings">Energiesparmodus;Berechtigung;Sperrliste;Datenverbrauch;Datentarif;Daten sparen;Netzwerktest;Appsperre;Energie sparen;Überhitzen;Einschalten;Ausschalten;Akku;Drain;Autostart;Berechtigung;ROOT;Standort;Zugriff auf Kontakte;Betrug;Sales;Agents;Daten;Verkehr;Calibrate;Sparen;Verbindung;Internet;Test;Passwort;Privatsphäre;Zugruff;Sicherheit</string>
   <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">K/s</string>
   <string name="last_check_canceled">Die letzte Suche wurde abgebrochen</string>
@@ -606,8 +606,8 @@ Peak: %1$s%2$s verbleibend | %3$s verbraucht"</string>
   <string name="menu_item_app_permissions_control">Zugriffsrechtemanager</string>
   <string name="menu_item_control_app_permissions">Um Erlaubnis fragen, bevor Apps das Lesen von Kontakten, das Ansehen von Anruflisten, das Ändern von Systemeinstellungen oder der Zugriff auf die Kamera und anderen Gerätequellen gestattet wird.</string>
   <string name="menu_item_force_stop">Task beenden</string>
-  <string name="menu_item_notification_antispam_text_avail">Blockliste</string>
-  <string name="menu_item_notification_antispam_text_normal">Blockliste</string>
+  <string name="menu_item_notification_antispam_text_avail">Sperrliste</string>
+  <string name="menu_item_notification_antispam_text_normal">Sperrliste</string>
   <string name="menu_item_notification_garbage_text">%s</string>
   <string name="menu_item_notification_garbage_text_error">Fehler</string>
   <string name="menu_item_notification_power_text">Energie</string>
@@ -621,7 +621,7 @@ Peak: %1$s%2$s verbleibend | %3$s verbraucht"</string>
   <string name="menu_item_virus_install_monitor_summary">Apps vor der Installation auf Viren prüfen</string>
   <string name="menu_item_virus_install_monitor_title">Installationsmonitor</string>
   <string name="menu_item_virus_lib_auto_update_summary">Zuletzt aktualisiert: %s</string>
-  <string name="menu_text_antispam">Blockliste</string>
+  <string name="menu_text_antispam">Sperrliste</string>
   <string name="menu_text_antivirus">Antivirus</string>
   <string name="menu_text_garbage_cleanup">Bereinigung</string>
   <string name="menu_text_license_manager">Rechte</string>
@@ -745,7 +745,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wen
   <string name="pc_install_manager">Installation via USB</string>
   <string name="pc_to_phone_install">Installation von %s via USB blockiert</string>
   <string name="passwordIncorrect">Benutzername oder Passwort ist falsch</string>
-  <string name="path_antispam">Systemanwendungen/Sicherheit/Blockliste</string>
+  <string name="path_antispam">Systemanwendungen/Sicherheit/Sperrliste</string>
   <string name="path_antivirus">Systemanwendungen/Sicherheit/Virenscan</string>
   <string name="path_applicationlock">Systemanwendungen/Sicherheit</string>
   <string name="path_cleanmaster">Systemanwendungen/Sicherheit/Bereinigung</string>
@@ -1120,7 +1120,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="repair">Reparieren</string>
   <string name="repair_loading_text">Einen Moment…</string>
   <string name="replace_dns">DNS automatisch ersetzen</string>
-  <string name="resource_antispam">Blockliste</string>
+  <string name="resource_antispam">Sperrliste</string>
   <string name="resource_antivirus">Virenscan</string>
   <string name="resource_applicationlock">Appsperre</string>
   <string name="resource_cleanmaster">Bereinigung</string>
