@@ -105,7 +105,7 @@
   <string name="callrecordview_item_op_video">Video</string>
   <string name="callrecordview_menu_add_call_note">Anrufnotiz hinzufügen</string>
   <string name="callrecordview_menu_batch_delete">Mehrere Kontakte löschen</string>
-  <string name="callrecordview_menu_blocklist">Blockliste</string>
+  <string name="callrecordview_menu_blocklist">Sperrliste</string>
   <string name="callrecordview_menu_conference">Telefonkonferenz</string>
   <string name="callrecordview_menu_delete">Anrufliste löschen</string>
   <string name="callrecordview_menu_delete_accepted">Angenommene Anrufe löschen</string>
