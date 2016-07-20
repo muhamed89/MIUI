@@ -118,9 +118,9 @@
   <string name="timer_got_it">OK</string>
   <string name="timer_item_duration_display">%1$d Min %2$d Sek</string>
   <string name="timer_item_label_hint">Timername</string>
-  <string name="timer_item_picker_hour">Stunde</string>
-  <string name="timer_item_picker_minute">Min</string>
-  <string name="timer_item_picker_second">Sek</string>
+  <string name="timer_item_picker_hour">h</string>
+  <string name="timer_item_picker_minute">m</string>
+  <string name="timer_item_picker_second">s</string>
   <string name="timer_new_item">Neuer Timer</string>
   <string name="timer_notify_text">Schlummern oder Timer verwerfen</string>
   <string name="timer_start_alarm">Zeit ist abgelaufen!</string>

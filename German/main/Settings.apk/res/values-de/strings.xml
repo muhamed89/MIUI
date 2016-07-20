@@ -1450,7 +1450,9 @@ Das hilft Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
   <string name="fingerprint_last_delete_confirm">Ja, entfernen</string>
   <string name="fingerprint_last_delete_message">"Sie werden nicht in der Lage sein, Ihr Gerät mit Ihrem Fingerabdruck zu entsperren, Einkäufe zu autorisieren, oder sich an Apps anzumelden."</string>
   <string name="fingerprint_last_delete_title">Alle Fingerabdrücke löschen?</string>
-  <string name="fingerprint_list_title">Fingerabdruck</string>  
+  <string name="fingerprint_list_title">Fingerabdruck</string>
+  <string name="fingerprint_lock_first">Hauptprofil entsperren</string>
+  <string name="fingerprint_lock_second">Zweitprofil entsperren</string>  
   <string name="fingerprint_manage_category_title">Fingerabdrücke verwalten</string>
   <string name="fingerprint_not_recognized">Nicht erkannt</string>
   <string name="fingerprint_removal_failed">Fingerabdruck konnte nicht entfernt werden</string>

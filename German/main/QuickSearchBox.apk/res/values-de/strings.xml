@@ -72,8 +72,11 @@ Um den Browserverlauf zu löschen, verwenden Sie die Browsereinstellungen."</str
   <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">Sprechen:</string>
   <string name="web_search_results">Websuchergebnisse</string>
-  <string name="xiaomi_hint"/>
-  <string name="xiaomi_hot_query"/>
+  <string name="xiaomi_hint">http://127.0.0.1</string>
+  <string name="xiaomi_hot_query">http://127.0.0.1</string>
   <string name="xiaomi_search_label">Ergebnisse</string>
-  <string name="xiaomi_suggest_base"/>
+  <string name="xiaomi_suggest_base">http://127.0.0.1</string>
+  <string name="xiaomi_homepage_hint">http://127.0.0.1</string>
+  <string name="xiaomi_homepage_suggest">http://127.0.0.1</string>
+  <string name="xiaomi_source_url">http://127.0.0.1</string>
 </resources>

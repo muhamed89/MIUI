@@ -6,7 +6,9 @@
 Nachrichten erhalten Sie nur im Zweitprofil."</string>
     <string name="PrivacyContactDes2">"Wenn Sie private Nachrichten im Hauptprofil verwendet haben,
 wird diese Funktion automatisch im Zweitprofil aktiviert."</string>
+    <string name="add_finger_print">Fingerabdruck hinzufügen</string>
     <string name="app_name">Security Core Component</string>
+    <string name="back">Zurück</string>
     <string name="appData">Installierte Apps</string>
     <string name="cancel_button">Abbrechen</string>
     <string name="cancelClosePassword">Nicht ausschalten</string>
@@ -46,6 +48,9 @@ wird diese Funktion automatisch im Zweitprofil aktiviert."</string>
     <string name="delete_src_file">Dateien löschen</string>
     <string name="deleteDataConfirm">Alle Elemente werden gelöscht</string>
     <string name="deleteDataDes">Sie haben keine Elemente zum Verschieben ausgewählt. Sie können die Dateien nach dem Löschen nicht mehr wiederherstellen.</string>
+    <string name="delete_fingerprint">Fingerabdruck löschen</string>
+    <string name="delete_fingerprint_desc">Zweitprofilfingerabdruck wird zusammen mit dem Passwort gelöscht</string>
+    <string name="delete_phone_fingerprint">Zweitprofilfingerabdruck löschen</string>
     <string name="dir_switch_out_all_photos">Zweitprofilgalerie</string>
     <string name="disable">Ausschalten</string>
     <string name="dont_import">Nicht jetzt</string>
@@ -62,7 +67,10 @@ wird diese Funktion automatisch im Zweitprofil aktiviert."</string>
     <string name="err_delete_files">Dateien löschen fehlgeschlagen</string>
     <string name="err_volume_not_enough">Nicht genug freier Speicherplatz</string>
     <string name="err_unknown">Unbekannter Fehler</string>
-    <string name="exit_private_space">Wechseln</string> 
+    <string name="exit_private_space">Wechseln</string>
+    <string name="finger_print_num">Fingerabdruck %d</string>
+    <string name="finger_print_of_use">Fingerabdruck verwenden</string>
+    <string name="fingerprint_removal_failed">Fingerabdruck konnte nicht gelöscht werden</string>    
     <string name="go_on_import">Weiter importieren</string>
     <string name="goToSecondSpacce">Zum Zweitprofil wechseln</string>
     <string name="guide_contact_title_desc">Private Elemente im Zweitprofil anzeigen?</string>
@@ -90,13 +98,17 @@ Sie können Sie auch separat installieren."</string>
     <string name="loading_apps">Apps werden geladen…</string>
     <string name="loading_space">Einen Moment…</string>
     <string name="loading_success">Erfolgreich geladen</string>
+    <string name="lock_screen_open_second_space">Zweitprofil vom Sperrbildschirm aus erreichen</string>
     <string name="messageData">Nachrichten</string>
     <string name="msg_switch_photo">Fotos nach dem Verschieben im Hauptprofil löschen?</string>
     <string name="msg_switch_file">Dateien nach dem Verschieben im Hauptprofil löschen?</string>
     <string name="needSetKeyguardFirst">Paswort für Hauptprofil festlegen</string>
     <string name="needSetKeyguardFirstDes">Legen Sie ein Passwort für das Hauptprofil fest, bevor Sie ein Passwort für das Zweitprofil festlegen</string>
+    <string name="need_set_second_space_desc">Legen Sie ein Passwort für das Hauptprofil fest, bevor Sie eine Fingerabdruck für das Zweitprofil festlegen</string>
+    <string name="need_set_second_space_pwd_first">Legen Sie zuerst ein Passwort für das Hauptprofil fest</string>
     <string name="newSecondSpace">Zweitprofil aktivieren</string>
     <string name="next_setp">Weiter</string>
+    <string name="no_match_repate_scanner">Keine Übereinstimmung gefunden, nochmal scannen</string>
     <string name="normal_app">Hauptprofil</string>
     <string name="notification_setting_second_space">Zweitprofil einrichten</string>
     <string name="notification_setting_second_space_desc">Legen Sie ein Passwort für das Zweitprofil fest und verschieben Sie Ihre Daten</string>
@@ -104,6 +116,7 @@ Sie können Sie auch separat installieren."</string>
     <string name="notificationSetPasswordDes">Daten im Zweitprofil schützen</string>
     <string name="notificationSummary">In der Benachrichtigungsleiste zwischen den Profilen umschalten</string>
     <string name="notificationTitle">Verknüpfung in der Benachrichtigungsleiste</string>
+    <string name="notification_recommend_title">Top 12 Apps für das Zweitprofil</string>
     <string name="not_support_multiple_users">Mehrere Benutzer werden nicht unterstützt</string>
     <string name="ok_button">OK</string>
     <string name="openPasswordGuard">Passwort für das Zweitprofil festlegen</string>
@@ -112,17 +125,31 @@ Sie können Sie auch separat installieren."</string>
     <string name="otherSettings">Andere Einstellungen</string>
     <string name="passWordGuardSummary">Erreichen Sie das Zweitprofil vom Sperrbildschirm mittels Passwort</string>
     <string name="passwordProtect">Passwort</string>
+    <string name="please_diff_finger_print">Verwenden Sie unterschiedliche Fingerabdrücke für Haupt- und Zweitprofil./nAndernfalls können Sie das Zweitprofil nicht vom Sperrbildschirm aus erreichen.</string>
     <string name="private_space_setting">Verwalten</string>
     <string name="privacyContactsSummary">Private Elemente im Zweitprofil anzeigen</string>
     <string name="privacyContactsTitle">Private Kontakte und Nachrichten</string>
     <string name="public_app">Beide Profile</string>
     <string name="removingSpace">Wird gelöscht</string>
+    <string name="repeat_scanner_fingerprint">Nochmal hinzufügen</string>
     <string name="removeSuccess">Erfolgreich gelöscht</string>
     <string name="retain_src_photo">Fotos behalten</string>
     <string name="retain_src_file">Dateien behalten</string>
+    <string name="scanner_fingerprint_error_tips_desc">Keine Übereinstimmung gefunden. Zweitprofilfingerabdruck hinzufügen?</string>
+    <string name="scanner_fingerprint_error_tips_title">Keine Übereinstimmung gefunden</string>
+    <string name="scanner_fingerprint_tips_desc">Vorhandenen Fingerabdruck für das Zweitprofil auswählen. Sie können Ihn dann nicht mehr für das Hauptprofil verwenden.</string>
+    <string name="scanner_fingerprint_tips_title">Mit einem vorhandenen Fingerabdruck auf das Zweitprofil zugreifen</string>
+    <string name="scanner_second_space_fingerprint">Zweitprofilfingerabdruck scannen</string>
     <string name="set_space_pwd_suc">Zweitprofil Passwort festgelegt</string>
+    <string name="setting_finger_print_sub_title">Vergewissern Sie sich, dass der Fingerabdruck unterschiedlich zum Hauptprofilfingerabdruck ist</string>
+    <string name="setting_finger_print_title">Zweitprofilfingerabdruck hinzufügen</string>
+    <string name="setting_fingerprint_title">Zweitprofilpasswort hinzufügen</string>
     <string name="set_space_pwd_detail">Sie können das Zweitprofil mit diesem Passwort erreichen</string>
     <string name="secondSpace">Zweitprofil</string>
+    <string name="second_owner_finger_print">Zweitprofilfingerabdruck</string>
+    <string name="second_space_finger_printf_desc">Einen Fingerabdruck speziell für das Zweitprofil hinzufügen</string>
+    <string name="second_space_finger_printf_title">Zweitprofilfingerabdruck</string>
+    <string name="select_existed_fingerprint">Fingerabdruck wählen</string>
     <string name="serNameSummary">Zweitprofil</string>    
     <string name="setSecondSpacePassword">Zweitprofilpasswort festlegen</string>
     <string name="setSecondSpacePasswordGuide">Passwort für Zweitprofil festlegen</string>
@@ -146,7 +173,12 @@ Sie können Sie auch separat installieren."</string>
     <string name="show_normal_content">Private Elemente nicht anzeigen</string>
     <string name="startSet">Festlegen</string>
     <string name="startTransfer">Verschieben</string>
+    <string name="start_input_finger_print">Fingerabdruck hinzufügen</string>
+    <string name="start_new_fingerprint">Einen neuen Fingerabdruck hinzufügen</string>
+    <string name="start_new_fingerprint_tips">"Zweitprofilfingerabdruck verwenden
+  um das Zweitprofil vom Sperrbildschirm aus zu erreichen"</string>
     <string name="summary_switch_apps_settings">Apps für das Zweitprofil auswählen</string>
+    <string name="sure_to_use">Bestätigen</string>
     <string name="switching">Verschieben…</string>
     <string name="switch_data_app">Daten ins Zweitprofil verschieben</string>
     <string name="switch_data_settings">Daten verschieben</string>
@@ -190,6 +222,7 @@ Sie können Sie auch separat installieren."</string>
     <string name="xspace_description">Klonen Sie Apps, um sie separat zu nutzen. Geklonte Apps erhalten ein spezielles Symbol.</string>
     <string name="xspace_header">Geklonte Apps</string>
     <string name="xspace_install_completed">Verknüpfung auf dem Startbildschirm hinzugefügt</string>
+    <string name="xspace_install_failed">Konnte nicht erstellt werden</string>
     <string name="xspace_installing">Wird installiert…</string>
     <string name="xspace_introduce">Empfohlen</string>
     <string name="xspace_label">Geklonte Apps</string>
