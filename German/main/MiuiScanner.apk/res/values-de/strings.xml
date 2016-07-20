@@ -142,6 +142,7 @@
      <string name="secure_access_web_url">Gehe zu Webseite</string>
      <string name="see_app_details">Zeit Appdetails</string>
      <string name="settings">Einstellungen</string>
+     <string name="sdk_not_ready">SDK wird vorbereitet. Versuchen Sie es später noch einmal.</string>
      <string name="shopping_searching">Suche…</string>
      <string name="shopping_title">Produktfoto aufnehmen</string>
      <string name="shopping_vendor_info">Unterstützt durch Taobao</string>

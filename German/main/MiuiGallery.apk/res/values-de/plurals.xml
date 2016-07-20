@@ -236,4 +236,8 @@
         <item quantity="other">Synchronisation ist ausgeschaltet. %1$d Elemente warten auf Sicherung</item>
         <item quantity="one">Synchronisation ist ausgeschaltet. %1$d Element wartet auf Sicherung</item>
      </plurals>
+     <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">%1$d Fotos konnten nicht gerendert werden und wurden übersprungen</item>
+        <item quantity="one">Ein Foto konnte nicht gerendert werden und wurde übersprungen</item>
+     </plurals>
 </resources>

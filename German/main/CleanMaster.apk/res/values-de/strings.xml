@@ -29,12 +29,18 @@
   <string name="apk_status_install">Installiert</string>
   <string name="apk_status_installed_old">Alte Version</string>
   <string name="apk_status_uninstalled">Nicht Installiert</string>
+  <string name="app_install_tips_go_to">Jetzt starten</string>
+  <string name="app_install_tips_install_success">%1$s erfolgreich installiert</string>
+  <string name="app_name">Cheetah Mobile CleanMaster SDK</string>
   <string name="apps_sort_type_item_size">Größe</string>
   <string name="apps_sort_type_item_time">Häufig verwendet</string>
   <string name="apps_sort_type_title">Sortierung</string>
   <string name="auto_clean_switch_off">Aus</string>
   <string name="auto_clean_switch_on">An</string>
   <string name="auto_cleaner_open">Einschalten</string>
+  <string name="back">Zurück</string>
+  <string name="browser_scan_history_desc">Browserverlauf</string>
+  <string name="browser_search_history_desc">Suchverlauf</string>
   <string name="btn_text_done">Fertig</string>
   <string name="btn_text_quick_cleanup">Bereinigen</string>
   <string name="btn_text_quick_scan">Scannen</string>
@@ -69,6 +75,7 @@
   <string name="cache_title_empty_folder2">Leerer Ordner</string>
   <string name="cache_title_system_cache">Systemcache</string>
   <string name="cached_garbage">Cache</string>
+  <string name="call_log">Gesprächsverlauf</string>
   <string name="cancel">Abbrechen</string>
   <string name="clean_content_all">Alles</string>
   <string name="clean_content_one">1 Element</string>
@@ -78,6 +85,8 @@
   <string name="clear_bigfiles">Große Dateien, doppelte Fotos und weitere unnütze Elemente löschen</string>
   <string name="clear_immediately">Jetzt bereinigen</string>
   <string name="clear_safe_notify">Sicherheitsbenachrichtigungsleiste</string>
+  <string name="clip_board_history_desc">Kopierte/ausgeshcnittene Inhalte</string>
+  <string name="clipboard">Zwischenablage</string>
   <string name="close">Schließen</string>
   <string name="confirm_auto_cleaner">OK</string>
   <string name="deepclean_apk_content">APKs oder nicht benötigte Apps löschen</string>
@@ -195,6 +204,7 @@
   <string name="hints_quick_prepare">Vorbereiten…</string>
   <string name="hints_quick_scanning">Durchsuche…</string>
   <string name="hints_residual_header_left">Reste</string>
+  <string name="hints_scan_has_finish">Bereinigung abgeschlossen</string>
   <string name="hints_scanfinish">Nichts gefunden. Versuchen Sie eine gründliche Bereinigung</string>
   <string name="hints_storage_clean_size">%s internen Speicher bereinigt</string>
   <string name="hints_storage_free">Frei</string>
@@ -209,6 +219,8 @@
   <string name="installed">Installiert</string>
   <string name="installing">Wird installiert</string>
   <string name="item_title_process_mode">Aktion wählen</string>
+  <string name="junk_tag_RF_EmptyFolders">Leere Ordner</string>
+  <string name="junk_tag_RF_ImageThumbnails">Gelerievorschaubilder</string>
   <string name="label_image_list_none">Keine</string>
   <string name="label_preserve_the_best_image">Die besten Fotos speichern</string>
   <string name="last_check_canceled">Die letzte Suche wurde abgebrochen</string>
@@ -242,6 +254,7 @@
   <string name="optimizecenter_data_support">Unterstützt von Clean Master</string>
   <string name="optimizecenter_data_support_cm">Unterstützt von Clean Master</string>
   <string name="optimizecenter_data_support_tc">Unterstützt von Tencent</string>
+  <string name="phone_search">Google Suche</string>
   <string name="positive_confirm">OK</string>
   <string name="pref_category_title_auto_clean_settings">Automatisch bereinigen</string>
   <string name="pref_category_title_auto_update_cleanup_db">Weitere Einstellungen</string>
@@ -282,7 +295,8 @@
   <string name="privacy_app_desc_message">Konto, Passwort und Nachrichten</string>
   <string name="privacy_app_desc_search">Konto, Passwort und Suchverlauf</string>
   <string name="privacy_app_desc_setting">Konto, Passwort und Einstellungen</string>
-  <string name="privacy_browser_desc">Gesuchte Elemente</string>
+  <string name="privacy_browser_desc">Suchverlauf</string>
+  <string name="privacy_appdata_chrome_history_des">Besuchte Webseiten</string>
   <string name="privacy_cache_desc">Konto, Passwort, Verlauf, Einstellungen und mehr</string>
   <string name="privacy_cache_empty">Keine privaten Daten</string>
   <string name="privacy_cache_scaning">Prüfe…</string>
@@ -293,6 +307,7 @@
   <string name="privacy_search_type">Google-Suche</string>
   <string name="sc_allow_network_dialog_button">Erlauben</string>
   <string name="sc_allow_network_dialog_message">Dieser App den Empfang von Aktualisierungen über das Internet erlauben?</string>
+  <string name="search_history">Suchverlauf</string>
   <string name="see_more">Mehr</string>
   <string name="set_immediately">Einrichten</string>
   <string name="seton_immediately">Einschalten</string>
@@ -301,6 +316,7 @@
   <string name="similar_image_scaning">string&gt;Prüfe…</string>
   <string name="similar_image_title">Fotos</string>
   <string name="sponsored">Gesponsert</string>
+  <string name="start_downloading_app">Download starten：%1$s</string>
   <string name="summary_auto_cleaner">System automatisch alle 3 Tage bereinigen?</string>
   <string name="summary_delete_apk">Ausgewähle APKs dauerhaft löschen?</string>
   <string name="summary_delete_cache">"Alle Daten dieser App werden dauerhaft gelöscht (inklusive aller Dateien, Einstellungen, und Konten)."</string>
