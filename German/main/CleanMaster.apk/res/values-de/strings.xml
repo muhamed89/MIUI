@@ -85,7 +85,7 @@
   <string name="clear_bigfiles">Große Dateien, doppelte Fotos und weitere unnütze Elemente löschen</string>
   <string name="clear_immediately">Jetzt bereinigen</string>
   <string name="clear_safe_notify">Sicherheitsbenachrichtigungsleiste</string>
-  <string name="clip_board_history_desc">Kopierte/ausgeshcnittene Inhalte</string>
+  <string name="clip_board_history_desc">Kopierte/ausgeschnittene Inhalte</string>
   <string name="clipboard">Zwischenablage</string>
   <string name="close">Schließen</string>
   <string name="confirm_auto_cleaner">OK</string>
@@ -220,7 +220,7 @@
   <string name="installing">Wird installiert</string>
   <string name="item_title_process_mode">Aktion wählen</string>
   <string name="junk_tag_RF_EmptyFolders">Leere Ordner</string>
-  <string name="junk_tag_RF_ImageThumbnails">Gelerievorschaubilder</string>
+  <string name="junk_tag_RF_ImageThumbnails">Vorschaubilder</string>
   <string name="label_image_list_none">Keine</string>
   <string name="label_preserve_the_best_image">Die besten Fotos speichern</string>
   <string name="last_check_canceled">Die letzte Suche wurde abgebrochen</string>
