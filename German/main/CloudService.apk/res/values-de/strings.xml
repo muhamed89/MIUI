@@ -223,7 +223,7 @@ Wenn Ihre Cloud voll ist, werden Ihre alten Daten nicht verschwinden. Doch jeder
 Um dies zu beheben, können Sie entweder alte Dateien bereinigen, um Platz für Neue zu machen, oder Sie können zusätzlichen Speicherplatz erwerben."</string>
   <string name="micloud_full_influence_title">Wenn Ihre Mi Cloud voll ist…</string>
   <string name="micloud_main_battery_low">Akkustand zu niedrig für Synchronisation</string>
-  <string name="micloud_main_battery_message">Schließen Sie Ladegerät an, um %d Elemente zu synchronisieren</string>
+  <string name="micloud_main_battery_message">Zur Synchronisation schließen Sie Ladegerät an</string>
   <string name="micloud_main_clear_now">Bereinigen</string>
   <string name="micloud_main_data_unsynced">%d warte zum Synchronisieren</string>
   <string name="micloud_main_detail">Details anzeigen</string>
