@@ -2656,6 +2656,7 @@ Betriebssystem auswählen:"</string>
   <string name="provider_label">Pushabos</string>
   <string name="provision_next">Weiter</string>
   <string name="provision_page_layout_confirm_message">Um die Änderungen zu aktivieren muss das Telefon neu gestartet werden. Dieser Vorgang dauert ungefähr 1 Minute.</string>
+  <string name="provision_skip">Überspringen</string>
   <string name="proxy_action_text">Fertig</string>
   <string name="proxy_clear_text">Löschen</string>
   <string name="proxy_defaultView_text">Standard wiederherstellen</string>
