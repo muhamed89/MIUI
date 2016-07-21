@@ -220,10 +220,10 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="cancel">Abbrechen</string>
   <string name="cancel_button">Abbrechen</string>
   <string name="celcius_symbol">°C</string>
-  <string name="charging_text_battery_full_time">Letzte Aufladung</string>
+  <string name="charging_text_battery_full_time">Letzte volle Ladung</string>
   <string name="charging_text_battery_nearly_full">Fast aufgeladen</string>
   <string name="charging_text_battery_perfect">Voll aufgeladen</string>
-  <string name="charging_text_time_calculating">Berechne Aufladezeit…</string>
+  <string name="charging_text_time_calculating">Ladezeit wird berechnet…</string>
   <string name="chat_number">10 Stunden</string>
   <string name="chat_uint">" Stunden"</string>
   <string name="check_network_state">Netzwerktest</string>

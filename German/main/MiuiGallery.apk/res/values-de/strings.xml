@@ -691,7 +691,7 @@
   <string name="open_public_title">Teilen</string>
   <string name="open_single_image_failure">Bild konnte nicht geladen werden</string>
   <string name="open_sync_title">Synchronisation einschalten</string>
-  <string name="operation_add_album">Einem Album hinzufügen</string>
+  <string name="operation_add_album">Album hinzufügen</string>
   <string name="operation_add_picture">Bilder hinzufügen</string>
   <string name="operation_add_secret">Verstecken</string>
   <string name="operation_add_secret_button">Verstecken</string>
