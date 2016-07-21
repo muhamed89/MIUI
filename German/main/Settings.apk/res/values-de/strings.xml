@@ -2555,7 +2555,7 @@ Betriebssystem auswählen:"</string>
   <string name="preference_change_password_title">Passwort ändern</string>
   <string name="preferred_app_settings">Einstellungen</string>
   <string name="preferred_app_settings_default">Standard</string>
-  <string name="preferred_app_settings_reset">Auf Standard zurücksetzen?</string>
+  <string name="preferred_app_settings_reset">Zurücksetzen</string>
   <string name="preferred_app_settings_reset_button">Zurücksetzen</string>
   <string name="preferred_app_settings_reset_message">Alle Standardapps werden auf die MIUI-Voreinstellungen zurückgesetzt.</string>
   <string name="preferred_application_title">Bevorzugt %s</string>
