@@ -178,7 +178,7 @@ Zuletzt gesichert am %2$s"</string>
   <string name="micloud_detail_ok">OK</string>
   <string name="micloud_detail_not_synced">Nicht synchronisiert</string>
   <string name="micloud_detail_pending">Warten</string>
-  <string name="micloud_detail_preference_sync_items">Items</string>
+  <string name="micloud_detail_preference_sync_items">Elemente</string>
   <string name="micloud_detail_query_error">"Synchronisationszustand kann nicht gelesen werden"</string>
   <string name="micloud_detail_query_error_detail">"Synchronisationszustand kann nicht überprüft werden. Bitte kontaktieren Sie die Entwickler."</string>
   <string name="micloud_detail_query_error_title">"Synchronisationszustand kann nicht überprüft werden"</string>

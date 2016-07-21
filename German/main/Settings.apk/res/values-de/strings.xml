@@ -4212,6 +4212,8 @@ Jeder Nutzer kann aktualisierte Appberechtigungen im Namen aller anderen Nutzer 
   <string name="vpn_no_network">Es ist keine Netzwerkverbindung verfügbar. Bitte versuchen Sie es später erneut.</string>
   <string name="vpn_no_server_cert">(vom Server erhalten)</string>
   <string name="vpn_not_used">(nicht verwendet)</string>
+  <string name="vpn_off">Aus</string>
+  <string name="vpn_on">Ein</string>
   <string name="vpn_password">Passwort</string>
   <string name="vpn_routes">Weiterleitungsrouten</string>
   <string name="vpn_routes_hint">z.b. 10.0.0.0/8</string>

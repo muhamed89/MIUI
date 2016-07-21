@@ -441,9 +441,11 @@ Stellen Sie sicher, dass Sie sich die Antworten auf diese Fragen merken."</strin
   <string name="unbind_weibo_description">"Nach der Abmeldung werden Sie Ihre Kontakte von Weibo nicht mehr synchronisieren können. Eine Anmeldung ist auch nicht mehr möglich."</string>
   <string name="update_contacts">Kontakte aktualisieren</string>
   <string name="update_contacts_description">Lassen Sie Sina Weibo Ihr Mi Konto nutzen um alle Kontakte zwischen den Plattformen zu synchronisieren</string>
+  <string name="update_email_address_dialog_message">Vor der Aktualisierung der E-Mailadresse müssen Sie Ihre Identität nachweisen</string>
+  <string name="update_email_address_dialog_title">E-Mailadresse aktualisieren</string>
   <string name="update_recovery_info_dialog_message">Vor der Aktualisierung der E-Mailadresse müssen Sie Ihre Identität nachweisen.</string>
   <string name="update_recovery_info_dialog_title">E-Mailadresse aktualisieren</string>
-  <string name="update_phone_number_notice_message">Vor der Aktualisierung der Telefonnummer müssen Sie Ihre Identität nachweisen.</string>
+  <string name="update_phone_number_notice_message">Vor der Aktualisierung der Telefonnummer müssen Sie Ihre Identität nachweisen</string>
   <string name="updated_nothing">Aktualisiert</string>
   <string name="user_agreement">Nutzungsbedingungen</string>
   <string name="user_agreement_p2">Nutzungsbedingungen</string>
