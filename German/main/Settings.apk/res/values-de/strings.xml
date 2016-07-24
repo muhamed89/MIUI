@@ -2478,7 +2478,7 @@ Betriebssystem auswählen:"</string>
   <string name="passpoint_content">%1$s Zugangsdaten</string>
   <string name="passpoint_label">Gespeichert via</string>
   <string name="passwordIncorrect">Das eingegebene Passwort ist falsch</string>
-  <string name="password_entrance_title">Bildschrimsperre</string>
+  <string name="password_entrance_title">Bildschirmsperre</string>
   <string name="password_guard">Passwort</string>
   <string name="performance_category">Leistung</string>
   <string name="permission_detail_info">Rechte Details</string>

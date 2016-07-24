@@ -334,7 +334,7 @@ Diese Seite verlassen?"</string>
   <string name="js_dialog_before_unload_negative_button">Bleiben</string>
   <string name="js_dialog_before_unload_positive_button">Verlassen</string>
   <string name="js_dialog_before_unload_title">Navigation bestätigen</string>
-  <string name="js_dialog_title">Die Seite unter \"%s\" sagt:</string>
+  <string name="js_dialog_title">Die Seite \"%s\" meldet:</string>
   <string name="js_dialog_title_default">JavaScript</string>
   <string name="js_disable_confirm_message">Deaktivieren von JavaScript führt möglicherweise dazu, dass einige Webseiten nicht korrekt angezeigt werden.</string>
   <string name="js_disable_confirm_title">JavaScript deaktivieren?</string>
