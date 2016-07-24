@@ -34,6 +34,9 @@ wird diese Funktion automatisch im Zweitprofil aktiviert."</string>
     <string name="confirm_main_space_password">Hauptprofilpasswort bestätigen</string>  
     <string name="confirmSecondSpacePassword">Zweitprofilpasswort bestätigen</string>
     <string name="contactData">Kontakte</string>
+    <string name="contact_sub_titile_text">Nachrichten werden zwischen beiden Profilen geteilt</string>
+    <string name="contact_titile_text">"Private Nachrichten im Zweitprofil anzeigen
+  um sie jederzeit zu erhalten"</string>
     <string name="continueButton">Weiter</string>
     <string name="creating_app_icon">Verknüpfung wird erstellt…</string>
     <string name="create_app_icon_success">Verknüpfung erstellt</string>
@@ -134,6 +137,9 @@ Sie können Sie auch separat installieren."</string>
     <string name="removingSpace">Wird gelöscht</string>
     <string name="repeat_scanner_fingerprint">Nochmal hinzufügen</string>
     <string name="removeSuccess">Erfolgreich gelöscht</string>
+    <string name="restore_normal_show">Private Nachrichten nicht anzeigen</string>
+    <string name="restore_show_desc">"Private Nachrichten im Zweitprofil nicht anzeigen. Sie können sie im Hauptprofil ansehen."</string>
+    <string name="restore_show_toast">Private Nachrichten werden nicht anzeigt</string>
     <string name="retain_src_photo">Fotos behalten</string>
     <string name="retain_src_file">Dateien behalten</string>
     <string name="scanner_fingerprint_error_tips_desc">Keine Übereinstimmung gefunden. Zweitprofilfingerabdruck hinzufügen?</string>
@@ -172,6 +178,8 @@ Sie können Sie auch separat installieren."</string>
     <string name="setting_is_show_text_contacts">Private Kontakte und Nachrichten einrichten</string>
     <string name="show_private_content">Private Elemente anzeigen</string>
     <string name="show_normal_content">Private Elemente nicht anzeigen</string>
+    <string name="show_private_msg">Private Nachrichten anzeigen</string>
+    <string name="show_private_msg_summary">Private Nachrichten im Zweitprofil anzeigen</string>
     <string name="startSet">Festlegen</string>
     <string name="startTransfer">Verschieben</string>
     <string name="start_input_finger_print">Fingerabdruck hinzufügen</string>
