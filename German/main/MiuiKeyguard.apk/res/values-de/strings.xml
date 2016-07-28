@@ -35,6 +35,8 @@
   <string name="left_action_default_hint_text">Telefon</string>
   <string name="lock_screen_date">EEEE, dd. MMMM</string>
   <string name="lock_screen_date_12">EEEE, MMMM d</string>
+  <string name="lock_wallpaper_learn_more">Mehr erfahren &gt;</string>
+  <string name="lock_wallpaper_see_more">Mehr anzeigen &gt;</string>
   <string name="lockscreen_access_pattern_cell_added">Knoten hinzugefügt</string>
   <string name="lockscreen_access_pattern_cleared">Muster gelöscht</string>
   <string name="lockscreen_access_pattern_detected">Muster vollständig</string>

@@ -62,4 +62,7 @@
         <item>Alle 15 Tage</item>
         <item>Alle 30 Tage</item>
      </string-array>
+    <string-array name="low_memory_clean_menu">
+        <item>Bereinigen</item>
+    </string-array>
 </resources>

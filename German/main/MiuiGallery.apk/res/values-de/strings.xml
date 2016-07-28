@@ -52,7 +52,7 @@
   <string name="add_to_secret_successfully_message">Zu verborgenen Album hinzugefügt</string>
   <string name="add_to_secret_unfinished_message_with_count">%1$s Dateien wurden nicht zu verborgenen Album hinzugefügt</string>
   <string name="adding_recipients">Empfänger hinzufügen…</string>
-  <string name="adjust">Anpassen</string>
+  <string name="adjust">Verbessern</string>
   <string name="adjust_auto">Automatisch</string>
   <string name="adjust_blur">Verwischen</string>
   <string name="adjust_brightness">Helligkeit</string>
@@ -298,6 +298,7 @@
   <string name="creating_baby_album">Erstelle Album…</string>
   <string name="crop">Zuschneiden</string>
   <string name="crop_fail_to_load_image">Bild laden ist fehlgeschlagen</string>
+  <string name="crop_and_rotate">Anpassen</string>
   <string name="crop_label">Zuschneiden</string>
   <string name="crop_recognize_text">Erkennen</string>
   <string name="crop_save_text">Speichern</string>
@@ -641,6 +642,7 @@
   <string name="moman_camera_picture">Moman Kamerafotos</string>
   <string name="more">Mehr</string>
   <string name="more_face_album_name">Mehr Gesichter</string>
+  <string name="move_to_other_albums_tip">Synchronisation mit Mi Cloud wird für dieses Album deaktiviert, wenn Sie dieses Album verschieben. Album jetzt verschieben?</string>
   <string name="mosaic">Mosaik</string>
   <string name="move">Verschieben</string>
   <string name="move_to_cloud_album">Verschieben nach</string>
@@ -710,11 +712,13 @@
   <string name="operation_give_name">Name</string>
   <string name="operation_hide">Verstecken</string>
   <string name="operation_in_process">Verarbeitung…</string>
+  <string name="operation_move_to_other_albums">Zu anderen Alben verschieben</string>
   <string name="operation_not_show_in_photos_tab">Nicht im Fotoreiter anzeigen</string>
   <string name="operation_projection">Übertragen</string>  
   <string name="operation_refresh">Aktualisieren</string>
   <string name="operation_remove_from_face_album">Aus Album entfernen</string>
   <string name="operation_remove_from_face_album_button">Entfernen</string>
+  <string name="operation_remove_from_other_albums">Aus anderen Alben entfernen</string>
   <string name="operation_remove_secret">Sichtbar machen</string>
   <string name="operation_remove_secret_button">Anzeigen</string>
   <string name="operation_rename">Umbenennen</string>
@@ -825,6 +829,7 @@
   <string name="relation_text_mother">Mutter</string>
   <string name="relation_with_you">Beziehung zu ihnen festlegen</string>
   <string name="release_space_finish_format">%s Speicherplatz freigeben</string>
+  <string name="remove_from_other_albums_tip">Synchronisation mit Mi Cloud sollte aktiviert werden, wenn Sie es aus den anderen Alben entfernen. Album jetzt entfernen?</string>
   <string name="remind_shows_in_photo_tab_summary">Dieses Album auf der Startseite anzeigen?</string>
   <string name="remind_shows_in_photo_tab_title">Albumeinstellungen</string>
   <string name="remove_from_secret_failed_message_with_count">%2$s Elemente konnten nicht aus %1$s entfernt werden</string>
@@ -1026,6 +1031,8 @@
   <string name="trash_bin">Papierkorb</string>
   <string name="trash_bin_summary">Kürzlich gelöschte, gesicherte Fotos durchstöbern</string>
   <string name="try_to_send">Senden</string>
+  <string name="turn_off_and_move">Ausschalten und verschieben</string>
+  <string name="turn_on_and_remove">Einschalten und entfernen</string>
   <string name="ubifocus_data_invalid">Einige der Daten für diesen Bild sind ungültig</string>
   <string name="ubifocus_data_missing">Einige Daten für diesen Bild fehlen</string>
   <string name="ubifocus_guide_text">Lange drücken, um neu zu fokussieren</string>

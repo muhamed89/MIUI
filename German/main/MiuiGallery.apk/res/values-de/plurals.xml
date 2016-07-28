@@ -148,6 +148,34 @@
         <item quantity="other">Bereits mit %d Personen geteilt</item>
         <item quantity="one">Bereits mit %d Person geteilt</item>
     </plurals>
+         <plurals name="picker_all_image_need_download">
+         <item quantity="other">Die ausgewählten Fotos sind nicht auf diesem Gerät. Über die mobile Datenverbindung herunterladen?</item>
+         <item quantity="one">Das ausgewählte Foto ist nicht auf diesem Gerät. Über die mobile Datenverbindung herunterladen?</item>
+     </plurals>
+     <plurals name="picker_all_origin_need_download">
+         <item quantity="other">Die ausgewählten Fotos (%dMB) sind nicht auf diesem Gerät. Über die mobile Datenverbindung herunterladen?</item>
+         <item quantity="one">Das ausgewählte Foto (%dMB) ist nicht auf diesem Gerät. Über die mobile Datenverbindung herunterladen?"</item>
+     </plurals>
+     <plurals name="picker_all_image_will_download">
+          <item quantity="other">Die ausgewählten Fotos sind nicht auf diesem Gerät. Sie werden heruntergeladen.</item>
+          <item quantity="one">Das ausgewählte Foto ist nicht auf diesem Gerät. Es wird heruntergeladen.</item>
+    </plurals>
+    <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">%d Fotos übersprungen, welche sich nicht auf dem Gerät befinden.</item>
+        <item quantity="one">Ein Foto wurde übersprungen, welches sich nicht auf dem Gerät befindet.</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+          <item quantity="other">%1$d Fotos konnten nicht heruntergeladen werden, noch einmal versuchen?</item>
+          <item quantity="one">Ein Foto konnten nicht heruntergeladen werden, noch einmal versuchen?</item>
+     </plurals>
+     <plurals name="picker_retry_origin_confirm_message">
+         <item quantity="other">%1$d Fotos (%2$dMB) konnten nicht heruntergeladen werden, noch einmal versuchen?</item>
+         <item quantity="one">Ein Foto (%2$dMB) konnten nicht heruntergeladen werden, noch einmal versuchen?</item>
+     </plurals>
+     <plurals name="picker_cancel_confirm_message">
+         <item quantity="other">Download der verbleibenden %d Fotos abbrechen?</item>
+         <item quantity="one">Download des verbleibenden Fotos abbrechen?</item>
+     </plurals>
     <plurals name="delete_photo_msg_format">
         <item quantity="other">%1$d Fotos %2$s löschen?</item>
         <item quantity="one">Dieses Foto %2$s löschen?</item>

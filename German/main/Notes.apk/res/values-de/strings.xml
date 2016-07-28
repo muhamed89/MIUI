@@ -55,6 +55,7 @@ Tippen Sie auf das Plus, um einen Ordner anzulegen"</string>
   <string name="menu_move_to">Verschieben</string>
   <string name="menu_move_parent_folder">Übergeordneter Ordner</string>
   <string name="menu_send_as_image">Als Bild senden</string>
+  <string name="menu_send_as_text">Als Text senden</string>
   <string name="menu_send_to_desktop">Auf dem Startbildschirm hinzufügen</string>
   <string name="menu_send_wechat">An WeChat senden</string>
   <string name="menu_send_weibo">An Weibo senden</string>

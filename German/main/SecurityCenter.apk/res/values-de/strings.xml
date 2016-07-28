@@ -518,7 +518,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="lockpattern_confirm_button_text">OK</string>
   <string name="lockpattern_need_to_unlock">Muster bestätigen</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Zu viele fehlerhafte Versuche!</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">%d Sekunden warten und nochmals versuchen.</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">%ds warten und nochmals versuchen.</string>
   <string name="lockpattern_recording_incorrect_too_short">Connect at least%ddots</string>
   <string name="lockpattern_recording_intro_header">Verbinden Sie mindestens 4 Punkte, um ein Muster zu erstellen</string>
   <string name="lockpattern_pattern_entered_header">Muster hinzugefügt</string>
@@ -792,7 +792,8 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wen
   <string name="pm_auto_start_by_system">Apps starten</string>
   <string name="pm_auto_start_proc_is_running">Ausführen</string>
   <string name="pm_remember_choice">Meine Auswahl merken</string>
-  <string name="pm_root_success_notification_title">Rootzugriff aktiviert</string>
+  <string name="pm_root_success_notification_infomation">Seien Sie sich der Risiken durch Rootzugriff bewusst</string>
+  <string name="pm_root_success_notification_title">Rootzugriff gewährt</string>
   <string name="power_20s_enter_mode">Wechseln von %1$ds zu %2$s</string>
   <string name="power_20s_shutdown">Telefon schaltet sich in 20 Sekunden aus</string>
   <string name="power_analysis_consume_title">Akkuverbrauch</string>
@@ -1216,6 +1217,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="settings_category_overheat">Überhitzung</string>
   <string name="settings_choice_no_notification">Aus</string>
   <string name="settings_power_save_ontime_title">Zeitplan</string>
+  <string name="settings_title_payment_security">Zahlungssicherheitseinstellungen</string>
   <string name="settings_title_permission">Berechtigungseinstellungen</string>
   <string name="showpattern">Muster anzeigen</string>  
   <string name="show_traffic_dialog_message">Ihre Datennutzung wird in der Statusleiste angezeigt. Sie können diese Funktion in den Einstellungen der Datennutzung jederzeit verändern.</string>

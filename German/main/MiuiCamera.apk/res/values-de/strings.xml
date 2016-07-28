@@ -46,6 +46,7 @@
   <string name="face_analyze_info">Alter: %2$s (%1$s)</string>
   <string name="face_analyze_info_female">Weiblich</string>
   <string name="face_analyze_info_male">Männlich</string>
+  <string name="face_beauty_advanced">Pro</string>
   <string name="face_beauty_age_alias_female_0_7">Weiblich 0-7</string>
   <string name="face_beauty_age_alias_female_18_30">Weiblich 18-30</string>
   <string name="face_beauty_age_alias_female_31_44">Weiblich 31-44</string>
@@ -58,10 +59,12 @@
   <string name="face_beauty_age_alias_male_45_60">Männlich 45-60</string>
   <string name="face_beauty_age_alias_male_60_m">Männlich 60+</string>
   <string name="face_beauty_age_alias_male_8_17">Männlich 8-17</string>
+  <string name="face_beauty_close">Aus</string>
   <string name="face_beauty_intelligent_level_0">Aus</string>
   <string name="face_beauty_intelligent_level_1">Gering</string>
   <string name="face_beauty_intelligent_level_2">Mittel</string>
   <string name="face_beauty_intelligent_level_3">Hoch</string>
+  <string name="face_beauty_smart">Smart</string>
   <string name="find_other_qrcode">cQQ QR-Code suchen</string>
   <string name="no_storage">Vor Benutzung der Kamera SD-Karte einlegen</string>
   <string name="not_enough_space">Interner Speicher ist voll</string>
