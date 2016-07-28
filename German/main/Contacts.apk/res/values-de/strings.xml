@@ -1160,7 +1160,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="summary_kind_title">Zusammenfassung</string>
   <string name="t9_search_guide_pinyin_title1">Geben Sie Ziffern ein, um Kontakte zu suchen</string>
   <string name="t9_search_guide_pinyin_title2">Geben Sie 2 und 3 ein, um nach &lt;font fgcolor=""&gt;A&lt;/font&gt;lan &lt;font fgcolor=""&gt;F&lt;/font&gt;rank zu suchen</string>
-  <string name="t9_search_guide_zhuyin_title1">SGeben Sie Ziffern ein, um Kontakte zu suchen</string>
+  <string name="t9_search_guide_zhuyin_title1">Geben Sie Ziffern ein, um Kontakte zu suchen</string>
   <string name="t9_search_guide_zhuyin_title2">Geben Sie 5 und 6 ein, um nach &lt;font fgcolor=""&gt;J&lt;/font&gt;eff &lt;font fgcolor=""&gt;M&lt;/font&gt;ax zu suchen</string>
   <string name="t9_search_guide_pinyin">Geben Sie 2 und 8 ein, um nach Alan Turing zu suchen</string>
   <string name="t9_search_guide_zhuyin">Geben Sie 2 und 8 ein, um nach Alan Turing zu suchen</string>
