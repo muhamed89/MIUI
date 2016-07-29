@@ -3,8 +3,12 @@
      <string name="action_settings">Einstellungen</string>
      <string name="activity_title_fakecell">Fake-Base-Schutz</string>
      <string name="app_name">Funktionen Base-Systemen</string>
+     <string name="detect_fakecell">SMS von vorgetäuschten Basisstationen erkennen</string>
      <string name="first_function">Chip identifizieren und eine Verbindung zu Fake-Base verhindern</string>
+     <string name="forbidden_fakecell">Nicht mit vorgetäuschten Basisstationen verbinden</string>
+     <string name="forbidden_fakecell_summary">Verhindern Sie, dass Ihr Telefon sich mit vorgetäuschten Basisstationen verbindet</string>
      <string name="hello_world">Hallo Welt!</string>
+     <string name="not_support_forbidden_fakecell">Ihr Gerät unterstützt den Schutz vor vorgetäuschten Basisstationen nicht</string>
      <string name="point">Risikohinweis : Es ist möglich, dass das Telefon kein Signal in abgelegenen Gebieten empfangen wird</string>
      <string name="restart_details">Um Fake-Base-Schutz zu aktivieren, ist es erforderlich das Telefon neu zu starten. Soll das Telefon jetzt neu gestartet werden?</string>
      <string name="restart_later">Später neu starten</string>
@@ -12,4 +16,5 @@
      <string name="second_function">Benutzedefiniert</string>
      <string name="start_protect">Aktiviere Fake-Base-Schutz</string>
      <string name="stop_protect">Deaktiviere Fake-Base-Schutz</string>
+     <string name="support_forbidden_fakecell">Hinweis: Wenn Sie den Zugang zu vergetäuschten Basisstationen einschränken, kann dies Ihrem Empfang in schlecht abgedeckten Regionen beeinträchtigen</string>
 </resources>

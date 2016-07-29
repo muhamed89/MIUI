@@ -48,6 +48,8 @@
   <string name="children_folder_title">Kinderordner</string>
   <string name="children_mode_exit">Beenden</string>
   <string name="children_mode_tips">Zurück zu Einstellungen um den Zugriff auf Anwendungen zu verwalten</string>
+  <string name="children_mode_tips_message">Keine Anwendung für die Kindersicherung. Bitte Anwendung auswählen.</string>
+  <string name="children_mode_tips_title">Bitte Anwendung auswählen</string>
   <string name="choose_wallpaper">Hintergrund auswählen</string>
   <string name="chooser_wallpaper">Hintergrund auswählen</string>
   <string name="cloud_app_restore_title">Ausstehend</string>
