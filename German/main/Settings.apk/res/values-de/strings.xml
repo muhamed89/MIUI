@@ -2484,10 +2484,13 @@ Betriebssystem auswählen:"</string>
   <string name="permission_detail_info">Rechte Details</string>
   <string name="permission_detail_info_summary">Sicherheit: %1$d | Privat: %2$d | Andere: %3$d</string>
   <string name="permission_manage">Rechte Verwaltung</string>
+  <string name="permission_manage_global_build_title">Andere Berechtigungen</string>
   <string name="permission_manage_summary">Autostart, Datenschutz und Rechteverwaltung</string>
   <string name="permission_manage_title">%s Rechte Details</string>
   <string name="permission_manager">Rechte</string>
   <string name="permission_mgr">Rechte</string>
+  <string name="permission_settings_summary">Verwalten Sie Berechtigungen in Bezug auf Standort, Speicher, Telefon, Nachrichten und Kontakten</string>
+  <string name="permission_settings_title">Appberechtigungen</string>
   <string name="permissions_label">Rechte</string>
   <string name="permit_draw_overlay">Überlagerung von Apps erlauben</string>
   <string name="permit_usage_access">Nutzungszugang erlauben</string>
