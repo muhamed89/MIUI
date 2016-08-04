@@ -694,6 +694,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wen
   <string name="network_speed_for_apps_total">Verbindungsgeschwindigkeit</string>
   <string name="networkchanged_exception_summary">Netzwerkverbindung wurde gewechselt. Bitte erneut testen.</string>
   <string name="networkchanged_exception_title">Verbindung gewechselt</string>
+  <string name="next_step_button">Weiter</string>
   <string name="none_mi_service_app_detail">Leer</string>
   <string name="notification_battery_consume_abnormal_summary">%2$s Akku in den letzten %1$d Minuten verbraucht</string>
   <string name="notification_battery_consume_abnormal_title">Akku wird zu schnell entleert</string>

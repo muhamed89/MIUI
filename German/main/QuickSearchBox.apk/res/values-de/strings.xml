@@ -54,6 +54,8 @@ Um den Browserverlauf zu löschen, verwenden Sie die Browsereinstellungen."</str
   <string name="search_history">Suche im Verlauf</string>
   <string name="search_in_app_store">Suche im Market</string>
   <string name="search_in_web">Suche im Web</string>
+  <string name="search_keyword_quicksearchbox">Suche</string>
+  <string name="search_path_quicksearchbox">Einstellungen/Installierte Apps/Suche</string>
   <string name="search_settings">Einstellungen</string>
   <string name="search_sources">Durchsuchbare Elemente</string>
   <string name="search_sources_summary">Auswählen, was auf dem Telefon durchsucht werden soll</string>

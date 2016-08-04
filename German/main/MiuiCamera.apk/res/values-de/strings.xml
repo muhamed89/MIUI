@@ -15,6 +15,9 @@
   <string name="accessibility_video_pause_button">VideoPauseButton</string>
   <string name="audio_focus_exit_button_text">Audiofokus beenden</string>
   <string name="burst_shoot_exit_button_text">Serienbilder schießen ausschalten</string>
+  <string name="button_fisheye_camera_title">Fisheye</string>
+  <string name="button_front_camera_title">Ein Selfie aufnehmen</string>
+  <string name="button_normal_video_title">Ein Video aufnehmen</string>
   <string name="camera_disabled">Kamera wurde deaktiviert</string>
   <string name="camera_error_title">Kamerafehler</string>
   <string name="camera_label">Kamera</string>

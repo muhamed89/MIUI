@@ -148,6 +148,7 @@
   <string name="episode_name_format">Ep. %1$s</string>
   <string name="episode_suffix">"Ep. %d "</string>
   <string name="error_empty_filter_title">Keine Ergebnisse</string>
+  <string name="error_empty_live_favor">Keine TV-Sender in der Sammlung</string>
   <string name="error_empty_title">Irgendetwas ging schief.</string>
   <string name="expire_time">Ablaufdatum</string>
   <string name="favorite">Favorit</string>

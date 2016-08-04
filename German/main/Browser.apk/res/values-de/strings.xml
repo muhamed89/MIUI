@@ -308,6 +308,7 @@
   <string name="geolocation_settings_page_title">Lokalen Zugang löschen</string>
   <string name="go_supermarket_button">Gehen</string>
   <string name="go_supermarket_title">Weitere Apps, höhere Geschwindigkeit und weniger Datenverbrauch im App Store</string>
+  <string name="gold_medals">Goldmedaillen</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Auf Startbildschirm hinzugefügt</string>
   <string name="history_saved_webpage">Seite speichern</string>
@@ -705,6 +706,7 @@ Diese Seite verlassen?"</string>
   <string name="suggest_access_item_singer_albums">%d Alben</string>
   <string name="suggest_access_item_singer_pop">%d beliebte Lieder</string>
   <string name="suggest_access_music">Mi Musik</string>
+  <string name="suggest_item_delete_text">Löschen</string>
   <string name="suggest_open_app_failed">"Konnte die App nicht öffnen"</string>
   <string name="switch_proxy_dialog_msg">Netzwerk-Hijacking erkannt. Verwenden Sie die integrierte Sicherheitsapp, oder melden Sie diesen Vorfall bei Ihrem Netzbetreiber.</string>
   <string name="switch_proxy_dialog_title">Netzwerk-Hijacking</string>

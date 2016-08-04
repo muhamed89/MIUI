@@ -202,6 +202,10 @@
   <string name="no_response_retry">Keine Rückmeldung. Versuche es erneut.</string>
   <string name="no_sim_card">Keine SIM-Karte</string>
   <string name="nobind">Nicht verbunden</string>
+  <string name="notify_network_restricted_content_bg_network">Der Internetzugriff für Mi Konto wurde eingeschränkt. Zum Erlauben antippen.</string>
+  <string name="notify_network_restricted_content_hidden_state">Die Hintergrundaktivität für Mi Konto wurde eingeschränkt. Zum Erlauben antippen.</string>
+  <string name="notify_network_restricted_content_mobile_network">Der Internetzugriff für Mi Konto wurde eingeschränkt. Zum Erlauben antippen.</string>
+  <string name="notify_network_restricted_title">Mi Konto konnte keine Netzwerkverbindung herstellen</string>
   <string name="other_devices">Weitere Geräte</string>
   <string name="passport_access_denied">Zugang verweigert</string>
   <string name="passport_account_hint_text">E-Mailadresse oder Mi Konto-ID</string>

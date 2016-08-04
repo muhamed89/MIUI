@@ -201,6 +201,7 @@
   <string name="contact_detail_action_item_nocalllog">Kein Verlauf</string>
   <string name="contact_detail_calllog_call_note_tips">Notizen</string>
   <string name="contact_detail_calllog_call_record_tips">Anrufaufnahme</string>
+  <string name="contact_detail_calllog_empty">Kein Gesprächsverlauf</string>
   <string name="contact_detail_menu_delete_miprofile">Karte löschen</string>
   <string name="contact_detail_miprofile_accept">Kontaktkarten austauschen</string>
   <string name="contact_detail_miprofile_accept_fail_toast">Kontaktkarte konnte nicht abgerufen werden</string>
@@ -452,6 +453,7 @@ Grund: \"%s\"."</string>
   <string name="frequentList">Häufig</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Name</string>
+  <string name="gallery">Galerie</string>
   <string name="generic_no_account_prompt">Schützen Sie Ihre Kontakte bei Verlust des Telefons: Synchronisieren Sie Ihre Kontakte mit einem Onlinedienst.</string>
   <string name="generic_no_account_prompt_title">Konto hinzufügen</string>
   <string name="ghostData_company">Firma</string>

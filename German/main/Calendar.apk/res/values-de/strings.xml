@@ -292,6 +292,10 @@
   <string name="no_title_label">(Kein Titel)</string>
   <string name="not_exist_topic_list">Kann eine Liste der abonnierten Kalender nicht abrufen</string>
   <string name="not_synced">Nicht synchronisiert</string>
+  <string name="olympic_county">Nation</string>
+  <string name="olympic_rank">Rang</string>
+  <string name="olympic_total">Gesamt</string>
+  <string name="olympic_vs">VS</string>
   <string name="notice_button_exit">Beenden</string>
   <string name="notice_button_ok">OK</string>
   <string name="notice_declaration_ignore">"Nicht nochmal anzeigen"</string>
@@ -307,7 +311,7 @@
   <string name="path_calendar">Kalender/Einstellungen</string>
   <string name="pengzu">Pengzu</string>
   <string name="prefDialogTitle_vibrateWhen">Vibration</string>
-  <string name="pref_error_no_ringtone_select">Nichts ausgewählt</string>
+  <string name="pref_error_no_ringtone_select">Standardbenachrichtigungston</string>
   <string name="pref_title_alarm_remind">Alarm</string>
   <string name="pref_title_alert_remind">Popup</string>
   <string name="pref_title_no_remind">Keine</string>
@@ -394,8 +398,17 @@
   <string name="select_visible_calendars_title">Kalenderanzeige</string>
   <string name="set_as_wallpaper">Als Hintergrundbildschirm festlegen</string>
   <string name="setting_holiday">Feiertage</string>
+  <string name="setting_about_calendar_version">Kalenderversion:</string>
+  <string name="setting_about_imei">IMEI:</string>
+  <string name="setting_about_miui_version">MIUI Version:</string>
+  <string name="setting_about_summary">Version:</string>
+  <string name="setting_holiday_display_desc">Feiertagskarten auf der Startseite anzeigen</string>
+  <string name="setting_holiday_display_title">Feiertage anzeigen</string>
+  <string name="setting_holiday_reminder">Feiertagserinnerung</string>
+  <string name="setting_homepage">Startseitenansicht</string>
   <string name="setting_others">Andere</string>
   <string name="setting_sms_import">SMS-Ereignis importieren</string>
+  <string name="setting_title_about">Über</string>
   <string name="setting_wifi_mode">Nur WLAN-Synchronisation</string>
   <string name="settings_calendar">Kalender</string>
   <string name="show_controls">Steuerelemente ein</string>

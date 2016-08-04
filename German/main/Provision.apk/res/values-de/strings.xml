@@ -9,6 +9,8 @@
   <string name="back">Zurück</string>
   <string name="congratulation_label"/>
   <string name="congratulation_title">Einrichtung abgeschlossen</string>
+  <string name="content_description_complete">Fertig</string>
+  <string name="content_description_start">Start</string>
   <string name="desc_extra_fingerprint"/>
   <string name="desc_fingerprint">Benutzen Sie Ihren Fingerabdruck, um das Telefon zu entsperren, Mi Pay Transaktionen zu verifizieren, oder sich bei Apps und Diensten anzumelden</string>
   <string name="desc_international_fingerprint">Benutzen Sie Ihren Fingerabdruck, um das Telefon zu entsperren, oder sich bei Apps und Diensten anzumelden</string>
