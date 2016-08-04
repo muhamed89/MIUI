@@ -363,7 +363,6 @@
   <string name="delete">Löschen</string>
   <string name="deleteAllSimEntries">Alle SIM-Kontakte löschen</string>
   <string name="deleteSimContacts">SIM-Kontakte werden entfernt…</string>
-  <string name="delete">Löschen</string>
   <string name="delete_fdn_contact">Zugelassene Rufnummer löschen</string>
   <string name="deleting_fdn_contact">Zugelassene Rufnummer wird gelöscht…</string>
   <string name="description_delete_button">Rücktaste</string>
