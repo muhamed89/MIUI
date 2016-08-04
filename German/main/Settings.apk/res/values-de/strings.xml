@@ -1743,6 +1743,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="large_font">Groß</string>
   <string name="last_synced">Zuletzt synchronisiert: %1$s</string>
   <string name="last_time_used_label">Zuletzt verwendet</string>
+  <string name="lattice_smartcover_title">Gitterfrontabdeckung</string>
   <string name="launch_by_default">Standardmäßig öffnen</string>
   <string name="launch_defaults_none">Kein Standard gesetzt</string>
   <string name="launch_defaults_some">Einige Standards gesetzt</string>
