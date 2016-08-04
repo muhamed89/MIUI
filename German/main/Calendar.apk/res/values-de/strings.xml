@@ -321,6 +321,7 @@
   <string name="preferences_alerts_ringtone_title">Klingelton</string>
   <string name="preferences_alerts_title">Benachrichtigungen</string>
   <string name="preferences_alerts_vibrateWhen_title">Vibration</string>
+  <string name="preferences_alerts_vibrate_title">Vibration und Benachrichtigungston</string>
   <string name="preferences_build_version">Build-Version</string>
   <string name="preferences_category_account_title">Konto</string>
   <string name="preferences_category_general_title">Allgemein</string>
@@ -336,6 +337,7 @@
   <string name="preferences_home_tz_default">Amerika/Los_Angeles</string>
   <string name="preferences_home_tz_title">Heimatzeitzone</string>
   <string name="preferences_import_credit_repayment">Kreditkartenzahlungen</string>
+  <string name="preferences_notification_ringtone_title">Ton</string>
   <string name="preferences_reminder_title">Benachrichtigung &amp; Erinnerungen</string>
   <string name="preferences_show_week_num_title">Kalenderwoche anzeigen</string>
   <string name="preferences_solar_terms">Sonnentage anzeigen</string>

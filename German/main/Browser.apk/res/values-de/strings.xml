@@ -400,6 +400,7 @@ Diese Seite verlassen?"</string>
   <string name="miuichromium_error_page_diagnose_connection">Keine Netzwerkverbindung</string>
   <string name="miuichromium_error_page_diagnose_dns">Sieht so aus, als sei die URL falsch</string>
   <string name="miuichromium_error_page_diagnose_protocol">Netzwerkprotokollfehler</string>
+  <string name="miuichromium_error_page_diagnose_proxy_server">Proxyserverfehler</string>
   <string name="miuichromium_error_page_diagnose_success">Schwaches Signal</string>
   <string name="miuichromium_error_page_diagnose_timeout">Verbindungstimeout</string>
   <string name="miuichromium_error_page_diagnose_website">Diese Webseite ist nicht verfügbar</string>
@@ -439,6 +440,9 @@ Diese Seite verlassen?"</string>
   <string name="nav_bottom_bar_new_tab">Neuer Tab</string>
   <string name="nav_screen_container_tab_incognito">Privater Tab</string>
   <string name="nav_screen_container_tab_normal">Normaler Tab</string>
+  <string name="navigationbar_rightbutton_actiontext_cancle">Abbrechen</string>
+  <string name="navigationbar_rightbutton_actiontext_go">Los</string>
+  <string name="navigationbar_rightbutton_actiontext_search">Suchen</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Mit diesem Netzwerk verbinden</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Offenes WLAN-Netzwerk verfügbar</string>
   <string name="new_folder_name_lable">Gruppenname</string>
@@ -502,6 +506,7 @@ Diese Seite verlassen?"</string>
   <string name="pref_extras_reset_default_dlg">Einstellungen auf Standardwerte zurücksetzen?</string>
   <string name="pref_extras_reset_default_summary">Stelle Standardwerte wieder her</string>
   <string name="pref_extras_reset_default_title">Andere</string>
+  <string name="pref_extras_send_feedback">Feedback senden</string>
   <string name="pref_extras_title">Erweitert</string>
   <string name="pref_extras_title_version">Version</string>
   <string name="pref_file_downlaod_save_is_reset_default_settings">"Speichere Dateien im Standardverzeichnis des Browsers"</string>
@@ -647,6 +652,7 @@ Diese Seite verlassen?"</string>
   <string name="search_hint">Search</string>
   <string name="search_keyword_browser">Browser</string>
   <string name="search_label">Browser</string>
+  <string name="search_path_browser">Einstellungen/Installierte Apps/Browser</string>
   <string name="search_s139">139</string>
   <string name="search_settings_description">Lesezeichen und Verlauf</string>
   <string name="search_shipin">Video</string>
