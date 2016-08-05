@@ -893,8 +893,8 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="photo_fragment">Foto</string>
   <string name="photo_labels_group">Profil Foto</string>
   <string name="photo_load_failed">Foto konnte nicht geladen werden</string>
-  <string name="pick_new_photo">Neues Bild aus der Galerie auswählen</string>
-  <string name="pick_photo">Bild aus der Galerie auswählen</string>
+  <string name="pick_new_photo">Neues Bild aus der %s auswählen</string>
+  <string name="pick_photo">Bild aus der %s auswählen</string>
   <string name="pickerNewContactHeader">Neuen Kontakt erstellen</string>
   <string name="pickerNewContactText">Neuen Kontakt erstellen</string>
   <string name="picker_all_list_empty">Keine Kontakte</string>
