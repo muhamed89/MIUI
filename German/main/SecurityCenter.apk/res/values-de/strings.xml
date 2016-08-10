@@ -376,7 +376,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="dns_exception_summary">DNS-Einstellungen des Routers überprüfen</string>
   <string name="dns_exception_title">DNS-Einstellungen überprüfen</string>
   <string name="download">Herunterladen</string>
-  <string name="downloading">Wird herungergeladen</string>
+  <string name="downloading">Wird heruntergeladen</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
   <string name="empty_title_auto_start_list">Kein Autostartapps</string>
@@ -502,7 +502,6 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="input_used_hint">Datenvolumen eingeben</string>
   <string name="input_used_max_hint">Datenverbrauch eingeben (weniger als %s)</string>
   <string name="install_sucess">%s erfolgreich installiert</string>
-  <string name="install_title">Von USB installieren</string>
   <string name="installed">Installiert</string>
   <string name="installing">Wird installiert</string>
   <string name="international_roaming_setting">Datenroaming</string>
