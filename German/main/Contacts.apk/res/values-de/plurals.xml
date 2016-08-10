@@ -73,8 +73,8 @@
         <item quantity="one">%1$d Nummer</item>
     </plurals>
     <plurals name="hint_search_emails">
-        <item quantity="other">%1$d Kontakt E-Mails</item>
-        <item quantity="one">1 Kontakt E-Mail</item>
+        <item quantity="other">%1$d E-Mails</item>
+        <item quantity="one">1 E-Mail</item>
     </plurals>
     <plurals name="pick_favorites_contacts_list_title">
         <item quantity="other">%1$d Favoriten</item>

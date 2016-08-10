@@ -4,7 +4,7 @@
   <string name="account_login_title">Konto</string>
   <string name="action_mode_deselect_all">Keine</string>
   <string name="action_mode_select_all">Alle</string>
-  <string name="activity_parse_video_title">URL einfügen</string>
+  <string name="activity_parse_video_title">Videolink einfügen</string>
   <string name="activity_rule">Regeln</string>
   <string name="ad_download">Download</string>
   <string name="ad_downloading">Einen Moment…</string>
@@ -179,6 +179,8 @@
   <string name="directory_no_item">Leer</string>
   <string name="disk_available">"Verfügbar: "</string>
   <string name="disk_total">"Gesamt: "</string>
+  <string name="dislike_toast">Solche Videos werden Ihnen nicht empfohlen</string>
+  <string name="dislike_video">Ich bin nicht interessiert</string>
   <string name="dlg_error_unmount_text">USB-Speicher konnte nicht getrennt werden</string>
   <string name="download">Download</string>
   <string name="download_current_progress">%1$d%%</string>
@@ -234,6 +236,7 @@
   <string name="need_read_storage_permission">"Explorer benötigt die Berechtigung, auf den internen Speicher zuzugreifen"</string>
   <string name="folder_name_illegal">Ungültiger Ordnername</string>
   <string name="folder_name_invalid">"Ordnernamen dürfen keine der folgenden Zeichen enthalten: /\\:*?&lt;>"</string>
+  <string name="force_touch_clean">Aufräumen</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Hier drücken&lt;/a&gt;, um zum Papierkorb zu wechseln.</string>
   <string name="found_router">Router verbunden</string>
   <string name="found_usb">USB Speicher verbunden</string>
@@ -272,7 +275,7 @@
   <string name="installing">Installieren…</string>
   <string name="instruction">"Folgende Adresse im FTP-Client eingeben: "</string>
   <string name="instruction_pre">"Drücken Sie 'Start' um den FTP-Server einzuschalten."</string>
-  <string name="interest_recommend">Empfohlene Videos</string> 
+  <string name="interest_recommend">Videos empfehlen</string> 
   <string name="join_activity">Teilnehmen</string>
   <string name="just_now">Jetzt</string>
   <string name="kilobyteShort">KB</string>
@@ -302,6 +305,9 @@
 "</string>
   <string name="kuaipan_root_fooder">Home</string>
   <string name="kuaipan_tech_support">Anmelden bei kuaipan.cn</string>
+  <string name="like_toast_1">Solche Videos werden Ihnen öfter empfohlen</string>
+  <string name="like_toast_2">Sehen Sie sich Videos die sie mögen in Ihrem Profil an</string>
+  <string name="like_toast_3">Melden Sie sich an, um Videos die sie mögen in Ihrem Profil anzusehen</string>
   <string name="load_err">Laden fehlgeschlagen</string>
   <string name="load_more">Mehr anzeigen</string>
   <string name="load_sticker_fail">Laden fehlgeschlagen, versuchen Sie es erneut</string>
@@ -535,7 +541,11 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="operation_unfavorite">Aus Favoriten entfernen</string>
   <string name="operation_unlike">Gefällt mir nicht mehr</string>
   <string name="otg_file_can_not_open">"Die Datei auf dem USB-Speicher kann nicht geöffnet werden. Kopieren Sie die Datei zunächst auf den internen Speicher."</string>
+  <string name="other_user_follow_title">Personen denen ich folge</string>
   <string name="other_user_liked_topic_tip">Sie folgen aktuell keinen Themen</string>
+  <string name="other_user_liked_video_title">Videos die ich mag</string>
+  <string name="other_user_no_follow_tip">Sie folgen bisher niemandem</string>
+  <string name="other_user_no_liked_video_tip">Keine Videos die ich mag</string>
   <string name="other_user_topic_tab">Themen</string>
   <string name="other_user_video_tab">Videos</string>
   <string name="pan_settting">KuaiPan-Einstellungen</string>
@@ -592,6 +602,8 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="qq_platform">QQ</string>
   <string name="qzone_platform">Qzone</string>
   <string name="recommend">Empfohlen</string>
+  <string name="recommend_topic">Empfohlene Themen</string>
+  <string name="recommend_user">Empfohlene Profile</string>
   <string name="release_to_signin">Zum Anmelden loslassen</string>
   <string name="remote_video_no_network">"Netzwerkverbindung fehlgeschlagen. Überprüfen Sie Ihre Netzwerkverbindung und versuchen Sie es erneut."</string>
   <string name="remote_video_report_success">"Vielen Dank für Ihr Feedback! Wir schauen es uns sobald wie möglich an."</string>
@@ -679,6 +691,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="server_control_charset">Übertragungscodierung</string>
   <string name="server_control_settings">Einstellungen</string>
   <string name="server_error">Serverfehler, versuchen Sie es später. (Fehler %s)</string>
+  <string name="setting">Einstellungen</string>
   <string name="share_box">Geteilt</string>
   <string name="share_box_receive">Empfangen</string>
   <string name="share_box_send">Gesendet</string>
@@ -731,6 +744,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="tab_category">Kategorien</string>
   <string name="tab_common_app">Apps &amp; Ordner</string>
   <string name="tab_expand">Erweitern</string>
+  <string name="tab_follow">Folgen</string>
   <string name="tab_hottest_video">Beliebt</string>
   <string name="tab_local">LOKAL</string>
   <string name="tab_local_video">Offline</string>
@@ -738,6 +752,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="tab_path">ORDNER</string>
   <string name="tab_profile">Profil</string>
   <string name="tab_ranking_list">Rangliste</string>
+  <string name="tab_recommend_video">Empfohlen</string>
   <string name="tab_remote_video">Kürzlich angesehen</string>
   <string name="tab_source">APPS</string>
   <string name="tab_storage">SPEICHER</string>
@@ -776,7 +791,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="ui_main_toast_operation_failed">Entfernen von %1$s aus Favoriten fehlgeschlagen.</string>
   <string name="unmount_inform_text">USB-Speicher trennen?</string>
   <string name="unreviewed_video_cannot_share">Videos sollten vor dem Teilen geprüft werden</string>
-  <string name="upload_external_action_hint">Paste URL</string>
+  <string name="upload_external_action_hint">Videolink einfügen</string>
   <string name="upload_external_notification_failed">Konnte nicht veröffentlicht werden</string>
   <string name="upload_external_notification_success">Erfolgreich veröffentlicht</string>
   <string name="upload_external_notification_title">Wird veröffentlicht, warten Sie einen Moment…</string>
@@ -805,6 +820,8 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="user_agreement">Nutzungsbedingungen</string>
   <string name="user_center_setting">Einstellungen</string>
   <string name="user_center_title">Startseite</string>
+  <string name="user_follow_me_title">Meine Fans</string>
+  <string name="user_follow_title">Personen denen ich folge</string>
   <string name="user_guide">KuaiPan Handbuch</string>
   <string name="user_guide_continue_use">OK</string>
   <string name="user_guide_download_other_version">KuaiPan für Windows oder OSX runterladen</string>
@@ -814,15 +831,27 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="user_guide_save_file">Speichern Sie Ihre Dateien und Bilder auf Kuaipan.</string>
   <string name="user_guide_summary">Bequemer und sicherer Cloudspeicher</string>
   <string name="user_guide_upload_to_kuaipan">Dateien auf KuaiPan speichern</string>
+  <string name="user_like_text">Likes</string>
+  <string name="user_liked_video_title">Videos die ich mag</string>
   <string name="user_login_dialog_cancle">Abbrechen</string>
   <string name="user_login_dialog_tip">Anmelden um Videos hochzuladen, an Ranglisten teilzunehmen und Belohnungen zu erhalten</string>
   <string name="user_login_dialog_title">Anmelden</string>
+  <string name="user_message_text">Nachrichten</string>
   <string name="user_msg_text">Nachrichten</string>
+  <string name="user_no_fans_tip">Keine Fans</string>
+  <string name="user_no_follow_topic">Sie folgen bisher keinem Thema</string>
+  <string name="user_no_follow_user">Sie folgen bisher keinen Personen</string>
+  <string name="user_no_liked_video_tip">Videos die sie mögen, scheinen hier auf</string>
   <string name="user_no_net_video_tip">Schlechte Netzwerkverbindung. Überprüfen Sie die Einstellungen und versuchen Sie es erneut</string>
   <string name="user_no_upload">Keine Videos</string>
   <string name="user_no_video_tip">Sie haben noch keine Videos hochgeladen</string>
   <string name="user_not_login">Zuerst anmelden</string>
   <string name="user_not_video_btn_text">Laden Sie ihr erstes Video hoch</string>
+  <string name="user_recommend_follow">Empfohlene Profile</string>
+  <string name="user_setting_follow_new_msg">Benachrichtigungen von Personen denen Sie folgen</string>
+  <string name="user_setting_follow_new_msg_tip">Erhalten Sie Benachrichtigungen über Videos</string>
+  <string name="user_setting_followed_msg">Benachrichtigungen über Follower</string>
+  <string name="user_setting_followed_msg_tip">Erhalten Sie eine Benachrichtigung, sobald Ihnen jemand folgt</string>
   <string name="user_setting_new_comment">Benachrichtigungen über Kommentare</string>
   <string name="user_setting_new_comment_tip">Erhalten Sie Benachrichtigungen über neue Kommentare</string>
   <string name="user_setting_new_liked">Benachrichtigungen über Likes</string>
@@ -831,6 +860,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="user_setting_topic_new_msg_tip">Erhalten Sie Benachrichtigungen, wenn Personen denen Sie folgen, neue Videos veröffentlichen</string>
   <string name="user_topic_btn_text">Weitere Themen ansehen</string>
   <string name="user_topic_text">Meine Themen</string>
+  <string name="user_upload_text">Uploads</string>
   <string name="user_upload_tip">Hochladen</string>
   <string name="user_video_text">Meine Videos</string>
   <string name="utf8_summary">System-FTP-Standardcodierung</string>
@@ -884,10 +914,13 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="weixin_not_installed">WeChat ist nicht installiert</string>
   <string name="weixin_sticker_tag_str">WeChat-Sticker</string>
   <string name="wifi_state">WLAN-Verbindung</string>
+  <string name="wx_title1">Hier ist ein cooles Video!</string>
+  <string name="wx_title2">Ich habe ein Video geteilt, schauen Sie es sich an!</string>
+  <string name="wx_title3">Sehen Sie beliebte Videos aus der ganzen Welt!</string>
   <string name="wxcircle_platform">Momente</string>
   <string name="xiaomi_account">Mi Konto</string>
   <string name="xiaomi_btn_str">Mi</string>
-  <string name="year_month_day_format">MMM dd, yyyy</string>
+  <string name="year_month_day_format">dd. MMM, yyyy</string>
   <string name="yes">Ja</string>
   <string name="yesterday">Gestern</string>
   <string name="zero_comment">Keine Kommentare</string>

@@ -87,6 +87,10 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; System &gt; Tast
   <string name="screen_on_proximity_sensor_title">Ungewollte Anrufe verhindern</string>
   <string name="screen_paper_mode_enter_toast">Lesemodus ist aktiv. Sie können ihn jederzeit unter Einstellungen &gt; Lesemodus aktivieren oder deaktivieren.</string>
   <string name="screen_rotation_freeze_message">Auto-Rotation deaktiviert</string>
+  <string name="screenshot_gesture_detect_alert_button">Gehen Sie zum Einschalten zu den Screenshoteinstellungen</string>
+  <string name="screenshot_gesture_detect_alert_dont_again">Nicht wieder anzeigen</string>
+  <string name="screenshot_gesture_detect_alert_msg">Wollen Sie die Funktion, mit drei Fingern nach unten zu wischen, um einen Screenshot zu erstellen, einschalten?</string>
+  <string name="screenshot_gesture_detect_alert_title">Drei-Finger-Screenshot</string>
   <string name="security_permission_denied_text">Zugang verweigert</string>
   <string name="security_permission_failed_text">Interner Fehler, später noch einmal versuchen</string>
   <string name="security_permission_validate_warning">Danke, dass Sie helfen, MIUI zu verbessern!</string>

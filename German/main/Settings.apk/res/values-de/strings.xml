@@ -282,7 +282,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="application_permission_manager">Appberechtigungen</string>
   <string name="application_restrictions">Apps und Inhalte zulassen</string>
   <string name="application_size_label">App</string>
-  <string name="applications_settings">Programme</string>
+  <string name="applications_settings">Alle Apps</string>
   <string name="applications_settings_header">Appeinstellungen</string>
   <string name="applications_settings_summary">Apps verwalten, Verknüpfungen für Schnellstart festlegen</string>
   <string name="apply_fingerprint_to_category_title">Fingerabdruck anwenden...</string>
@@ -1424,7 +1424,7 @@ Das hilft Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
   <string name="filter_apps_disabled">Ausgeschaltet</string>
   <string name="filter_apps_onsdcard">USB-Speicher</string>
   <string name="filter_apps_running">Aktiv</string>
-  <string name="filter_apps_third_party">Geladene</string>
+  <string name="filter_apps_third_party">Installierte</string>
   <string name="filter_dlg_title">Filteroptionen auswählen</string>
   <string name="filter_enabled_apps">Aktiviert</string>
   <string name="filter_notif_blocked_apps">Blockiert</string>
@@ -2943,6 +2943,8 @@ Um Screenpinning zu nutzen:
   <string name="screensaver_settings_summary_sleep">Während des Ladevorgangs</string>
   <string name="screensaver_settings_title">Bildschirmschoner</string>
   <string name="screensaver_settings_when_to_dream">Daydream starten</string>
+  <string name="screenshot">Screenshot</string>
+  <string name="screenshot_three_gesture">Wischen Sie mit 3 Fingern gleichzeitig, um einen Screenshot zu erstellen</string>
   <string name="sd_card_settings_label">USB-Speicher</string>
   <string name="sd_card_storage">USB-Speicher</string>
   <string name="sd_eject">Gemeinsamen Speicher trennen</string>
@@ -3023,6 +3025,7 @@ Um Screenpinning zu nutzen:
   <string name="search_dtmf_tone_enable_title">Wähltastentöne</string>
   <string name="search_empty">Entschuldigung, es wurden keine relevanten Einstellungen gefunden</string>
   <string name="search_equalizer">Equalizer</string>
+  <string name="search_fluency_mode">Systemanimationen</string>
   <string name="search_font">Systemschriftart</string>
   <string name="search_gps">GPS</string>
   <string name="search_handy_mode">Einhandmodus</string>
@@ -3751,6 +3754,7 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="tether_settings_title_usb">USB-Tethering</string>
   <string name="tether_settings_title_usb_bluetooth">Tethering</string>
   <string name="tether_settings_title_wifi">Mobiler Hotspot</string>
+  <string name="tether_share_qrcode_title">QR-Code teilen</string>
   <string name="tethering_help_button_text">Hilfe</string>
   <string name="tethering_settings_not_available">Tetheringeinstellungen sind für diesen Benutzer nicht verfügbar.</string>
   <string name="theme_settings_title">Themen</string>

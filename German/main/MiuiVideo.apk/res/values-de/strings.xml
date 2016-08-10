@@ -125,7 +125,8 @@
   <string name="download_fail">Fehlgeschlagen</string>
   <string name="download_file_fail">Lokaler Dateizugriff fehlgeschlagen, möglicherweise nicht genügend Speicher auf der SD-Karte vorhanden</string>
   <string name="download_finished">Komplett</string>
-  <string name="download_geturl_fail">"URL konnte nicht angefordert werden."</string>
+  <string name="download_geturl_fail">URL konnte nicht angefordert werden</string>
+  <string name="download_insufficient_space">Insufficient space</string>
   <string name="download_is_in_tasklist">in Warteschlange</string>
   <string name="download_paused">Pause</string>
   <string name="download_percent_hint">Herunterladen %d%%</string>
@@ -234,7 +235,7 @@
   <string name="notification_default_title">Offlinevideo</string>
   <string name="notification_sub_title">%d Download(s) abgeschlossen</string>
   <string name="notification_ticker_text">Offlinevideodownload abgeschlossen</string>
-  <string name="notification_title">\"%s\" Download abgeschlossen</string>
+  <string name="notification_title">\"%1$s\" Download abgeschlossen</string>
   <string name="nowifi_alert_dialog_continue">OK</string>
   <string name="nowifi_alert_dialog_exit">Abbrechen</string>
   <string name="nowifi_alert_dialog_message">"Das Streaming von Videos mit der mobilen Datenverbindung kann zu erhöhten Kosten führen."</string>

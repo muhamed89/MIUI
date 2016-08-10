@@ -248,4 +248,36 @@
         <item quantity="few">Videos</item>
         <item quantity="many">Videos</item>
     </plurals>
+    <plurals name="user_follow_me_items">
+        <item quantity="other">Follower</item>
+        <item quantity="zero">Follower</item>
+        <item quantity="one">Follower</item>
+        <item quantity="two">Follower</item>
+        <item quantity="few">Follower</item>
+        <item quantity="many">Follower</item>
+    </plurals>
+    <plurals name="number_of_comment">
+         <item quantity="other">%1$s Kommentare</item>
+         <item quantity="zero">%1$s Kommentare</item>
+         <item quantity="one">%1$s Kommentar</item>
+         <item quantity="two">%1$s Kommentare</item>
+         <item quantity="few">%1$s Kommentare</item>
+         <item quantity="many">%1$s Kommentare</item>
+    </plurals>
+    <plurals name="video_count">
+         <item quantity="other">%1$s Videos</item>
+         <item quantity="zero">%1$s Videos</item>
+         <item quantity="one">%1$s Video</item>
+         <item quantity="two">%1$s Videos</item>
+         <item quantity="few">%1$s Videos</item>
+         <item quantity="many">%1$s Videos</item>
+    </plurals>
+    <plurals name="follow_count">
+        <item quantity="other">%1$s Follower</item>
+        <item quantity="zero">%1$s Follower</item>
+        <item quantity="one">%1$s Follower</item>
+        <item quantity="two">%1$s Follower</item>
+        <item quantity="few">%1$s Follower</item>
+        <item quantity="many">%1$s Follower</item>
+    </plurals>    
 </resources>
