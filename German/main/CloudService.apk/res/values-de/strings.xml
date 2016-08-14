@@ -120,6 +120,7 @@ Zuletzt gesichert am %2$s"</string>
   <string name="loading_hint">Lade</string>
   <string name="master_alert_notif_dspt_add">%s Elemente warten auf Synchronisation</string>
   <string name="master_alert_notif_content">Synchronisation nicht möglich</string>
+  <string name="master_alert_notif_dspt_add">%s Dateien warten zum synchronisieren</string>
   <string name="master_alert_notif_dspt_no">Synchronisiert</string>
   <string name="master_alert_notif_title">Schalten Sie Sync. mit Mi Cloud ein</string>
   <string name="micloud_all_sub_1_intl_sms">"Es wird eine internationale Textnachricht gesendet, um Ihre SIM Karte zu aktivieren. Es können Kosten bei Ihrem Netzbetreiber entstehen. Wenn Sie die Funktion 'Gerät finden' einschalten, wird eine Aktivierungs SMS gesendet, sobald Sie die SIM Karte wechseln."</string>
@@ -266,7 +267,7 @@ Berühre den Einstellungsknopf, um mehr Optionen zu sehen"</string>
   <string name="micloud_main_title_sync_off">Synchronisation deaktiviert</string>
   <string name="micloud_main_title_sync_on_wifi">WLAN verwenden</string>
   <string name="micloud_main_update_space">Holen Sie sich mehr Speicherplatz.</string>
-  <string name="micloud_main_wlan_sync_data_count">%d Dinge warten um synchronisiert zu werden</string>
+  <string name="micloud_main_wlan_sync_data_count">%d Daten warten um synchronisiert zu werden</string>
   <string name="micloud_member">Mi Cloud Mitgliedschaft</string>
   <string name="micloud_member_advantage">Holen Sie sich mehr Speicherplatz.</string>
   <string name="micloud_member_buy_content" formatted="false">"Gültig für %s-%s-%s
