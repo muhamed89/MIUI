@@ -89,6 +89,7 @@
   <string name="album_share_subtitle_quitting">Wird beendet…</string>
   <string name="album_share_subtitle_requesting">Albuminfos werden geladen…</string>
   <string name="album_share_title_new_album">Neues Album teilen</string>
+  <string name="album_show_local_only">Zeige nur lokale Alben an</string>
   <string name="album_type_baby">Kinderalbum</string>
   <string name="album_type_share">Geteiltes Album</string>
   <string name="album_type_system">Systemalbum</string>
@@ -262,7 +263,7 @@
   <string name="cloudfolder_name_reserved">Ordnername ist reserviert</string>
   <string name="comfirm_delete_current_album">Dieses Album löschen?</string>
   <string name="collaps_people">Weitere Personen zusammenklappen</string>
-  <string name="comma">, </string>
+  <string name="comma">, </string>
   <string name="confirm">OK</string>
   <string name="confirm_delete">%s Bilder löschen?</string>
   <string name="confirm_delete_init_message">Foto wird von diesem Gerät und von Mi Cloud gelöscht werden. Wenn Sie es lediglich von diesem Gerät löschen möchten, versuchen Sie diese Aktion aus der Registerkarte Offline.</string>
