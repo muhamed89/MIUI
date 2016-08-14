@@ -35,8 +35,9 @@
   <string name="fm_record">Radioaufnahmen (%d)</string>
   <string name="loading_recording">Aufnahmen werden geladen</string>
   <string name="low_battery_error">Der Akku hat weniger als 5%. Damit die Aufnahme nicht verloren geht, wurde sie gestoppt und gespeichert.</string>
+  <string name="mark_point_list_title">Markieren</string>
   <string name="message_file_size_error">Die maximal unterstützte Aufnahmelänge für %s wurde erreicht</string>
-  <string name="no_downloading_file">Momentan werden keine Dateien runtergeladen</string>
+  <string name="new_record_name">Neue Aufnahme</string>
   <string name="no_file">Keine Aufnahmen</string>
   <string name="notification_message_all_paused">Kann den mobilen Datenverbrauch erhöhen</string>
   <string name="notification_playback">Wird abgespielt…</string>
@@ -46,6 +47,8 @@
   <string name="notification_title_all_paused">Download angehalten</string>
   <string name="notification_warning">Geringer Speicherplatz (weniger als %d Minuten)…</string>
   <string name="pause">Pause</string>
+  <string name="playback_delete_records">Lösche Aufnahme</string>
+  <string name="playback_share_records">Share Aufnahme</string>
   <string name="preference_enable_earpiece_summary">Nur über Kopfhörer abspielen</string>
   <string name="preference_enable_earpiece_title">Kopfhörer benutzen</string>
   <string name="preference_led_indicator">Im Sperrbildschirm aufnehmen</string>
@@ -76,12 +79,15 @@
   <string name="record_list_cloud_call">Cloudanrufaufnahmen</string>
   <string name="record_list_cloud_fm">Cloud-FM-Aufnahmen</string>
   <string name="record_list_fm">FM-Aufnahmen</string>
+  <string name="record_mark_point">Markiere %s</string>
   <string name="record_name_hour">.</string>
   <string name="record_name_minute"/>
   <string name="record_picker_title">Aufnahme auswählen</string>
-  <string name="record_quliaty_preference_title">Aufnahmequalität</string>
   <string name="record_saving">Aufnahme wird gespeichert…</string>
   <string name="recording">Aufnahme</string>
+  <string name="recording_quality_high">Hohe Qualität</string>
+  <string name="recording_quality_low">Niedrige Qualität</string>
+  <string name="recording_quality_standard">Standard Qualität</string>
   <string name="recording_stopped">Aufnahme beendet</string>
   <string name="rename">Umbenennen</string>
   <string name="rename_dialog_title">Aufnahme umbenennen</string>
@@ -94,9 +100,15 @@
   <string name="status_bar_back">Zurück mit Antippen</string>
   <string name="status_bar_recording">Aufnahme läuft…</string>
   <string name="status_bar_recording_pause">Aufnahme angehalten</string>
-  <string name="sync_only_in_wifi">Synchronisation nur über WLAN</string>
-  <string name="sync_only_in_wifi_summary">Wenn diese Funktion ausgeschaltet ist, verwendet der Rekorder Ihre mobile Datenverbindung zum Hoch- und Runterladen der Aufnahmen</string>
-  <string name="sync_records">Synchronisation mit Mi Cloud</string>
+  <string name="text_btn_complete">Stop</string>
+  <string name="text_btn_list">Aufnahmen</string>
+  <string name="text_btn_mark">Markieren</string>
+  <string name="text_btn_pause">Pause</string>
+  <string name="text_btn_play">Play</string>
+  <string name="text_btn_recognize">Erkenne</string>
+  <string name="text_btn_recording">Aufnahme</string>
+  <string name="text_btn_wave">Wave</string>
+  <string name="text_finish">Bestätigen</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="toast_file_is_downloading">Datei wird geladen</string>
   <string name="toast_max_record_time">%1$s kann Aufnehmen für %2$s</string>
