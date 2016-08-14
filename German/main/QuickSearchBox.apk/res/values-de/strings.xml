@@ -48,6 +48,7 @@ Um den Browserverlauf zu löschen, verwenden Sie die Browsereinstellungen."</str
   <string name="recently_shortcut_label">Kürzliche Abkürzungen</string>
   <string name="remove_from_history">Diesen Eintrag wirklich aus dem Verlauf löschen?</string>
   <string name="remove_from_history_failed">Eintrag kann nicht aus dem Verlauf gelöscht werden.</string>
+  <string name="search_apps">Suche Apps</string>
   <string name="search_group_fold">Weniger</string>
   <string name="search_group_unfold">Mehr</string>
   <string name="search_suggestion">Tipps</string>
@@ -59,6 +60,7 @@ Um den Browserverlauf zu löschen, verwenden Sie die Browsereinstellungen."</str
   <string name="search_settings">Einstellungen</string>
   <string name="search_sources">Durchsuchbare Elemente</string>
   <string name="search_sources_summary">Auswählen, was auf dem Telefon durchsucht werden soll</string>
+  <string name="search_videos">Suche Videos</string>
   <string name="search_widget">Suche</string>
   <string name="searchable_lable_app">App</string>
   <string name="searchable_lable_browser">Browser</string>
