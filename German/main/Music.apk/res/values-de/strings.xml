@@ -21,6 +21,8 @@
   <string name="action_item_send">Senden</string>
   <string name="action_item_share">Teilen</string>
   <string name="action_settings">Einstellungen</string>
+  <string name="ad_close">Schließen</string>
+  <string name="ad_extension">Werbung</string>
   <string name="add_music">Titel hinzufügen</string>
   <string name="add_to_last_of_playlist">Am Ende der Playlist einreihen.</string>
   <string name="alaka_required">"Song nicht verfügbar."</string>
@@ -46,7 +48,9 @@
   <string name="already_favorited">Bereits zu Favoriten hinzugefügt</string>
   <string name="android_sdk_too_low">"Die Androidversion ist veraltet, Musik kann nicht aktualisiert werden. Bitte führen Sie ein Update durch."</string>
   <string name="app_downloads">%s Downloads</string>
-  <string name="app_label">Downloads</string>
+  <string name="app_label">Downloads</strin
+  <string name="artist_album">Album</string>
+  <string name="artist_favor">Favorisiert</string>g>
   <string name="artist">Künstler</string>
   <string name="artist_is_empty">Der Name des Interpreten darf nicht fehlen.</string>
   <string name="artist_name">Interpret</string>
@@ -361,6 +365,12 @@
   <string name="local_music_empty">Die lokale Wiedergabeliste ist leer</string>
   <string name="local_music_empty_goto_online">Keine Titel gefunden</string>
   <string name="local_music_is_not_available">Lokale Titel sind nicht verfügbar.</string>
+  <string name="local_page_artist">Gefolgten Künstlern</string>
+  <string name="local_page_custom_subtitle">Jeden tag neue Lieder</string>
+  <string name="local_page_custom_title">Für dich</string>
+  <string name="local_page_song_all">Alle Lieder</string>
+  <string name="local_page_song_download">Lokale Lieder</string>
+  <string name="local_page_song_favorite">Favoriten Lieder</string>
   <string name="local_tracks_short">Offline</string>
   <string name="login_first">Zuerst mit Mi Konto anmelden</string>
   <string name="lrc_search_failed">"Songtext konnte nicht gefunden werden"</string>
