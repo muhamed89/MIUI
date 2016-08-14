@@ -130,6 +130,8 @@ Sie können Sie auch separat installieren."</string>
     <string name="passwordProtect">Passwort</string>
     <string name="please_diff_finger_print">Verwenden Sie unterschiedliche Fingerabdrücke für Haupt- und Zweitprofil.
     Andernfalls können Sie das Zweitprofil nicht vom Sperrbildschirm aus erreichen.</string>
+    <string name="private_sms_show_sub_title">Nachrichten Daten zwischen den Profilen synchronisieren​</string>
+    <string name="private_sms_show_title">Private Nachrichten im Zweitprofil anzeigen</string>  
     <string name="private_space_setting">Verwalten</string>
     <string name="privacyContactsSummary">Private Elemente im Zweitprofil anzeigen</string>
     <string name="privacyContactsTitle">Private Kontakte und Nachrichten</string>
