@@ -194,6 +194,11 @@ Bitte Ladegerät benutzen."</string>
   <string name="screen_pinning_negative">Nein Danke</string>
   <string name="screen_pinning_positive">Hab es</string>
   <string name="screen_pinning_title">Bildschirm ist gepinnt</string>
+  <string name="screenshot_delete">Löschen</string>
+  <string name="screenshot_delete_dlg_msg">Screenshot wirklich löschen?</string>
+  <string name="screenshot_delete_dlg_title">Löschen</string>
+  <string name="screenshot_dlg_cancel">Abbrechen</string>
+  <string name="screenshot_dlg_delete_button">Löschen</string>
   <string name="screenshot_edit">Bearbeiten</string>
   <string name="screenshot_failed_text">"Screenshot konnte nicht gespeichert werden (zu wenig Speicher oder von der App verweigert)."</string>
   <string name="screenshot_long_screenshot">Bildlauf</string>
