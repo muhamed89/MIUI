@@ -764,6 +764,7 @@
   <string name="petabyteShort">PB</string>
   <string name="photo">Foto</string>
   <string name="photo_edit_file_not_exits_tip">Sie müssen das Foto zuerst herunterladen</string>
+  <string name="photo_editor_saving">Speichern…</string>
   <string name="phone_number_empty_alert">Telefonnummer hinzufügen</string>
   <string name="photo_page_always_rotate">Bilder automatisch drehen</string>
   <string name="photo_page_detail_show_in_the_map">Standort auf der Karte anzeigen</string>
