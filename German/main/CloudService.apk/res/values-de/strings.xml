@@ -118,7 +118,6 @@ Zuletzt gesichert am %2$s"</string>
   <string name="license_host_unreachable">"Verbindung zum Netzwerk fehlgeschlagen. Um diese Information jetzt zu sehen, gehen Sie auf %s."</string>
   <string name="loading">Nur einen Moment…</string>
   <string name="loading_hint">Lade</string>
-  <string name="master_alert_notif_dspt_add">%s Elemente warten auf Synchronisation</string>
   <string name="master_alert_notif_content">Synchronisation nicht möglich</string>
   <string name="master_alert_notif_dspt_add">%s Dateien warten zum synchronisieren</string>
   <string name="master_alert_notif_dspt_no">Synchronisiert</string>
