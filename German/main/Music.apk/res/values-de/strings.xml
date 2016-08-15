@@ -48,7 +48,7 @@
   <string name="already_favorited">Bereits zu Favoriten hinzugefügt</string>
   <string name="android_sdk_too_low">"Die Androidversion ist veraltet, Musik kann nicht aktualisiert werden. Bitte führen Sie ein Update durch."</string>
   <string name="app_downloads">%s Downloads</string>
-  <string name="app_label">Downloads</strin
+  <string name="app_label">Downloads</string>
   <string name="artist_album">Album</string>
   <string name="artist_favor">Favorisiert</string>g>
   <string name="artist">Künstler</string>
