@@ -5,7 +5,7 @@
   <string name="accessibility_battery_level">Akku %d Prozent.</string>
   <string name="accessibility_bluetooth_connected">Bluetooth verbunden.</string>
   <string name="accessibility_bluetooth_disconnected">Bluetooth nicht verbunden.</string>
-  <string name="accessibility_bluetooth_tether">Bluetooth tethering</string>
+  <string name="accessibility_bluetooth_tether">Bluetoothtethering</string>
   <string name="accessibility_camera_button">Kamera</string>
   <string name="accessibility_clear_all">Alle Meldungen löschen.</string>
   <string name="accessibility_data_connection_3.5g">3.5G</string>
@@ -20,7 +20,7 @@
   <string name="accessibility_data_three_bars">Daten 3 Balken.</string>
   <string name="accessibility_data_two_bars">Daten 2 Balken.</string>
   <string name="accessibility_home">Home</string>
-  <string name="accessibility_ime_switch_button">Wächsle Eingabemodus Button.</string>
+  <string name="accessibility_ime_switch_button">Eigabemethode-Taste wechseln.</string>
   <string name="accessibility_managed_profile">Arbeitsprofil</string>
   <string name="accessibility_menu">Menü</string>
   <string name="accessibility_no_data">Kein Datenempfang.</string>
@@ -97,7 +97,7 @@ Wenn Sie die Datenverbindung wieder einschalten, können hohe Kosten entstehen."
   <string name="dlg_error_title">USB-Vorgang fehlgeschlagen</string>
   <string name="dlg_ok">OK</string>
   <string name="drive_mode_tip">Sie sind im Fahrzeugmodus</string>
-  <string name="enable_power_save_mode">Energiesparmodus aktivieren</string>
+  <string name="enable_power_save_mode">Energie sparen</string>
   <string name="expanded_confirm_disable_notification">Verbergen</string>
   <string name="expanded_notification_manager">Benachr. verwalten</string>
   <string name="ext_media_badremoval_notification_message">USB-Speicher vor dem Entfernen abmelden, um Datenverlust zu vermeiden.</string>
@@ -181,9 +181,9 @@ Bitte Ladegerät benutzen."</string>
   <string name="quick_settings_wifi_detail_empty_text">Keine WLAN-Netzwerke verfügbar</string>
   <string name="quick_settings_wifi_label">WLAN</string>
   <string name="quick_settings_wifi_nearby">Wählen Sie ein Netzwerk in der Nähe</string>
-  <string name="recent_task_app_info_text">Appdetails</string>
-  <string name="recent_task_lock_text">Taskmanager sperren</string>
-  <string name="recent_task_unlock_text">Taskmanager entsperrt</string>
+  <string name="recent_task_app_info_text">Details</string>
+  <string name="recent_task_lock_text">Sperren</string>
+  <string name="recent_task_unlock_text">Entsperren</string>
   <string name="reject_call">Anruf ablehnen</string>
   <string name="return_to_incall_screen">Zurück zum Anruf</string>
   <string name="save_mode_btn_ok">OK</string>
