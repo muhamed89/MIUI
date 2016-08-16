@@ -50,7 +50,7 @@
   <string name="app_downloads">%s Downloads</string>
   <string name="app_label">Downloads</string>
   <string name="artist_album">Album</string>
-  <string name="artist_favor">Favorisiert</string>g>
+  <string name="artist_favor">Favorisiert</string>
   <string name="artist">Künstler</string>
   <string name="artist_is_empty">Der Name des Interpreten darf nicht fehlen.</string>
   <string name="artist_name">Interpret</string>
