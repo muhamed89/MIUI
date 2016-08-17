@@ -99,7 +99,7 @@
   <string name="indices_desc_feel_without_pic">%1$s°C</string>
   <string name="indices_desc_humidity">Luftfeuchtigkeit %1$s%%</string>
   <string name="indices_desc_humidity_without_pic">%1$s%%</string>
-  <string name="indices_desc_pressure">%1$s mb</string>
+  <string name="indices_desc_pressure">%1$s hPa</string>
   <string name="indices_desc_pressure_mm">%1$s mmHg</string>
   <string name="indices_desc_visibility">%1$s km</string>
   <string name="indices_no_restriction">Keine</string>
@@ -156,6 +156,7 @@
   <string name="no_network_btn">Wiederholen</string>
   <string name="open">Öffnen</string>
   <string name="open_browser">In Browser öffnen</string>
+  <string name="pressure_connect">%1$s hPa</string>
   <string name="retry">Wiederholen</string>
   <string name="set">Einstellungen</string>
   <string name="set_degree_centigrade">°C</string>
@@ -171,7 +172,7 @@
   <string name="settings_cityname_translate_summary">Versuchen, Städtenamen zu übersetzen (über Google Maps API). Nachdem Sie diese Einstellung geändert haben, müssen Sie Städte löschen und nochmals hinzufügen. EXPERIMENTELL!</string>
   <string name="settings_cityname_translate_title">Städtenamen übersetzen</string>
   <string name="settings_menu_title">Einstellungen</string>
-  <string name="settings_pressure_unit">Druck</string>
+  <string name="settings_pressure_unit">Luftdruck</string>
   <string name="settings_pressure_unit_mb">hPa</string>
   <string name="settings_pressure_unit_mm">mmHg</string>
   <string name="settings_temp_unit">Temperatur</string>
