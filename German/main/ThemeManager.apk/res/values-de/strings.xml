@@ -164,6 +164,7 @@
   <string name="resource_comment_upload_not_logined">Bitte zuerst anmelden</string>
   <string name="resource_comment_upload_success">Kommentar gesendet! Ihr Kommentar wird nach einer kurzen Überprüfung angezeigt.</string>
   <string name="resource_continue">Weiter</string>
+  <string name="resource_data_empty">Der Inhalt ist leer</string>
   <string name="resource_default">Standardklingelton</string>
   <string name="resource_default_name">Quelle</string>
   <string name="resource_delete">Löschen</string>

@@ -167,15 +167,27 @@
     <plurals name="picker_retry_image_confirm_message">
           <item quantity="other">%1$d Fotos konnten nicht heruntergeladen werden, noch einmal versuchen?</item>
           <item quantity="one">Ein Foto konnten nicht heruntergeladen werden, noch einmal versuchen?</item>
-     </plurals>
-     <plurals name="picker_retry_origin_confirm_message">
+    </plurals>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">%1$d Fotos konnten nicht heruntergeladen werden. Stellen Sie eine Internetverbindung her und versuchen Sie es noch einmal.</item>
+        <item quantity="one">Fotos konnte nicht heruntergeladen werden. Stellen Sie eine Internetverbindung her und versuchen Sie es noch einmal.</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
          <item quantity="other">%1$d Fotos (%2$dMB) konnten nicht heruntergeladen werden, noch einmal versuchen?</item>
-         <item quantity="one">Ein Foto (%2$dMB) konnten nicht heruntergeladen werden, noch einmal versuchen?</item>
-     </plurals>
-     <plurals name="picker_cancel_confirm_message">
+         <item quantity="one">Foto (%2$dMB) konnten nicht heruntergeladen werden, noch einmal versuchen?</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">1$d Fotos (%2$dMB) konnten nicht heruntergeladen werden. Stellen Sie eine Internetverbindung her und versuchen Sie es noch einmal.</item>
+        <item quantity="one">Ein Foto (%2$dMB) konnten nicht heruntergeladen werden. Stellen Sie eine Internetverbindung her und versuchen Sie es noch einmal.</item>
+    </plurals>
+    <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">%d Cloudfotos hinzugefügt, schalten Sie \"Nur lokale Alben anzeigen\" aus, um sie anzusehen</item>
+        <item quantity="one">%d Cloudfoto hinzugefügt, schalten Sie \"Nur lokale Alben anzeigen\" aus, um es anzusehen</item>
+    </plurals>
+    <plurals name="picker_cancel_confirm_message">
          <item quantity="other">Download der verbleibenden %d Fotos abbrechen?</item>
          <item quantity="one">Download des verbleibenden Fotos abbrechen?</item>
-     </plurals>
+    </plurals>
     <plurals name="delete_photo_msg_format">
         <item quantity="other">%1$d Fotos %2$s löschen?</item>
         <item quantity="one">Dieses Foto %2$s löschen?</item>

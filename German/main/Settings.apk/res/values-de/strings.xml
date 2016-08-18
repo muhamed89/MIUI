@@ -2340,9 +2340,10 @@ Betriebssystem auswählen:"</string>
   <string name="no_application">Keine</string>
   <string name="no_applications">Keine Apps</string>
   <string name="no_battery_summary">Kein Akkuverbrauch seit der letzten vollen Ladung</string>
+  <string name="no_connected_devices">Keine verbundenen Geräte</string>
   <string name="no_data_usage">Keine Daten verbraucht</string>
-  <string name="no_default_apps">Keine Standardanwendungen.</string>
-  <string name="no_condition_providers">Keine Bedingungsanbieter sind installiert.</string>
+  <string name="no_default_apps">Keine Standardanwendungen</string>
+  <string name="no_condition_providers">Keine Bedingungsanbieter sind installiert</string>
   <string name="no_device_admins">Keine Geräteadministratoren verfügbar</string>
   <string name="no_internet_access_remember">Für dieses Netzwerk nicht mehr nachfragen</string>
   <string name="no_internet_access_text">Dieses Netzwerk hat keinen Internetzugang. Verbunden bleiben?</string>
@@ -3265,6 +3266,8 @@ Um Screenpinning zu nutzen:
   <string name="show_all_anrs">Alle ANRS anzeigen</string>
   <string name="show_all_anrs_summary">Dialogfeld \"App antwortet nicht\" für Hintergrundapps anzeigen</string>
   <string name="show_background_processes">Prozesse im Cache anzeigen</string>
+  <string name="show_connected_devices_summary">Verbundene Geräte anzeigen</string>
+  <string name="show_connected_devices_title">Verbundene Geräte</string>
   <string name="show_cpu_usage">CPU-Auslastung anzeigen</string>
   <string name="show_cpu_usage_summary">Bildschirmanzeige zur CPU-Auslastung</string>
   <string name="show_dev_already">Okay, Sie sind bereits ein Entwickler.</string>
@@ -3749,6 +3752,8 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="testing_sim_toolkit">SIM-Toolkit</string>
   <string name="testing_usage_stats">Nutzungsstatistik</string>
   <string name="testing_wifi_info">WLAN-Information</string>
+  <string name="tether_devices_management_title">Geräte verwalten</string>
+  <string name="tether_settings_disabled">Persönlicher Hotspot ist deaktiviert</string>
   <string name="tether_settings_title_all">Tethering &amp; Hotspot</string>
   <string name="tether_settings_title_bluetooth">Bluetoothtethering</string>
   <string name="tether_settings_title_usb">USB-Tethering</string>
