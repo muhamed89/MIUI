@@ -162,7 +162,10 @@
   <string name="notification_reboot_title">Neustart erforderlich, damit Update übernommen wird</string>
   <string name="notification_reboot_title_hm">Neustart erforderlich, damit Update übernommen wird</string>
   <string name="notification_restart">Erneut aktualisieren</string>
-  <string name="notification_share">Teile</string>
+  <string name="notification_share">Teilen</string>
+  <string name="notification_uncrypt_summary_hm">Zum Neustarten antippen</string>
+  <string name="notification_uncrypt_title_hm">Neustarten um das Update anzuwenden</string>
+  <string name="notification_uncrypting">Update wird entschlüsselt</string>
   <string name="notification_update_new_version">Update verfügbar</string>
   <string name="notification_update_now">Update jetzt durchführen</string>
   <string name="notification_updating">Aktualisiere…</string>
@@ -291,6 +294,7 @@ Sie können aber nächsten Monat mitmachen.</string>
   <string name="upgrade_close">Schließen</string>
   <string name="upgrade_kernel">System-Kernel ist veraltet</string>
   <string name="upgrade_kernel_msg">"Ihr verwendeter Kernel entspricht nicht der MIUI-Version. Sie müssen den Kernel manuell aktualisieren. Siehe Xiaomi Aktualisierungsanleitung: "</string>
+  <string name="uncrypt_title">Entschlüsseln (%s)</string>
   <string name="user_begin">Download</string>
   <string name="user_intertup_download_msg">Downloads pausiert. Sie können sie jederzeit über den Updater fortsetzen.</string>
   <string name="user_intertup_download_title">Download pausiert</string>

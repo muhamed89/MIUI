@@ -25,6 +25,7 @@
   <string name="add_event_hint">Label eingeben</string>
   <string name="add_sharer">Benutzer hinzufügen</string>
   <string name="add_to_album">Album hinzufügen</string>
+  <string name="add_to_album_tip">Cloudfotos</string>
   <string name="add_to_album_bulk_result">%d fehlgeschlagen</string>
   <string name="add_to_album_exist">Foto existiert bereits im Album</string>
   <string name="add_to_album_failed">Hinzufügen zu Album fehlgeschlagen</string>
@@ -780,7 +781,9 @@
   <string name="pick_too_much_tips">Maximal %d Elemente</string>
   <string name="picker_full_format">maximal %d Elemente.</string>
   <string name="picker_no_album_selected">Keine Alben ausgewählt</string>
-  <string name="picker_no_items_selected">Nichts ausgewählt</string>
+  <string name="picker_no_items_selected">Nichts ausgewählt</string>  
+  <string name="picker_no_network_message">Keine Netzwerkverbindung, verbinden Sie such zum Herunterladen</string>
+  <string name="picker_origin_need_download">"%1$d der ausgewählten Fotos (%2$dMB) befinden sich nicht auf diesem Gerät. Über mobile Datenverbindung herunterladen?"</string>
   <string name="picker_select_album_title_empty">Album auswählen</string>
   <string name="picker_tab_photo">Foto</string>  
   <string name="picker_title_format">Sie können %d auswählen</string>
@@ -901,6 +904,8 @@
   <string name="send_too_many_files_error">So viele Elemente können nicht gesendet werden (maximal %d Elemente).</string>
   <string name="sepia">Sepia</string>
   <string name="set_as_baby_lock_wallpaper">Als Sperrbildschirmhintergrund</string>
+  <string name="set_as_wallpaper_description">Dies ist nur ein Vorschaubild, wollen Sie zuerst das Original herunterladen?</string>
+  <string name="set_as_wallpaper_title">Als Hintergrundbild festlegen</string>
   <string name="set_baby_icon_picker_default_title">Babysymbol einrichten</string>
   <string name="set_bg_file_exist_message">Dieses Element exisitiert bereits</string>
   <string name="set_bg_picker_default_title">Vorschaufoto einrichten</string>
@@ -929,6 +934,8 @@
   <string name="share">Teilen</string>
   <string name="share_album">Album teilen</string>
   <string name="share_album_owner">Eigentümer</string>
+  <string name="share_album_needs_auto_upload_tip">Backup kann für geteilte Alben nicht deaktiviert werden</string>
+  <string name="share_app_is_launching">Die Zielapp wird gestartet</string>
   <string name="share_album_space_full">Nicht genügend Speicherplatz in diesem Album</string>
   <string name="share_by_email_start">%1$s im Hintergrund teilen</string>
   <string name="share_by_email_successfully">%1$s geteilt</string>

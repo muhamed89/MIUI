@@ -211,6 +211,7 @@
   <string name="select_one_sim_title">Nur SIM %1$d kann verwendet werden</string>
   <string name="select_sim_hint">SIM %2$d kann nicht verwendet werden während SIM %1$d verwendet wird"</string>
   <string name="select_voice_call_sim">Wähle SIM-Karte</string>
+  <string name="sip_call_not_support_record">SIP-Anrufe können nicht aufgezeichnet werden</string>
   <string name="separate_from_conference">Seperater Anruf</string>
   <string name="suspect_info">Vorsicht: Sie sollten beim ersten Kontakt immer die Identität prüfen bevor Sie auf Nachrichten über ihre Finanzen antworten.</string>
   <string name="time_left_livetalk">(%ds)</string>

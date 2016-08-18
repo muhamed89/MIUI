@@ -81,6 +81,10 @@
         <item quantity="other">%1$d Apps hat in den letzten %2$s Speicher verbraucht</item>
         <item quantity="one">1 App hat in den letzten %2$s Speicher verbraucht</item>
     </plurals>
+    <plurals name="connected_devices_number">
+        <item quantity="other">%d Geräte</item>
+        <item quantity="one">%d Gerät</item>
+    </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">Sie sind %1$d Schritte von den Telefoninformationen entfernt.</item>
         <item quantity="one">Sie sind %1$d Schritt von den Telefoninformationen entfernt.</item>
