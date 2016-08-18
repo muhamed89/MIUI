@@ -231,6 +231,7 @@
   <string name="file_too_large">Datei ist zum Hochladen zu groß</string>
   <string name="files">Dateien</string>
   <string name="finished">Abgeschlossen</string>
+  <string name="flow_setting">Einstellungen</string>
   <string name="folder_exist">Ordner ist bereits vorhanden</string>
   <string name="folder_name_empty">Ordnername darf nicht leer sein</string>
   <string name="need_read_storage_permission">"Explorer benötigt die Berechtigung, auf den internen Speicher zuzugreifen"</string>
@@ -264,6 +265,7 @@
   <string name="homepage_tab_category">Kategorien</string>
   <string name="homepage_tab_file_view">Speicher</string>
   <string name="homepage_tab_recent">Kürzlich verwendet</string>
+  <string name="hot_app">Beliebte Apps</string>
   <string name="hot_comments">Beliebte Kommentare</string>
   <string name="hot_sticker">Beliebte Sticker</string>
   <string name="hot_video">Beliebte Videos</string>
@@ -272,6 +274,7 @@
   <string name="if_cancel">Diese Aktion abbrechen?</string>
   <string name="image_loading_error">"Bild konnte nicht geladen werden"</string>
   <string name="input_memo_hint">Geben Sie weitere Gründe an (optional)</string>
+  <string name="install_fail">Installation fehlgeschlagen</string>
   <string name="installing">Installieren…</string>
   <string name="instruction">"Folgende Adresse im FTP-Client eingeben: "</string>
   <string name="instruction_pre">"Drücken Sie 'Start' um den FTP-Server einzuschalten."</string>
@@ -490,6 +493,8 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="oauth_failed_tip">Autorisierung konnte nicht abgeschlossen werden</string>
   <string name="oauth_success_tip">Autorisierung erfolgreich</string>
   <string name="online_not_support">"Diese Datei kann im Moment nicht online angezeigt werden."</string>
+  <string name="only_wifi">Bei WLAN-Verbindung herunterladen</string>
+  <string name="open_app">Öffnen</string>
   <string name="open_changed_file_message">"Die Datei, die Sie öffnen möchten, wurde geändert. Sie können:
 1. die Datei erneut runterladen
 2. in Ihr KuaiPan-Konto hochladen"</string>
@@ -601,6 +606,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="qq_not_installed">QQ ist nicht installiert</string>
   <string name="qq_platform">QQ</string>
   <string name="qzone_platform">Qzone</string>
+  <string name="recent_show">Kürzlich</string>
   <string name="recommend">Empfohlen</string>
   <string name="recommend_topic">Empfohlene Themen</string>
   <string name="recommend_user">Empfohlene Profile</string>
