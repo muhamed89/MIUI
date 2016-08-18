@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">MIUI Bluetooth</string>
+  <string name="ble_device_address">Bluetooth Smart-Geräte-MAC</string>
+  <string name="ble_device_profile">Bluetooth Geräteeinstellungen</string>
+  <string name="ble_device_profile_header_title">Einstellungen</string>
+  <string name="ble_device_profile_title">Verbundenes Bluetooth Smart-Gerät</string>
+  <string name="ble_device_rename">Umbenennen</string>
+  <string name="bluetooth_connected">Verbunden</string>
+  <string name="bluetooth_connecting">Verbinden…</string>
+  <string name="bluetooth_disconnected">Getrennt</string>
+  <string name="bluetooth_disconnecting">Trennen…</string>
+  <string name="bluetooth_preference_connected_devices">Verbundene Geräte</string>
+  <string name="bluetooth_preference_found_devices">Verfügbare Geräte</string>
+  <string name="bluetooth_preference_scan_title">Nach Geräten suchen</string>
+  <string name="bluetooth_search_for_devices">Nach Geräten suchen</string>
+  <string name="device_picker">Bluetooth Geräteeinstellungen</string>
+  <string name="disconnect">Trennen</string>
+  <string name="goto_package">%1$s öffnen</string>
+  <string name="install_package">Für weitere Funktionen %1$s installieren</string>
+  <string name="mi_band_vibrate_alarm">Vibrieren wenn der Wecker klingelt</string>
+  <string name="mi_band_vibrate_incall">Vibrieren wenn das Telefon klingelt</string>
+  <string name="mi_band_vibrate_incall_in_contacts">Anrufe von Kontakten</string>
+  <string name="mi_band_vibrate_incall_no_contacts">Anrufe von unbekannten Nummern</string>
+  <string name="mi_band_vibrate_sms">Vibrate for SMS messages</string>
+  <string name="mi_band_vibrate_sms_in_contacts">Nachrichten von Kontakten</string>
+  <string name="mi_band_vibrate_sms_no_contacts">Nachrichten von unbekannten Nummern</string>
+  <string name="mi_key_alert_dialog_message">OK antippen, um den Wecker stummzuschalten</string>
+  <string name="mi_key_alert_dialog_title">Mi Key Alarm</string>
+  <string name="mi_key_find_mikey">Mi Key finden</string>
+  <string name="mi_key_find_phone">Gerät finden</string>
+  <string name="mi_key_open_camera">Kamera öffnen</string>
+  <string name="mi_key_summary_find_phone">Mi Key drücken &amp; halten um das Telefon läuten zu lassen</string>
+  <string name="mi_key_summary_open_camera">Mi Key doppelklicken um die Kamera zu öffnen</string>
+  <string name="mi_key_summary_take_photo">Mi Key klicken um ein Foto zu machen</string>
+  <string name="mi_key_take_photo">Foto machen</string>
+  <string name="notify_device_lose_connection_text">Antippen um %1$s zu trennen</string>
+  <string name="notify_device_lose_connection_title">Verbindung mit %1$s verloren</string>
+  <string name="ok_button">OK</string>
+  <string name="progress_scanning">Suche…</string>
+  <string name="reset_function_msg">Wenn Sie diese Funktion zurücksetzen, funktioniert %1$s eventuell nicht mehr ordungsgemäß.</string>
+  <string name="some_app_taking">(%1$s verwendet diese Funktion bereits)</string>
+  <string name="unbind_device_alert_cancel">Abbrechen</string>
+  <string name="unbind_device_alert_content">Verbindung mit %1$s verloren. Trennen Sie dieses Gerät, um Energie zu sparen.</string>
+  <string name="unbind_device_alert_ok">Trennen</string>
+  <string name="unbind_device_alert_title">Gerät trennen</string>
+</resources>
