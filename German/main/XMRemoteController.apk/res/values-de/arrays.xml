@@ -25,6 +25,27 @@
         <item>"Kann Modi oder Temperatur von der Klimaanlage nicht ändern?"</item>
         <item>Unterstützen Mi 3, Mi 2 und Redmi Infrarot-Steuerung für Fernseher, Klimaanlage und andere Geräte?</item>
     </string-array>
+    <string-array name="assistant_tab">
+        <item>Video</item>
+        <item>Screenshots</item>
+        <item>App</item>
+    </string-array>
+    <string-array name="epg_channel_tab">
+        <item>Komplett</item>
+        <item>Sammeln</item>
+        <item>CCTV</item>
+        <item>TV</item>
+        <item>HD</item>
+        <item>Kürzlich</item>
+    </string-array>
+    <string-array name="epg_channel_tab_actionbar">
+        <item>Alle Sender</item>
+        <item>Lieblingssender</item>
+        <item>CCTV</item>
+        <item>Sat-TV</item>
+        <item>HD Sender</item>
+        <item>Kürzlich angesehen</item>
+      </string-array>
     <string-array name="passport_alphabet_table">
         <item>\#</item>
         <item>A</item>
