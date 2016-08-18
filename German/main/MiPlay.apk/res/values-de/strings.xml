@@ -2,6 +2,9 @@
 <resources>
   <string name="app_name">MiPlay</string>
   <string name="cancel">Abbrechen</string>
+  <string name="enable_wifi_btn">Einschalten</string>
+  <string name="enable_wifi_message">WLAN einschalten, um sich mit Geräten in der Nähe zu verbinden</string>
+  <string name="enable_wifi_title">WLAN einschalten</string>
   <string name="media_feature_projection">Spiegelbild</string>
   <string name="media_status_error">Fehler</string>
   <string name="media_status_started">Verbunden</string>
