@@ -141,6 +141,7 @@
   <string name="actionbar_large_unread_count">%1$d+ ungelesene</string>
   <string name="activity_folder_selection">Ordner auswählen</string>
   <string name="activity_mailbox_selection">Konto auswählen</string>
+  <string name="ad_merge">Organisieren</string>
   <string name="add_account">Konto hinzufügen</string>
   <string name="add_attachment">Dateien hinzufügen</string>
   <string name="add_calendar">Erinnern</string>
@@ -728,6 +729,7 @@
   <string name="quick_reply_hint">Allen %1$d Personen antworten</string>
   <string name="quick_reply_hint_bcc">"(Im BCC) "</string>
   <string name="quick_reply_hint_cc">"(Im CC) "</string>
+  <string name="quick_reply_hint_reply_only_from">Schnelle Antwort (nur Absender)</string>
   <string name="quick_responses_empty_view">Keine Kurzantworten</string>
   <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
   <string name="quote_divider_1">-------- Ursprüngliche Nachricht --------</string>
@@ -811,6 +813,11 @@
   <string name="sent_folder_selection_title">Ordner \"Gesendete Elemente\" des Servers für %s auswählen</string>
   <string name="ser_resp_err_map_certificate_validator_err">"Serverzertifikat konnte nicht validiert werden
 \u0009 (Stellen Sie sicher, dass die 'Autom. Zeitsynchronisation' in den Einstellungen eingeschaltet ist)"</string>
+  <string name="ser_resp_err_map_landing_more_failure">Zu viele erfolglose Anmeldeversuche</string>
+  <string name="ser_resp_err_map_landing_too_frequently">Zu viele Anmeldeversuche</string>
+  <string name="ser_resp_err_map_mailbox_locked">E-Mail-Konto ist passwortgeschützt</string>
+  <string name="ser_resp_err_map_mailbox_not_open">Kein E-Mail-Konto</string>
+  <string name="ser_resp_err_map_max_connections">Zu viele Verbindungsversuche</string> 
   <string name="ser_resp_err_map_nouser">Benutzer nicht vorhanden</string>
   <string name="ser_resp_err_map_or">%1$s oder %2$s</string>
   <string name="ser_resp_err_map_pserr">Falscher Benutzername oder Passwort</string>
@@ -870,6 +877,7 @@
   <string name="too_large_to_attach_additional">Dateigröße darf %1$s nicht überschreiten.</string>
   <string name="too_large_to_attach_multiple">Mindestens eine Datei wurde nicht angehängt. Limit: %1$s</string>
   <string name="too_large_to_attach_single">Dateien größer als %1$s können nicht angehängt werden.</string>
+  <string name="topic_merge">Themen zusammenfassen</string>
   <string name="trash_folder_selection_title">Papierkorb des Servers für %s auswählen</string>
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>
