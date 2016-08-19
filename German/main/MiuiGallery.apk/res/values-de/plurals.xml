@@ -170,7 +170,7 @@
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
         <item quantity="other">%1$d Fotos konnten nicht heruntergeladen werden. Stellen Sie eine Internetverbindung her und versuchen Sie es noch einmal.</item>
-        <item quantity="one">Fotos konnte nicht heruntergeladen werden. Stellen Sie eine Internetverbindung her und versuchen Sie es noch einmal.</item>
+        <item quantity="one">Foto konnte nicht heruntergeladen werden. Stellen Sie eine Internetverbindung her und versuchen Sie es noch einmal.</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
          <item quantity="other">%1$d Fotos (%2$dMB) konnten nicht heruntergeladen werden, noch einmal versuchen?</item>
