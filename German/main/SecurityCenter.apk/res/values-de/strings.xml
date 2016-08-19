@@ -1271,7 +1271,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="scanning_bar_system_text">Appberechtigungen</string>
   <string name="scanning_bar_system_title">System durchsuchen…</string>
   <string name="score_pts">%</string>
-  <string name="section_clear_acc_item_title">%s bereinigt. Wenn immer noch nicht genügend Speicher vohanden ist, versuchen Bereinigung.</string>
+  <string name="section_clear_acc_item_title">%s bereinigt. Wenn immer noch nicht genügend Speicher vohanden ist, versuchen Sie die Bereinigung.</string>
   <string name="section_security_defend_item_title">Schützen Sie Ihre Daten mit der Appsperre</string>
   <string name="section_system_item_fixed">Behoben</string>
   <string name="section_title_clear_acc">Cache leeren</string>
@@ -1335,7 +1335,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="suggest_app_tolock">Vorschläge</string>
   <string name="summary_antivirus">Appnamen sowie Appdetails hochladen und online überprüfen</string>
   <string name="summary_antivirus_oversea">Virusdefinitionen automatisch aktualisieren</string>
-  <string name="summary_app_lock_disable">Apps sperren, im Ihre Privatsphäre zu schützen</string>
+  <string name="summary_app_lock_disable">Apps sperren, um Ihre Privatsphäre zu schützen</string>
   <string name="summary_cleaner_cloudscan">Unbekannte Ordner hochladen und mit Onlinevirendefinitionen vergleichen</string>
   <string name="summary_cloud_account">Das Optimale aus Ihrem Mi Gerät herausholen</string>
   <string name="summary_cloud_service">Synchronisieren Sie Ihre Fotos, Kontakte und noch viel mehr zwischen all Ihren Geräten</string>
