@@ -7,6 +7,7 @@ Die Werbe-ID ist eine permanente, eindeutige ID für Ihr Gerät. Werbetreibende 
 Wenn Sie sich gegen personalisierte Werbung entscheiden, wird die Anzahl der Werbeeinblendungen nicht reduziert, aber die Anzahl an für Sie interessante Werbung wird deutlich sinken."</string>
   <string name="about_settings">Über das Gerät</string>
   <string name="about_settings_summary">Rechtliche Hinweise, Status und Softwareversion anzeigen</string>
+  <string name="ac_enable_summary">Ein Passwort ist erforderlich, um die App zu öffnen</string>
   <string name="ac_enable_title">Apps sperren</string>
   <string name="ac_privacy_mode_sum">Zum Beenden des Gastmodus ist ein Passwort erforderlich</string>
   <string name="ac_privacy_mode_title">Passwort</string>
@@ -122,6 +123,7 @@ Stellen Sie sicher, dass Ihr Finger die Innenkante des Sensors bedeckt"</string>
   <string name="add_fingerprint_put_finger_edge_msg">Nach dem Drücken des Sensors, entfernen Sie den Finger und versuchen es erneut.</string>
   <string name="add_fingerprint_put_finger_msg">Nach dem Drücken des Sensors, entfernen Sie den Finger und versuchen es erneut.</string>
   <string name="add_fingerprint_put_finger_title">Finger platzieren und entfernen</string>
+  <string name="add_fingerprint_similar_fingerprint_input_error_msg">Bewegen Sie leicht Ihren Finger und setzen Sie den wieder auf den Sensor um die verschiedenen Teile Ihres Fingerabdrucks hinzufügen.</string>
   <string name="add_fingerprint_text">Fingerabdruck hinzufügen</string>
   <string name="add_fingerprint_toast_text">Legen Sie Ihren Finger jetzt auf den Scanner</string>
   <string name="adding_profile_owner_warning">"Wenn Sie weiter vorgehen, wird Ihr Benutzerkonto von Ihrem Administrator verwaltet, der dann auch zugeordneten Daten neben Ihren persönlichen Daten speichern kann.
@@ -158,9 +160,9 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="allow_data_usage_title">Gestatten Sie die Datennutzung beim Roaming</string>
   <string name="allow_mock_location">Manipulierte Standortdaten</string>
   <string name="allow_mock_location_summary">Manipulierte Standortdaten zulassen</string>
+  <string name="allow_overlay_description">Diese Berechtigung erlaubt es einer App, über anderen Apps angezeigt zu werden und kann die Bedienung und Anzeige anderer Apps beeinträchtigen.</string>
   <string name="allow_usage_access_message">Wenn Sie den Zugang erlauben, dann kann diese App allgemeine Informationen zu den Apps auf Ihrem Gerät anzeigen.  Zum Beispiel wie oft Sie diese verwenden.</string>
   <string name="allow_usage_access_title">Zugang erlauben?</string>
-  <string name="allow_overlay_description">Diese Berechtigung erlaubt es einer App, über anderen Apps angezeigt zu werden und kann die Bedienung und Anzeige anderer Apps beeinträchtigen.</string>
   <string name="alpha_build">" | Alpha"</string>
   <string name="always_allow_bind_appwidgets_text">Sie haben dieser App das Erstellen von Widgets und den Zugriff auf Ihre Daten erlaubt.</string>
   <string name="always_running">Dauerbetrieb (%s)</string>
@@ -245,6 +247,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="app_notification_block_title">Blockieren</string>
   <string name="app_notification_peekable_summary">Dieser App erlauben, bestimmte Benachrichtigungen kurz am aktuellen Bildschirm einzublenden</string>
   <string name="app_notification_peekable_title">Vorschau erlauben</string>
+  <string name="app_notification_preferences">Appeinstellungen</string>
   <string name="app_notification_priority_summary">Benachrichtigungen an der Spitze der Liste anzeigen lassen und sie weiterhin zulassen, wenn das Gerät nur auf Prioritätsunterbrechungen festgelegt ist</string>
   <string name="app_notification_priority_title">Priorität</string>
   <string name="app_notification_row_banned">Blockiert</string>
@@ -252,7 +255,6 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="app_notification_row_sensitive">Sensibel</string>
   <string name="app_notification_sensitive_summary">"Wenn das Gerät gesperrt ist, verstecke keine sensiblen Inhalte von den Benachrichtigungen dieser App."</string>
   <string name="app_notification_sensitive_title">Sensibel</string>
-  <string name="app_notification_preferences">Appeinstellungen</string>
   <string name="app_notifications_dialog_done">Fertig</string>
   <string name="app_notifications_switch_label">Benachrichtigungen</string>
   <string name="app_notifications_title">App Benachrichtigungen</string>
@@ -351,6 +353,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="available_via_passpoint">Verfügbar via %1$s</string>
   <string name="average_memory_use">Durchschnittliche Speichernutzung</string>
   <string name="average_used">Durchschnittlich verwendet (%)</string>
+  <string name="avoid_ui">UI vermeiden</string>
   <string name="awake">Aktive Zeit des Geräts</string>
   <string name="back_key">Zurück</string>
   <string name="background_data">Hintergrunddaten</string>
@@ -487,10 +490,10 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="battery_sugg_wifi">WLAN bei Nichtverwendung oder Nichtverfügbarkeit ausschalten</string>
   <string name="battery_summary">%1$d%% verwendet seit der letzten vollen Ladung</string>
   <string name="bearer">Eigentümer</string>
-  <string name="ble_scan_notify_text">Um die Standortgenauigkeit zu erhöhen, können Systemanwendungen nachwievor Bluetooth Geräte in der Nähe erkennen. Sie können dies in den LINK_BEGINScaneinstellungenLINK_END ändern.</string>
   <string name="biometric_weak_improve_matching_title">Gesichtserkennung verbessern</string>
   <string name="biometric_weak_liveliness_summary">Augenzwinkern beim Entsperren erforderlich</string>
   <string name="biometric_weak_liveliness_title">Lebendigkeitscheck</string>
+  <string name="ble_scan_notify_text">Um die Standortgenauigkeit zu erhöhen, können Systemanwendungen nachwievor Bluetooth Geräte in der Nähe erkennen. Sie können dies in den LINK_BEGINScaneinstellungenLINK_END ändern.</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">"Verbunden mit Audiosystem von Medien"</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Für Audiosystem von Medien verwenden</string>
@@ -650,9 +653,9 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="bluetooth_rename_button">Umbenennen</string>
   <string name="bluetooth_rename_device">Telefon umbenennen</string>
   <string name="bluetooth_sap_acceptance_dialog_text">%1$s möchte auf Ihre SIM-Karte zugreifen. Während des Zugriff wird die Datenverbindung auf Ihrem Gerät deaktiviert. %2$s den Zugriff erlauben?</string>
-  <string name="bluetooth_sap_request">SIM-Zugriffsanforderung</string>
   <string name="bluetooth_sap_profile_summary_connected">Verbunden mit SIM-Zugangsserver</string>
   <string name="bluetooth_sap_profile_summary_use_for">Für SIM-Zugang nutzen</string>
+  <string name="bluetooth_sap_request">SIM-Zugriffsanforderung</string>
   <string name="bluetooth_scan_for_devices">Nach Geräten suchen</string>
   <string name="bluetooth_search_for_devices">Nach Geräten suchen</string>
   <string name="bluetooth_searching_for_devices">Suche läuft...</string>
