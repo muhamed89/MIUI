@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
- <resources>
+<config>
+</config>
+
+<resources>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Gut</item>
+        <item>Befriedigend</item>
+        <item>Mäßig belastet</item>
+        <item>Schlecht</item>
+        <item>Sehr schlecht</item>
+        <item>Stark belastet</item>
+    </string-array>
     <string-array name="hot_city">
         <item>Peking</item>
         <item>Shanghai</item>
@@ -24,6 +62,19 @@
         <item>Bangkok</item>
         <item>Seoul</item>
         <item>Kuala Lumpur</item>
+    </string-array>
+    <string-array name="indices_car_wash">
+        <item>Geeignet</item>
+        <item>Nicht geeignet</item>
+    </string-array>
+    <string-array name="indices_sport">
+        <item>Geeignet</item>
+        <item>Nicht geeignet</item>
+    </string-array>
+    <string-array name="indices_uv_level">
+        <item>Schwach</item>
+        <item>Mittel</item>
+        <item>Stark</item>
     </string-array>
     <string-array name="weather_type">
         <item>Sonnig</item>
@@ -53,19 +104,6 @@
         <item>Nebel</item>
         <item>Gefrierender Regen</item>
         <item>Keine Daten</item>
-    </string-array>
-    <string-array name="indices_uv_level">
-        <item>Schwach</item>
-        <item>Mittel</item>
-        <item>Stark</item>
-    </string-array>
-    <string-array name="indices_sport">
-        <item>Geeignet</item>
-        <item>Nicht geeignet</item>
-    </string-array>
-    <string-array name="indices_car_wash">
-        <item>Geeignet</item>
-        <item>Nicht geeignet</item>
     </string-array>
     <string-array name="wind_direction">
         <item>N</item>
