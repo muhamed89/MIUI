@@ -7,7 +7,6 @@ Die Werbe-ID ist eine permanente, eindeutige ID für Ihr Gerät. Werbetreibende 
 Wenn Sie sich gegen personalisierte Werbung entscheiden, wird die Anzahl der Werbeeinblendungen nicht reduziert, aber die Anzahl an für Sie interessante Werbung wird deutlich sinken."</string>
   <string name="about_settings">Über das Gerät</string>
   <string name="about_settings_summary">Rechtliche Hinweise, Status und Softwareversion anzeigen</string>
-  <string name="ac_enable_summary">Ein Passwort ist erforderlich, um die App zu öffnen</string>
   <string name="ac_enable_title">Apps sperren</string>
   <string name="ac_privacy_mode_sum">Zum Beenden des Gastmodus ist ein Passwort erforderlich</string>
   <string name="ac_privacy_mode_title">Passwort</string>
