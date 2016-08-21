@@ -48,8 +48,11 @@
   <string name="action_menu_useful_page_added">Zu nützlichen Seiten hinzugefügt</string>
   <string name="actionbar_share">Teilen</string>
   <string name="actionbar_web_search">Websuche</string>
+  <string name="adblock_force_updating_rules_toast">Werbeblocker wird aktualisiert</string>
   <string name="adblock_notification">%d Werbung blockiert</string>
+  <string name="adblock_rules_not_updated_toast">Fehlgeschlagen</string>
   <string name="adblock_rules_restore">Freigeben</string>
+  <string name="adblock_rules_updated_toast">Fertig</string>
   <string name="adblock_websites_settings_empyt_hint">Sie haben keine Seiten blockiert</string>
   <string name="adblock_websites_settings_title">Geblockte Seiten</string>
   <string name="add_bookmark_group">Gruppe hinzufügen</string>
@@ -410,6 +413,8 @@ Diese Seite verlassen?"</string>
   <string name="miuichromium_error_page_network_hijack">Netzwerk ist unsicher</string>
   <string name="miuichromium_error_page_network_off">WLAN oder mobile Datenverbindung einschalten</string>
   <string name="miuichromium_error_page_no_network">"Keine Netzwerkverbindung"</string>
+  <string name="miuichromium_error_page_reason_network">Überprüfen Sie die Netzwerkeinstellungen</string>
+  <string name="miuichromium_error_page_reason_server">Seite kann nicht geladen werden</string>
   <string name="miuichromium_error_page_reload">Aktualisieren</string>
   <string name="miuichromium_error_page_safe_network">Sicherer Modus</string>
   <string name="miuichromium_error_page_server_error">Es versuchen zu viele Geräte sich zu verbinden</string>
@@ -601,7 +606,7 @@ Diese Seite verlassen?"</string>
   <string name="readmode_pay_message">Sie müssen bezahlen, um das nächste Kapitel zu lesen.</string>
   <string name="readmode_reach_last_page">Dies ist die letzte Seite</string>
   <string name="readmode_recommend">Zur Ansicht empfohlen</string>
-  <string name="readmode_recommend_message">"Sie haben das Buch schon gelesen :-)"</string>
+  <string name="readmode_recommend_message">"Sie haben das Buch bereits gelesen :-)"</string>
   <string name="readmode_refresh">Aktualisieren</string>
   <string name="readmodelist_bookmarks_to_show">Leseliste</string>
   <string name="remember_passwords_confirm_message">Bedienung kann durch Deaktivieren beeinflusst werden.</string>
@@ -663,9 +668,9 @@ Diese Seite verlassen?"</string>
   <string name="search_tupian">Image</string>
   <string name="search_yahoo">Yahoo!</string>
   <string name="search_yicha">Yicha</string>
+  <string name="secure_download_in_xiaomi_market">Im App-Store laden</string>
   <string name="secureaccess">In den sicheren Modus wechseln</string>
   <string name="secureaccess_cancel">Ignorieren</string>
-  <string name="secure_download_in_xiaomi_market">Im App-Store laden</string>
   <string name="security_url_confirm_message">Das Deaktivieren dieser Funktion kann zu Sicherheitsrisiken führen.</string>
   <string name="security_warning">Sicherheitswarnung</string>
   <string name="security_warnings_confirm_message">Das Deaktivieren dieser Funktion kann zu Sicherheitsrisiken führen.</string>
