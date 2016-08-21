@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<config>
-</config>
-
 <resources>
     <string-array name="aqi_title">
         <item>%1$s</item>
