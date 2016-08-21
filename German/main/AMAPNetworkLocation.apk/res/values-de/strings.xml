@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="agree">Agree</string>
-  <string name="app_label">Network Location</string>
-  <string name="disagree">Disagree</string>
-  <string name="location_warning_do_not_show_again">"Don't show again"</string>
+  <string name="agree">Zustimmen</string>
+  <string name="app_label">Netzwerkstandort</string>
+  <string name="disagree">Nicht zustimmen</string>
+  <string name="location_warning_do_not_show_again">Nicht wieder anzeigen</string>
   <string name="location_warning_message">"Allow AutoNavi's location service to collect anonymous location data. Some data may be stored on your device, and collection may occur even when no apps are running."</string>
-  <string name="location_warning_title">Location consent</string>
-  <string name="persmission_close">CLOSE</string>
-  <string name="persmission_message">To work properly, this service requires additional permissions. Please allow permissions when asked.</string>
-  <string name="persmission_message2">To work properly, this service needs to access your storage. Please allow permission when asked.</string>
-  <string name="persmission_message3">To work properly, this service needs to access your location. Please allow permission when asked.</string>
-  <string name="persmission_message4">To work properly, this service needs to access your Phone. Please allow permission when asked.</string>
-  <string name="persmission_message5">"To work properly, this service requires additional permissions. You can manage Network Location's permissions in Settings"</string>
-  <string name="persmission_message6">"To work properly, this servic needs to access your Location. You can manage Network Location's permissions in Settings."</string>
-  <string name="persmission_message7">"To work properly, this servic needs to access your Phone. You can manage Network Location's permissions in Settings."</string>
-  <string name="persmission_message8">"To work properly, this service needs to access your storage. You can manage Network Location's permissions in Settings."</string>
-  <string name="persmission_notification_text">Tap to allow</string>
-  <string name="persmission_notification_title">Network Location requires permissions</string>
+  <string name="location_warning_title">Standort zustimmen</string>
+  <string name="persmission_close">SCHLIESSEN</string>
+  <string name="persmission_message">Für eine ordnungsgemäße Funktion des Dienstes sind zusätzliche Berechtigungen  erforderlich. Bitte geben Sie die Berechtigungen bei der Nachfrage.</string>
+  <string name="persmission_message2">Für eine ordnungsgemäße Funktion des Dienstes ist Zugriff auf Ihren Speicher erforderlich. Bitte akzeptieren Sie den Zugriff bei der Nachfrage.</string>
+  <string name="persmission_message3">Für eine ordnungsgemäße Funktion des Dienstes ist Zugriff auf Ihren Standort erforderlich. Bitte akzeptieren Sie den Zugriff bei der Nachfrage.</string>
+  <string name="persmission_message4">Für eine ordnungsgemäße Funktion des Dienstes ist Zugriff auf Ihr Telefon erforderlich. Bitte akzeptieren Sie den Zugriff bei der Nachfrage.</string>
+  <string name="persmission_message5">Für eine ordnungsgemäße Funktion des Dienstes sind zusätzliche Berechtigungen  erforderlich. Sie können die Berechtigungen des Netzwerkstandortes in den Einstellungen verwalten.</string>
+  <string name="persmission_message6">Für eine ordnungsgemäße Funktion des Dienstes ist Zugriff auf Ihren Standort erforderlich. Sie können die Berechtigungen des Netzwerkstandortes in den Einstellungen verwalten.</string>
+  <string name="persmission_message7">Für eine ordnungsgemäße Funktion des Dienstes ist Zugriff auf Ihr Telefon erforderlich. Sie können die Berechtigungen des Netzwerkstandortes in den Einstellungen verwalten.</string>
+  <string name="persmission_message8">Für eine ordnungsgemäße Funktion des Dienstes ist Zugriff auf Ihren Speicher erforderlich. Sie können die Berechtigungen des Netzwerkstandortes in den Einstellungen verwalten.</string>
+  <string name="persmission_notification_text">Zum Erlauben tippen</string>
+  <string name="persmission_notification_title">Netzwerkstandort erfordert Berechtigungen</string>
   <string name="persmission_ok">OK</string>
-  <string name="persmission_settings">SETTINGS</string>
+  <string name="persmission_settings">EINSTELLUNGEN</string>
 </resources>
