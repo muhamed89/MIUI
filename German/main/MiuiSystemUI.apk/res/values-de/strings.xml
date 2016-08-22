@@ -58,7 +58,7 @@
   <string name="battery_low_percent_format">%d%% verbleibend.</string>
   <string name="battery_low_title">Ladegerät anschließen</string>
   <string name="battery_profiles">Verwende Energieprofil</string>
-  <string name="block_notification_content_text">"%1$ s Benachrichtigungen werden nicht mehr angezeigt. Sie können dies in den Einstellungen ändern."</string>
+  <string name="block_notification_content_text">Benachrichtigungen von %1$s werden nicht mehr angezeigt. Sie können dies in den Einstellungen ändern.</string>
   <string name="block_notification_text">Ausblenden</string>
   <string name="block_record_notification_more_text">Verberge Nachrichten von %1$s &amp; %2$d Apps.</string>
   <string name="block_record_notification_text">Benachrichtigungen von %1$s ausblenden.</string>
