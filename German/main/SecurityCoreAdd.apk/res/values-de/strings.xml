@@ -32,6 +32,7 @@ wird diese Funktion automatisch im Zweitprofil aktiviert."</string>
     <string name="confirmCloseSpaceDes">Sie können das Zweitprofil nach dem Löschen nicht mehr erreichen. Alle Daten werden verschoben oder gelöscht.</string>
     <string name="confirmDelete">Löschen</string>
     <string name="confirm_main_space_password">Hauptprofilpasswort bestätigen</string>  
+    <string name="confirm_restore">Nicht anzeigen</string>
     <string name="confirmSecondSpacePassword">Zweitprofilpasswort bestätigen</string>
     <string name="contactData">Kontakte</string>
     <string name="contact_sub_titile_text">Nachrichten werden zwischen beiden Profilen geteilt</string>
@@ -136,6 +137,7 @@ Sie können Sie auch separat installieren."</string>
     <string name="privacyContactsSummary">Private Elemente im Zweitprofil anzeigen</string>
     <string name="privacyContactsTitle">Private Kontakte und Nachrichten</string>
     <string name="public_app">Beide Profile</string>
+    <string name="remove_second_space_msg">Wenn Sie das Zweitprofil löschen, gehen alle Zweitprofil-Appdaten verloren. Zweitprofil jetzt löschen?</string>
     <string name="removingSpace">Wird gelöscht</string>
     <string name="repeat_scanner_fingerprint">Nochmal hinzufügen</string>
     <string name="removeSuccess">Erfolgreich gelöscht</string>
@@ -144,6 +146,9 @@ Sie können Sie auch separat installieren."</string>
     <string name="restore_show_toast">Private Nachrichten werden nicht anzeigt</string>
     <string name="retain_src_photo">Fotos behalten</string>
     <string name="retain_src_file">Dateien behalten</string>
+    <string name="scanner_fingerprint">Fingerabdruck scannen…</string>
+    <string name="scanner_fingerprint_enter_second">"Zweitprofilfingerabdruck scannen
+    um das Zweitprofil vom Sperrbildschirm aus zu erreichen"</string>
     <string name="scanner_fingerprint_error_tips_desc">Keine Übereinstimmung gefunden. Zweitprofilfingerabdruck hinzufügen?</string>
     <string name="scanner_fingerprint_error_tips_title">Keine Übereinstimmung gefunden</string>
     <string name="scanner_fingerprint_tips_desc">Vorhandenen Fingerabdruck für das Zweitprofil auswählen. Sie können Ihn dann nicht mehr für das Hauptprofil verwenden.</string>
