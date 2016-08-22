@@ -1248,7 +1248,6 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="dndm_vip_call_summary_contact">Alle Kontakte</string>
   <string name="dndm_vip_call_summary_custom">%d Ausnahmen</string>
   <string name="dndm_vip_call_summary_none">Berühren, zum Konfigurieren</string>
-  <string name="dndm_vip_list_all">Alle</string>
   <string name="dndm_vip_list_contact">Alle Kontakte</string>
   <string name="dndm_vip_list_custom">Ausnahmen</string>
   <string name="dndm_vip_list_custom_group">Ausnahmen</string>
