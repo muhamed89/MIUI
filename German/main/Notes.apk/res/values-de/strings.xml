@@ -70,7 +70,7 @@ Tippen Sie auf das Plus, um einen Ordner anzulegen"</string>
   <string name="menu_move">Verschieben</string>
   <string name="menu_move_parent_folder">Übergeordneter Ordner</string>
   <string name="menu_move_to">Verschieben</string>
-  <string name="menu_new_folder">Neues Verzeichnis</string>
+  <string name="menu_new_folder">Neuer Ordner</string>
   <string name="menu_restore">Wiederherstellen</string>
   <string name="menu_send_as_image">Als Bild senden</string>
   <string name="menu_send_as_text">Als Text senden</string>
