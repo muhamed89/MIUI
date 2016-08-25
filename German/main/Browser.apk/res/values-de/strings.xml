@@ -228,6 +228,16 @@
   <string name="dialog_queued_body">Diese Datei wurde der Downloadwarteschlange hinzugefügt.</string>
   <string name="dialog_title_not_available">"Download nicht möglich"</string>
   <string name="dialog_title_queued_body">Datei nicht verfügbar</string>
+  <string name="document_download_background_btn">Herunterladen im Hintergrund</string>
+  <string name="document_download_cancel_btn">Abbrechen</string>
+  <string name="document_download_failed">Download fehlgeschlagen</string>
+  <string name="document_download_official">Offizieller Download</string>
+  <string name="document_download_open_direct">Direkt öffnen</string>
+  <string name="document_download_title">Wird heruntergeladen</string>
+  <string name="document_open_file">Öffne %s</string>
+  <string name="document_open_message">Um Ihr Leseerlebnis zu verbessern und die Sicherheit zu gewährleisten, wird empfohlen offiziell-angepasste Version WPS zu verwenden</string>
+  <string name="document_open_other">Andere Apps</string>
+  <string name="document_open_title">Öffnen mit</string>
   <string name="dont_remind_again">Auswahl merken</string>
   <string name="download_btn_select_all">Alles auswählen</string>
   <string name="download_btn_select_none">Alles abwählen</string>
@@ -241,12 +251,14 @@
   <string name="download_dialog_file_length_nolength_txt">Einen Moment…</string>
   <string name="download_failed">"Download konnte nicht abgeschlossen werden"</string>
   <string name="download_filter_all">Alle</string>
+  <string name="download_filter_apk">Apk</string>
   <string name="download_filter_application">Apps</string>
   <string name="download_filter_audio">Musik</string>
   <string name="download_filter_image">Fotos</string>
   <string name="download_filter_others">Andere</string>
   <string name="download_filter_text">Dateien</string>
   <string name="download_filter_video">Videos</string>
+  <string name="download_filter_zip">Zip</string>
   <string name="download_in_process">Wird heruntergeladen…</string>
   <string name="download_list_open_xl_ok">OK</string>
   <string name="download_memory_info_avai">" verfügbar %s|"</string>
@@ -452,6 +464,7 @@ Diese Seite verlassen?"</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Offenes WLAN-Netzwerk verfügbar</string>
   <string name="new_folder_name_lable">Gruppenname</string>
   <string name="next_button_label">Weiter</string>
+  <string name="no_app_open_document">Es wurde keine App gefunden, um diese Aktion zu verarbeiten</string>
   <string name="no_matches">Keine Treffer</string>
   <string name="no_space_alert_cancel">Später</string>
   <string name="no_space_alert_clean">Speicherplatz freigeben</string>
@@ -631,6 +644,7 @@ Diese Seite verlassen?"</string>
   <string name="same_folder_name_warning">Eine Gruppe mit dem selben Namen existiert bereits</string>
   <string name="save_button_text">Speichern</string>
   <string name="save_dialog_title">Speichern</string>
+  <string name="save_file">%s Datei speichern</string>
   <string name="save_file_already_exist_alert_message">Eine Datei mit dem selben Namen existiert bereits, wollen Sie diese überschreiben?</string>
   <string name="save_file_already_exist_alert_title">Überschreibe Datei?</string>
   <string name="save_form_data_confirm_message">Das Deaktivieren dieser Funktion kann die Anwendung beeinflussen.</string>
@@ -815,6 +829,7 @@ Diese Seite verlassen?"</string>
   <string name="video_subtitle_prefix_message">Angesehen:</string>
   <string name="video_title_prefix_message">Offline:</string>
   <string name="view_certificate">Zertifikat anzeigen</string>
+  <string name="view_document_downloaded_files">Heruntergeladene Dateien im Downloadmanager anzeigen</string>
   <string name="voice_sub_title">"Sie wissen nicht, was Sie sagen sollen? Versuchen Sie mi.com zu öffnen!"</string>
   <string name="voice_title">Sagen Sie Ihr Kommando…</string>
   <string name="voice_title_distinguish">Verarbeiten…</string>
