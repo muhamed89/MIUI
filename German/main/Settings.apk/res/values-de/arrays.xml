@@ -557,14 +557,6 @@
         <item>Zuletzt verwendet</item>
         <item>Menü anzeigen</item>
     </string-array>
-    <string-array name="screen_key_long_press_action">
-        <item>Keine</item>
-        <item>Zuletzt verwendet</item>
-        <item>Sprachassistent</item>
-        <item>Google-Now</item>
-        <item>Aktuelle App beenden</item>
-        <item>Menü anzeigen</item>
-    </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 Sekunden</item>
         <item>1 Sekunde</item>
