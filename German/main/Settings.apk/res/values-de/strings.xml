@@ -2225,9 +2225,9 @@ Es sind andere Benutzer an diesem System angemeldet.
   <string name="mobile_insert_sim_card">Legen Sie die SIM ein und starten das Gerät neu.</string>
   <string name="mobile_no_provisioning_url">Keine Bereitstellungswebsite für %1$s bekannt</string>
   <string name="mobile_unknown_sim_operator">Unbekannter SIM-Anbieter</string>
-  <string name="mock_location_app">App für vergetäuschte Standortinformation auswählen</string>
+  <string name="mock_location_app">App für vorgetäuschte Standortinformation auswählen</string>
   <string name="mock_location_app_not_set">Keine App für vorgetäuschten Standortinformation ausgewählt</string>
-  <string name="mock_location_app_set">App für vergetäuschte Standortinformation: %1$s</string>
+  <string name="mock_location_app_set">App für vorgetäuschte Standortinformation: %1$s</string>
   <string name="model_number">Modellnummer</string>
   <string name="move_app">Verschieben</string>
   <string name="move_app_failed_dlg_text">App kann nicht verschoben werden. %1$s</string>
