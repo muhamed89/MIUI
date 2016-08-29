@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="screen_key_long_press_action">
+        <item>Keine</item>
+        <item>Zuletzt verwendet</item>
+        <item>Sprachassistent</item>
+        <item>Google-Now</item>
+        <item>Aktuelle App beenden</item>
+	<item>Suche</item>
+        <item>Menü anzeigen</item>
+    </string-array>
     <string-array name="timezone_filters">
         <item>Amerika</item>
         <item>Europa</item>
