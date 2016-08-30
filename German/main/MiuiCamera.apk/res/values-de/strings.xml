@@ -277,7 +277,6 @@
   <string name="pref_camera_recordlocation_entry_on">An</string>
   <string name="pref_camera_recordlocation_title">Aufnahmeort speichern</string>
   <string name="pref_camera_referenceline_title">Referenzlinien</string>
-  <string name="pref_camera_saturation_cm_test_default">4</string>
   <string name="pref_camera_saturation_title">Sättigung</string>
   <string name="pref_camera_scenemode_entry_auto">Auto</string>
   <string name="pref_camera_scenemode_entry_backlight">Gegenlicht</string>
