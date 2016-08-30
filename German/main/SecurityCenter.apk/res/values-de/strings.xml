@@ -241,9 +241,15 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="card_main_paysafe_action">Einschalten</string>
   <string name="card_main_paysafe_summary">Zahlungsumgebung auf Risiken überprüfen</string>
   <string name="card_main_paysafe_title">Zahlungssicherheit</string>
+  <string name="card_main_private_space_action">Erstellen</string>
+  <string name="card_main_private_space_summary">Ein Zweitprofil zu verwenden ist, als ob Sie 2 Geräte hätten</string>
+  <string name="card_main_private_space_title">Zweitprofil</string>
   <string name="card_main_sectool_title">Werkzeuge</string>
   <string name="card_main_speeddetail_title">Verbindungsgeschwindigkeit</string>
   <string name="card_main_speeddetailt_summary">Zeige Verbindungsgeschwindigkeit für ausgewählte Apps</string>
+  <string name="card_main_xspace_action">Erstellen</string>
+  <string name="card_main_xspace_summary">Erstellen Sie einen zweiten Account für eine beliebige App</string>
+  <string name="card_main_xspace_title">Geklonte Apps</string>
   <string name="celcius_symbol">°C</string>
   <string name="charging_text_battery_full_time">Akku-Ladezeit </string>
   <string name="charging_text_battery_nearly_full">Fast aufgeladen</string>
