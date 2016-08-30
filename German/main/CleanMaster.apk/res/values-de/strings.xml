@@ -24,6 +24,8 @@
   <string name="activity_title_uninstall_apps">Apps</string>
   <string name="activity_title_video">Videos löschen</string>
   <string name="activity_title_white_list">Ausnahmen</string>
+  <string name="ad_install_success_dialog_lunch">Open</string>
+  <string name="ad_install_success_dialog_title">%1$s erfolgreich installiert. Jetzt öffnen?</string>
   <string name="apk_status_damage">Beschädigt</string>
   <string name="apk_status_duplicate">Duplikat</string>
   <string name="apk_status_install">Installiert</string>
@@ -44,6 +46,10 @@
   <string name="browser_search_history_desc">Suchverlauf</string>
   <string name="btn_text_done">Fertig</string>
   <string name="btn_text_quick_cleanup">Bereinigen</string>
+  <string name="btn_text_quick_cleanup_apk">Ausgewählte APKs löschen %1$s</string>
+  <string name="btn_text_quick_cleanup_appdata">Ausgewählte Daten löschen %1$s</string>
+  <string name="btn_text_quick_cleanup_large_file">DAusgewählte Dateien löschen %1$s</string>
+  <string name="btn_text_quick_cleanup_video">Ausgewählte Videos löschen %1$s</string>
   <string name="btn_text_quick_scan">Scannen</string>
   <string name="btn_text_stop">Anhalten</string>
   <string name="button_optimizer">OK</string>
@@ -94,8 +100,10 @@
   <string name="close">Schließen</string>
   <string name="confirm_auto_cleaner">OK</string>
   <string name="connecting">Verbinden…</string>
+  <string name="deep_clean_completed_tips">Erfolgreich bereinigt</string>
   <string name="deep_clean_data_path_clean_title">Internen Speicher bereinigen</string>
   <string name="deep_clean_normal_clean_progress_desc">%1$s Dateien bereinigt</string>
+  <string name="deep_clean_uninstall_completed_tips">Erfolgreich deinstalliert</string>
   <string name="deepclean_1_k_clean">One key clean</string>
   <string name="deepclean_apk_content">APKs oder nicht benötigte Apps löschen</string>
   <string name="deepclean_apk_summary_empty">Es müssen keine APKs gelöscht werden.</string>
@@ -105,6 +113,8 @@
   <string name="deepclean_cache_content">Von Apps erstellte Daten löschen</string>
   <string name="deepclean_cache_header_left">Datendateien: %d</string>
   <string name="deepclean_cache_summary_empty">Alles sieht gut aus, keine Daten zu löschen</string>
+  <string name="deepclean_empty">Alles sieht gut aus</string>
+  <string name="deepclean_install_info_desc2">Apps löschen, um Speicher frei zu machen</string>
   <string name="deepclean_large_content">Dateien größer als 10MB löschen</string>
   <string name="deepclean_large_summary_empty">Alles sieht gut aus, keine Dateien zu löschen</string>
   <string name="deepclean_list_item_from_app">App Store</string>
@@ -172,7 +182,7 @@
   <string name="harass_detail">%1$d SMS und %2$d Anrufe blockiert</string>
   <string name="header_optimizer">Bei Verwendung dieses Dienstes akzeptieren Sie %s</string>
   <string name="hint_bar_select_image">%d ausgewählt</string>
-  <string name="hint_clean_select_similar_image">Duplikate löschen…</string>
+  <string name="hint_clean_select_items">Duplikate löschen…</string>
   <string name="hints_ad_header_left">Werbung</string>
   <string name="hints_apk_header_left">Pakete</string>
   <string name="hints_apk_version">Version %s</string>
@@ -348,6 +358,7 @@
   <string name="safety_rank">Sie sind %d%% MIUI Usern in puncto Sicherheit voraus</string>     
   <string name="sc_allow_network_dialog_button">Erlauben</string>
   <string name="sc_allow_network_dialog_message">Dieser App den Empfang von Aktualisierungen über das Internet erlauben?</string>
+  <string name="scanning">Überprüfen…</string>
   <string name="search_history">Suchverlauf</string>
   <string name="see_more">Mehr</string>
   <string name="set_immediately">Einrichten</string>

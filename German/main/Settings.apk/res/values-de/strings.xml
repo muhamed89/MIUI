@@ -348,6 +348,8 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="auto_restore_title">Autom. Wiederherstellung</string>
   <string name="auto_startup_application_manage">Autostart</string>
   <string name="auto_startup_count">%d Anwendung(en) Autostart erlaubt</string>
+  <string name="auto_upload_debug_log_summary">Diagnosedaten können Nutzungsstatistiken Ihrer Hardware, Betriebssystem und Apps enthalten. Die Daten werden verwendet, um Probleme zu finden und zu analysieren und werden nicht verwendet, um Sie persönlich zu identifizieren.</string>
+  <string name="auto_upload_debug_log_title">Diagnosedaten automatisch senden</string>
   <string name="automatic_brightness">Automatische Helligkeit</string>
   <string name="available_size">%s verfügbar</string>
   <string name="available_via_passpoint">Verfügbar via %1$s</string>
@@ -2592,6 +2594,7 @@ Betriebssystem auswählen:"</string>
   <string name="preference_change_password_title">Passwort ändern</string>
   <string name="preferred_app_settings">Einstellungen</string>
   <string name="preferred_app_settings_default">Standard</string>
+  <string name="preferred_app_settings_not_selected">Nichts ausgewählt</string>
   <string name="preferred_app_settings_reset">Zurücksetzen</string>
   <string name="preferred_app_settings_reset_button">Zurücksetzen</string>
   <string name="preferred_app_settings_reset_message">Alle Standardapps werden auf die MIUI-Voreinstellungen zurückgesetzt.</string>
@@ -2985,7 +2988,7 @@ Um Screenpinning zu nutzen:
   <string name="screensaver_settings_title">Bildschirmschoner</string>
   <string name="screensaver_settings_when_to_dream">Daydream starten</string>
   <string name="screenshot">Screenshot</string>
-  <string name="screenshot_three_gesture">Wischen Sie mit 3 Fingern gleichzeitig, um einen Screenshot zu erstellen</string>
+  <string name="screenshot_three_gesture">Wischen Sie mit 3 Fingern, um einen Screenshot zu erstellen</string>
   <string name="screenshot_three_gesture_summary">Andere 3-Finger-Gesten werden deaktiviert</string>
   <string name="sd_card_settings_label">USB-Speicher</string>
   <string name="sd_card_storage">USB-Speicher</string>
@@ -3803,6 +3806,7 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="testing_sim_toolkit">SIM-Toolkit</string>
   <string name="testing_usage_stats">Nutzungsstatistik</string>
   <string name="testing_wifi_info">WLAN-Information</string>
+  <string name="tether_and_hotspot_title">Tethering &amp; Hotspot</string>
   <string name="tether_devices_management_title">Geräte verwalten</string>
   <string name="tether_settings_disabled">Persönlicher Hotspot ist deaktiviert</string>
   <string name="tether_settings_title_all">Tethering &amp; Hotspot</string>
@@ -4135,6 +4139,9 @@ Jeder Nutzer kann aktualisierte Appberechtigungen im Namen aller anderen Nutzer 
   <string name="user_exit_guest_confirm_title">Gast entfernen?</string>
   <string name="user_exit_guest_dialog_remove">Entfernen</string>
   <string name="user_exit_guest_title">Gast entfernen</string>
+  <string name="user_experience_program">Benutzererfahrungsprogramm</string>
+ +<string name="user_experience_program_summary">Helfen Sie, MIUI zu verbessern, indem Sie anonyme Nutzungsdaten bereitstellen</string>
+ +<string name="user_experience_program_title">Benutzererfahrungsprogramm</string>
   <string name="user_guest">Gast</string>
   <string name="user_image_choose_photo">Foto aus Galerie auswählen</string>
   <string name="user_image_photo_selector">Fotos auswählen</string>

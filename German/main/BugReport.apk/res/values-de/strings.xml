@@ -181,6 +181,7 @@
   <string name="toast_title_required">Beschreiben Sie Ihr Problem</string>
   <string name="topic_author">1#</string>
   <string name="try_again">Erneut versuchen</string>
+  <string name="upload_log_failed">Logs konnten nicht gesendet werden</string>
   <string name="warning_field_empty">Geben Sie %1$s ein</string>
   <string name="warning_field_invalid">Wählen Sie einen gültigen %1$s</string>
 </resources>

@@ -350,6 +350,8 @@
   <string name="details">Details</string>
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="detail_title">Details</string>
+  <string name="disable_auto_upload_tip">Neue und gelöschte Fotos werden nicht mit Mi Cloud synchronisiert. Dieses Album wird nach \"Andere Alben\" verschoben.</string>
+  <string name="disable_auto_upload_title">Sync mit Mi Cloud ausschalten</string>
   <string name="details_ms">%1$02d:%2$02d</string>
   <string name="details_sharer">Geteilt von</string>
   <string name="details_title">%1$d von %2$d Elementen</string>
@@ -360,13 +362,11 @@
   <string name="documentary">Dokumentation</string>
   <string name="done">Fertig</string>
   <string name="doodle">Kritzeln</string>
-  <string name="doodle_brush">Pinsel</string>
-  <string name="doodle_mark">Marker</string>
+  <string name="doodle_big_size">Groß</string>
+  <string name="doodle_middle_size">Mittel</string>
   <string name="doodle_mosaic">Mosaik</string>
-  <string name="doodle_pen">Stift</string>
-  <string name="doodle_pencil">Bleistift</string>
-  <string name="doodle_polymorphism">photoeditor_effect_doodle</string>
-  <string name="doodle_tooltip">Zum Kritzeln Foto berühren</string>
+  <string name="doodle_small_size">Klein</string>
+  <string name="doodle_super_big_size">Riesig</string>
   <string name="download_retry_message">Downloadfehler, überprüfen Sie die Netzwerkverbindung und versuchen Sie es erneut.</string>
   <string name="download_retry_text">Wiederholen</string>
   <string name="download_retry_title">Downloadfehler</string>
@@ -386,6 +386,8 @@
   <string name="edited_photo_bucket_name">Bearbeitet</string>
   <string name="effect">Effekt</string>
   <string name="email_picker_title">Geteilte E-Mail hinzufügen</string>
+  <string name="enable_auto_upload_tip">Dieses Album wird nach der Aktivierung aus \"Andere Alben\" entfernt.</string>
+ +  <string name="enable_auto_upload_title">Sync mit Mi Cloud einschalten</string>
   <string name="enable">Einschalten</string>
   <string name="enable_cloud_for_sharing">Cloudalbum aktivieren, um geteilte Bilder anzuzeigen</string>
   <string name="enable_face_album_summary">Fotos automatisch nach Personen sortieren</string>
