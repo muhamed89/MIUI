@@ -61,7 +61,7 @@
   <string name="hours">%s Stunden</string>
   <string name="keep_screen_on">Bildschirm immer an</string>
   <string name="label">Bezeichnung</string>
-  <string name="label_pref_summary">Wecker benennen</string>
+  <string name="label_pref_summary">Bezeichnung</string>
   <string name="lap">Runde</string>
   <string name="lap_num">Runde</string>
   <string name="legal_off_day">Gesetzlicher Feiertag</string>

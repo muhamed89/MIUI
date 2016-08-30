@@ -43,6 +43,7 @@
   <string name="fragment_tab_title_sys">Systemanwendungen</string>
   <string name="full_screen_enter">Vollbild an</string>
   <string name="full_screen_exit">Vollbild aus</string>
+  <string name="google_base_app_install_choice">\"%s\" erfordert Google Service Framework um ordnungsgemäß zu funktionieren, herunterladen und installieren?</string>
   <string name="hide_mode">Energieverbrauch verwalten</string>
   <string name="hide_mode_desc">Wenn Apps im Hintergrund laufen, werden ihre Aktivitäten überwacht, um den Energieverbrauch zu reduzieren. Netzwerkverbindung, Ortungsdienste, Radio, Timer, etc. können durch diese Funktion beeinträchtigt werden. Diese Konfiguration ist für die meisten Apps optimal. Wenn sich aber eine bestimmte App ungewöhnlich verhält während sie im Hintergrund läuft, können Sie die Einstellungen der App anpassen.</string>
   <string name="hide_mode_desc_title">"Energieverbrauch verwalten"</string>

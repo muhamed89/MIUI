@@ -1579,7 +1579,8 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="haptic_feedback_enable_title">Bei Berührung vibrieren</string>
   <string name="haptic_feedback_level">Vibration</string>
   <string name="hardkeyboard_category">Einstellungen für physische Tastatur</string>
-    <string name="hardware_version">Hardwareversion</string>
+  <string name="hardware_version">Hardwareversion</string>
+  <string name="has_screenshot_sound">Screenshotton</string>
   <string name="hdcp_checking_dialog_title">HDCP-Prüfverhalten festlegen</string>
   <string name="hdcp_checking_title">HDCP-Prüfung</string>
   <string name="hdmi_3d_display_enable_summary">3D-Spielunterstützung einschalten</string>
@@ -2985,6 +2986,7 @@ Um Screenpinning zu nutzen:
   <string name="screensaver_settings_when_to_dream">Daydream starten</string>
   <string name="screenshot">Screenshot</string>
   <string name="screenshot_three_gesture">Wischen Sie mit 3 Fingern gleichzeitig, um einen Screenshot zu erstellen</string>
+  <string name="screenshot_three_gesture_summary">Andere 3-Finger-Gesten werden deaktiviert</string>
   <string name="sd_card_settings_label">USB-Speicher</string>
   <string name="sd_card_storage">USB-Speicher</string>
   <string name="sd_eject">Gemeinsamen Speicher trennen</string>
@@ -3481,7 +3483,7 @@ Wenden Sie sich für weitere Informationen an Ihren Administrator."</string>
   <string name="ssl_ca_cert_warning_message">"Dritte können Ihre Netzwerkaktivitäten überwachen, einschließlich den E-Mails, Apps und sicheren Websites.
 
 Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerät installiert sind."</string>
-  <string name="stable_build">Stabil</string>
+  <string name="stable_build">" | Stable"</string>
   <string name="start_backup">Sichern</string>
   <string name="start_restore">Wiederherstellen</string>
   <string name="starting_android">Android wird gestartet</string>

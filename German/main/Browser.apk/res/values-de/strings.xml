@@ -342,8 +342,8 @@
   <string name="is_last_history_item">Dies ist die letzte Seite Ihres Browserverlaufs</string>
   <string name="is_last_tab">Die ist der letzte Tab</string>
   <string name="is_page_bottom">"Sie haben das Ende der Seite erreicht"</string>
-  <string name="is_page_top">"Sie sind am oberen Seitenrand"</string>
-  <string name="isreplace">Die Datei existiert bereits, übersetzen?</string>
+  <string name="is_page_top">Die sind am oberen Seitenrand</string>
+  <string name="isreplace">Die Datei existiert bereits, ersetzen?</string>
   <string name="js_dialog_before_unload">"%s
 
 Diese Seite verlassen?"</string>
@@ -471,6 +471,7 @@ Diese Seite verlassen?"</string>
   <string name="no_space_alert_text">Nicht genügend Speicherplatz</string>
   <string name="no_space_alert_title">Download pausiert</string>
   <string name="no_space_clean_failed">Es konnte kein Speicherplatz freigegeben werden​</string>
+  <string name="not_allowed_open">Browser kann im Boot-Strap nicht verwendet werden</string>
   <string name="not_remind_again">Auswahl merken</string>
   <string name="notif_install_successful">Download abgeschlossen</string>
   <string name="ok">OK</string>
@@ -629,6 +630,7 @@ Diese Seite verlassen?"</string>
   <string name="remove_history_item">Aus dem Verlauf entfernen</string>
   <string name="remove_snapshot">Lösche gespeicherte Seite</string>
   <string name="removed_from_bookmarks">Aus Lesezeichen entfernt</string>
+  <string name="replace">Ersetzen</string>
   <string name="replace">Ersetzen</string>
   <string name="reply_comment_title">Antwort: %s</string>
   <string name="resume_download">Start</string>
@@ -799,6 +801,7 @@ Diese Seite verlassen?"</string>
   <string name="video_download_exists">Videodownload gestartet</string>
   <string name="video_download_fail">Fehlgeschlagen</string>
   <string name="video_download_failed">Videodownload fehlgeschlagen</string>
+  <string name="video_download_finding_address">Suche nach Adressen</string>
   <string name="video_download_pause">Unterbrochen</string>
   <string name="video_download_start">Videodownload starten</string>
   <string name="video_download_success">Vollständig</string>
@@ -819,6 +822,7 @@ Diese Seite verlassen?"</string>
   <string name="video_group_noupdates_list">Keine Updates verfügbar</string>
   <string name="video_group_updates_list">Updates</string>
   <string name="video_history_empty">Keine Verlaufseinträge gefunden</string>
+  <string name="video_manager_action_bar_end_view">Videos</string>
   <string name="video_play_error">Fehler bei der Videowiedergabe</string>
   <string name="video_project_button">Stop</string>
   <string name="video_project_msg">Video is casting to %s</string>
@@ -826,8 +830,11 @@ Diese Seite verlassen?"</string>
   <string name="video_push_multi_message">%1$d Updates verfügbar.</string>
   <string name="video_push_multi_title">Update verfügbar</string>
   <string name="video_push_single_message">Für Update %1$d antippen.</string>
-  <string name="video_subtitle_prefix_message">Angesehen:</string>
+  <string name="video_subtitle_last_message1">Weniger als eine Minute verbleibend</string>
+  <string name="video_subtitle_prefix1">Angesehen</string>
+  <string name="video_subtitle_prefix2">" angesehen"</string>
   <string name="video_title_prefix_message">Offline:</string>
+  <string name="video_unknown_duration">Unbekannte Dauer</string>
   <string name="view_certificate">Zertifikat anzeigen</string>
   <string name="view_document_downloaded_files">Heruntergeladene Dateien im Downloadmanager anzeigen</string>
   <string name="voice_sub_title">"Sie wissen nicht, was Sie sagen sollen? Versuchen Sie mi.com zu öffnen!"</string>

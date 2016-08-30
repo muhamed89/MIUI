@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Suche</string>
+  <string name="application_desc">Anwendung</string>
+  <string name="applications_search_label">Apps</string>
   <string name="apps_search_activity"/>
   <string name="baidu_search_url_from_default">https://www.google.de/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_input">https://www.google.de/search?q=%s&amp;tn=ins</string>
@@ -70,6 +72,7 @@ Um den Browserverlauf zu löschen, verwenden Sie die Browsereinstellungen."</str
   <string name="searchable_lable_video">Video</string>
   <string name="searchable_sources">Online</string>
   <string name="send_secret_code">Code senden</string>
+  <string name="settings_description">Namen der installierten Apps</string>
   <string name="show_more">Mehr anzeigen</string>
   <string name="system_search_category_title">Telefon</string>
   <string name="voice_search_hint_quotation_end">\"</string>

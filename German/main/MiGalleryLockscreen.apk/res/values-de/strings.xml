@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Täglicher Sperrbildschirm</string>
+  <string name="apply">Anwenden</string>
   <string name="at_least_one">Bitte wählen Sie mindestens eine Kategorie</string>
   <string name="auto_interval">Auto</string>
   <string name="cancel">Abbrechen</string>
@@ -11,20 +12,32 @@
   <string name="declaration">Genießen Sie kostenlose Abonnements zu den besten globalen Medien. Halten Sie sich auf dem Laufenden mit den neuesten Nachrichten, Filmstarts und Promiklatsch.</string>
   <string name="declaration_lockscreen_title">Tägliche Hintergrundbilder aktivieren</string>
   <string name="declaration_title">Allgemeine Geschäftsbedingungen</string>
+  <string name="dislike">Löschen</string>
+  <string name="from_migallerylockscreen">" "</string>
   <string name="hour_1">jede Stunde</string>
   <string name="hour_3">alle 3 Stunden</string>
-  <string name="lockscreen_magazine_summary">Legen Sie fest welche Hintergrundbilder auf dem Sperrbildschirm angezeigt werden sollen</string>
+  <string name="like">Gefällt mir</string>
+  <string name="liked">gefallen mir</string>
+  <string name="lockscreen_magazine_summary">Kategorien</string>
   <string name="lockscreen_magazine_system_title">Standard</string>
   <string name="lockscreen_magazine_title">Tägliche Hintergrundbilder festlegen</string>
+  <string name="lockscreen_wallpaper_changed">Hintergrundbild geändert</string>
   <string name="minutes_15">15 Minuten</string>
   <string name="no_long_show">Nicht nochmal anzeigen</string>
   <string name="ok_enable_network_prov">Zustimmen</string>
   <string name="ok_international">Zustimmen</string>
   <string name="ok_lockscreen">OK</string>
   <string name="ok_network">Zustimmen und aktivieren</string>
+  <string name="platform_unavailable_qq">Bitte installieren Sie QQ</string>
+  <string name="platform_unavailable_qzone">Bitte installieren Sie Qzone</string>
+  <string name="platform_unavailable_wechat">Bitte installieren Sie wechat</string>
+  <string name="platform_unavailable_wechatmoment">Bitte installieren Sie wechat</string>
+  <string name="platform_unavailable_weibo">Bitte installieren Sie weibo</string>
   <string name="resource_apply">Anwenden</string>
   <string name="resource_no_network_text">"Keine Verbindung zum Netzwerk möglich."</string>
   <string name="setting_head">Einstellungen</string>
+  <string name="settings">Einstellungen</string>
+  <string name="share">Teilen</string>
   <string name="sst_favor_desc">Favoriten durchstöbern</string>
   <string name="sst_favor_title">Favoriten</string>
   <string name="sst_grid_view_select_all">Alle</string>

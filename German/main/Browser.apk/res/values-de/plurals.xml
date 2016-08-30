@@ -23,6 +23,10 @@
         <item quantity="other">Lösche %1$d Dateien aus dem Verlauf?</item>
         <item quantity="one">Lösche %1$d Datei aus dem Verlauf?</item>
     </plurals>
+    <plurals name="video_subtitle_last_message">
+        <item quantity="other">%d Minuten verbleibend</item>
+        <item quantity="one">Eine Minute verbleibend</item>
+    </plurals>
     <plurals name="video_history_clear_info">
         <item quantity="other">%1$d Dateien aus dem Verlauf gelöscht.</item>
         <item quantity="one">%1$d Datei aus dem Verlauf gelöscht.</item>
