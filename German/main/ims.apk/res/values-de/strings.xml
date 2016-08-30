@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="call_hold_label">Gespräch halten :</string>
+  <string name="call_resume_label">Gespräch fortsetzen :</string>
+  <string name="device_is_hd_capable">Gerät ist HD-fähig</string>
+  <string name="error_msg_cancelled">Abgebrochen</string>
+  <string name="error_msg_failed">Fehlgeschlagen</string>
+  <string name="error_msg_reinvite_collision">Kollision beim Wiedereinladen</string>
+  <string name="incoming_call_failed_low_battery">Eingehender Anruf kann wegen niedrigem Akkustand nich angenommen werden</string>
+</resources>
