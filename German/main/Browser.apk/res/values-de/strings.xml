@@ -631,7 +631,6 @@ Diese Seite verlassen?"</string>
   <string name="remove_snapshot">Lösche gespeicherte Seite</string>
   <string name="removed_from_bookmarks">Aus Lesezeichen entfernt</string>
   <string name="replace">Ersetzen</string>
-  <string name="replace">Ersetzen</string>
   <string name="reply_comment_title">Antwort: %s</string>
   <string name="resume_download">Start</string>
   <string name="retry_after_network_available">"Keine Netzwerkverbindung"</string>
