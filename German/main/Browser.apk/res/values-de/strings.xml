@@ -342,7 +342,7 @@
   <string name="is_last_history_item">Dies ist die letzte Seite Ihres Browserverlaufs</string>
   <string name="is_last_tab">Die ist der letzte Tab</string>
   <string name="is_page_bottom">"Sie haben das Ende der Seite erreicht"</string>
-  <string name="is_page_top">Die sind am oberen Seitenrand</string>
+  <string name="is_page_top">Sie sind am oberen Seitenrand</string>
   <string name="isreplace">Die Datei existiert bereits, ersetzen?</string>
   <string name="js_dialog_before_unload">"%s
 
