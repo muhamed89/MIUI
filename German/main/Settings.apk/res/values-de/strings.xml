@@ -4140,8 +4140,8 @@ Jeder Nutzer kann aktualisierte Appberechtigungen im Namen aller anderen Nutzer 
   <string name="user_exit_guest_dialog_remove">Entfernen</string>
   <string name="user_exit_guest_title">Gast entfernen</string>
   <string name="user_experience_program">Benutzererfahrungsprogramm</string>
- +<string name="user_experience_program_summary">Helfen Sie, MIUI zu verbessern, indem Sie anonyme Nutzungsdaten bereitstellen</string>
- +<string name="user_experience_program_title">Benutzererfahrungsprogramm</string>
+  <string name="user_experience_program_summary">Helfen Sie, MIUI zu verbessern, indem Sie anonyme Nutzungsdaten bereitstellen</string>
+  <string name="user_experience_program_title">Benutzererfahrungsprogramm</string>
   <string name="user_guest">Gast</string>
   <string name="user_image_choose_photo">Foto aus Galerie auswählen</string>
   <string name="user_image_photo_selector">Fotos auswählen</string>
