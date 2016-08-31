@@ -387,7 +387,7 @@
   <string name="effect">Effekt</string>
   <string name="email_picker_title">Geteilte E-Mail hinzufügen</string>
   <string name="enable_auto_upload_tip">Dieses Album wird nach der Aktivierung aus \"Andere Alben\" entfernt.</string>
- +  <string name="enable_auto_upload_title">Sync mit Mi Cloud einschalten</string>
+  <string name="enable_auto_upload_title">Sync mit Mi Cloud einschalten</string>
   <string name="enable">Einschalten</string>
   <string name="enable_cloud_for_sharing">Cloudalbum aktivieren, um geteilte Bilder anzuzeigen</string>
   <string name="enable_face_album_summary">Fotos automatisch nach Personen sortieren</string>
