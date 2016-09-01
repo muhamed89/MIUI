@@ -56,6 +56,7 @@
   <string name="artist_name">Interpret</string>
   <string name="artist_search_title">Interpret</string>
   <string name="artist_view">Interpret</string>
+  <string name="atmd_copyright_info">Streaming-Service wird zur Verfügung gestellt von Ultimate Inc.</string>
   <string name="atmd_music">Ultimate</string>
   <string name="audio_picker_title">Titel auswählen</string>
   <string name="auth_activity_title">Xunlei Konto</string>
@@ -143,16 +144,19 @@
   <string name="dialog_confirm_delete_checkbox_message">Auch lokale Dateien löschen</string>
   <string name="dialog_confirm_delete_downloads_message">%d Aufgaben löschen?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Diese Aufgaben löschen</string>
+  <string name="dialog_delete_descript">%s löschen?</string>
   <string name="dialog_failed_body">Wollen Sie versuchen, die Datei später herunterzuladen, oder wollen Sie sie aus der Warteschlage löschen?</string>
   <string name="dialog_file_already_exists">Download nicht möglich. Die Datei existiert bereits.</string>
   <string name="dialog_file_missing_body">Die heruntergeladene Datei wurde nicht gefunden.</string>
   <string name="dialog_file_missing_title">Datei kann nicht geöffnet werden</string>
-  <string name="dialog_hint_music_error">Keine Titel gefunden.</string>
+  <string name="dialog_hint_music_error">Keine Titel gefunden</string>
+  <string name="dialog_hint_network_error">Keine Netzwerkverbindung</string>
   <string name="dialog_insufficient_space_on_cache">Download kann nicht beendet werden, zu wenig Speicherplatz.</string>
   <string name="dialog_insufficient_space_on_external">Download kann nicht beendet werden, zu wenig Speicherplatz.</string>
   <string name="dialog_media_not_found">Download kann nicht beendet werden, Medium nicht verfügbar.</string>
   <string name="dialog_not_show_again">"Nicht wieder anzeigen"</string>
   <string name="dialog_queued_body">Diese Datei wurde in die Warteschlange eingereiht.</string>
+  <string name="dialog_remove_descript">%s entfernen?</string>
   <string name="dialog_title_add_playlist">Wiedergabeliste hinzufügen</string>
   <string name="dialog_title_delete_tracks">Löschen</string>
   <string name="dialog_title_name_playlist">Wiedergabeliste benennen</string>
@@ -184,6 +188,9 @@
   <string name="download_auto_after_favorite_title">Lieblingstitel herunterladen</string>
   <string name="download_auto_cancel">Das Herunterladen der Lieblingstitel wurde ausgeschaltet</string>
   <string name="download_auto_message">"Favorisierte Titel werden automatisch heruntergeladen, sobald eine WLAN-Verbindung hergestelltt wird. Sie können dies in den Einstellungen ändern."</string>
+  <string name="download_auto_quality_alert_sub_title_for_expired">Ihr Testabo ist abgelaufen. Wählen Sie eine andere Downloadqualität.</string>
+  <string name="download_auto_quality_alert_sub_title_for_login">Zum Aktivieren melden Sie sich mit Ihrem Mi Konto an</string>
+  <string name="download_auto_quality_alert_title">Musik-Downloadqualität</string>
   <string name="download_auto_when_all_network">Nutze mobile Daten und WLAN</string>
   <string name="download_auto_when_free_network">Nutze nur WLAN</string>
   <string name="download_auto_when_free_network_summary">Zusätzliche Einstellungen für Lieblingstitel</string>
@@ -314,6 +321,7 @@
   <string name="force_touch_audio_picker">Audioauswahl</string>
   <string name="force_touch_play_local_music_random">Lokale Titel zufällig wiedergeben</string>
   <string name="format_not_support">Das Format wird nicht unterstützt</string>
+   <string name="format_unsupported">Dieses Format wird nicht unterstützt</string>
   <string name="format_unsupported_or_corrupted">"Das Format wird nicht unterstützt oder die Datei ist beschädigt"</string>
   <string name="fragment_more">Mehr</string>
   <string name="fragment_title_artist">Interpret</string>
@@ -331,6 +339,7 @@
   <string name="home_tab_online">Entdecken</string>
   <string name="i_know">Bestätigen</string>
   <string name="i_know_it">Bestätigen</string>
+  <string name="impunity_declaration">Die App benötigt eine Internetverbindung, um Onlineinhalte anzuzeigen und zu streamen.</string>
   <string name="impunity_declaration_content1">"Mit der Bestätigung akzeptieren Sie unsere "</string>
   <string name="impunity_declaration_content2">Nutzungsbedingungen</string>
   <string name="impunity_declaration_content3">" und "</string>
@@ -435,11 +444,13 @@
   <string name="multichoice">Auswählen</string>
   <string name="music_browser_label">Musik</string>
   <string name="music_filter">Audiodateien filtern</string>
+  <string name="music_quality">Musikqualität</string>
   <string name="music_service">Musikdienste</string>
   <string name="music_settings">Musik</string>
   <string name="music_traffic">Musikdatentarif</string>
   <string name="music_traffic_summary">Hören und laden Sie Titel herunter, ohne Daten zu verwenden</string>
   <string name="my_account">Mi Konto</string>
+  <string name="my_music">Meine Musik</string>
   <string name="my_music_empty">Die Wiedergabeliste ist leer.</string>
   <string name="my_music_empty_goto_online">Keine Titel gefunden</string>
   <string name="my_playlist">Meine Wiedergabeliste</string>
@@ -452,9 +463,12 @@
   <string name="nav_online_billboard">Charts</string>
   <string name="nav_online_fm">Radio</string>
   <string name="nav_online_playlist">Wiedergabeliste</string>
+  <string name="network_error">Keine Netzwerkverbindung</string>
   <string name="network_failure">Prüfen Sie Ihre Verbindung und versuchen Sie es erneut.</string>
   <string name="network_request_error">"Netzwerkverbindung nicht möglich"</string>
   <string name="network_settings_error">"Netzwerkverbindung nicht möglich"</string>
+  <string name="network_request_error">Keine Netzwerkverbindung</string>
+  <string name="network_settings_error">Keine Netzwerkverbindung</string>
   <string name="network_traffic">Datennutzung</string>
   <string name="next_time">Nächstes Mal</string>
   <string name="no_album_info">Keine Albuminformationen</string>
@@ -475,6 +489,7 @@
   <string name="not_login">Nicht angemeldet</string>
   <string name="not_now">Nicht jetzt</string>
   <string name="not_selected">Wählen Sie einen Titel aus</string>
+  <string name="not_vip">Entschuldigung, Sie sind kein VIP</string>
   <string name="notif_text_engine_off">Xunlei-Beschleuniger ist aus.</string>
   <string name="notif_text_engine_on">Beschleunigt…</string>
   <string name="notif_title_file_size">%1$d gesamt</string>
@@ -491,6 +506,7 @@
    <string name="notification_headset_custom">Ablehnen</string>
   <string name="notification_headset_info">Tippen Sie hier, um die Einstellungen anzuzeigen.</string>
   <string name="notification_headset_settings">Kopfhörer angeschlossen</string>
+  <string name="high_quality">Höher</string>
   <string name="notification_need_wifi_for_size">Downloadgröße erfordert WLAN.</string>
   <string name="notification_play_summary">Anzeige des aktuellen, nächsten Song und Lyrics auf Startbildschirm</string>
   <string name="notification_play_title">Benachrichtigungs Widget</string>
@@ -502,6 +518,7 @@
   <string name="ok">OK</string>
   <string name="one_month">1 Monat</string>
   <string name="online_list_delete_message">Alle heruntergeladenen Songs in dieser Playlist werden vom internen Speicher gelöscht.</string>
+  <string name="online_music">Entdecken</string>
   <string name="online_music_enabled_subtitle">Berühren um die Lieblingstitel abzuspielen.</string>
   <string name="online_music_enabled_summary">Hören und laden Sie Ihre Lieblingstitel herunter. Sehen Sie sich die Billboard-Charts und tägliche Playlists von überall aus an!</string>
   <string name="online_music_enabled_title">Kostenloses Streaming ist hier</string>
@@ -661,6 +678,7 @@
   <string name="sub_explanation_message">"Mi Musik-Datentarif wird zurzeit nur von China Unicom unterstützt. Ihr Anbieter unterstützt diese Funktion nicht. Sie können Ihren regulären Datentarif verwenden."</string>
   <string name="subed">Auf</string>
   <string name="suggest_text">Menschen denen das gefällt, gefällt auch</string>
+  <string name="support_online_only">Nur Streaming</string>
   <string name="sync_only_in_wifi">Nur mit WLAN synchronisieren</string>
   <string name="sync_only_in_wifi_summary">Synchronisieren Sie Ihre Musik zwischen all Ihren Geräten. Die Verwendung der mobilen Datenverbindung kann zu erhöhten Kosten führen.</string>
   <string name="tab_album">Alben</string>
@@ -743,6 +761,7 @@
   <string name="vip_auto_renew_notification_message">Fügen Sie Mi Credits um Ihr Musikabonnement zu verlängern.</string>
   <string name="vip_auto_renew_notification_title">Abonnementszahlung</string>
   <string name="vip_auto_renew_title">Aboverlängerung</string>
+  <string name="vip_recommend_title">Erhalten Sie eine bessere Downloadqualität</string>
   <string name="vip_renew_message">"Es ist nicht möglich Musik in hoher Qualität zu streamen, aber einige Songs werden in Standardqualität verfügbar sein."</string>
   <string name="vip_renew_notification_message">"Es ist nicht möglich Musik in hoher Qualität zu streamen, nachdem Ihr Abonnement abläuft."</string>
   <string name="vip_renew_notification_title">Abonnement gültig bis morgen</string>

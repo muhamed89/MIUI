@@ -235,6 +235,8 @@
   <string name="pref_camera_long_pressing_shutter_title">&amp; lange betätigen für AF/AE/AWB</string>
   <string name="pref_camera_magic_mirror_title">Magischer Spiegel</string>
   <string name="pref_camera_manual_mode_title">Manuell</string>
+  <string name="pref_camera_movie_solid_entry_off">Aus</string>
+  <string name="pref_camera_movie_solid_entry_on">Ein</string>
   <string name="pref_camera_movie_solid_title">Stabilisation</string>
   <string name="pref_camera_multilevel_entry_high">Hoch</string>
   <string name="pref_camera_multilevel_entry_higher">Höher</string>
@@ -353,6 +355,8 @@
   <string name="pref_priority_storage_title">Vorrangig auf externer SD-Karte speichern</string>
   <string name="pref_qc_focus_position_title">Fokus</string>
   <string name="pref_scan_qrcode_title">Autom. QR-Codes erkennen</string>
+  <string name="pref_scan_qrcode_value_off">aus</string>
+  <string name="pref_scan_qrcode_value_on">ein</string>
   <string name="pref_setting_title">Einstellungen</string>
   <string name="pref_simple_hdr_entry_off">Aus</string>
   <string name="pref_simple_hdr_entry_on">An</string>
