@@ -387,7 +387,6 @@ Datei hinzufügen und Test erneut starten."</string>
     <string name="cit_tool_wifi_rx_7">Rx:7</string>
     <string name="cit_tool_wifi_rx_ap">Rx: AP</string>
     <string name="cit_tool_wifi_rx_ap_name">MT</string>
-    <string name="cit_tool_wifi_rx_ap_not_null">AP name or type can&apos;t be empty</string>
     <string name="cit_tool_wifi_rx_ap_type">bss</string>
     <string name="cit_tool_wifi_rx_ap_type_error">AP error, re-enter (bss/adhoc)</string>
     <string name="cit_tool_wifi_rx_chan">Rx: Kanal</string>
