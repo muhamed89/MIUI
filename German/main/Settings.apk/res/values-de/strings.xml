@@ -3163,9 +3163,9 @@ Betriebssystem auswählen:"</string>
     <string name="receiver_clean">Speicher freigeben</string>
     <string name="recent_location_requests_summary">Die nachfolgenden Apps können Ihre Standortinformationen anfordern</string>
     <string name="recent_location_requests_title">Standortzugriff</string>
-    <string name="recognizer_settings_summary">Settings for &apos;%s&apos;</string>
-    <string name="recognizer_settings_title">Voice Search</string>
-    <string name="recognizer_title">Voice recognizer</string>
+    <string name="recognizer_settings_summary">Einstellungen für  \'%s\'</string>
+    <string name="recognizer_settings_title">Sprachsuche</string>
+    <string name="recognizer_title">Spracherkennung</string>
     <string name="recommend_item_1">Schutzhülle</string>
     <string name="recommend_item_2">Armband</string>
     <string name="recommend_item_3">Mobile Energie</string>
@@ -4995,7 +4995,7 @@ WLAN Assistent"</string>
     <string name="wifi_password">Passwort</string>
     <string name="wifi_poor_network_detection">Schlechte Verbindungen vermeiden</string>
     <string name="wifi_poor_network_detection_summary">Keine WLAN-Netzwerke mit schlechter Verbindung nutzen</string>
-    <string name="wifi_priority_changed">Priorität alter Wert = %s | Neuer Wert = %s</string>
+    <string name="wifi_priority_changed" formatted="false">Priorität alter Wert = %s | Neuer Wert = %s</string>
     <string name="wifi_priority_label">Priorität</string>
     <string name="wifi_priority_settings_label">Prioritätseinstellungen</string>
     <string name="wifi_priority_settings_summary">Tippen um die Priorität für jeden AP einzustellen</string>
