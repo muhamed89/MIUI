@@ -465,8 +465,6 @@
   <string name="nav_online_playlist">Wiedergabeliste</string>
   <string name="network_error">Keine Netzwerkverbindung</string>
   <string name="network_failure">Prüfen Sie Ihre Verbindung und versuchen Sie es erneut.</string>
-  <string name="network_request_error">"Netzwerkverbindung nicht möglich"</string>
-  <string name="network_settings_error">"Netzwerkverbindung nicht möglich"</string>
   <string name="network_request_error">Keine Netzwerkverbindung</string>
   <string name="network_settings_error">Keine Netzwerkverbindung</string>
   <string name="network_traffic">Datennutzung</string>
