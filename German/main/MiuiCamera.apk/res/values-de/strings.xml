@@ -355,8 +355,6 @@
   <string name="pref_priority_storage_title">Vorrangig auf externer SD-Karte speichern</string>
   <string name="pref_qc_focus_position_title">Fokus</string>
   <string name="pref_scan_qrcode_title">Autom. QR-Codes erkennen</string>
-  <string name="pref_scan_qrcode_value_off">aus</string>
-  <string name="pref_scan_qrcode_value_on">ein</string>
   <string name="pref_setting_title">Einstellungen</string>
   <string name="pref_simple_hdr_entry_off">Aus</string>
   <string name="pref_simple_hdr_entry_on">An</string>
