@@ -263,8 +263,8 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
     <string name="app_ops_settings_summary">Zeige oder ändere App-Berechtigungen</string>
     <string name="app_overlay_permission_preference">Appüberlagerungsberechtigungen</string>
     <string name="app_permissions">App Berechtigungen</string>
-    <string name="app_permissions_group_summary">%d von %d Apps erlaubt</string>
-    <string name="app_permissions_summary">%d von %d Apps wird erweiterter Zugriff erlaubt</string>
+    <string name="app_permissions_group_summary" formatted="false">%d von %d Apps erlaubt</string>
+    <string name="app_permissions_summary" formatted="false">%d von %d Apps wird erweiterter Zugriff erlaubt</string>
     <string name="app_process_limit_title">Hintergrundprozesslimit</string>
     <string name="app_restrictions_custom_label">Appbeschränkungen festlegen</string>
     <string name="app_sees_restricted_accounts">Diese App darf auf Ihre Konten zugreifen.</string>
@@ -2362,9 +2362,9 @@ Es sind andere Benutzer an diesem System angemeldet.
     <string name="model_number">Modellnummer</string>
     <string name="modem_tool_log">Capture modem logs</string>
     <string name="modem_tool_log_start">Start</string>
-    <string name="modem_tool_log_start_toast">Start to dump modem&apos;s log to %s</string>
+    <string name="modem_tool_log_start_toast">Modemlog nach %s speichern starten</string>
     <string name="modem_tool_log_stop">Stop</string>
-    <string name="modem_tool_log_stop_toast">Stop to dump modem&apos;s log from %s</string>
+    <string name="modem_tool_log_stop_toast">Modemlog nach %s speichern anhalten</string>
     <string name="move_app">Verschieben</string>
     <string name="move_app_app_label">App</string>
     <string name="move_app_data_label">Daten</string>
@@ -2409,9 +2409,9 @@ Betriebssystem auswählen:"</string>
     <string name="multi_select_title">%1$s ausgewählt</string>
     <string name="multi_touch_points_category_title">Multitouchpunkte</string>
     <string name="multi_touch_points_preference">Zum Einschalten, Neustarten</string>
-    <string name="multi_user_mode_backup_message">Can&apos;t use Backup in Multi-user mode. Turn off Multi-user mode to continue.</string>
-    <string name="multi_user_mode_dialog_message">Can&apos;t use Mi Mover in Multi-user mode. Turn off Multi-user mode to continue.</string>
-    <string name="multi_user_mode_dialog_title">You&apos;re in Multi-user mode</string>
+    <string name="multi_user_mode_backup_message">Sicherung kann im Mehrbenutzermodus nicht verwendet werden. Schalten Sie den Mehrbenutzermodus aus um fortzufahren.</string>
+    <string name="multi_user_mode_dialog_message">Mi Mover kann im Mehrbenutzermodus nicht verwendet werden. Schalten Sie den Mehrbenutzermodus aus um fortzufahren.</string>
+    <string name="multi_user_mode_dialog_title">Sie sind im Mehrbenutzermodus</string>
     <string name="music_audio_effect_optimize">Audioeinstellungen</string>
     <string name="music_audio_effect_optimize_summary">Dirac, Kopfhörer und weitere Audioeinstellungen</string>
     <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, Kopfhörer und weitere Audioeinstellungen</string>
@@ -2539,7 +2539,7 @@ Betriebssystem auswählen:"</string>
     <string name="no_media_button_receiver">Nein</string>
     <string name="no_memory_use_summary">Kein Speicher in den letzten 3 Stunden verbraucht</string>
     <string name="no_nearby_wifi">Keine Netzwerke gefunden.</string>
-    <string name="no_network">Can&apos;t connect to the network</string>
+    <string name="no_network">Keine Netzwerkverbindung</string>
     <string name="no_notification_listeners">Keine Benachrichtigungs-Listener installiert</string>
     <string name="no_running_services">Nichts wird ausgeführt.</string>
     <string name="no_services">Keine aktiven Dienste</string>
@@ -3651,7 +3651,7 @@ Um Screenpinning zu nutzen:
     <string name="security_settings_premium_sms_desc">Premium-SMS senden?</string>
     <string name="security_settings_summary">Meinen Standort, Bildschirmsperre, SIM-Kartensperre und Sperre für Anmeldeinformationsspeicher festlegen</string>
     <string name="security_settings_title">Sicherheit</string>
-    <string name="see_backup_files_on_router">Sicherungen auf Mi Router %s anzeigen</string
+    <string name="see_backup_files_on_router">Sicherungen auf Mi Router %s anzeigen</string>
     <string name="select_all">Alles auswählen</string>
     <string name="select_application">Anwendung auswählen</string>
     <string name="select_backup_item">Elemente auswählen</string>
@@ -4160,7 +4160,7 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
     <string name="system_alert_window_off">Nein</string>
     <string name="system_alert_window_on">Ja</string>
     <string name="system_alert_window_settings">Apps überlagern</string>
-    <string name="system_alert_window_summary">%d von %d Apps ist es erlaubt, andere Apps zu überlagern</string>
+    <string name="system_alert_window_summary" formatted="false">%d von %d Apps ist es erlaubt, andere Apps zu überlagern</string>
     <string name="system_and_device_section_title">System &amp; Gerät</string>
     <string name="system_app_settings">Systemanwendungen</string>
     <string name="system_backup">Sicherung</string>
@@ -5207,7 +5207,7 @@ Das Einrichten des Telefons kann eine erhöhte Netzwerkaktivität erfordern."</s
     <string name="write_settings_off">Nein</string>
     <string name="write_settings_on">Ja</string>
     <string name="write_settings_preference">Die App kann Systemeinstellungen verändern</string>
-    <string name="write_settings_summary">%d von %d Apps dürfen die Systemeinstellungen verändern</string>
+    <string name="write_settings_summary" formatted="false">%d von %d Apps dürfen die Systemeinstellungen verändern</string>
     <string name="write_settings_title">Darf Systemeinstellungen verändern</string>
     <string name="write_system_settings">Systemeinstellungen verändern</string>
     <string name="write_tag">Schreiben</string>
