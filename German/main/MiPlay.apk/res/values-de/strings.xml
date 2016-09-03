@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">MiPlay</string>
+  <string name="app_name">Mi Play</string>
   <string name="cancel">Abbrechen</string>
   <string name="enable_wifi_btn">Einschalten</string>
   <string name="enable_wifi_message">WLAN einschalten, um sich mit Geräten in der Nähe zu verbinden</string>
   <string name="enable_wifi_title">WLAN einschalten</string>
-  <string name="media_feature_projection">Spiegelbild</string>
+  <string name="media_feature_projection">Bildschirm spiegeln</string>
   <string name="media_status_error">Fehler</string>
   <string name="media_status_started">Verbunden</string>
   <string name="media_status_starting">Verbindung wird hergestellt…</string>
   <string name="media_status_stopped">Beenden</string>
   <string name="media_status_stopping">Wird beendet…</string>
   <string name="search_for_devices">Aktualisieren</string>
-  <string name="wifi_display_autonomous_go">Autonome GO aktivieren</string>
+  <string name="wifi_display_autonomous_go">Autonomous GO aktivieren</string>
   <string name="wifi_display_certification_heading">Zertifizierung</string>
-  <string name="wifi_display_details">Bildschirm Einstellungen</string>
+  <string name="wifi_display_details">Bildschirmeinstellungen</string>
   <string name="wifi_display_enable_menu_item">WLAN Anzeige aktivieren</string>
-  <string name="wifi_display_listen_channel">Kanal</string>
-  <string name="wifi_display_listen_mode">Hör-Modus aktivieren</string>
+  <string name="wifi_display_listen_channel">Empfangskanal</string>
+  <string name="wifi_display_listen_mode">Empfangsmodus aktivieren</string>
   <string name="wifi_display_no_devices_found">Es wurden keine Geräte in der Nähe gefunden</string>
   <string name="wifi_display_operating_channel">Betriebskanal</string>
   <string name="wifi_display_options_done">Fertig</string>
@@ -27,7 +27,7 @@
   <string name="wifi_display_pause">Pause</string>
   <string name="wifi_display_resume">Fortsetzen</string>
   <string name="wifi_display_session_info">Sitzungsinformationen</string>
-  <string name="wifi_display_settings_title">stimmen</string>
+  <string name="wifi_display_settings_title">Übertragen</string>
   <string name="wifi_display_status_connected">Verbunden</string>
   <string name="wifi_display_status_connecting">Verbindung</string>
   <string name="wifi_display_status_in_use">In Benutzung</string>
