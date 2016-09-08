@@ -2106,7 +2106,6 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
     <string name="login_account_dialog_message">Melden Sie sich an Ihrem Mi Konto an und schalten Sie die Synchronisation mit Mi Cloud ein.</string>
     <string name="login_account_dialog_title">Melden Sie sich an Ihrem Mi Konto an</string>
     <string name="login_action">Anmelden</string>
-    <string name="long_press_volume_down">Long press volume down</string>
     <string name="lte_ram_dump_off">LTE-RAM-Dump ausschalten</string>
     <string name="lte_ram_dump_on">LTE-RAM-Dump einschalten</string>
     <string name="macaddr_label">MAC-Adresse:</string>
