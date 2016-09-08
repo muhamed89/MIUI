@@ -101,6 +101,9 @@
   <string name="chongsha">冲煞</string>
   <string name="choose_event_color_label">Ereignisfarbe</string>
   <string name="click_watch">Zum Anzeigen antippen</string>
+  <string name="color_picker_default_title">Wählen Sie eine Farbe</string>
+  <string name="color_swatch_description">Farbe %1$d</string>
+  <string name="color_swatch_description_selected">Farbe %1$d gewählt</string>
   <string name="common_fri">Freitag</string>
   <string name="common_mon">Montag</string>
   <string name="common_sat">Samstag</string>
@@ -144,6 +147,7 @@
   <string name="date_pattern_mm_dd">dd.MM.</string>
   <string name="date_pattern_mm_dd_kk_mm">dd.MM. HH:mm</string>
   <string name="date_pattern_yyyy_mm_dd_kk_mm">dd.MM. yyyy HH:mm</string>
+  <string name="day_picker_description">Monat als Tagesraster</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="day_view">Tag</string>
   <string name="day_view_new_event_hint">Neuer Termin</string>
@@ -154,6 +158,7 @@
   <string name="delete_this_event_title">Diesen Termin löschen?</string>
   <string name="delete_topic_dialog_title">Bestätigen Sie, daß Sie \"%s\"abbestellen?</string>
   <string name="delete_topic_success">Abbestellen von \"%s\"erfolgreich</string>
+  <string name="deleted_key">%1$s gelöscht</string>
   <string name="deleting_calendar">Abbestellen</string>
   <string name="departure">Abfahrt</string>
   <string name="description_label">Beschreibung</string>
@@ -163,6 +168,7 @@
   <string name="do_not_check">NICHT prüfen -&gt;</string>
   <string name="does_not_repeat">Einmaliger Termin</string>
   <string name="done">Fertig</string>
+  <string name="done_label">Fertig</string>
   <string name="download">Download</string>
   <string name="download_finished">Download abgeschlossen</string>
   <string name="downloaded">Heruntergeladen</string>
@@ -186,7 +192,8 @@
   <string name="edit_event_to_label">Bis</string>
   <string name="edit_label">Bearbeiten</string>
   <string name="email_guests_label">E-Mail an Gäste</string>
-  <string name="email_organizer_label">Email an Ersteller</string>
+  <string name="email_guests_label_title">E-Mail</string>
+  <string name="email_organizer_label">E-Mail an Ersteller</string>
   <string name="email_picker_label">E-Mail mit</string>
   <string name="email_subject_prefix">"AW: "</string>
   <string name="empty_event">Leerer Termin nicht erstellt</string>
@@ -239,6 +246,7 @@
   <string name="hide_controls">Steuerelemente aus</string>
   <string name="hint_attendees">Gäste</string>
   <string name="hint_description">Beschreibung</string>
+  <string name="hint_time_zone_search">Land eingeben</string>
   <string name="hint_what">Bezeichnung</string>
   <string name="hint_where">Standort</string>
   <string name="holiday_card_title">Feiertag</string>
@@ -252,6 +260,7 @@
   <string name="huangli_bad_type">Meiden</string>
   <string name="huangli_good_type">Passend</string>
   <string name="huangli_label"/>
+  <string name="hour_picker_description">Stunden als kreisförmiger Schieber</string>
   <string name="image_content">Bild</string>
   <string name="insert_event_dialog_btn_negative">Nein</string>
   <string name="insert_event_dialog_btn_positive">Ja</string>
@@ -259,6 +268,7 @@
   <string name="insert_event_dialog_title">Hinweis</string>
   <string name="insert_event_toast_add_failed">Fehlgeschlagen</string>
   <string name="insert_event_toast_add_success">Termin erstellt</string>
+  <string name="item_is_selected">%1$s ausgewählt</string>
   <string name="joke_card_icon_text">%1$s Personen lachen</string>
   <string name="jump_date">Springen</string>
   <string name="jump_date_full">Zum Datum springen</string>
@@ -268,7 +278,9 @@
   <string name="loading">Einen Moment…</string>
   <string name="local_calendar_display_name">Lokaler Kalender</string>
   <string name="local_owner_account_name">Lokales Konto</string>
+  <string name="lunar_calendar">Mondkalender</string>
   <string name="lunar_date">Monddatum</string>
+  <string name="lunar_yue">Monat</string>
   <string name="map_label">Karte</string>
   <string name="match_ed">Beendet</string>
   <string name="match_ing">Laufend</string>
@@ -278,6 +290,7 @@
   <string name="menu_preferences">Einstellungen</string>
   <string name="menu_reminder_preferences">Erinnerungseinstellungen</string>
   <string name="menu_select_visible_calendars">Anzeigeoptionen</string>
+  <string name="minute_picker_description">Minuten als kreisförmiger Schieber</string>
   <string name="miui_menu_create_event">Neu</string>
   <string name="modify_all">Alle Termine in dieser Serie ändern</string>
   <string name="modify_all_following">Diesen und alle zukünftigen Termine ändern</string>
@@ -309,6 +322,7 @@
   <string name="no_local_calendar">Kein Kalenderabo</string>
   <string name="no_network">Netzwerk nicht verfügbar</string>
   <string name="no_network_btn">Nochmals versuchen</string>
+  <string name="no_results_found">Keine Ergebnisse</string>
   <string name="no_syncable_calendars">Keine Kalender</string>
   <string name="no_title_label">(Kein Titel)</string>
   <string name="no_visiable_calendar_message">Sie müssen ein Kalender-Konto auswählen. Bitte wählen Sie ein Konto im nächsten Schritt aus.</string>
@@ -437,10 +451,15 @@
   <string name="search_calendar">Kalender;Tagesplanung;Erinnerung</string>
   <string name="search_history_cleared">Suchverlauf gelöscht</string>
   <string name="search_title">In meinen Kalendern suchen</string>
+  <string name="searchview_description_clear">Abfrage löschen</string>
   <string name="select_date">Datum auswählen</string>
+  <string name="select_day">Monat und Tag wählen</string>
+  <string name="select_hours">Stunden wählen</string>
+  <string name="select_minutes">Minuten wählen</string>
   <string name="select_synced_calendars_button">Zu synchronisierender Kalender</string>
   <string name="select_synced_calendars_title">Zu synchronisierender Kalender</string>
   <string name="select_visible_calendars_title">Kalenderanzeige</string>
+  <string name="select_year">Jahr wählen</string>
   <string name="set_as_wallpaper">Als Hintergrundbildschirm festlegen</string>
   <string name="setting_about_calendar_version">Kalenderversion:</string>
   <string name="setting_about_imei">IMEI:</string>
@@ -567,6 +586,8 @@
   <string name="wuxing">Fünf</string>
   <string name="xiaomi_calendar_display_name">MiKalender</string>
   <string name="xingxiu">Sterne</string>
+  <string name="year_label">Jahr</string>
+  <string name="year_picker_description">Jahresliste</string>
   <string name="yearly">Jährlich (am %s)</string>
   <string name="yearly_plain">Jährlich</string>
   <string name="zhushen">Zhushen</string>

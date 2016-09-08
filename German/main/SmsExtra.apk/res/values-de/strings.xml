@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activity_not_found">Für diese Aktion wurde keine geeignete App gefunden</string>
+  <string name="back_to_message_list">Zurück zur Nachrichtenliste</string>
+  <string name="confirm_delete_all_conversations">Alle Unterhaltungen löschen?</string>
+  <string name="confirm_delete_conversation">Den ganzen Thread löschen?</string>
+  <string name="confirm_delete_group_message">Gruppennachrichten löschen?</string>
+  <string name="confirm_delete_locked_message">Diese gesperrte Nachricht löschen?</string>
+  <string name="confirm_delete_message">Diese Nachricht löschen?</string>
+  <string name="confirm_dialog_locked_title">Gesperrte Nachricht löschen?</string>
+  <string name="confirm_dialog_title">Löschen?</string>
+  <string name="copy_message_text">Kopieren</string>
+  <string name="copy_message_text_success">Text erfolgreich kopiert</string>
+  <string name="delete">Löschen</string>
+  <string name="delete_message">Löschen</string>
+  <string name="from_label">"Von: "</string>
+  <string name="menu_forward">Weiterleiten</string>
+  <string name="menu_lock">Favorit</string>
+  <string name="menu_unlock">Kein Favorit</string>
+  <string name="message_details_title">Nachrichtendetails</string>
+  <string name="message_type_label">"Typ: "</string>
+  <string name="received_label">"Empfangen: "</string>
+  <string name="sent_label">"Gesendet: "</string>
+  <string name="sms_card_partner_label">"SMS card partner: "</string>
+  <string name="sms_card_teddy_mobile">Teddy Mobile</string>
+  <string name="text_message">Textnachricht</string>
+  <string name="view_message_details">Details anzeigen</string>
+</resources>
+ 
+ 

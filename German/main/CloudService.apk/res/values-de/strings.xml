@@ -387,6 +387,14 @@ Diese Funktion verschlüsselt und sendet ihre Geräte-ID zum Mi-Server."</string
   <string name="privacy_policy">Datenschutzrichtlinie</string>
   <string name="remind_later">Nicht jetzt</string>
   <string name="restoreSync">Synchronisiere jetzt</string>
+  <string name="search_cloudbackup_pref">Cloudsicherung</string>
+  <string name="search_cloudbackup_pref_desc">Cloudsicherung ein-/ausschalten</string>
+  <string name="search_cloudbackup_pref_key_words">Cloudsicherung, cloud backup</string>
+  <string name="search_cloudbackup_pref_path">Mi Account/Mi Cloud/BACKUP AND RESTORE</string>
+  <string name="search_finddevice_pref">Gerät finden</string>
+  <string name="search_finddevice_pref_desc">Gerät finden ein-/ausschalten</string>
+  <string name="search_finddevice_pref_key_words">find device, Gerät finden</string>
+  <string name="search_finddevice_pref_path">Mi Konto/Mi Cloud/Gerät finden</string>
   <string name="setting">Einstellungen</string>
   <string name="settings_backup_title">Sichere Sytemeinstellungen</string>
   <string name="share_cancel">Teilen abgebrochen</string>
