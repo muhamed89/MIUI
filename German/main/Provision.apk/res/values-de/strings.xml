@@ -29,6 +29,8 @@
   <string name="next">Weiter</string>
   <string name="next_fingerprint">Weiter</string>
   <string name="other_settings">Weitere Einstellungen</string>
+  <string name="other_settings_auto_update">Automatisch aktualisieren</string>
+  <string name="other_settings_auto_update_summary">MIUI wird Leerlaufzeit nutzen, um Updates herunterzuladen und zu installieren</string>
   <string name="other_settings_location">Standort</string>
   <string name="other_settings_location_summary">Apps dürfen Ihren Standort lokalisieren</string>
   <string name="other_settings_permission">MIUI-Serviceberechtigungen</string>

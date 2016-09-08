@@ -279,5 +279,13 @@
         <item quantity="two">%1$s Follower</item>
         <item quantity="few">%1$s Follower</item>
         <item quantity="many">%1$s Follower</item>
-    </plurals>    
+    </plurals>
+    <plurals name="number_of_comment_flow">
+        <item quantity="other">%1$s Kommentare</item>
+        <item quantity="one">%1$s Kommentar</item>
+    </plurals>
+    <plurals name="user_sign_limt">
+        <item quantity="other">Sie können %d Zeichen eingeben</item>
+        <item quantity="one">Sie können %d Zeichen eingeben</item>
+    </plurals>
 </resources>

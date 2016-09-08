@@ -42,9 +42,11 @@
   <string name="backup_title">Chat Video sichern?</string>
   <string name="big5_summary">Standardcodierung für Traditionelles Chinesisch in Windows</string>
   <string name="big5_title">BIG5</string>
-  <string name="bind_account">Sync KuaiPan Konto</string>
+  <string name="bind">Hinzufügen</string>
+  <string name="bind_account">KuaiPan Konto synchronisieren</string>
   <string name="bind_account_summary">Synchronisieren Sie Ihr KuaiPan Konto mit Ihrem Mi Konto</string>
-  <string name="bind_failed_tip">"Couldn't add"</string>
+  <string name="bind_failed_tip">Hinzufügen fehlgeschlagen</string>
+  <string name="bind_need_to_login">Anmelden</string>
   <string name="bind_phone_dialog_bind">Jetzt hinzufügen</string>
   <string name="bind_phone_dialog_cancle">Nicht hinzufügen</string>
   <string name="bind_phone_dialog_tip">"Ihr Video kann an der Rangliste teilnehmen und Belohnungen gewinnen. Falls Sie gewinnen, können wir Sie nur benachrichtigen, wenn Sie Ihre Telefonnummer bekanntgeben."</string>
@@ -97,6 +99,7 @@
   <string name="clean_trash_box">Papierkorb leeren</string>
   <string name="cleaning">Bereinigung läuft…</string>
   <string name="click_to_switch_volume">Hier antippen, um zwischen internem Speicher und SD-Karte umzuschalten</string>
+  <string name="click_to_switch_volume_pad">Hier antippen, um zwischen internem Speicher und SD-Karte umzuschalten</string>
   <string name="close">Schließen</string>
   <string name="comment_delete_message">Dieser Kommentar wird dauerhaft gelöscht</string>
   <string name="comment_delete_title">Kommentar löschen</string>
@@ -168,6 +171,8 @@
   <string name="delete_video_dialog_title">Video löschen</string>
   <string name="delete_video_success">Erfolgreich gelöscht</string>
   <string name="des_running_trans">%1$d Dateien wurden noch nicht übertragen</string>
+  <string name="dialog_logout_message">Jetzt ausloggen?</string>
+  <string name="dialog_logout_title">Ausloggen</string>
   <string name="dialog_confirm">OK</string>
   <string name="dialog_select_type">Typ auswählen</string>
   <string name="dialog_type_audio">Audio</string>
@@ -217,6 +222,7 @@
   <string name="favorite_photo">Foto</string>
   <string name="favorite_ringtone">Klingeltöne</string>
   <string name="favorite_screen_cap">MIUI-Screenshots</string>
+  <string name="female">Weiblich</string>
   <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="file_already_downlaoded">Datei gespeichert unter \"%1$s\"</string>
   <string name="file_info_canread">"Lesen: "</string>
@@ -337,6 +343,7 @@
   <string name="make_private_msg_1">Diese Datei verstecken?</string>
   <string name="make_private_msg_2">Diese Dateien verstecken?</string>
   <string name="make_private_msg_3">Alle Dateien in diesem Ordner werden ausgeblendet.</string>
+  <string name="male">Männlich</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_item_cleanup">Dateibereinigung</string>
   <string name="menu_item_ftp">FTP</string>
@@ -401,6 +408,7 @@
   <string name="move_icon_to_desktop_success">Verknüpfung auf dem Startbildschirm erstellt.</string>
   <string name="move_to">Verschieben nach…</string>
   <string name="move_to_confirm">Erstellen</string>
+  <string name="msg_notify_setting">Benachrichtigunseinstellungen</string>
   <string name="msg_set_password">Zuerst muss ein Passwort festgelegt werden</string>
   <string name="multi_select_title">%1$s ausgewählt</string>
   <string name="my_app">Appdaten</string>
@@ -492,6 +500,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="notify_private_folder_title">Schützen Sie ihre privaten Dateien</string>
   <string name="oauth_failed_tip">Autorisierung konnte nicht abgeschlossen werden</string>
   <string name="oauth_success_tip">Autorisierung erfolgreich</string>
+  <string name="one_account_bind_needed">Fügen Sie zumindest ein Konto hinzu</string>
   <string name="online_not_support">"Diese Datei kann im Moment nicht online angezeigt werden."</string>
   <string name="only_wifi">Bei WLAN-Verbindung herunterladen</string>
   <string name="open_app">Öffnen</string>
@@ -546,6 +555,8 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="operation_unfavorite">Aus Favoriten entfernen</string>
   <string name="operation_unlike">Gefällt mir nicht mehr</string>
   <string name="otg_file_can_not_open">"Die Datei auf dem USB-Speicher kann nicht geöffnet werden. Kopieren Sie die Datei zunächst auf den internen Speicher."</string>
+  <string name="other_user_fans_tab">Fans</string>
+  <string name="other_user_follow_tab">Personen denen ich folge</string>
   <string name="other_user_follow_title">Personen denen ich folge</string>
   <string name="other_user_liked_topic_tip">Sie folgen aktuell keinen Themen</string>
   <string name="other_user_liked_video_title">Videos die ich mag</string>
@@ -570,6 +581,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="phone_get_code_tip">Zu viele Versuche für heute</string>
   <string name="phone_has_used_tip">Diese Telefonnummer ist mit einem anderen Konto verknüpft, versuchen Sie eine andere.</string>
   <string name="phone_login_title">Telefonnummer</string>
+  <string name="phone_num">Telefonnummer</string>
   <string name="phone_num_et_hint">Telefonnummer eingeben</string>
   <string name="phone_num_format_tip">ungültige Telefonnummer</string>
   <string name="phone_send_code">Code zusenden</string>
@@ -699,6 +711,8 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="server_control_settings">Einstellungen</string>
   <string name="server_error">Serverfehler, versuchen Sie es später. (Fehler %s)</string>
   <string name="setting">Einstellungen</string>
+  <string name="setting_account_bind">Konto hinzufügen</string>
+  <string name="setting_message_notify">Benachrichtigungen</string>
   <string name="share_box">Geteilt</string>
   <string name="share_box_receive">Empfangen</string>
   <string name="share_box_send">Gesendet</string>
@@ -765,6 +779,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="tab_storage">SPEICHER</string>
   <string name="tag_weixin_video">Videoclips</string>
   <string name="terabyteShort">TB</string>
+  <string name="title_album">Alben</string>
   <string name="title_app_tags">Apps</string>
   <string name="title_enable_documentsui">DocumentsUI aktivieren</string>
   <string name="title_expire_video">Läuft bald ab</string>
@@ -796,8 +811,19 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="ui_main_toast_favorite_added">Zu Favoriten hinzugefügt</string>
   <string name="ui_main_toast_favorite_removed">Aus Favoriten entfernt</string>
   <string name="ui_main_toast_operation_failed">Entfernen von %1$s aus Favoriten fehlgeschlagen.</string>
+  <string name="unbind">Löschen</string>
+  <string name="unbind_account">%s löschen?</string>
+  <string name="unbind_fail">Löschen fehlgeschlagen</string>
+  <string name="unbind_success">Erfolgreich gelöscht</string>
+  <string name="unlogin">Melden Sie sich zuerst an</string>
   <string name="unmount_inform_text">USB-Speicher trennen?</string>
   <string name="unreviewed_video_cannot_share">Videos sollten vor dem Teilen geprüft werden</string>
+  <string name="update_failed">Speichern fehlgeshclagen, versuchen Sie es noch einmal</string>
+  <string name="update_loading">Wird gespeichert…</string>
+  <string name="upload_avatar_camera">Kamera</string>
+  <string name="upload_avatar_failed">Upload fehlgeschlagen, versuchen Sie es noch einmal</string>
+  <string name="upload_avatar_loading">Wird hochgeladen…</string>
+  <string name="upload_avatar_local">Galerie</string>
   <string name="upload_external_action_hint">Videolink einfügen</string>
   <string name="upload_external_notification_failed">Konnte nicht veröffentlicht werden</string>
   <string name="upload_external_notification_success">Erfolgreich veröffentlicht</string>
@@ -813,6 +839,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="upload_notification_success">Upload hochgeladen</string>
   <string name="upload_notification_success_content">Ihr Video sollte geprüft werden, bevor Sie es mit anderen teilen</string>
   <string name="upload_notification_title">Video wird hochgeladen</string>
+  <string name="upload_user_photo">Hochladen</string>
   <string name="upload_video">Video teilen</string>
   <string name="upload_video_dialog_message">"Nach Überprüfung wird Ihr Video unter den beliebten angezeigt."</string>
   <string name="upload_video_dialog_title">Video erfolgreich geteilt</string>
@@ -825,6 +852,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="usb_label">USB</string>
   <string name="used">"Belegt: "</string>
   <string name="user_agreement">Nutzungsbedingungen</string>
+  <string name="user_cancel">Abgebrochen</string>
   <string name="user_center_setting">Einstellungen</string>
   <string name="user_center_title">Startseite</string>
   <string name="user_follow_me_title">Meine Fans</string>
@@ -838,6 +866,8 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="user_guide_save_file">Speichern Sie Ihre Dateien und Bilder auf Kuaipan.</string>
   <string name="user_guide_summary">Bequemer und sicherer Cloudspeicher</string>
   <string name="user_guide_upload_to_kuaipan">Dateien auf KuaiPan speichern</string>
+  <string name="user_icon">Profilfoto</string>
+  <string name="user_info_setting">Informationen bearbeiten</string>
   <string name="user_like_text">Likes</string>
   <string name="user_liked_video_title">Videos die ich mag</string>
   <string name="user_login_dialog_cancle">Abbrechen</string>
@@ -845,6 +875,8 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="user_login_dialog_title">Anmelden</string>
   <string name="user_message_text">Nachrichten</string>
   <string name="user_msg_text">Nachrichten</string>
+  <string name="user_nickname">Spitzname</string>
+  <string name="user_nickname_limit">Der Spitzname sollte 4–20 Zeichen lang sein</string>
   <string name="user_no_fans_tip">Keine Fans</string>
   <string name="user_no_follow_topic">Sie folgen bisher keinem Thema</string>
   <string name="user_no_follow_user">Sie folgen bisher keinen Personen</string>
@@ -859,12 +891,15 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="user_setting_follow_new_msg_tip">Erhalten Sie Benachrichtigungen über Videos</string>
   <string name="user_setting_followed_msg">Benachrichtigungen über Follower</string>
   <string name="user_setting_followed_msg_tip">Erhalten Sie eine Benachrichtigung, sobald Ihnen jemand folgt</string>
+  <string name="user_setting_logout">Abmelden</string>
   <string name="user_setting_new_comment">Benachrichtigungen über Kommentare</string>
   <string name="user_setting_new_comment_tip">Erhalten Sie Benachrichtigungen über neue Kommentare</string>
   <string name="user_setting_new_liked">Benachrichtigungen über Likes</string>
   <string name="user_setting_new_liked_tip">Erhalten Sie Benachrichtigungen, wenn Personen Ihr Video mögen</string>
   <string name="user_setting_topic_new_msg">Benachrichtigungen über neue Videos</string>
   <string name="user_setting_topic_new_msg_tip">Erhalten Sie Benachrichtigungen, wenn Personen denen Sie folgen, neue Videos veröffentlichen</string>
+  <string name="user_sex">Geschlecht</string>
+  <string name="user_sign">Signatur</string>
   <string name="user_topic_btn_text">Weitere Themen ansehen</string>
   <string name="user_topic_text">Meine Themen</string>
   <string name="user_upload_text">Uploads</string>
@@ -926,6 +961,7 @@ und verpassen Sie keine Neuen mehr!"</string>
   <string name="wx_title3">Sehen Sie beliebte Videos aus der ganzen Welt!</string>
   <string name="wxcircle_platform">Momente</string>
   <string name="xiaomi_account">Mi Konto</string>
+  <string name="xiaomi_btn_bind">Mi Konto</string>
   <string name="xiaomi_btn_str">Mi</string>
   <string name="year_month_day_format">dd. MMM, yyyy</string>
   <string name="yes">Ja</string>

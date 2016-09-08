@@ -816,4 +816,9 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
         <item>Mittel</item>
         <item>Stark</item>
     </string-array>
+    <string-array name="long_press_volume_down_action">
+        <item>Keine</item>
+        <item>Street-Snap (Modus muss in der Kameraapp ausgewählt werden)</item>
+        <item>Verknüpfung mit öffentlichen Verkehrsmittel</item>
+    </string-array>
 </resources>

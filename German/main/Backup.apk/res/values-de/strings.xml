@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="abort_backup_confirm">"Sicherung nicht abgeschlossen. Trotzdem abbrechen?"</string>
+  <string name="abort_backup_confirm">Sicherung nicht abgeschlossen. Trotzdem abbrechen?</string>
+  <string name="abort_restore_confirm">Wiederherstellung nicht abgeschlossen. Trotzdem abbrechen?</string>
   <string name="account_contact_backup_info">Google, Mi Konto und Kontaktdaten</string>
   <string name="account_login">Anmelden</string>
   <string name="account_summary">Google, Mi Konto und weitere Benutzerdaten sichern</string>

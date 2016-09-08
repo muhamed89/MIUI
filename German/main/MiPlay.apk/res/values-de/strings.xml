@@ -11,6 +11,8 @@
   <string name="media_status_starting">Verbindung wird hergestellt…</string>
   <string name="media_status_stopped">Beenden</string>
   <string name="media_status_stopping">Wird beendet…</string>
+  <string name="noti_projection_status_desc_on">Bildschirm spiegeln ist aktiv</string>
+  <string name="noti_projection_status_title">MiPlay Wireless Display</string>
   <string name="search_for_devices">Aktualisieren</string>
   <string name="wifi_display_autonomous_go">Autonomous GO aktivieren</string>
   <string name="wifi_display_certification_heading">Zertifizierung</string>
