@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Result_title">Ergebnis</string>
+  <string name="roaming_disable">Bei Roaming mit Datendienst verbinden</string>
+  <string name="roaming_enable">Bei Roaming mit Datendienst verbinden</string>
   <string name="accessibility_settings_activity_title">Zugänglichkeit</string>
   <string name="active_phone_fail_nochoice">SIM-Karte kann nicht überprüft werden</string>
   <string name="active_phone_fail_toast">"SIM-Karte %1$s kann nicht überprüft werden"</string>
@@ -1238,8 +1240,6 @@ Ihre SIM-Karte wird nach einem weiteren gescheiterten Versuch gelöscht</string>
   <string name="rnw2_unlock_failed">Entsperren von RUIM2 fehlgeschlagen</string>
   <string name="rnw2_unlock_success">RUIM Netzwerk2 Entsperren erfolgreich</string>
   <string name="roaming">Daten-Roaming</string>
-  <string name="roaming_disable">Bei Roaming mit Datendienst verbinden</string>
-  <string name="roaming_enable">Bei Roaming mit Datendienst verbinden</string>
   <string name="roaming_notification_content">Sie können Ländercodes automatishc hinzufügen, um das Wählen komfortabler zu machen.</string>
   <string name="roaming_notification_title">Sieht so aus, als sei Roaming aktiv</string>
   <string name="roaming_reenable_message">Die Datenverbindung wurde unterbrochen, weil Sie Ihr privates Netzwerk verlassen haben und Datenroaming nicht aktiviert ist</string>
