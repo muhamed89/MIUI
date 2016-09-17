@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">MIUI Bluetooth</string>
-  <string name="ble_device_address">Bluetooth Smart-Geräte-MAC</string>
-  <string name="ble_device_profile">Bluetooth Geräteeinstellungen</string>
+  <string name="ble_device_address">Bluetooth-Smart-Geräte-MAC</string>
+  <string name="ble_device_profile">Bluetoothgeräteeinstellungen</string>
   <string name="ble_device_profile_header_title">Einstellungen</string>
-  <string name="ble_device_profile_title">Verbundenes Bluetooth Smart-Gerät</string>
+  <string name="ble_device_profile_title">Verbundenes Bluetooth-Smart-Gerät</string>
   <string name="ble_device_rename">Umbenennen</string>
   <string name="bluetooth_connected">Verbunden</string>
   <string name="bluetooth_connecting">Verbinden…</string>
@@ -22,7 +22,7 @@
   <string name="mi_band_vibrate_incall">Vibrieren wenn das Telefon klingelt</string>
   <string name="mi_band_vibrate_incall_in_contacts">Anrufe von Kontakten</string>
   <string name="mi_band_vibrate_incall_no_contacts">Anrufe von unbekannten Nummern</string>
-  <string name="mi_band_vibrate_sms">Vibrate for SMS messages</string>
+  <string name="mi_band_vibrate_sms">Vibrieren wenn SMS ankommen</string>
   <string name="mi_band_vibrate_sms_in_contacts">Nachrichten von Kontakten</string>
   <string name="mi_band_vibrate_sms_no_contacts">Nachrichten von unbekannten Nummern</string>
   <string name="mi_key_alert_dialog_message">OK antippen, um den Wecker stummzuschalten</string>
