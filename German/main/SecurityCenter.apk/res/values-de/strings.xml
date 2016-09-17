@@ -251,10 +251,10 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="card_main_xspace_summary">Erstellen Sie einen zweiten Account für eine beliebige App</string>
   <string name="card_main_xspace_title">Geklonte Apps</string>
   <string name="celcius_symbol">°C</string>
-  <string name="charging_text_battery_full_time">Akku-Ladezeit </string>
-  <string name="charging_text_battery_nearly_full">Fast aufgeladen</string>
-  <string name="charging_text_battery_perfect">Voll aufgeladen</string>
-  <string name="charging_text_time_calculating">Berechne Ladezeit…</string>
+  <string name="charging_text_battery_full_time">Akkuladezeit </string>
+  <string name="charging_text_battery_nearly_full">Fast aufgeladen </string>
+  <string name="charging_text_battery_perfect">Voll aufgeladen </string>
+  <string name="charging_text_time_calculating">Berechne Ladezeit… </string>
   <string name="chat_number">10 Stunden</string>
   <string name="chat_uint">" Stunden"</string>
   <string name="check_network_state">Netzwerktest</string>
