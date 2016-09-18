@@ -20,7 +20,7 @@
   <string name="accessibility_data_three_bars">Daten 3 Balken.</string>
   <string name="accessibility_data_two_bars">Daten 2 Balken.</string>
   <string name="accessibility_home">Home</string>
-  <string name="accessibility_ime_switch_button">Eigabemethode-Taste wechseln.</string>
+  <string name="accessibility_ime_switch_button">Eingabemethodentaste wechseln.</string>
   <string name="accessibility_managed_profile">Arbeitsprofil</string>
   <string name="accessibility_menu">Menü</string>
   <string name="accessibility_no_data">Kein Datenempfang.</string>
@@ -43,7 +43,7 @@
   <string name="accessibility_wifi_three_bars">WLAN 3 Balken.</string>
   <string name="accessibility_wifi_two_bars">WLAN 2 Balken.</string>
   <string name="accessibility_wimax_one_bar">WiMAX 1 Balken.</string>
-  <string name="accessibility_wimax_signal_full">WiMAX Voll.</string>
+  <string name="accessibility_wimax_signal_full">Voller WiMAX-Empfang.</string>
   <string name="accessibility_wimax_three_bars">WiMAX 3 Balken.</string>
   <string name="accessibility_wimax_two_bars">WiMAX 2 Balken.</string>
   <string name="account_info">Nicht angemeldet</string>
@@ -108,7 +108,7 @@ Wenn Sie die Datenverbindung wieder einschalten, können hohe Kosten entstehen."
   <string name="ext_media_mountable_notification_title">USB-Speichergerät verbunden</string>
   <string name="ext_media_nofs_notification_message">USB-Speicher ist leer oder hat ein nicht unterstütztes Dateisystem.</string>
   <string name="ext_media_nofs_notification_title">USB-Speicher leer</string>
-  <string name="ext_media_nomedia_notification_message">USB-Speicher entfernt. Legen Sie einen neuen ein.</string>
+  <string name="ext_media_nomedia_notification_message">USB-Speicher entfernt. Legen Sie einen Neuen ein.</string>
   <string name="ext_media_nomedia_notification_title">USB-Speicher entfernt</string>
   <string name="ext_media_safe_remove">Sicher entfernen</string>
   <string name="ext_media_safe_unmount_notification_message">Sie können den USB-Speicher sicher entfernen.</string>
@@ -135,11 +135,11 @@ Bitte Ladegerät benutzen."</string>
   <string name="mdb_restore_cancel">Abbrechen</string>
   <string name="mdb_restore_info1">Daten Ihres Telefons wiederherstellen</string>
   <string name="mdb_restore_info2">USB-Verbindung nicht trennen</string>
-  <string name="mdb_restore_label">Mdb wiederherstellen</string>
+  <string name="mdb_restore_label">MDB wiederherstellen</string>
   <string name="mdb_restore_mode">Wiederherstellungsmodus</string>
   <string name="mdb_usb_disconnection_exit">USB nicht verbunden</string>
   <string name="media_projection_action_text">Jetzt beginnen</string>
-  <string name="media_projection_dialog_text">%s wird alles, was auf Ihrem Bildschirm zusehen ist, aufnehmen</string>
+  <string name="media_projection_dialog_text">%s wird alles aufnehmen, was auf Ihrem Bildschirm zusehen ist. </string>
   <string name="media_projection_remember_text">Nicht nochmal anzeigen</string>
   <string name="megabyte_per_second">M/s</string>
   <string name="mland">Marshmallow Land</string>
