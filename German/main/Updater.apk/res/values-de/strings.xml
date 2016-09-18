@@ -82,9 +82,9 @@
   <string name="dialog_yes">Ja</string>
   <string name="download_again">Erneut versuchen</string>
   <string name="download_cancel">Abbrechen</string>
-  <string name="download_current_rom">Neustart durchführen, damit das Update übernommen werden </string>
+  <string name="download_current_rom">Neustart durchführen, damit das Update übernommen werden kann</string>
   <string name="download_diff">OTA herunterladen</string>
-  <string name="download_error">Downloadfehler. Warten Sie ein oder zwei Minuten und versuchen Sie es erneut.</string>
+  <string name="download_error">Downloadfehler, warten Sie ein oder zwei Minuten und versuchen Sie es erneut.</string>
   <string name="download_failed">Download fehlgeschlagen</string>
   <string name="download_full">Update herunterladen</string>
   <string name="download_success_reboot_immediately">Neustart durchführen, damit die Aktualisierungen übernommen werden</string>
@@ -130,7 +130,7 @@
   <string name="mione_update_fail_description">Nochmals versuchen</string>
   <string name="mione_update_fail_title">Update fehlgeschlagen</string>
   <string name="mione_update_success_title">Update komplett</string>
-  <string name="miui_BBS">" "&lt;a href="http://bbs.miui.com"&gt;Gehe zum MIUI forum&lt;/a&gt;" "</string>
+  <string name="miui_BBS">" "&lt;a href="http://en.miui.com"&gt;Gehe zum MIUI Forum&lt;/a&gt;" "</string>
   <string name="miui_summary_has_new_version">" Update verfügbar "</string>
   <string name="miui_summary_no_new_version">Keine Updates verfügbar</string>
   <string name="miui_summary_now_version">"Verbindung kann nicht aufgebaut werden"</string>
@@ -153,7 +153,7 @@
   <string name="no_updates_warning">Kein Update gefunden</string>
   <string name="no_updates_warning2">"Entspannen Sie sich, wir werden Sie informieren, sobald ein Update verfügbar ist :)"</string>
   <string name="no_wifi_msg">Der Download über das mobile Datennetzwerk wird Ihren Verbrauch deutlich erhöhen. Sollten Sie über keine Internetflatrate verfügen, dann könnten zusätzliche Kosten bei Ihrem Betreiber entstehen.</string>
-  <string name="no_wifi_title">Datenverbrauch Warnung</string>
+  <string name="no_wifi_title">Datenverbrauchswarnung</string>
   <string name="not_open">Nein</string>
   <string name="notification_auto_reboot_seccess_title">Gerät wurde automatisch aktualisiert</string>
   <string name="notification_downloading">Update wird heruntergeladen…</string>
@@ -231,13 +231,13 @@ http://zhushou.xiaomi.com"</string>
   <string name="set_installfail_title">Update erneut herunterladen?</string>
   <string name="set_installfail_title_full">Update fehlgeschlagen</string>
   <string name="set_network_msg">Um das Update herunterzuladen, bitte mit dem WLAN-Netzwerk verbinden</string>
-  <string name="set_network_root_msg">Für Root Zugriff wird eine WLAN-Verbindung benötigt</string>
+  <string name="set_network_root_msg">Für Rootzugriff wird eine WLAN-Verbindung benötigt</string>
   <string name="set_network_title">WLAN-Verbindung aufbauen</string>
   <string name="set_only_wifi">Nur über WLAN</string>
   <string name="share">Teile</string>
   <string name="share_qq">Auf Tencent Weibo veröffentlichen</string>
   <string name="share_sina">Auf Sina Weibo veröffentlichen</string>
-  <string name="share_update">Update-Info teilen</string>
+  <string name="share_update">Updateinfo teilen</string>
   <string name="share_update_content_sign">Ich habe MIUI auf %1$s aktualisiert! Mein Updatestatus ist %2$s. Für einen detaillierten Changelog, besuchen Sie bitte %3$s</string>
   <string name="share_update_content_unsign">Ich habe MIUI auf %1$s aktualisiert! Für einen detaillierten Changelog, besuchen Sie bitte %2$s</string>
   <string name="sina_share_fail">Senden fehlgeschlagen</string>
@@ -246,7 +246,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="sina_share_success">Gesendet</string>
   <string name="sina_token_expired_warning">Weibo Account abgelaufen: Bitte neu einbinden</string>
   <string name="sina_token_invalid_warning">Weibo Account ungültig: Bitte neu einbinden</string>
-  <string name="sogou_uninstall_msg">Das Sogou keyboard (Mi Edition) ist mit MIUI 7 nicht mehr kompatibel. Bitte ein anderes Keyboard verwenden oder eine Update vom jetzigen Sogou Keyboard installieren.</string>
+  <string name="sogou_uninstall_msg">Das Sogou keyboard (Mi Edition) ist mit MIUI 7 nicht mehr kompatibel. Bitte ein anderes Keyboard verwenden oder ein Update vom jetzigen Sogou Keyboard installieren.</string>
   <string name="sogou_uninstall_negative_button">Update Sogou</string>
   <string name="sogou_uninstall_positive_button">Keyboard ändern</string>
   <string name="sogou_uninstall_title">Keyboardkompatibilität</string>
@@ -268,7 +268,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="test">Test</string>
   <string name="timer_title">Neustart in %d Sekunden</string>
   <string name="title_toast_auto">Updates werden automatisch heruntergeladen</string>
-  <string name="top_secret_build">Top-secret</string>
+  <string name="top_secret_build">Top Secret</string>
   <string name="uncrypt_title">Wird entschlüsselt (%s)</string>
   <string name="unkown_error_title">Download nicht möglich</string>
   <string name="unstable_build">Instabil</string>
@@ -299,12 +299,12 @@ Sie können aber nächsten Monat mitmachen.</string>
   <string name="updater_nolog">Keine Zusammenfassung für das Update</string>
   <string name="updater_nonetwork">Verbindung zum Netzwerk kann nicht hergestellt werden</string>
   <string name="updater_nonetwork_clause">Verbindung zum Netzwerk kann nicht hergestellt werden</string>
-  <string name="updater_service_busy_msg">Diese App nutzt den Updateservice um Root-Zugriff auf die benötigten Quelldateien zu erhalten</string>
+  <string name="updater_service_busy_msg">Diese App nutzt den Updateservice um Rootzugriff auf die benötigten Quelldateien zu erhalten</string>
   <string name="updater_service_busy_title">Update Server ist überlastet</string>
   <string name="updater_wait_for_unzip">Update wird entpackt…</string>
   <string name="upgrade_close">Schließen</string>
-  <string name="upgrade_kernel">System-Kernel ist veraltet</string>
-  <string name="upgrade_kernel_msg">"Ihr verwendeter Kernel entspricht nicht der MIUI-Version. Sie müssen den Kernel manuell aktualisieren. Siehe Xiaomi Aktualisierungsanleitung: "</string>
+  <string name="upgrade_kernel">Systemkernel ist veraltet</string>
+  <string name="upgrade_kernel_msg">"Ihr verwendeter Kernel entspricht nicht der MIUI-Version. Sie müssen den Kernel manuell aktualisieren. Siehe Xiaomi-Aktualisierungsanleitung: "</string>
   <string name="user_begin">Download</string>
   <string name="user_intertup_download_msg">Downloads pausiert. Sie können sie jederzeit über den Updater fortsetzen.</string>
   <string name="user_intertup_download_title">Download pausiert</string>
@@ -316,7 +316,7 @@ Sie können aber nächsten Monat mitmachen.</string>
   <string name="view_upgrade_tutorial">Anzeigen</string>
   <string name="vote_beta">Betafeedbackprogramm</string>
   <string name="vote_error1">Sie sind kein Mitglied
-des Beta-Feedback-Program</string>
+des Beta-Feedback-Programm/string>
   <string name="vote_error2">Feedback konnte nicht übermittelt werden.
 Aktualisieren Sie Ihr Gerät und versuchen Sie es erneut.</string>
   <string name="vote_error3">Anmeldung fehlgeschlagen.
@@ -325,8 +325,8 @@ Versuchen Sie sich erneut in Ihrem Mi Konto anzumelden.</string>
   <string name="vote_error5">Es ist ein Fehler aufgetreten.
 Feedback konnte nicht übermittelt werden.</string>
   <string name="vote_error_nonetwork">Verbindung zum Netzwerk nicht möglich</string>
-  <string name="vote_experience">Forum-Erfahrungen</string>
-  <string name="vote_hint">Erhalten Sie 20 Erfahrungspunkte für das MIUI-Forum, wenn sie abstimmen</string>
+  <string name="vote_experience">Forumerfahrungen</string>
+  <string name="vote_hint">Wenn sie abstimmen, erhalten Sie 20 Erfahrungspunkte für das MIUI-Forum </string>
   <string name="vote_join">Abgestimmt</string>
   <string name="vote_not_recommend">Nicht empfohlen</string>
   <string name="vote_recommend">Update wird empfohlen</string>
