@@ -13,7 +13,7 @@
   <string name="activity_alert_detail_title"/>
   <string name="activity_detail_time_format">E</string>
   <string name="activity_find_city_dialog_cancel">Abbrechen</string>
-  <string name="activity_find_city_dialog_message">Erlaube Wetter das Abrufen Ihres Standortes</string>
+  <string name="activity_find_city_dialog_message">Erlaube Wetter das Abrufen von ihrem Standort</string>
   <string name="activity_find_city_dialog_set">Einstellungen</string>
   <string name="activity_find_city_dialog_title">Standort abrufen</string>
   <string name="activity_main_alert"/>
@@ -132,7 +132,7 @@
   <string name="international_details_uv_index_title">UV Index</string>
   <string name="international_details_wind_connect">%1$s %2$s</string>
   <string name="international_details_wind_title">Wind</string>
-  <string name="locate_fail_detail_err">Standort kann nicht ermittelt werden. Tippen Sie auf den Button, um den Standort manuell hinzuzufügen oder es noch einmal zu versuchen</string>
+  <string name="locate_fail_detail_err">Standort kann nicht ermittelt werden. Tippen Sie auf den Button, um den Standort manuell hinzuzufügen oder versuchen es noch einmal </string>
   <string name="location_management">Standorte</string>
   <string name="location_tag">Lokalisieren</string>
   <string name="menu_add_city">Neuer Ort</string>
@@ -154,7 +154,7 @@
   <string name="moon_since">Date: %1$s %2$s</string>
   <string name="moon_zodiac">Tierkreiszeichen: %s</string>
   <string name="more_details">Mehr Details</string>
-  <string name="network_not_available">Kann nicht mit Netzwerk verbinden</string>
+  <string name="network_not_available">Kann mich nicht mit dem Netzwerk verbinden</string>
   <string name="network_unavailable">Verbindung zum Netzwerk nicht möglich</string>
   <string name="no_data">--</string>
   <string name="no_network_btn">Wiederholen</string>
