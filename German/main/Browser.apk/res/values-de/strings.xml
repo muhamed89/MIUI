@@ -83,7 +83,7 @@
   <string name="aqi_quality_index_moderate">AQI %1$s</string>
   <string name="aqi_quality_index_pure">AQI %1$s</string>
   <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
-  <string name="autofill_popup_content_description">Autofill Pop-up anzeigen</string>
+  <string name="autofill_popup_content_description">Autofill-Popup anzeigen</string>
   <string name="autologin_bar_error">"Anmeldung fehlgeschlagen"</string>
   <string name="autologin_bar_hide_text">Verwerfen</string>
   <string name="autologin_bar_login_text">Anmelden</string>
@@ -113,7 +113,7 @@
   <string name="bookmark_url_not_valid">"Diese Adresse ist ungültig."</string>
   <string name="bookmarks_content_is_null">Keine Lesezeichen</string>
   <string name="bookmarks_management">Lesezeichen</string>
-  <string name="bookmarks_root_folder">Root-Ordner</string>
+  <string name="bookmarks_root_folder">Rootordner</string>
   <string name="bookmarks_search">Browser</string>
   <string name="bottom_bar_tabs_long_click_down_tip_txt">Zum Schließen nach unten wischen</string>
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Dies ist die letzte Registerkarte</string>
@@ -182,7 +182,7 @@
   <string name="contextmenu_openlink">Öffnen</string>
   <string name="contextmenu_openlink_newwindow">In neuem Tab öffnen</string>
   <string name="contextmenu_openlink_newwindow_background">Tab im Hintergrund öffnen</string>
-  <string name="contextmenu_savelink">Speicher Link</string>
+  <string name="contextmenu_savelink">Link speichern</string>
   <string name="contextmenu_send_mail">E-Mail senden</string>
   <string name="contextmenu_set_wallpaper">Als Hintergrund wählen</string>
   <string name="contextmenu_sharelink">Link teilen</string>
@@ -431,7 +431,7 @@ Diese Seite verlassen?"</string>
   <string name="miuichromium_error_page_safe_network">Sicherer Modus</string>
   <string name="miuichromium_error_page_server_error">Es versuchen zu viele Geräte sich zu verbinden</string>
   <string name="miuichromium_error_page_title">Ein Fehler ist aufgetreten</string>
-  <string name="miuichromium_error_page_unknown_error">Upps, etwas ist schiefgegangen</string>
+  <string name="miuichromium_error_page_unknown_error">Ups, etwas ist schiefgegangen</string>
   <string name="miuichromium_error_page_wlan">WLAN einschalten</string>
   <string name="miuishare_account_activate_confirmation">Aktivierung erforderlich</string>
   <string name="miuishare_account_activate_ok">Aktivieren</string>
