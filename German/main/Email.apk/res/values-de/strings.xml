@@ -18,6 +18,7 @@
   <string name="account_security_title">Gerätesicherheit</string>
   <string name="account_set_up_change_type_note">Wenn Sie zwischen POP3- und IMAP-Einstellungen wechseln müssen, dann löschen Sie Ihr Konto und erstellen ein Neues mit den gewünschten Einstellungen.</string>
   <string name="account_setting">Kontoeinstellungen</string>
+  <string name="account_setting_keywords">Konten;E-Mail-Konten</string>
   <string name="account_settings_action">Kontoeinstellungen</string>
   <string name="account_settings_background_attachments_label">Anhänge herunterladen</string>
   <string name="account_settings_background_attachments_summary">Anhänge herunterladen mit WLAN</string>
@@ -120,6 +121,7 @@
   <string name="account_setup_options_mail_check_frequency_push">Automatisch (Push)</string>
   <string name="account_setup_options_mail_window_1day">Gestern</string>
   <string name="account_setup_options_mail_window_1month">Letzten Monat</string>
+  <string name="account_setup_options_mail_window_1quarter">Letztes Quartal</string>
   <string name="account_setup_options_mail_window_1week">Letzte Woche</string>
   <string name="account_setup_options_mail_window_2weeks">Letzten 2 Wochen</string>
   <string name="account_setup_options_mail_window_3days">Letzten 3 Tage</string>
@@ -143,6 +145,7 @@
   <string name="activity_mailbox_selection">Konto auswählen</string>
   <string name="ad_merge">Organisieren</string>
   <string name="add_account">Konto hinzufügen</string>
+  <string name="add_account_keywords">Konto hinzufügen;E-Mail-Konto hinzufügen</string>
   <string name="add_attachment">Dateien hinzufügen</string>
   <string name="add_calendar">Erinnern</string>
   <string name="add_label">Ordner hinzufügen</string>
@@ -195,6 +198,7 @@
   <string name="auto_advance_summary">Was soll nach dem Löschen einer Nachricht angezeigt werden?</string>
   <string name="auto_sync_off">Automatische Synchronisation ist ausgeschaltet</string>
   <string name="battery_saver">Energiesparmodus</string>
+  <string name="battery_saver_keywords">Energie sparen;E-Mail Akku</string>
   <string name="bcc">Bcc</string>
   <string name="bcc_heading">"Bcc: "</string>
   <string name="blank_feedback_toast">Bitte geben Sie eine Nachricht ein!</string>
@@ -238,12 +242,15 @@
   <string name="colon">:</string>
   <string name="compose">Verfassen</string>
   <string name="compose_attachment_number_limit">Es können nicht mehr als 10 Anhänge hinzugefügt werden</string>
+  <string name="compose_paste_address_oob">Eingefügte Zeichen sind zu lang und wurden gekürzt</string>
   <string name="compose_picturesexceedlimits">Es können maximal 5 Bilder eingebettet werden!</string>
   <string name="compose_send">Senden</string>
   <string name="compose_sent">E-Mail gesendet</string>
   <string name="confirm">OK</string>
   <string name="confirm_before_delete">Vor dem Löschen bestätigen</string>
+  <string name="confirm_before_delete_keywords">Vor dem Löschen bestätigen;löschen bestätigen</string>
   <string name="confirm_before_send">Vor dem Senden bestätigen</string>
+  <string name="confirm_before_send_keywords">Vor dem Senden bestätigen;senden bestätigen</string>
   <string name="confirm_delete_conversation_title">Löschen</string>
   <string name="confirm_discard_text">Diese Nachricht verwerfen?</string>
   <string name="confirm_response">Senden…</string>
@@ -287,11 +294,13 @@
   <string name="contextmenu_send_mail">E-Mail senden</string>
   <string name="contextmenu_sharelink">Link teilen</string>
   <string name="contextmenu_sms_dot">SMS senden…</string>
+  <string name="conversation_content_provider">Unterhaltung Inhalt Provider</string>
   <string name="conversation_folder_moved">Verschoben nach %1$s</string>
   <string name="conversation_item_mark_read">Gelesen</string>
   <string name="conversation_item_mark_unread">Ungelesen</string>
   <string name="conversation_photo_welcome_text">Auf Absenderbild tippen um die entsprechende Konversation auszuwählen</string>
   <string name="conversation_view">Konversationsansicht</string>
+  <string name="conversation_view_keywords">Unterhaltung anzeigen;E-Mail Konversation</string>
   <string name="copied">Kopiert</string>
   <string name="copy_email">E-Mailadresse kopieren</string>
   <string name="copy_number">Telefonnummer kopieren</string>
@@ -309,6 +318,7 @@
   <string name="del_account_questionnair_hint">"Könnten Sie uns sagen, warum Sie dieses Konto entfernen möchten?"</string>
   <string name="delete">Löschen</string>
   <string name="delete_message_flow">automatisch springen</string>
+  <string name="delete_message_flow_keywords">Nachrichten löschen</string>
   <string name="deleted">Gelöscht</string>
   <string name="device_activity_btn_str">Aktivieren</string>
   <string name="device_activity_lint_str">Aktivieren von vollständigem Mailserviceupdate sowie der Sicherheitseinstellungen</string>
@@ -349,6 +359,7 @@
   <string name="download_whole_email">Den restlichen Inhalt herunterladen</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Navigationsleiste schließen</string>
+  <string name="drawer_contacts">Kontakte</string>
   <string name="drawer_open">Navigationsleiste öffnen</string>
   <string name="eas_hotmail_email">hotmail.com</string>
   <string name="eas_outlook_email">outlook.com</string>
@@ -358,6 +369,7 @@
   <string name="email_netease">NetEase Mail</string>
   <string name="email_package_name">com.android.email</string>
   <string name="email_qq">QQ Mail</string>
+  <string name="email_setting">E-Mail-Einstellungen</string>
   <string name="email_sina">Sina Mail</string>
   <string name="empty_account_tip">Konto nicht gefunden</string>
   <string name="empty_email_tip">Leere Nachricht kann nicht gesendet werden</string>
@@ -374,6 +386,9 @@
   <string name="expand_recipient_details">Empfängerdetails erweitern</string>
   <string name="fail_get_email_message">Nachricht Laden fehlgeschlagen.</string>
   <string name="failed">Bild kann nicht geladen werden</string>
+  <string name="failed_read_phone_state_permission">Zugriff auf Gerätestatus erlauben</string>
+  <string name="failed_read_write_calendar_permission">Zugriff zum Kalender erlauben</string>
+  <string name="failed_read_write_contacts_permission">Zugriff auf Kontakte erlauben</string>
   <string name="feedback">Feedback senden</string>
   <string name="feedback_body">Nachricht</string>
   <string name="feedback_sent">Danke für Ihre Feedback</string>
@@ -432,6 +447,8 @@
   <string name="from_heading">"Von: "</string>
   <string name="general_preference_confirm_delete_label">Vor dem Löschen bestätigen</string>
   <string name="general_preference_confirm_send_label">Vor dem Senden bestätigen</string>
+  <string name="general_preference_str_auto_translation">Schnelle Übersetzung</string>
+  <string name="general_preference_str_auto_translation_prompt">Entsprechenden Inhalt kopieren um Übersetzung zu sehen</string>
   <string name="general_preference_text_zoom_dialog_title">Nachrichtentextgröße</string>
   <string name="general_preference_text_zoom_huge">Sehr groß</string>
   <string name="general_preference_text_zoom_label">Schriftgröße</string>
@@ -773,9 +790,15 @@
   <string name="reply_add_bodycontent">Kurzantwort hinzufügen?</string>
   <string name="reply_all">Allen Antworten</string>
   <string name="reply_attribution" formatted="false">Am %s, %s schrieb:</string>
+  <string name="reply_subject_label">AW:</string>
   <string name="report_phishing">Phishing melden</string>
+  <string name="report_rendering_improvement">Sieht gut aus</string>
+  <string name="report_rendering_improvement_desc">Diese Meldung sieht gut aus.</string>
+  <string name="report_rendering_problem">Sieht schlecht aus</string>
+  <string name="report_rendering_problem_desc">Diese Meldung sieht schlecht aus.</string>
   <string name="report_spam">Spam melden</string>
   <string name="request_entity_large">Datei ist zu groß!</string>
+  <string name="request_permission_activity">Zugriffsanfrage</string>
   <string name="respond_inline">Im Text antworten</string>
   <string name="save_action">Speichern</string>
   <string name="save_attachment">Speichern</string>
@@ -805,6 +828,7 @@
   <string name="send">Senden</string>
   <string name="send_failed">Nicht gesendet</string>
   <string name="send_feed_back">Feedback senden</string>
+  <string name="send_feed_back_keywords">Feedback senden</string>
   <string name="sender_whitelist_cleared">Bilder werden nicht automatisch angezeigt.</string>
   <string name="senders_elided">..</string>
   <string name="senders_split_token">, </string>
@@ -878,6 +902,14 @@
   <string name="too_large_to_attach_multiple">Mindestens eine Datei wurde nicht angehängt. Limit: %1$s</string>
   <string name="too_large_to_attach_single">Dateien größer als %1$s können nicht angehängt werden.</string>
   <string name="topic_merge">Themen zusammenfassen</string>
+  <string name="translation_loading">Wird geladen…</string>
+  <string name="translation_no_result">Kein Ergebnis gefunden</string>
+  <string name="translation_pronunciation_am">ArE</string>
+  <string name="translation_pronunciation_cn">Pinyin</string>
+  <string name="translation_pronunciation_en">BrE</string>
+  <string name="translation_pronunciation_other">Machine</string>
+  <string name="translation_query_failure">Suche fehlgeschlagen</string>
+  <string name="translation_technology_support">Technische Unterstützung von PowerWord</string>
   <string name="trash_folder_selection_title">Papierkorb des Servers für %s auswählen</string>
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>
@@ -914,6 +946,8 @@ Tippen Sie auf "<b>Jetzt synchronisieren</b> um Ihre Mails einmalig zu syncronis
   <string name="widget_all_mail">Alle Mails</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Andere</string>
+  <string name="wipe_account_fail_description">Erlauben</string>
+  <string name="wipe_account_fail_title">Persönliche Informationen konnten nicht gelöscht werden</string>
   <string name="wrong_password">Das eingegebene Passwort ist falsch</string>
   <string name="yes">Ja</string>
   <string name="yidianzixun">yidianzixun</string>
