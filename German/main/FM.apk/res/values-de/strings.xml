@@ -39,6 +39,7 @@
   <string name="notification_rec_title">Tippen Sie auf , um die Aufnahme zu sehen</string>
   <string name="pre_station">Vorheriger Sender</string>
   <string name="record_completed">Aufnahme abgeschlossen</string>
+  <string name="runtime_permission_ungranted">Aufnahme kann nicht wegen fehlenden Zugriffsberechtigungen gestartet werden</string>
   <string name="search_dialog_title">Sender suchen</string>
   <string name="set">Einstellen</string>
   <string name="station_check_favorite">Sender speichern</string>
