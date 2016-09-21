@@ -122,7 +122,6 @@
   <string name="apply">Übernehmen</string>
   <string name="appwidget_empty_text">Keine Fotos</string>
   <string name="appwidget_title">Galerie</string>
-  <string name="aspect_ratio_format">%d:%d</string>
   <string name="aspect_ratio_free">Frei</string>
   <string name="aspect_ratio_origin">Ursprung</string>
   <string name="aspect_ratio_square">Quadrat</string>
