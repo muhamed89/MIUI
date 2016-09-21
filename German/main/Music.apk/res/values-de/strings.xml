@@ -108,7 +108,6 @@
   <string name="cloud_settings">Einstellungen synchronisieren</string>
   <string name="cloud_space_full">Kein Speicherplatz mehr vorhanden</string>
   <string name="cloud_space_full_message">Nicht genügend Platz auf der Mi Cloud um weitere Songs hinzuzufügen. Um mehr Speicherplatz zu erhalten, aktualisieren Sie Ihr Mi Konto.</string>
-  <string name="comment_format">%s: %s</string>
   <string name="confirm_delete_downloads_message">%d Downloads werden gelöscht.</string>
   <string name="confirm_delete_the_download_item_message">Diese Downloads löschen?</string>
   <string name="confirm_download">Download</string>
