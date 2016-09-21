@@ -16,7 +16,7 @@
   <string name="account_dspt_provision">"Verwenden Sie das Mi Konto zum Anmelden an der Mi Cloud, dem MIUI-Theme-Store und weiteren Diensten."</string>
   <string name="account_dspt_provision2">Mehr erfahren</string>
   <string name="account_empty_user_name">Mi Konto Benutzername eingeben</string>
-    <string name="account_error_all_space_user_name">Name can&apos;t contain only space characters</string>
+    <string name="account_error_all_space_user_name">"Name can't contain only space characters"</string>
   <string name="account_error_longer_user_name">"Maximal 20 Zeichen"</string>
   <string name="account_error_shorter_user_name">Der Name muss mehr als 2 Zeichen haben</string>
   <string name="account_error_user_birthday">Der von Ihnen eingegebene Geburtstag ist ungültig</string>
@@ -93,9 +93,9 @@
   <string name="completed">Fertig</string>
   <string name="confirm">Überprüfungscode</string>
   <string name="confirm_activate_email">Überprüft</string>
-    <string name="confirm_delete_app_message">After deleting this app, you&apos;ll have to verify your phone number next time you sign in to your Mi Account in it.</string>
-    <string name="confirm_delete_browser_message">After deleting this browser, you&apos;ll have to verify your phone number next time you sign in to your Mi Account in it.</string>
-    <string name="confirm_delete_device_message">After deleting this device, you&apos;ll have to verify your phone number next time you sign in to your Mi Account on it.</string>
+    <string name="confirm_delete_app_message">"After deleting this app, you'll have to verify your phone number next time you sign in to your Mi Account in it."</string>
+    <string name="confirm_delete_browser_message">"After deleting this browser, you'll have to verify your phone number next time you sign in to your Mi Account in it."</string>
+    <string name="confirm_delete_device_message">"After deleting this device, you'll have to verify your phone number next time you sign in to your Mi Account on it."</string>
   <string name="confirm_email_address_dialog_message">Überprüfungscode wird gesendet an: %s</string>
   <string name="confirm_email_address_dialog_title">E-Mailadresse bestätigen</string>
   <string name="confirm_phone_number_dialog_message">Überprüfungscode wird gesendet an: %s</string>
@@ -188,7 +188,7 @@
   <string name="location_service_not_working">Standortdienst funktinoiert nicht</string>
   <string name="login">Anmelden</string>
     <string name="login_check_find_device">Getting device security info…</string>
-    <string name="login_check_find_device_failed_title">Couldn&apos;t check Find device status</string>
+    <string name="login_check_find_device_failed_title">"Couldn't check Find device status"</string>
   <string name="login_failed">"Anmeldung nicht möglich"</string>
     <string name="login_find_device_bind">This device is associated with existing Mi Account ID (%s).</string>
     <string name="login_guard">登录保护</string>
@@ -220,16 +220,16 @@
   <string name="mipay_center">Mi Wallet</string>
     <string name="miui_provision_find_status_text">This device is associated with an existing Mi Account (%1$s), enter password to verify the device.
 (Unlock number: %2$s)</string>
-    <string name="multi_user_not_show_sync_activity_message_1">Looks like you&apos;re using your Default space Mi Account.</string>
-    <string name="multi_user_not_show_sync_activity_message_2">In such case, all the data will be synced to your Second space.To avoid this, don&apos;t turn on sync with Mi Cloud</string>
-    <string name="multi_user_not_show_sync_activity_title">Don&apos;t turn on sync with Mi Cloud</string>
+    <string name="multi_user_not_show_sync_activity_message_1">"Looks like you're using your Default space Mi Account."</string>
+    <string name="multi_user_not_show_sync_activity_message_2">"In such case, all the data will be synced to your Second space.To avoid this, don't turn on sync with Mi Cloud"</string>
+    <string name="multi_user_not_show_sync_activity_title">"Don't turn on sync with Mi Cloud"</string>
   <string name="my_device_title">Aktuelles Gerät</string>
   <string name="next">Weiter</string>
   <string name="no_network_btn">Aktualisieren</string>
   <string name="no_network_title">Keine Netzwerkverbindung</string>
   <string name="no_response_retry">Keine Rückmeldung. Versuche es erneut.</string>
   <string name="no_sim_card">Keine SIM-Karte</string>
-    <string name="no_sim_card_or_unactivated">SIM card isn&apos;t installed or activated</string>
+    <string name="no_sim_card_or_unactivated">"SIM card isn't installed or activated"</string>
   <string name="nobind">Nicht verbunden</string>
   <string name="notify_network_restricted_content_bg_network">Der Internetzugriff für Mi Konto wurde eingeschränkt. Zum Erlauben antippen.</string>
   <string name="notify_network_restricted_content_hidden_state">Die Hintergrundaktivität für Mi Konto wurde eingeschränkt. Zum Erlauben antippen.</string>
@@ -305,7 +305,7 @@
   <string name="passport_getting_verify_code">Code erneut abrufen</string>
     <string name="passport_i_know">I know</string>
   <string name="passport_identitfication_expired">Der Überprüfungscode ist abgelaufen</string>
-    <string name="passport_imei_permission_denied_message">We are requesting permission to get your device&apos;s IMEI. Mi Account uses IMEI to identify the device on which you sign in / sign up, to help keep your Mi Account safe.</string>
+    <string name="passport_imei_permission_denied_message">"We are requesting permission to get your device's IMEI. Mi Account uses IMEI to identify the device on which you sign in / sign up, to help keep your Mi Account safe."</string>
     <string name="passport_imei_permission_denied_title">Request IMEI Permission</string>
   <string name="passport_input_captcha_hint">Code eingeben</string>
   <string name="passport_input_password_for_login">Die Nummer ist bereits mit einem bestehenden Konto verknüpft. Trage das zugehörige Passwort ein.</string>
