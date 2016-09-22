@@ -3,6 +3,7 @@
   <string name="app_label">HTML-Viewer</string>
   <string name="app_name_which_call">App:%s</string>
   <string name="app_version_which_call">Appversion:%s</string>
+  <string name="ime_privacy_policy">Tastatur auswählen</string>
   <string name="license_host_unreachable">"Verbindung nicht möglich. Um die Information jetzt anzuzeigen, 
 besuchen Sie %s"</string>
   <string name="loading">Laden…</string>
