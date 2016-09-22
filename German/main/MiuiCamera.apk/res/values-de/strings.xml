@@ -36,6 +36,7 @@
   <string name="camera_snap_mode_title_detail">Tippen um Details anzuzeigen</string>
   <string name="cannot_connect_camera_once">Keine Verbindung zur Kamera möglich</string>
   <string name="cannot_connect_camera_twice">Weiterhin keine Verbindung zur Kamera möglich. Neustart des Telefons empfohlen.</string>
+    <string name="cannot_connect_camera_volte_call">Videoanruf läuft noch, bitte versuchen Sie es später.</string>
   <string name="cannot_move_warning_message">Fotoaufnahme, halten Sie das Gerät ruhig!</string>
   <string name="close">Schließen</string>
   <string name="confirm_location_alert">Aufnahmestandort speichern</string>
