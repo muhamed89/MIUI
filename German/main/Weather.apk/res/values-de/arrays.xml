@@ -104,9 +104,9 @@
     </string-array>
     <string-array name="wind_direction">
         <item>N</item>
-        <item>NE</item>
-        <item>E</item>
-        <item>SE</item>
+        <item>NO</item>
+        <item>O</item>
+        <item>SO</item>
         <item>S</item>
         <item>SW</item>
         <item>W</item>
