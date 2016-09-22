@@ -25,11 +25,8 @@
   <string name="apply">Anwenden</string>
   <string name="apply_action">Anwenden</string>
   <string name="apply_as_lock_screen">Sperrbildschirm</string>
-  <string name="apply_as_lock_wallpaper_message">Hintergrund auch auf dem Sperrbildschirm anwenden?</string>
-  <string name="apply_as_lockwallpaper_action">Sperrbildschirm</string>
   <string name="apply_as_wallpaper">Startbildschirm</string>
   <string name="apply_both">Für beide anwenden</string>
-  <string name="apply_negative_action">Nicht anwenden</string>
   <string name="aqi_quality_index_dangerous">Riskant</string>
   <string name="aqi_quality_index_good">Gut</string>
   <string name="aqi_quality_index_hazardous">Gefährlich</string>
@@ -48,7 +45,6 @@
   <string name="children_folder_title">Kinderordner</string>
   <string name="children_mode_exit">Beenden</string>
   <string name="children_mode_tips">Zurück zu Einstellungen um den Zugriff auf Anwendungen zu verwalten</string>
-  <string name="children_mode_tips_message">Keine Anwendung für die Kindersicherung. Bitte Anwendung auswählen.</string>
   <string name="children_mode_tips_title">Bitte Anwendung auswählen</string>
   <string name="choose_wallpaper">Hintergrund auswählen</string>
   <string name="chooser_wallpaper">Hintergrund auswählen</string>
@@ -58,11 +54,10 @@
   <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Geklonte Apps werden deinstalliert und entfernt</string>
   <string name="confirm_uninstall_dialog_has_xspace_app_msg">Geklonte App wird deinstalliert und entfernt</string>
   <string name="confirm_uninstall_dialog_title">Die entsprechenden geklonten Apps werden entfernt</string>
-  <string name="default_folder_title_claro">Claro</string>
-  <string name="default_folder_title_telcel">Telcel</string>
   <string name="current_preview">Vorschau</string>
   <string name="current_wallpaper">Aktuell</string>
   <string name="custom_wallpaper_picker">Eigene</string>
+  <string name="default_folder_title_claro">Claro</string>
   <string name="default_folder_title_game">Spiele</string>
   <string name="default_folder_title_recommend">Mehr Apps</string>
   <string name="default_folder_title_security">System</string>
@@ -182,6 +177,8 @@
   <string name="multi_selecting_tips">Icon berühren um App auszuwählen</string>
   <string name="no_detail_page">Keine Details Seite</string>
   <string name="normal_wallpaper">Hintergrundbild</string>
+  <string name="notification_installed">Erfolgreich installiert</string>
+  <string name="notification_open_button">Öffnen</string>
   <string name="online_wallpaper">Online</string>
   <string name="out_of_space">Auf dem Startbildschirm ist kein Platz mehr vorhanden.</string>
   <string name="permdesc_install_shortcut">Ermöglicht einer Anwendung das Hinzufügen von Verknüpfungen ohne Eingriff des Nutzers</string>
@@ -272,6 +269,8 @@
   <string name="wallpaper_scaling_message">Skalieren auf feste Größe</string>
   <string name="wallpaper_settings">Hintergrund</string>
   <string name="wallpaper_scroll_type_tips">Hintergrundbild blättern</string>
+  <string name="wallpaper_scrolling">alle</string>
+  <string name="wallpaper_settings">Hintergrund</string>
   <string name="wallpaper_success_message">Hintergrund hinzugefügt</string>
   <string name="widget_favorite_contacts_edit">Editor</string>
   <string name="widget_favorite_contacts_label">Favoriten</string>
