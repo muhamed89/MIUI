@@ -1,17 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="lch_dtmf_key">D</string>
   <string name="accessibility_call_muted">Anruf stummgeschaltet</string>
   <string name="accessibility_speakerphone_enabled">Freisprechfunktion aktiviert</string>
   <string name="add_vm_number_str">Nummer hinzufügen</string>
+  <string name="can_not_dial_vt_while_voice_prompt">"Während eines Sprachanrufes kann kein Videoanruf erfolgen"</string>
   <string name="can_not_dial_while_vt_prompt">"Während eines Videoanrufs im Prozess lässt sich nicht wählen"</string>
+  <string name="change_default_dialer_dialog_title">Ändere Standard Wähl-App?</string>
+  <string name="change_default_dialer_no_previous_app_set_text">%s als Standard Wähl-App verwenden?</string>
   <string name="change_default_dialer_with_previous_app_set_text">Nutze %1$s statt %2$s als Standard-Telefonapp?</string>
   <string name="dial_conference_fail_prompt">Die Telefonkonferenz kann nicht direkt einrichtet werden. Das aktuelle Netzwerk unterstützt VoLTE nicht.</string>
   <string name="dial_vt_fail_prompt"> Das aktuelle Netzwerk unterstützt VoLTE nicht. Standardtelefonie verwenden? </string>
+  <string name="duplicate_video_call_not_allowed">"Anruf kann momentan nicht durchgeführt werden."</string>
+  <string name="enable_account_preference_title">Anruf Account</string>
   <string name="handle_restricted">RESTRICTED</string>
-  <string name="headset_plugin_view_text">Headset ist angesteckt</string>
-  <string name="headset_plugin_view_title">Headset</string>
   <string name="incall_error_call_failed">Anruf fehlgeschlagen</string>
+  <string name="lch_dtmf_key">D</string>
   <string name="no_vm_number">Fehlende Mailboxnummer</string>
   <string name="no_vm_number_msg">Auf der SIM-Karte ist keine Mailboxnummer gespeichert.</string>
   <string name="notification_missedCallTicker">Entgangener Anruf von %s</string>
@@ -23,17 +26,16 @@
   <string name="notification_missedCallsTitle">Entgangene Anrufe</string>
   <string name="outgoing_call_error_no_phone_number_supplied">Geben Sie eine gültige Nummer ein.</string>
   <string name="outgoing_call_not_allowed">Der Geräteeigentümer hat nur Notrufe zugelassen.</string>
+  <string name="outgoing_call_not_allowed_user_restriction">Nur Notrufe sind durch den Handy Eigentümer erlaubt.</string>
   <string name="respond_via_sms_canned_response_1">"Ich kann im Moment nicht sprechen. Was gibt's?"</string>
   <string name="respond_via_sms_canned_response_2">"Ich rufe gleich zurück."</string>
   <string name="respond_via_sms_canned_response_3">"Ich rufe später zurück."</string>
   <string name="respond_via_sms_canned_response_4">"Ich kann im Moment nicht sprechen. Rufst du mich später zurück?"</string>
   <string name="respond_via_sms_confirmation_format">Nachricht an %s gesendet.</string>
   <string name="respond_via_sms_edittext_dialog_title">Kurzantwort</string>
-  <string name="respond_via_sms_menu_reset_default_activity">Standardapp zurücksetzen</string>
   <string name="respond_via_sms_setting_summary"/>
   <string name="respond_via_sms_setting_title">Kurzantworten</string>
   <string name="respond_via_sms_setting_title_2">Kurzantworten bearbeiten</string>
-  <string name="select_account_dialog_title">Konto auswählen</string>
   <string name="telecommAppLabel">Anrufverwaltung</string>
   <string name="test_account_0_label">Q Mobile</string>
   <string name="test_account_0_short_description">Account mit Q Mobile</string>
