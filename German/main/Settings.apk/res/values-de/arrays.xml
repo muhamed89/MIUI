@@ -777,6 +777,14 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
         <item>Die letzten 30 Tage</item>
         <item>Zykluszeit festlegen...</item>
      </string-array>
+     <string-array name="privacy_password_function_specfication_names">
+        <item>Nachrichten</item>
+        <item>Fotos</item>
+        <item>Dateien</item>
+        <item>Notizen</item>
+        <item>Appsperre</item>
+        <item>Kindersicherung</item>
+    </string-array>
      <string-array name="proc_stats_memory_states">
         <item>Normal</item>
         <item>Gemäßigt</item>
