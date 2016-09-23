@@ -101,11 +101,10 @@ Möchten Sie ihn beenden?"</string>
   <string name="autofill_card_cvc_re">CVC|Verifikation</string>
   <string name="autofill_card_number_re">Kartennummer</string>
   <string name="autofill_city_re">Ort|Stadt|Provinz|Bundesland</string>
-  <string name="autofill_county">Landkreis</string>
+  <string name="autofill_county">Landkreis|Bezirk</string>
   <string name="autofill_company_re">Firma|Organisation|Abteilung</string>
   <string name="autofill_country_code_re">Ländercode</string>
   <string name="autofill_country_re">Land|Standort</string>
-  <string name="autofill_county">Land</string>
   <string name="autofill_department">Departement</string>
   <string name="autofill_district">Bezirk</string>
   <string name="autofill_email_re">E-Mail</string>
