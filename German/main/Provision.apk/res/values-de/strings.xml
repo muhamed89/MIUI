@@ -33,6 +33,8 @@
   <string name="other_settings_auto_update_summary">MIUI wird Leerlaufzeit nutzen, um Updates herunterzuladen und zu installieren</string>
   <string name="other_settings_location">Standort</string>
   <string name="other_settings_location_summary">Apps dürfen Ihren Standort lokalisieren</string>
+  <string name="other_settings_mifg_online_content">Bildschirmhintergrundkarussell</string>
+  <string name="other_settings_mifg_online_content_summary">Stellen Sie eine Internetverbindung her, um neue Bildschirmhintergründe für Ihren Sperrbildschirm zu bekommen.</string>
   <string name="other_settings_permission">MIUI-Serviceberechtigungen</string>
   <string name="other_settings_permission_summary">Erteilen Sie Mi Cloud, Telefon und anderen Basisfunktionen und -services die notwendigen Berechtigungen, damit Sie ordnungsgemäß funktionieren</string>
   <string name="other_settings_upload_debug_log_summary">Diagnosedaten können Nutzungsstatistiken Ihrer Hardware, Betriebssystem und Apps enthalten. Die Daten werden verwendet, um Probleme zu finden und zu analysieren und werden nicht verwendet, um Sie persönlich zu identifizieren.</string>
