@@ -26,7 +26,7 @@
   <string name="notification_missedCallsTitle">Entgangene Anrufe</string>
   <string name="outgoing_call_error_no_phone_number_supplied">Geben Sie eine gültige Nummer ein.</string>
   <string name="outgoing_call_not_allowed">Der Geräteeigentümer hat nur Notrufe zugelassen.</string>
-  <string name="outgoing_call_not_allowed_no_permission">Diese App kann ohne die Telefonberechtigung keine ausgehenden Anrufe starten.</string>
+  <string name="outgoing_call_not_allowed_no_permission">Diese App kann ohne der Telefonberechtigung keine ausgehenden Anrufe starten.</string>
   <string name="outgoing_call_not_allowed_user_restriction">Der Geräteeigentümer hat nur Notrufe zugelassen.</string>
   <string name="respond_via_sms_canned_response_1">"Ich kann im Moment nicht sprechen. Was gibt's?"</string>
   <string name="respond_via_sms_canned_response_2">"Ich rufe gleich zurück."</string>
