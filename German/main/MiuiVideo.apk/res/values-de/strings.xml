@@ -4,7 +4,9 @@
   <string name="about_title">Über</string>
   <string name="about_version">1.0.1</string>
   <string name="about_version_label">"Version "</string>
-  <string name="ad_countdown">%ss verbleibend</string>
+  <string name="account_auth_fail">Account Bestätigung fehlgeschlagen</string>
+  <string name="actor">Darsteller</string>
+  <string name="actor_intro">Über</string>
   <string name="ad_moredetail">Weitere Details</string>
   <string name="add_favorite_success">Markiert</string>
   <string name="add_more_addons">Mehr Addons hinzufügen</string>
@@ -27,14 +29,13 @@
   <string name="alert_dialog_download_btn_hide">Ausblenden</string>
   <string name="alert_dialog_download_dup_task">Warten auf vorhandene Download beendet...</string>
   <string name="alert_dialog_download_error">"Konnte nicht herunterladen"</string>
+  <string name="alertdialog_downapp_btn_back">Zurück</string>
   <string name="all">Alle</string>
   <string name="all_ep">All ep</string>
   <string name="all_episode">Alle Episoden</string>
   <string name="app_latest_version">Keine Updates verfügbar</string>
   <string name="app_name">Video</string>
   <string name="app_plugin_ready">%1$s installiert</string>
-  <string name="app_charging_wifi_mode">Automatisch aktualisieren</string>
-  <string name="app_charging_wifi_mode_summary">App automatisch aktualisieren, wenn WLAN verfügbar und das Ladegerät angeschlossen ist</string>
   <string name="app_update_background">Aktualisere die App im Hintergrund.</string>
   <string name="app_upgrade_hint">Klicken Sie hier, um die vollständige Polymerisation, HD-Onlinevideos zu sehen.</string>
   <string name="app_upgrade_title">Die aktuellste Mi Videoversion ist bereits installiert.</string>
@@ -48,6 +49,7 @@
   <string name="average_score">Durchschnittsnote</string>
   <string name="avg_score">%.1f</string>
   <string name="bestv">Bestv</string>
+  <string name="birthday">Geburtstag</string>
   <string name="bmp_quality_mode">Bildqualitätsmodus</string>
   <string name="bmp_quality_mode_desc">Geprüfte, qualitativ hochwertiger Showmodus.</string>
   <string name="buffering">Wird gepuffert…</string>
@@ -148,6 +150,7 @@
   <string name="enter_detail">Mehr Information</string>
   <string name="episode_name_format">Ep. %1$s</string>
   <string name="episode_suffix">"Ep. %d "</string>
+  <string name="error_empty_epg">Keine EPG Informationen</string>
   <string name="error_empty_filter_title">Keine Ergebnisse</string>
   <string name="error_empty_live_favor">Keine TV-Sender in der Sammlung</string>
   <string name="error_empty_title">Irgendetwas ging schief.</string>
@@ -172,10 +175,7 @@
   <string name="hint_apk_install">Diese App installieren</string>
   <string name="hint_apk_text_update">Installieren Sie jezt das Update (%1$s) ?</string>
   <string name="hint_apk_title_update">Update verfügbar (%1$s)</string>
-  <string name="hot_spot_filter">Filter</string>
-  <string name="hot_spot_history">Verlauf</string>
-  <string name="hot_spot_offline">Offline</string>
-  <string name="hot_spot_search">Suche</string>
+  <string name="hometown">Heimatstadt</string>
   <string name="i_will_write_comments">Schreiben Sie hier Ihren Kommentar</string>
   <string name="icntv">iCNTV</string>
   <string name="info_video_loading">Wird geladen...</string>
@@ -265,9 +265,11 @@
   <string name="online_video">Online</string>
   <string name="online_video_oneweek">vor weniger als 1 Woche</string>
   <string name="online_video_oneweek_ago">vor 1 Woche</string>
+  <string name="open_in_browser">In Browser öffnen</strin
   <string name="operator_test">Operatortest</string>
   <string name="operator_test_summary">Im Operatormodus ausgeführt</string>
-  <string name="original_price">Originalpreis</string>
+  <string name="original_price">Originalpreis</string>#
+  <string name="other_info">Andere</string>
   <string name="other_setting">Weitere Einstellungen</string>
   <string name="pause">Pause</string>
   <string name="pay_record">Zahlungsverlauf</string>
@@ -304,6 +306,7 @@
   <string name="reload_sub_title">Wiederholen</string>
   <string name="reload_title">"Keine Netzwerkverbindung möglich"</string>
   <string name="reload_title_ep">"Die vollständige Serie konnte nicht abgerufen werden"</string>
+  <string name="replay">Wiedergabe wiederholen</string>
   <string name="retry">Wiederholen</string>
   <string name="review_fragment">Kommentare</string>
   <string name="router">Offline Remote</string>
