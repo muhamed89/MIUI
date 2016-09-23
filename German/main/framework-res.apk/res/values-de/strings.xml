@@ -105,6 +105,7 @@ Möchten Sie ihn beenden?"</string>
   <string name="autofill_company_re">Firma|Organisation|Abteilung</string>
   <string name="autofill_country_code_re">Ländercode</string>
   <string name="autofill_country_re">Land|Standort</string>
+  <string name="autofill_county">Land</string>
   <string name="autofill_department">Departement</string>
   <string name="autofill_district">Bezirk</string>
   <string name="autofill_email_re">E-Mail</string>
@@ -264,8 +265,8 @@ mit %s"</string>
   <string name="durationDayHour">%1$d Tag %2$d Std.</string>
   <string name="durationDayHours">%1$d Tag %2$d Std.</string>
   <string name="durationDays">%1$d Tage</string>
-  <string name="durationHourMinute">%1$d Std. %2$d Min.</string>
-  <string name="durationHourMinutes">%1$d Std. %2$d Min.</string>
+  <string name="durationHourMinute">%1$d Std. %2$d Min.</string>
+  <string name="durationHourMinutes">%1$d Std. %2$d Min.</string>
   <string name="durationHours">%1$d Std.</string>
   <string name="durationMinute">%1$d min</string>
   <string name="durationMinuteSecond">%1$d Min. %2$d Sek.</string>
@@ -656,7 +657,7 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="lockscreen_transport_stop_description">Beenden</string>
   <string name="lockscreen_unlock_label">Entsperren</string>
   <string name="low_internal_storage_view_text">Einige Systemfunktionen funktionieren möglicherweise nicht.</string>
-  <string name="low_internal_storage_view_text_no_boot">Der Speicherplatz reicht nicht für das System aus. Stellen Sie sicher, dass 250 MB freier Speicherplatz vorhanden ist und starten Sie das Gerät dann neu.</string>
+  <string name="low_internal_storage_view_text_no_boot">Der Speicherplatz reicht nicht für das System aus. Stellen Sie sicher, dass 250 MB freier Speicherplatz vorhanden ist und starten Sie das Gerät dann neu.</string>
   <string name="low_internal_storage_view_title">Speicherplatz neigt sich dem Ende</string>
   <string name="low_memory">Der Telefonspeicher ist voll. Löschen Sie Dateien, um Speicherplatz freizugeben.</string>
   <string name="managed_profile_label">Geschäftlich</string>
@@ -1797,8 +1798,6 @@ Möchten Sie die Seite schließen?"</string>
   <string name="zen_mode_feature_name">Nicht stören</string>
   <string name="zen_mode_forever">Unbegrenzt</string>
   <string name="zen_mode_forever_dnd">Bis Sie \"Nicht stören\" ausschalten</string>
-  <string name="zen_mode_next_alarm_line_one">Bis zum nächsten Alarm</string>
-  <string name="zen_mode_next_alarm_summary">Bis zum nächsten Alarm bei %1$s</string>
   <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
   <string name="zen_mode_until">Bis %1$s</string>
 </resources>
