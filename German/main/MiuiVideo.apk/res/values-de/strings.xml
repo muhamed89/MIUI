@@ -265,10 +265,10 @@
   <string name="online_video">Online</string>
   <string name="online_video_oneweek">vor weniger als 1 Woche</string>
   <string name="online_video_oneweek_ago">vor 1 Woche</string>
-  <string name="open_in_browser">In Browser öffnen</strin
+  <string name="open_in_browser">In Browser öffnen</string>
   <string name="operator_test">Operatortest</string>
   <string name="operator_test_summary">Im Operatormodus ausgeführt</string>
-  <string name="original_price">Originalpreis</string>#
+  <string name="original_price">Originalpreis</string>
   <string name="other_info">Andere</string>
   <string name="other_setting">Weitere Einstellungen</string>
   <string name="pause">Pause</string>
