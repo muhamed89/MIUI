@@ -2983,6 +2983,8 @@ Betriebssystem auswählen:"</string>
     <string name="pref_button_light_summary">Menü-, Home- und Zurücktaste beleuchten</string>
     <string name="pref_edge_handgrip">Kantensteuerungen</string>
     <string name="pref_operational_key">Tasten</string>
+    <string name="pref_volume_launch_camera_summary">Leiser Taste zweimal drücken, um die Kamera zu öffnen</string>
+    <string name="pref_volume_launch_camera_title">Kamera öffnen</string>
     <string name="pref_volume_wake_summary">Lautstärketasten drücken, um Telefon aufzuwecken.</string>
     <string name="pref_volume_wake_title">Lautstärketasten</string>
     <string name="preference_change_password_title">Passwort ändern</string>
