@@ -177,6 +177,9 @@
   <string name="callFailed_userBusy">Leitung besetzt</string>
   <string name="callUnanswered_forwarded">Anruf unbeantwortet und weitergeleitet</string>
   <string name="call_advanced_setting_title">Erweiterte Einstellungen</string>
+  <string name="call_background_default">Standard</string>
+  <string name="call_background_lock_wallpaper">Sperrbildschirmhintergrund</string>
+  <string name="call_background_setting">Gesprüchshintergrund</string>
   <string name="call_barring_sum">Sprachanrufsperreneinstellungen</string>
   <string name="call_description_recording">Anruf aufnehmen…</string>
   <string name="call_forwarding_number_hint">Nummer zum Weiterleiten eingehender Anrufe an</string>

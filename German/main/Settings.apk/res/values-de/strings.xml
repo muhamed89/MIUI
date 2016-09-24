@@ -1174,6 +1174,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
     <string name="delete_fingerprint_text">Fingerabdruck entfernen</string>
     <string name="delete_legacy_fingerprint">Löschen</string>
     <string name="delete_or_keep_legacy_passwords_confirm_msg">Diesen Fingerabdruck entfernen?</string>
+    <string name="delete_saved_network">Gespeichertes Netzwerk löschen</string>
     <string name="deny">Ablehnen</string>
     <string name="deny_sms_message">Installierten Apps das Senden von SMS verbieten</string>
     <string name="deny_sms_title">SMS sperren</string>
@@ -2712,6 +2713,8 @@ Betriebssystem auswählen:"</string>
     <string name="page_layout_page2_title">Vorschau</string>
     <string name="page_layout_small_title">Extra Klein</string>
     <string name="page_loading">Einen Moment…</string>
+    <string name="paper_mode_end_time_title">Endzeit</string>
+    <string name="paper_mode_start_time_title">Startzeit</string>
     <string name="passpoint_content">%1$s Zugangsdaten</string>
     <string name="passpoint_label">Gespeichert via</string>
     <string name="passwordIncorrect">Das eingegebene Passwort ist falsch</string>
@@ -3352,6 +3355,8 @@ Diese Einstellung betrifft alle Nutzer auf diesem Telefon."</string>
     <string name="sc_unauthorized">Bitte erneut anmelden</string>
     <string name="scan_list_label">Ergebnisse:</string>
     <string name="screen">Bildschirm</string>
+    <string name="screen_button">Bildschirmtasten</string>
+    <string name="screen_button_tips">Nach unten ziehen, um die Bildschirmtasten zu verbergen</string> 
     <string name="screen_color_and_optimize">Farben &amp; Kontrast</string>
     <string name="screen_color_and_optimize_disabled">Die Farbtemperatur kann im Lesemodus nicht geändert werden</string>
     <string name="screen_color_temperature">Farbtemperatur</string>
@@ -3381,6 +3386,7 @@ Diese Einstellung betrifft alle Nutzer auf diesem Telefon."</string>
     <string name="screen_paper_mode_range_title">Einstellungen</string>
     <string name="screen_paper_mode_set_apps_title">Lesemodus-Apps</string>
     <string name="screen_paper_mode_summary">"Hintergrundblenden reduzieren"</string>
+    <string name="screen_paper_mode_time_title">Geplant</string>
     <string name="screen_paper_mode_title">Lesemodus</string>
     <string name="screen_paper_mode_turn_off">Aus</string>
     <string name="screen_paper_mode_turn_on">An</string>
