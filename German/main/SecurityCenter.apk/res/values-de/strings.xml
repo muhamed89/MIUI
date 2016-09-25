@@ -170,6 +170,12 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="battery_status_unknown">Unbekannter Akkufehler</string>
   <string name="battery_temperature_title">Akkutemperatur</string>
   <string name="begin_date">Zurückgesetzt am</string>
+    <string name="bind_xiaomi_account_cancel">Abbrechen</string>
+    <string name="bind_xiaomi_account_confirm">Hinzufügen</string>
+    <string name="bind_xiaomi_account_dialog_summery">Sie sind dabei Mi Konto %s hinzufügen. Fall Sie Ihr Passwort vergessen haben, können Sie das Konto zum Zurücksetzen verwenden. Konto wird nach dem Abmelden automatisch entfernt.</string>
+    <string name="bind_xiaomi_account_success">Mi Konto erfolgreich hinzugefügt</string>
+    <string name="bind_xiaomi_account_summary">Mi Konto zum Zurücksetzen Ihres Passworts verwenden</string>
+    <string name="bind_xiaomi_account_title">Mi Konto hinzufügen</string>
   <string name="boot_reminder">Telefon nach voreingestellter Zeit einschalten</string>
   <string name="boot_time">Einschalten: %1$s Uhr</string>
   <string name="boot_time_day">Einschalten: %2$s %1$dd Uhr</string>
@@ -276,6 +282,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="cmcc_app_check_dialog_negative">Später</string>
   <string name="cmcc_app_check_dialog_positive">Jetzt neu starten</string>
   <string name="cmcc_app_check_dialog_title">System repariert</string>
+    <string name="confirm_bind_xiaomi_account_dialog_title">Mi Konto wird hinzugefügt</string>
   <string name="confirm_fingerprint_msg">Legen Sie Ihren Finger auf den Sensor</string>
   <string name="confirm_reject_all_permission">Wollen Sie allen Apps die Verwendung dieser Funktion verweigern?</string>  
   <string name="connect_internet_by_mobiledata">Internetverbindung über Mobilfunk herstellen</string>
@@ -760,6 +767,8 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wen
   <string name="notification_item">Ausgewählte Apps mit einer Appsperre sichern</string>
   <string name="notification_subtitle">Zum Einschalten antippen</string>
   <string name="notification_summary_cmcc_app_check">Berühren für mehr Details.</string>
+    <string name="notification_sysapp_cracked_text">Aktuelle MIUI-Version wurde modifiziert</string>
+    <string name="notification_sysapp_cracked_title">Sicherheitsrisiko wurde erkannt</string>
   <string name="notification_title_cmcc_app_check">%d Tage seit letztem Check</string>
   <string name="notification_title_firewall_blocked">Blockiert</string>
   <string name="notify_daily_data_usage_body">Um den Datenverbrauch automatisch zu begrenzen, richten Sie Ihr monatliches Datenguthaben ein.</string>
@@ -826,6 +835,11 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wen
   <string name="package_setted_error_notification_titile">"kein Datenverbrauch verfügbar"</string>
   <string name="packages_subtitle">Inklusive Pakete</string>
   <string name="passwordIncorrect">Benutzername oder Passwort ist falsch</string>
+    <string name="password_promotion_button_text">Ich habs</string>
+    <string name="password_promotion_message">Appsperre wurde zum persönlichen Schutzpasswort aktualisiert. Sie können Ihr aktuelles Mi Konto verwenden, um es zurückzusetzen.</string>
+    <string name="password_promotion_not_login_xiaomi_account_message">App lock wird zum persönlichen Schutzpasswort aktualisiert. Sie können Ihr aktuelles Mi Konto verwenden, um es zurückzusetzen. Fügen Sie Ihr Mi Konto hinzu, um in der Lage zu sein dies tun zu können.</string>
+    <string name="password_promotion_postbutton_text">Zu den Einstellungen gehen</string>
+    <string name="password_promotion_title">Persönliches Schutzpasswort</string>
   <string name="path_antispam">Systemanwendungen/Sicherheit/Sperrliste</string>
   <string name="path_antivirus">Systemanwendungen/Sicherheit/Virenscan</string>
   <string name="path_applicationlock">Systemanwendungen/Sicherheit</string>
@@ -1299,6 +1313,8 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="security_scan_optimizing">Optimieren…</string>
   <string name="see_detail">Details</string>
   <string name="select_pattern">Muster auswählen</string>
+    <string name="set_applock_password">Password festlegen</string>
+    <string name="setting_privacy_password">Persönliches Schutzpasswort festlegen</string>
   <string name="setting_traffic_pkg">Datenpakete einstellen</string>
   <string name="settings">Einstellung zur Datennutzung</string>
   <string name="settings_battery_consume_abnormal_summary">Benachrichtigen, wenn der Akku zu schnell entleert wird</string>
@@ -1392,6 +1408,15 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="summary_virus_cloudscan">Appnamen sowie Appdetails hochladen und online überprüfen</string>
   <string name="summary_virus_update">Virendatenbank bei WLAN-Verbindung, automatisch aktualisieren</string>
   <string name="summary_xiaomi_roaming">0,01 Yuan pro MB für internationalen Netzwerkverkehr.</string>
+    <string name="sys_app_prot_cracked_confirm">Ich habs</string>
+    <string name="sys_app_prot_cracked_login">Mit Mi Konto anmelden</string>
+    <string name="sys_app_prot_cracked_text_login">Die aktuelle Version von MIUI wurde geändert, dies gefährdet Ihre Gerätesicherheit.
+
+Stellen Sie sicher, dass Sie Herkunft dieses Geräts wissen und kontaktieren Sie autorisiertes Xiaomi-Servicecenter in Ihrer Nähe um Hilfe zu erhalten.</string>
+    <string name="sys_app_prot_cracked_text_unlogin">Die aktuelle Version von MIUI wurde geändert, dies gefährdet Ihre Gerätesicherheit. Melden Sie sich mit Ihrem Mi Konto an um diese Warnung auszuschalten.
+
+Wenn Sie MIUI keiner Weise verändert haben, stellen Sie sicher, dass Sie Herkunft dieses Geräts wissen und kontaktieren Sie autorisiertes Xiaomi-Servicecenter in Ihrer Nähe.</string>
+    <string name="sys_app_prot_cracked_title">Sicherheitsrisiko</string>
   <string name="system_app">Systemanwendungen</string>
   <string name="system_application">Systemanwendungen</string>  
   <string name="system_check_content">%1$d verdächtige Elemente</string>
@@ -1434,6 +1459,8 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="tc_sms_report_get_sms">SMS erhalten</string>
   <string name="tc_sms_report_get_sms2">SMS erhalten</string>
   <string name="tc_sms_report_get_sms_again">SMS aktualisieren</string>
+    <string name="tc_sms_report_get_sms_bill">SMS bekommen</string>
+    <string name="tc_sms_report_get_sms_calltime">SMS bekommen</string>
   <string name="tc_sms_report_get_sms_failure">Datennutzung SMS-Format konnten nicht abgerufen werden</string>
   <string name="tc_sms_report_get_sms_successs">Datennutzung SMS-Format aktualisiert</string>
   <string name="tc_sms_report_get_sms_timeout">Zeitüberschreitung der Anfrage</string>
@@ -1455,6 +1482,8 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="tc_sms_report_tips_dialog_message">"Datenverbrauch verwendet eine speziell formatierte SMS, um den neuesten Datenverbrauch von Ihrem Mobilfunkanbieter zu erhalten. Wenn diese Funktion nicht ordnungsgemäß läuft, versuchen Sie die Formatierung der Datenverbrauch-SMS zu aktualisieren. Die neu aktualisierte Formatierung wird dann auf unsere Server hochgeladen."</string>
   <string name="tc_sms_report_tips_dialog_title">Datenverbrauchs-SMS</string>
   <string name="tc_sms_report_title">Datenverbrauchsfehler melden</string>
+    <string name="tc_sms_report_title_bill">Datennutzung-Fehlerbericht</string>
+    <string name="tc_sms_report_title_calltime">Datennutzung-Fehlerbericht</string>
   <string name="tc_sms_report_toast_text">Details werden abgerufen…</string>
   <string name="tc_sms_report_upload_success">"Datenverbrauchs-SMS übermittelt. Wir werden uns gleich darum kümmern!"</string>
   <string name="tc_sms_report_upload_when_net">Vielen Dank für Ihr Feedback!</string>

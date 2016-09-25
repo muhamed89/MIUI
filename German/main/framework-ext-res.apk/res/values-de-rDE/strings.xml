@@ -14,6 +14,7 @@
   <string name="auto_disable_screenbuttons_prompts_not_show_again">Nicht wieder anzeigen</string>
   <string name="auto_disable_screenbuttons_prompts_ok">OK</string>
   <string name="auto_disable_screenbuttons_prompts_title">Navigationstasten sperren?</string>
+    <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">Zum Verlassen wieder tippen</string>
   <string name="auto_start_warning_allow">Erlauben</string>
   <string name="auto_start_warning_deny">Verweigern</string>
   <string name="auto_start_warning_title">Automatischen Start von %s erlauben?</string>
@@ -83,6 +84,7 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; System &gt; Tast
   <string name="screen_button_notification_text">Zum Einschalten, die Home- und Powertaste gleichzeitig drücken</string>
   <string name="screen_button_notification_title">Navigationstasten deaktiviert</string>
   <string name="screen_on_proximity_sensor_hint">Um die Funktion zu deaktivieren, die Zurück- und Lautstärke-Hochtaste gleichzeitig drücken.</string>
+    <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Lauter-Taste drücken, um diese Funktion auszuschalten.</string>
   <string name="screen_on_proximity_sensor_summary">Bedecken Sie nicht den orangen Bereich des Bildschirms</string>
   <string name="screen_on_proximity_sensor_title">Ungewollte Anrufe verhindern</string>
   <string name="screen_paper_mode_enter_toast">Lesemodus ist aktiv. Sie können ihn jederzeit unter Einstellungen &gt; Lesemodus aktivieren oder deaktivieren.</string>
@@ -113,6 +115,7 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; System &gt; Tast
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_cast">Übertragen</string>
   <string name="status_bar_toggle_data">Mobile Daten</string>
+    <string name="status_bar_toggle_edit">Bearbeiten</string>
   <string name="status_bar_toggle_flight_mode">Flugmodus</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Sperren</string>
