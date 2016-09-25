@@ -172,7 +172,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="begin_date">Zurückgesetzt am</string>
     <string name="bind_xiaomi_account_cancel">Abbrechen</string>
     <string name="bind_xiaomi_account_confirm">Hinzufügen</string>
-    <string name="bind_xiaomi_account_dialog_summery">Sie sind dabei Mi Konto %s hinzufügen. Fall Sie Ihr Passwort vergessen haben, können Sie das Konto zum Zurücksetzen verwenden. Konto wird nach dem Abmelden automatisch entfernt.</string>
+    <string name="bind_xiaomi_account_dialog_summery">Sie fügen das Mi Konto %s hinzu. Falls Sie Ihr Passwort vergessen haben, können Sie das Konto zum Zurücksetzen verwenden. Konto wird nach dem Abmelden automatisch entfernt.</string>
     <string name="bind_xiaomi_account_success">Mi Konto erfolgreich hinzugefügt</string>
     <string name="bind_xiaomi_account_summary">Mi Konto zum Zurücksetzen Ihres Passworts verwenden</string>
     <string name="bind_xiaomi_account_title">Mi Konto hinzufügen</string>
@@ -1302,7 +1302,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="scanning_bar_system_text">Appberechtigungen</string>
   <string name="scanning_bar_system_title">System durchsuchen…</string>
   <string name="score_pts">%</string>
-  <string name="section_clear_acc_item_title">%s bereinigt. Wenn immer noch nicht genügend Speicher vohanden ist, versuchen Sie die Bereinigung.</string>
+  <string name="section_clear_acc_item_title">%s bereinigt. Wenn immer noch nicht genügend Speicher vorhanden ist, versuchen Sie die Bereinigung.</string>
   <string name="section_security_defend_item_title">Schützen Sie Ihre Daten mit der Appsperre</string>
   <string name="section_system_item_fixed">Behoben</string>
   <string name="section_title_clear_acc">Cache leeren</string>
@@ -1313,7 +1313,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="security_scan_optimizing">Optimieren…</string>
   <string name="see_detail">Details</string>
   <string name="select_pattern">Muster auswählen</string>
-    <string name="set_applock_password">Password festlegen</string>
+    <string name="set_applock_password">Passwort festlegen</string>
     <string name="setting_privacy_password">Persönliches Schutzpasswort festlegen</string>
   <string name="setting_traffic_pkg">Datenpakete einstellen</string>
   <string name="settings">Einstellung zur Datennutzung</string>
@@ -1415,7 +1415,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
 Stellen Sie sicher, dass Sie Herkunft dieses Geräts wissen und kontaktieren Sie autorisiertes Xiaomi-Servicecenter in Ihrer Nähe um Hilfe zu erhalten.</string>
     <string name="sys_app_prot_cracked_text_unlogin">Die aktuelle Version von MIUI wurde geändert, dies gefährdet Ihre Gerätesicherheit. Melden Sie sich mit Ihrem Mi Konto an um diese Warnung auszuschalten.
 
-Wenn Sie MIUI keiner Weise verändert haben, stellen Sie sicher, dass Sie Herkunft dieses Geräts wissen und kontaktieren Sie autorisiertes Xiaomi-Servicecenter in Ihrer Nähe.</string>
+Wenn Sie MIUI keiner Weise verändert haben, stellen Sie sicher, dass Sie Herkunft dieses Geräts kennen und kontaktieren Sie ein autorisiertes Xiaomi-Servicecenter in Ihrer Nähe.</string>
     <string name="sys_app_prot_cracked_title">Sicherheitsrisiko</string>
   <string name="system_app">Systemanwendungen</string>
   <string name="system_application">Systemanwendungen</string>  
