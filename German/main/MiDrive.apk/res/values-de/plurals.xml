@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="delete_files_confirm">
-        <item quantity="other">Delete %1$d files</item>
-        <item quantity="zero">Delete %1$d files</item>
-        <item quantity="one">Delete %1$d file</item>
-        <item quantity="two">Delete %1$d files</item>
-        <item quantity="few">Delete %1$d files</item>
-        <item quantity="many">Delete %1$d files</item>
+        <item quantity="other">%1$d Dateien löschen</item>
+        <item quantity="zero">%1$d Dateien löschen</item>
+        <item quantity="one">%1$d Datei löschen</item>
+        <item quantity="two">%1$d Dateien löschen</item>
+        <item quantity="few">%1$d Dateien löschen</item>
+        <item quantity="many">%1$d Dateien löschen</item>
     </plurals>
     <plurals name="delete_folders_confirm">
-        <item quantity="other">" and %1$d folders?"</item>
-        <item quantity="zero">" and %1$d folders?"</item>
-        <item quantity="one">" and %1$d folder?"</item>
-        <item quantity="two">" and %1$d folders?"</item>
-        <item quantity="few">" and %1$d folders?"</item>
-        <item quantity="many">" and %1$d folders?"</item>
+        <item quantity="other">" und %1$d Ordner?"</item>
+        <item quantity="zero">" und %1$d Ordner?"</item>
+        <item quantity="one">" und %1$d Ordner?"</item>
+        <item quantity="two">" und %1$d Ordner?"</item>
+        <item quantity="few">" und %1$d Ordner?"</item>
+        <item quantity="many">" und %1$d Ordner?"</item>
     </plurals>
     <plurals name="directory_item_count">
-        <item quantity="other">%d items</item>
-        <item quantity="zero">%d items</item>
-        <item quantity="one">%d item</item>
-        <item quantity="two">%d items</item>
-        <item quantity="few">%d items</item>
-        <item quantity="many">%d items</item>
+        <item quantity="other">%d Einträge</item>
+        <item quantity="zero">%d Einträge</item>
+        <item quantity="one">%d Eintrag</item>
+        <item quantity="two">%d Einträge</item>
+        <item quantity="few">%d Einträge</item>
+        <item quantity="many">%d Einträge</item>
     </plurals>
     <plurals name="ui_bar_txt_download_progress">
-        <item quantity="other">%1$d files left to download</item>
-        <item quantity="zero">%1$d files left to download</item>
-        <item quantity="one">%1$d file left to download</item>
-        <item quantity="two">%1$d files left to download</item>
-        <item quantity="few">%1$d files left to download</item>
-        <item quantity="many">%1$d files left to download</item>
+        <item quantity="other">Es sind noch %1$d Dateien zum Runterladen</item>
+        <item quantity="zero">Es sind noch %1$d Dateien zum Runterladen</item>
+        <item quantity="one">Es ist noch %1$d Datei zum Runterladen</item>
+        <item quantity="two">Es sind noch %1$d Dateien zum Runterladen</item>
+        <item quantity="few">Es sind noch %1$d Dateien zum Runterladen</item>
+        <item quantity="many">Es sind noch %1$d Dateien zum Runterladen</item>
     </plurals>
     <plurals name="ui_bar_txt_upload_progress">
         <item quantity="other">%1$d files left to upload</item>
