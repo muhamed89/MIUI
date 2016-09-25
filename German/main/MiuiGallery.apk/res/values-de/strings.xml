@@ -339,7 +339,7 @@
   <string name="delete_from_album_no_account">von \"%s\" Album</string>
   <string name="delete_from_all_devices">von allen Geräten</string>
   <string name="delete_from_all_devices_and_cloud">von allen Geräten und aus der Mi Cloud</string>
-  <string name="delete_from_cloud">Ihnalte aus der Mi Cloud löschen</string>
+  <string name="delete_from_cloud">Inhalte aus der Mi Cloud löschen</string>
   <string name="delete_from_devices">Alle Geräte, die automatisch synchronisiert werden</string>
   <string name="delete_from_devices_album">Alle Geräte, die mit diesem Album synchronisiert sind</string>
   <string name="delete_from_homepage_album">Alben auf der Startseite</string>
