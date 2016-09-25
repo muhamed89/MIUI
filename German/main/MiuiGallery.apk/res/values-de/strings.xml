@@ -92,7 +92,7 @@
   <string name="album_share_subtitle_requesting">Albuminfos werden geladen…</string>
   <string name="album_share_title_new_album">Neues Album teilen</string>
   <string name="album_show_local_only">Nur lokale Alben anzeigen</string>
-    <string name="album_show_local_only_summary">Einschalten zum Anzeigen und Löschen der Bilder nur auf Ihrem Gerät</string>
+    <string name="album_show_local_only_summary">Wenn Sie Ihre Bilder nur auf Ihrem Gerät anzeigen und löschen möchten, einschalten.</string>
   <string name="album_type_baby">Kinderalbum</string>
   <string name="album_type_share">Geteiltes Album</string>
   <string name="album_type_system">Systemalbum</string>
@@ -101,7 +101,7 @@
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Achtung</string>
   <string name="alert_init_merged_message">Fotos auf dem Gerät und in der Mi Cloud werden zusammen angezeigt.</string>
-  <string name="alert_init_merged_title">Alle Ihre Fotos endlich vereint</string>
+  <string name="alert_init_merged_title">Alle ihre Fotos endlich vereint</string>
   <string name="alert_message_open_sync">Zuerst mit Mi Cloud synchronisieren</string>
   <string name="alert_secret_album_enter">Verstanden</string>
   <string name="alert_secret_album_message">Auf der Startseite nach unten ziehen um versteckte Alben anzuzeigen.</string>
@@ -925,7 +925,7 @@
   <string name="sdcard_root">Hauptverzeichnis der SD-Karte</string>
   <string name="secret_album_display_name">Verstecktes Album</string>
     <string name="secret_album_password_update_dialog_cancel">Abbrechen</string>
-    <string name="secret_album_password_update_dialog_msg">Von jetzt an verwendet Gallerie Ihr persönliches Schutzpasswort.</string>
+    <string name="secret_album_password_update_dialog_msg">Von jetzt an verwendet Galerie ihr persönliches Schutzpasswort.</string>
     <string name="secret_album_password_update_dialog_ok">OK</string>
     <string name="secret_album_password_update_dialog_title">Passwort aktualisieren</string>
     <string name="secret_album_set_pc_password_dialog_msg">Persönliches Schutzpasswort funktioniert bei Apps, Fotos, Notizen, versteckten Ordner usw.</string>
