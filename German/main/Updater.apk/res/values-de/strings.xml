@@ -34,6 +34,7 @@
   <string name="autosetmode">Einstellungen</string>
   <string name="best_update">Bestes Update</string>
   <string name="boot_recovery">Neustart in den Recoverymodus</string>
+    <string name="button_delay_update_reboot">Neu starten & aktualisieren</string>
   <string name="button_text_check">Auf Aktualisierung überprüfen</string>
   <string name="button_text_later_reboot">Später</string>
   <string name="button_text_reboot">Neustart</string>
@@ -74,6 +75,11 @@
   <string name="current_version_text">Aktuelle Version</string>
   <string name="current_version_update_monthly_build">Auf monatlichen Build aktualisieren</string>
   <string name="daily_build">Nightly</string>
+    <string name="delay_update_text">Aktualisieren später</string>
+    <string name="dialog_delay_update_cancel">Abbrechen</string>
+    <string name="dialog_delay_update_msg">Ihr Telefon wird neu gestartet um Updates anzuwenden, wenn es eingeschaltet ist und der Akku mindestens 30% aufgeladen ist</string>
+    <string name="dialog_delay_update_title">Aktualisierung verfügbar</string>
+    <string name="dialog_delay_update_tonight">Aktualisieren heute Nacht</string>
   <string name="dialog_no">Nein</string>
   <string name="dialog_ok">Ok</string>
     <string name="dialog_reboot_message">MIUI wird aktualisiert. Dieser Vorgang kann 5 bis 20 Minuten dauern. Während der Aktualisierung schalten Sie Ihr Gerät nicht aus und starten Sie es nicht neu.</string>
@@ -156,6 +162,12 @@
   <string name="no_wifi_title">Datenverbrauchswarnung</string>
   <string name="not_open">Nein</string>
   <string name="notification_auto_reboot_seccess_title">Gerät wurde automatisch aktualisiert</string>
+    <string name="notification_delay_update_button">Aktualisierung in zwei Stunden</string>
+    <string name="notification_delay_update_cancel">In der Nacht nicht aktualisieren</string>
+    <string name="notification_delay_update_low_power">Sieht so aus als ob der Akkustand in der Nacht niedrig war</string>
+    <string name="notification_delay_update_msg">Das Telefon wird neu starten & aktualisieren in​ %ss</string>
+    <string name="notification_delay_update_no_update">Aktualisierungen wurden nicht angewendet</string>
+    <string name="notification_delay_update_shutdown">Sieht so aus als ob Ihr Telefon in der Nacht aus war</string>
   <string name="notification_downloading">Update wird heruntergeladen…</string>
   <string name="notification_fail_msg">Versuchen Sie, die ROM zu laden</string>
   <string name="notification_load_body_alpha">Laden Sie die neusten Updates für Ihr Gerät herunter</string>
@@ -268,6 +280,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="test">Test</string>
   <string name="timer_title">Neustart in %d Sekunden</string>
   <string name="title_toast_auto">Updates werden automatisch heruntergeladen</string>
+    <string name="toast_delay_update_tonight">Ihr Telefon wird zwischen 2:00 und 5:00 Uhr aktualisiert</string>
   <string name="top_secret_build">Top Secret</string>
   <string name="uncrypt_title">Wird entschlüsselt (%s)</string>
   <string name="unkown_error_title">Download nicht möglich</string>
@@ -316,7 +329,7 @@ Sie können aber nächsten Monat mitmachen.</string>
   <string name="view_upgrade_tutorial">Anzeigen</string>
   <string name="vote_beta">Betafeedbackprogramm</string>
   <string name="vote_error1">Sie sind kein Mitglied
-des Beta-Feedback-Programm</string>
+des Beta-Feedback-Programms</string>
   <string name="vote_error2">Feedback konnte nicht übermittelt werden.
 Aktualisieren Sie Ihr Gerät und versuchen Sie es erneut.</string>
   <string name="vote_error3">Anmeldung fehlgeschlagen.
