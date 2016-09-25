@@ -13,7 +13,7 @@
   <string name="activity_alert_detail_title"/>
   <string name="activity_detail_time_format">E</string>
   <string name="activity_find_city_dialog_cancel">Abbrechen</string>
-  <string name="activity_find_city_dialog_message">Erlaube Wetter das Abrufen von ihrem Standort</string>
+    <string name="activity_find_city_dialog_message">Erlaube der Wetterapp das Abrufen Ihres Standortes</string>
   <string name="activity_find_city_dialog_set">Einstellungen</string>
   <string name="activity_find_city_dialog_title">Standort abrufen</string>
   <string name="activity_main_alert"/>
@@ -55,7 +55,7 @@
   <string name="button_sure_abandon">Änderungen verwerfen?</string>
   <string name="close">Schließen</string>
   <string name="commercial">Kommerziell</string>
-  <string name="common_loading_text">lade...</string>
+  <string name="common_loading_text">Wird geladen...</string>
   <string name="daily_forcast_drawer_on_bottom">Verbergen</string>
   <string name="daily_forcast_drawer_on_top">Weitere Tage</string>
   <string name="daily_forcast_no_stable_direction">Windstill</string>
@@ -133,7 +133,7 @@
   <string name="realtime_aqi_title">Luftqualität</string>
   <string name="realtime_humidity_title">Relative Luftfeuchte</string>
   <string name="realtime_wind_default_title">Wind</string>
-  <string name="refresh_fail">"Es kann keine Netzwerkverbindung hergestellt werden"</string>
+  <string name="refresh_fail">Netzwerkverbindung konnte nicht hergestellt werden</string>
   <string name="retry">Wiederholen</string>
   <string name="set">Einstellungen</string>
   <string name="set_degree_centigrade">°C</string>

@@ -113,6 +113,8 @@
   <string name="delete_action">Löschen</string>
   <string name="delete_app">App entfernen</string>
   <string name="delete_bank_card_failed">Entfernen der Bezahlmethode fehlgeschlagen</string>
+    <string name="delete_bank_card_message">Um Ihr Eigentum zu schützen, werden Daten Ihrer Bankkarte nach dem Abmelden gelöscht</string>
+    <string name="delete_bank_card_title">Daten der Bankkarte löschen</string>
   <string name="delete_browser">Browser entfernen</string>
   <string name="delete_device">Gerät entfernen</string>
   <string name="delete_device_btn">Entfernen</string>
