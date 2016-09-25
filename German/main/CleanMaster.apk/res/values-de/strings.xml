@@ -262,7 +262,7 @@
   <string name="login_immediately">Anmelden</string>
   <string name="long_click_dialog_summary">Lange antippen, um zu den Ausnahmen hinzuzufügen.</string>
   <string name="long_click_dialog_title">Hinweis</string>
-    <string name="low_memory_clean_dialog_msg">Sie müssen vorher mindestens %1$s Dateien bereinigen</string>
+    <string name="low_memory_clean_dialog_msg">Sie müssen vorher mindestens 100 MB Dateien bereinigen</string>
   <string name="low_memory_clean_dialog_ok_button">OK</string>
   <string name="low_memory_clean_dialog_title">Zu wenig freier Speicher</string>
   <string name="low_memory_warning_dialog_cancel_button">Abbrechen</string>
