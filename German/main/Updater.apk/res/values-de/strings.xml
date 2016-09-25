@@ -34,7 +34,7 @@
   <string name="autosetmode">Einstellungen</string>
   <string name="best_update">Bestes Update</string>
   <string name="boot_recovery">Neustart in den Recoverymodus</string>
-    <string name="button_delay_update_reboot">Neu starten & aktualisieren</string>
+    <string name="button_delay_update_reboot">Neu starten &amp; aktualisieren</string>
   <string name="button_text_check">Auf Aktualisierung überprüfen</string>
   <string name="button_text_later_reboot">Später</string>
   <string name="button_text_reboot">Neustart</string>
@@ -165,7 +165,7 @@
     <string name="notification_delay_update_button">Aktualisierung in zwei Stunden</string>
     <string name="notification_delay_update_cancel">In der Nacht nicht aktualisieren</string>
     <string name="notification_delay_update_low_power">Sieht so aus als ob der Akkustand in der Nacht niedrig war</string>
-    <string name="notification_delay_update_msg">Das Telefon wird neu starten & aktualisieren in​ %ss</string>
+    <string name="notification_delay_update_msg">Das Telefon wird neu starten &amp; aktualisieren in​ %ss</string>
     <string name="notification_delay_update_no_update">Aktualisierungen wurden nicht angewendet</string>
     <string name="notification_delay_update_shutdown">Sieht so aus als ob Ihr Telefon in der Nacht aus war</string>
   <string name="notification_downloading">Update wird heruntergeladen…</string>
