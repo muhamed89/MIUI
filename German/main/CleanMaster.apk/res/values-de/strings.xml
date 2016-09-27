@@ -80,7 +80,7 @@
   <string name="button_text_view_detail">Details</string>
   <string name="button_text_view_file">Datei</string>
   <string name="buy_immediately">Kaufen</string>
-    <string name="buy_traffic_pack">Mehr Datenvolumen kaufen</string>
+  <string name="buy_traffic_pack">Mehr Datenvolumen kaufen</string>
   <string name="cache_title_empty_folder">Leerer Ordner (%d)</string>
   <string name="cache_title_empty_folder2">Leerer Ordner</string>
   <string name="cache_title_system_cache">Systemcache</string>
@@ -98,9 +98,9 @@
   <string name="clip_board_history_desc">Kopierte/ausgeschnittene Inhalte</string>
   <string name="clipboard">Zwischenablage</string>
   <string name="close">Schließen</string>
-    <string name="close_debug_mode">%1$d tippen um Debug-Schalter zu schließen</string>
+  <string name="close_debug_mode">%1$d tippen um Debug-Schalter zu schließen</string>
   <string name="confirm_auto_cleaner">OK</string>
-    <string name="conn_of_function_safe">Netzwerkverbindung für Sicherheit</string>
+  <string name="conn_of_function_safe">Netzwerkverbindung für Sicherheit</string>
   <string name="connecting">Verbinden…</string>
   <string name="deep_clean_completed_tips">Erfolgreich bereinigt</string>
   <string name="deep_clean_data_path_clean_title">Internen Speicher bereinigen</string>
@@ -185,7 +185,7 @@
   <string name="header_optimizer">Bei Verwendung dieses Dienstes akzeptieren Sie %s</string>
   <string name="hint_bar_select_image">%d ausgewählt</string>
   <string name="hint_clean_select_items">Duplikate löschen…</string>
-    <string name="hint_clean_select_similar_image">Duplikate löschen…</string>
+  <string name="hint_clean_select_similar_image">Duplikate löschen…</string>
   <string name="hints_ad_header_left">Werbung</string>
   <string name="hints_apk_header_left">Pakete</string>
   <string name="hints_apk_version">Version %s</string>
@@ -280,6 +280,7 @@
   <string name="msg_update_error_code_no_newer_db">Aktuell</string>
   <string name="msg_update_error_code_success">Fertig</string>
   <string name="msg_update_error_code_unknown_error">Unbekannter Fehler</string>
+  <string name="name_debuglog_dir">Bsp. Debuglog</string>
   <string name="name_optimizer">"Clean Master's Datenschutzbestimmungen"</string>
   <string name="nb_clear_set">ROM bereinigen, Akku- und Sperrlistendetails in der Statusleiste anzeigen</string>
   <string name="net_assistant_detail">%1$s verbraucht, %2$s gespart</string>
@@ -298,7 +299,7 @@
   <string name="open">Aktivieren</string>
   <string name="open_app">Öffnen</string>
   <string name="open_browser">Im Browser öffnen</string>
-    <string name="open_debug_mode">%1$d tippen um Debug-Schalten zu öffnen</string>
+  <string name="open_debug_mode">%1$d tippen um Debug-Schalten zu öffnen</string>
   <string name="opened">An</string>
   <string name="optimizecenter_data_support">Unterstützt von Clean Master</string>
   <string name="optimizecenter_data_support_cm">Unterstützt von Clean Master</string>
@@ -325,7 +326,7 @@
   <string name="pref_summary_open_optimizer_cloud_scan">Unbekannte Dateinamen hochladen und online überprüfen</string>
   <string name="pref_title_apps_check_size">Speicherlimit</string>
   <string name="pref_title_apps_check_time">Frequenz</string>
-    <string name="pref_title_apps_cleanup_size">​Wenn Cachegröße erreicht</string>
+  <string name="pref_title_apps_cleanup_size">​Sobald die Cachegrösse erreicht wurde</string>
   <string name="pref_title_auto_clean_and_alert">Automatisch bereinigen</string>
   <string name="pref_title_auto_clean_content_choose">Elemente zum Bereinigen auswählen</string>
   <string name="pref_title_auto_deepclean_and_alert">Gründliche Bereinigung</string>

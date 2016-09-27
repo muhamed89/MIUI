@@ -4,4 +4,7 @@
   <string name="action_do_not_use_network">Dieses Netzwerk nicht nutzen</string>
   <string name="action_use_network">Dieses Netzwerk so verwenden</string>
   <string name="app_name">CaptivePortalLogin</string>
+  <string name="ssl_error_continue">Trotzdem im Browser fortfahren</string>
+  <string name="ssl_error_example">Die Loginseite könnte zum Beispiel nicht zum angezeigten Unternehmen gehören.</string>
+  <string name="ssl_error_warning">Das Netzwerk mit dem Sie sich verbinden möchten, hat Sicherheitsprobleme.</string>
 </resources>

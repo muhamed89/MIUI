@@ -223,6 +223,8 @@ Um Rootzugriff zu erhalten müssen Sie die Entwicklerversion von MIUI installier
   <string name="HIPS_Perm_background_start_activity_Desc">im Hintergrund starten</string>
   <string name="HIPS_Perm_get_accounts">Zugangskonten auf dem Gerät</string>
   <string name="HIPS_Perm_get_accounts_Desc">Zugriff auf alle gespeicherten Konten erhalten</string>
+  <string name="HIPS_Perm_get_tasks">Aufgaben lesen</string>
+  <string name="HIPS_Perm_get_tasks_Desc">Aufgaben zu lesen</string>
   <string name="HIPS_Perm_install_shortcut">Startbildschirmverknüpfungen</string>
   <string name="HIPS_Perm_install_shortcut_Desc">Verknüpfungen auf dem Startbildschirm anlegen</string>
   <string name="HIPS_Perm_process_nfc">NFC</string>

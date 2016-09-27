@@ -16,6 +16,9 @@
   <string name="backup_success">Appsicherung erfolgreich</string>
   <string name="backup_successfully">Erfolgreich gesichert</string>
   <string name="backup_to_cloud">App sichern</string>
+  <string name="btn_back">Zurück</string>
+  <string name="btn_continue">Fortfahren</string>
+  <string name="btn_skip">Diesen Schritt überspringen</string>
   <string name="button_cancel">Abbrechen</string>
   <string name="button_delete">Löschen</string>
   <string name="button_next">Weiter</string>
@@ -70,6 +73,7 @@ Wichtig: Die Daten der einzelnen Apps werden dabei nicht in der Mi Cloud gesiche
   <string name="confirm_restore_summary">Der Startbildschirm wird neu gestartet und Ihre Apps werden automatisch geladen, vorausgesetzt eine WLAN Verbindung besteht</string>
   <string name="confirm_restore_title">Wiederherstellen</string>
   <string name="customization"><u>Benutzerdefiniert</u></string>
+  <string name="date_format">HH:mm:ss dd.MM.yyyy</string>
   <string name="deskclock_backup">Wecker</string>
   <string name="desktop_downloading">Herunterladen</string>
   <string name="desktop_installing">Installieren</string>
@@ -78,6 +82,7 @@ Wichtig: Die Daten der einzelnen Apps werden dabei nicht in der Mi Cloud gesiche
   <string name="desktop_waiting">Warten</string>
   <string name="device_delete_prompt">Sicherung von %s löschen?</string>
   <string name="device_xiaomi">MiPhone</string>
+  <string name="dir_date_format">HHmmss_ddMMyyyy</string>
   <string name="download_settings">Startbildschirmeinstellungen herunterladen %s%%</string>
   <string name="download_settings_fail">"Herunterladen der Startbildschirmeinstellungen fehlgeschlagen"</string>
   <string name="error_unknown">Es ist ein Fehler aufgetreten</string>

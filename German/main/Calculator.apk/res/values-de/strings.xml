@@ -12,6 +12,8 @@
   <string name="clear">C</string>
   <string name="clearDesc">Löschen</string>
   <string name="clear_history">Lösche Verlauf</string>
+  <string name="combine_loan">Kombinierte Darlehen</string>
+  <string name="commercial_loan">Kommerzielle Darlehen</string>
   <string name="convert_currency">Währungsumrechnung</string>
   <string name="convertion_unit">Einheitsumrechnung</string>
   <string name="convertion_unit_area">Flächenumrechnung</string>
@@ -135,6 +137,7 @@
   <string name="plusDesc">Addition</string>
   <string name="power">^</string>
   <string name="powerDesc">Potenz</string>
+  <string name="rate_data_provider">Die Zinssätze werden von hexun.com bereitgestellt</string>
   <string name="rightParen">)</string>
   <string name="rightParenDesc">Klammer zu</string>
   <string name="sin">sin</string>

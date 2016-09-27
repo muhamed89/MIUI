@@ -77,6 +77,7 @@
   <string name="close_callwait">Aus</string>
   <string name="customizer_mode_user_define_name">Meine Regeln</string>
   <string name="dlg_add_blacklist">Sperre diese Rufnummer?</string>
+  <string name="dlg_add_blacklist_title">Zur Sperrliste hinzufügen</string>
   <string name="dlg_add_blacklist_warn_conflict_content">%1$s und %2$s und andere Kontakte sind bereits unter Ausnahmen eingetragen.</string>
   <string name="dlg_add_blacklist_warn_conflict_title">Ausnahmekonflikt</string>
   <string name="dlg_add_keyword">Stichwörter hinzufügen</string>
