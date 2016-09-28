@@ -28,6 +28,12 @@
         <item quantity="other">%1$d von %2$s Kontakten</item>
         <item quantity="one">%1$d von %2$s Kontakten</item>
     </plurals>
+    <plurals name="group_copy_success_toast">
+        <item quantity="other">%1$d Kontakte kopiert</item>
+     </plurals>
+     <plurals name="group_move_success_toast">
+        <item quantity="other"> %1$d Kontakte verschoben</item>
+     </plurals>
     <plurals name="group_list_num_contacts_in_group">
         <item quantity="other">%1$d Kontakte</item>
         <item quantity="one">%1$d Kontakt</item>
@@ -64,6 +70,10 @@
         <item quantity="other">%1$d letzte Kontakte</item>
         <item quantity="one">1 letzten Kontakt</item>
     </plurals>
+    <plurals name="hint_account_contacts">
+        <item quantity="other">%1$d Einträge gefunden</item>
+        <item quantity="one">%1$d Einträge gefunden</item>
+     </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d Kontakte</item>
         <item quantity="one">%1$d Kontakt</item>
