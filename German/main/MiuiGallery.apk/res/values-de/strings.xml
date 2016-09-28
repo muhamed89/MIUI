@@ -206,7 +206,6 @@
   <string name="camera_disconnected">Kamera nicht verbunden</string>
   <string name="camera_folder_display_name">Kamerafotos</string>
   <string name="camera_needs_auto_backup_tip">Kameraalbum muss noch gesichert werden</string>
-  <string name="camera_path">/DCIM/Camera</string>
   <string name="camera_setas_wallpaper">Hintergrund</string>
   <string name="camera_view_none_message">Hier werden Bilder und Videos angezeigt, die Sie mit der Kamera aufgenommen haben</string>
   <string name="cancel">Abbrechen</string>
