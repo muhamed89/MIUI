@@ -3,6 +3,7 @@
   <string name="accessibility_enter_lock_wallpaper">Klicken Sie auf die Bildschirmsperre</string>
   <string name="click_to_enter_text">Zum Anzeigen antippen</string>
   <string name="confirm_pin_msg">PIN erneut eingeben</string>
+  <string name="custom_lock_wallpaper_enter">Eintreten</string>
   <string name="default_lockscreen_unlock_hint_text">Zum Entsperren nach oben wischen</string>
   <string name="delete">Löschen</string>
   <string name="emergency_call_string">Notruf</string>

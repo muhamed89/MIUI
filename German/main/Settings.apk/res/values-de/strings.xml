@@ -1014,6 +1014,8 @@ Damit Sie Ihr Gerät wieder verwenden können, müssen Sie es auf die Werkseinst
     <string name="current_screen_lock">Aktuelle Bildschirmsperre</string>
     <string name="current_sim">Aktuelle SIM-Karte</string>
     <string name="current_use_ese">Sichere Elemente benutzen</string>
+    <string name="current_use_ese_wallet">Mi Pay verwenden (nur in China)</string>
+    <string name="current_use_hce_wallet">HCE-App verwenden</string>
     <string name="current_use_uicc_se">Sichere Elemente auf der SIM-Karte benutzen</string>
     <string name="custom_progress">%d Elemente</string>
     <string name="daltonizer_mode_deuteranomaly">Rot-Grün-Sehschwäche</string>
@@ -1682,7 +1684,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
     <string name="google_backup_enable">Sicherung aktivieren</string>
     <string name="google_backup_section_title">Google Backup &amp; Wiederherstellung</string>
     <string name="google_wallet">Google Wallet</string>
-    <string name="got_it">Ich hab\'s</string>
+    <string name="got_it">Ich habs</string>
     <string name="gsm_to_wifi_connect_type_title">Mobil-&gt;WLAN</string>
     <string name="guarded_mode_dialog_backup_message">Backups sind im Gastmodus nicht erlaubt.</string>
     <string name="guarded_mode_dialog_title">Sie befinden sich im Gastmodus</string>
@@ -1741,6 +1743,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
     <string name="help_url_vpn" />
     <string name="help_url_wifi" />
     <string name="hidden_ssid_label">Verborgene SSID:</string>
+    <string name="hide_screen_button">Bildschirmtasten verbergen</string>
     <string name="high_performance_notif_summary">Leistungsmodus eingeschaltet.</string>
     <string name="high_performance_notif_title">Akku Verbrauchswarnung</string>
     <string name="high_performance_title">"Wenn Sie einen Benchmark laufen lassen, stellen Sie die Energieverwaltung auf \"Leistung\" um das beste Resultat zu erzielen."</string>
@@ -2129,10 +2132,10 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
     <string name="lockscreen_glogin_checking_password">Prüfe…</string>
     <string name="lockscreen_glogin_password_hint">Passwort</string>
     <string name="lockscreen_glogin_submit_button">Anmelden</string>
-    <string name="long_press_volume_down">Leiser-Taste lange drücken</string>
     <string name="login_account_dialog_message">Melden Sie sich an Ihrem Mi Konto an und schalten Sie die Synchronisation mit Mi Cloud ein.</string>
     <string name="login_account_dialog_title">Melden Sie sich an Ihrem Mi Konto an</string>
     <string name="login_action">Anmelden</string>
+    <string name="long_press_volume_down">Leiser-Taste lange drücken</string>
     <string name="lte_ram_dump_off">LTE-RAM-Dump ausschalten</string>
     <string name="lte_ram_dump_on">LTE-RAM-Dump einschalten</string>
     <string name="macaddr_label">MAC-Adresse:</string>
@@ -2390,9 +2393,9 @@ Es sind andere Benutzer an diesem System angemeldet.
     <string name="model_number">Modellnummer</string>
     <string name="modem_tool_log">Capture modem logs</string>
     <string name="modem_tool_log_start">Start</string>
-    <string name="modem_tool_log_start_toast">Modemlog nach %s speichern starten</string>
+    <string name="modem_tool_log_start_toast">Das Speichern des Modemlogs nach %s starten</string>
     <string name="modem_tool_log_stop">Stop</string>
-    <string name="modem_tool_log_stop_toast">Modemlog nach %s speichern anhalten</string>
+    <string name="modem_tool_log_stop_toast">Das Laden des Modemlogs aus %s anhalten</string>
     <string name="modify_instruction_password_settings">Passwort festlegen</string>
     <string name="modify_privacy_password">Passwort ändern</string>
     <string name="move_app">Verschieben</string>
@@ -2447,6 +2450,7 @@ Betriebssystem auswählen:"</string>
     <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, Kopfhörer und weitere Audioeinstellungen</string>
     <string name="music_audio_effect_settings">Toneinstellungen</string>
     <string name="music_dirac_control">Tonqualität optimieren</string>
+    <string name="music_dirac_mode_capsule">Mi-Kapsel</string>
     <string name="music_dirac_mode_earbuds">Mi-Ohrhörer</string>
     <string name="music_dirac_mode_general">Allgemein</string>
     <string name="music_dirac_mode_general_earbuds">Allgemein</string>
@@ -2548,6 +2552,7 @@ Betriebssystem auswählen:"</string>
     <string name="nfc_payment_use_default">Standard verwenden</string>
     <string name="nfc_quick_toggle_summary">Datenaustausch bei Kontakt mit anderen Geräten zulassen</string>
     <string name="nfc_se_route_title">Sichere Elementposition</string>
+    <string name="nfc_se_wallet_title">NFC-Zahlungen</string>
     <string name="night_mode_auto">Automatisch</string>
     <string name="night_mode_no">Hell</string>
     <string name="night_mode_summary">%s</string>
@@ -3467,6 +3472,8 @@ Um Screenpinning zu nutzen:
     <string name="sdcard_unmounted">SD-Karte einsetzen</string>
     <string name="se_route_ese">Sicheres Element</string>
     <string name="se_route_uicc">Sicheres Element auf der SIM-Karte</string>
+    <string name="se_wallet_ese">MI Pay verwenden (nur in China)</string>
+    <string name="se_wallet_hce">HCE-App verwenden</string>
     <string name="search_about">Über</string>
     <string name="search_accelerometer">Beschleunigungsmesser</string>
     <string name="search_access_control">Zutrittskontrolle</string>
@@ -4194,6 +4201,8 @@ Erwägen Sie die Verwendung eines schnelleren ^1 für bessere Leistung."</string
     <string name="summary_range_verbal_combination">%1$s bis %2$s</string>
     <string name="supl_not_set">&lt;Nicht festgelegt&gt;</string>
     <string name="supplicant_state_label">Supplikantstatus:</string>
+    <string name="suspension_ball_enable">Schnellball-Verknüpfung</string>
+    <string name="suspension_ball_enable_desc">Schalten Sie Schnellball an und aus, um die Verknüpfung benutzen zu können</string>
     <string name="suw_back_button_label">Zurück</string>
     <string name="suw_more_button_label">Mehr</string>
     <string name="suw_next_button_label">Weiter</string>
@@ -4368,7 +4377,7 @@ Bitte bereinigen Sie mindestens %s"</string>
     <string name="trans_receiver">Ich bin der Empfänger</string>
     <string name="trans_receiver_time_remained">"Noch %s. Das Gerät muss aufgeladen sein.
   Schalten Sie den WLAN Hotspot nicht aus. 
-  Halten Sie beide Geräte in der Nähe."</string> 
+  Halten Sie beide Geräte in der Nähe."</string>
     <string name="trans_receiving_completed">Empfang erfolgreich</string>
     <string name="trans_restoring">Wiederherstellen…</string>
     <string name="trans_restoring_no_items">Elemente synchronisieren</string>
@@ -4400,7 +4409,7 @@ Bitte bereinigen Sie mindestens %s"</string>
   Zeit bisher: %s"</string>
     <string name="trans_wait_trans_data">"Mit altem Gerät verbunden.
   Warten auf Übertragung…"</string>
-  <string name="trans_waiting_ensurance">"Das alte Gerät muß eingeschaltet und
+    <string name="trans_waiting_ensurance">"Das alte Gerät muß eingeschaltet und
   Mi Mover aktiviert sein"</string>
     <string name="trans_waiting_for_sender">Warte auf Verbindung mit dem alten Gerät…</string>
     <string name="transition_animation_scale_title">Übergangsanimation</string>
@@ -4572,6 +4581,8 @@ Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden 
     <string name="usage_type_video">Video</string>
     <string name="usage_type_wake_lock">Aktiv lassen</string>
     <string name="usage_type_wifi_running">WLAN aktiv</string>
+    <string name="usb_adb_input">USB-Debugging (Sicherheitseinstellungen)</string>
+    <string name="usb_adb_input_desc">Erlauben Sie die Berechtigungen und die Eingabesimulation über USB-Debugging</string>
     <string name="usb_audio_disable_routing">Deaktiviere USB-Audiorouting</string>
     <string name="usb_audio_disable_routing_summary">Deaktivieren Sie die automatische Weiterleitung an USB-Audioperipheriegeräte</string>
     <string name="usb_charging_summary">Schalten Sie alle anderen USB-Verbindungen ab, um das Aufladen zu beschleunigen.</string>
@@ -4584,6 +4595,8 @@ Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden 
     <string name="usb_host_mode_subtext">Für die Verwendung von einem Game-Controller und anderen Geräten über den USB-Anschluss. Die Laufzeit des Akkus wird verringert</string>
     <string name="usb_host_mode_text">USB-Hostmodus einschalten</string>
     <string name="usb_insert_summary">Legen Sie einen USB-Speicher ein, um ihn zu mounten</string>
+    <string name="usb_install_app">Über USB installieren</string>
+    <string name="usb_install_app_desc">Appinstallation über USB erlauen</string>
     <string name="usb_label_installer_cd">Installieren Sie Datentransfertools</string>
     <string name="usb_media_format_button_text">USB-Speicher löschen</string>
     <string name="usb_media_format_desc">Wollen Sie den USB-Speicher löschen? Sie werden <b>alle</b> Daten auf dem Speicher verlieren!</string>
