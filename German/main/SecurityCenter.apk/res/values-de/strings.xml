@@ -61,6 +61,12 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="activity_title_virus_detail">Virus im Detail</string>
   <string name="activity_title_virus_settings">Einstellungen</string>
   <string name="activity_title_white_list">Weiße Liste</string>
+  <string name="adb_install_no_network">Bauen Sie Netzwerkverbindung auf und versuchen Sie erneut</string>
+  <string name="adb_install_open">Wird erteilt…</string>
+  <string name="adb_install_open_error">Konnte nicht erteilt werden, überprüfen Sie Ihre Internetverbindung</string>
+  <string name="adb_install_reject_notiy">Installatio̱n %s via USB ist nicht erlaubt</string>
+  <string name="adb_install_reject_notiy_desc">Sie können die Installation via USB in den Entwickleroptionen erlauben</string>
+  <string name="adb_login_xiaomi_account">Erst im Mi Konto anmelden</string> 
   <string name="add_miservice_dialog_content">"%s erfordert, dass Sie das MIUI-Serviceframework zu den Ausnahmen hinzufügen. Sie können Benachrichtigungen von MIUI-Systemanwendungen oder Apps von Drittanbietern erhalten."</string>
   <string name="add_miservice_dialog_title">MIUI-Serviceframework</string>
   <string name="add_to_whitelist_button">Datenroamingausnahmen</string>
@@ -1717,6 +1723,9 @@ Der verbleibende Datenverbrauch beinhalten auch jenen Verbrauch, welcher in dem 
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Aktiv lassen</string>
   <string name="usage_type_wifi_running">WLAN aktiv</string>
+  <string name="usb_adb_input_apply_step_1">Ihr Computer kann ohne Ihr Wissen die Einstellungen und die Berechtigungen ändern, wenn Ihr Telefon über USB angeschlossen wird</string>
+  <string name="usb_adb_input_apply_step_2">Dies kann zu Privatdatenlecks, wie zum Beispiel Konten oder Nachrichten führen</string>
+  <string name="usb_adb_input_apply_step_3">Stellen Sie sicher, dass Sie die damit verbundenen Risiken verstanden haben. Jetzt erlauben?</string> 
   <string name="usb_install_desc">Diese App via USB installieren?</string>
   <string name="usbsharenet_exception_summary">Es kann keine Internetverbindung über USB hergestellt werden. Überprüfen Sie die USB-Verbindung und starten Sie Mi Suite erneut.</string>
   <string name="usbsharenet_exception_title">USB-Internetfreigabe testen</string>
