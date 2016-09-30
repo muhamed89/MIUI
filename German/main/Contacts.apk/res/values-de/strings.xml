@@ -1028,7 +1028,6 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="profile_display_name">Mein Profil einrichten</string>
   <string name="profile_name">Mein Profil</string>
   <string name="profile_name_photo">Ich</string>
-  <string name="progress_notifier_message">Importiere %s/%s: %s</string>
   <string name="public_account_name">Öffentliches Konto</string>
   <string name="pull_to_refresh_pull_label">Zum Aktualisieren ziehen…</string>
   <string name="pull_to_refresh_refreshing_label">Lade…</string>
