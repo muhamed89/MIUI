@@ -299,7 +299,11 @@
   <string name="st_sms_group">Nachrichten</string>
   <string name="st_sub_title_customize_mode_name">Name</string>
   <string name="st_sub_title_whiteblack_list_group">Sperrliste</string>
-  <string name="st_sum_call_wait">Ihre Abwesenheitsnachricht wird auch als Besetztzeichen für eingehende Anrufe abgespielt.</string>
+  <string name="st_sum_call_wait">Ihre Abwesenheitsnachricht wird auch als Besetztzeichen für eingehende Anrufe abgespielt</string>
+  <string name="st_summary_blacklist_numbers">Anrufe und Nachrichten per Telefonnummer oder Vorwahl blockieren</string>
+  <string name="st_summary_keywords_blacklist">Schlüsselwörter zum Blockieren von Nachrichten hinzufügen</string>
+  <string name="st_summary_special_numbers">Gemeldete Telefonnummern blockieren</string>
+  <string name="st_summary_whitelist_numbers">Anrufe und Nachrichten für bestimmte Telefonnummern oder Vorwahlen erlauben</string>
   <string name="st_title_adblock_group">Adblocker</string>
   <string name="st_title_adblock_setting">Adblockereinstellungen</string>
   <string name="st_title_addblacklist">Zur Sperrliste hinzufügen</string>

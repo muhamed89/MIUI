@@ -111,6 +111,7 @@
   <string name="provision_title">Wählen Sie ein Thema</string>
   <string name="purchased_list">Gekauft</string>
   <string name="purchased_list_format">%1$s gekauft</string>
+  <string name="purchased_list_legacy">Alte Themen</string>
   <string name="reload">Noch einmal versuchen</string>
   <string name="resource_account_abnormal_state">Anmeldefehler. Versuchen Sie es später erneut.</string>
   <string name="resource_account_fail_to_add">Konto hinzufügen fehlgeschlagen</string>
@@ -244,8 +245,11 @@
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Kostenlos</string>
   <string name="resource_price_unit">MI Credits</string>
+  <string name="resource_purchase_common_error">Vorgang fehlgeschlagen versuchen Sie es noch einmal</string>
+  <string name="resource_purchase_continue_to_pay">Mit dem Bezahlen von %s fortfahren</string>
   <string name="resource_purchase_getting_order">Bestellinformation abrufen…</string>
   <string name="resource_purchase_verifying_payment">Prüfe Zahlungsstatus…</string>
+  <string name="resource_purchase_vip_pay_failed">Zahlung per VIP fehlgeschlagen</string>
   <string name="resource_purchase_waiting_payment">Warte auf Zahlungsstatus…</string>
   <string name="resource_ranking">Beliebte</string>
   <string name="resource_ranking_free">Kostenlos</string>
