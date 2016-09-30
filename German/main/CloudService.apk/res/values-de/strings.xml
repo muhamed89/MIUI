@@ -49,6 +49,8 @@ Zuletzt gesichert am %2$s"</string>
   <string name="cloud_space_upgrade_message">Berühren, um %sGB zu deiner Cloud hinzuzufügen.</string>
   <string name="cloud_space_upgrade_no_quota_info">"Konnte keine Speicherplatzinfo erhalten"</string>
   <string name="cloud_space_upgrade_title">Mehr Speicherplatz für Mi Cloud</string>
+  <string name="cloud_storage_full">Cloudspeicher</string>
+  <string name="cloud_storage_is_full">Voll</string>
   <string name="cloudservice_new_sync">%s mit Mi Cloud synchronisieren</string>
   <string name="cmcc_micloud_dspt">Verwenden Sie Mi Cloud um Ihre Daten zu synchronisieren, Ihr Gerät zu finden und Dinge mit Ihren Freunden zu teilen.</string>
   <string name="connect_network">Mit einem WLAN verbinden oder SIM-Karte einlegen</string>
@@ -58,6 +60,7 @@ Zuletzt gesichert am %2$s"</string>
   <string name="detect_sim_card">Erneut nach einer SIM-Karte suchen</string>
   <string name="disable_find_device_error">"Kann Gerätesuche nicht ausschalten. %1$s"</string>
   <string name="disable_find_device_success">Gerätelokalisierung ist aus.</string>
+  <string name="due_date_format">dd.MM.yyyy</string>
   <string name="enableAll">Synchronisiere alles</string>
   <string name="enable_cloud_service_notification">Sie müssen Mi Cloud aktivieren</string>
   <string name="enable_find_device_error">"Kann Gerätesuche nicht einschalten. %1$s"</string>
@@ -95,6 +98,9 @@ Zuletzt gesichert am %2$s"</string>
   <string name="find_device_reading_status">Status wird geladen…</string>
   <string name="find_device_reading_status_failure">"Status konnte nicht geladen werden."</string>
   <string name="find_device_send_sms_alert">"Wenn Sie Ihre SIM-Karte wechseln, wird eine weitere SMS-Nachricht versendet, um diese Funktion zu reaktivieren."</string>
+  <string name="find_device_service_summary">Finden Sie Ihr Gerät und sperren Sie es aus der Ferne falls Sie es verlieren</string>
+  <string name="find_device_service_summary_international">Finden Sie Ihr Gerät und sperren Sie es aus der Ferne falls Sie es verlieren</string>
+  <string name="find_device_service_title">Gerät finden</string>
   <string name="find_device_status_ok">Finden Sie Ihr Gerät überall auf i.mi.com</string>
   <string name="find_device_status_ok_international">Finden Sie Ihr Gerät überall auf www.mi.com/micloud</string>
   <string name="find_device_success_title">Gerät finden</string>
@@ -105,9 +111,10 @@ Zuletzt gesichert am %2$s"</string>
   <string name="get_this_month_gb">Erhalte %s freien Speicher diesen Monat</string>
   <string name="google_100gb">100GB</string>
   <string name="google_cloud">Google Drive</string>
-  <string name="header_cloud_backup_settings">Sichern und Wiederherstellen</string>
+  
   <string name="google_cloud_eng">Google Drive</string>
   <string name="google_cloud_price">Etwa RMB 143 pro Jahr</string>
+  <string name="header_cloud_backup_settings">Sichern und Wiederherstellen</string>
   <string name="header_cloud_restore_summary">Apps, Startbildschirm und Systemeinstellungen von einer Sicherung aus der Mi Cloud wiederherstellen</string>
   <string name="header_data_and_synchronization">Daten &amp; Synchronisation</string>
   <string name="header_find_device_settings">Gerät finden</string>
@@ -122,6 +129,7 @@ Zuletzt gesichert am %2$s"</string>
   <string name="master_alert_notif_dspt_add">%s Dateien warten zum synchronisieren</string>
   <string name="master_alert_notif_dspt_no">Synchronisiert</string>
   <string name="master_alert_notif_title">Schalten Sie Sync. mit Mi Cloud ein</string>
+  <string name="member_due_date">Gültig bis %s</string>
   <string name="micloud_all_sub_1_intl_sms">"Es wird eine internationale Textnachricht gesendet, um Ihre SIM Karte zu aktivieren. Es können Kosten bei Ihrem Netzbetreiber entstehen. Wenn Sie die Funktion 'Gerät finden' einschalten, wird eine Aktivierungs SMS gesendet, sobald Sie die SIM Karte wechseln."</string>
   <string name="micloud_all_sub_1_sms">"Es wird eine Textnachricht gesendet, um Ihre SIM Karte zu aktivieren. Es können Kosten bei Ihrem Netzbetreiber entstehen. Wenn Sie die Funktion 'Gerät finden' einschalten, wird eine Aktivierungs SMS gesendet, sobald Sie die SIM Karte wechseln."</string>
   <string name="micloud_all_sub_1_sms_1_intl_sms">"2 Textnachrichten (national und international), um Ihre SIM Karte zu aktivieren. Es können Kosten bei Ihrem Netzbetreiber entstehen. Wenn Sie die Funktion 'Gerät finden' einschalten, wird eine Aktivierungs SMS gesendet, sobald Sie die SIM Karte wechseln."</string>
@@ -330,6 +338,7 @@ Berühre den Einstellungsknopf, um mehr Optionen zu sehen"</string>
   <string name="micloud_sync_alert_dialog_negative">Abbrechen</string>
   <string name="micloud_sync_alert_dialog_positive">OK</string>
   <string name="micloud_sync_alert_dialog_title">Mi Cloud verwenden</string>
+  <string name="micloud_sync_off">Sync mit Mi Cloud ist deaktiviert</string>
   <string name="micloud_title_dspt" formatted="false">"%s Gesamt
 %s benutzt | %s verbleibend"</string>
   <string name="micloud_title_dspt_remain">%s verbleibend</string>
@@ -371,10 +380,18 @@ Diese Funktion verschlüsselt und sendet ihre Geräte-ID zum Mi-Server."</string
   <string name="mx_sub_dspt_provision">Mi Message</string>
   <string name="mx_sub_dspt_provision_with_voip">Internet-Telefonie</string>
   <string name="mx_voip_dspt">Mi Voice</string>
+    <string name="network_unconnected">Keine Netzwerkverbindung</string>
   <string name="next">Weiter</string>
   <string name="noRemind">"Erinnere mich nicht daran"</string>
   <string name="no_sim">Keine SIM-Karte gefunden</string>
+  <string name="one_sync_item_close">%d ist aus</string>
+  <string name="open_micloud_sync">Sync mit Mi Cloud aktivieren</string>
   <string name="other_settings">Andere Einstellungen</string>
+  <string name="other_sync_item">Andere Inhalte zur Synchronisation</string>
+  <string name="passed_synced_time_day">Vor %dd Tagen synchronisiert</string>
+  <string name="passed_synced_time_hour">Vor %1$dh %2$dm synchronisiert</string>
+  <string name="passed_synced_time_min">Vor %d Min synchronisiert</string>
+  <string name="passed_synced_time_sec">Vor %d Sek synchronisiert</string>
   <string name="password">Passwort eingeben</string>
   <string name="phone_number_may_required_dspt_provision">"Dieser Service benötigt Ihre Telefonnummer. "</string>
   <string name="phone_number_required_dspt_provision">"Dieser Service benötigt Ihre Telefonnummer. "</string>
@@ -385,6 +402,7 @@ Diese Funktion verschlüsselt und sendet ihre Geräte-ID zum Mi-Server."</string
   <string name="pref_title_sync_display_photo_on_wifi_only">Nur WLAN benutzen, um Fotos zu synchronisieren</string>
   <string name="pref_title_sync_video_on_wifi_only">Nur WLAN benutzen, um Videos zu synchronisieren</string>
   <string name="privacy_policy">Datenschutzrichtlinie</string>
+  <string name="recommend_open_all_sync">Alle Inhalte synchronisieren</string>
   <string name="remind_later">Nicht jetzt</string>
   <string name="restoreSync">Synchronisiere jetzt</string>
   <string name="search_cloudbackup_pref">Cloudsicherung</string>
@@ -403,6 +421,7 @@ Diese Funktion verschlüsselt und sendet ihre Geräte-ID zum Mi-Server."</string
   <string name="share_success">Geteilt</string>
   <string name="share_weibo_not_installed">Weibo ist nicht installiert.</string>
   <string name="share_weixin_not_installed">WeChat ist nicht installiert.</string>
+  <string name="short_cut_desc">Mi Cloud zum Startbildschirm hinzufügen?</string>
   <string name="sina_share_fail">Senden fehlgeschlagen</string>
   <string name="sina_share_fail_content_repeat">"Konnte nicht teilen, Inhalt existiert bereits…"</string>
   <string name="sina_share_pendding">Sende…</string>
@@ -410,6 +429,7 @@ Diese Funktion verschlüsselt und sendet ihre Geräte-ID zum Mi-Server."</string
   <string name="sina_token_expired_warning">Weibo Konto ist abgelaufen: Bitte erneut binden</string>
   <string name="sina_token_invalid_warning">Weibo Konto ist ungültig: Bitte erneut binden</string>
   <string name="sms">Nachrichten</string>
+  <string name="some_sync_item_close">%d sind deaktiviert</string>
   <string name="soundrecorder_sync_only_in_wifi">Nur WLAN zum Synchronisieren verwenden</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">Rekorder wird nicht die mobile Datenverbindung verwenden, um Aufnahmen hochzuladen</string>
   <string name="soundrecorder_sync_records">Mit Mi Cloud synchronisieren</string>
@@ -440,6 +460,7 @@ Diese Funktion verschlüsselt und sendet ihre Geräte-ID zum Mi-Server."</string
   <string name="sync_item_calllog_title">Synchronisiere Anruferliste</string>
   <string name="sync_item_sms_summary">Synchronisiere SMS, die von diesem Telefon gesendet und empfangen wurden</string>
   <string name="sync_item_sms_title">Synchronisiere Nachrichten</string>
+  <string name="sync_item_title">Zu synchronisierende Inhalte</string>
   <string name="sync_off">Aus</string>
   <string name="sync_on">An</string>
   <string name="sync_resend_sms_dspt_provision">" Wenn Sie Ihre SIM-Karte wechseln, kann Ihr Anbieter Kosten für eine gesendete SMS berechnen, welche benötigt wird, um diesen Service wieder zu aktivieren."</string>
@@ -469,6 +490,7 @@ Diese Funktion verschlüsselt und sendet ihre Geräte-ID zum Mi-Server."</string
   <string name="vcode">Bestätigungs-Code</string>
   <string name="verify">Bestätige</string>
   <string name="view_storage_title">Speicherplatz</string>
+  <string name="virtual_sim_desc">Aktivieren Sie Mi SIM, um Ihr Gerät auch ohne SIM-Karte zu finden</string>
   <string name="voip_choose_sim">Wähle eine Telefonnummer, um Mi Voice zu aktivieren</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="xiaomi_account_type">com.xiaomi</string>
