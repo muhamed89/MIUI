@@ -33,6 +33,8 @@
   <string name="all">Alle</string>
   <string name="all_ep">All ep</string>
   <string name="all_episode">Alle Episoden</string>
+  <string name="app_charging_wifi_mode">Laden, um die App zu aktualisieren</string>
+  <string name="app_charging_wifi_mode_summary">App wird automatisch aktualisiert wenn das Gerät geladen wird und mit einem WLAN verbunden ist</string>
   <string name="app_latest_version">Keine Updates verfügbar</string>
   <string name="app_name">Video</string>
   <string name="app_plugin_ready">%1$s installiert</string>
@@ -172,6 +174,7 @@
   <string name="gong_count_xiang">%d Elemente</string>
   <string name="good">OK</string>
   <string name="hint_apk_download">Installieren Sie diese Anwendung</string>
+  <string name="hint_apk_download_format"> \"%1$s\" installieren</string>
   <string name="hint_apk_install">Diese App installieren</string>
   <string name="hint_apk_text_update">Installieren Sie jezt das Update (%1$s) ?</string>
   <string name="hint_apk_title_update">Update verfügbar (%1$s)</string>
@@ -271,6 +274,8 @@
   <string name="original_price">Originalpreis</string>
   <string name="other_info">Andere</string>
   <string name="other_setting">Weitere Einstellungen</string>
+  <string name="path_develop_settings">Systemanwendungen/Video/Entwicklereinstellungen</string>
+  <string name="path_settings">Systemanwendungen/Video/Einstellungen</string>
   <string name="pause">Pause</string>
   <string name="pay_record">Zahlungsverlauf</string>
   <string name="percent_status">%.0f%%</string>
@@ -491,6 +496,7 @@
   <string name="vp_select_ep">Episode auswählen</string>
   <string name="vp_select_function">Funktion auswählen</string>
   <string name="vp_select_source">Quelle auswählen</string>
+  <string name="vp_select_tv">Kanäle</string>
   <string name="vp_select_video_definition">Definition auswählen</string>
   <string name="vp_select_video_source">Quelle auswählen</string>
   <string name="vp_skip">Intro und Abspann überspringen</string>
