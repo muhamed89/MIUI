@@ -143,6 +143,7 @@
   <string name="dislike_video">Ich bin nicht interessiert</string>
   <string name="dlg_error_unmount_text">USB-Speicher konnte nicht getrennt werden</string>
   <string name="download">Download</string>
+  <string name="download_fail">Download fehlgeschlagen</string>
   <string name="download_failed">Download fehlgeschlagen</string>
   <string name="downloaded_sticker_str">Downloaded</string>
   <string name="downloading">Wird geladen</string>
@@ -365,6 +366,7 @@
   <string name="other_user_fans_tab">Fans</string>
   <string name="other_user_follow_tab">Personen denen ich folge</string>
   <string name="other_user_liked_topic_tip">Sie folgen aktuell keinen Themen</string>
+  <string name="other_user_liked_video_tab">Favoriten</string>
   <string name="other_user_liked_video_title">Videos die ich mag</string>
   <string name="other_user_no_follow_tip">Sie folgen bisher niemandem</string>
   <string name="other_user_no_liked_video_tip">Keine Videos die ich mag</string>
@@ -439,13 +441,15 @@
   <string name="request_timeout">Netzwerktimeout</string>
   <string name="reset_password">Passwort ändern</string>
   <string name="restoring">Wiederherstellen…</string>
+  <string name="rlv_closing">Wird geschlossen…</string>
   <string name="rlv_last_loading_time">Zuletzt aktualisiert: %1$s</string>
   <string name="rlv_last_refreshing_time">Zuletzt gesucht: %1$s</string>
   <string name="rlv_loading_more">Einen Moment…</string>
   <string name="rlv_pull_to_close">Zum Schließen nach unten ziehen</string>
   <string name="rlv_pull_to_refresh">Ziehen zum aktualisieren</string>
-  <string name="rlv_refreshing">Aktualisieren…</string>
-  <string name="rlv_release_to_refresh">Loslassen zum aktualisieren</string>
+  <string name="rlv_refreshing">Wird aktualisiert…</string>
+  <string name="rlv_release_to_close">Zum Schließen loslassen</string>
+  <string name="rlv_release_to_refresh">Zum Aktualisieren loslassen</string>
   <string name="save_to_local">Download</string>
   <string name="search_app">Quelle</string>
   <string name="search_app_more">Mehr</string>
@@ -503,6 +507,7 @@
   <string name="storage_cloned_app">Speicher für geklonte Apps</string>
   <string name="storage_info_detail">Verfügbar: %1$s Gesamt: %1$s</string>
   <string name="storage_internal">Interner Speicher</string>
+  <string name="storage_sd_card">SD-Karte</string>
   <string name="storage_sd_card_description">SD-Karte</string>
   <string name="storage_usb">USB-Speicher</string>
   <string name="storage_warning">Externer Speicher nicht verfügbar.</string>
@@ -566,6 +571,7 @@
   <string name="upload_notification_title">Video wird hochgeladen</string>
   <string name="upload_user_photo">Hochladen</string>
   <string name="upload_video">Video teilen</string>
+  <string name="upload_video_forbidden">Laden Sie nicht das gleiche Video hoch</string>
   <string name="uploading_video">Video wird hochgeladen…</string>
   <string name="usb_label">USB</string>
   <string name="used">"Belegt: "</string>

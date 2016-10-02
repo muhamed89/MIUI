@@ -288,4 +288,12 @@
         <item quantity="other">Sie können %d Zeichen eingeben</item>
         <item quantity="one">Sie können %d Zeichen eingeben</item>
     </plurals>
+    <plurals name="follower_num">
+        <item quantity="other">Abonnenten</item>
+        <item quantity="zero">Abonnenten</item>
+        <item quantity="one">Abonnent</item>
+        <item quantity="two">Abonnenten</item>
+        <item quantity="few">Abonnenten</item>
+        <item quantity="many">Abonnenten</item>
+    </plurals>
 </resources>

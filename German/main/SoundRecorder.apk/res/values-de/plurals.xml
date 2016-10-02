@@ -4,4 +4,12 @@
         <item quantity="other">%d Aufnahmen heruntergeladen</item>
         <item quantity="one">%d Aufnahme heruntergeladen</item>
     </plurals>
+    <plurals name="local_records_count">
+       <item quantity="other">%d Einträge</item>
+       <item quantity="one">%d Eintrag</item>
+    </plurals>
+    <plurals name="unsynced_records_count">
+       <item quantity="other">%d nicht synchronisiert</item>
+       <item quantity="one">%d nicht synchronisiert</item>
+    </plurals>
 </resources>
