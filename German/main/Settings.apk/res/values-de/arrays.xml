@@ -168,11 +168,6 @@
         <item>IPv6</item>
         <item>IPv4/IPv6</item>
     </string-array>
-    <string-array name="apn_protocol_values">
-        <item>IP</item>
-        <item>IPV6</item>
-        <item>IPV4V6</item>
-    </string-array>
     <string-array name="bearer_entries">
         <item>Keine Angabe</item>
         <item>LTE</item>

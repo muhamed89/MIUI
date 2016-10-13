@@ -309,9 +309,6 @@
   <string name="date_message_received">%1$s %2$s</string>
   <string name="date_message_received_today">Heute, %1$s</string>
   <string name="default_">STANDARD</string>
-  <string name="default_exchange">EXCHANGE</string>
-  <string name="default_imap">IMAP</string>
-  <string name="default_pop3">POP3</string>
   <string name="default_setup">STANDARD</string>
   <string name="default_signature">Gesendet von meinem Mi Telefon</string>
   <string name="del_account_questionnair_hint">"Könnten Sie uns sagen, warum Sie dieses Konto entfernen möchten?"</string>
@@ -842,7 +839,6 @@
   <string name="ser_resp_err_map_serclosed">%s Server ist geschlossen</string>
   <string name="ser_resp_err_map_ssl">"Wählen Sie in 'Sicherheitstyp' 'SSL/TLS (Alle Zertifikate akzeptieren)'"</string>
   <string name="set_network">Netzwerk konfigurieren</string>
-  <string name="setting_default_lable"/>
   <string name="settings_activity_title">Einstellungen</string>
   <string name="share_choose">Zu teilende Datei auswählen</string>
   <string name="sharing">Teilen</string>

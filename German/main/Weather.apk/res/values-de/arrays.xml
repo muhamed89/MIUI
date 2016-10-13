@@ -27,14 +27,6 @@
         <item>AQI %1$s</item>
         <item>AQI %1$s</item>
     </string-array>
-    <string-array name="aqi_value">
-        <item>Gut</item>
-        <item>Befriedigend</item>
-        <item>Mäßig belastet</item>
-        <item>Schlecht</item>
-        <item>Sehr schlecht</item>
-        <item>Stark belastet</item>
-    </string-array>
     <string-array name="hot_city">
         <item>Peking</item>
         <item>Shanghai</item>

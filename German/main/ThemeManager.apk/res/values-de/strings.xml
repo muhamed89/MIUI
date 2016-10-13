@@ -382,7 +382,6 @@
   <string name="theme_precast_create_notification_title">Auf MIUI 7 updaten</string>
   <string name="theme_precast_update_notification_content">Antippen um die Updates zu durchstöbern</string>
   <string name="theme_precast_update_notification_title">MIUI 7 Themen aktualisiert</string>
-  <string name="theme_provision_default_theme_title">Standard</string>
   <string name="theme_provision_loading_tips">Einen Moment bitte…</string>
   <string name="theme_provision_oper_button_next">Weiter</string>
   <string name="theme_provision_title">Ein Thema wählen</string>
@@ -410,7 +409,6 @@
   <string name="title_system_wallpaper_resource">Systemhintergründe</string>
   <string name="title_system_resource">Lokal</string>
   <string name="to_activate_the_account">Mi Konto jetzt aktivieren</string>
-  <string name="vip_level_value">LV %d</string>
   <string name="wallpaper_crop">Zuschneiden</string>
   <string name="wallpaper_decoded_error">Laden fehlgeschlagen</string>
   <string name="wallpaper_loading_text">Wird geladen…</string>

@@ -21,7 +21,6 @@
   <string name="connected_peripheral">Mit %1$s verbunden</string>
   <string name="connecting_peripheral">Verbindung zu %1$s wird hergestellt</string>
   <string name="could_not_use_app">"Fehler bei der Verwendung von %1$s "</string>
-  <string name="default_pay_app_removed">Der von Ihnen bevorzugte Dienst für das mobile Bezahlen wurde entfernt. Möchten Sie einen anderen auswählen?</string>
   <string name="device">Gerät</string>
   <string name="disconnected_peripheral">Verbindung zu %1$s ist getrennt</string>
   <string name="disconnecting_peripheral">Verbindung zu %1$s wird getrennt</string>

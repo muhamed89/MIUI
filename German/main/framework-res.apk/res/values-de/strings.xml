@@ -173,7 +173,6 @@ Der Energiesparmodus endet automatisch, wenn Ihr Gerät aufgeladen wird."</strin
   <string name="clearDefaultHintMsg">Das Löschen der Standardeinstellungen ist in den Systemeinstellungen unter \"Apps &gt; Heruntergeladen\" möglich.</string>
   <string name="common_name">Allgemeiner Name:</string>
   <string name="condition_provider_service_binding_label">Bedingungsprovider</string>
-  <string name="config_defaultNetworkScorerPackageName"/>
   <string name="config_mobile_hotspot_provision_app_no_ui"/>
   <string name="config_mobile_hotspot_provision_response"/>
   <string name="config_persistentDataPackageName"/>
@@ -235,7 +234,6 @@ mit %s erstellen"</string>
   <string name="default_audio_route_name_dock_speakers">Docklautsprecher</string>
   <string name="default_audio_route_name_headphones">Kopfhörer</string>
   <string name="default_media_route_name_hdmi">HDMI</string>
-  <string name="default_sms_application">com.android.mms</string>
   <string name="delete">Löschen</string>
   <string name="deleteText">Löschen</string>
   <string name="deleted_key">%1$s gelöscht</string>

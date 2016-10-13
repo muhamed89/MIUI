@@ -234,7 +234,6 @@ Verschicken fortsetzen?"</string>
   <string name="dialog_printing_hide">Ausblenden</string>
   <string name="dialog_printing_ok">OK</string>
   <string name="dialog_title_bpp_not_ready">Dienst nicht verfügbar</string>
-  <string name="get_default_value">Standardwert erhalten</string>
   <string name="number_of_copies">Anzahl der Kopien festlegen</string>
   <string name="orientation">Orientierung</string>
   <string name="pages_per_sheet">Seiten pro Blatt</string>

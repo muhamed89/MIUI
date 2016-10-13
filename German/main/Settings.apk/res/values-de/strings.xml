@@ -4871,8 +4871,6 @@ Jeder Nutzer kann aktualisierte Appberechtigungen im Namen aller anderen Nutzer 
     <string name="wait_for_debugger_summary">App wartet vor der Ausführung auf den Start des Debuggers</string>
     <string name="wakeup_for_keyguard_notification_title">Bei Benachrichtigungen Bildschirmbeleuchtung einschalten</string>
     <string name="wallpaper_attributions">Wallpapers</string>
-    <string name="wallpaper_attributions_values">"Satellitenbildanbieter:
-©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
     <string name="wallpaper_desktop">Desktop</string>
     <string name="wallpaper_live">Livehintergrund</string>
     <string name="wallpaper_lockscreen">Sperrbildschirm</string>
