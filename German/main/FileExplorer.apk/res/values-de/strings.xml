@@ -408,6 +408,8 @@
   <string name="phone_valid_code_tip">Der Code wurde zu oft eingegeben. Versuchen Sie, einen neuen zu erhalten</string>
   <string name="pick_file">Dateien auswählen</string>
   <string name="pick_folder">Ordner auswählen</string>
+  <string name="popup_msg_qq">Dieses Video mit Ihren Freunden über QQ teilen.</string>
+  <string name="popup_msg_wx">Dieses Video mit Ihren Freunden über WeChat teilen.</string>
   <string name="port_range">Port muss zwischen 1024-65535 sein</string>
   <string name="private_files">Privat</string>
   <string name="private_folder">Privatordner</string>
@@ -491,6 +493,10 @@
   <string name="setting_message_notify">Benachrichtigungen</string>
   <string name="share_title_1">Ich habe ein cooles Stickerpaket gefunden!</string>
   <string name="share_to">Teilen mit…</string>
+  <string name="share_youliao1">Upgraden, um mehr Episoden zu sehen.</string>
+  <string name="share_youliao2">Upgraden, um mehr Episoden zu sehen.</string>
+  <string name="share_youliao3">Upgraden, um mehr Episoden zu sehen.</string>
+  <string name="share_youliao4">Upgraden, um mehr Episoden zu sehen.</string>
   <string name="shared_sticker_network_permission_tip">Netzwerkverbindung fehlgeschlagen. Überprüfen Sie Ihre Netzwerkverbindung und versuchen Sie es erneut.</string>
   <string name="shared_sticker_page_no_file">Netzwerkverbindung fehlgeschlagen. Überprüfen Sie Ihre Netzwerkverbindung und versuchen Sie es erneut.</string>
   <string name="shared_sticker_str">Kürzlich geteilt</string>
@@ -550,6 +556,7 @@
   <string name="unlogin">Erst anmelden</string>
   <string name="unmount_inform_text">USB-Speicher trennen?</string>
   <string name="unreviewed_video_cannot_share">Videos sollten vor dem Teilen geprüft werden</string>
+  <string name="update">Aktualisieren</string>
   <string name="update_failed">Speichern fehlgeshclagen, versuchen Sie es noch einmal</string>
   <string name="update_loading">Wird gespeichert…</string>
   <string name="upload_avatar_camera">Kamera</string>
@@ -570,7 +577,16 @@
   <string name="upload_notification_title">Video wird hochgeladen</string>
   <string name="upload_user_photo">Hochladen</string>
   <string name="upload_video">Video teilen</string>
-  <string name="upload_video_forbidden">Laden Sie nicht das gleiche Video hoch</string>
+  <string name="upload_video_dialog_message">"Nach Überprüfung wird Ihr Video unter den beliebten angezeigt."</string>
+  <string name="upload_video_dialog_title">Video erfolgreich geteilt</string>
+  <string name="upload_video_failed">"Teilen fehlgeschlagen, nochmals versuchen."</string>
+  <string name="upload_video_failed_external_progress">Hochladen fehlgeschlagen, versuchen Sie ein anderes</string>
+  <string name="upload_video_failed_progress">Hochladen fehlgeschlagen, nochmals versuchen</string>
+  <string name="upload_video_forbidden">Hochladen des gleichen Videos nicht möglich</string>
+  <string name="upload_video_success">Video wurde geteilt, wird nun überprüft…</string>
+  <string name="upload_video_success_progress">Erfolgreich hochgeladen</string>
+  <string name="upload_video_tip">Es kann immer nur ein Video auf einmal geteilt werden</string>
+  <string name="uploading">Wird hochgeladen…</string>
   <string name="uploading_video">Video wird hochgeladen…</string>
   <string name="usb_label">USB</string>
   <string name="used">"Belegt: "</string>
@@ -635,6 +651,10 @@
   <string name="video_parsing_btn">Wird geparst…</string>
   <string name="video_play_failed">Unbekannter Fehler</string>
   <string name="video_publish_hint">Eine aussagekräftige Beschreibung hilft anderen, Ihr Video zu finden</string>
+  <string name="video_publish_hint2">Beschreibung</string>
+  <string name="video_recommend_upload">Empfohlen</string>
+  <string name="video_releasing">Wird hochgeladen…</string>
+  <string name="video_replay">Nochmal abspielen</string>
   <string name="video_status_reject">Abgelehnt</string>
   <string name="video_status_review">Wird geprüft</string>
   <string name="video_tag">\#%s#</string>
@@ -650,6 +670,9 @@
   <string name="video_upload_retry_message">Upload fehlgeschlagen, erneut versuchen?</string>
   <string name="video_upload_retry_title">Erneut versuchen</string>
   <string name="video_upload_title">Video auswählen</string>
+  <string name="video_upload_wechat_hint">WeChat Videos hochladen, um mehr Fans bekommen.</string>
+  <string name="video_uploaded">Hochgeladen</string>
+  <string name="videos">Videos</string>
   <string name="view_more_sticker">Weitere Sticker anzeigen</string>
   <string name="wechat_btn_str">WeChat</string>
   <string name="wechat_platform">WeChat</string>
@@ -666,5 +689,13 @@
   <string name="year_month_day_format">dd. MMM yyyy</string>
   <string name="yes">Ja</string>
   <string name="yesterday">Gestern</string>
+  <string name="youliao_ad_msg">Zur vollen App-Version aktualisiert, viel Spaß damit!
+Mit 170 Millionen Mi Fans zuschauen.</string>
+  <string name="youliao_ad_title">Hot Video wurde zur vollen Version aktualisiert!</string>
+  <string name="youliao_ad_update">Aktualisieren</string>
+  <string name="youliao_dialog_msg">Hot Video wurde zur &quot;Youliao&quot; aktualisiert, 
+Zur vollen App-Version aktualisiert, mehr sehen.</string>
+  <string name="youliao_dialog_title">Keine interesante Videos?</string>
+  <string name="zero">0</string>
   <string name="zero_comment">Keine Kommentare</string>
 </resources>
