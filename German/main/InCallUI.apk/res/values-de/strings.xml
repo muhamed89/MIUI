@@ -82,7 +82,7 @@
   <string name="contactPhoto">Kontaktfoto</string>
   <string name="contacts_icon_label">Kontakte</string>
   <string name="default_area_code_setting">Standardländervorwahl</string>
-  <string name="description_image_button_answer">Zum Antworten wischen</string>
+  <string name="description_image_button_answer">Zum Antworten wischen</string>      
   <string name="description_image_button_dialpad">Tastenfeld</string>
   <string name="description_image_button_eight">Acht</string>
   <string name="description_image_button_five">Fünf</string>
@@ -100,6 +100,7 @@
   <string name="description_image_button_three">Drei</string>
   <string name="description_image_button_tools">Optionen</string>
   <string name="description_image_button_two">Zwei</string>
+  <string name="description_image_button_video_answer">Videoanruf</string>
   <string name="description_image_button_zero">Null</string>
   <string name="description_target_answer">Antworten</string>
   <string name="dialog_activate_livetalk">Verify number</string>

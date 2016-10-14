@@ -132,6 +132,8 @@
   <string name="tomorrow">Morgen</string>
   <string name="turn_off_a_repeat_alarm">Wiederkehrenden Wecker ausschalten</string>
   <string name="turn_off_this_repeat_alarm">Diesen wiederkehrenden Wecker ausschalten</string>
+  <string name="upcoming_alarm">Bevorstehender Wecker</string>
+  <string name="upcoming_alarm_hint">Sie können diesen Wecker im Voraus beenden</string>
   <string name="vibrate_pref_summary">Bei Alarm vibrieren</string>
   <string name="vibrate_when_ringing">Vibrieren beim Klingeln</string>
   <string name="volume_button_dialog_title">Tastenfunktion</string>

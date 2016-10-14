@@ -39,6 +39,8 @@
   <string name="attach_take_photo">Bild aufnehmen</string>
   <string name="attach_video">Video</string>
   <string name="audio_download_failed">Audio konnte nicht heruntergeladen werden</string>
+  <string name="audio_message_expired">Diese Sprachnachricht ist abgelaufen</string>
+  <string name="audio_message_mx_offline">Sprachnachricht konnte nicht geladen werden. Mi Message ist offline oder nicht verfügbar.</string>
   <string name="audio_playing_seconds">%d\"</string>
   <string name="back_to_message_list">Zurück zur Nachrichtenliste</string>
   <string name="batch_adding_progress_message">Wird hinzugefügt…</string>
