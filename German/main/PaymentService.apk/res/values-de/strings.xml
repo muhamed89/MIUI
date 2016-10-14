@@ -123,7 +123,6 @@ Please contact Xiaomi customer service."</string>
   <string name="mibi_giftcard_push_notification_sub_title">%1$s: %2$s Mi Credit giveaway.</string>
   <string name="mibi_giftcard_record">My gift cards</string>
   <string name="mibi_giftcard_title">Mi Credit Gift Card</string>
-  <string name="mibi_giftcard_value">%1$s-Mi Credit gift card</string>
   <string name="mibi_illegal_intent">Illegal intent request</string>
   <string name="mibi_img_captcha_hint">Enter image captcha</string>
   <string name="mibi_label_balance">Balance</string>
@@ -219,7 +218,6 @@ Please contact Xiaomi customer service."</string>
   <string name="mibi_prepaid_picker_hint_2_1">2.</string>
   <string name="mibi_prepaid_picker_hint_2_2_a">"Selected nominal value must be consistent with that of the prepaid card. Choosing another value will void the card. This action can't be undone."</string>
   <string name="mibi_prepaid_picker_hint_2_2_b">If the nominal value of the prepaid card is not &lt;font color=red&gt;￥%1$s&lt;/font&gt;, the card will be void. Xiaomi is not responsible for any monetary loss that occurs as a result of user error.</string>
-  <string name="mibi_prepaid_picker_title_default">Select amount</string>
   <string name="mibi_prepaid_picker_title_selected">amount</string>
   <string name="mibi_process_expired">"Where'd you go? This operation has timed out."</string>
   <string name="mibi_progress_creating">Retrieving order info…</string>
@@ -273,10 +271,6 @@ Customer service center：400-100-5678"</string>
   <string name="mibi_recharge_push_notification_prime_title">%1$d added %2$s Mi Credits to your account</string>
   <string name="mibi_recharge_push_notification_sub_title">Top-up complete.</string>
   <string name="mibi_recharge_tenpay_title">Tenpay</string>
-  <string name="mibi_recharge_value_money">Purchase RMB %s worth of Mi Credits</string>
-  <string name="mibi_recharge_value_money_special_unit">Purchase %1$s %2$s worth of Mi Credits</string>
-  <string name="mibi_recharge_value_money_with_tip">"Purchase RMB %s worth of Mi Credits &lt;font color=red&gt;(Can't spend Mi Credits at Mi.com)&lt;/font&gt;"</string>
-  <string name="mibi_recharge_value_money_with_tip_special_unit">"Purchase %1$s %2$s worth of Mi Credits &lt;font color=red&gt;(Can't spend Mi Credits at Mi.com)&lt;/font&gt;"</string>
   <string name="mibi_recharge_voucher_title">Mi Credit card</string>
   <string name="mibi_scan_prompt_number">Scan %1$s prepaid card number</string>
   <string name="mibi_scan_prompt_password">Scan %1$s prepaid card password</string>
@@ -307,7 +301,6 @@ Customer service center：400-100-5678"</string>
   <string name="mibi_title_sms_code">Please enter the mobile phone verification code</string>
   <string name="mibi_title_visible_pattern">Make pattern visible</string>
   <string name="mibi_unit">Mi Credit</string>
-  <string name="mibi_unit_value">%1$s Mi Credit</string>
   <string name="mibi_voucher_card_text">Please scratch off the coat</string>
   <string name="mibi_voucher_error_password">Code invalid.</string>
   <string name="mibi_voucher_input_password_prompt">Enter code</string>

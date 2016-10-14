@@ -48,7 +48,6 @@
   <string name="invalid_json">Irgendwas lief da schief</string>
   <string name="level">Level</string>
   <string name="level_detail">Tägliche Herausforderungsgrenze: %d</string>
-  <string name="level_exp_value" formatted="false">Punkte: %d/%d</string>
   <string name="level_info_format" formatted="false">"Level %d %d/%d
 %s"</string>
   <string name="limit_task">Limitierte Herausforderungen</string>

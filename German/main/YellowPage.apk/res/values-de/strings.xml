@@ -260,7 +260,6 @@ Bitte überprüfen Sie Ihre Paketnummer."</string>
   <string name="more_coupons">Alle Gutscheine</string>
   <string name="navigation_search_all_cities">Alle Städte</string>
   <string name="navigation_search_automatically_positioned_city">Aktuelle Stadt</string>
-  <string name="navigation_search_default_hint">Suchstandorte</string>
   <string name="navigation_search_hot_cities">Beliebt</string>
   <string name="navigation_search_no_city_list">"Nichts gefunden"</string>
   <string name="navigation_search_positioning">Standortsuche</string>
@@ -313,7 +312,6 @@ Bitte überprüfen Sie Ihre Paketnummer."</string>
   <string name="quick_yellow_page_tab_phones">Telefon</string>
   <string name="recharge_actual_price">Preis:</string>
   <string name="recharge_charge_range">Preis: RMB %1$s-%2$s</string>
-  <string name="recharge_charge_value">Preis: RMB %s</string>
   <string name="recharge_follow_name">Aufladen</string>
   <string name="recharge_history">Aufladeverlauf</string>
   <string name="recharge_history_empty">Leer</string>

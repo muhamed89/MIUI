@@ -10,8 +10,6 @@
   <string name="contact_your_admin_for_more_info">"Kontaktieren Sie ihren Admin für weitere Infos wie beispielsweise die Privatsphärenpolicy von ihrem Unternehmen."</string>
   <string name="continue_provisioning_notify_text">Antippen um ihr Arbeitsprofil weiter einzurichten</string>
   <string name="continue_provisioning_notify_title">Vollständig verschlüsselt</string>
-  <string name="default_managed_profile_name">Arbeitsprofil</string>
-  <string name="default_owned_device_username">Benutzer des Arbeitsgeräts</string>
   <string name="delete_profile">Entfernen</string>
   <string name="device_owner_cancel_cancel">Abbrechen</string>
   <string name="device_owner_cancel_message">"Sie sind sicher, dass sie die Einrichtung abbrechen wollen und die Daten von ihrem Gerät gelöscht werden?"</string>

@@ -42,7 +42,6 @@
   <string name="def_sms_received_sound">/system/media/audio/notifications/MessageIncoming.ogg</string>
   <string name="def_sms_received_sound_slot_1">/system/media/audio/notifications/MessageIncoming.ogg</string>
   <string name="def_sms_received_sound_slot_2">/system/media/audio/notifications/MessageIncoming.ogg</string>
-  <string name="default_name">Standard</string>
   <string name="delete_frequent_phrases">Häufig verwendete Sätze löschen</string>
   <string name="delete_frequent_phrases_confirm">Ausgewählte Sätze löschen?</string>
   <string name="device_hongmi">Redmi</string>

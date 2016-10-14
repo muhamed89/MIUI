@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>    
-    <string-array name="clir_display_values">
-        <item>Netzstandard</item>
-        <item>Nummer ausblenden</item>
-        <item>Nummer anzeigen</item>
-    </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>TD-SCDMA, LTE, CDMA, EvDo GSM/WCDMA</item>
         <item>TD-SCDMA, GSM/WCDMA, CDMA und EvDo</item>
@@ -30,17 +25,6 @@
         <item>Nur GSM</item>
         <item>Bevorzugt WCDMA </item>
     </string-array>    
-    <string-array name="call_barring_outgoing_display_values">
-        <item>Aus</item>
-        <item>Sperren von Roaminggesprächen</item>
-        <item>Sperren von Auslandsgesprächen</item>
-        <item>Sperren von ausgehenden Anrufen</item>
-    </string-array>    
-    <string-array name="call_barring_incoming_display_values">
-        <item>Aus</item>
-        <item>Roaming</item>
-        <item>Alle</item>
-    </string-array>    
     <string-array name="list_language_entries">
         <item>Englisch</item>
         <item>Französisch</item>
@@ -50,13 +34,4 @@
         <item>Chinesisch</item>
         <item>Hebräisch</item>
     </string-array>
-    <string-array name="list_language_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-    </string-array>              
 </resources>

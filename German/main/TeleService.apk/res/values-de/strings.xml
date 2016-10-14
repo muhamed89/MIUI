@@ -823,7 +823,6 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="msim_not_set_summary">Nicht eingerichtet</string>
   <string name="msim_pref_title_data">Internet</string>
   <string name="msim_pref_title_voice">Telefon und SMS</string>
-  <string name="msim_select_default_time_left">(%d s)</string>
   <string name="msim_set_icc_card_error">ICC-Kartenfehler</string>
   <string name="msim_set_sub_not_supported_phone_in_call">Kann während eines Anrufs nicht eingestellt werden</string>
   <string name="msim_set_sub_not_supported_slot_id_error">SIM-Kartenfehler. Bitte versuchen Sie es später erneut.</string>
@@ -1469,7 +1468,6 @@ Falls dieses Problem weiterhin besteht, setzen Sie sich mit Ihrem Mobilfunkanbie
   <string name="voicemail_default">Mein Mobilfunkanbieter</string>
   <string name="voicemail_notification_ringtone_title">Töne</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Vibrieren</string>
-  <string name="voicemail_notification_vibrate_when_default">nie</string>
   <string name="voicemail_notification_vibrate_when_title">Vibration</string>
   <string name="voicemail_number_not_set">Nicht festgelegt</string>
   <string name="voicemail_provider">Mailboxdienst</string>

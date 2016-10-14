@@ -311,14 +311,9 @@
   <string name="pref_camera_snap_entry_take_movie">Wenn das Display ausgeschaltet ist, drücken und halten Sie die Leiser-Taste, um die Aufnahme zu starten. Loslassen, um zu stoppen.</string>
   <string name="pref_camera_snap_entry_take_picture">Wenn das Display ausgeschaltet ist, drücken und halten Sie die Leiser-Taste, um die Serienaufnahme zu starten. Loslassen, um zu stoppen.</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Kann den Schnellfotomodus benützen solange der \"Wake with Volume buttons\" an ist."</string>
-  <string name="pref_camera_snap_value_off">Aus</string>
-  <string name="pref_camera_snap_value_take_movie">Film</string>
-  <string name="pref_camera_snap_value_take_picture">Foto</string>
   <string name="pref_camera_sound_title">Kameratöne</string>
   <string name="pref_camera_square_mode_title">Quadrat</string>
-  <string name="pref_camera_stereo_default">7</string>
   <string name="pref_camera_stereo_mode_title">Stereo</string>
-  <string name="pref_camera_tilt_shift_default">Kreis</string>
   <string name="pref_camera_tilt_shift_entry_circle">Kreis</string>
   <string name="pref_camera_tilt_shift_entry_parallel">Parallel</string>
   <string name="pref_camera_tilt_shift_title">Tiltshift</string>

@@ -151,7 +151,6 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="lock_screen_warning_category">Sperrbildschirmbenachrichtigungen</string>
   <string name="lock_screen_warning_switch_summary">Warnung im Sperrbildschirm anzeigen, wenn der Datenverbrauch einen bestimmten Wert überschreitet</string>
   <string name="lock_screen_warning_switch_title">Warnungen im Sperrbildschirm anzeigen</string>
-  <string name="lock_screen_warning_value">Datenverbrauchswarnung</string>
   <string name="main_alert_message_month_limit_error">Das eingestellte Datenlimit ist ungültig</string>
   <string name="main_alert_message_no_imsi">Keine SIM-Karte gefunden</string>
   <string name="main_alert_message_no_mobile_package">Datenlimit nicht eingerichtet</string>
@@ -298,7 +297,6 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="permit_running_network">Hintergrunddaten erlauben</string>
   <string name="person_hotpot">Mobile Hotspots</string>
   <string name="pkg_traffic">Datenlimit einstellen</string>
-  <string name="power_save_on_time_default_time">00:00</string>
   <string name="power_save_on_time_end_time_summary">bis</string>
   <string name="power_save_on_time_start_time_summary">von</string>
   <string name="pref_about">über</string>
@@ -375,7 +373,6 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="pref_traffic_saving_whitelist">Ausnahmen</string>
   <string name="pref_traffic_saving_whitelist_hint">Datenbeschränkung für eine bestimmte Gruppe von Apps aufheben</string>
   <string name="pref_version">Version %s</string>
-  <string name="pref_warning_values">Verbrauchswarnung ab</string>
   <string name="pref_whitelist_setting">Ausnahmen verwalten</string>
   <string name="privacy_declare_dialog_message">"Wenn Sie diesen Dienst nutzen, akzeptieren Sie Opera's &lt;a href=%s&gt; Geschäftsbedingungen&lt;/a&gt;."</string>
   <string name="privacy_declare_dialog_title">Geschäftsbedingungen</string>
@@ -385,9 +382,6 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="privacy_prompt_upload">Datenschutzbenachrichtigung</string>
   <string name="protocol_exception_title">Netzwerkprotokolldiagnose</string>
   <string name="protocol_loop_back_exception_summary">Loopbacktest fehlgeschlagen. Um den Fehler an MIUI zu melden, öffnen Sie die Fehlerberichtsapp und senden Sie den Bericht von Ihrem Gerät.</string>
-  <string name="reach_daily_limit_value_body">Verringern Sie Ihren mobilen Datenverbrauch.</string>
-  <string name="reach_daily_limit_value_body_open_traffic_saving">Tippen, um Datenreduzierung einzuschalten.</string>
-  <string name="reach_daily_limit_value_title">Tägliches Datenlimit erreicht</string>
   <string name="read_number">86 Artikel</string>
   <string name="read_unit">" Artikel"</string>
   <string name="renew_ip">Wiederholen</string>
@@ -432,7 +426,6 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="system_app">Systemapps</string>
   <string name="tc_sms_report_direction">SMS-Abfragecode</string>
   <string name="tc_sms_report_do_report">Senden</string>
-  <string name="tc_sms_report_get_default">"Ihnen werden für SMS-Nachrichten keine Gebühren in Rechnung gestellt, die benötigt werden, um Ihr Datennutzungsguthaben Ihres Mobilfunkanbieter zu erhalten."</string>
   <string name="tc_sms_report_get_sms">SMS erhalten</string>
   <string name="tc_sms_report_get_sms2">SMS erhalten</string>
   <string name="tc_sms_report_get_sms_again">SMS aktualisieren</string>
@@ -532,9 +525,6 @@ Der verbleibende Datenverbrauch beinhalten auch jenen Verbrauch, welcher in dem 
   <string name="traffic_saving_history_total_money">Gesamt gespart</string>
   <string name="traffic_saving_history_total_money_unit">RMB</string>
   <string name="traffic_saving_history_total_month">"Diesen Monat gespart: "</string>
-  <string name="traffic_saving_history_total_month_default">Durchschnittliche Ersparnis pro Monat</string>
-  <string name="traffic_saving_history_total_month_value">"&lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Lieder hören / Chatten für &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Stunden / &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Artikel lesen"</string>
-  <string name="traffic_saving_history_total_month_value_default">"&lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Lieder hören / Chatten für &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Stunden / &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Artikel lesen"</string>
   <string name="traffic_saving_history_total_rate">Tarif</string>
   <string name="traffic_saving_history_total_rate_unit">%</string>
   <string name="traffic_saving_history_total_traffic">Daten reduziert</string>

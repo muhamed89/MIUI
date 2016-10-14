@@ -25,7 +25,6 @@
   <string name="convertion_unit_weight">Gewichtsumrechnung</string>
   <string name="cos">cos</string>
   <string name="cosDesc">Kosinus</string>
-  <string name="cos_mathematical_value">cos</string>
   <string name="currency_update_time_format">Aktualisiert am %s</string>
   <string name="current_rate_remind_commercial"/>
   <string name="current_rate_remind_fund"/>
@@ -48,7 +47,6 @@
   <string name="dotDesc">Punkt</string>
   <string name="e">e</string>
   <string name="eDesc">"Eulersche Zahl"</string>
-  <string name="e_mathematical_value">e</string>
   <string name="enter">↓</string>
   <string name="equal">=</string>
   <string name="equalDesc">Ist gleich</string>
@@ -79,10 +77,8 @@
   <string name="leftParenDesc">Klammer auf</string>
   <string name="lg">log</string>
   <string name="lgDesc">Logarithmus</string>
-  <string name="lg_mathematical_value">lg</string>
   <string name="ln">ln</string>
   <string name="lnDesc">natürlicher Logarithmus</string>
-  <string name="ln_mathematical_value">ln</string>
   <string name="loan_edittext_hint_commercial">Gewerblicher Kredit</string>
   <string name="loan_edittext_hint_commercial_combined">Gewerbliche Kredite</string>
   <string name="loan_edittext_hint_fund">Vorsorgekredit</string>
@@ -142,12 +138,10 @@
   <string name="rightParenDesc">Klammer zu</string>
   <string name="sin">sin</string>
   <string name="sinDesc">Sinus</string>
-  <string name="sin_mathematical_value">sin</string>
   <string name="sqrt">√</string>
   <string name="sqrtDesc">Quadratwurzel</string>
   <string name="tan">tan</string>
   <string name="tanDesc">Tangens</string>
-  <string name="tan_mathematical_value">tan</string>
   <string name="tax_accumulation_fund">Anreicherungsfonds</string>
   <string name="tax_annual_bonus_hint">Bonus vor Steuern eingeben</string>
   <string name="tax_birth">Geburt</string>
@@ -181,21 +175,8 @@
   <string name="text_copied_toast">Text wurde kopiert.</string>
   <string name="title_bar">Längenumrechner</string>
   <string name="to_num">62.7</string>
-  <string name="unit_data_default_area_0">sq.m</string>
-  <string name="unit_data_default_area_1">sq.cm</string>
-  <string name="unit_data_default_currency_0">CNY</string>
-  <string name="unit_data_default_currency_1">USD</string>
-  <string name="unit_data_default_currency_2">EUR</string>
   <string name="unit_data_default_length_0">m</string>
   <string name="unit_data_default_length_1">cm</string>
-  <string name="unit_data_default_temperature_0">C</string>
-  <string name="unit_data_default_temperature_1">F</string>
-  <string name="unit_data_default_time_0">s</string>
-  <string name="unit_data_default_time_1">min</string>
-  <string name="unit_data_default_velocity_0">mps</string>
-  <string name="unit_data_default_velocity_1">kmps</string>
-  <string name="unit_data_default_volume_0">cu.m</string>
-  <string name="unit_data_default_volume_1">cu.cm</string>
   <string name="unit_data_default_weight_0">kg</string>
   <string name="unit_data_default_weight_1">g</string>
   <string name="unit_data_display_area_acre">Acre</string>

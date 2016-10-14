@@ -42,16 +42,6 @@
         <item>Drehen</item>
         <item>Würfel</item>
     </string-array>
-    <string-array name="transformation_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>5</item>
-        <item>7</item>
-        <item>8</item>
-        <item>4</item>
-    </string-array>
     <string-array name="wallpaper_scroll_entries">
         <item>Theme (Standard)</item>
         <item>Zentriert</item>
@@ -59,10 +49,6 @@
         <item>Rechts</item>
     </string-array>
     <string-array name="cell_layout_size_entries">
-        <item>4x4</item>
-        <item>4x5</item>
-    </string-array>
-    <string-array name="cell_layout_size_values">
         <item>4x4</item>
         <item>4x5</item>
     </string-array>
@@ -102,11 +88,5 @@
         <item>Widgets</item>
         <item>Hintergrund</item>
         <item>Effekte</item>
-    </string-array>
-    <string-array name="editing_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
     </string-array>
 </resources>

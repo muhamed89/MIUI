@@ -158,7 +158,6 @@
   <string name="color_picker_dialog_title">Wähle Farbe</string>
   <string name="color_picker_hue">Schattierung</string>
   <string name="color_picker_saturation">Sättigung</string>
-  <string name="color_picker_value">Wert</string>
   <string name="comment_app_menu">Kommentieren</string>
   <string name="comment_menu">Kommentieren</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
@@ -351,7 +350,6 @@ Diese Seite verlassen?"</string>
   <string name="js_dialog_before_unload_positive_button">Verlassen</string>
   <string name="js_dialog_before_unload_title">Navigation bestätigen</string>
   <string name="js_dialog_title">Die Seite \"%s\" meldet:</string>
-  <string name="js_dialog_title_default">JavaScript</string>
   <string name="js_disable_confirm_message">Deaktivieren von JavaScript führt möglicherweise dazu, dass einige Webseiten nicht korrekt angezeigt werden.</string>
   <string name="js_disable_confirm_title">JavaScript deaktivieren?</string>
   <string name="keep_queued_download">Behalten</string>

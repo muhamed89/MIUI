@@ -34,7 +34,6 @@
   <string name="avl_dialog_policy">Zeige Datenschutzbestimmungen</string>
   <string name="avl_dialog_title">"AVL-Datenschutzbestimmungen"</string>
   <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
-  <string name="default_sdcard_volume_path"/>
   <string name="hello_world">Hallo Welt!</string>
   <string name="menu_settings">Einstellungen</string>
   <string name="tencent_dialog_cloudscan">Online auf Viren überprüfen</string>

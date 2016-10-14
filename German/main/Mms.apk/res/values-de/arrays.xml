@@ -4,29 +4,6 @@
         <item>Synchronisieren Sie alle Nachrichten</item>
         <item>Synchronisierungsnachrichten von ausgewählten SIM-Karten</item>
      </string-array>
-    <string-array name="default_smiley_names">
-        <item>Glücklich</item>
-        <item>Traurig</item>
-        <item>Zwinkern</item>
-        <item>Zunge rausstrecken</item>
-        <item>Überrascht</item>
-        <item>Kuss</item>
-        <item>Schreien</item>
-        <item>Cool</item>
-        <item>Lass Taten sprechen</item>
-        <item>Fettnäpfchen</item>
-        <item>Peinlich berührt</item>
-        <item>Engel</item>
-        <item>Unentschlossen</item>
-        <item>Weinen</item>
-        <item>Versiegelte Lippen</item>
-        <item>Lachen</item>
-        <item>Verwirrt</item>
-        <item>Herz</item>
-        <item>Verrückt</item>
-        <item>Grinsen</item>
-        <item>Pokerface</item>
-    </string-array>
     <string-array name="prefEntries_ringtone_repeat">
         <item>1 Mal</item>
         <item>2 Mal</item>

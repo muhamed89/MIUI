@@ -154,7 +154,6 @@
   <string name="baby_album_new_photo_page_title">"%1$s's Album"</string>
   <string name="baby_album_new_photo_remind">Es gibt neue Fotos in Ihrem Kinderalbum</string>
   <string name="baby_album_no_share_user_tip">Zurzeit keine Follower</string>
-  <string name="baby_album_picker_default_title">"Wähle %1$s's Gesicht"</string>
   <string name="baby_album_setting_title">Baby info</string>
   <string name="baby_album_sharer_accept_dialog_msg">"%1$s's %2$s,
 %3$s's %4$s teilte %5$s's Alben mit Ihnen"</string>
@@ -953,9 +952,7 @@
   <string name="set_as_baby_lock_wallpaper">Als Sperrbildschirmhintergrund</string>
   <string name="set_as_wallpaper_description">Dies ist nur ein Vorschaubild, wollen Sie zuerst das Original herunterladen?</string>
   <string name="set_as_wallpaper_title">Als Hintergrundbild festlegen</string>
-  <string name="set_baby_icon_picker_default_title">Babysymbol einrichten</string>
   <string name="set_bg_file_exist_message">Dieses Element exisitiert bereits</string>
-  <string name="set_bg_picker_default_title">Vorschaufoto einrichten</string>
   <string name="set_bg_unknow_reasons">Unbekannter Fehler</string>
   <string name="set_face_group_toast_msg_new_user">Person lange antippen, Personen können zusammengeführt oder ignoriert werden.</string>
   <string name="set_face_group_toast_msg_old_user">Person lange antippen, Personen können in Familie, Freunde, Kollegen, etc. eingeteilt werden</string>

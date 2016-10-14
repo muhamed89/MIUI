@@ -174,10 +174,8 @@
   <string name="downloaded">Heruntergeladen</string>
   <string name="downloading">Herunterladen</string>
   <string name="downloading_wallpaper">Bildschirmhintergrund herunterladen</string>
-  <string name="drop_down_list_footer_default_text">mehr</string>
   <string name="drop_down_list_footer_loading_text">Wird geladen…</string>
   <string name="drop_down_list_footer_no_more_text">nicht mehr</string>
-  <string name="drop_down_list_header_default_text">Zum Aktualisieren antippen</string>
   <string name="drop_down_list_header_loading_text">Wird geladen…</string>
   <string name="drop_down_list_header_pull_text">Zum Aktualisieren nach unten ziehen</string>
   <string name="drop_down_list_header_release_text">Neue Version verfügbar</string>
@@ -237,7 +235,6 @@
   <string name="exist_calendar">Sie haben schon ein Abo</string>
   <string name="festival_detail_title">Festival</string>
   <string name="force_touch_title_add_new_event">Neuer Termin</string>
-  <string name="free_day_default_banner_title">Genießen Sie den freien Tag!</string>
   <string name="from_google_group_calendar">Google-Kalender</string>
   <string name="gadget_no_events">Keine anstehenden Termine</string>
   <string name="gadget_title">Kalender</string>
@@ -495,9 +492,6 @@
   <string name="str_hour_of_next">nächstes Mal %s</string>
   <string name="subscribe">Abonnieren</string>
   <string name="subscribe_all">Alle abonnieren</string>
-  <string name="subscribe_card_more_default_text">mehr</string>
-  <string name="subscribe_card_recommend_default_text">Empfohlene abonnieren</string>
-  <string name="subscribe_description_card_default_title">Profil</string>
   <string name="subscribe_description_card_more_cut">Zusammenklappen</string>
   <string name="subscribe_description_card_more_launch">Ausklappen</string>
   <string name="subscribe_detail_title">Abodetails</string>
@@ -581,7 +575,6 @@
   <string name="widget_events">Nächster Termin</string>
   <string name="widget_no_events">Keine Termine</string>
   <string name="widget_select_style">Stil auswählen</string>
-  <string name="work_day_default_banner_title">Geld wächst nicht auf Bäumen, Überstunden sind eine Lösung!</string>
   <string name="work_day_indication">: (</string>
   <string name="wuxing">Fünf</string>
   <string name="xiaomi_calendar_display_name">MiKalender</string>

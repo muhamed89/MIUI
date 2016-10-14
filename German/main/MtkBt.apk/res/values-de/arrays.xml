@@ -4,10 +4,6 @@
         <item>SIM1</item>
         <item>SIM2</item>
     </string-array>
-    <string-array name="bluetooth_map_server_sim_index_values">
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="bt_bpp_orientations">
         <item>Hoch</item>
         <item>Quer</item>
@@ -55,41 +51,21 @@
         <item>nur Lesen</item>
         <item>volle Kontrolle</item>
     </string-array>
-    <string-array name="bluetooth_ftp_server_permission_values">
-        <item>1000</item>
-        <item>1001</item>
-    </string-array>
     <string-array name="bt_prxm_link_loss_level_entries">
         <item>Kein Alarm</item>
         <item>Geringer Alarm</item>
         <item>Hohe Alarmbereitschaft</item>
-    </string-array>
-    <string-array name="bt_prxm_link_loss_level_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="bt_prxm_path_loss_level_entries">
         <item>Kein Alarm</item>
         <item>Geringer Alarm</item>
         <item>Hohe Alarmbereitschaft</item>
     </string-array>
-    <string-array name="bt_prxm_path_loss_level_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="bluetooth_simap_server_sim_index_entries">
         <item>SIM1</item>
         <item>SIM2</item>
         <item>SIM3</item>
         <item>SIM4</item>
-    </string-array>
-    <string-array name="bluetooth_simap_server_sim_index_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
     </string-array>
     <string-array name="config_tether_bluetooth_regexs">
         <item>bt-pan</item>
