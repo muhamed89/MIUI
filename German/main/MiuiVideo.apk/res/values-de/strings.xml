@@ -33,8 +33,9 @@
   <string name="all">Alle</string>
   <string name="all_ep">All ep</string>
   <string name="all_episode">Alle Episoden</string>
-  <string name="app_charging_wifi_mode">Laden, um die App zu aktualisieren</string>
-  <string name="app_charging_wifi_mode_summary">App wird automatisch aktualisiert wenn das Gerät geladen wird und mit einem WLAN verbunden ist</string>
+  <string name="already_buy_vip">VIP wurde bereits gekaupft</string>
+  <string name="app_charging_wifi_mode">Ladegerät anschließen, um die App zu aktualisieren</string>
+  <string name="app_charging_wifi_mode_summary">App wird automatisch aktualisiert wenn das Gerät aufgeladen wird und mit einem WLAN verbunden ist</string>
   <string name="app_latest_version">Keine Updates verfügbar</string>
   <string name="app_name">Video</string>
   <string name="app_plugin_ready">%1$s installiert</string>
@@ -122,6 +123,7 @@
   <string name="disk_volume">Wechselspeicher</string>
   <string name="dlna_list_name">DLNA-Gerät</string>
   <string name="dlna_name">Gerät teilen</string>
+    <string name="do_not_buy_vip">VIP nicht kaufen</string>
   <string name="douban_score">Score</string>
   <string name="download">Download</string>
   <string name="download_add_success">Download hinzugefügt</string>
@@ -130,7 +132,7 @@
   <string name="download_file_fail">Lokaler Dateizugriff fehlgeschlagen, möglicherweise nicht genügend Speicher auf der SD-Karte vorhanden</string>
   <string name="download_finished">Komplett</string>
   <string name="download_geturl_fail">URL konnte nicht angefordert werden</string>
-  <string name="download_insufficient_space">Insufficient space</string>
+    <string name="download_insufficient_space">Nicht genügend Speicherplatz</string>
   <string name="download_is_in_tasklist">in Warteschlange</string>
   <string name="download_paused">Pause</string>
   <string name="download_percent_hint">Herunterladen %d%%</string>
@@ -157,6 +159,7 @@
   <string name="error_empty_live_favor">Keine TV-Sender in der Sammlung</string>
   <string name="error_empty_title">Irgendetwas ging schief.</string>
   <string name="expire_time">Ablaufdatum</string>
+    <string name="expired_buy_vip">VIP ist abgelaufen</string>
   <string name="favorite">Favorit</string>
   <string name="fenghuang">iFeng</string>
   <string name="file_error">Dateifehler</string>
@@ -168,6 +171,7 @@
   <string name="forecasts">Wetter</string>
   <string name="fullscreen">Vollbild</string>
   <string name="funshion">Funshion</string>
+    <string name="go_to_cinema">Ins Kino gehen</string>
   <string name="gong_count_dlna">%d DLNA</string>
   <string name="gong_count_ge">%d Total</string>
   <string name="gong_count_ji">%d Ep. Total</string>
@@ -232,9 +236,11 @@
   <string name="no_longer_tips">"Nicht mehr anzeigen"</string>
   <string name="no_pay_record">Kein Zahlungsverlauf</string>
   <string name="no_sdcard_no_download">Nicht genügend Speicherplatz.</string>
+    <string name="no_vip_product">VIP Service wird nicht unterstützt</string>
   <string name="not_buy_vip">Kein VIP</string>
   <string name="not_exist_openid">Kontoinformation wird geladen, bitte warten...</string>
   <string name="not_login">Nicht angemeldet</string>
+    <string name="notification_default_title">Offlinevideo</string>
   <string name="notification_sub_title">%d Download(s) abgeschlossen</string>
   <string name="notification_ticker_text">Offlinevideodownload abgeschlossen</string>
   <string name="notification_title">\"%1$s\" Download abgeschlossen</string>
@@ -408,7 +414,9 @@
   <string name="video_plugin">Video plug-in</string>
   <string name="video_plugin_downloading">Wird geladen(%1$s), bitte warten Sie.</string>
   <string name="video_plugin_prepare">einen Moment…</string>
+    <string name="video_vip">VIP</string>
   <string name="vip_package">VIP-Paket</string>
+    <string name="vip_rights">VIP Rechte und Interessen</string>
   <string name="vp_VideoView_error_button">OK</string>
   <string name="vp_VideoView_error_network_not_available">"Kann nicht mit dem Netzwerk verbinden."</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">"Dieser Dateityp wird vom Gerät nicht unterstützt."</string>
