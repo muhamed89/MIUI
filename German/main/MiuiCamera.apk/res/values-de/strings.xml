@@ -236,6 +236,7 @@
   <string name="pref_camera_long_pressing_shutter_title">&amp; lange betätigen für AF/AE/AWB</string>
   <string name="pref_camera_magic_mirror_title">Magischer Spiegel</string>
   <string name="pref_camera_manual_mode_title">Manuell</string>
+    <string name="pref_camera_mono_mode_title">Mono</string>
   <string name="pref_camera_movie_solid_entry_off">Aus</string>
   <string name="pref_camera_movie_solid_entry_on">Ein</string>
   <string name="pref_camera_movie_solid_title">Stabilisation</string>
@@ -276,6 +277,7 @@
   <string name="pref_camera_picturesize_entry_fullscreen">Vollbild 16:9</string>
   <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Bildformat</string>
+    <string name="pref_camera_raw_title">RAW</string>
   <string name="pref_camera_recordlocation_entry_off">Aus</string>
   <string name="pref_camera_recordlocation_entry_on">An</string>
   <string name="pref_camera_recordlocation_title">Aufnahmeort speichern</string>
@@ -411,7 +413,9 @@
   <string name="simple_mode_button_text_hdr">HDR-Modus beenden</string>
   <string name="simple_mode_button_text_magic_mirror">Magischen Spiegel ausschalten</string>
   <string name="simple_mode_button_text_manual">Manuellen Modus beenden</string>
+    <string name="simple_mode_button_text_mono">Mono-Modus beenden</string>
   <string name="simple_mode_button_text_panorama">Panorama beenden</string>
+    <string name="simple_mode_button_text_raw">RAW beenden</string>
   <string name="simple_mode_button_text_scene">Szenenmodus beenden</string>
   <string name="simple_mode_button_text_slow_video">Zeitraffer beenden</string>
   <string name="simple_mode_button_text_square">Quadratmodus beenden</string>
@@ -435,6 +439,7 @@
   <string name="toast_burst_snap_finished_end">Fotos</string>
   <string name="toast_burst_snap_finished_start">Serienaufnahme beendet</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Serienaufnahme wird bei aktivierter Tonaufnahme nicht unterstützt</string>
+    <string name="toast_saving">Fotos werden gespeichert...</string>
   <string name="toast_start_audio_capture">Machen Sie ein Geräusch, um ein Foto zu schießen</string>
   <string name="ubi_focus_capture_fail">"Es konnte kein Foto geschossen werden"</string>
   <string name="ubifocus_capture_warning_message">Für bessere Ergebnisse, sollte das Foto sowohl nahe (weniger als 1 Meter von der Linse) als auch weit entfernte Objekte enthalten</string>
