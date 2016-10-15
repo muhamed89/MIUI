@@ -10,9 +10,11 @@
   <string name="alert_message_delete_folders_notes">Möchten Sie die %1$s ausgewählten Ordner und %2$s Notizen wirklich löschen?</string>
   <string name="alert_message_delete_note">Diese Notiz löschen?</string>
   <string name="alert_message_edit_anyway">Diese Notiz enthält nicht unterstützte Inhalte. Bearbeiten kann zu Datenverlust führen.</string>
+    <string name="alert_message_restore">Diese Notiz konnte nicht geöffnet werden. Sie muss wiederhergestellt werden, um deren Inhalt bearbeiten zu können.</string>
   <string name="alert_title_delete">Notiz löschen?</string>
   <string name="alert_title_edit_anyway">Bearbeiten kann zu Datenverlust führen. Wirklich bearbeiten?</string>
   <string name="alert_title_hidden_note">Eine versteckte Notizerinnerung wurde erhalten</string>
+    <string name="alert_title_restore">Notiz wiederherstellen</string>
   <string name="all_folder_name">Alle Notizen</string>
   <string name="all_terms">%1$s und %2$s</string>
   <string name="app_name">Notizen</string>
@@ -113,6 +115,7 @@ Tippen Sie auf das Plus, um einen Ordner anzulegen"</string>
   <string name="pref_title_font_size">Schriftgröße</string>
   <string name="pref_title_note_style">Stil</string>
   <string name="pref_title_recover_help">Notizen wiederherstellen</string>
+    <string name="pref_title_show_root_folder_in_homepage">Schnellnotizen auf dem Hauptbildschirm anzeigen</string>
   <string name="pref_title_skip_confirm_for_quick_delete">Schnell löschen</string>
   <string name="privacy_hint">Privatsphäre</string>
   <string name="privacy_notes_fragment_title">Versteckte Notizen</string>
