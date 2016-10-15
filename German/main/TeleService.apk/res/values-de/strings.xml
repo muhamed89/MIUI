@@ -309,7 +309,6 @@
   <string name="change">Set</string>
   <string name="change_data_preference_4g_only_prompt">Sieht so aus als hätten Sie eine reine 4G SIM-Karte. Als Standard für mobile Daten verwenden?</string>
   <string name="change_default_data_card">Standard-SIM-Karte für mobile Daten</string>
-  <string name="change_default_data_card">Standard Daten SIM</string>
   <string name="change_default_data_card_summary">Es sieht so aus als hätten Sie die SIM Karte getauscht. Diese SIM Karte als Standard Daten Karte verwenden?</string>
   <string name="change_num">Update</string>
   <string name="change_password">Sperrkennwort ändern</string>
