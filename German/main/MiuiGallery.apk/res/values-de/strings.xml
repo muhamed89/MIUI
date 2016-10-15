@@ -922,10 +922,14 @@
   <string name="sd_not_available">SD-Karte nicht verfügbar</string>
   <string name="sdcard_root">Hauptverzeichnis der SD-Karte</string>
   <string name="secret_album_display_name">Verstecktes Album</string>
+    <string name="secret_album_password_first_use_msg">Persönliches Schutzpasswort wird verwendet. Damit werden Fotos, Notizen, versteckte Ordner, usw. geschützt</string>
+    <string name="secret_album_password_first_use_title">Persönliches Schutzpasswort</string>
     <string name="secret_album_password_update_dialog_cancel">Abbrechen</string>
     <string name="secret_album_password_update_dialog_msg">Von jetzt an verwendet Galerie ihr persönliches Schutzpasswort.</string>
     <string name="secret_album_password_update_dialog_ok">OK</string>
     <string name="secret_album_password_update_dialog_title">Passwort aktualisieren</string>
+    <string name="secret_album_password_update_first_user_dialog_msg">Persönliches Schutzpasswort funktioniert bei Apps, Fotos, Notizen, versteckten Ordner usw.</string>
+    <string name="secret_album_password_update_first_user_dialog_title">Passwort aktualisieren</string>
     <string name="secret_album_set_pc_password_dialog_msg">Persönliches Schutzpasswort funktioniert bei Apps, Fotos, Notizen, versteckten Ordner usw.</string>
     <string name="secret_album_set_pc_password_dialog_ok">Passwort festlegen</string>
     <string name="secret_album_set_pc_password_dialog_title">Neues Passwort festlegen</string>
