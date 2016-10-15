@@ -332,7 +332,10 @@ Datei hinzufügen und Test erneut starten."</string>
     <string name="cit_tool_nfc">NFC-Testtools</string>
     <string name="cit_tool_nfc_bbgain">BB gain</string>
     <string name="cit_tool_nfc_card_mode">Card mode</string>
-    <string name="cit_tool_nfc_config_save">save</string>
+    <string name="cit_tool_nfc_ce_disable">Ce deaktivieren</string>
+    <string name="cit_tool_nfc_ce_enable">Ce aktivieren</string>
+    <string name="cit_tool_nfc_ce_status">Ce Status:</string>
+    <string name="cit_tool_nfc_config_save">Speichern</string>
     <string name="cit_tool_nfc_cw">CW</string>
     <string name="cit_tool_nfc_detector">Detector level</string>
     <string name="cit_tool_nfc_fdt">FDT</string>
@@ -385,6 +388,7 @@ Datei hinzufügen und Test erneut starten."</string>
     <string name="cit_tool_wifi_rx_7">Rx:7</string>
     <string name="cit_tool_wifi_rx_ap">Rx: AP</string>
     <string name="cit_tool_wifi_rx_ap_name">MT</string>
+    <string name="cit_tool_wifi_rx_ap_not_null">AP Name oder Typ kann nicht leer sein</string>
     <string name="cit_tool_wifi_rx_ap_type">bss</string>
     <string name="cit_tool_wifi_rx_ap_type_error">AP error, re-enter (bss/adhoc)</string>
     <string name="cit_tool_wifi_rx_chan">Rx: Kanal</string>
