@@ -294,7 +294,7 @@
   <string name="error_unauthorized">Die Synchronisation mit Ihrem Mi Konto wurde aufgrund mehrerer Anmeldeversuche deaktiviert.</string>
   <string name="exit_browser_warning">Browser jetzt verlassen?</string>
   <string name="file_dir">Verzeichnis</string>
-  <string name="file_name">Name</string>
+  <string name="file_name">Name: </string>
   <string name="file_picker">Verzeichnis wählen</string>
   <string name="filename_empty_alert_message">Dateinamen eingeben</string>
   <string name="filename_illegal_alert_message">Ein ungültiges Zeichen wurde aus dem Dateinamen entfernt</string>
