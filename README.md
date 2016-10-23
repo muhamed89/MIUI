@@ -1,7 +1,7 @@
 # ![logo](http://i.imgur.com/8mHvQNw.png)
 # MIUI V8 German Translation
 
-[![Issue Stats](http://www.issuestats.com/github/muhamed89/MIUI/badge/issue)](http://www.issuestats.com/github/muhamed89/MIUI) [![Issue Stats](http://www.issuestats.com/github/muhamed89/MIUI/badge/pr)](http://www.issuestats.com/github/muhamed89/MIUI)
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/muhamed89/MIUI.svg)](http://isitmaintained.com/project/muhamed89/MIUI "Average time to resolve an issue") [![Percentage of issues still open](http://isitmaintained.com/badge/open/muhamed89/MIUI.svg)](http://isitmaintained.com/project/muhamed89/MIUI "Percentage of issues still open")
 
 ## Introduction
 
