@@ -4,6 +4,12 @@
   <string name="roaming_disable">Bei Roaming mit Datendienst verbinden</string>
   <string name="roaming_enable">Bei Roaming mit Datendienst verbinden</string>
   <string name="accessibility_settings_activity_title">Zugänglichkeit</string>
+  <string name="accessibility_speakerphone_enabled">Lautsprecher eingeschaltet</string>
+  <string name="account_changed_title">Koto geändert</string>
+  <string name="actionBarCBVideo">Videoanrufsperre (%s)</string>
+  <string name="actionBarCBVoice">Videoanrufsperre (%s)</string>
+  <string name="actionBarCFVideo">Videoanrufweiterleitung (%s)</string>
+  <string name="actionBarCFVoice">Videoanrufweiterleitung (%s)</string>
   <string name="active_phone_fail_nochoice">SIM-Karte kann nicht überprüft werden</string>
   <string name="active_phone_fail_toast">"SIM-Karte %1$s kann nicht überprüft werden"</string>
   <string name="active_phone_sim_absent">Legen Sie die SIM-Karte ein</string>
@@ -13,6 +19,7 @@
   <string name="activing_simcard_alone">SIM wird überprüft…</string>
   <string name="add">Hinzufügen</string>
   <string name="addSimEntries">SIM-Kontakt hinzufügen</string>
+  <string name="add_ecc_number">Notfallnummer hinzufügen</string>
   <string name="add_fdn_contact">Zugelassene Rufnummer hinzufügen</string>
   <string name="add_sip_account">Konto hinzufügen</string>
   <string name="add_vm_number_str">Nummer hinzufügen</string>
@@ -228,6 +235,7 @@
   <string name="calling_via_template">Via %s anrufen</string>
   <string name="callwait_open_hint">\"Anklopfen\" ist eine Funktion, die von Ihrem Anbieter bereitgestellt wird. Wenn Sie eine Fehlermeldung erhalten, kontaktieren Sie Ihren Anbieter und stellen Sie sicher, dass diese Funktion für Ihre Nummer eingeschaltet ist.</string>
   <string name="can_not_call_self">"Eigene Nummer kann nicht gewählt werden."</string>
+  <string name="can_not_switch_enhanced_4g_lte_mode_tips">Dieser Schalter ist zur Zeit nicht verfügbar. Versuchen Sie es später noch einmal.</string>
   <string name="can_not_use_for_not_data_sim">"(Kann nicht verwendet werden: muss als Standarddaten-SIM festgelegt sein)"</string>
   <string name="cancel">Abbrechen</string>
   <string name="cancel_call">Abbrechen</string>
@@ -283,9 +291,20 @@
   <string name="cdma_activate_device">Gerät aktivieren</string>
   <string name="cdma_alert_message">"Wenn Sie eine andere Karte als Standard für die Datenverbindung auswählen, können Sie Ihre China-Telecom UIM-Karte nicht mehr verwenden."</string>
   <string name="cdma_alert_title">UIM-Karte muss Standard sein</string>
+  <string name="cdma_cnir_turnoff">Ignorieren der Rufnummernunterdrückung deaktivieren</string>
+  <string name="cdma_cnir_turnon">Ignorieren der Rufnummernunterdrückung aktivieren</string>
   <string name="cdma_display_precise_call_state_message">"Wenn Ihr Netzanbieter diese Funktion nicht unterstützen, kann  der Anrufstatus ungenau sein."</string>
   <string name="cdma_display_precise_call_state_summary">Bestätigen Sie, dass Ihr Netzanbieter diese Funktion unterstützt</string>
   <string name="cdma_display_precise_call_state_title">Anrufstatus anzeigen</string>
+  <string name="cdma_labelCFB">Weiterleiten falls besetzt</string>
+  <string name="cdma_labelCFC">Alle Weiterleitungen zurücksetzen</string>
+  <string name="cdma_labelCFD">Standardweiterleitung</string>
+  <string name="cdma_labelCFNRc">Weiterleiten falls nicht erreichbar</string>
+  <string name="cdma_labelCFNRc_cta">Weiterleiten falls nicht erreichbar</string>
+  <string name="cdma_labelCFNRy">Weiterleiten falls nicht beantwortet</string>
+  <string name="cdma_labelCFU">Immer weiterleiten</string>
+  <string name="cdma_label_do_not_disturb">Nicht stören</string>
+  <string name="cdma_label_voice_message_retrieve">Voice message retrieve</string>
   <string name="cdma_lte_data_service">Datendienst einrichten</string>
   <string name="cdma_options">CDMA-Optionen</string>
   <string name="cdma_subscription_dialogtitle">Abonnement</string>
@@ -307,6 +326,7 @@
   <string name="cfnry_title">Weiterleiten wenn unbeantwortet</string>
   <string name="cfu_title">Immer weiterleiten</string>
   <string name="change">Set</string>
+  <string name="change_cdma_capability_dialog">%s wird vorübergehend nicht funktionieren, and im Falle von Anrufen, SMS oder Daten auf %s, werden diese entsprechend auf %s umgeleitet.</string>
   <string name="change_data_preference_4g_only_prompt">Sieht so aus als hätten Sie eine reine 4G SIM-Karte. Als Standard für mobile Daten verwenden?</string>
   <string name="change_default_data_card">Standard-SIM-Karte für mobile Daten</string>
   <string name="change_default_data_card_summary">Es sieht so aus als hätten Sie die SIM Karte getauscht. Diese SIM Karte als Standard Daten Karte verwenden?</string>
@@ -362,6 +382,7 @@
   <string name="deactivate_all">Alle abbrechen</string>
   <string name="default_area_code_setting">Standardvorwahl</string>
   <string name="default_areacode">Standardvorwahl</string>
+  <string name="default_call_switch_err_msg1">Bevorzugte SIM kann während eines Anrufs nicht geändert werden</string>
   <string name="default_call_type">CSVoice</string>
   <string name="default_notification_description">Standardsound (%1$s)</string>
   <string name="default_preference_summary">&lt;Nicht gesetzt&gt;</string>
@@ -369,6 +390,7 @@
   <string name="delete">Löschen</string>
   <string name="deleteAllSimEntries">Alle SIM-Kontakte löschen</string>
   <string name="deleteSimContacts">SIM-Kontakte werden entfernt…</string>
+  <string name="delete_ecc_number">Notfallnummer löschen</string>
   <string name="delete_fdn_contact">Zugelassene Rufnummer löschen</string>
   <string name="deleting_fdn_contact">Zugelassene Rufnummer wird gelöscht…</string>
   <string name="description_delete_button">Rücktaste</string>
@@ -448,9 +470,18 @@
   <string name="dtmf_tones_title">DTMF Töne</string>
   <string name="dual_mic_summary">Unterdrücken Sie Hintergrundgeräusche während dem Gespräch</string>
   <string name="dual_mic_title">Geräuschunterdrückung</string>
+  <string name="ecc_contact_added">Notfallnummer hinzugefütg</string>
+  <string name="ecc_contact_updated">Notfallnummer aktualisiert</string>
+  
+  <string name="ecc_invalid_name">Ungültiger ECC-Name</string>
+  <string name="ecc_invalid_number">Ungültige ECC-Nummer</string>
+  <string name="ecc_storage_full">Speicher ist voll</string>
+  <string name="ecc_title">Notfallnummer</string>
   <string name="ecm_exit_dialog">EcmExitDialog</string>
   <string name="editContact">Ändern</string>
+  <string name="edit_ecc_number">Notfallnummer ändern</string>
   <string name="edit_fdn_contact">FDN-Nummern ändern</string>
+  
   <string name="emergencyDialerIconLabel">Notruf</string>
   <string name="emergency_broadcast_disable">Notrufmeldungen ausgeschaltet</string>
   <string name="emergency_broadcast_enable">Notrufmeldungen eingeschaltet</string>
@@ -462,8 +493,12 @@
   <string name="empty_alert">%s ist erforderlich und darf nicht leer sein</string>
   <string name="empty_networks_list">Keine Netzwerke gefunden.</string>
   <string name="enable">Aktivieren</string>
+  <string name="enable_3G_service">3G aktivieren</string>
+  <string name="enable_4G_data">4G-Daten aktivieren</string>
+  <string name="enable_4G_data_summary">4G besseren und schnelleren Internetzugang</string>
   <string name="enable_antispam_strange_summary">Den ersten Anruf von einer unbekannten Nummer lautlos</string>
   <string name="enable_antispam_strange_title">Unbekannte Nummern lautlos</string>
+  <string name="enable_button_text">Weiter</string>
   <string name="enable_disable_administrative">Verwaltung</string>
   <string name="enable_disable_advertisements">Anzeigen</string>
   <string name="enable_disable_atr">Verkehrsberichte</string>
@@ -629,6 +664,9 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="invalid_pin2">4- bis 8-stellige PIN2 eingeben</string>
   <string name="invalid_puk">4- bis 8-stelligen PUK eingeben</string>
   <string name="invalid_puk2">8-stelligen PUK2 eingeben</string>
+  <string name="ip_prefix_setting">IP prefix number</string>
+  <string name="ip_prefix_setting_lable">IP-Präfixnummer (%s)</string>
+  <string name="ip_prefix_setting_sum">IP-Präfixnummern-Einstellungen</string>
   <string name="ivr_mo_area_code_settings">Jetzige Vorwahl</string>
   <string name="ivr_mo_area_code_settings_hint">Jetzige Vorwahl eingeben</string>
   <string name="ivr_parameter_settings">IVR-Parametereinstellungen</string>
@@ -642,12 +680,17 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="ivr_type_cu_3">China Unicom 2G</string>
   <string name="ivr_type_settings">Datentarifeinstellungen</string>
   <string name="ivr_type_settings_hint">Ihren Datentarifcode eingeben</string>
+  <string name="labelCBVideo">Videoanrufsperre</string>
+  <string name="labelCBVoice">Videoanrufsperre</string>
   <string name="labelCDMAMore">CDMA-Anrufeinstellungen</string>
   <string name="labelCF">Anrufweiterleitung</string>
   <string name="labelCFB">Weiterleiten falls besetzt</string>
+  <string name="labelCFC">Alle Weiterleitungen zurücksetzen</string>
   <string name="labelCFNRc">Weiterleiten falls nicht erreichbar</string>
   <string name="labelCFNRy">Weiterleiten falls keine Antwort</string>
   <string name="labelCFU">Immer weiterleiten</string>
+  <string name="labelCFVideo">Videoanrufweiterleitung</string>
+  <string name="labelCFVoice">Videoanrufweiterleitung</string>
   <string name="labelCW">Anklopfen</string>
   <string name="labelCallerId">Anrufer-ID</string>
   <string name="labelCbCancelAll">Anrufsperre deaktivieren</string>
@@ -756,6 +799,11 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="lodgings_enable">Unterkünfte eingeschaltet</string>
   <string name="login_account_button_text">Anmelden</string>
   <string name="lte_checkbox_text">Stellen Sie mobile Daten an die ausgewählte SIM-Karte, sobald die Standard 4G/3G SIM-Karte geändert wird</string>
+  <string name="lte_data_only_prompt">Diese Funktion kann im reinen 4G-Datenmodus nicht verwendet werden. Möchten Sie den reinen 4G-Modus beenden?</string>
+  <string name="lte_data_only_timeout">Kein 4G Datennetzwerk in Ihrer Region verfügbar. Wollen Sie stattdessen nach anderen Netzwerken suchen?</string>
+  <string name="lte_only_dialog_button_no">Nein</string>
+  <string name="lte_only_dialog_button_yes">Ja</string>
+  <string name="lte_only_dialog_title_prompt">Aufforderung</string>
   <string name="lte_recognition_title">Anerkennung der SIM-Karte</string>
   <string name="lte_recognize_summary">Zwei 4G/3G SIM-Karten werden erkannt, Sie müssen die Standard 4G/3G SIM-Karte festlegen:</string>
   <string name="lte_select_summary">Die ausgewählte Karte wird als 4G/3G-Karte und die andere als 2G-Karte erkannt.</string>
@@ -891,6 +939,7 @@ Werde stattdessen bevorzugtes Netzwerk nutzen."</string>
   <string name="no_call_barring">Anrufsperre ist deaktiviert</string>
   <string name="no_change">Es wurden keine Änderungen vorgenommen</string>
   <string name="no_data">Keine Daten</string>
+  <string name="no_ecc_number">Keine benutzerdefinierte Notallnummer</string>
   <string name="no_internet_available">Überprüfen Sie zunächst Ihre Internetverbindung, bevor Sie einen Internetanruf tätigen</string>
   <string name="no_internet_available_title">Keine Internetverbindung</string>
   <string name="no_more">Keine mehr</string>
@@ -947,6 +996,8 @@ Werde stattdessen bevorzugtes Netzwerk nutzen."</string>
   <string name="old_pin_label">Alte PIN</string>
   <string name="onHold">Wird gehalten</string>
   <string name="one_retry_left">1 Versuch übrig</string>
+  <string name="only_use_LTE_data">Nur LTE-Datenverbindung verwenden</string>
+  <string name="only_use_LTE_data_summary">Wenn Sie den reinen 4G-Datenmodus verwenden, können Sie keine Anrufe tätigen oder SMS versenden</string>
   <string name="onscreenAddCallText">Gespräch hinzufügen</string>
   <string name="onscreenAudioText">Audio</string>
   <string name="onscreenEndCallText">Beenden</string>
@@ -1414,6 +1465,10 @@ Next period starts in %4$d days (%5$s)"</string>
   <string name="throttle_time_frame_subtext">"%1$d٪ of cycle elapsed
 Next period starts in %2$d days (%3$s)"</string>
   <string name="time_statistic">%1$d Minuten Netzwerkzeit gespart</string>
+  <string name="title_call_barring">Anrufsperre (%s)</string>
+  <string name="title_cf_option_phone_number">Auf eine Telefonnummer weiterleiten</string>
+  <string name="title_cf_option_stop">Weiterleitung beenden</string>
+  <string name="title_cf_option_voice_mail">Zur Sprachbox weiterleiten</string>
   <string name="title_country">Standort</string>
   <string name="title_duration">Dauer</string>
   <string name="title_purchase">Aufladen</string>
@@ -1457,6 +1512,8 @@ Next period starts in %2$d days (%3$s)"</string>
   <string name="verify_fialed">"Couldn't verify"</string>
   <string name="verifying">Verifying…</string>
   <string name="vibrate_on_ring_title">Beim Klingeln vibrieren</string>
+  <string name="video_call">Videoanruf</string>
+  <string name="vilte_srvcc_tip">Aus Netzwerkgründen auf Sprachanruf umgeschaltet</string>
   <string name="vm_change_failed">"Die Mailboxnummer konnte nicht geändert werden.
 Falls dieses Problem weiterhin besteht, setzen Sie sich mit Ihrem Mobilfunkanbieter in Verbindung."</string>
   <string name="vm_changed">Mailboxnummer geändert</string>
@@ -1464,9 +1521,10 @@ Falls dieses Problem weiterhin besteht, setzen Sie sich mit Ihrem Mobilfunkanbie
   <string name="voice_privacy_summary">Erweiterten Datenschutzmodus aktivieren</string>
   <string name="voice_report_incoming_call">Anruf</string>
   <string name="voice_report_unknown_num">Unbekannte Nummer</string>
-  <string name="voicemail">Mailbox</string>
+  <string name="voicemail">Sprachbox</string>
   <string name="voicemail_abbreviated">MB:</string>
   <string name="voicemail_default">Mein Mobilfunkanbieter</string>
+  <string name="voicemail_lable">Sprachbox (%s)</string>
   <string name="voicemail_notification_ringtone_title">Töne</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Vibrieren</string>
   <string name="voicemail_notification_vibrate_when_title">Vibration</string>
@@ -1478,9 +1536,28 @@ Falls dieses Problem weiterhin besteht, setzen Sie sich mit Ihrem Mobilfunkanbie
   <string name="voicemail_settings_number_label">Mailboxnummer</string>
   <string name="voicemail_settings_number_title">Mailboxnummer</string>
   <string name="voip_setting">VoIP-Einstellungen</string>
+  <string name="volte_conf_member_reach_max">Die maximale Anzahl an Konferenzteilnehmern wurde erreicht</string>
+  <string name="volte_fail_to_invit_participants">Teilnehmer hinzufügen fehlgeschlagen</string>
+  <string name="volte_is_adding_participants">Teilnehmer werden hinzugefügt, bitte warten...</string>
+  <string name="volte_ss_not_available_tips">Um den Vorgang zu beenden, müssen Sie eine Datenverbindung über %s öffnen.</string>
+  <string name="volte_ss_not_available_tips_data">Um den Vorgang zu beenden, müssen Sie die mobilen Daten auf %s aktivieren.</string>
+  <string name="volte_ss_not_available_tips_data_roaming">Um den Vorgang zu beenden, müssen Sie die mobilen Daten sowie Roaming auf %s aktivieren.</string>
+  <string name="volte_ss_not_available_tips_roaming">Um den Vorgang zu beenden, müssen Sie Roaming auf %s aktivieren..</string>
   <string name="volte_switch_summary">Verwenden Sie VoLTE um die Qualität der Sprach- und Videoanrufe zu verbessern</string>
   <string name="volte_switch_title">VoLTE</string>
   <string name="wait_prompt_str">Die folgenden Töne senden?</string>
+  <string name="wfc_internet_connection_lost">Internetverbindung unterbrochen</string>
+  <string name="wfc_internet_lost_summary">Hoppla! Ihre WLAN-Verbindung ist aktiv, aber die Internetverbindung wurde unterbrochen.
+ 
+Überprüfen Sie die Internetverbindung auf Ihrem Router und versuchen Sie es noch einmal.</string>
+  <string name="wfc_no_network">Kein geeignetes Mobilfunknetz</string>
+  <string name="wfc_volte_switch_title">VoLTE</string>
+  <string name="wfc_wifi_call_drop">WLAN-Anruf unterbrochen</string>
+  <string name="wfc_wifi_call_drop_summary">Hoppla! Sie haben sich während des Anrufs anscheinend außerhalb der Reichweite Ihres WLAN-Netzwerks bewegt.
+ 
+Wollen Sie sich wieder verbinden, um den Anruf fortzusetzen?</string>
+  <string name="wfc_wifi_handover_fail">Hoppla! Ihr Anruf kann nicht durchgeführt werden.</string>
+  <string name="wfc_wifi_lte_handover_fail">Hoppla! Kein verfügbares LTE-Netz um den Anruf fortzusetzen.</string>
   <string name="whole_calls">Alle Anrufe</string>
   <string name="wifi_call_setting">WLAN-Anrufeinstellungen</string>
   <string name="wifi_calling_call_assistant">Anrufassistent</string>

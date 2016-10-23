@@ -183,6 +183,12 @@
   <string name="folder_name_empty">Ordnername darf nicht leer sein</string>
   <string name="folder_name_illegal">Ungültiger Ordnername</string>
   <string name="folder_name_invalid">"Ordnernamen dürfen keine der folgenden Zeichen enthalten: /\\:*?&lt;>"</string>
+  <string name="follow_fail">Folgen fehlgeschlagen, versuchen Sie es später noch einmal</string>
+  <string name="follow_tip_1">Folgen Sie mir, um weitere Videos zu sehen</string>
+  <string name="follow_tip_2">Folgen Sie mir, um weitere Videos zu sehen</string>
+  <string name="force_touch_clean">Reinigen</string>
+  <string name="force_touch_search">Dateien suchen</string>
+  <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Hier drücken&lt;/a&gt;, um zum Papierkorb zu wechseln.</string>
   <string name="found_router">Router verbunden</string>
   <string name="found_usb">USB Speicher verbunden</string>
   <string name="ftp_account_req_notice">4-16 Zeichen, Buchstaben und Zahlen, Groß-/Kleinschreibung</string>
@@ -491,6 +497,9 @@
    <string name="setting">Einstellungen</string>
   <string name="setting_account_bind">Konto hinzufügen</string>
   <string name="setting_message_notify">Benachrichtigungen</string>
+  <string name="share_success">Erfolgreich geteilt</string>
+  <string name="share_tip_1">Danke fürs Teilen, folgen Sie mir, um weitere Videos zu sehen</string>
+  <string name="share_tip_2">Danke fürs Teilen, folgen Sie mir, um weitere Videos zu sehen</string>
   <string name="share_title_1">Ich habe ein cooles Stickerpaket gefunden!</string>
   <string name="share_to">Teilen mit…</string>
   <string name="share_youliao1">Upgraden, um mehr Episoden zu sehen.</string>
@@ -505,6 +514,8 @@
   <string name="shared_sticker_use_tip_title">Wie verwende ich Sticker</string>
   <string name="shared_str">Geteilt von %s</string>
   <string name="smb_loading">Einen Moment…</string>
+  <string name="sort_size_asc">Von klein nach groß</string>
+  <string name="sort_size_desc">Von groß nach klein</string>
   <string name="start_server">Start</string>
   <string name="stay_awake_summary">Während einer FTP-Übertragung nie ausschalten</string>
   <string name="stay_awake_title">Bildschirm aktiv</string>
@@ -516,6 +527,8 @@
   <string name="storage_sd_card_description">SD-Karte</string>
   <string name="storage_usb">USB-Speicher</string>
   <string name="storage_warning">Externer Speicher nicht verfügbar.</string>
+  <string name="swap_tip_1">Links und rechts tauschen</string>
+  <string name="swap_tip_2">um andere Videos zu sehen</string>
   <string name="sys_size_enable">Aktivieren</string>
   <string name="tab_category">Kategorien</string>
   <string name="tab_common_app">Apps &amp; Ordner</string>
@@ -619,13 +632,19 @@
   <string name="user_setting_follow_new_msg_tip">Benachrichtigungen über neue Videos erhalten</string>
   <string name="user_setting_followed_msg">Benachrichtigungen über Follower</string>
   <string name="user_setting_followed_msg_tip">Benachrichtigung erhalten, sobald Ihnen jemand folgt</string>
+  <string name="user_setting_hot_comment">Benachrichtigungen über empfohlene Kommentare</string>
+  <string name="user_setting_hot_comment_tip">Erhalten Sie Benachrichtigungen, wenn Ihre Kommentare weiterempfohlen werden</string>
   <string name="user_setting_logout">Abmelden</string>
   <string name="user_setting_new_comment">Benachrichtigungen über Kommentare</string>
   <string name="user_setting_new_comment_tip">Bei neuen Kommentaren Benachrichtigungen erhalten.</string>
   <string name="user_setting_new_liked">Benachrichtigungen über Likes</string>
   <string name="user_setting_new_liked_tip">Benachrichtigungen erhalten, wenn jemand Ihr Video mag</string>
+  <string name="user_setting_play_num">Benachrichtigungen über neue Aufrufe</string>
+  <string name="user_setting_play_num_tip">Erhalten Sie Benachrichtigungen über die Anzahl der Aufrufe Ihrer Videos</string>
   <string name="user_setting_topic_new_msg">Benachrichtigungen über neue Videos</string>
   <string name="user_setting_topic_new_msg_tip">Benachrichtigungen erhalten, wenn Videos in abbonierten Themen veröffentlicht wurden.</string>
+  <string name="user_setting_video_has_hot_comment">Benachrichtigungen über beliebte Kommentare</string>
+  <string name="user_setting_video_has_hot_comment_tip">Erhalten Sie Benachrichtigungen, wenn Ihr Video beliebte Kommentare erhält</string>
   <string name="user_sex">Geschlecht</string>
   <string name="user_sign">Signatur</string>
   <string name="user_topic_text">Meine Themen</string>
@@ -679,6 +698,9 @@
   <string name="wechat_video">Video auf %s</string>
   <string name="weixin_not_installed">WeChat ist nicht installiert</string>
   <string name="weixin_sticker_tag_str">WeChat-Sticker</string>
+  <string name="welcome_to_my_page">Willkommen auf meiner Seite</string>
+  <string name="welcome_to_my_page_1">Folgen Sie mir!</string>
+  <string name="welcome_to_my_page_2">Folgen Sie mir!</string>
   <string name="wifi_state">WLAN-Verbindung</string>
   <string name="wx_title1">Hier ist ein cooles Video!</string>
   <string name="wx_title2">Ich habe ein Video geteilt, schau mal!</string>

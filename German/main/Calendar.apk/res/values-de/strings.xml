@@ -573,6 +573,7 @@
   <string name="when_label">Wann</string>
   <string name="where_label">Wo</string>
   <string name="widget_events">Nächster Termin</string>
+  <string name="widget_get_weather_info">Wetterinfos erhalten &gt;</string>
   <string name="widget_no_events">Keine Termine</string>
   <string name="widget_select_style">Stil auswählen</string>
   <string name="work_day_indication">: (</string>

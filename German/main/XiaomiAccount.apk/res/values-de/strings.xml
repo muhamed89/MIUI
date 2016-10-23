@@ -181,6 +181,7 @@
   <string name="input_vcode_hint">Bestätigungscode eingeben</string>
   <string name="internet_statement_message">Indem Sie Zustimmen antippen, stimmen Sie zu, dass diese App Internetzugang erhält</string>
   <string name="internet_statement_title">Nutzungsbedingungen</string>
+  <string name="io_error_title">Bestätigen Sie Ihr Netzwerk</string>
   <string name="just_a_second">Einen Moment…</string>
   <string name="license_host_unreachable">"Netzwerkverbindung kann nicht hergestellt werden. Sie können diese Seite unter %s ansehen."</string>
   <string name="loading">Einen Moment…</string>

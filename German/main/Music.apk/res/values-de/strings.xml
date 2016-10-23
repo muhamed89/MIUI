@@ -443,6 +443,7 @@
   <string name="monthly_price">Mi Credits</string>
   <string name="more">Mehr</string>
   <string name="more_about_artist">Mehr über %s</string>
+  <string name="more_add_song_list">Zur Wiedergabeliste hinzufügen</string>
   <string name="more_online_artist">Mehr</string>
   <string name="more_online_billboard">Mehr</string>
   <string name="more_online_fm">Mehr</string>
@@ -452,6 +453,7 @@
   <string name="more_online_suggest">Mehr</string>
   <string name="more_settings">Erweiterte Einstellungen</string>
   <string name="more_settings_summary">Downloadeinstellungen, Schlummerfunktion, Dateifilter etc.</string>
+  <string name="more_share">Teilen</string>
   <string name="multichoice">Auswählen</string>
   <string name="music_browser_label">Musik</string>
   <string name="music_filter">Audiodateien filtern</string>

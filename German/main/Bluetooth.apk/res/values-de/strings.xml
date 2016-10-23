@@ -10,6 +10,13 @@
   <string name="auth_notif_ticker">OBEX-Authentifizierungsanfrage</string>
   <string name="auth_notif_title">Sitzungsschlüssel</string>
   <string name="bluetooth_in_airplane_mode">Im Flugmodus</string>
+  <string name="bluetooth_dun_authorize_allow">Erlauben</string>
+  <string name="bluetooth_dun_authorize_decline">Verweigern</string>
+  <string name="bluetooth_dun_authorize_message">DFÜ-Verbindungsanfrage von %1$s erlauben?</string>
+  <string name="bluetooth_dun_authorize_title">Bluetooth DFÜ-Verbindungsanfrage erlauben</string>
+  <string name="bluetooth_dun_notification_connect_request_message">Anfrage von %1$s bestätigen</string>
+  <string name="bluetooth_dun_notification_connect_request_ticker">Bluetooth DFÜ-Berechtigungsanfrage</string>
+  <string name="bluetooth_dun_notification_connect_request_title">Bluetooth DFÜ-Berechtigung</string>
   <string name="bluetooth_map_settings_app_icon">App Icon</string>
   <string name="bluetooth_map_settings_cancel">Abbrechen</string>
   <string name="bluetooth_map_settings_count">Verfügbare Plätze:</string>
