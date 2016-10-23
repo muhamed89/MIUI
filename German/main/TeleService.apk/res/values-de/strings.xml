@@ -382,7 +382,6 @@
   <string name="deactivate_all">Alle abbrechen</string>
   <string name="default_area_code_setting">Standardvorwahl</string>
   <string name="default_areacode">Standardvorwahl</string>
-  <string name="default_call_switch_err_msg1">Bevorzugte SIM kann während eines Anrufs nicht geändert werden</string>
   <string name="default_call_type">CSVoice</string>
   <string name="default_notification_description">Standardsound (%1$s)</string>
   <string name="default_preference_summary">&lt;Nicht gesetzt&gt;</string>
