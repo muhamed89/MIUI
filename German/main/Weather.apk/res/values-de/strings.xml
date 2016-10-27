@@ -53,6 +53,7 @@
   <string name="button_exit">Beenden</string>
   <string name="button_not_allow">Abbrechen</string>
   <string name="button_sure_abandon">Änderungen verwerfen?</string>
+  <string name="change_alert">Überprüfen Sie Netzwerkverbindung und versuchen Sie erneut</string>
   <string name="close">Schließen</string>
   <string name="commercial">Kommerziell</string>
   <string name="common_loading_text">Wird geladen...</string>
