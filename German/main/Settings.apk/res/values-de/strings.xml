@@ -1448,7 +1448,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
     <string name="enable_service_password_reason">Da sich das Aktivieren von %1$s auf die Datenverschlüsselung auswirkt, müssen Sie Ihr Passwort bestätigen.</string>
     <string name="enable_service_pattern_reason">Da sich das Aktivieren von %1$s auf die Datenverschlüsselung auswirkt, müssen Sie Ihr Entsperrmuster bestätigen.</string>
     <string name="enable_service_pin_reason">Da sich das Aktivieren von %1$s auf die Datenverschlüsselung auswirkt, müssen Sie Ihren PIN-Code bestätigen.</string>
-    <string name="enable_service_title">Aktiviere %1$s?</string>
+    <string name="enable_service_title">Dienst führt folgende Aktionen aus:</string>
     <string name="enable_snapshot_screenlock">Halten Sie die Zurücktaste lange gedrückt, um ein Foto zu machen</string>
     <string name="enable_terminal_summary">Aktiviere die Terminalapp, die den lokalen Shellzugang ermöglicht</string>
     <string name="enable_terminal_title">Lokales Terminal</string>
