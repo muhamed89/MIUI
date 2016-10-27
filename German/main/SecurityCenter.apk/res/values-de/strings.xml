@@ -1010,12 +1010,9 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wen
   <string name="power_center_charge_time">Restladezeit: %1$s</string>
   <string name="power_center_consume_rank">Akkuverbrauch</string>
   <string name="power_center_consume_time">%1$s verbleibend</string>
-    <string name="power_center_custom_summary_default">Optimierte Einstellungen sparen Energie</string>
   <string name="power_center_custom_title">Energieprofile</string>
-    <string name="power_center_low_battery_summary_default">Profil wechseln wenn der Akkustand niedrig ist</string>
   <string name="power_center_low_battery_summary_dynamic">\"%2$s\", wenn Akkustand unter %1$d%%</string>
   <string name="power_center_low_battery_title">Energiesparmodus</string>
-    <string name="power_center_on_time_summary_default">Profil zur geplanten Zeit wechseln</string>
   <string name="power_center_on_time_summary_dynamic">\"%3$s\" von %1$s bis %2$s Uhr</string>
   <string name="power_center_on_time_title">Geplanter Wechsel</string>
   <string name="power_center_ontime_boot">Nach Zeitplan einschalten</string>
@@ -1068,7 +1065,6 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wen
   <string name="power_dialog_cpu_state_save">Energie sparen</string>
   <string name="power_dialog_cpu_state_save_desc">Priorität der Akkulaufzeit über die CPU-Leistung stellen</string>
   <string name="power_dialog_cpu_state_title">CPU-Auslastung</string>
-    <string name="power_dialog_delete_dialog_cannot_delete_default">Dieses Profil wird verwendet.</string>
   <string name="power_dialog_delete_dialog_cannot_delete_is_my_mode">Ihr Gerät ist darauf eingestellt auf dieses Profil zu wechseln. Sie müssen zuerst Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen können.</string>
   <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Ihr Gerät wechselt
  bei niedrigem Akkustand auf dieses Profil. Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen können."</string>
