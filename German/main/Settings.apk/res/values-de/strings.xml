@@ -411,6 +411,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
     <string name="baseband_version">Basebandversion</string>
     <string name="batch_delete_backup_confirm">Ausgewählte Sicherungen löschen?</string>
     <string name="batch_delete_saved_network">Gespeichertes Netzwerk löschen: %s?</string>
+    <string name="batch_delete_saved_networks">Alle ausgewählte Netzwerke löschen</string>
     <string name="battery_action_app_details">Appinfo</string>
     <string name="battery_action_app_settings">Appeinstellungen</string>
     <string name="battery_action_bluetooth">Bluetootheinstellungen</string>
@@ -1762,6 +1763,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
     <string name="help_url_vpn" />
     <string name="help_url_wifi" />
     <string name="hidden_ssid_label">Verborgene SSID:</string>
+    <string name="hide">Verbergen</string>
     <string name="hide_screen_button">Bildschirmtasten verbergen</string>
     <string name="high_performance_notif_summary">Leistungsmodus eingeschaltet.</string>
     <string name="high_performance_notif_title">Akku Verbrauchswarnung</string>
@@ -2466,6 +2468,7 @@ Betriebssystem auswählen:"</string>
     <string name="multi_user_mode_dialog_title">Sie sind im Mehrbenutzermodus</string>
     <string name="music_audio_effect_optimize">Audioeinstellungen</string>
     <string name="music_audio_effect_optimize_summary">Dirac, Kopfhörer und weitere Audioeinstellungen</string>
+    <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HD-Sound, Kopfhörer und weitere Audioeinstellungen</string>
     <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, Kopfhörer und weitere Audioeinstellungen</string>
     <string name="music_audio_effect_settings">Toneinstellungen</string>
     <string name="music_dirac_control">Tonqualität optimieren</string>
@@ -2502,6 +2505,7 @@ Betriebssystem auswählen:"</string>
     <string name="music_dolby_volume_leveler">Volume Leveler</string>
     <string name="music_equalizer">Equalizer</string>
     <string name="music_equalizer_summary">Individuelle Lautstärkeanpassung für verschiende Musiktypen</string>
+    <string name="music_hd_title">HD-Sound Audio</string>
     <string name="music_headphone_settings">Kopfhörertyp auswählen</string>
     <string name="music_headset_button_settings">Fernbedienungstasten zuweisen</string>
     <string name="music_headset_calibrate">Kopfhörertasten zuweisen</string>
