@@ -57,6 +57,7 @@
   <string name="adblock_websites_settings_title">Geblockte Seiten</string>
   <string name="add_bookmark_group">Gruppe hinzufügen</string>
   <string name="add_bookshelf_popup_text">Dieses Buch befindet sich bereits in Ihrer Sammlung</string>
+    <string name="add_favorites_to">Favoriten hinzufügen</string>
   <string name="add_new_bookmark">Lesezeichen hinzufügen</string>
   <string name="add_new_quicklink">Auf Startseite hinzufügen</string>
   <string name="add_ql_bm_title">Speichern</string>
@@ -158,6 +159,7 @@
   <string name="color_picker_dialog_title">Wähle Farbe</string>
   <string name="color_picker_hue">Schattierung</string>
   <string name="color_picker_saturation">Sättigung</string>
+    <string name="color_picker_value">Wert</string>
   <string name="comment_app_menu">Kommentieren</string>
   <string name="comment_menu">Kommentieren</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
@@ -336,6 +338,7 @@
   <string name="homepage_top_card_menu">Top</string>
   <string name="in_incognito">"Sie sind inkognito! Webseiten, die Sie besuchen werden in Ihrem Browserverlauf nicht angezeigt."</string>
   <string name="in_secureaccess">Browser ist im sicheren Modus</string>
+    <string name="isReplacePage">Die Datei existiert bereits, ersetzen?</string>
   <string name="is_first_history_item">Dies ist die erste Seite in Ihrem Browserverlauf</string>
   <string name="is_first_tab">Dies ist der erste Tab</string>
   <string name="is_last_history_item">Dies ist die letzte Seite Ihres Browserverlaufs</string>
@@ -830,6 +833,7 @@ Diese Seite verlassen?"</string>
   <string name="video_subtitle_last_message1">Weniger als eine Minute verbleibend</string>
   <string name="video_subtitle_prefix1">Angesehen</string>
   <string name="video_subtitle_prefix2">" angesehen"</string>
+    <string name="video_subtitle_prefix_message">Angesehen:</string>
   <string name="video_title_prefix_message">Offline:</string>
   <string name="video_unknown_duration">Unbekannte Dauer</string>
   <string name="view_certificate">Zertifikat anzeigen</string>
