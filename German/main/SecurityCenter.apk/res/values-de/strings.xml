@@ -108,6 +108,8 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="app_check_sub_title_text">Apps optimieren, um Akkuprobleme zu beheben</string>
   <string name="app_detail">Details</string>
   <string name="app_install_intercept">Installation blockieren</string>
+    <string name="app_install_tips_go_to">Öffnen</string>
+    <string name="app_install_tips_install_success">%1$s erfolgreich installiert</string>
   <string name="app_mobile">Mobil</string>
   <string name="app_name">Appsperre</string>
   <string name="app_name_na">Datenverbrauch</string>
@@ -242,6 +244,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="bind_xiaomi_account_success">Mi Konto erfolgreich hinzugefügt</string>
   <string name="bind_xiaomi_account_summary">Mi Konto zum Zurücksetzen Ihres Passworts verwenden</string>
   <string name="bind_xiaomi_account_title">Mi Konto hinzufügen</string>
+    <string name="booster_immediately">Boost</string>
   <string name="boot_reminder">Telefon nach voreingestellter Zeit einschalten</string>
   <string name="boot_time">Einschalten: %1$s Uhr</string>
   <string name="boot_time_day">Einschalten: %2$s %1$dd Uhr</string>
@@ -265,6 +268,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="btn_text_optimize_now">Optimieren</string>
   <string name="btn_text_power_consume_suggest_optimize">Optimieren</string>
   <string name="btn_text_power_cleanup">Gründliche Bereinigung</string>
+    <string name="btn_text_quick_antivirus">Reparieren</string>
   <string name="btn_text_quick_cleanup">Bereinigen</string>
   <string name="btn_text_quick_optimize">Optimieren</string>
   <string name="btn_text_quick_save_power">optimieren</string>
@@ -281,6 +285,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="button_text_cleanup">Bereinigen</string>
   <string name="button_text_clear">Löschen</string>
   <string name="button_text_create_shortcut">Verknüpfung auf der Startseite erstellen</string>
+    <string name="button_text_delete_from_virus_white_list">Entfernen</string>
   <string name="button_text_deny">Verweigern</string>
   <string name="button_text_disconnect_now">Trennen</string>
   <string name="button_text_fix">Beheben</string>
@@ -288,6 +293,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="button_text_ignore">Ignorieren</string>
   <string name="button_text_ignore_alert_title">Diese Warnung ignorieren?</string>
   <string name="button_text_known">OK</string>
+    <string name="button_text_let_me_select">Ich habs</string>
   <string name="button_text_next_step">Weiter</string>
   <string name="button_text_next_step_timer">Nächste Schritt (%d)</string>
   <string name="button_text_open_now">Öffnen</string>
@@ -300,6 +306,8 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="button_text_update_now">Aktualisieren</string>
   <string name="button_text_view">Optimieren</string>
   <string name="button_text_view_power">Anzeigen</string>
+    <string name="buy_immediately">Kaufen</string>
+    <string name="buy_traffic_pack">Mehr Datenvolumen kaufen</string>
   <string name="cache_header_title">%1$d Dateien im Cache löschen um %2$s Speicher frei zu machen</string>
   <string name="call_and_contact">Anrufe und Kontakte</string>
   <string name="cancal_to_setting_fingerprint">Abbrechen</string>
@@ -322,6 +330,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="card_main_netcheck_action">Testen</string>
   <string name="card_main_netcheck_summary">Netzwerkverbindung testen</string>
   <string name="card_main_netcheck_title">Netzwerktest</string>
+    <string name="card_main_overscroll_tips">Beste Sicherheit</string>
   <string name="card_main_paysafe_action">Einschalten</string>
   <string name="card_main_paysafe_summary">Zahlungsumgebung auf Risiken überprüfen</string>
   <string name="card_main_paysafe_title">Zahlungssicherheit</string>
@@ -346,6 +355,10 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="choose">Auswählen</string>
   <string name="clean_immediately">Bereinigen</string>
   <string name="cleaned">Bereinigt</string>
+    <string name="clear_bigfiles">Löschen Sie große Dateien, doppelte Bilder und andere überflüssige Elemente</string>
+    <string name="clear_garbage">Papierkorb leeren, um Speicherplatz zu schaffen</string>
+    <string name="clear_immediately">Jetzt bereinigen</string>
+    <string name="close">Schließen</string>
   <string name="cmcc_app_check_dialog_message">Um die Reparatur abzuschließen, starten Sie Ihr Gerät neu.</string>
   <string name="cmcc_app_check_dialog_negative">Später</string>
   <string name="cmcc_app_check_dialog_positive">Jetzt neu starten</string>
@@ -472,6 +485,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="dual_setting_simcard2">SIM 2</string>
   <string name="empty_app">Keine Apps</string>
   <string name="empty_title_auto_start_list">Kein Autostartapps</string>
+    <string name="empty_title_garbage_virus_white_list">Die Elemente können mit einem Langdruck zu der Ausnahmeliste hinzugefügt werden</string>
   <string name="empty_title_manual_item_white_list">Keine Ausnahmen</string>
   <string name="empty_title_perm_apps">Leer</string>
   <string name="empty_title_permission_apps_list">Leer</string>
@@ -516,6 +530,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="firewall_rule_group_title_wifi">WLAN</string>
   <string name="firewall_service_network_blocked">%1$s wurde von der %2$s Netzwerknutzung eingeschränkt</string>
   <string name="five_percent_total_pkg">%s (5%% Ihrer monatlichen Daten)</string>
+    <string name="flow_rank_title">Datenverbrauch</string>
   <string name="force_stop_dlg_text">Wenn Sie die Hintergrunddaten beschränken, werden einige Apps und Dienste nicht funktionieren.</string>
   <string name="force_stop_dlg_title">Hintergrunddaten beschränken</string>
   <string name="foreground_traffic">Vordergrund %s</string>
@@ -526,11 +541,15 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="free_time_traffic_settings">Nebenzeitendatenlimiteinstellungen</string>
   <string name="free_time_traffic_title">Nebenzeitendatenlimit einstellen</string>
   <string name="free_traffic_settings">Nebenzeitendatenlimit eingeben</string>
+    <string name="garbage_clean_detail">Details</string>
   <string name="gateway_exception_summary">Überprüfen Sie Ihren Router und versuchen Sie es erneut.</string>
   <string name="gateway_exception_summary2">Verbindung zum Server fehlgeschlagen</string>
   <string name="gateway_exception_title">Routertest</string>
   <string name="gigabyteShort">GB</string>
+    <string name="go_to">Fortsetzen</string>
   <string name="go_to_setting_fingerprint">Einstellungen</string>
+    <string name="goto_set">Einstellen</string>
+    <string name="handle_bar_summary_wifi_unknown">Unbekannt</string>
   <string name="handle_bar_title_apps">Apps</string>
   <string name="handle_bar_title_paysms">Nachrichten</string>
   <string name="handle_bar_title_system">System</string>
@@ -544,6 +563,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="hide_mode_summary_text">Verwalten Sie die Hintergrundaktivitäten von Apps, um Energie zu sparen</string>
   <string name="hide_mode_title_text">Versteckmodus</string>
   <string name="hints_auto_start_warning_info">Wenn Sie den Autostart unterdrücken, können einige Apps möglichweise keine Benachrichtigungen empfangen.</string>
+    <string name="hints_cleanning_done">Erfolgreich bereinigt</string>
   <string name="hints_cleanning_text">Bereinigung…</string>
   <string name="hints_handle_item_text_risk">Risiken: %d</string>
   <string name="hints_handle_item_text_safe">Sicher</string>
@@ -571,10 +591,13 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="hints_risk_app_list_item_summary">Risiko (app)</string>
   <string name="hints_risk_descx_title">Beschreibung:</string>
   <string name="hints_risk_name_title">Risiko:</string>
+    <string name="hints_scan_progress">Fertig: %d</string>
+    <string name="hints_scan_result_phone_safe">Sieht gut aus</string>
   <string name="hints_scan_result_risk">Risiken entdeckt</string>
   <string name="hints_scan_result_safe">Sicher</string>
   <string name="hints_scan_result_virus">Viren gefunden</string>
-  <string name="hints_scanning_text">Überprüfung…</string>
+    <string name="hints_scanning">Wird gescannt…</string>
+    <string name="hints_scanning_text">Wird überprüft…</string>
   <string name="hints_scanning_virus_by_cloud">Cloudscan wird ausgeführt...</string>
   <string name="hints_unknown_virus_name">Unbekannt</string>
   <string name="hints_virus_apk_list_item_summary">Virus (apk)</string>
@@ -586,6 +609,8 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="hints_virus_name_title">Virus:</string>
   <string name="hints_virus_scan_result_descx">"Diese App ist die größte Gefahr für Ihr System."</string>
   <string name="history_details_title">Verlaufdetails</string>
+    <string name="hot">Beliebt</string>
+    <string name="hot_today">Heute beliebt</string>
   <string name="info_and_call">Anrufe und Nachrichten</string>
   <string name="information_setting">Nachrichteneinstellungen</string>
   <string name="input_aviable_traffic">Datenlimit einstellen</string>
@@ -672,6 +697,8 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="lockscreen_glogin_checking_password">Wird überprüft…</string>
   <string name="lockscreen_glogin_password_hint">Passwort</string>
   <string name="lockscreen_glogin_submit_button">Anmelden</string>
+    <string name="long_click_dialog_summary">Elemente können mit einem Langdruck zu den Ausnahmen hinzugefügt werden</string>
+    <string name="long_click_dialog_title">Achtung</string>
   <string name="main_activity_content_summary_root">Rootzugriff</string>
   <string name="main_activity_content_summary_update">Systemupdate</string>
   <string name="main_activity_content_title_scanning">Wird gescannt...</string>
@@ -823,7 +850,10 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wen
   <string name="networkchanged_exception_summary">Netzwerkverbindung wurde gewechselt. Bitte erneut testen.</string>
   <string name="networkchanged_exception_title">Verbindung gewechselt</string>
   <string name="never">1 Mal</string>
+    <string name="news_change">Ändern</string>
   <string name="next_step_button">Weiter</string>
+    <string name="no_network">Netzwerkverbindung fehlgeschlagen, probieren Sie später erneut</string>
+    <string name="no_network_btn">Erneut versuchen</string>
   <string name="none_mi_service_app_detail">Leer</string>
   <string name="notification_battery_consume_abnormal_summary">%2$s Akku in den letzten %1$d Minuten verbraucht</string>
   <string name="notification_battery_consume_abnormal_title">Akku wird zu schnell entleert</string>
@@ -856,6 +886,8 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wen
   <string name="online_read">Neu</string>
   <string name="online_songs">Musik</string>
   <string name="open">Öffnen</string>
+    <string name="open_app">Öffnen</string>
+    <string name="open_browser">In Browser öffnen</string>
   <string name="open_now">App die Verwendung der mobilen Datenverbindung erlauben</string>
   <string name="operator_diagnostic">Netzbetreiberdiagnose</string>
   <string name="operator_mi_sim">Mi SIM</string>
@@ -949,6 +981,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wen
   <string name="permit_running_network">Hintergrunddaten erlauben</string>
   <string name="person_hotpot">Mobile Hotspots</string>
   <string name="pkg_traffic">Datenlimit einstellen</string>
+    <string name="please_continue_keep">Behalten</string>
   <string name="pm_auto_start_basic_services_lock">Sperren</string>
   <string name="pm_auto_start_basic_services_unlock">Entsperren</string>
   <string name="pm_auto_start_by_basic_services">Basisdienste</string>
@@ -977,9 +1010,12 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wen
   <string name="power_center_charge_time">Restladezeit: %1$s</string>
   <string name="power_center_consume_rank">Akkuverbrauch</string>
   <string name="power_center_consume_time">%1$s verbleibend</string>
+    <string name="power_center_custom_summary_default">Optimierte Einstellungen sparen Energie</string>
   <string name="power_center_custom_title">Energieprofile</string>
+    <string name="power_center_low_battery_summary_default">Profil wechseln wenn der Akkustand niedrig ist</string>
   <string name="power_center_low_battery_summary_dynamic">\"%2$s\", wenn Akkustand unter %1$d%%</string>
   <string name="power_center_low_battery_title">Energiesparmodus</string>
+    <string name="power_center_on_time_summary_default">Profil zur geplanten Zeit wechseln</string>
   <string name="power_center_on_time_summary_dynamic">\"%3$s\" von %1$s bis %2$s Uhr</string>
   <string name="power_center_on_time_title">Geplanter Wechsel</string>
   <string name="power_center_ontime_boot">Nach Zeitplan einschalten</string>
@@ -1032,6 +1068,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wen
   <string name="power_dialog_cpu_state_save">Energie sparen</string>
   <string name="power_dialog_cpu_state_save_desc">Priorität der Akkulaufzeit über die CPU-Leistung stellen</string>
   <string name="power_dialog_cpu_state_title">CPU-Auslastung</string>
+    <string name="power_dialog_delete_dialog_cannot_delete_default">Dieses Profil wird verwendet.</string>
   <string name="power_dialog_delete_dialog_cannot_delete_is_my_mode">Ihr Gerät ist darauf eingestellt auf dieses Profil zu wechseln. Sie müssen zuerst Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen können.</string>
   <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Ihr Gerät wechselt
  bei niedrigem Akkustand auf dieses Profil. Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen können."</string>
@@ -1172,11 +1209,13 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="pref_category_title_reference_settings">Weitere Einstellungen</string>
   <string name="pref_category_title_securitycenter_settings">Allgemein</string>
   <string name="pref_category_title_virus_lib_auto_update">Virusdefinitionen</string>
+    <string name="pref_category_title_virus_white_list">Ausnahmen</string>
   <string name="pref_check_network_diagnostics">Datenverbindung auf ordnungsgemäße Funktion prüfen</string>
   <string name="pref_connect_settings_enable_background">Hintergrunddaten erlauben</string>
   <string name="pref_connect_settings_enable_background_hint">Erlaubt Apps die Datenverbindung im Hintergrund zu benutzen</string>
   <string name="pref_connect_settings_exceed_limit">Datenverbrauch einschränken</string>
   <string name="pref_connect_settings_exceed_limit_hint">Datenverbindung ausschalten, wenn das Limit erreicht wurde</string>
+    <string name="pref_content_virus_white_list_none">Keine Elemente</string>
   <string name="pref_daily_adjust">Datenlimit einstellen</string>
   <string name="pref_daily_traffic">Datenlimit</string>
   <string name="pref_data_usage_ignore_settings">Datenverbrauch ignorieren</string>
@@ -1212,6 +1251,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="pref_specified_adjust">Datenlimit einstellen</string>
   <string name="pref_specified_traffic_settings">Datenlimiteinstellungen</string>
   <string name="pref_summary_lock_screen_memory_clean">Automatisch bereinigen, wenn das Telefon gesperrt ist</string>
+    <string name="pref_summary_virus_white_list">Bereinigung ausgewählter Apps verhindern</string>
   <string name="pref_title_declaration">Wichtiger Hinweis</string>
   <string name="pref_title_diagnostics_show_float_notification">Benachrichtigungen</string>
   <string name="pref_title_lock_screen_memory_clean">Auf Sperrbildschirm bereinigen</string>
@@ -1221,6 +1261,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="pref_title_traffic_limit_number">Größe</string>
   <string name="pref_title_traffic_speed_state">Datengeschwindigkeit anzeigen</string>
   <string name="pref_title_update_notification">Datenverbrauchsmeldungen anzeigen</string>
+    <string name="pref_title_virus_white_list">Ausnahmen</string>
   <string name="pref_traffic_saving_auto_add_whitelist">Datenverbrauch für neue Apps reduzieren</string>
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Datenreduzierung für neu installierte Apps automatisch aktivieren</string>
   <string name="pref_traffic_saving_compressed">Komprimiert</string>
@@ -1278,6 +1319,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="recently_reject_message_one">%1$s Installationsversuche verweigert</string>
   <string name="recommend_app">Empfohlene Apps</string>
   <string name="recommend_news">Empfohlene News</string>
+    <string name="recommended">Empfohlen</string>
   <string name="reject_all">Alle verweigern</string>
   <string name="reject_countdown">Verweigern (%d)</string>
   <string name="reject_usb_install">Installation der folgenden Apps via USB verweigert</string>
@@ -1377,8 +1419,11 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="security_scan_card_clean_now">Überprüfen</string>
   <string name="security_scan_optimizing">Optimieren…</string>
   <string name="see_detail">Details</string>
+    <string name="see_more">Mehr</string>
   <string name="select_pattern">Muster auswählen</string>
   <string name="set_applock_password">Passwort festlegen</string>
+    <string name="set_immediately">Einstellen</string>
+    <string name="seton_immediately">Einschalten</string>
   <string name="setting_privacy_password">Persönliches Schutzpasswort festlegen</string>
   <string name="setting_traffic_pkg">Datenpakete einstellen</string>
   <string name="settings">Einstellung zur Datennutzung</string>
@@ -1392,6 +1437,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="settings_power_save_ontime_title">Zeitplan</string>
   <string name="settings_title_payment_security">Zahlungssicherheitseinstellungen</string>
   <string name="settings_title_permission">Berechtigungseinstellungen</string>
+    <string name="share">Teilen</string>
   <string name="show_traffic_dialog_message">Ihre Datennutzung wird in der Statusleiste angezeigt. Sie können diese Funktion in den Einstellungen der Datennutzung jederzeit verändern.</string>
   <string name="show_traffic_dialog_title">Zeige Verbrauch in der Statusleiste</string>
   <string name="showpattern">Muster anzeigen</string>  
@@ -1412,6 +1458,8 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="sorted_button">Sortieren nach</string>
   <string name="sorted_dialog_title">Sortieren nach</string>
   <string name="sp_back_title_text_zero">Sicher</string>
+    <string name="sp_button_text_ignore_alert_title">Dieses Kontrollkästchen ignorieren?</string>
+    <string name="sp_empty_title_sign_exception">App in Ergebnisliste lange drücken, um zu Ausnahmen hinzufügen</string>
   <string name="sp_monitored_apps_count_zero">Keine Zahlungsapp ist geschützt</string>
   <string name="sp_monitored_apps_list_title">Überwachungseinstellungens</string>
   <string name="sp_network_privacy_dialog_message">Die Sicherheitsapp kann Zahlungen nicht verifizieren, da der Internetzugriff eingeschränkt wurde. Internetzugriff erlauben?</string>
@@ -1419,15 +1467,27 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="sp_safe_score_text">Zahlungssicherheit</string>
   <string name="sp_scan_item_monitor">Zahlungsüberwachung</string>
   <string name="sp_scan_item_url_antispam">Schutz vor bösartigen URLs</string>
+    <string name="sp_settings_check_item_summary_sign_exception">Signatur-Ausnahmen verwalten</string>
+    <string name="sp_settings_check_item_summary_virus_exception">Virus-Ausnahmen verwalten</string>
+    <string name="sp_settings_check_item_title_root">ROOT</string>
+    <string name="sp_settings_check_item_title_sign_exception">Signatur-Ausnahmen</string>
+    <string name="sp_settings_check_item_title_update">Systemupdate</string>
+    <string name="sp_settings_check_item_title_virus_exception">Virus-Ausnahmen</string>
+    <string name="sp_settings_check_item_title_wifi">WLAN</string>
+    <string name="sp_settings_exception_count_zero">Keine Elemente</string>
+    <string name="sp_settings_group_title_check_item">Überprüfen Sie die Elemnteinstellungen</string>
   <string name="sp_settings_group_title_ime">Sichere IME</string>
   <string name="sp_settings_info_input_method">Systemeingabemethode in Bezahlapps verwenden</string>
   <string name="sp_settings_info_monitor">Systemumgebung überwachen, wenn Zahlungsapps gestartet werden</string>
   <string name="sp_settings_plugin_monitor_summary">Scannen, wenn Zahlungs-Plugins in Apps gestartet werden</string>
   <string name="sp_settings_plugin_monitor_title">Überwachung von Zahlungs-Plugins</string>
   <string name="sp_settings_title_input_method">Sichere IME</string>
+    <string name="sp_toast_removed_from_sign_white_list">Aus den Ausnahmen entfernt. Element wird beim nächsten Mal bereinigt.</string>
   <string name="spinner_title">%1$s - Mobile Daten: %2$s</string>
+    <string name="sponsored">Gesponsert</string>
   <string name="st_title_mode_choose_group">Profil auswählen</string>
   <string name="start_diagnostic_botton">Start</string>
+    <string name="start_downloading_app">Download wird gestartet: %1$s</string>
   <string name="start_install">Jetzt installieren</string>
   <string name="stop_app_button">Stopp</string>
   <string name="suffix_pay_risk_count_bottom">Risiken</string>
@@ -1562,6 +1622,7 @@ Wenn Sie MIUI keiner Weise verändert haben, stellen Sie sicher, dass Sie Herkun
   <string name="text_button">Verstanden</string>
   <string name="text_day" />
   <string name="text_lock_info">Entsperrmuster zeichnen</string>
+    <string name="there_is_no">Sieht gut aus, kommen Sie später wieder</string>
   <string name="third_application">Installierte Apps</string>
   <string name="three_percent_total_pkg">%s (3%% der monatlichen Daten)</string>
   <string name="timeshow_h">%.1fh</string>
@@ -1572,6 +1633,12 @@ Wenn Sie MIUI keiner Weise verändert haben, stellen Sie sicher, dass Sie Herkun
   <string name="timeshow_s">%ds</string>
   <string name="tips_dialog_title">Sie kennen Ihr Limit nicht</string>
   <string name="tips_message">Um Details zu Ihrem Datentarif zu erhalten, wählen Sie %2$s (%1$s)."</string>
+    <string name="tips_of_app_manage">Löschen Sie selten benutzte Apps, um Speicherplatz zu sparen</string>
+    <string name="tips_of_auto_launch_manage">Autostart der selten benutzten Apps verhindern</string>
+    <string name="tips_of_operators_set">Datenstatistik automatisch anpassen</string>
+    <string name="tips_of_package_set">Legen Sie Ihren Datenverbrauch fest und steuern Sie das Verbindungsaufkommen</string>
+    <string name="tips_of_traffic_pack_threshold">Mehr Datenvolumen kaufen, wenn Datenverbrauchsgrenze fast erreicht wurde</string>
+    <string name="tips_of_virus_scan">Scannen Sie Ihr Gerät regelmäßig auf Viren, um es sicher zu halten</string>
   <string name="title_antivirus">Tencents Datenschutzbestimmungen</string>
   <string name="title_app_lock_disable">Anwendungen sperren</string>
   <string name="title_app_update">Updates vorhanden</string>
@@ -1608,6 +1675,10 @@ Wenn Sie MIUI keiner Weise verändert haben, stellen Sie sicher, dass Sie Herkun
   <string name="title_mms_no">Nachrichtenfilter ist aus</string>
   <string name="title_mms_yes">Nachrichtenfilter ist an</string>
   <string name="title_network_switch">Internetverbindung erlauben</string>
+    <string name="title_of_app_manage">Apps</string>
+    <string name="title_of_auto_launch_manage">Autostart</string>
+    <string name="title_of_operators_set">Betreibereinstellungen</string>
+    <string name="title_of_package_set">Datenverbrauchseinstellungen</string>
   <string name="title_payment_risk">Zahlungsrisiken gefunden</string>
   <string name="title_permission_no">Zugriffsmanager aus</string>
   <string name="title_permission_root">Rootzugriff Warnung</string>
@@ -1615,6 +1686,7 @@ Wenn Sie MIUI keiner Weise verändert haben, stellen Sie sicher, dass Sie Herkun
   <string name="title_power_optimizer">Energiesparmodus</string>
   <string name="title_realname_verify">Identitätsverifikation</string>
   <string name="title_saving_switch">Datensparer</string>
+    <string name="title_share_link">Link teilen</string>
   <string name="title_show_notification">Benachrichtigungen</string>
   <string name="title_telecom_operator">Anbieterwerte verwenden</string>
   <string name="title_usb_no">USB-Debugging An</string>
@@ -1625,6 +1697,8 @@ Wenn Sie MIUI keiner Weise verändert haben, stellen Sie sicher, dass Sie Herkun
   <string name="title_virus_update_yes">Auto-Update für Viren-DB AN</string>
   <string name="title_virus_yes">Keine Viren gefunden</string>
   <string name="title_xiaomi_roaming">Mi Roaming</string>
+    <string name="toast_add_virus_white_list_no_need_repeat">Die Virus-Ausnahme exestiert bereits!</string>
+    <string name="toast_add_virus_white_list_success">Zu den Ausnahmen hinzugefügt. Elemente in Einstellung anzeigen.</string>
   <string name="toast_auto_traffic_correct">Automatische Kalibrierung ist aktiviert</string>
   <string name="toast_cleaner_cloudscan">Bereinigung nutzt Onlinedefinitionen</string>
   <string name="toast_default_app">%1$s als Systemstandard %2$s gesetz</string>
@@ -1634,8 +1708,10 @@ Wenn Sie MIUI keiner Weise verändert haben, stellen Sie sicher, dass Sie Herkun
   <string name="toast_network_eror">Keine Netzwerkverbindung</string>
   <string name="toast_network_switch">Diese App kann sich mit dem Internet verbinden</string>
   <string name="toast_reject_sms_read_permission_success">Erfolgreich gesetzt!</string>
+    <string name="toast_removed_from_virus_white_list">Aus den Ausnahmen entfernt. Element wird beim nächsten Mal gescannt.</string>
   <string name="toast_root_apply_accept">%s wurde Rootzugriff gewährt</string>
   <string name="toast_root_apply_reject">%s wurde Rootzugriff verweigert</string>
+    <string name="toast_select_virus_white_need_remove">Elemente auswählen</string>
   <string name="toast_set_success">Erfolgreich geöffnet!</string>
   <string name="toast_shortcut_install">Verknüpfung zum Startbildschirm hinzugefügt</string>
   <string name="toast_shortcut_uninstall">Verknüpfung entfernt</string>
@@ -1767,6 +1843,9 @@ Der verbleibende Datenverbrauch beinhalten auch jenen Verbrauch, welcher in dem 
   <string name="traffic_setting_step_num">Datentarifeinstellungen</string>
   <string name="traffic_warning_purchase_title">Warnung wegen mobiler Datennutzung</string>
   <string name="unable_connect_internet">Keine Internetverbindung</string>
+    <string name="uninstall_app_dialog_msg">Nach Deinstallation werden alle Appdaten gelöscht.</string>
+    <string name="uninstall_app_dialog_title">Jetzt deinstallieren?</string>
+    <string name="uninstall_app_done">Deinstallation durchgeführt</string>
   <string name="unlike">Nein danke</string>
   <string name="updating_diagnostic_botton">Daten werden analysiert…</string>
   <string name="usage_sorted_activity_lable">Datenverbrauch</string>
@@ -1795,9 +1874,12 @@ Der verbleibende Datenverbrauch beinhalten auch jenen Verbrauch, welcher in dem 
   <string name="usbsharenet_pc_exception_summary">Es kann keine Internetverbindung über die geteilte Verbindung hergestellt werden. Überprüfen Sie die Internetverbindung des Computers.</string>
   <string name="use_immediately">Verwenden</string>
   <string name="virus_list_header_title">%d Viren gefunden</string>
+    <string name="virus_scan">Viren scannen</string>
   <string name="voltage_symbol">V</string>
   <string name="wakepath_confirm_start_activity">%1$s erlauben %2$s zu öffnen?</string>
   <string name="warning_open_mi_sim">Aktivieren Sie Mi SIM</string>
+    <string name="white_list_risk_app_header">Gefährliche Apps: %d</string>
+    <string name="white_list_trojan_header">Trojaner: %d</string>
   <string name="wifi_exception_summary">Teste verfügbare WLAN-Netzwerke</string>
   <string name="wifi_exception_title">Teste WLAN-Netzwerk</string>
   <string name="wifi_item_status_connection_no">Nicht verbunden</string>
