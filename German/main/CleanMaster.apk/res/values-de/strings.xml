@@ -151,6 +151,7 @@
   <string name="dialog_msg_load_cleanup_engine_error">Bereinigungsmodul fehlerhaft!</string>
   <string name="dialog_msg_stop_scan">"Möchten Sie die Bereinigung wirklich abbrechen?"</string>
   <string name="dialog_msg_uninstall_apps">Diese Apps entfernen?</string>
+    <string name="dialog_msg_uninstall_apps_xspace">Diese Apps (inklusive geklonte Apps) entfernen?</string>
   <string name="dialog_ok_add_white_list_error">Verstanden</string>
   <string name="dialog_title_add_white_list_error">Achtung</string>
   <string name="dialog_title_backup_and_uninstall_apps">Sichern und entfernen</string>
@@ -326,12 +327,13 @@
   <string name="pref_summary_open_optimizer_cloud_scan">Unbekannte Dateinamen hochladen und online überprüfen</string>
   <string name="pref_title_apps_check_size">Speicherlimit</string>
   <string name="pref_title_apps_check_time">Frequenz</string>
-  <string name="pref_title_apps_cleanup_size">​Sobald die Cachegrösse erreicht wurde</string>
+  <string name="pref_title_apps_cleanup_size">​Sobald die Cachegröße erreicht wurde</string>
   <string name="pref_title_auto_clean_and_alert">Automatisch bereinigen</string>
   <string name="pref_title_auto_clean_content_choose">Elemente zum Bereinigen auswählen</string>
   <string name="pref_title_auto_deepclean_and_alert">Gründliche Bereinigung</string>
   <string name="pref_title_auto_update_cleanup_db">Automatisch aktualisieren</string>
   <string name="pref_title_choose_engine">Definitionen</string>
+  <string name="pref_title_clean_alert">Automatisch bereinigen</string>
   <string name="pref_title_cleanup_white_list">Ausnahmen</string>
   <string name="pref_title_expand_cache_group">Elemente im Cache anzeigen</string>
   <string name="pref_title_garbage_auto_clean_content">Elemente zum Bereinigen</string>
@@ -381,7 +383,7 @@
   <string name="summary_delete_apk">Ausgewähle APKs dauerhaft löschen?</string>
   <string name="summary_delete_cache">"Alle Daten dieser App werden dauerhaft gelöscht (inklusive aller Dateien, Einstellungen, und Konten)."</string>
   <string name="summary_delete_large_file">"Einige große Dateien können nützlich sein, wenn Sie keine Internetverbindung haben (z. B. Karten, Zeitpläne, usw.). Stellen Sie sicher, dass Sie diese Dateien nicht benötigen."</string>
-  <string name="summary_delete_video">&gt;Ausgewählte Videos dauerhaft löschen?</string>
+  <string name="summary_delete_video">Ausgewählte Videos dauerhaft löschen?</string>
   <string name="summary_optimizer">"Diese Funktion lädt Ordnernamen in Cheetah Mobile's Onlinedatenbank hoch und benötigt dafür Ihre Geräte-ID."</string>
   <string name="text_optimizer">Ordnernamen hochladen</string>
   <string name="there_is_no">Sieht alles gut aus, schauen Sie später wieder vorbei</string>

@@ -101,6 +101,7 @@ Tippen Sie auf das Plus, um einen Ordner anzulegen"</string>
   <string name="note_link_select">Text auswählen</string>
   <string name="note_link_tel">Anrufen</string>
   <string name="note_link_web">Im Browser anzeigen</string>
+    <string name="note_sort_way">Auswählen, wie Sie Ihre Notizen sortieren möchten</string>
   <string name="notealert_enter">Anzeigen</string>
   <string name="notealert_ok">OK</string>
   <string name="notelist_menu_new">Neu</string>

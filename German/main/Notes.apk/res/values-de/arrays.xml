@@ -13,11 +13,19 @@
         <item>Adresse</item>
         <item>Notizen</item>
     </string-array>
+    <string-array name="folder_operations">
+        <item>Umbenennen</item>
+        <item>Löschen</item>
+    </string-array>
     <string-array name="font_size_names">
         <item>Klein</item>
         <item>Mittel</item>
         <item>Groß</item>
         <item>Riesig</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>Nach Erstellungsdatum sortiert</item>
+        <item>Nach Änderungsdatum sortiert</item>
     </string-array>
     <string-array name="welcome_notes_content">
         <item>"Berühren, um eine Notiz zu erstellen
