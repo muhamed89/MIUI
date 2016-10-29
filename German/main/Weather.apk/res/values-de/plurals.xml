@@ -14,6 +14,6 @@
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Klar</item>
-        <item quantity="one">Sonnig</item>
+        <item quantity="one">Klar</item>
     </plurals>
 </resources>
