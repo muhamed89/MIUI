@@ -345,8 +345,8 @@ Berühre den Einstellungsknopf, um mehr Optionen zu sehen"</string>
   <string name="micloud_title_full_dspt">"Sie haben Ihre Speichergrenze erreicht"</string>
   <string name="micloud_unlogin_for_time_summary"/>
   <string name="micloud_unlogin_for_time_title">Mi Cloud</string>
-  <string name="micloud_upgrade_member">Get more storage space</string>
-  <string name="micloud_upgrade_space">Holen Sie sich mehr Speicherplatz</string>
+  <string name="micloud_upgrade_member">Mehr Speicherplatz holen</string>
+  <string name="micloud_upgrade_space">Mehr Speicherplatz holen</string>
   <string name="micloud_user_space_title">Speicherplatz</string>
   <string name="micloud_user_space_usage">Speicherplatz</string>
   <string name="micloud_warn_full_sum">"Neue Dinge werden nicht mit Mi Cloud synchronisiert."</string>

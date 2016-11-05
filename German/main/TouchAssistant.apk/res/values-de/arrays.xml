@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="enabled_for_pad_entries">
+         <item>Deaktiviert</item>
+         <item>Aktiviert</item>
+         <item>Wird teilweise im Querformat angezeigt</item>
+    </string-array>
     <string-array name="motion_behavior_entries">
         <item>Wischen</item>
         <item>Tippen</item>

@@ -77,11 +77,11 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="antivirus_choose_engine_disable_toast">"Während der Suche können die Definitionen nicht gewechselt werden"</string>
   <string name="antivirus_choose_engine_settings">Virusdefinitionseinstellungen</string>
   <string name="antivirus_choose_engine_title">Definitionen</string>
-  <string name="antivirus_monitor_btn_text_clean_risk">Delete risky apps</string>
-  <string name="antivirus_monitor_btn_text_clean_virus">Delete viruses</string>
-  <string name="antivirus_monitor_clean_tips">Deleted %s item</string>
-  <string name="antivirus_monitor_risk_advice">"This app isn't secure, delete it"</string>
-  <string name="antivirus_monitor_virus_advice">This app may contain a virus, delete it</string>
+  <string name="antivirus_monitor_btn_text_clean_risk">Riskante Apps löschen</string>
+  <string name="antivirus_monitor_btn_text_clean_virus">Viren entfernen</string>
+  <string name="antivirus_monitor_clean_tips">%s löschen</string>
+  <string name="antivirus_monitor_risk_advice">Diese App ist nicht sicher, löschen Sie sie</string>
+  <string name="antivirus_monitor_virus_advice">Diese App könnte einen Virus enthalten, löschen Sie sie</string>
   <string name="antivirus_more_engine_dialog_summary">Wenn Sie mehrere Definitionen verwenden, wird der Scan mehr Zeit in Anspruch nehmen, aber mögliche Risiken werden früher erkannt.</string>
   <string name="antivirus_more_engine_dialog_title">Achtung</string>
   <string name="antivirus_none_engine_dialog_ok">OK</string>
@@ -666,7 +666,9 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="main_alert_message_month_limit_error">Das eingestellte Datenlimit ist ungültig</string>
   <string name="main_alert_message_no_imsi">Keine SIM-Karte gefunden</string>
   <string name="main_alert_message_no_mobile_package">Datenlimit nicht eingerichtet</string>
-  <string name="main_alert_message_open_traffic_ctrl">We recommend restricting data usage</string>
+  <string name="main_alert_message_open_traffic_ctrl">Wir empfehlen, die Datennutzung einzuschränken</string>
+  <string name="main_alert_message_slot_no_data_connection">"Der SIM-Karten Slot unterstützt keine
+ mobile Datenverbindung"</string>
   <string name="main_button_idel_traffic">Nebenzeit</string>
   <string name="main_button_normal_traffic">Hauptzeit</string>
   <string name="main_button_usage_adjust">Datenverbrauch einstellen</string>
@@ -674,7 +676,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="main_button_usage_adjusting">Wird geändert…</string>
   <string name="main_button_usage_package_setting">Datenverbrauch einstellen</string>
   <string name="main_message_no_package_by_dual">Datenverbrauchsgrenze %s</string>
-  <string name="main_open_traffic_ctrl_button">Restrict data usage</string>
+  <string name="main_open_traffic_ctrl_button">Datennutzung einschränken</string>
   <string name="main_primary_message_traffic_cur_leisure">Nebenzeitendatennutzung</string>
   <string name="main_primary_message_traffic_cur_normal">Unter Datenlimit</string>
   <string name="main_primary_message_traffic_cur_normal_overlimit">Datenlimit überschritten</string>
@@ -1182,7 +1184,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="pref_specified_adjust">Datenlimit einstellen</string>
   <string name="pref_specified_traffic_settings">Datenlimiteinstellungen</string>
   <string name="pref_summary_lock_screen_memory_clean">Automatisch bereinigen, wenn das Telefon gesperrt ist</string>
-    <string name="pref_summary_virus_white_list">Bereinigung ausgewählter Apps verhindern</string>
+  <string name="pref_summary_virus_white_list">Bereinigung ausgewählter Apps verhindern</string>
   <string name="pref_title_declaration">Wichtiger Hinweis</string>
   <string name="pref_title_diagnostics_show_float_notification">Benachrichtigungen</string>
   <string name="pref_title_lock_screen_memory_clean">Auf Sperrbildschirm bereinigen</string>
@@ -1192,7 +1194,8 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="pref_title_traffic_limit_number">Größe</string>
   <string name="pref_title_traffic_speed_state">Datengeschwindigkeit anzeigen</string>
   <string name="pref_title_update_notification">Datenverbrauchsmeldungen anzeigen</string>
-    <string name="pref_title_virus_white_list">Ausnahmen</string>
+  <string name="pref_title_virus_white_list">Ausnahmen</string>
+  <string name="pref_traffic_manage_title">Datennutzung</string>
   <string name="pref_traffic_saving_auto_add_whitelist">Datenverbrauch für neue Apps reduzieren</string>
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Datenreduzierung für neu installierte Apps automatisch aktivieren</string>
   <string name="pref_traffic_saving_compressed">Komprimiert</string>

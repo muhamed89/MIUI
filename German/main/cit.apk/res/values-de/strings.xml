@@ -132,6 +132,8 @@ Telefon, wie bei einem Anruf halten, ins Mikrofon sprechen. Die Stimme sollte mi
     <string name="cit_external_sd_check_title">SD card test</string>
     <string name="cit_fail">Fehlgeschlagen</string>
     <string name="cit_finger_check_title">Fingerabdrucktest (FPC)</string>
+    <string name="cit_flash_life_check_summary">Schätzung der Flash-Lebensdauer</string>
+    <string name="cit_flash_life_check_title">Flash-Lebensdauer</string>
     <string name="cit_fm_audio_path">Audiopfad festlegen</string>
     <string name="cit_fm_audio_path_headset">Headset</string>
     <string name="cit_fm_audio_path_speaker">Lautsprecher</string>
