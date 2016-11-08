@@ -338,6 +338,8 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
     <string name="auto_disable_screenbuttons_auto">Immer deaktivieren</string>
     <string name="auto_disable_screenbuttons_cancel">Abbrechen</string>
     <string name="auto_disable_screenbuttons_no">Niemals deaktivieren</string>
+    <string name="auto_disable_screenbuttons_rotation_summary">Wenn Sie Ihr Gerät im quer halten, werden die Navigationstasten gesperrt</string>
+    <string name="auto_disable_screenbuttons_rotation_title">Navigationstasten im Querformat sperren</string>
     <string name="auto_disable_screenbuttons_summary">Bei bestimmten Apps die Navigationstasten automatisch deaktivieren. Zweimal antippen, um die Tasten wieder zu aktivieren.</string>
     <string name="auto_disable_screenbuttons_title">Navigationstasten automatisch deaktivieren</string>
     <string name="auto_launch_disable_text">Keine Standards eingestellt</string>
@@ -921,6 +923,7 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
     <string name="color_white">Weiß</string>
     <string name="color_yellow">Gelb</string>
     <string name="common_settings">Allgemein</string>
+    <string name="complete_parameters">Alle Spezifikationen</string>
     <string name="complete_settings">Erweitert</string>
     <string name="compute_backup_info">Sicherungsinfo lesen…</string>
     <string name="compute_delete_contact_info">Info lesen…</string>
@@ -1210,6 +1213,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
     <string name="development_settings_not_available">Entwickleroptionen sind für diesen Benutzer nicht verfügbar.</string>
     <string name="development_settings_summary">Optionen zur Appentwicklung festlegen</string>
     <string name="development_settings_title">Entwickleroptionen</string>
+    <string name="device_actionbar_title">Alle Spezifikationen</string>
     <string name="device_additional_status">Zusätzliche Statusinfo</string>
     <string name="device_additional_status_summary">Telefonnummer, Signal, IMEI, usw.</string>
     <string name="device_admin_add_title">Geräteadministrator</string>
@@ -1217,12 +1221,14 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
     <string name="device_admin_status">Dieser Administrator ist aktiv und ermöglicht der App %1$s, folgende Vorgänge auszuführen:</string>
     <string name="device_admin_title">Geräteverwaltung</string>
     <string name="device_admin_warning">Die Aktivierung dieses Administrators ermöglicht der App %1$s, folgende Vorgänge auszuführen:</string>
+    <string name="device_complete_parameters">Vollständig</string>
     <string name="device_cpu">CPU</string>
     <string name="device_cpu10_info">Deca-core</string>
     <string name="device_cpu2_info">"Dual-Core "</string>
     <string name="device_cpu4_info">"Quad-Core "</string>
     <string name="device_cpu6_info">Hexa-core</string>
     <string name="device_cpu8_info">"Octa-Core "</string>
+    <string name="device_display_layout_title">Funktionen</string>
     <string name="device_edit_title">Gerätename ändern</string>
     <string name="device_feedback">Feedback zu diesem Gerät senden</string>
     <string name="device_info_default">Unbekannt</string>
@@ -1231,7 +1237,9 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
     <string name="device_info_settings">Telefonstatus</string>
     <string name="device_internal_memory">Interner Speicher</string>
     <string name="device_memory">Arbeitsspeicher</string>
+    <string name="device_miui_more">Mehr anzeigen</string>
     <string name="device_miui_version">MIUI-Version</string>
+    <string name="device_miui_version_update">Ein MIUI-Update ist verfügbar</string>
     <string name="device_name">Gerätename</string>
     <string name="device_name_input_error">Gerätename konnte nicht gespeichert werden</string>
     <string name="device_name_input_hint">Name eingeben</string>
@@ -1240,6 +1248,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
     <string name="device_reset_title">Gerät zurücksetzen</string>
     <string name="device_sd_memory">Externer Speicher:</string>
     <string name="device_security_settings_title">Sicherheit</string>
+    <string name="device_share_loading">Image erstellen</string>
     <string name="device_status">Status</string>
     <string name="device_status_activity_title">Status</string>
     <string name="device_status_summary">Telefonnummer, Signal, etc.</string>
@@ -2285,6 +2294,7 @@ Es sind andere Benutzer an diesem System angemeldet.
     <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">%1$s durchschn. Verbrauch in den letzten 3 Stunden</string>
     <string name="menu_cancel">Verwerfen</string>
+    <string name="menu_check">Erfahrung</string>
     <string name="menu_delete">APN löschen</string>
     <string name="menu_duration_12h">12 Stunden</string>
     <string name="menu_duration_1d">1 Tag</string>
@@ -2301,6 +2311,7 @@ Es sind andere Benutzer an diesem System angemeldet.
     <string name="menu_proc_stats_type_foreground">Vordergrund</string>
     <string name="menu_restore">Standard</string>
     <string name="menu_save">Speichern</string>
+    <string name="menu_share">Teilen</string>
     <string name="menu_show_percentage">Prozent anzeigen</string>
     <string name="menu_show_system">System anzeigen</string>
     <string name="menu_stats_last_unplugged">Ausgesteckt für %1$s</string>
@@ -2532,6 +2543,7 @@ Betriebssystem auswählen:"</string>
     <string name="musicfx_title">Musikeffekte</string>
     <string name="mvno_match_data">MVNO-Wert</string>
     <string name="mvno_type">MVNO-Typ</string>
+    <string name="my_device">Mein Gerät</string>
     <string name="nearby_wifi">Verfügbare Netzwerke</string>
     <string name="need_reboot_now">Um die Aktualisierung abzuschließen, ist ein Neustart erforderlich.</string>
     <string name="network_assistant">Datenverbrauch</string>
@@ -3239,6 +3251,7 @@ Betriebssystem auswählen:"</string>
     <string name="radio_info_smsc_refresh_label">Aktualisieren</string>
     <string name="radio_info_smsc_update_label">Aktualisierung</string>
     <string name="radio_info_toggle_dns_check_label">DNS-Überprüfung ein-/ausschalten</string>
+    <string name="rank_title">Rangliste</string>
     <string name="rarely_running">Läuft selten (%s)</string>
     <string name="read_encrypt_fail">Verschlüsselte Sicherung konnte nicht gelesen werden</string>
     <string name="really_remove_account_message">Durch das Entfernen dieses Kontos werden alle Nachrichten, Kontakte und andere Daten vom Telefon gelöscht!</string>

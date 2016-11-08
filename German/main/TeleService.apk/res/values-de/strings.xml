@@ -608,6 +608,7 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="help_view">Hilfe</string>
   <string name="hintName">Name</string>
   <string name="hintPhonenumber">Telefonnummer</string>
+  <string name="home_screen_shortcut">Startbildschirmverknüpfung</string>
   <string name="importAllSimEntries">Alle importieren</string>
   <string name="importSimEntry">Importieren</string>
   <string name="importToFDNfromContacts">aus Kontakten importieren</string>
@@ -775,6 +776,7 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="livetalk_service_and_short_number_not_support">Servicenummern und Kurznummern werden nicht unterstützt</string>
   <string name="livetalk_setting">Prepaideinstellungen</string>
   <string name="livetalk_sim_card_not_activated">Diese Karte ist nicht aktiviert</string>
+  <string name="livetalk_shortcut_title">Aufladepaket</string>
   <string name="livetalk_terms_conditions">Geschäftsbedingungen</string>
   <string name="livetalk_unavaiable_info">Dieser Dienst ist zur Zeit nicht verfügbar</string>
   <string name="livetalk_user_config_title">SIM-Verifikation</string>

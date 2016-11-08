@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="activity_package_delete_confirm_title">Wichtige Warnung</string>
   <string name="add_frequent_phrases">Häufig verwendete Sätze hinzufügen</string>
   <string name="all_call_livetalk_enable">Aufladepakete für nationale und internationale Anrufe verwenden</string>
   <string name="all_call_livetalk_remain_mins">Minuten übrig: %1$s National oder %2$s Ausland</string>
@@ -14,10 +15,15 @@
   <string name="auto_disable_screenbuttons_prompts_not_show_again">Nicht wieder anzeigen</string>
   <string name="auto_disable_screenbuttons_prompts_ok">OK</string>
   <string name="auto_disable_screenbuttons_prompts_title">Navigationstasten sperren?</string>
-    <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">Zum Verlassen wieder tippen</string>
+  <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">Zum Verlassen wieder tippen</string>
   <string name="auto_start_warning_allow">Erlauben</string>
   <string name="auto_start_warning_deny">Verweigern</string>
   <string name="auto_start_warning_title">Automatischen Start von %s erlauben?</string>
+  <string name="button_text_cancel">Abbrechen</string>
+  <string name="button_text_delete">Löschen</string>
+  <string name="button_text_delete_timer">Löschen (%d)</string>
+  <string name="button_text_next_step">Weiter</string>
+  <string name="button_text_next_step_timer">Weiter (%d)</string>
   <string name="call_record_or">" oder "</string>
   <string name="call_record_sample_prefix_miui">Anruf</string>
   <string name="caller_info_name_delimiter">" oder "</string>
@@ -67,7 +73,9 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; System &gt; Tast
   <string name="maml_component_customization_title">Einstellungen</string>
   <string name="memory_clear_nothing_result">Nichts zum Löschen im Cache vorhanden</string>
   <string name="memory_clear_result">%1$sB gelöscht | %2$sB verfügbar</string>
-  <string name="miui">MIUI</string>
+  <string name="package_delete_confirm_step_1">%s löschen?</string>
+  <string name="package_delete_confirm_step_2">Wenn Sie diese App löschen, kann es zu Systeminstabilitäten kommen.</string>
+  <string name="package_delete_confirm_step_3">Sie können diese App nach dem Löschen nicht mehr öffnen</string>
   <string name="paste">Einfügen</string>
   <string name="perm_send_push_dspt">Pushnachrichten erlauben</string>
   <string name="perm_send_push_lab">Pushnachrichten senden</string>
@@ -84,7 +92,7 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; System &gt; Tast
   <string name="screen_button_notification_text">Zum Einschalten, die Home- und Powertaste gleichzeitig drücken</string>
   <string name="screen_button_notification_title">Navigationstasten deaktiviert</string>
   <string name="screen_on_proximity_sensor_hint">Um die Funktion zu deaktivieren, die Zurück- und Lautstärke-Hochtaste gleichzeitig drücken.</string>
-    <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Lauter-Taste drücken, um diese Funktion auszuschalten.</string>
+  <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Lauter-Taste drücken, um diese Funktion auszuschalten.</string>
   <string name="screen_on_proximity_sensor_summary">Bedecken Sie nicht den orangen Bereich des Bildschirms</string>
   <string name="screen_on_proximity_sensor_title">Ungewollte Anrufe verhindern</string>
   <string name="screen_paper_mode_enter_toast">Lesemodus ist aktiv. Sie können ihn jederzeit unter Einstellungen &gt; Lesemodus aktivieren oder deaktivieren.</string>
@@ -115,7 +123,7 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; System &gt; Tast
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_cast">Übertragen</string>
   <string name="status_bar_toggle_data">Mobile Daten</string>
-    <string name="status_bar_toggle_edit">Bearbeiten</string>
+  <string name="status_bar_toggle_edit">Bearbeiten</string>
   <string name="status_bar_toggle_flight_mode">Flugmodus</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Sperren</string>

@@ -171,7 +171,9 @@
   <string name="notification_action_answer_video">Video</string>
   <string name="notification_action_answer_voice">Sprache</string>
   <string name="notification_action_dismiss">Abweisen</string>
+  <string name="notification_action_earpiece">Hörer</string>
   <string name="notification_action_end_call">Auflegen</string>
+  <string name="notification_action_speaker">Lautsprecher</string>
   <string name="notification_dialing">Wählen</string>
   <string name="notification_incoming_call">Ankommender Anruf</string>
   <string name="notification_incoming_video_call">Ankommender Videoanruf</string>
