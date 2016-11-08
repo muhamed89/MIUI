@@ -4,22 +4,19 @@
   <string name="act_find_city_hot_title">Hinzufügen</string>
   <string name="act_set_city_find_side">Lokalisieren…</string>
   <string name="act_set_city_find_side_error">"Lokalisierung nicht möglich"</string>
-  <string name="act_set_city_swipe_hint">Nach links wischen, um Ort zu löschen</string>
   <string name="act_weather_find_city_added">Hinzugefügt</string>
   <string name="act_weather_find_city_click_retry">Wiederholen</string>
   <string name="act_weather_find_city_net_no_good">"Verbindung zum Netzwerk nicht möglich."</string>
   <string name="act_weather_find_city_no_result">Keine Ergebnisse</string>
   <string name="act_weather_find_city_searching">Suche…</string>
   <string name="activity_alert_detail_title"/>
-  <string name="activity_detail_time_format">E</string>
   <string name="activity_find_city_dialog_cancel">Abbrechen</string>
-    <string name="activity_find_city_dialog_message">Erlaube der Wetterapp das Abrufen Ihres Standortes</string>
+  <string name="activity_find_city_dialog_message">Erlaube der Wetterapp das Abrufen Ihres Standortes</string>
   <string name="activity_find_city_dialog_set">Einstellungen</string>
   <string name="activity_find_city_dialog_title">Standort abrufen</string>
   <string name="activity_main_alert"/>
   <string name="activity_main_one_alert"/>
-  <string name="activity_main_refresh_fail">"Verbindung zum Netzwerk konnte nicht aufgebaut werden"</string>
-  <string name="activity_main_time_format">E, d. MMMM</string>    
+  <string name="activity_main_time_format">E</string>    
   <string name="activity_main_update_time">Aktualisiert %1$s</string>
   <string name="activity_main_update_time_right_now">Gerade eben</string>
   <string name="activity_weathermain_locationg">Lokalisieren…</string>
@@ -27,7 +24,6 @@
   <string name="add_city">Hinzufügen</string>
   <string name="alert_warning">Wetterwarnung</string>
   <string name="app_name">Wetter</string>
-  <string name="app_version">Version: %s</string>
   <string name="aqi_data_source">Unterstützt von Caiyun Weather</string>
   <string name="aqi_desc">Luftqualität</string>
   <string name="aqi_detail_24_hours">24 Stunden</string>
@@ -88,7 +84,6 @@
   <string name="indices_desc_humidity">Luftfeuchtigkeit %1$s%%</string>
   <string name="indices_desc_humidity_without_pic">%1$s%%</string>
   <string name="indices_desc_pressure">%1$s hPa</string>
-  <string name="indices_desc_pressure_mm">%1$s mmHg</string>
   <string name="indices_desc_visibility">%1$s km</string>
   <string name="indices_no_restriction">Keine</string>
   <string name="indices_title">Empfohlene Aktivitäten</string>
@@ -101,7 +96,6 @@
   <string name="indices_title_sport">Sport</string>
   <string name="indices_title_uv">UV-Index</string>
   <string name="indices_title_visibility">Sichtweite</string>
-  <string name="information_manager">Laden wenn mit WLAN verbunden</string>
   <string name="information_manager_information">Wetterinformation</string>
   <string name="information_manager_wlan">Laden wenn mit WLAN verbunden</string>
   <string name="information_menu_title"/>
@@ -130,7 +124,6 @@
   <string name="open">Öffnen</string>
   <string name="open_browser">Im Browser öffnen</string>
   <string name="pressure_connect">%1$s hPa</string>
-  <string name="realtime_aqi_connection">%1$s</string>
   <string name="realtime_aqi_title">Luftqualität</string>
   <string name="realtime_humidity_title">Relative Luftfeuchte</string>
   <string name="realtime_wind_default_title">Wind</string>
@@ -174,7 +167,6 @@
   <string name="view_indexes_item_today">Heute</string>
   <string name="view_indexes_item_tommorrow">Morgen</string>
   <string name="weather_alert">Wetterwarnungen</string>
-  <string name="weather_unit">°</string>
   <string name="wind_miles_unit">%1$s m/s</string>
   <string name="wind_unit">%1$s km/h</string>
 </resources>
