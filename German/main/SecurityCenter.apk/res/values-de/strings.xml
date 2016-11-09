@@ -1163,7 +1163,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="recently_reject_message_one">%1$s Installationsversuche verweigert</string>
   <string name="recommend_app">Empfohlene Apps</string>
   <string name="recommend_news">Empfohlene News</string>
-    <string name="recommended">Empfohlen</string>
+  <string name="recommended">Empfohlen</string>
   <string name="reject_all">Alle verweigern</string>
   <string name="reject_countdown">Verweigern (%d)</string>
   <string name="reject_usb_install">Installation der folgenden Apps via USB verweigert</string>
@@ -1258,11 +1258,11 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="security_scan_card_clean_now">Überprüfen</string>
   <string name="security_scan_optimizing">Optimieren…</string>
   <string name="see_detail">Details</string>
-    <string name="see_more">Mehr</string>
+  <string name="see_more">Mehr</string>
   <string name="select_pattern">Muster auswählen</string>
   <string name="set_applock_password">Passwort festlegen</string>
-    <string name="set_immediately">Einstellen</string>
-    <string name="seton_immediately">Einschalten</string>
+  <string name="set_immediately">Einstellen</string>
+  <string name="seton_immediately">Einschalten</string>
   <string name="setting_privacy_password">Persönliches Schutzpasswort festlegen</string>
   <string name="setting_traffic_pkg">Datenpakete einstellen</string>
   <string name="settings">Einstellung zur Datennutzung</string>
@@ -1276,7 +1276,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="settings_power_save_ontime_title">Zeitplan</string>
   <string name="settings_title_payment_security">Zahlungssicherheitseinstellungen</string>
   <string name="settings_title_permission">Berechtigungseinstellungen</string>
-    <string name="share">Teilen</string>
+  <string name="share">Teilen</string>
   <string name="show_traffic_dialog_message">Ihre Datennutzung wird in der Statusleiste angezeigt. Sie können diese Funktion in den Einstellungen der Datennutzung jederzeit verändern.</string>
   <string name="show_traffic_dialog_title">Zeige Verbrauch in der Statusleiste</string>
   <string name="showpattern">Muster anzeigen</string>  
@@ -1295,6 +1295,13 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="sorted_button">Sortieren nach</string>
   <string name="sorted_dialog_title">Sortieren nach</string>
   <string name="sp_back_title_text_zero">Sicher</string>
+  <string name="sp_background_risk_dialog_summary">, bitte beachten Sie die Warnungen für eventuelle unsicheren Zahlungen</string>
+  <string name="sp_background_risk_dialog_title">Gefährlich</string>
+  <string name="sp_background_risk_type_messaging">Systemnachrichten app wurde ausgetauscht</string>
+  <string name="sp_background_risk_type_root">System ist gerooted</string>
+  <string name="sp_background_risk_type_sign">Unoffizielle App läuft im Hintergrund</string>
+  <string name="sp_background_risk_type_virus">Virus App läuft im Hintergrund</string>
+  <string name="sp_background_risk_type_wifi">Wifi Verbindung ist gefährlich</string>
   <string name="sp_button_text_ignore_alert_title">Dieses Kontrollkästchen ignorieren?</string>
   <string name="sp_empty_title_sign_exception">App in Ergebnisliste lange drücken, um zu Ausnahmen hinzufügen</string>
   <string name="sp_monitored_apps_count_zero">Keine Zahlungsapp ist geschützt</string>
