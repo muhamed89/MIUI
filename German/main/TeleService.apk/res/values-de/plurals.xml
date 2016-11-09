@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="remove_numbers_confirm">
+        <item quantity="other">%d Nummern werden gelöscht.</item>
+        <item quantity="one">%d Nummer wird gelöscht.</item>
+    </plurals>   
     <plurals name="phone_in_ecm_notification_time">
         <item quantity="other">Keine Datenverbindung seit %s Minuten</item>
         <item quantity="one">Keine Datenverbindung seit %s Minute</item>
