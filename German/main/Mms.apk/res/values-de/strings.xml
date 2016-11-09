@@ -203,6 +203,7 @@
   <string name="found_wild_messages_guide_sync_not_started">Synchronisierung hat noch nicht begonnen</string>
   <string name="found_wild_messages_title">Synchronisation mit Mi Cloud</string>
   <string name="from_label">"Von: "</string>
+  <string name="from_pkg_name">Von der App:</string>
   <string name="group_message">Gruppennachricht</string>
   <string name="group_message_failed_title">Senden an %d Kontakte fehlgeschlagen</string>
   <string name="group_resend_message">Erneut senden(%d)</string>
