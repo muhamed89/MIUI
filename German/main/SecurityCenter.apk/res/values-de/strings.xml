@@ -1297,11 +1297,11 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="sp_back_title_text_zero">Sicher</string>
   <string name="sp_background_risk_dialog_summary">, bitte beachten Sie die Warnungen für eventuelle unsicheren Zahlungen</string>
   <string name="sp_background_risk_dialog_title">Gefährlich</string>
-  <string name="sp_background_risk_type_messaging">Systemnachrichten app wurde ausgetauscht</string>
-  <string name="sp_background_risk_type_root">System ist gerooted</string>
-  <string name="sp_background_risk_type_sign">Unoffizielle App läuft im Hintergrund</string>
-  <string name="sp_background_risk_type_virus">Virus App läuft im Hintergrund</string>
-  <string name="sp_background_risk_type_wifi">Wifi Verbindung ist gefährlich</string>
+  <string name="sp_background_risk_type_messaging">Systemnachrichten-App wurde ausgetauscht</string>
+  <string name="sp_background_risk_type_root">System ist gerootet</string>
+  <string name="sp_background_risk_type_sign">Inoffizielle App läuft im Hintergrund</string>
+  <string name="sp_background_risk_type_virus">Viren-App läuft im Hintergrund</string>
+  <string name="sp_background_risk_type_wifi">WLAN-Verbindung ist gefährlich</string>
   <string name="sp_button_text_ignore_alert_title">Dieses Kontrollkästchen ignorieren?</string>
   <string name="sp_empty_title_sign_exception">App in Ergebnisliste lange drücken, um zu Ausnahmen hinzufügen</string>
   <string name="sp_monitored_apps_count_zero">Keine Zahlungsapp ist geschützt</string>
