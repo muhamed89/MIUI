@@ -145,11 +145,13 @@
   <string name="tanDesc">Tangens</string>
   <string name="tax_accumulation_fund">Anreicherungsfonds</string>
   <string name="tax_annual_bonus_hint">Bonus vor Steuern eingeben</string>
+  <string name="tax_annual_bonus_number">Bonus</string>
   <string name="tax_birth">Geburt</string>
   <string name="tax_cal_method_annual">Bonusberechnung zum Jahresende</string>
   <string name="tax_cal_method_fixed_salary">Einkommenssteuerberechnung</string>
   <string name="tax_cal_method_format">Persönliche Erfassung %s</string>
   <string name="tax_city">Ort</string>
+  <string name="tax_city_error">Gebens Sie richtigen Standort ein</string>
   <string name="tax_city_located">Standort</string>
   <string name="tax_city_picker">Ort</string>
   <string name="tax_endowment">Ausstattung</string>
@@ -157,7 +159,7 @@
   <string name="tax_income_before_tax">Einkommen vor Steuern</string>
   <string name="tax_income_error">Geben Sie ein korrektes Einkommen an</string>
   <string name="tax_income_number">Einkommen</string>
-  <string name="tax_income_type">Einkommesart</string>
+  <string name="tax_income_type">Einkommensart</string>
   <string name="tax_income_type_annual_bonus">Jährlicher Bonus</string>
   <string name="tax_income_type_fixed_monthly_salary">Monatliches Gehalt</string>
   <string name="tax_individual_income_tax">Individuelle Einkommenssteuer</string>
