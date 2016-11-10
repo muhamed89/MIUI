@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="group_move_success_toast">
+        <item quantity="other">%1$d Kontakte verschoben</item>
+    </plurals>
+    <plurals name="group_copy_success_toast">
+        <item quantity="other">%1$d Kontakte kopiert</item>
+    </plurals>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">%d Kontakte mit Telefonnummern</item>
         <item quantity="one">1 Kontakt mit Telefonnummer</item>
@@ -28,12 +34,6 @@
         <item quantity="other">%1$d von %2$s Kontakten</item>
         <item quantity="one">%1$d von %2$s Kontakten</item>
     </plurals>
-    <plurals name="group_copy_success_toast">
-        <item quantity="other">%1$d Kontakte kopiert</item>
-     </plurals>
-     <plurals name="group_move_success_toast">
-        <item quantity="other"> %1$d Kontakte verschoben</item>
-     </plurals>
     <plurals name="group_list_num_contacts_in_group">
         <item quantity="other">%1$d Kontakte</item>
         <item quantity="one">%1$d Kontakt</item>
@@ -58,7 +58,7 @@
         <item quantity="other">%1$d ausgewählt</item>
         <item quantity="one">%1$d ausgewählt</item>
     </plurals>
-	<plurals name="number_of_items_available">
+    <plurals name="number_of_items_available">
         <item quantity="other">%1$d übrig</item>
         <item quantity="one">%1$d übrig</item>
     </plurals>
@@ -70,10 +70,6 @@
         <item quantity="other">%1$d letzte Kontakte</item>
         <item quantity="one">1 letzten Kontakt</item>
     </plurals>
-    <plurals name="hint_account_contacts">
-        <item quantity="other">%1$d Einträge gefunden</item>
-        <item quantity="one">%1$d Einträge gefunden</item>
-     </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d Kontakte</item>
         <item quantity="one">%1$d Kontakt</item>
@@ -85,6 +81,9 @@
     <plurals name="hint_search_emails">
         <item quantity="other">%1$d E-Mails</item>
         <item quantity="one">1 E-Mail</item>
+    <plurals name="hint_account_contacts">
+        <item quantity="other">%1$d Einträge gefunden</item>
+        <item quantity="one">%1$d Einträge gefunden</item>
     </plurals>
     <plurals name="pick_favorites_contacts_list_title">
         <item quantity="other">%1$d Favoriten</item>
@@ -128,9 +127,13 @@
         <item quantity="one">Diese Nummer entsperren?</item>
     </plurals>
     <plurals name="voip_contacts_count">
-+        <item quantity="other">%1$d Kontakte</item>
-+        <item quantity="one">%1$d Kontakt</item>
-+    </plurals>
+        <item quantity="other">%1$d Kontakte</item>
+        <item quantity="one">%1$d Kontakt</item>
+    </plurals>
+    <plurals name="livetalk_unit">
+        <item quantity="other">Minuten</item>
+        <item quantity="one">Minute</item>
+    </plurals>
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">%d x angeklingelt</item>
         <item quantity="one">%d x angeklingelt</item>
