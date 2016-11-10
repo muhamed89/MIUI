@@ -16,4 +16,32 @@
         <item quantity="other">%d Fotos</item>
         <item quantity="one">%d Foto</item>
     </plurals>
+ <plurals name="dirty_callog_count">
+        <item quantity="other">%d Anrufverlaufsaufzeichnungen</item>
+        <item quantity="one">%d Anrufverlaufsaufzeichnung</item>
+    </plurals>
+    <plurals name="dirty_wlan_count">
+        <item quantity="other">%d WiFi Netzwerke</item>
+        <item quantity="one">%d WiFi Netzwerk</item>
+    </plurals>
+    <plurals name="dirty_recorder_count">
+        <item quantity="other">%d Aufzeichnungen</item>
+        <item quantity="one">%d Aufzeichnung</item>
+    </plurals>
+    <plurals name="dirty_music_count">
+        <item quantity="other">%d Lieder</item>
+        <item quantity="one">%d Lied</item>
+    </plurals>
+    <plurals name="dirty_browser_count">
+        <item quantity="other">%d Browser Elemente</item>
+        <item quantity="one">%d Browser Element</item>
+    </plurals>
+    <plurals name="dirty_calendar_count">
+        <item quantity="other">%d Kalender Elemente</item>
+        <item quantity="one">%d Kalender Element</item>
+    </plurals>
+    <plurals name="dirty_blocklist_count">
+        <item quantity="other">%d Sperrliste Einträge</item>
+        <item quantity="one">%d Sperrliste Eintrag</item>
+    </plurals>
 </resources>
