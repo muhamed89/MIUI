@@ -299,7 +299,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
     <string name="apps_with_restrictions_settings_button">Appeinstellungen erweitern</string>
     <string name="ask_compatibility">Beim Start fragen</string>
     <string name="assist_access_context_summary">Dem Assistenten erlauben, auf dem Bildschirm angezeigten Text zu verarbeiten</string>
-    <string name="assist_access_context_title">Bildschrimtext verwenden</string>
+    <string name="assist_access_context_title">Bildschirmtext verwenden</string>
     <string name="assist_access_screenshot_summary">Dem Assistenten erlauben, auf dem Bildschirm angezeigte Bilder zu verarbeiten</string>
     <string name="assist_access_screenshot_title">Screenshot verwenden</string>
     <string name="assist_and_voice_input_title">Assistent &amp; Spracheingabe</string>
