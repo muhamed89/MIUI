@@ -601,7 +601,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="keywords_networkassistant_4">Verbindung;Internet;Test</string>
   <string name="keywords_permcenter">Autostart;Berechtigung;ROOT;Standort;Zugriff auf Kontakte</string>
   <string name="keywords_powercenter">Energie sparen;Überhitzen;Einschalten;Ausschalten;Akku;Drain</string>
-  <string name="keywords_powercenter_powerrank">Batterie Nutzung</string>
+  <string name="keywords_powercenter_powerrank">Akkunutzung</string>
   <string name="keywords_securitycenter">Sicherheit;Check;Scan</string>
   <string name="keywords_securitycenter_settings">Energiesparmodus;Berechtigung;Sperrliste;Datenverbrauch;Datentarif;Daten sparen;Netzwerktest;Appsperre;Energie sparen;Überhitzen;Einschalten;Ausschalten;Akku;Drain;Autostart;Berechtigung;ROOT;Standort;Zugriff auf Kontakte;Betrug;Sales;Agents;Daten;Verkehr;Calibrate;Sparen;Verbindung;Internet;Test;Passwort;Privatsphäre;Zugruff;Sicherheit</string>
   <string name="kilobyteShort">KB</string>
@@ -839,7 +839,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wen
   <string name="notify_weekly_traffic_title_for_slotnum">%1$s %2$s diese Woche verbraucht</string>
   <string name="ok">OK</string>
   <string name="ok_button">OK</string>
-  <string name="old_sdk_deny_warning">"Diese App mit ist nicht kompatibel mit der neuesten Android Sicherheitsrichtlinie für Zugriffe. Deshalb kann nicht Sicher gestellt werden, dass diese App einwandfrei funktioniert."</string>
+  <string name="old_sdk_deny_warning">Die App mit ist nicht mit den neuesten Berchtigungsanforderungen für Android kompatibel. Deshalb kann eine einwandfreie Funktion der App nicht sicher gestellt werden.</string>
   <string name="open">öffnen</string>
   <string name="open_app">Öffnen</string>
   <string name="open_browser">In Browser öffnen</string>
@@ -903,7 +903,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wen
   <string name="path_networkassistant_4">Systemanwendungen/Sicherheit/Netzwerkassistent/Netzwerktest</string>
   <string name="path_permcenter">Systemanwendungen/Sicherheit/Berechtigungen</string>
   <string name="path_powercenter">Systemanwendungen/Sicherheit/Energiesparmodus</string>
-  <string name="path_powercenter_powerrank">Batterie &amp; Performance/Batterie Nutzung</string>
+  <string name="path_powercenter_powerrank">Akku &amp; Leistung/Akkunutzung</string>
   <string name="path_securitycenter">Systemanwendungen/Sicherheit</string>
   <string name="path_securitycenter_settings">Systemanwendungen/Sicherheit</string>
   <string name="pay_charge">Weitere Daten erwerben</string>
@@ -1014,7 +1014,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="power_dialog_ok">OK</string>
   <string name="power_idle">Ruhezustand</string>
   <string name="power_mode_choose_summary_change">In der Konfiguration wurde etwas geändert</string>
-  <string name="power_optimize_auto_catagory_title">Probleme mit der Batterie</string>
+    <string name="power_optimize_auto_catagory_title">Akkuprobleme</string>
   <string name="power_optimize_battery_save_idea">Akku optimieren</string>
   <string name="power_optimize_battery_save_more">Mehr</string>
   <string name="power_optimize_brightness">Bildschirmhelligkeit</string>
@@ -1182,6 +1182,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="resource_networkassistant_4">Netzwerktest</string>
   <string name="resource_permcenter">Berechtigungen</string>
   <string name="resource_powercenter">Energiesparmodus</string>
+    <string name="resource_powercenter_powerrank">Akku &amp; Leistung</string>
   <string name="resource_securitycenter">Sicherheit</string>
   <string name="resource_securitycenter_settings">Sicherheit</string>
   <string name="restrictbackground_conflict_saving_msg">Die Datenreduzierung kann bei Beschränkung der Hintergrunddaten nicht verwendet werden. Möchten Sie die Datenreduzierung und die Beschränkung der Hintergrunddaten ausschalten?</string>
@@ -1301,7 +1302,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="sp_background_risk_type_root">System ist gerootet</string>
   <string name="sp_background_risk_type_sign">Inoffizielle App läuft im Hintergrund</string>
   <string name="sp_background_risk_type_virus">Viren-App läuft im Hintergrund</string>
-  <string name="sp_background_risk_type_wifi">WLAN-Verbindung ist gefährlich</string>
+  <string name="sp_background_risk_type_wifi">WLAN-Verbindung ist unsicher</string>
   <string name="sp_button_text_ignore_alert_title">Dieses Kontrollkästchen ignorieren?</string>
   <string name="sp_empty_title_sign_exception">App in Ergebnisliste lange drücken, um zu Ausnahmen hinzufügen</string>
   <string name="sp_monitored_apps_count_zero">Keine Zahlungsapp ist geschützt</string>

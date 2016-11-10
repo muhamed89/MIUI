@@ -545,6 +545,7 @@
   <string name="order_pending">Erwarte Bestätigung</string>
   <string name="order_process_fail">"Konto konnte nicht autorisiert werden. Warten Sie einen Moment und versuchen Sie es erneut."</string>
   <string name="other_filter">Andere</string>
+  <string name="other_song_in_album">Andere Titel vom selben Album</string>
   <string name="othor_song_in_album">Andere Titel vom selben Album</string>
   <string name="package_filter">Pakete</string>
   <string name="pause_download">Pause</string>
