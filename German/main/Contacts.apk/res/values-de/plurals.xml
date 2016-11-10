@@ -81,6 +81,7 @@
     <plurals name="hint_search_emails">
         <item quantity="other">%1$d E-Mails</item>
         <item quantity="one">1 E-Mail</item>
+    </plurals>
     <plurals name="hint_account_contacts">
         <item quantity="other">%1$d Einträge gefunden</item>
         <item quantity="one">%1$d Einträge gefunden</item>
