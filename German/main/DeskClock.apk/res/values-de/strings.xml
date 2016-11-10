@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_alarm">"  Neuer Wecker  "</string>
-  <string name="alarm_alert">Standard Weckton</string>
   <string name="alarm_alert_alert_silenced">Wecker verstummt nach %d Minuten.</string>
   <string name="alarm_alert_snooze_set">Für %d Minuten schlummern.</string>
   <string name="alarm_ascending_mode_summary">Weckerlautstärke steigt allmählich an</string>
@@ -14,7 +13,6 @@
   <string name="alarm_notify_snooze_label">Schlummern (%s)</string>
   <string name="alarm_notify_text">Schlummern oder beenden</string>
   <string name="alarm_repeat">Wiederholen</string>
-  <string name="alarm_screen">Weckbildschirm und Weckton</string>
   <string name="alarm_settings">Weckereinstellungen</string>
   <string name="alarm_vibrate">Vibrieren</string>
   <string name="alarm_volume_summary">Wecklautstärke einstellen</string>
@@ -40,7 +38,6 @@
   <string name="default_alarm_alert">Standardweckton festlegen</string>
   <string name="default_alarm_title">Standardweckton</string>
   <string name="default_label">Wecker</string>
-  <string name="delelte_selected_timezone">Ausgewählte Zeitzone löschen?</string>
   <string name="delete">Löschen</string>
   <string name="delete_alarm">Wecker löschen</string>
   <string name="delete_alarm_confirm">Ausgewählten Wecker löschen?</string>
@@ -87,6 +84,8 @@
   <string name="reset">Zurücksetzen</string>
   <string name="revert">Rückgängig</string>
   <string name="set_alarm">Wecker einstellen</string>
+  <string name="setting_alarm_arriving_summary">Vor dem Weckton eine Nachricht senden</string>
+  <string name="setting_alarm_arriving_title">Nachricht vor Weckton</string>
   <string name="settings">Einstellungen</string>
   <string name="shutdown_alarm_disable_summary">Standby Alarm ist AUS</string>
   <string name="shutdown_alarm_enable_summary">Standby Alarm ist AN</string>
@@ -116,7 +115,6 @@
   <string name="timer_alert_alert_silenced">Timer verstummt nach %d Minuten</string>
   <string name="timer_clock_alert_text">Bitte Timer einstellen</string>
   <string name="timer_continue">Fortsetzen</string>
-  <string name="timer_delete">Entfernen</string>
   <string name="timer_got_it">OK</string>
   <string name="timer_item_duration_display">%1$d Min %2$d Sek</string>
   <string name="timer_item_label_hint">Timername</string>
@@ -136,7 +134,6 @@
   <string name="upcoming_alarm_hint">Sie können diesen Wecker im Voraus beenden</string>
   <string name="vibrate_pref_summary">Bei Alarm vibrieren</string>
   <string name="vibrate_when_ringing">Vibrieren beim Klingeln</string>
-  <string name="volume_button_dialog_title">Tastenfunktion</string>
   <string name="volume_button_setting_summary">Verhalten dieser Tasten während Wecker klingelt</string>
   <string name="volume_button_setting_title">Lautstärketasten</string>
   <string name="workday_alarm_clock">Wecker an Werktagen</string>
