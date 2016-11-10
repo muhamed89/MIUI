@@ -839,7 +839,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wen
   <string name="notify_weekly_traffic_title_for_slotnum">%1$s %2$s diese Woche verbraucht</string>
   <string name="ok">OK</string>
   <string name="ok_button">OK</string>
-  <string name="old_sdk_deny_warning">Die App mit ist nicht mit den neuesten Berchtigungsanforderungen für Android kompatibel. Deshalb kann eine einwandfreie Funktion der App nicht sicher gestellt werden.</string>
+  <string name="old_sdk_deny_warning">Die App ist nicht mit den neuesten Berchtigungsanforderungen für Android kompatibel. Deshalb kann eine einwandfreie Funktion der App nicht sicher gestellt werden.</string>
   <string name="open">öffnen</string>
   <string name="open_app">Öffnen</string>
   <string name="open_browser">In Browser öffnen</string>
