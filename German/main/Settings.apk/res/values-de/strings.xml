@@ -293,6 +293,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
     <string name="apply_now_button_text">Update</string>
     <string name="apply_password_to_category_title">Erfordern entsperren</string>
     <string name="apply_update_fail">Update fehlgeschlagen</string>
+    <string name="approve_title">Überprüfung</string>
     <string name="apps_and_data_item_desc">Apps und Daten</string>
     <string name="apps_storage">App Speicher</string>
     <string name="apps_with_restrictions_header">Apps mit Einschränkungen</string>
@@ -2791,6 +2792,7 @@ Betriebssystem auswählen:"</string>
     <string name="path_brightness_settings">Settings/Display/Brightness</string>
     <string name="path_button_light_timeout">Settings/Additional settings/Buttons/Keep button lights on</string>
     <string name="path_calendar_sound_title">Settings/Sound &amp; vibration/Calendar sound</string>
+    <string name="path_camera_key_action_shortcut_screenshot">Settings/Additional settings/Screenshot</string>
     <string name="path_children_mode_settings">Settings/Additional settings/Child mode</string>
     <string name="path_choose_timezone">Settings/Additional settings/Date &amp; time/Choose time zone</string>
     <string name="path_cloud_backup_settings_section_title">Settings/Additional settings/Backup &amp; reset/Backup settings</string>
@@ -2813,6 +2815,7 @@ Betriebssystem auswählen:"</string>
     <string name="path_do_not_disturb_settings">Settings/Do not disturb</string>
     <string name="path_dtmf_tone_enable_title">Settings/Sound &amp; vibration/Dial pad tones</string>
     <string name="path_edge_handgrip">Settings/Edge controls</string>
+    <string name="path_enable_adb">Settings/Additional settings/Developer options/USB debugging</string>
     <string name="path_equalizer">Settings/Sound &amp; vibration/Audio settings/Equalizer</string>
     <string name="path_fluency_mode">Settings/Battery &amp; performance/System animations</string>
     <string name="path_font_settings">Settings/Display/System font</string>
@@ -2860,6 +2863,7 @@ Betriebssystem auswählen:"</string>
     <string name="path_other_advanced_settings">Settings/Additional settings</string>
     <string name="path_owner_info_settings">Settings/Lock screen &amp; password/Owner info</string>
     <string name="path_page_layout_settings">Settings/Display/Text size</string>
+    <string name="path_permission_settings_title">Settings/Permissions/App permissions</string>
     <string name="path_pn_settings">Settings/Mobile network settings/Access Point Names</string>
     <string name="path_pointer_speed">Settings/Additional settings/Language &amp; input/Pointer speed</string>
     <string name="path_power_checker">Settings/Additional/Beta features/Power Checker</string>
@@ -3538,6 +3542,7 @@ Um Screenpinning zu nutzen:
     <string name="search_brightness">Helligkeit</string>
     <string name="search_button_light_timeout">Tastenbeleuchtung eingeschaltet lassen</string>
     <string name="search_calendar_sound_title">Kalenderton</string>
+    <string name="search_camera_key_action_shortcut_screenshot">Screenshot</string>
     <string name="search_children_mode_settings">Kindersicherung;Lock sms</string>
     <string name="search_children_mode_title">Kindersicherung</string>
     <string name="search_choose_timezone">Zeitzone wählen</string>
@@ -3562,6 +3567,7 @@ Um Screenpinning zu nutzen:
     <string name="search_dtmf_tone_enable_title">Wähltastentöne</string>
     <string name="search_edge_handgrip">Edge controls</string>
     <string name="search_empty">Entschuldigung, es wurden keine relevanten Einstellungen gefunden</string>
+    <string name="search_enable_adb">USB-Debugging</string>
     <string name="search_equalizer">Equalizer</string>
     <string name="search_fluency_mode">Systemanimationen</string>
     <string name="search_font">Systemschriftart</string>
@@ -3602,6 +3608,7 @@ Um Screenpinning zu nutzen:
     <string name="search_other_advanced_settings">Weitere Einstellungen;Privatsphäreeinstellungen;Datum &amp; Uhrzeit;Sprache &amp; Eingabe;Einhandmodus;Akku &amp; Leistung;Speicher;Benachrichtigungs-LED;LED;Kopfhörer &amp; Audioeffekte;Tasten;Schlüssel;Zugänglichkeit;Betafunktionen;Laborfunktionen;Entwicklereinstellungen;Sichern &amp; Wiederherstellen;Transfer;Ein-Tasten-Migration</string>
     <string name="search_owner_info_settings">Eigentümerinfo</string>
     <string name="search_page_layout_settings">Textgröße</string>
+    <string name="search_permission_settings_title">App-Berechtigungen</string>
     <string name="search_pointer_speed">Zeigergeschwindigkeit</string>
     <string name="search_power_checker">Akku überprüfen</string>
     <string name="search_power_hide_mode_title">Akkuverbrauch von Apps verwalten</string>
