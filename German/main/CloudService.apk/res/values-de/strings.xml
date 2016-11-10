@@ -4,10 +4,13 @@
   <string name="account">Konto</string>
   <string name="account_related">Ihr Gerät ist mit einem bestehenden Mi Konto verknüpft(%s). Stellen Sie eine Internetverbindung her, um das Gerät zu verifizieren.</string>
   <string name="activate">Aktivieren</string>
+  <string name="activate_finddevice">Zum Aktivieren das Smartphone mit dem Netzwerk verbinden.</string>
   <string name="activate_number_change_dialog_message">Wählen Sie eine Telefonnummer, welche sichtbar für andere Geräte ist, wenn Sie per VoIP telefonieren.</string>
   <string name="activating">Wird aktiviert…</string>
-  <string name="activate_finddevice">Stellen Sie eine Internetverbindung her, um das Gerät zu aktivieren</string>
-  <string name="alert_notif_title_dspt">Nicht synchronisieren</string>
+  <string name="add_cloud_storage">Speicher hinzufügen</string>
+  <string name="add_short_cut">Hinzufügen</string>
+  <string name="added_successfully">Hinzufügen erfolgreich</string>
+  <string name="all_sync_item_open">Alle Elemente sind auf</string>  
   <string name="antispam_sync">\"Bitte nicht stören\" Einstellungen</string>
   <string name="app_name">Mi Cloud</string>
   <string name="apple_10gb">20GB</string>
@@ -90,6 +93,7 @@ Zuletzt gesichert am %2$s"</string>
   <string name="find_device_dspt_provision_4">Wenn Sie Ihre SIM-Karte wechseln, wird automatisch eine SMS Nachricht gesendet, um diese Funktion zu reaktivieren.</string>
   <string name="find_device_enabling">Schalte ein…</string>
   <string name="find_device_error_network">Überprüfen Sie Ihre Datenverbindung und versuchen Sie es erneut.</string>
+  <string name="find_device_error_password_changed">Das Kontopasswort wurde kürzlich geändert.</string>
   <string name="find_device_error_server">Serverfehler</string>
   <string name="find_device_error_unknown">Unknown error.</string>
   <string name="find_device_notice_p1">Gehe auf</string>
@@ -111,14 +115,12 @@ Zuletzt gesichert am %2$s"</string>
   <string name="get_this_month_gb">Erhalte %s freien Speicher diesen Monat</string>
   <string name="google_100gb">100GB</string>
   <string name="google_cloud">Google Drive</string>
-  
   <string name="google_cloud_eng">Google Drive</string>
   <string name="google_cloud_price">Etwa RMB 143 pro Jahr</string>
   <string name="header_cloud_backup_settings">Sichern und Wiederherstellen</string>
   <string name="header_cloud_restore_summary">Apps, Startbildschirm und Systemeinstellungen von einer Sicherung aus der Mi Cloud wiederherstellen</string>
   <string name="header_data_and_synchronization">Daten &amp; Synchronisation</string>
   <string name="header_find_device_settings">Gerät finden</string>
-  <string name="header_other_settings">Erweiterte Einstellungen</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">Passwort eingeben</string>
   <string name="internet_access_dspt">Diese App benötigt eine Verbindung zum Internet, um ordnungsgemäß ausgeführt werden zu können.</string>
@@ -183,15 +185,13 @@ Zuletzt gesichert am %2$s"</string>
   <string name="micloud_detail_lastest">Synchronisiert</string>
   <string name="micloud_detail_lastest_with_off">Synchronisiert</string>
   <string name="micloud_detail_not_sync">%d warten auf Synchronisation</string>
-  <string name="micloud_detail_ok">OK</string>
   <string name="micloud_detail_not_synced">Nicht synchronisiert</string>
+  <string name="micloud_detail_ok">OK</string>
   <string name="micloud_detail_pending">Warten</string>
   <string name="micloud_detail_preference_sync_items">Elemente</string>
   <string name="micloud_detail_query_error">"Synchronisationszustand kann nicht gelesen werden"</string>
   <string name="micloud_detail_query_error_detail">"Synchronisationszustand kann nicht überprüft werden. Bitte kontaktieren Sie die Entwickler."</string>
   <string name="micloud_detail_query_error_title">"Synchronisationszustand kann nicht überprüft werden"</string>
-  <string name="micloud_detail_preference_syncing">Synchronisieren</string>
-  <string name="micloud_detail_preference_wlan">Im WLAN synchronisieren</string>
   <string name="micloud_detail_success">Synchronisiert</string>
   <string name="micloud_detail_syncing">Wird synchronisiert</string>
   <string name="micloud_detail_sync_now">Jetzt synchronisieren</string>
@@ -296,6 +296,7 @@ Berühre den Einstellungsknopf, um mehr Optionen zu sehen"</string>
   <string name="micloud_notif_content_depend_wifi">Zum Synchronisieren mit einem WLAN verbinden.</string>
   <string name="micloud_notif_content_master_depend_wifi">Verbinden Sie sich zuerst mit einem WLAN.</string>
   <string name="micloud_notif_content_memory_low">Nicht genügend Speicherplatz.</string>
+  <string name="micloud_notif_content_multi_user_error">Sie sind mit dem gleichen Account auf dem ersten Space angemeldet.</string>
   <string name="micloud_notif_content_sync_finish">Konto</string>
   <string name="micloud_notif_content_sync_not_finish">Detail</string>
   <string name="micloud_notif_content_sync_with_off">Tippen Sie hier, um Ihr Gerät jetzt zu synchronisieren.</string>
