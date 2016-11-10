@@ -28,6 +28,7 @@
   <string name="call_record_sample_prefix_miui">Anruf</string>
   <string name="caller_info_name_delimiter">" oder "</string>
   <string name="cancel_action">Abbrechen</string>
+  <string name="configure_input_methods">Tastatur auswählen</string>
   <string name="copy">Kopieren</string>
   <string name="cut">Ausschneiden</string>
   <string name="default_name">Standard</string>
