@@ -172,6 +172,7 @@
   <string name="empty_title_garbage_white_list">Lange antippen, um Ausnahmen hinzuzufügen.</string>
   <string name="empty_title_installed_apps">Leer</string>
   <string name="empty_title_large_files">Leer</string>
+  <string name="empty_title_photos">Keine Fotos gefunden</string>
   <string name="empty_title_residual">Keine Reste gefunden</string>
   <string name="empty_title_video">Keine Videos zum Löschen​</string>
   <string name="flow_rank_title">Datenverbrauch</string>
