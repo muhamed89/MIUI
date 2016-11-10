@@ -84,6 +84,8 @@ Telefon, wie bei einem Anruf halten, ins Mikrofon sprechen. Die Stimme sollte mi
     <string name="cit_audio_right_caldata">Right PA Calibrated Data:
 </string>
     <string name="cit_audio_right_calfail">Right PA Calibrated Failed!</string>
+    <string name="cit_battery_check_summary">Akkustatistik</string>
+    <string name="cit_battery_check_title">Akkuinfo</string>
     <string name="cit_battery_temp_fail">Akkutest mit (value=%d) fehlgeschlagen</string>
     <string name="cit_battery_temp_pass">Akkutest erfolgreich</string>
     <string name="cit_batterylight_blue">Blau</string>
