@@ -58,6 +58,7 @@
   <string name="from_unit">km/h</string>
   <string name="from_unit_en">Kilometer pro Stunde</string>
   <string name="from_unit_short">km/h</string>
+  <string name="home_title_calculator">Taschenrechner</string>
   <string name="item_title_aa_payment">Zahlung splitten</string>
   <string name="item_title_area_conversion">Fläche</string>
   <string name="item_title_calculator">Rechner</string>
@@ -163,6 +164,8 @@
   <string name="tax_individual_income_tax_result">Individual income tax result</string>
   <string name="tax_injury">Verletzung</string>
   <string name="tax_insurance_and_fund">Insurance and fund</string>
+  <string name="tax_last_salary_hint">Geben Sie Ihr Einkommen ein</string>
+  <string name="tax_last_salary_number">Einkommen</string>
   <string name="tax_medical">Medizinisch</string>
   <string name="tax_param_error">Bitte geben Sie die korrekten Versicherungsraten ein</string>
   <string name="tax_result_real_get">Netto</string>
