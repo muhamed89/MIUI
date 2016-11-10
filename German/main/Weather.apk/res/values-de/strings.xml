@@ -18,6 +18,7 @@
   <string name="activity_main_one_alert"/>
   <string name="activity_main_time_format">E</string>    
   <string name="activity_main_update_time">Aktualisiert %1$s</string>
+    <string name="activity_main_update_time_expire">Daten veraltet</string>
   <string name="activity_main_update_time_right_now">Gerade eben</string>
   <string name="activity_weathermain_locationg">Lokalisieren…</string>
   <string name="activity_weathermain_locationg_error">"Konnte nicht lokalisiert werden"</string>
