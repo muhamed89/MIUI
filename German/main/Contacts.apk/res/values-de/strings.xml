@@ -157,6 +157,7 @@
   <string name="chat_qq">Über QQ chatten</string>
   <string name="chat_skype">Über Skype chatten</string>
   <string name="chat_yahoo">Über Yahoo chatten</string>
+    <string name="check_unsynchronized_accounts">An Kontosynchronisation erinnern</string>
   <string name="checkhint">Anderes Telefon überprüfen</string>
   <string name="clearCallLogConfirmation">Alle Anruflisten werden gelöscht</string>
   <string name="clearCallLogConfirmation_title">Alle Anruflisten löschen?</string>
@@ -390,6 +391,9 @@ Kontaktkarten sind ausgeschaltet.</string>
   <string name="dialog_voicemail_airplane_mode_message">Um die Mailbox abzurufen, schalten Sie den Flugmodus aus</string>
   <string name="dialog_voicemail_not_ready_message">Zum Einrichten der Mailbox gehen Sie in das Menü &gt; Einstellungen</string>
   <string name="directory_search_label">Verzeichnis</string>
+    <string name="dirty_contacts_notification_description">%d Änderungen wurden nicht mit Ihrem Mi Konto synchronisiert.</string>
+    <string name="dirty_contacts_notification_message">Die Erinnerung kann jederzeit in den Einstellungen ausgeschaltet werden.</string>
+    <string name="dirty_contacts_notification_title">Kontakte synchronisieren?</string>
   <string name="display_all_contacts">Alle Kontakte</string>
   <string name="display_more_groups">Weitere Gruppen…</string>
   <string name="display_only_phones">Nur Kontakte mit Telefonnummer</string>
@@ -627,6 +631,11 @@ Grund: \"%s\"."</string>
   <string name="list_filter_customize">Anpassen</string>
   <string name="list_filter_phones">Alle Kontakte mit Telefonnummern</string>
   <string name="list_filter_single">Kontakt</string>
+    <string name="live_talk_switch_on_toast">Live talk wurde aktiviert</string>
+    <string name="livetalk_charge">Aufladen</string>
+    <string name="livetalk_left">Verbleibender Live talk</string>
+    <string name="livetalk_switch_on">Einschalten</string>
+    <string name="livetalk_title">Live talk</string>
   <string name="loading_accounts">Wird geladen…</string>
   <string name="loading_group_members">Lade Gruppenmitglieder…</string>
   <string name="loading_groups">Lade Gruppen…</string>
@@ -1323,7 +1332,8 @@ Wählen Sie eine der folgenden Optionen:"</string>
   <string name="wipe_data">Daten löschen</string>
   <string name="yellowPageNavigationIconLabel">Gelbe Seiten</string>
   <string name="yellowPageNavigationLabel">Gelbe Seiten</string>
-  <string name="yellowpage_navigation_ad_hint">Ad</string>
+    <string name="yellowpage_mi_family">Mi Familie</string>
+  <string name="yellowpage_navigation_ad_hint">Werbung</string>
   <string name="yellowpage_navigation_balance_refresh_failed">Guthaben und Daten konnten nicht überprüft werden, versuchen Sie später erneut.</string>
   <string name="yellowpage_navigation_balance_refresh_succeed">Guthaben und Daten wurden überprüft</string>
   <string name="yellowpage_navigation_clear_search_history">Verlauf löschen</string>
