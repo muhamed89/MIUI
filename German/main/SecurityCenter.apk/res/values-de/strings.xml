@@ -465,7 +465,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="examination_score_60_0">Überprüfe jetzt</string>
   <string name="examination_score_80_100">Einige Punkte können optimiert werden</string>
   <string name="examination_score_80_100_with_recommend">%d können optmiert werden</string>
-  <string name="examination_score_80_60">Einige Punkte können optmiert werden</string>
+  <string name="examination_score_80_60">Einige Punkte können optimiert werden</string>
   <string name="examination_score_has_virus">Einige Apps sind verdächtig.</string>
   <string name="finger_remind_message">Sie können auch Ihren Fingerabdruck zur Appsperre verwenden</string>
   <string name="fingerprint_identify_msg">Scannen Sie Ihren Fingerabdruck</string>
