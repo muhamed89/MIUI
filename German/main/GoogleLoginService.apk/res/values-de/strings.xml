@@ -245,7 +245,7 @@ numbers, and periods. "</string>
   <string name="invalid_other_text">"This name can't be used with Google+."</string>
   <string name="invalid_password_character">Invalid password character.</string>
   <string name="invalid_username">"The text you typed isn't a valid username."</string>
-  <string name="is_not_available">The username &lt;b&gt;^1&lt;/b&gt;" isn't available."</string>
+  <string name="is_not_available">The username &lt;b&gt;^1&lt;/b&gt; isn't available.</string>
   <string name="last_name">Last</string>
   <string name="learn_more">&lt;annotation id="learn_more"&gt;Learn more&lt;/annotation&gt;</string>
   <string name="learn_more_account_intro">"A Google Account lets you:
