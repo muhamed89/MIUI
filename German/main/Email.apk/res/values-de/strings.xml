@@ -791,12 +791,7 @@
   <string name="reply_add_bodycontent">Kurzantwort hinzufügen?</string>
   <string name="reply_all">Allen Antworten</string>
   <string name="reply_attribution" formatted="false">Am %s, %s schrieb:</string>
-    <string name="reply_subject_label">AW:</string>
   <string name="report_phishing">Phishing melden</string>
-    <string name="report_rendering_improvement">Sieht gut aus</string>
-    <string name="report_rendering_improvement_desc">Diese Meldung sieht gut aus.</string>
-    <string name="report_rendering_problem">Sieht schlecht aus</string>
-    <string name="report_rendering_problem_desc">Diese Meldung sieht schlecht aus.</string>
   <string name="report_spam">Spam melden</string>
   <string name="request_entity_large">Datei ist zu groß!</string>
   <string name="request_permission_activity">Zugriffsanfrage</string>
