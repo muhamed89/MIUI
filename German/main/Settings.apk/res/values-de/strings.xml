@@ -695,7 +695,9 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
     <string name="bluetooth_unlock_change_device_confirm_msg">Das alte Gerät wird mit dem Neuen ersetzt</string>
     <string name="bluetooth_unlock_change_matched_device">Anderes Gerät auswählen</string>
     <string name="bluetooth_unlock_confirm_device_text">Zum Bestätigen bitte erneut auf das Gerät tippen</string>
-    <string name="bluetooth_unlock_confirm_device_text_2">Tippen Sie auf die Taste am Gerät zum Entsperren.</string>
+    <string name="bluetooth_unlock_confirm_device_text_2">Zum Entsperren tippen Sie auf die Taste am Gerät</string>
+    <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Zum Entsperren tippen Sie auf die Taste an der Uhr</string>
+    <string name="bluetooth_unlock_confirm_device_text_for_miband2">Zum Entsperren tippen Sie auf die Taste am Band</string>
     <string name="bluetooth_unlock_delete_device">Dieses Gerät entfernen</string>
     <string name="bluetooth_unlock_delete_device_confirm_msg">Dieses Gerät entfernen?</string>
     <string name="bluetooth_unlock_device_matched_text">Dieses Gerät zum Entsperren verwenden</string>
@@ -1682,6 +1684,7 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
     <string name="free_xiaomi_wifi_connect_summary">Berühren um mit %1$s zu verbinden.</string>
     <string name="frequently_fragment_delete">Löschen</string>
     <string name="frequently_fragment_tempty">Oft genutzte Inhalte werden hier aufgelistet</string>
+    <string name="full_transparent_smarrcover_title">Transparente Frontabdeckung</string>
     <string name="fullbackup_data_summary">"Gerätedaten (wie WLAN Passwörter und Gesprächsverlauf) und Anwendungsdaten (wie Einstellungen und Daten von Apps) automatisch sichern.
 
 Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten periodisch in der Cloud gespeichert. Dies können beliebige Daten, auch persönliche Daten wie Kontakte, Nachrichten und Fotos sein."</string>
@@ -3960,6 +3963,8 @@ Verbleibende Versuche :"</string>
     <string name="slot_status_title">IMEI-Information</string>
     <string name="small_font">Klein</string>
     <string name="smallwindow_smartcover_title">Transparente Frontabdeckung</string>
+    <string name="smartcover_lock_or_unlock_screen_tittle">Bildschirm mit Smart Cover sperren oder entsperren</string>
+    <string name="smartcover_sensitive_summary">Telefon mit Smart Cover einfach sperren oder entsperren</string>
     <string name="smartcover_sensitive_title">Smartcovermodus</string>
     <string name="sms_application_title">Standard-SMS-App</string>
     <string name="sms_change_default_dialog_text">Verwende %1$s anstelle von %2$s als Ihre SMS-App?</string>
