@@ -14,6 +14,7 @@
   <string name="album_name">Tägliche Auswahl: %s</string>
   <string name="all_topic">Alle Schlagwörter</string>
   <string name="already_liked">Schon in den Favoriten vorhanden</string>
+    <string name="already_signin_description">Sie sind bereits angemeldet</string>
   <string name="app_name">Dateien</string>
   <string name="app_name_bluetooth">Bluetooth</string>
   <string name="app_name_camera">Kamera</string>
@@ -26,6 +27,14 @@
   <string name="app_name_miuiringtone">Klingeltöne</string>
   <string name="app_name_miuiwallpaper">Hintergründe</string>
   <string name="app_name_screenshot">Screenshots</string>
+    <string name="archive_send_to">Sende an…</string>
+    <string name="auto_play">Bei WLAN-Verbindung automatisch abspielen</string>
+    <string name="auto_play_later">Später</string>
+    <string name="auto_play_now">Einschalten</string>
+    <string name="auto_play_recommend">Automatisch abspielen</string>
+    <string name="auto_play_recommend_tips">Videos automatisch abspielen</string>
+    <string name="auto_play_toast">Videos werden automatisch abgespielt. Sie können dies in den Einstellungen ändern.</string>
+    <string name="background">Verbergen</string>
   <string name="backup_cancel">Abbrechen</string>
   <string name="backup_checkbox_msg">Automatisch sichern</string>
   <string name="backup_confirm">Jetzt sichern</string>
@@ -128,6 +137,7 @@
   <string name="delete_video_dialog_tip">Sie können das Video nach dem Löschen nicht wiederherstellen</string>
   <string name="delete_video_dialog_title">Video löschen</string>
   <string name="delete_video_success">Erfolgreich gelöscht</string>
+    <string name="deleted_video_msg">Zu spät, dieses Video wurde gelöscht.</string>
   <string name="dialog_logout_message">Jetzt ausloggen?</string>
   <string name="dialog_logout_title">Ausloggen</string>
   <string name="dialog_select_type">Typ auswählen</string>
@@ -227,6 +237,7 @@
   <string name="instruction">"Folgende Adresse im FTP-Client eingeben: "</string>
   <string name="instruction_pre">"Drücken Sie 'Start' um den FTP-Server einzuschalten."</string>
   <string name="interest_recommend">Videos empfehlen</string> 
+    <string name="is_playing">Wird abgespielt…</string>
   <string name="just_now">Jetzt</string>
   <string name="kilobyteShort">KB</string>
   <string name="like_toast_1">Solche Videos werden Ihnen öfter empfohlen</string>
@@ -391,6 +402,7 @@
   <string name="phone_code_et_hint">Verifikationscode eingeben</string>
   <string name="phone_get_code_tip">Zu viele Versuche für heute</string>
   <string name="phone_has_used_tip">Diese Telefonnummer ist mit einem anderen Konto verknüpft, versuchen Sie eine andere.</string>
+    <string name="phone_login_btn_str">Telefonnummer</string>
   <string name="phone_login_title">Telefonnummer</string>
   <string name="phone_num">Telefonnummer</string>
   <string name="phone_num_et_hint">Telefonnummer eingeben</string>
@@ -415,6 +427,7 @@
   <string name="pick_file">Dateien auswählen</string>
   <string name="pick_folder">Ordner auswählen</string>
   <string name="popup_msg_qq">Dieses Video mit Ihren Freunden über QQ teilen.</string>
+    <string name="popup_msg_wb">Dieses Video mit Ihren Freunden über Weibo teilen.</string>
   <string name="popup_msg_wx">Dieses Video mit Ihren Freunden über WeChat teilen.</string>
   <string name="port_range">Port muss zwischen 1024-65535 sein</string>
   <string name="private_files">Privat</string>
@@ -500,6 +513,15 @@
   <string name="share_success">Erfolgreich geteilt</string>
   <string name="share_tip_1">Danke fürs Teilen, folgen Sie mir, um weitere Videos zu sehen</string>
   <string name="share_tip_2">Danke fürs Teilen, folgen Sie mir, um weitere Videos zu sehen</string>
+    <string name="share_title_01">%1$s Hier ist ein cooles Video! %2$s</string>
+    <string name="share_title_02">%1$s Hier ist ein cooles Video!</string>
+    <string name="share_title_03">%1$s Hier ist ein cooles Video! %2$s</string>
+    <string name="share_title_04">%1$s Ich habe ein Video geteilt, schau es mal an! %2$s</string>
+    <string name="share_title_05">%1$s Ich habe ein Video geteilt, schau es mal an! %2$s</string>
+    <string name="share_title_06">%1$s Ich habe ein Video geteilt, schau es mal an! %2$s</string>
+    <string name="share_title_07">%s Ich habe ein Video geteilt, schau es mal an!</string>
+    <string name="share_title_08">%s Ich habe ein Video geteilt, schau es mal an!</string>
+    <string name="share_title_09">%s Ich habe ein Video geteilt, schau es mal an!</string>
   <string name="share_title_1">Ich habe ein cooles Stickerpaket gefunden!</string>
   <string name="share_to">Teilen mit…</string>
   <string name="share_youliao1">Upgraden, um mehr Episoden zu sehen.</string>
@@ -513,6 +535,9 @@
   <string name="shared_sticker_use_tip">Sie können Sticker in WeChat Unterhaltungen senden, wie wenn Sie Bilder versenden würden.</string>
   <string name="shared_sticker_use_tip_title">Wie verwende ich Sticker</string>
   <string name="shared_str">Geteilt von %s</string>
+    <string name="shortcut_exists">Verknüpfung existiert bereits</string>
+    <string name="shortcut_hotvideos">Beliebte Videos</string>
+    <string name="shortcut_msg">Verknüpfung für beliebte Videos zu Startbildschirm hinzufügen</string>
   <string name="smb_loading">Einen Moment…</string>
   <string name="sort_size_asc">Von klein nach groß</string>
   <string name="sort_size_desc">Von groß nach klein</string>
