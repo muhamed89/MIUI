@@ -24,7 +24,6 @@
   <string name="cta_dialog_content">Diese Anwendung benötigt den Zugriff auf das Internet, um ordnungsgemäß zu funktionieren.</string>
   <string name="cta_dialog_title">Internetverbindung</string>
   <string name="cta_not_show_again">Nicht mehr anzeigen</string>
-    <string name="default_text_view">TextView</string>
   <string name="description">Beschreiben Sie den Fehler</string>
   <string name="dialog_ask_delete">Löschen</string>
   <string name="dialog_ask_quit">Beenden</string>
