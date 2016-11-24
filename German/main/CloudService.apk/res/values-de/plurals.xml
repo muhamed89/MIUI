@@ -44,4 +44,16 @@
         <item quantity="other">%d Sperrliste Einträge</item>
         <item quantity="one">%d Sperrliste Eintrag</item>
     </plurals>
+    <plurals name="items_unsynced">
+        <item quantity="other">Elemente warten auf Synchronisation: %d</item>
+        <item quantity="one">Element wartet auf Synchronisation: %d</item>
+    </plurals>
+    <plurals name="items_waiting_to_sync">
+        <item quantity="other">%d Elemente warten auf Synchronisation</item>
+        <item quantity="one">%d Element wartet auf Synchronisation</item>
+    </plurals>
+    <plurals name="sync_items_close">
+        <item quantity="other">%d sind ausgeschaltet</item>
+        <item quantity="one">%d ist ausgeschalget</item>
+    </plurals>
 </resources>

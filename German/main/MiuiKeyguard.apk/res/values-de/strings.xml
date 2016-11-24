@@ -16,6 +16,8 @@
   <string name="experimental_validate_username">Benutzername</string>
   <string name="experimental_validate_warning">Danke, dass Sie uns helfen MIUI zu verbessern!</string>
   <string name="find_device_turn_off_flight_mode">Flugmodus ausschalten</string>
+  <string name="fingerprint_add_text">Die Fingerabdruck-Schnittstelle wurde aktualisiert. Fügen Sie Ihren Fingerabdruck noch einmal hinzu</string>
+  <string name="fingerprint_add_title">Fingerabdruck hinzufügen</string>
   <string name="fingerprint_enter_second_psw_msg">Geben Sie nach dem Neustart Ihr Zweitprofilpasswort ein, um die Fingerabdruckerkennung verwenden zu können</string>
   <string name="fingerprint_enter_second_psw_title">Zweitprofilpasswort eingeben</string>
   <string name="fingerprint_lockout_msg">Warten Sie eine Minute. Versuchen Sie es danach nochmals, per Fingerabdruck zu entsperren</string>

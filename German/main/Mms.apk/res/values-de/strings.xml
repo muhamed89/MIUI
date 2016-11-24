@@ -217,6 +217,17 @@
   <string name="hms_first_use_tips">Um Servicenachrichten zu erhalten, müssen Sie mit dem WLAN verbunden sein</string>
   <string name="hms_uri_param_err">URL kann nicht leer sein</string>
   <string name="hold_to_talk">Zum Sprechen halten</string>
+  <string name="hybrid_check_network">Netzwerkeinstellungen</string>
+  <string name="hybrid_data_error">Ein Fehler ist aufgetreten</string>
+  <string name="hybrid_locating_fail">Ihr Standort konnte nicht bestimmt werden</string>
+  <string name="hybrid_network_access_denied">Netzwerkzugriff verweigert</string>
+  <string name="hybrid_network_unavaliable">Keine Netzwerkverbindung</string>
+  <string name="hybrid_pull_to_refresh_pull_label">Zum Aktualisieren nach unten ziehen…</string>
+  <string name="hybrid_pull_to_refresh_refreshing_label">Einen Moment…</string>
+  <string name="hybrid_pull_to_refresh_release_label">Zum Aktualisieren loslassen…</string>
+  <string name="hybrid_service_unavailiable">Service nicht verfügbar</string>
+  <string name="hybrid_try_again">Erneut versuchen</string>
+  <string name="i_know">OK</string>
   <string name="importing_progress_private_message">Importiere Nachrichten…</string>
   <string name="in_sms">Nachricht</string>
   <string name="insufficient_drm_rights">Nicht ausreichende DRM-Rechte vorhanden</string>

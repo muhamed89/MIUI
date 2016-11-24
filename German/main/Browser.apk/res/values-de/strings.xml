@@ -84,6 +84,7 @@
   <string name="aqi_quality_index_moderate">AQI %1$s</string>
   <string name="aqi_quality_index_pure">AQI %1$s</string>
   <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
+  <string name="autofill_keyboard_accessory_content_description">Verfügbare Vorschläge</string>
   <string name="autofill_popup_content_description">Autofill-Popup anzeigen</string>
   <string name="autologin_bar_error">"Anmeldung fehlgeschlagen"</string>
   <string name="autologin_bar_hide_text">Verwerfen</string>
@@ -490,6 +491,8 @@ Diese Seite verlassen?"</string>
   <string name="paused_waiting_to_retry">Auf neuen Versuch warten…</string>
   <string name="pay_failed_toast">Bezahlung fehlgeschlagen</string>
   <string name="pay_success_toast">Bezahlung erfolgreich</string>
+  <string name="permission_alert_window">Um diese Funktion zu verwenden, aktivieren Sie die Systemeinstellung \"Popups anzeigen\".</string>
+  <string name="permission_unknown">Unbekannte Option</string>
   <string name="popup_window_attempt">Erlauben Sie dieser Seite ein Popup-Fenster zu öffnen?</string>
   <string name="positive_confirm_message">Trotzdem ausschalten</string>
   <string name="pref_accessibility">Eingabehilfen</string>
@@ -752,6 +755,7 @@ Diese Seite verlassen?"</string>
   <string name="unsecurity_url_toast">Diese Seite ist unsicher</string>
   <string name="up_to_loading_tips">Loslassen zum Aktualisieren</string>
   <string name="update_no_network_toast">"Kann mich nicht mit dem Netzwerk verbinden"</string>
+  <string name="updating_chrome">Chrome wird aktualisiert...</string>
   <string name="uploads_disabled">Dateiupload ist deaktiviert</string>
   <string name="url_copy_done">URL in Zwischenablage kopiert</string>
   <string name="url_find_on_page_result">In Browser betrachten</string>

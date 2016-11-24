@@ -13,7 +13,11 @@
   <string name="alarm_notify_snooze_label">Schlummern (%s)</string>
   <string name="alarm_notify_text">Schlummern oder beenden</string>
   <string name="alarm_repeat">Wiederholen</string>
+  <string name="alarm_screen">Weckbildschirm und Weckton</string>
   <string name="alarm_settings">Weckereinstellungen</string>
+  <string name="alarm_today">Heute</string>
+  <string name="alarm_tomorrow">Morgen</string>
+  <string name="alarm_undo">Abbrechen</string>
   <string name="alarm_vibrate">Vibrieren</string>
   <string name="alarm_volume_summary">Wecklautstärke einstellen</string>
   <string name="alarm_volume_title">Wecklautstärke</string>
@@ -22,6 +26,7 @@
   <string name="analog_gadget">Analoguhr</string>
   <string name="app_label">Uhr</string>
   <string name="auto_silence_never">Nie</string>
+  <string name="auto_silence_summary">Alarm stoppt nach %d Minuten</string>
   <string name="auto_silence_title">Automatische Stummschaltung</string>
   <string name="battery_charging_level">%d%%</string>
   <string name="birthday_alarm">Geburtstagsalarm</string>
@@ -83,6 +88,10 @@
   <string name="remind_ringtone">Klingelton</string>
   <string name="reset">Zurücksetzen</string>
   <string name="revert">Rückgängig</string>
+  <string name="search_alarm_clock_keywords">Alarm;Wecker;</string>
+  <string name="search_stopwatch_keywords">Stoppuhr</string>
+  <string name="search_timer_keywords">Timer</string>
+  <string name="search_worldclock_keywords">Uhrzeit;Weltzeit;Uhr</string>
   <string name="set_alarm">Wecker einstellen</string>
   <string name="setting_alarm_arriving_summary">Vor dem Weckton eine Nachricht senden</string>
   <string name="setting_alarm_arriving_title">Nachricht vor Weckton</string>
@@ -115,6 +124,7 @@
   <string name="timer_alert_alert_silenced">Timer verstummt nach %d Minuten</string>
   <string name="timer_clock_alert_text">Bitte Timer einstellen</string>
   <string name="timer_continue">Fortsetzen</string>
+  <string name="timer_delete">Entfernen</string>
   <string name="timer_got_it">OK</string>
   <string name="timer_item_duration_display">%1$d Min %2$d Sek</string>
   <string name="timer_item_label_hint">Timername</string>
