@@ -124,10 +124,12 @@ Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für di
 Stellen Sie sicher, dass Ihr Finger die Innenkante des Sensors bedeckt"</string>
     <string name="add_fingerprint_instruction_msg">Entsperren Sie Ihr Gerät oder bestätigen Sie Ihre Bezahlung mit Ihrem Fingerabdruck</string>
     <string name="add_fingerprint_instruction_title">Legen Sie Ihren Finger auf den Scanner</string>
+    <string name="add_fingerprint_name_suggest_text">Fingerabdruckbezeichnung</string>
     <string name="add_fingerprint_put_finger_edge_msg">Nach dem Drücken des Sensors, entfernen Sie den Finger und versuchen es erneut.</string>
     <string name="add_fingerprint_put_finger_msg">Nach dem Drücken des Sensors, entfernen Sie den Finger und versuchen es erneut.</string>
     <string name="add_fingerprint_put_finger_title">Finger platzieren und entfernen</string>
     <string name="add_fingerprint_similar_fingerprint_input_error_msg">Bewegen Sie leicht Ihren Finger und setzen Sie den wieder auf den Sensor um die verschiedenen Teile Ihres Fingerabdrucks hinzufügen.</string>
+    <string name="add_fingerprint_success_msg">Erfolgreich hinzugefügt</string>
     <string name="add_fingerprint_text">Fingerabdruck hinzufügen</string>
     <string name="add_fingerprint_toast_text">Legen Sie Ihren Finger jetzt auf den Scanner</string>
     <string name="adding_profile_owner_warning">"Wenn Sie weiter vorgehen, wird Ihr Benutzerkonto von Ihrem Administrator verwaltet, der dann auch zugeordneten Daten neben Ihren persönlichen Daten speichern kann.
@@ -1183,7 +1185,8 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
     <string name="debug_monitoring_category">Überwachung</string>
     <string name="debug_networking_category">Netzwerk</string>
     <string name="debug_view_attributes">Attributprüfungsansicht aktivieren</string>
-    <string name="default_app">(Default)</string>
+    <string name="defalut_launcher_title">Standard-Launcher</string>
+    <string name="default_app">(Standard)</string>
     <string name="default_apps_title">Standardapps</string>
     <string name="default_assist_none">Keine</string>
     <string name="default_assist_title">Assistentenapp</string>
@@ -1599,9 +1602,13 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
     <string name="fingerprint_add_max">Sie können bis zu %d Fingerabdrücke hinzufügen</string>
     <string name="fingerprint_add_title">Fingerabdruck hinzufügen</string>
     <string name="fingerprint_and_password_entrance_title">Sperrbildschirm &amp; Fingerabdruck</string>
+    <string name="fingerprint_apply_to_privacy_password">Datenschutzpasswort</string>
+    <string name="fingerprint_apply_to_privacy_password_scenarios">Das Datenschutzpasswort schützt Ihre Nachrichten, Fotos, Dateien, Notizen und Apps</string>
+    <string name="fingerprint_apply_to_tittle">Anwenden auf</string>
     <string name="fingerprint_enable_keyguard_toggle_title">Bildschirmsperre</string>
     <string name="fingerprint_enroll_button_add">Einen weiteren hinzufügen</string>
     <string name="fingerprint_enroll_button_next">Weiter</string>
+    <string name="fingerprint_first_open_screen_password_tittle">Fingerabdruck (legen Sie vorher ein Sperrbildschirmpasswort fest)</string>
     <string name="fingerprint_for_keyguard_disabled">Fingerabdruck wurde in den Sicherheitseinstellungen deaktiviert.</string>
     <string name="fingerprint_identificating_msg">Fingerabdruck wird gescannt…</string>
     <string name="fingerprint_identify_input_password_msg">Passwort eingeben</string>
@@ -1613,6 +1620,7 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
     <string name="fingerprint_list_title">Fingerabdruck</string>
     <string name="fingerprint_lock_first">Hauptprofil entsperren</string>
     <string name="fingerprint_lock_second">Zweitprofil entsperren</string>
+    <string name="fingerprint_manage">Fingerabdrücke verwalten</string>
     <string name="fingerprint_manage_category_title">Fingerabdrücke verwalten</string>
     <string name="fingerprint_not_identified_msg">Fingerabdruck konnte nicht erkannt werden. Geben Sie Ihr Passwort ein.</string>
     <string name="fingerprint_not_recognized">Nicht erkannt</string>
@@ -1879,6 +1887,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
     <string name="keyboard_layout_picker_title">Tastaturlayouts</string>
     <string name="keyboard_settings_category">Tastatur &amp; Eingabemethoden</string>
     <string name="keyboard_settings_title">Androidtastatur</string>
+    <string name="keyguard_advance_setting_title">Weitere Einstellungen</string>
     <string name="keyguard_left_function_chooser_hint_text">Linke Verknüpfung geändert auf %s</string>
     <string name="keyguard_left_function_chooser_title">App</string>
     <string name="keyguard_left_function_title">Links</string>
@@ -1939,6 +1948,8 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
     <string name="launch_count_label">Count</string>
     <string name="launch_defaults_none">Kein Standard gesetzt</string>
     <string name="launch_defaults_some">Einige Standards gesetzt</string>
+    <string name="launcher_auto_fill_empty_title">Leere Zellen automatisch auffüllen</string>
+    <string name="launcher_title">Launcher</string>
     <string name="launching_cit">Öffne CIT. Bitte warten.</string>
     <string name="launching_pho">Öffne Geräteinfo. Bitte warten.</string>
     <string name="launching_rep">Wird gesendet...</string>
@@ -2063,6 +2074,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
     <string name="lock_after_timeout_summary">%1$s nach dem Sleep</string>
     <string name="lock_after_timeout_summary_with_exception">%1$s nach dem Sleep, ausser es bleibt entriegelt durch %2$s</string>
     <string name="lock_immediately_summary_with_exception">Sofort nach dem Sperren, außer wenn durch %1$s entsperrt wurde</string>
+    <string name="lock_screen_cells_title">Sperrbildschirm-Zellen</string>
     <string name="lock_screen_notifications_interstitial_message">Wie wollen Sie Benachrichtigungen anzeigen lassen, wenn Ihr Gerät gesperrt ist?</string>
     <string name="lock_screen_notifications_interstitial_title">Benachrichtigungen</string>
     <string name="lock_screen_notifications_summary_disable">"Zeige überhaupt keine Benachrichtigungen an"</string>
@@ -2072,6 +2084,8 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
     <string name="lock_screen_secure_after_timeout_immediately_summary">Passwort sofort erforderlich</string>
     <string name="lock_screen_secure_after_timeout_summary">Passwort erforderlich in %1$s</string>
     <string name="lock_screen_secure_after_timeout_title">Passwort erforderlich</string>
+    <string name="lock_screen_signature_summary">Die Signatur wird am Sperrbildschirm angezeigt</string>
+    <string name="lock_screen_signature_title">Sperrbildschirmsignatur</string>
     <string name="lock_screen_unlock_show">Ziehen ausschalten</string>
     <string name="lock_screen_unlock_show_summary">Direkt zum Desktop oder zur Passworteingabe gehen</string>
     <string name="lock_secure_after_timeout_click_me_to_change_text">Zum Ändern antippen</string>
@@ -2182,6 +2196,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
     <string name="manage_device_admin">Geräteadministratoren</string>
     <string name="manage_device_admin_summary">Geräteadministratoren anzeigen oder deaktivieren</string>
     <string name="manage_fakecell_settings">伪基站防护</string>
+    <string name="manage_fingerprint_text">Fingerabdrücke verwalten</string>
     <string name="manage_mobile_plan_title">Mobilfunktarif</string>
     <string name="manage_notification_access">Benachrichtigungszugriff</string>
     <string name="manage_notification_access_summary_zero">Apps können keine Benachrichtigungen lesen</string>
@@ -2207,6 +2222,9 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
 Sie sind zurzeit in folgenden Konten angemeldet:
 "</string>
     <string name="master_clear_all">"Alle Daten vom internen Telefonspeicher löschen? Diese Aktion kann nicht rückgängig gemacht werden!"</string>
+    <string name="master_clear_apply_step_1"><b>“Werksreset” löscht alle Daten auf Ihrem Telefon</b>, inkl. Fotos, Musik, Notizen und andere persönliche Daten. Vergewissern Sie sich, dass Sie all Ihre wichtigen Daten auf einem Computer gesichert haben.</string>
+    <string name="master_clear_apply_step_2">Vergewissern Sie sich, dass sie wichtige Daten auf einem Computer gesichert haben. Sämtliche Daten werden währen dem Rücksetzen von Ihrem Gerät gelöscht. <b>Sie können nicht gesicherte Inhalte anschließend nicht mehr wiederherstellen.</b></string>
+    <string name="master_clear_apply_title">Hinweis</string>
     <string name="master_clear_button_text">Telefon zurücksetzen</string>
     <string name="master_clear_confirm_title">Zurücksetzen?</string>
     <string name="master_clear_desc">"Alle Daten in Ihrem "<b>Internen Speicher</b>" werden gelöscht, inklusive:
@@ -2406,6 +2424,7 @@ Es sind andere Benutzer an diesem System angemeldet.
     <string name="miui_data_usage_menu_metered">Mobile Hotspots</string>
     <string name="miui_disturb_title">Bitte nicht stören</string>
     <string name="miui_experience_optimization">MIUI-Optimierung einschalten</string>
+    <string name="miui_screen_config_title">MIUI Launcher-Einstellungen</string>
     <string name="miui_screensaver_show_time">Dauer</string>
     <string name="miui_screensaver_show_time_select_title">Diashowdauer</string>
     <string name="miui_screensaver_state_off">Aus</string>
@@ -2566,6 +2585,10 @@ Betriebssystem auswählen:"</string>
     <string name="never">Nie</string>
     <string name="new_backup">Sicherung</string>
     <string name="new_backup_pw_prompt">Geben Sie hier ein neues Passwort für Vollsicherungen ein.</string>
+    <string name="new_password_to_new_fingerprint_dialog_msg">Fügen Sie einen Fingerabdruck hinzu, um Ihr Gerät damit zu entsperren.</string>
+    <string name="new_password_to_new_fingerprint_dialog_negative_msg">Abbrechen</string>
+    <string name="new_password_to_new_fingerprint_dialog_positive_msg">Hinzufügen</string>
+    <string name="new_password_to_new_fingerprint_dialog_tittle">Fingerabdruck hinzufügen</string>
     <string name="next_button_label">Weiter</string>
     <string name="next_label">Weiter</string>
     <string name="nfc_category_title">NFC</string>
@@ -2764,6 +2787,8 @@ Betriebssystem auswählen:"</string>
     <string name="passwordIncorrect">Das eingegebene Passwort ist falsch</string>
     <string name="password_entrance_title">Bildschirmsperre</string>
     <string name="password_guard">Passwort</string>
+    <string name="password_turned_off_text">Passwort wurde deaktiviert</string>
+    <string name="password_turned_on_text">Passwort wurde aktiviert</string>
     <string name="path_about_about_settings">Settings/About phone</string>
     <string name="path_accelerometer_settings">Settings/Display/Auto-rotate screen</string>
     <string name="path_access_control_settings">Settings/Additional settings/Privacy/Privacy settings</string>
@@ -3406,7 +3431,8 @@ Diese Einstellung betrifft alle Nutzer auf diesem Telefon."</string>
     <string name="scan_list_label">Ergebnisse:</string>
     <string name="screen">Bildschirm</string>
     <string name="screen_button">Bildschirmtasten</string>
-    <string name="screen_button_tips">Nach unten ziehen, um die Bildschirmtasten zu verbergen</string> 
+    <string name="screen_button_tips">Nach unten ziehen, um die Bildschirmtasten zu verbergen</string>
+    <string name="screen_cells_config_title">Bildschirmzellen-Konfiguration</string>
     <string name="screen_color_and_optimize">Farben &amp; Kontrast</string>
     <string name="screen_color_and_optimize_disabled">Die Farbtemperatur kann im Lesemodus nicht geändert werden</string>
     <string name="screen_color_temperature">Farbtemperatur</string>
@@ -4516,8 +4542,12 @@ Bitte bereinigen Sie mindestens %s"</string>
     <string name="tts_status_requires_network">%1$s erfordert eine Netzwerkverbindung</string>
     <string name="tts_status_title">Standardsprache</string>
     <string name="turn_off_common_password_confirm_msg">Sperrbildschirm wird ebenfalls deaktiviert.</string>
+    <string name="turn_off_keyguard_password_alert_title">Einschalten</string>
+    <string name="turn_off_keyguard_password_confirm_msg">Sperrbildschirmpasswort deaktivieren?</string>
+    <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Nchdem Sie das Sperrbildschirmpasswort deaktiviert haben, können Sie Ihren Fingerabdruck zum Entsperren nicht mehr verwenden</string>
     <string name="turn_off_radio">Mobilfunkverbindung ausschalten</string>
     <string name="turn_off_security_lock">Sperre ausschalten</string>
+    <string name="turn_on_keyguard_password">Sperrbildschirmpasswort aktivieren</string>
     <string name="turn_on_radio">Radio einschalten</string>
     <string name="turn_on_security_lock">Bildschirmsperre wählen</string>
     <string name="uicc_eject">UICC-Speicher auswerfen</string>
