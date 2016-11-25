@@ -606,6 +606,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="keywords_securitycenter_settings">Energiesparmodus;Berechtigung;Sperrliste;Datenverbrauch;Datentarif;Daten sparen;Netzwerktest;Appsperre;Energie sparen;Überhitzen;Einschalten;Ausschalten;Akku;Drain;Autostart;Berechtigung;ROOT;Standort;Zugriff auf Kontakte;Betrug;Sales;Agents;Daten;Verkehr;Calibrate;Sparen;Verbindung;Internet;Test;Passwort;Privatsphäre;Zugruff;Sicherheit</string>
   <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">K/s</string>
+    <string name="label_mi_stats">Mi Statistik</string>
   <string name="last_check_canceled">Die letzte Suche wurde abgebrochen</string>
   <string name="last_check_date_today">"Letzte Suche: Heute "</string>
   <string name="last_check_date_yesterday">"Letzte Suche: Gestern "</string>
@@ -1494,6 +1495,8 @@ Wenn Sie MIUI keiner Weise verändert haben, stellen Sie sicher, dass Sie Herkun
   <string name="title_consume_power">Akkuprobleme gefunden</string>
   <string name="title_consume_power_rank">Akkuverbrauch</string>
   <string name="title_data_flow">Datenverbrauchsüberwachung</string>
+    <string name="title_data_flow_no">Überwachung aus</string>
+    <string name="title_data_flow_yes">Überwachung an</string>
   <string name="title_default_app">"MIUI %s ist nicht der Standard"</string>
   <string name="title_dev_no">Entwickleroptionen an</string>
   <string name="title_dev_yes">Entwickleroptionen aus</string>
@@ -1523,6 +1526,7 @@ Wenn Sie MIUI keiner Weise verändert haben, stellen Sie sicher, dass Sie Herkun
   <string name="title_permission_yes">Zugriffsmanager an</string>
   <string name="title_power_optimizer">Energiesparmodus</string>
   <string name="title_realname_verify">Identitätsverifikation</string>
+    <string name="title_saving_switch">Datensparer</string>
   <string name="title_share_link">Link teilen</string>
   <string name="title_show_notification">Benachrichtigungen</string>
   <string name="title_telecom_operator">Anbieterwerte verwenden</string>
