@@ -25,8 +25,11 @@
   <string name="apply">Anwenden</string>
   <string name="apply_action">Anwenden</string>
   <string name="apply_as_lock_screen">Sperrbildschirm</string>
+    <string name="apply_as_lock_wallpaper_message">Hintergrund auch auf dem Sperrbildschirm anwenden?</string>
+    <string name="apply_as_lockwallpaper_action">Sperrbildschirm</string>
   <string name="apply_as_wallpaper">Startbildschirm</string>
   <string name="apply_both">Für beide anwenden</string>
+    <string name="apply_negative_action">Nicht anwenden</string>
   <string name="aqi_quality_index_dangerous">Riskant</string>
   <string name="aqi_quality_index_good">Gut</string>
   <string name="aqi_quality_index_hazardous">Gefährlich</string>
@@ -45,6 +48,7 @@
   <string name="children_folder_title">Kinderordner</string>
   <string name="children_mode_exit">Beenden</string>
   <string name="children_mode_tips">Zurück zu Einstellungen um den Zugriff auf Anwendungen zu verwalten</string>
+    <string name="children_mode_tips_message">Keine Anwendung für die Kindersicherung. Bitte Anwendung auswählen.</string>
   <string name="children_mode_tips_title">Bitte Anwendung auswählen</string>
   <string name="choose_wallpaper">Hintergrund auswählen</string>
   <string name="chooser_wallpaper">Hintergrund auswählen</string>
@@ -76,6 +80,7 @@
   <string name="editing_mode_enter_tip_text">Zum Bearbeiten des Startbildschirms zwei Finger zusammenziehen</string>
   <string name="editing_mode_title">%1$d ausgewählt</string>
   <string name="editing_mode_title_empty">0 ausgewählt</string>
+    <string name="editing_set_screen_layout_cells">Layouteffekt auswählen</string>
   <string name="editing_set_transition_effect_tips">Übergangseffekt auswählen</string>
   <string name="editing_set_wallpaper_tips">Hintergrund auswählen</string>
   <string name="editing_tips">Startbildschirm bearbeiten</string>
@@ -207,7 +212,6 @@
   <string name="pref_wallpaper_scroll_type_title">Hintergrundausrichtung</string>
   <string name="preferences_general_title">Erweiterte Einstellungen</string>
   <string name="preferences_title">Launchereinstellungen</string>
-  <string name="process"/>
   <string name="recommend_apps_default_title">Leer</string>
   <string name="recommend_apps_notice">Empfohlene Apps</string>
   <string name="recommend_apps_notice_nodata">Empfohlene Apps (Keine Daten)</string>
@@ -223,7 +227,6 @@
   <string name="settings">Einstellungen</string>
   <string name="settings_shortcut">Einstellungen</string>
   <string name="share">Teilen</string>
-  <string name="sharedUserId"/>
   <string name="show_all">Alle anzeigen</string>
   <string name="sort_by_abc">Nach Name sortieren</string>
   <string name="sort_by_frequency">Nach Nutzung sortieren</string>
@@ -237,6 +240,7 @@
   <string name="status_pending">Ausstehend</string>
   <string name="title_select_live_folder">Ordner auswählen</string>
   <string name="title_select_shortcut">Tastenkürzel auswählen</string>
+    <string name="toast_screen_icons_misplaced">Von einer anderen Datenbank wiederhergestellt, einige Symbole könnten falsch platziert sein</string>
   <string name="toggle_select_title">Schalter auswählen</string>
   <string name="toggle_title">Schalter</string>
   <string name="transformation_type_classic">Normal</string>
@@ -266,6 +270,7 @@
   <string name="wallpaper_failed_message">Hintergrund kann nicht angewendet werden</string>
   <string name="wallpaper_scaling_message">Skalieren auf feste Größe</string>
   <string name="wallpaper_scroll_type_tips">Hintergrundbild blättern</string>
+    <string name="wallpaper_scrolling">Alle</string>
   <string name="wallpaper_settings">Hintergrund</string>
   <string name="wallpaper_success_message">Hintergrund hinzugefügt</string>
   <string name="widget_favorite_contacts_edit">Editor</string>
