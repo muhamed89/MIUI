@@ -157,7 +157,7 @@
         <item quantity="other">"Gerade eben "</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">"%d mins ago "</item>
+        <item quantity="other">"Vor %d Minuten "</item>
         <item quantity="one">Vor 1 Minute</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
