@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_smart_sms_title">Smartnachrichten-Partner</string>
   <string name="action_firewall_setting">Sperrliste</string>
   <string name="activity_not_found">Anhang konnte nicht geöffnet werden</string>
   <string name="activity_not_found_uri">Keine Anwendung zum Öffnen der Datei gefunden</string>
@@ -382,6 +383,7 @@
   <string name="notification_multiple">%s ungelesene Nachrichten</string>
   <string name="notification_multiple_title">Neue Nachrichten</string>
   <string name="number_add_hint">Nummer eingeben</string>
+  <string name="open_audio_record_panel">Bedienfeld der Audioaufnahme öffnen</string>
   <string name="open_url_with_web">Diese URL im Browser öffnen?</string>
   <string name="over_max_mms_size">MMS ist zu groß</string>
   <string name="overwrite_edited_content">Geänderter Inhalt wird überschrieben</string>
@@ -409,6 +411,7 @@
   <string name="pref_show_blocked_messages_summary">Gesperrte SMS in der Unterhaltungsliste anzeigen</string>
   <string name="pref_show_sms_template_in_summary">OTP in SMS automatisch erkennen</string>
   <string name="pref_show_sms_template_summary">Bestätigungscodes automatisch kopieren und einfügen</string>
+  <string name="pref_smart_messages_settings">Smartnachrichten</string>
   <string name="pref_sms_theme_title">Thema</string>
   <string name="pref_summary_allow_si_sl_push">Zulassen von Nachrichten, um Inhalte von Webseiten zu laden</string>
   <string name="pref_summary_delete_limit">%1$s Nachrichten pro Unterhaltung</string>
@@ -431,6 +434,7 @@
   <string name="pref_time_auto_group_disabled_summary">Wird in der aktuellen Schrifftgröße nicht unterstützt</string>
   <string name="pref_time_auto_group_summary">Nachrichten zusammen gruppieren, welche innerhalb von einer Minute von einer Nummer empfangen wurden</string>
   <string name="pref_time_auto_group_title">Gruppierte Nachrichten</string>
+  <string name="pref_title_about_smart_sms">Über Smartnachrichten-Partner</string>
   <string name="pref_title_allow_si_sl_push">WAP-Pushmitteilungen erlauben (SI/SL)</string>
   <string name="pref_title_card_format">Kartenteilformat</string>
   <string name="pref_title_delivery_reports">Sendebestätigung</string>
@@ -568,6 +572,7 @@
   <string name="set">Festlegen</string>
   <string name="share_img">Teilen</string>
   <string name="show_all_messages">Alle Nachrichten anzeigen</string>
+  <string name="show_delivery_status">Zustellstatus anzeigen</string>
   <string name="show_sender">Absender Infos anzeigen</string>
   <string name="sim_card1">SIM-Karte 1</string>
   <string name="sim_card2">SIM-Karte 2</string>

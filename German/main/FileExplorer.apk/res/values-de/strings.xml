@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="a_week_share_rank">Wöchentliche Rangliste</string>
+  <string name="account_bind_prompt">Benutzerdaten werden übertragen…</string>
   <string name="account_login_title">Konto</string>
   <string name="action_mode_deselect_all">Keine</string>
   <string name="action_mode_select_all">Alle</string>
@@ -226,8 +228,10 @@
   <string name="hot_app">Beliebte Apps</string>
   <string name="hot_comments">Beliebte Kommentare</string>
   <string name="hot_sticker">Beliebte Sticker</string>
+  <string name="hot_topic_str">Beliebte Themen</string>
   <string name="hot_video">Beliebte Videos</string>
   <string name="hot_video_load_more">Mehr ></string>
+  <string name="hot_video_title">Beliebte Videos</string>
   <string name="hottest_sticker_str">Beliebt</string>
   <string name="if_cancel">Diese Aktion abbrechen?</string>
   <string name="image_loading_error">"Bild konnte nicht geladen werden"</string>
@@ -510,6 +514,7 @@
    <string name="setting">Einstellungen</string>
   <string name="setting_account_bind">Konto hinzufügen</string>
   <string name="setting_message_notify">Benachrichtigungen</string>
+  <string name="share_rank_card_tip">Rangliste teilen</string>
   <string name="share_success">Erfolgreich geteilt</string>
   <string name="share_tip_1">Danke fürs Teilen, folgen Sie mir, um weitere Videos zu sehen</string>
   <string name="share_tip_2">Danke fürs Teilen, folgen Sie mir, um weitere Videos zu sehen</string>
@@ -544,6 +549,7 @@
   <string name="start_server">Start</string>
   <string name="stay_awake_summary">Während einer FTP-Übertragung nie ausschalten</string>
   <string name="stay_awake_title">Bildschirm aktiv</string>
+  <string name="sticker_btn_str_explore_tab">Entecken Sie haufenweise lustige Inhalte!</string>
   <string name="stop_server">Stopp</string>
   <string name="storage_cloned_app">Speicher für geklonte Apps</string>
   <string name="storage_info_detail">Verfügbar: %1$s Gesamt: %1$s</string>
@@ -557,6 +563,9 @@
   <string name="sys_size_enable">Aktivieren</string>
   <string name="tab_category">Kategorien</string>
   <string name="tab_common_app">Apps &amp; Ordner</string>
+  <string name="tab_discover">Entdecken</string>
+  <string name="tab_expand">Erweitern</string>
+  <string name="tab_explore">Entdecken</string>
   <string name="tab_follow">Folgen</string>
   <string name="tab_hottest_video">Beliebt</string>
   <string name="tab_local">LOKAL</string>
@@ -576,6 +585,8 @@
   <string name="title_select_volume">Ordner auswählen</string>
   <string name="toast_file_not_can_read">Keine App zum Öffnen der Datei gefunden.</string>
   <string name="tools">Tools</string>
+  <string name="top_mark">TOP</string>
+  <string name="top_videos">Rangliste teilen</string>
   <string name="topic_follow">Folgen</string>
   <string name="topic_followed">Ich folge</string>
   <string name="topic_winners">Die letzten Gewinner</string>
@@ -613,6 +624,7 @@
   <string name="upload_notification_success">Upload hochgeladen</string>
   <string name="upload_notification_success_content">Ihr Video sollte geprüft werden, bevor Sie es mit anderen teilen</string>
   <string name="upload_notification_title">Video wird hochgeladen</string>
+  <string name="upload_popup">Laden Sie Videos hoch, um Preise zu gewinnen</string>
   <string name="upload_user_photo">Hochladen</string>
   <string name="upload_video">Video teilen</string>
   <string name="upload_video_dialog_message">"Nach Überprüfung wird Ihr Video unter den beliebten angezeigt."</string>
@@ -717,6 +729,7 @@
   <string name="video_upload_wechat_hint">WeChat Videos hochladen, um mehr Fans bekommen.</string>
   <string name="video_uploaded">Hochgeladen</string>
   <string name="videos">Videos</string>
+  <string name="view_master_rank">Youliao Top anzeigen</string>
   <string name="view_more_sticker">Weitere Sticker anzeigen</string>
   <string name="wechat_btn_str">WeChat</string>
   <string name="wechat_platform">WeChat</string>
@@ -743,6 +756,7 @@ Mit 170 Millionen Mi Fans zuschauen.</string>
   <string name="youliao_dialog_msg">Hot Video wurde zur &quot;Youliao&quot; aktualisiert, 
 Zur vollen App-Version aktualisiert, mehr sehen.</string>
   <string name="youliao_dialog_title">Keine interessanten Videos?</string>
+  <string name="youliao_master_rank">Youliao Top</string>
   <string name="zero">0</string>
   <string name="zero_comment">Keine Kommentare</string>
 </resources>

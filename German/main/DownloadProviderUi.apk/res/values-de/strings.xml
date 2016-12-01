@@ -84,6 +84,7 @@
   <string name="download_complete">BEENDET</string>
   <string name="download_detail">Details</string>
   <string name="download_error">Fehler</string>
+  <string name="download_error_download_file_not_exists">Die Datei existiert nicht</string>
   <string name="download_error_insufficient_space">Zu wenig Speicherplatz</string>
   <string name="download_filesize_unknown">Unbekannt</string>
   <string name="download_from">Quelle:</string>
@@ -225,7 +226,7 @@
   <string name="open_download">Öffnen</string>
   <string name="open_folder">Ordner öffnen</string>
   <string name="open_vip_hint">Tippen um ein Xunlei-Mitglied zu werden</string>
-  <string name="open_vip_speedup">Werden Sie Mitglied, um die Geschwindigkeit zu erhöhen &gt;</string>
+  <string name="open_vip_speedup"/>
   <string name="open_xunlei_speed_service">Xunlei-Downloadbeschleuniger starten</string>
   <string name="original_price">Preis</string>
   <string name="other">Sonstige</string>
