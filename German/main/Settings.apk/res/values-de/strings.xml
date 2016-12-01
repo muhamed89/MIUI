@@ -2423,6 +2423,7 @@ Es sind andere Benutzer an diesem System angemeldet.
     <string name="miui_allow_vibrate">Vibrationen</string>
     <string name="miui_data_usage_menu_metered">Mobile Hotspots</string>
     <string name="miui_disturb_title">Bitte nicht stören</string>
+    <string name="miui_enable_service_title">Dieser Dienst wird die folgenden Aktionen durchführen:</string>
     <string name="miui_experience_optimization">MIUI-Optimierung einschalten</string>
     <string name="miui_screen_config_title">MIUI Launcher-Einstellungen</string>
     <string name="miui_screensaver_show_time">Dauer</string>
@@ -3136,6 +3137,10 @@ Betriebssystem auswählen:"</string>
     <string name="privacy_password_fingerprint_dialog_error_title">Fingerabdruck konnte nicht gescannt werden, versuchen Sie es noch einmal</string>
     <string name="privacy_password_fingerprint_dialog_message">Legen Sie Ihren Finger auf den Sensor</string>
     <string name="privacy_password_fingerprint_dialog_title">Fingerabdruck scannen</string>
+    <string name="privacy_password_never_remind">Nicht mehr nachfragen</string>
+    <string name="privacy_password_remind_bind_notlogin_account">Fügen Sie Ihr Mi Konto hinzu, um Ihr Passwort rücksetzen zu können, falls Sie es vergessen</string>
+    <string name="privacy_password_remind_bindaccont_message">Fügen Sie Ihr Mi Konto (%s) hinzu, um Ihr Passwort rücksetzen zu können, falls Sie es vergessen</string>
+    <string name="privacy_password_remind_bindaccount_title">Mi Konto hinzufügen</string>
     <string name="privacy_password_settings">Datenschutzpasswort verwenden</string>
     <string name="privacy_password_settings_titles">Das Datenschutzpasswort schützt Ihre Nachrichten, Fotos, Dateien, Notizen und Apps</string>
     <string name="privacy_password_title">Datenschutzpasswort</string>
@@ -3338,6 +3343,11 @@ Betriebssystem auswählen:"</string>
     <string name="reset_network_final_button_text">Einstellungen zurücksetzen</string>
     <string name="reset_network_final_desc">Alle Netzwerkeinstellungen zurücksetzen? Sie können diese Aktion nicht rückgängig machen!</string>
     <string name="reset_network_title">Einstellungen zurücksetzen</string>
+    <string name="reset_second_space_passwd">Zweitprofilpasswort zurücksetzen</string>
+    <string name="reset_second_space_passwd_cancel">Abbrechen</string>
+    <string name="reset_second_space_passwd_confirm">Weiter</string>
+    <string name="reset_second_space_passwd_detail">Geben Sie im Hauptprofil das Passwort für Ihr Mi Konto ein</string>
+    <string name="resetting_second_space_passwd">Zweitprofilpasswort wird zurückgesetzt</string>
     <string name="resolver_settings_label">Sortieren</string>
     <string name="resource_ringtone_volume_mute">Ihr Klingelton ist auf lautlos eingestellt</string>
     <string name="restore">Wiederherstellen</string>
