@@ -93,6 +93,7 @@
   <string name="feedback_submit_failed_notification_desc">Details ansehen</string>
   <string name="feedback_submit_failed_notification_retry">Nochmals senden</string>
   <string name="feedback_submit_failed_notification_title">Bericht konnte nicht gesendet werden</string>
+  <string name="feedback_submit_hint">Melden Sie Fehler jedes Mal, wenn Probleme auftreten, damit wir sie schneller beheben können</string>
   <string name="feedback_submit_hint1">Wir werden Sie über den Fortschritt der Bearbeitung informieren</string>
   <string name="feedback_submit_hint2">Gehen Sie zu \"Meine Berichte\", um Details anzuzeigen</string>
   <string name="feedback_submit_succ">Erfolgreich gesendet</string>
@@ -210,10 +211,11 @@
   <string name="toast_feedback_submitting">Übermittlung…</string>
   <string name="toast_feedbackservice_in_submit">Vorheriges Feedback wird gesendet…</string>
   <string name="toast_fill_brackets">Markierte Felder ausfüllen</string>
-    <string name="toast_module_required">Modul auswählen</string>
+  <string name="toast_module_required">Modul auswählen</string>
   <string name="toast_network_unavailable">"Senden fehlgeschlagen. Keine Netzwerkverbindung"</string>
   <string name="toast_pending_log_collection">Bericht wird erstellt…</string>
-    <string name="toast_problem_class_required">Kategorie auswählen</string>
+  <string name="toast_post_deleted">Dieses Thema existiert nicht, wwurde gelöscht oder umbenannt</string>
+  <string name="toast_problem_class_required">Kategorie auswählen</string>
   <string name="toast_report_copied_to_clipboard">Bericht in die Zwischenablage kopiert</string>
   <string name="toast_report_sent_failed">"Bericht senden fehlgeschlagen."</string>
   <string name="toast_report_sent_succeed">Der Bericht wurde gesendet.</string>

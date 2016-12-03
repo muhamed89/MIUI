@@ -134,6 +134,21 @@
   <string name="plusDesc">Addition</string>
   <string name="power">^</string>
   <string name="powerDesc">Potenz</string>
+  <string name="preference_about_calculator">Über Rechner</string>
+  <string name="preference_alert_follow_wechat">Kopieren und bei WeChat einfügen, um zu folgen</string>
+  <string name="preference_alert_follow_wechat_button">Kopieren</string>
+  <string name="preference_check_update_title">Auf Updates prüfen</string>
+  <string name="preference_feedback_title">FAQ</string>
+  <string name="preference_follow_us">Folgen Sie uns</string>
+  <string name="preference_follow_web_summary">www.miui.com</string>
+  <string name="preference_follow_web_title">Offizielle Website</string>
+  <string name="preference_follow_wechat_summary">MIUI</string>
+  <string name="preference_follow_wechat_title">WeChat</string>
+  <string name="preference_follow_weibo_summary">@MIUI</string>
+  <string name="preference_follow_weibo_title">Sina Weibo</string>
+  <string name="preference_settings">Einstellungen</string>
+  <string name="preference_use_degress_summary">Ersetzen Sie in den Trigonometriefunktionen Radiant durch Winkel</string>
+  <string name="preference_use_degress_title">Winkel verwenden</string>
   <string name="rate_data_provider">Die Zinssätze werden von hexun.com bereitgestellt</string>
   <string name="rightParen">)</string>
   <string name="rightParenDesc">Klammer zu</string>
@@ -346,4 +361,14 @@
   <string name="unit_year_format">Jahr %s</string>
   <string name="unit_yuan">RMB</string>
   <string name="wf_word_figure">Finanzmathematik</string>
+  <string name="xiaomi_connect_download_manager_fail">Verbindung fehlgeschlagen, überprüfen Sie die Einstellungnen für Downloads</string>
+  <string name="xiaomi_external_storage_unavailable">Kein freier Speicher, überprüfen Sie die SD-Karte</string>
+  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+  <string name="xiaomi_megabytes_unit">%1$sMB</string>
+  <string name="xiaomi_update_dialog_message">Version %1$s ist verfügbar
+Größe: %2$s</string>
+  <string name="xiaomi_update_dialog_message_diff">Version %1$s ist verfügbar
+Deltagröße: %2$s</string>
+  <string name="xiaomi_update_dialog_title">%1$s aktialisieren!</string>
+  <string name="year">Jahr</string>
 </resources>

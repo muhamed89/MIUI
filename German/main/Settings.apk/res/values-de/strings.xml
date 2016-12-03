@@ -1948,7 +1948,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
     <string name="launch_count_label">Count</string>
     <string name="launch_defaults_none">Kein Standard gesetzt</string>
     <string name="launch_defaults_some">Einige Standards gesetzt</string>
-    <string name="launcher_auto_fill_empty_title">Leere Zellen automatisch auffüllen</string>
+    <string name="launcher_auto_fill_empty_title">Leere Positionen automatisch auffüllen</string>
     <string name="launcher_title">Launcher</string>
     <string name="launching_cit">Öffne CIT. Bitte warten.</string>
     <string name="launching_pho">Öffne Geräteinfo. Bitte warten.</string>
@@ -2074,7 +2074,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
     <string name="lock_after_timeout_summary">%1$s nach dem Sleep</string>
     <string name="lock_after_timeout_summary_with_exception">%1$s nach dem Sleep, ausser es bleibt entriegelt durch %2$s</string>
     <string name="lock_immediately_summary_with_exception">Sofort nach dem Sperren, außer wenn durch %1$s entsperrt wurde</string>
-    <string name="lock_screen_cells_title">Sperrbildschirm-Zellen</string>
+    <string name="lock_screen_cells_title">Iconpositionen sperren</string>
     <string name="lock_screen_notifications_interstitial_message">Wie wollen Sie Benachrichtigungen anzeigen lassen, wenn Ihr Gerät gesperrt ist?</string>
     <string name="lock_screen_notifications_interstitial_title">Benachrichtigungen</string>
     <string name="lock_screen_notifications_summary_disable">"Zeige überhaupt keine Benachrichtigungen an"</string>

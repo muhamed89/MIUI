@@ -130,6 +130,7 @@ Bitte Ladegerät benutzen."</string>
   <string name="long_screenshot_processing">Wird bearbeitet…</string>
   <string name="long_screenshot_stop">Stop</string>
   <string name="long_screenshot_top_msg">Bildlauf wird aufgenommen…</string>
+  <string name="long_screenshot_top_msg_manual">Screenshot zuschneiden und zum Abschließen auf antippen</string>
   <string name="managed_profile_foreground_toast">Sie verwenden Ihr Arbeitsprofil</string>
   <string name="mdb_entering">Wird gestartet…</string>
   <string name="mdb_restore_cancel">Abbrechen</string>

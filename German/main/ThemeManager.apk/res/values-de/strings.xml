@@ -4,6 +4,7 @@
   <string name="account_info">Mi Konto</string>
   <string name="account_name_not_login">Anmelden</string>
   <string name="account_unactivated">Konto nicht aktiviert</string>
+  <string name="add_resource_detail_fail">Ressource kann nicht hinzugefügt werden</string>
   <string name="all_resources">Alle</string>
   <string name="all_ringtone_resource">Alle</string>
   <string name="app_name">Themen</string>
