@@ -258,8 +258,8 @@
   <string name="st_antispam_mode_smart">Gemeldete Nummern</string>
   <string name="st_antispam_mode_smart_sum">"Sperren von Nummern, welche Sie manuell hinzugefügt haben oder von anderen Benutzern gemeldet wurden"</string>
   <string name="st_antispam_notification_sum">Benachrichtigung, wenn Anruf oder Nachricht gesperrt wurde</string>
-  <string name="st_antispam_title_anoy_incoming">Anrufe von unterdrückten Nummern</string>
-  <string name="st_antispam_title_anoy_sms">Nachrichten von unterdrückten Nummern</string>
+  <string name="st_antispam_title_anoy_incoming">Anrufe von unbekannten Nummern</string>
+  <string name="st_antispam_title_anoy_sms">Nachrichten von unbekannten Nummern</string>
   <string name="st_antispam_title_contact_incoming">Anrufe von Kontakten</string>
   <string name="st_antispam_title_contact_sms">Nachrichten von Kontakten</string>
   <string name="st_antispam_title_contactandanoy_group">Einstellungen</string>
