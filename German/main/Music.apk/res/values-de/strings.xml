@@ -526,6 +526,7 @@
   <string name="notification_recommend_title">Wichtige Benachrichtigungen</string>
   <string name="notification_setting">Benachrichtigungseinstellungen</string>
   <string name="notification_title_no_song">"Schauen Sie nach, was andere gerade hören!"</string>
+  <string name="nowplaying_dialog_title_delete_tracks">Aus der Wiedergabeliste entfernen?</string>
   <string name="nowplaying_menu_item_delete">Löschen</string>
   <string name="ok">OK</string>
   <string name="one_month">1 Monat</string>

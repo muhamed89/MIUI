@@ -173,7 +173,7 @@
   <string name="get_device_list_failed">Geräte können nicht abgerufen werden</string>
   <string name="get_email_verifycode_exceed_limit">Es wurden zu viele Überprüfungscodes an diese E-Mailadresse versendet. Warten Sie 24 Stunden und versuchen es erneut.</string>
   <string name="get_phone_verifycode_exceed_limit">Es wurden zu viele Überprüfungscodes an diese Telefonnummer versendet. Warten Sie 24 Stunden und versuchen es erneut.</string>
-  <string name="i_know">Ist bekannt</string>
+  <string name="guest_account_label">Mi Gastkonto
   <string name="ignore">Nicht jetzt</string>
   <string name="input_captcha_hint">Code eingeben</string>
   <string name="input_email_address_notice">"Wir verwenden diese Adresse, um Ihr Konto zu überprüfen"</string>

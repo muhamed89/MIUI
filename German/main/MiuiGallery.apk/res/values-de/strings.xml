@@ -107,6 +107,7 @@
   <string name="alert_secret_album_message">Auf der Startseite nach unten ziehen um versteckte Alben anzuzeigen.</string>
   <string name="alert_secret_album_set_pattern">Setze Entsperrungsmuster</string>
   <string name="alert_secret_album_title">So zeigen Sie versteckte Alben an</string>
+  <string name="all_faces">Alle Fotos mit Personen</string>
   <string name="all_items_synced">Alle Alben wurden in der Mi Cloud gesichert</string>
   <string name="all_video_album_display_name">Alle Videos</string>
   <string name="already_apply_album">%1$s öffnen?</string>
@@ -280,6 +281,9 @@
   <string name="confirm_download_video_message">Sie müssen den Download des Videos erst beenden, bevor Sie es ansehen können. Der Download wird fortgesetzt, sobald WLAN verfügbar ist.</string>
   <string name="confirm_download_video_title">Video runterladen</string>
   <string name="confirm_face">Match</string>
+  <string name="confirm_hidden_recommend_group">OK</string>
+  <string name="confirm_hidden_recommend_group_message">Wenn die Empfehlungen ausgeschaltet sind, können Sie &quot;Personen, die sich ähnlich sehen&quot; trotzdem verwenden</string>
+  <string name="confirm_hidden_recommend_group_title">Keine Empfehlungen anzeigen</string>
   <string name="confirm_merge_face_albums">" "&lt;Data&gt; Zusammenfügen dieses Album mit %s? &lt;/Data&gt;" "</string>
   <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Zusammenfügen dieser Alben mit %s? &lt;/Data&gt;" "</string>
   <string name="confirm_not_face">Kein Treffer</string>
@@ -398,6 +402,8 @@
   <string name="edited_photo_bucket_name">Bearbeitet</string>
   <string name="effect">Effekt</string>
   <string name="email_picker_title">Geteilte E-Mail hinzufügen</string>
+  <string name="empty_recommend_button_view">Zurück</string>
+  <string name="empty_recommend_face_page_view">Keine weiteren Empfehlungen</string>
   <string name="enable">Einschalten</string>
   <string name="enable_auto_upload_tip">Dieses Album wird nach der Aktivierung aus \"Andere Alben\" entfernt.</string>
   <string name="enable_auto_upload_title">Sync mit Mi Cloud einschalten</string>
@@ -453,7 +459,12 @@
   <string name="face_albumset_pending_enable_tip">Fotos sortieren, wenn Gerät über WLAN verbunden ist</string>
   <string name="face_albumset_use_tip">Fotos nach den abgebildeten Personen sortieren</string>
   <string name="face_choose_tip">Wählen Sie aus vorhandenen Album</string>
+  <string name="face_confirm">Das ist die selbe Person</string>
   <string name="face_move_dialog_title">Wähle ein Album</string>
+  <string name="face_name_edit">Bearbeiten</string>
+  <string name="face_name_input">Namen eingeben</string>
+  <string name="face_recommend">Empfehlungen</string>
+  <string name="face_recommend_group_number">%1$d/%2$d</string>
   <string name="facelift">Weichzeichnen</string>
   <string name="facetan">Bräunen</string>
   <string name="fail_hint">Operation fehlgeschlagen</string>
@@ -667,8 +678,8 @@
   <string name="moman_camera_picture">Moman Kamerafotos</string>
   <string name="more">Mehr</string>
   <string name="more_album_hint">, usw.</string>
-  <string name="more_face_album_name">Mehr Gesichter</string>
-  <string name="mosaic">Mosaik</string>
+  <string name="more_face">Weitere Personen, die sich ähnlich sehen</string>
+  <string name="more_face_album_name">Mehr Personen</string>
   <string name="move">Verschieben</string>
   <string name="move_to_cloud_album">Verschieben nach</string>
   <string name="move_to_other_albums_tip">Synchronisation mit Mi Cloud wird für dieses Album deaktiviert, wenn Sie dieses Album verschieben. Album jetzt verschieben?</string>
@@ -872,6 +883,7 @@
   <string name="relation_text_mother">Mutter</string>
   <string name="relation_with_you">Beziehung zu ihnen festlegen</string>
   <string name="release_space_finish_format">%s Speicherplatz freigeben</string>
+  <string name="remind_face_recommend_confirm">Bestätigen</string>
   <string name="remind_shows_in_photo_tab_summary">Dieses Album auf der Startseite anzeigen?</string>
   <string name="remind_shows_in_photo_tab_title">Albumeinstellungen</string>
   <string name="remove_from_other_albums_tip">Synchronisation mit Mi Cloud sollte aktiviert werden, wenn Sie es aus den anderen Alben entfernen. Album jetzt entfernen?</string>
