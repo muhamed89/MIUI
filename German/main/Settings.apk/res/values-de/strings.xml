@@ -1089,7 +1089,7 @@ Unter \"Einstellungen &gt; Konten\" können Sie auswählen, welche Informationen
     <string name="data_usage_cycle_editor_positive">Übernehmen</string>
     <string name="data_usage_cycle_editor_subtitle">Datum (monatlich):</string>
     <string name="data_usage_cycle_editor_title">Datum für Zurücksetzung der Nutzungszyklen</string>
-    <string name="data_usage_data_limit">Datenlimit festlegen</string>
+    <string name="data_usage_data_limit">bisher verbrauchte Daten</string>
     <string name="data_usage_disable_3g_limit">2G-3G-Datenlimit festlegen</string>
     <string name="data_usage_disable_4g_limit">4G-Datenlimit festlegen</string>
     <string name="data_usage_disable_mobile">Mobile Daten deaktivieren?</string>
