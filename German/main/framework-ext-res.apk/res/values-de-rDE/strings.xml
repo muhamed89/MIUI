@@ -84,7 +84,7 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; System &gt; Tast
   <string name="permlab_manageLocationPolicy">Lokalisierungsregeln verwalten</string>
   <string name="reboot_confirm_title">Ihr Gerät wird neu gestartet</string>
   <string name="reboot_info_auto_boot">Ihr Telefon wird aufgrund des Startplans um %s neu gestartet</string>
-  <string name="reboot_info_shutdown_alarm">Ihr Telefon wird um %s neu starten und den Alarm auslösen</string>
+  <string name="reboot_info_shutdown_alarm">Ihr Telefon wird %s neu starten und den Alarm auslösen</string>
   <string name="reboot_progress">Neustart…</string>
   <string name="replace">Ersetzen</string>
   <string name="resource_select">Auswählen</string>
