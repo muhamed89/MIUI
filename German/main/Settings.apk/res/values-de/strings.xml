@@ -2201,7 +2201,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
     <string name="manage_notification_access">Benachrichtigungszugriff</string>
     <string name="manage_notification_access_summary_zero">Apps können keine Benachrichtigungen lesen</string>
     <string name="manage_notification_access_title">Benachrichtigungszugriff</string>
-    <string name="manage_space_text">Leerzeichen verwalten</string>
+    <string name="manage_space_text">Speicherplatz verwalten</string>
     <string name="manage_trust_agents">Vertrauenswürdige Geräte</string>
     <string name="manage_trust_agents_summary">Vertrauenswürdige Geräte anzeigen oder deaktivieren</string>
     <string name="manage_xiaomi_router">Mi Routereinstellungen</string>
