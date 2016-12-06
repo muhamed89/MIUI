@@ -144,7 +144,6 @@
   <string name="preference_follow_web_title">Offizielle Website</string>
   <string name="preference_follow_wechat_summary">MIUI</string>
   <string name="preference_follow_wechat_title">WeChat</string>
-  <string name="preference_follow_weibo_summary">@MIUI</string>
   <string name="preference_follow_weibo_title">Sina Weibo</string>
   <string name="preference_settings">Einstellungen</string>
   <string name="preference_use_degress_summary">Ersetzen Sie in den Trigonometriefunktionen Radiant durch Winkel</string>
