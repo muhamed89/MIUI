@@ -22,6 +22,8 @@
   <string name="button_cancel">Abbrechen</string>
   <string name="button_delete">Löschen</string>
   <string name="button_next">Weiter</string>
+    <string name="can_not_backup_in_lite_mode">Im Lite-Modus kann nicht gesichert werden</string>
+    <string name="can_not_restore_in_lite_mode">Im Lite-Modus kann nicht wiederhergestellt werden</string>
   <string name="cancel_recover_settings"><u>Abbrechen</u></string>
   <string name="click_try_to_restore_again">Tippen, um es erneut zu versuchen</string>
   <string name="cloud_app_backup_success">Appsicherung abgeschlossen</string>
@@ -122,5 +124,4 @@ Wichtig: Die Daten der einzelnen Apps werden dabei nicht in der Mi Cloud gesiche
   <string name="start_recover">%s wiederherstellen</string>
   <string name="success_open_cloudbackup">Sicherung der Startbildschirmapps aktiviert</string>
   <string name="wait_icon_download">Appicons herunterladen</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
