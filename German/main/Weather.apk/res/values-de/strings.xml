@@ -24,6 +24,8 @@
   <string name="activity_weathermain_locationg_error">"Konnte nicht lokalisiert werden"</string>
   <string name="add_city">Hinzufügen</string>
   <string name="alert_warning">Wetterwarnung</string>
+    <string name="already_voted">Bereits abgestimmt</string>
+    <string name="already_voted_toast">Sie haben heute bereits abgestimmt</string>
   <string name="app_name">Wetter</string>
   <string name="aqi_data_source">Unterstützt von Caiyun Weather</string>
   <string name="aqi_desc">Luftqualität</string>
@@ -64,6 +66,7 @@
   <string name="daily_forcast_weather_transfer">%1$s. %2$s später.</string>
   <string name="daily_forcast_whirl_wind">Wirbelwind</string>
   <string name="daily_forcast_wind_connect">%1$s %2$s</string>
+    <string name="daily_forecast_detail">Vorhersage</string>
   <string name="daily_forecast_detail_date">d.M.</string>
   <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
   <string name="data_source_timezone">GMT%1$s</string>
@@ -106,7 +109,7 @@
   <string name="install">Installieren</string>
   <string name="international_detail_menu_title">Details</string>
   <string name="international_details_pressure_title">Luftdruck</string>
-  <string name="international_details_real_feel_title">"Fühlt sich an wie "</string>
+  <string name="international_details_real_feel_title">RealFeel®</string>
   <string name="international_details_title">Details</string>
   <string name="international_details_uv_index_title">UV Index</string>
   <string name="international_details_wind_connect">%1$s %2$s</string>
