@@ -519,6 +519,16 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
     <string name="biometric_weak_liveliness_summary">Augenzwinkern beim Entsperren erforderlich</string>
     <string name="biometric_weak_liveliness_title">Lebendigkeitscheck</string>
     <string name="ble_scan_notify_text">Um die Standortgenauigkeit zu erhöhen, können Systemanwendungen nachwievor Bluetooth Geräte in der Nähe erkennen. Sie können dies in den LINK_BEGINScaneinstellungenLINK_END ändern.</string>
+    <string name="block_list_connected_devices">Verbundene Geräte</string>
+    <string name="block_list_diaglog_cancle">Abbrechen</string>
+    <string name="block_list_diaglog_ok">OK</string>
+    <string name="block_list_dialog_content">Diese Aktion wird “%s” trennen von diesem Gerät und es zu Sperrliste hinzufügen</string>
+    <string name="block_list_dialog_title">Jetzt trennen?</string>
+    <string name="block_list_no_device">Keine verbundene Geräte in Sperrliste</string>
+    <string name="block_list_remove_dialog_content">Dieses Gerät “%s” kann eine Verbindung zu diesem Hotspot herstellen</string>
+    <string name="block_list_remove_dialog_title">Entfernen Sie “%s” von Sperrliste</string>
+    <string name="block_list_summary">Geräte anzeigen, die keine Verbindung zu diesem Hotspot herstellen können </string>
+    <string name="block_list_title">Sperrliste</string>
     <string name="bluetooth_a2dp_profile_summary_connected">"Verbunden mit Audiosystem von Medien"</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">Für Audiosystem von Medien verwenden</string>
     <string name="bluetooth_advanced_titlebar">Bluetooth - Erweitert</string>
@@ -4369,6 +4379,7 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
     <string name="testing_wifi_info">WLAN-Information</string>
     <string name="tether_and_hotspot_title">Tethering &amp; Hotspot</string>
     <string name="tether_devices_management_title">Geräte verwalten</string>
+    <string name="tether_devices_max_number">Begrenzung der verbundenen Geräte</string>
     <string name="tether_settings_disabled">Persönlicher Hotspot ist deaktiviert</string>
     <string name="tether_settings_title_all">Tethering &amp; Hotspot</string>
     <string name="tether_settings_title_bluetooth">Bluetoothtethering</string>
