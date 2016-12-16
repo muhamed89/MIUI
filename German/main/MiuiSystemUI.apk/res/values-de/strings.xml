@@ -127,6 +127,8 @@
   <string name="camera_key_action_shortcut_wake">Sperren/Entsperren</string>
   <string name="camera_key_action_toggle_title">Auslöser</string>
   <string name="chooseUsbActivity">Wählen Sie eine App für das USB-Gerät</string>
+    <string name="connected_via_passpoint">Verbunden über %1$s</string>
+    <string name="connected_via_wfa">Verbunden über Wlan Assistenten</string>
   <string name="data_usage_disabled_dialog">"Sie haben Ihr Datenlimit erreicht.
 
 Wenn Sie die Datenverbindung wieder einschalten, können hohe Kosten entstehen."</string>
@@ -261,12 +263,12 @@ Bitte Ladegerät benutzen."</string>
   <string name="screenshot_edit">Bearbeiten</string>
   <string name="screenshot_failed_text">"Screenshot konnte nicht gespeichert werden (zu wenig Speicher oder von der App verweigert)."</string>
   <string name="screenshot_long_screenshot">Bildlauf</string>
-  <string name="screenshot_send">Senden</string>
   <string name="screenshot_saved_text">Zum Anzeigen antippen</string>
   <string name="screenshot_saved_title">Screenshot erstellt</string>
   <string name="screenshot_saving_text">Screenshot wurde gespeichert.</string>
   <string name="screenshot_saving_ticker">Screenshot wird gespeichert...</string>
   <string name="screenshot_saving_title">Screenshot wird gespeichert...</string>
+  <string name="screenshot_send">Senden</string>
   <string name="settings_custom_notification">Benachrichtigungen verwalten</string>
   <string name="settings_toggle_position">Anordnung</string>
   <string name="settings_toggle_position_divider_list">Schalter oberhalb der Leiste sind aktiv</string>
@@ -306,6 +308,7 @@ Zum Sperren runterwischen"</string>
   <string name="status_bar_style_settings">Benachrichtigungen</string>
   <string name="task_access_locked_app_msg">"Die Daten der App sind verborgen."</string>
   <string name="title_usb_accessory">USB-Zubehör</string>
+    <string name="toast_rotation_locked">Bildschirm ist jetzt im landscape Format fixiert.</string>
   <string name="torch_activity_hint">[icon] Taste im Sperrbildschirm gedrückt halten, um die Lampe zu aktivieren</string>
   <string name="torch_activity_name">Lampe</string>
   <string name="torch_closed">Lampe aus</string>
@@ -348,15 +351,15 @@ Zum Sperren runterwischen"</string>
   <string name="vpn_text_long">Verbunden mit %s. Berühren um die Einstellungen zu sehen.</string>
   <string name="vpn_title">VPN aktiviert</string>
   <string name="vpn_title_long">Mit VPN verbunden und es wird %s genutzt</string>
-  <string name="weather_description_no_aqi">%1$s ></string>
+  <string name="weather_description_no_aqi">%1$s</string>
   <string name="weather_publish_time">Aktualisiert um %1$s</string>
   <string name="wifi_connected_no_internet">Verbunden, kein Internet</string>
-  <string name="wifi_disabled_generic">Deaktivieren</string>
+  <string name="wifi_disabled_generic">Deaktiviert</string>
   <string name="wifi_disabled_network_failure">IP Konfiguration fehlgeschlagen</string>
   <string name="wifi_disabled_password_failure">Autenfizierungsproblem</string>
   <string name="wifi_disabled_wifi_failure">WLAN Verbindung fehlgeschlagen</string>
-  <string name="wifi_fail_to_scan">"Kann nicht nach Netzwerken suchen"</string>
-  <string name="wifi_no_internet">"Kein Internetzugang erkannt, wird sich nicht wieder automatisch verbinden."</string>
+  <string name="wifi_fail_to_scan">Kann nicht nach Netzwerken suchen</string>
+  <string name="wifi_no_internet">Kein Internetzugang erkannt, keine automatische Verbindung.</string>
   <string name="wifi_not_in_range">Nicht in Reichweite</string>
   <string name="wifi_remembered">Gespeichert</string>
   <string name="wifi_security_none">Keine</string>
