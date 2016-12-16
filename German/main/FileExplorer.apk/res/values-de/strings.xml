@@ -12,6 +12,8 @@
   <string name="add_one">+1</string>
   <string name="add_private">Dateien jetzt verbergen</string>
   <string name="add_private_files">Dateien hinzufügen</string>
+    <string name="add_task">Hinzufügen</string>
+    <string name="adding_upload_tasks">Aufgaben hinzufügen…</string>
   <string name="album_creator">Erstellt von %s</string>
   <string name="album_name">Tägliche Auswahl: %s</string>
   <string name="all_topic">Alle Schlagwörter</string>
@@ -84,6 +86,7 @@
   <string name="category_type_other">Andere</string>
   <string name="category_video">Videos</string>
   <string name="category_zip">Archive</string>
+    <string name="change_mobile_network_message">Auf mobile Datenverbindug umgestellt. Dies kann zusätzliche Gebühren verursachen.</string>
   <string name="change_sticker">Wähle einen weiteren</string>
   <string name="choose_report_comment_reason">Wieso wird der Kommentar gemeldet?</string>
   <string name="choose_report_reason">Warum melden Sie das?</string>
@@ -128,6 +131,7 @@
   <string name="decrypt_error">Entschlüsseln fehlgeschlagen</string>
   <string name="decrypt_to">Entschlüsseln und speichern nach…</string>
   <string name="decrypting">Entschlüsseln</string>
+    <string name="default_prize_text">Das wandert direkt in mein Tresor!</string>
   <string name="delete_dialog_button">Löschen</string>
   <string name="delete_error">"Löschen der Dateien fehlgeschlagen. Versuchen Sie es erneut.</string>
   <string name="delete_file">Datei löschen?</string>
@@ -212,6 +216,7 @@
   <string name="ftp_transfer_secure">Sicherheit</string>
   <string name="ftp_username_and_passworld">Anmeldung</string>
   <string name="ftp_username_hint">Benutzername</string>
+    <string name="full_gems">Tauschen Sie Ihre Edelsteine</string>
   <string name="gbk_summary">\"Vereinfachtes Chinesisch\" Windows Standardcodierung</string>
   <string name="gbk_title">GBK</string>
   <string name="get_user_info_err">Über diese Person konnten keine Informationen bekommen werden</string>
@@ -230,7 +235,7 @@
   <string name="hot_sticker">Beliebte Sticker</string>
   <string name="hot_topic_str">Beliebte Themen</string>
   <string name="hot_video">Beliebte Videos</string>
-  <string name="hot_video_load_more">Mehr ></string>
+  <string name="hot_video_load_more">"Mehr >"</string>
   <string name="hot_video_title">Beliebte Videos</string>
   <string name="hottest_sticker_str">Beliebt</string>
   <string name="if_cancel">Diese Aktion abbrechen?</string>
