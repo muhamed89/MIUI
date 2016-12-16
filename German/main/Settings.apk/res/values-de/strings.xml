@@ -524,7 +524,9 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
     <string name="block_list_diaglog_ok">OK</string>
     <string name="block_list_dialog_content">Diese Aktion wird “%s” trennen von diesem Gerät und es zu Sperrliste hinzufügen</string>
     <string name="block_list_dialog_title">Jetzt trennen?</string>
+    <string name="block_list_mtk_dialog_content">Mit dieser Aktion wird “%s” von diesem Gerät getrennt</string>
     <string name="block_list_no_device">Keine verbundene Geräte in Sperrliste</string>
+    <string name="block_list_qcom_dialog_content">Mit dieser Aktion wird “%s” von diesem Gerät getrennt und zu Sperrliste hinzugefügt</string>
     <string name="block_list_remove_dialog_content">Dieses Gerät “%s” kann eine Verbindung zu diesem Hotspot herstellen</string>
     <string name="block_list_remove_dialog_title">Entfernen Sie “%s” von Sperrliste</string>
     <string name="block_list_summary">Geräte anzeigen, die keine Verbindung zu diesem Hotspot herstellen können </string>
@@ -788,6 +790,7 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
     <string name="button_send">Senden</string>
     <string name="button_text_accept">Zustimmen</string>
     <string name="button_text_accept_timer">Zustimmen (%d)</string>
+    <string name="button_text_cancel">Abbrechen</string>
     <string name="button_text_login">Anmelden</string>
     <string name="button_text_next_step">Weiter</string>
     <string name="button_text_next_step_timer">Weiter (%d)</string>
@@ -2721,6 +2724,11 @@ Betriebssystem auswählen:"</string>
     <string name="open_anr_debug">Turn on ANR debugging</string>
     <string name="open_miui_optimization_title">MIUI-Optimierung einschalten</string>
     <string name="open_miui_optimization_warning_message">Ihr Gerät wird neu gestartet, um diese Änderungen zu übernehmen</string>
+    <string name="open_personal_assistant_dialog_btn_cancel">Abbrechen</string>
+    <string name="open_personal_assistant_dialog_btn_confirm">Schließen</string>
+    <string name="open_personal_assistant_dialog_desc">Sie werden nicht in der Lage sein Smart Assistent zu verwenden. Jetzt abschalten?</string>
+    <string name="open_personal_assistant_dialog_title">Smart Assistent abschalten</string>
+    <string name="open_personal_assistant_title">Smart Assistent einschalten</string>
     <string name="open_wifi_connect_summary">Tippen um Details anzuzeigen.</string>
     <string name="open_wifi_connect_title">Verbinden mit %1$s</string>
     <string name="opening_paragraph_delete_profile_unknown_company">Dieses Arbeitsprofil wird verwaltet von:</string>
@@ -3140,8 +3148,11 @@ Betriebssystem auswählen:"</string>
     <string name="privacy_mode_title">Datenschutz</string>
     <string name="privacy_notes">Notizen</string>
     <string name="privacy_password">Datenschutzpasswort</string>
+    <string name="privacy_password_bind_account">Mi Konto hinzufügen</string>
+    <string name="privacy_password_bind_account_immediate">Hinzufügen</string>
     <string name="privacy_password_confirm_SecondSpace_Password">Zweitprofilpasswort bestätigen</string>
     <string name="privacy_password_confirm_use_finger">Per Fingerabdruck entsperren</string>
+    <string name="privacy_password_enter_privacy">Datenschutzpasswort eingeben</string>
     <string name="privacy_password_fingerprint_confirm_failed">Fingerabdruck konnte nicht verifiziert werden</string>
     <string name="privacy_password_fingerprint_confirm_succes">Fingerabdruck verifiziert</string>
     <string name="privacy_password_fingerprint_dialog_error_title">Fingerabdruck konnte nicht gescannt werden, versuchen Sie es noch einmal</string>
@@ -4081,6 +4092,7 @@ Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerä
     <string name="status_bar_settings">Benachrichtigungen</string>
     <string name="status_bar_settings_advanced">Erweiterte Einstellungen</string>
     <string name="status_bar_settings_all_app_display_loading">Laden…</string>
+    <string name="status_bar_settings_app_notification_preferences">Appeinstellungen</string>
     <string name="status_bar_settings_basic_settings">Grundeinstellungen</string>
     <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_custom_carrier">Netzwerkanbieter bearbeiten</string>
@@ -4232,6 +4244,7 @@ Nach dem Formatieren wird ^1 nur auf diesem Gerät funktionieren.
 
 "<b>Formatieren löscht alle Daten, die auf ^1 gespeichert sind.</b>" Um Datenverlust zu vermeiden erstellen Sie eine Sicherung. "</string>
     <string name="storage_wizard_format_confirm_public_title">Als tragbaren Speicher formatieren</string>
+    <string name="storage_wizard_format_confirm_third_body">wird formatiert</string>
     <string name="storage_wizard_format_confirm_title">Als internen Speicher formatieren</string>
     <string name="storage_wizard_format_progress_body">Entfernen Sie ^1 nicht während die Formatierung läuft</string>
     <string name="storage_wizard_format_progress_title">^1 wird formatiert…</string>
