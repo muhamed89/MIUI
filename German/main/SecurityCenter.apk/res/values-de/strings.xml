@@ -966,7 +966,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wen
   <string name="pm_auto_start_by_other_app">Anderen Apps erlauben, diese App zu starten</string>
   <string name="pm_auto_start_by_system">Apps starten</string>
   <string name="pm_auto_start_by_system_event">Apps erlauben, automatisch zu starten</string>
-  <string name="pm_auto_start_proc_is_running">Ausführen</string>
+  <string name="pm_auto_start_proc_is_running">Wird ausgeführt</string>
   <string name="pm_remember_choice">Meine Auswahl merken</string>
   <string name="pm_root_success_notification_infomation">Seien Sie sich der Risiken durch Rootzugriff bewusst</string>
   <string name="pm_root_success_notification_title">Rootzugriff gewährt</string>
