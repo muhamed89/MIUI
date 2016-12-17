@@ -131,7 +131,6 @@
   <string name="decrypt_error">Entschlüsseln fehlgeschlagen</string>
   <string name="decrypt_to">Entschlüsseln und speichern nach…</string>
   <string name="decrypting">Entschlüsseln</string>
-    <string name="default_prize_text">Das wandert direkt in mein Tresor!</string>
   <string name="delete_dialog_button">Löschen</string>
   <string name="delete_error">"Löschen der Dateien fehlgeschlagen. Versuchen Sie es erneut.</string>
   <string name="delete_file">Datei löschen?</string>
