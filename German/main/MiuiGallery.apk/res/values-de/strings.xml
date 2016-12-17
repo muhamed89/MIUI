@@ -118,6 +118,7 @@
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
   <string name="androidesk_wallpapers">Androidhintergründe</string>
   <string name="aperture">Blende</string>
+    <string name="app_error">Ein Fehler ist aufgetreten, App wird geschlossen…</string>
   <string name="app_name">Galerie</string>
   <string name="app_name_edit_picture">Bild bearbeiten</string>
   <string name="app_name_view_picture">Zeige Bilder</string>
@@ -173,6 +174,7 @@
   <string name="baby_nick_name">Spitzname</string>
   <string name="baby_sexy">Geschlecht</string>
   <string name="baby_suffix">Baby</string>
+    <string name="background_effect">Hintergrundeffekte</string>
   <string name="backup_automatically_summary">Fotos und Videos in der Mi Cloud sichern. Sie können auf allen Geräten bequem Fotos und Videos durchstöbern, sortieren, bearbeiten und teilen.</string>
   <string name="backup_automatically_title">Automatisch sichern und synchronisieren</string>
   <string name="backup_detail_page_title">Sicherungsliste</string>
@@ -473,6 +475,8 @@
   <string name="fail_to_pick_email">Ungültige E-Mail</string>
   <string name="fail_to_sync_album">Synchronisation des Albums fehlgeschlagen. Netzwerkverbindung prüfen erneut versuchen.</string>
   <string name="family_member_invitation_text">Andere Familiemitglieder</string>
+    <string name="fancy_color_tip">Tippen Sie auf das Foto, um den Sweetspot einzustellen</string>
+    <string name="fancycolor_title">Hintergrundeffekte</string>
   <string name="fast_share_auto_render">Verschönern</string>
   <string name="fast_share_auto_render_finish">Verschönert</string>
   <string name="fileSizeSuffix">%1$s%2$s</string>
@@ -513,6 +517,7 @@
   <string name="frame_semicircle">Halbkreis</string>
   <string name="frame_white">Weiß</string>
   <string name="free">Frei</string>
+    <string name="free_view_tip">Kippen Sie leicht das Telefon, um 3D-Effekt zu sehen</string>
   <string name="gallery_cloud_provider_name">Cloudalbum</string>
   <string name="gallery_setting">Einstellungen</string>
   <string name="gallery_sync_disable_toast">Synchronisation der Galerie ist deaktiviert</string>
@@ -556,6 +561,7 @@
   <string name="ignore_album">Nicht anzeigen</string>
   <string name="ignore_alert_title">Dieses Album nicht anzeigen?</string>
   <string name="ignore_face">Diese Person ignorieren</string>
+    <string name="illegal_arguments_error">Ein Fehler ist aufgetreten</string>
   <string name="image_decode_failed">Bild konnte nicht dekodiert werden</string>
   <string name="image_download_item_title">Lade Foto (%s)</string>
   <string name="image_invalid_path">Ungültiger Pfad</string>
@@ -613,8 +619,9 @@
   <string name="last_year_today">Vor 1 Jahr</string>
   <string name="limit_height">Höhe sollte > 0 sein</string>
   <string name="limit_width">Breite sollte > 0 sein</string>
+    <string name="load_image_error">Foto kann nicht geladen werden</string>
   <string name="loading">Lade…</string>
-  <string name="loading_dual_tip">Dual-Foto wird geladen...</string>
+    <string name="loading_dual_tip">Dual-Foto wird geladen…</string>
   <string name="loading_fail">Download fehlgeschlagen</string>
   <string name="loading_fail_sync_off">Zum Herunterladen schalten Sie die Synchronisation mit Mi Cloud ein</string>
   <string name="loading_fail_sync_off_message">Fotos konnten nicht geladen werden. Synchronisation mit Mi Cloud ist aus.</string>
@@ -626,6 +633,7 @@
   <string name="loading_members">Mitglieder werden geladen</string>
   <string name="loading_suspend">Download angehalten. Er wird fortgesetzt, sobald eine WLAN-Verbindung verfügbar ist.</string>
   <string name="loading_thumbnail">Miniaturansicht wird geladen…</string>
+    <string name="loading_tip">Einen Moment…</string>
   <string name="loading_video">Video wird geladen…</string>
   <string name="loading_video_thumbnail">Videovorschau wird heruntergeladen…</string>
   <string name="local_albums">Lokal</string>
@@ -636,6 +644,15 @@
   <string name="login_and_enable_service">Melden Sie sich mit einem Mi Konto an</string>
   <string name="lomoish">Lomo</string>
   <string name="long_press_to_refocus">Berühren &amp; halten, um neu zu fokussieren</string>
+    <string name="m_fancy_color_effect_blackboard">Kreidetafel</string>
+    <string name="m_fancy_color_effect_monochrome">Monochrom</string>
+    <string name="m_fancy_color_effect_negative">Negativ</string>
+    <string name="m_fancy_color_effect_normal">Normal</string>
+    <string name="m_fancy_color_effect_posterize">Posterisieren</string>
+    <string name="m_fancy_color_effect_radial_blur">Radiale Unschärfe</string>
+    <string name="m_fancy_color_effect_silhouette">Silhouette</string>
+    <string name="m_fancy_color_effect_stroke">Strichzeichnung</string>
+    <string name="m_fancy_color_effect_whiteboard">Whiteboard</string>
   <string name="main_discard_confirm_message">Es gibt nicht gespeicherte Änderungen</string>
   <string name="main_discard_negative_btn">Verwerfen</string>
   <string name="main_discard_positive_btn">Speichern &amp; Beenden</string>
@@ -755,6 +772,7 @@
   <string name="operation_not_show_in_photos_tab">Nicht im Fotoreiter anzeigen</string>
   <string name="operation_projection">Übertragen</string>  
   <string name="operation_refresh">Aktualisieren</string>
+    <string name="operation_remove_face">Entfernen</string>
   <string name="operation_remove_from_face_album">Aus Album entfernen</string>
   <string name="operation_remove_from_face_album_button">Entfernen</string>
   <string name="operation_remove_from_other_albums">Aus anderen Alben entfernen</string>
@@ -872,7 +890,9 @@
   <string name="recommanded_face_added_tip">Zu \"%s\" hinzugefügt</string>
   <string name="redeye">Rote Augen</string>
   <string name="redeye_tooltip">Berühren, um rote Augen zu entfernen</string>
+    <string name="refocus">Refokussieren</string>
   <string name="refocus_data_downloading">Lade Neufokussierungdaten…</string>
+    <string name="refocus_tip">Tippen Sie auf Foto, um es neu zu fokussieren</string>
   <string name="relation_text_empty_alert">Füge Beziehungsinfo hinzu</string>
   <string name="relation_text_family">Familienmitglied</string>
   <string name="relation_text_father">Vater</string>
@@ -886,6 +906,9 @@
   <string name="remind_face_recommend_confirm">Bestätigen</string>
   <string name="remind_shows_in_photo_tab_summary">Dieses Album auf der Startseite anzeigen?</string>
   <string name="remind_shows_in_photo_tab_title">Albumeinstellungen</string>
+    <string name="remove_from_album_message">Dieses Foto wird hier nicht mehr angezeigt</string>
+    <string name="remove_from_album_title">Aus diesem Album entfernen</string>
+    <string name="remove_from_current_album">Aus diesem Album entfernen</string>
   <string name="remove_from_other_albums_tip">Synchronisation mit Mi Cloud sollte aktiviert werden, wenn Sie es aus den anderen Alben entfernen. Album jetzt entfernen?</string>
   <string name="remove_from_secret_fail">Entfernen aus verstecktem Album fehlgeschlagen</string>
   <string name="remove_from_secret_failed_message_with_count">%2$s Elemente konnten nicht aus %1$s entfernt werden</string>
@@ -896,6 +919,8 @@
   <string name="remove_from_secret_unfinished_message_with_count">%1$s Elemente wurden nicht aus dem versteckten Album entfernt</string>  
   <string name="remove_hidden_album">Album anzeigen</string>
   <string name="remove_recent_album">Aus Favoriten entfernen</string>
+    <string name="remove_to_album_title">Zusammenführen mit</string>
+    <string name="remove_to_other_album">Zusammenführen mit einer anderen Person</string>
   <string name="rename_event">Ereignis umbenennen</string>
   <string name="rename_face_album">Name ändern</string>
   <string name="rename_fail_msg">Name konnte nicht geändert werden</string>
@@ -923,10 +948,13 @@
   <string name="saturation">Sättigung</string>
   <string name="saturation_abbr">S</string>
   <string name="save">Speichern</string>
+    <string name="save_dialog_message">Änderungen speichern?</string>
+    <string name="save_dialog_title">Speichern</string>
   <string name="save_error">Zugeschnittenes Bild konnte nicht gespeichert werden</string>
   <string name="save_photo">Bearbeitetes Foto speichern?</string>
   <string name="saving_failure">Foto kann nicht gespeichert werden</string>
   <string name="saving_image">Bild wird gespeichert…</string>
+    <string name="saving_image_to_album">Foto wird in %1$s gespeichert…</string>
   <string name="scan_barcode_guide">Teilensymbol berühren um den QR-Code abzufragen</string>
   <string name="scan_barcode_to_join">QR-Code scannen, um dem Album beizutreten</string>
   <string name="scan_qr_code_buttom_text">QR-Code scannen, um Album anzuzeigen</string>
@@ -1203,6 +1231,7 @@
   <string name="view_queuing_status">Status überprüfen</string>
   <string name="view_sharers">Benutzer anzeigen</string>
   <string name="vignette">Vignette</string>
+    <string name="wait_error">Einen Moment…</string>
   <string name="wallpaper">Hintergrundbild</string>
   <string name="wandoujia">SnapPea</string>
   <string name="warn">Warnung</string>
