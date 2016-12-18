@@ -1343,6 +1343,8 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="sim_location_error_notify_message">Tippen Sie auf SIM-Speicherort ändern</string>
   <string name="sim_location_error_notify_title">SIM-Kartenfehler</string>
   <string name="sim_state_exception_summary">Es ist ein Fehler bei der SIM-Karte aufgetreten.</string>
+    <string name="skin_change_close_btn_text">Als Standardhintergrund einstellen</string>
+    <string name="skin_change_close_toast">Änderungen werden beim nächsten Start von Sicherheitsapp angewendet</string>
   <string name="sorted_button">Sortieren nach</string>
   <string name="sorted_dialog_title">Sortieren nach</string>
   <string name="sp_back_title_text_zero">Sicher</string>
