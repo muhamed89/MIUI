@@ -219,6 +219,7 @@
   <string name="recommend_apps_switch_title">Empfohlene Apps</string>
   <string name="recommend_apps_tips">Diese Funktion benötigt eine Internetverbindung. Tippen Sie auf den Ordnername um die Funktion auszuschalten.</string>
   <string name="reset_scene_prompt">Standardlayout zurücksetzen</string>
+    <string name="screen_locked_toast">Startbildschirmlayout ist gesperrt</string>
   <string name="screen_number">%d Bildschirm</string>
   <string name="scroll_tip_format_when_announce_accessibility">Auf Seite %1$d, %2$d Apps</string>
   <string name="select_all">Alle auswählen</string>
