@@ -58,6 +58,7 @@
   <string name="app_label">Kalender</string>
   <string name="attendees_label">Gäste</string>
   <string name="birthday_calendar_display_name">Geburtstagserinnerungen</string>
+    <string name="birthday_card_title">Heutige Geburtstage</string>
   <string name="birthday_event_description">"%1$s hat heute %4$s!"</string>
   <string name="birthday_event_description_a_week_ago">vor einer Woche</string>
   <string name="birthday_event_description_a_week_later">in einer Woche</string>
@@ -70,12 +71,14 @@
   <string name="birthday_event_description_today">heute</string>
   <string name="birthday_event_description_tomorrow">morgen</string>  
   <string name="birthday_event_description_yesterday">gestern</string>
+    <string name="birthday_event_title_suffix">&apos;s Geburtstag</string>
   <string name="birthday_notification_text_days_later">Noch %1$s Tage bis zum %4$s (%5$s)</string>
   <string name="birthday_notification_text_three_days_later">In 3 Tagen %3$s (%4$s)</string>
   <string name="birthday_notification_text_today">Nicht vergessen, zu gratulieren.</string>
   <string name="birthday_notification_title_days_later">"%1$s hat bald %2$s"</string>
   <string name="birthday_notification_title_three_days_later">Bald %2$s: %1$s</string>
   <string name="birthday_notification_title_today">"%1$s hat %3$s"</string>  
+    <string name="birthday_saved">Geburtstag wurde gespeichert</string>
   <string name="birthday_term">Geburtstag</string>
   <string name="book_card_free">Kostenlos</string>
   <string name="book_card_rating_text">|   %1$s Bewertungen</string>
@@ -181,12 +184,26 @@
   <string name="drop_down_list_header_release_text">Neue Version verfügbar</string>
   <string name="dropdown_delete_button_desc">%s von Empfängern entfernen</string>
   <string name="edit_event_all_day_label">Ganztägig</string>
+    <string name="edit_event_birthday_3_days_before">3 Tage vorher,</string>
+    <string name="edit_event_birthday_import_from_contact">Geburtstags von Konnten importieren</string>
+    <string name="edit_event_birthday_name_empty_hint">Bitte Name eingeben</string>
+    <string name="edit_event_birthday_name_hint">Name</string>
+    <string name="edit_event_birthday_reminder_3_days_before">und 3 Tage vorher erinnern</string>
+    <string name="edit_event_birthday_reminder_time">Erinnerungszeit</string>
+    <string name="edit_event_birthday_the_day">Tag</string>
   <string name="edit_event_calendar_label">Kalender</string>
+    <string name="edit_event_choose_date">Datum auswählen</string>
   <string name="edit_event_confirm_message">Änderungen verwerfen?</string>
   <string name="edit_event_from_label">Von</string>
+    <string name="edit_event_input_year">Jahr eingeben</string>
   <string name="edit_event_label">Details</string>
+    <string name="edit_event_no_reminder_value">Keine Erinnerung</string>
   <string name="edit_event_reminder_off_toast">Erinnerungen sind ausgeschaltet</string>
   <string name="edit_event_show_all">Alle anzeigen</string>
+    <string name="edit_event_tab_anniversary">Jahrestag</string>
+    <string name="edit_event_tab_birthday">Geburtstag</string>
+    <string name="edit_event_tab_countdown">Countdown</string>
+    <string name="edit_event_tab_event">Ereignis</string>
   <string name="edit_event_to_label">Bis</string>
   <string name="edit_label">Bearbeiten</string>
   <string name="email_guests_label">E-Mail an Gäste</string>
@@ -226,6 +243,9 @@
   <string name="event_info_where">Wo\u0009</string>
   <string name="event_lunar_month">Monat</string>
   <string name="event_not_found">Keine Ereignisse</string>
+    <string name="event_reminder_allday_day_zero">An diesem Tag %2$s</string>
+    <string name="event_reminder_value_zero">An Erinnerungszeit</string>
+    <string name="event_reminders_to_max">Dieses Ereignis unterstützt %d Erinnerungen</string>
   <string name="event_show_more">Mehr Optionen</string>
   <string name="event_subscirbe_detail_title">Weitere Informationen zur Veranstaltung</string>
   <string name="event_title">Titel</string>
@@ -259,6 +279,9 @@
   <string name="huangli_label"/>
   <string name="hour_picker_description">Stunden als kreisförmiger Schieber</string>
   <string name="image_content">Bild</string>
+    <string name="import_action">Importieren</string>
+    <string name="import_birthday">Geburtstage importieren</string>
+    <string name="imported">Wurden importiert</string>
   <string name="insert_event_dialog_btn_negative">Nein</string>
   <string name="insert_event_dialog_btn_positive">Ja</string>
   <string name="insert_event_dialog_message">Diesen Termin zum Kalender hinzufügen?</string>
@@ -266,6 +289,7 @@
   <string name="insert_event_toast_add_failed">Fehlgeschlagen</string>
   <string name="insert_event_toast_add_success">Termin erstellt</string>
   <string name="item_is_selected">%1$s ausgewählt</string>
+    <string name="item_num_selected">%1$d ausgewählt</string>
   <string name="joke_card_icon_text">%1$s Personen lachen</string>
   <string name="jump_date">Springen</string>
   <string name="jump_date_full">Zum Datum springen</string>
@@ -288,6 +312,7 @@
   <string name="menu_reminder_preferences">Erinnerungseinstellungen</string>
   <string name="menu_select_visible_calendars">Anzeigeoptionen</string>
   <string name="minute_picker_description">Minuten als kreisförmiger Schieber</string>
+    <string name="missing_name">(Kein Name)</string>
   <string name="miui_menu_create_event">Neu</string>
   <string name="modify_all">Alle Termine in dieser Serie ändern</string>
   <string name="modify_all_following">Diesen und alle zukünftigen Termine ändern</string>
@@ -316,6 +341,7 @@
   <string name="new_event_dialog_label">Neuer Termin</string>
   <string name="new_event_dialog_option">Neuer Termin</string>
   <string name="no_calendars_found">Damit Sie einen Termin hinzufügen können, müssen Sie mindestens ein Google-Konto zu Ihrem Gerät hinzufügen und einen Kalender sichtbar machen. Tippen Sie zum Hinzufügen eines Kontos auf \"Konto hinzufügen\". Falls Sie gerade ein Konto hinzugefügt haben, warten Sie, bis die Synchronisierung abgeschlossen ist, und versuchen Sie es dann erneut. Sie können auch auf \"Abbrechen\" tippen und sich vergewissern, dass mindestens ein Kalender sichtbar ist.</string>
+    <string name="no_contact_birthday_hint">Keine Geburtstage zum Importieren</string>
   <string name="no_local_calendar">Kein Kalenderabo</string>
   <string name="no_network">Netzwerk nicht verfügbar</string>
   <string name="no_network_btn">Nochmals versuchen</string>
@@ -363,7 +389,8 @@
   <string name="preferences_clear_search_history_summary">"Alle Sucheinträge aus dem Verlauf entfernen"</string>
   <string name="preferences_clear_search_history_title">Suchverlauf löschen</string>
   <string name="preferences_debug_category">Debuggen</string>
-  <string name="preferences_default_reminder_default">10</string>
+  
+    <string name="preferences_default_allday_reminder_title">Standarderinnerungszeit für ganztägige Ereignisse</string>
   <string name="preferences_default_reminder_dialog">Standarderinnerungszeit</string>
   <string name="preferences_default_reminder_title">Standarderinnerungszeit</string>
   <string name="preferences_experimental_category">Experimentẹll</string>
@@ -371,7 +398,6 @@
   <string name="preferences_hide_declined_title">Abgelehnte Termine ausblenden</string>
   <string name="preferences_history_events">Vergangene Termine anzeigen</string>
   <string name="preferences_holidays">Feiertage anzeigen</string>
-  <string name="preferences_home_tz_default">Amerika/Los_Angeles</string>
   <string name="preferences_home_tz_title">Heimatzeitzone</string>
   <string name="preferences_import_credit_repayment">Kreditkartenzahlungen</string>
   <string name="preferences_import_travel">Fahrkarten</string>
@@ -462,8 +488,10 @@
   <string name="setting_about_imei">IMEI:</string>
   <string name="setting_about_miui_version">MIUI Version:</string>
   <string name="setting_about_summary">Version:</string>
+    <string name="setting_accounts">Kalenderkonten</string>
   <string name="setting_chinese_almanac">Almanach</string>
   <string name="setting_chinese_holiday">Feiertage</string>
+    <string name="setting_features_title">Eigenschaften</string>
   <string name="setting_holiday">Feiertage</string>
   <string name="setting_holiday_display_desc">Feiertagskarten auf der Startseite anzeigen</string>
   <string name="setting_holiday_display_title">Feiertage anzeigen</string>

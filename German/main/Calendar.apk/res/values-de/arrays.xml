@@ -319,4 +319,24 @@
         <item>Fidschi</item>
         <item>Tonga</item>
     </string-array>
+    <string-array name="default_reminder_labels">
+        <item>Zum Ereignis</item>
+        <item>5 Minuten vorher</item>
+        <item>10 Minuten vorher</item>
+        <item>15 Minuten vorher</item>
+        <item>30 Minuten vorher</item>
+        <item>1 Stunde vorher</item>
+        <item>1 Tag vorher</item>
+        <item>2 Tage vorher</item>
+        <item>1 Woche vorher</item>
+    </string-array>
+    <string-array name="entryvalues_settings_debug">
+        <item>keine</item>
+        <item>Export und Sendeprotokoll</item>
+        <item>Protokoll mit Dateimanager generieren</item>
+    </string-array>
+    <string-array name="fortune_gender">
+        <item>männlich</item>
+        <item>weiblich</item>
+    </string-array>
 </resources>

@@ -364,7 +364,23 @@ Kontaktkarten sind ausgeschaltet.</string>
   <string name="device_paired_dialog_message">Kontakte abrufen…</string>
   <string name="device_paired_dialog_title">Kontakte abrufen…</string>
   <string name="device_pairing_dialog_message">Verbinden…</string>
-  <string name="device_pairing_dialog_title">Geräte verbinden</string>
+    <string name="device_pairing_dialog_title">Geräte verbinden</string>
+    <string name="device_transfer_by_bluetooth_message">1. Bitte schalten Sie &quot;Bluetooth&quot; auf dem anderen Gerät ein;
+        
+
+- Auf Android Geräten finden Sie &quot;Bluetooth&quot; normalerweise bei den Netzwerkeinstellungen
+        
+- Auf iOS Geräten sollten Sie &quot;Bluetooth&quot; in den Einstellungen suchen
+        
+
+2. Auf Android Geräten sollten Sie außerdem die &quot;Sichtbarkeit für andere Geräte&quot; einschalten;
+        
+
+3. Klicken Sie &quot;Weiter&quot;und erlauben Sie im nächsten Schritt den Zugriff auf die Kontakte.</string>
+    <string name="device_transfer_by_sim_message">1. Speichern Sie die Kontakte des anderen Geräts auf der SIM-karte;
+        
+
+2. Gehen Sie zu &quot;Kontakteinstellungen&quot; -- &quot;Kontakte importieren/exportieren&quot; -- &quot;Von SIM-Karte importieren&quot;, halten Sie einen Kontakt gedrückt, wählen Sie die zu importierenden Kontakte aus, dann klicken Sie &quot;Importieren&quot;.</string>
   <string name="device_version_header_bluetooth">Stellen Sie sicher, dass Bluetooth an ist</string>
   <string name="device_version_header_no_bluetooth">Kontakte von SIM-Karte importieren</string>
   <string name="device_version_title">Modell auswählen</string>
