@@ -197,7 +197,6 @@
   <string name="edit_event_from_label">Von</string>
     <string name="edit_event_input_year">Jahr eingeben</string>
   <string name="edit_event_label">Details</string>
-    <string name="edit_event_no_reminder_value">Keine Erinnerung</string>
   <string name="edit_event_reminder_off_toast">Erinnerungen sind ausgeschaltet</string>
   <string name="edit_event_show_all">Alle anzeigen</string>
     <string name="edit_event_tab_anniversary">Jahrestag</string>
@@ -244,7 +243,6 @@
   <string name="event_lunar_month">Monat</string>
   <string name="event_not_found">Keine Ereignisse</string>
     <string name="event_reminder_allday_day_zero">An diesem Tag %2$s</string>
-    <string name="event_reminder_value_zero">An Erinnerungszeit</string>
     <string name="event_reminders_to_max">Dieses Ereignis unterstützt %d Erinnerungen</string>
   <string name="event_show_more">Mehr Optionen</string>
   <string name="event_subscirbe_detail_title">Weitere Informationen zur Veranstaltung</string>
@@ -390,7 +388,6 @@
   <string name="preferences_clear_search_history_title">Suchverlauf löschen</string>
   <string name="preferences_debug_category">Debuggen</string>
   
-    <string name="preferences_default_allday_reminder_title">Standarderinnerungszeit für ganztägige Ereignisse</string>
   <string name="preferences_default_reminder_dialog">Standarderinnerungszeit</string>
   <string name="preferences_default_reminder_title">Standarderinnerungszeit</string>
   <string name="preferences_experimental_category">Experimentẹll</string>

@@ -330,11 +330,6 @@
         <item>2 Tage vorher</item>
         <item>1 Woche vorher</item>
     </string-array>
-    <string-array name="entryvalues_settings_debug">
-        <item>keine</item>
-        <item>Export und Sendeprotokoll</item>
-        <item>Protokoll mit Dateimanager generieren</item>
-    </string-array>
     <string-array name="fortune_gender">
         <item>männlich</item>
         <item>weiblich</item>
