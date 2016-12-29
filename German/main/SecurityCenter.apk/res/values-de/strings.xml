@@ -1677,6 +1677,7 @@ Der verbleibende Datenverbrauch beinhalten auch jenen Verbrauch, welcher in dem 
   <string name="traffic_setting_open">An</string>
   <string name="traffic_setting_step_num">Datentarifeinstellungen</string>
   <string name="traffic_warning_purchase_title">Warnung wegen mobiler Datennutzung</string>
+    <string name="try_recommended_function">Schützen Sie Ihr Gerät mithilfe von neuen Sicherheitsfunktionen</string>
   <string name="unable_connect_internet">Keine Internetverbindung</string>
   <string name="uninstall_app_dialog_msg">Nach Deinstallation werden alle Appdaten gelöscht.</string>
   <string name="uninstall_app_dialog_title">Jetzt deinstallieren?</string>

@@ -358,6 +358,7 @@
   <string name="mx_online">Aktiviert</string>
   <string name="mx_reactivate">Mi Nachrichten reaktivieren</string>
   <string name="mx_recommend_msg">Berühren, um Mi Nachrichten einzuschalten</string>
+    <string name="mx_stranger_recommend_msg">Antippen, um Mi Nachrichten von unbekannten Nummern zu blockieren</string>
   <string name="mx_type_guide">Senden Sie Nachrichten an andere MIUI Benutzer ohne zusätzliche Kosten</string>
   <string name="mx_warning_notice">Zum Aktivieren der Cloudnachrichten wird eine SMS gesendet (providerabhängige Gebühr)</string>
   <string name="need_download">Wird synchronisiert</string>
@@ -374,6 +375,7 @@
   <string name="no">Abbrechen</string>
   <string name="no_block_button_msg">Diese Nummer nicht blockieren</string>
   <string name="no_conversations">Keine Unterhaltungen</string>
+    <string name="no_delivery_report">Kein Zustellbericht</string>
   <string name="no_subject">(Kein Betreff)</string>
   <string name="no_subject_view">(Kein Betreff)</string>
   <string name="non_english_subject_limit">Maximal 13 Zeichen</string>
@@ -586,6 +588,7 @@
   <string name="sim_view">Anzeigen</string>
   <string name="slide_number">Dia %s</string>
   <string name="slide_show_part">Teil %1$s/%2$s</string>
+    <string name="slide_up_to_cancel">Zum Abbrechen nach oben wischen</string>
   <string name="slideshow_activity">Diashow</string>
   <string name="sms_card_partner_label">"SMS-Partnerkarte: "</string>
   <string name="sms_content">Inhalt:</string>

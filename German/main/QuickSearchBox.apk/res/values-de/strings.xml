@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="app_loaction">Auf der Startseite finden</string>
   <string name="app_name">Suche</string>
   <string name="application_desc">Anwendung</string>
   <string name="applications_search_label">Apps</string>
