@@ -15,7 +15,7 @@
   <string name="account_crop_user_avatar">Foto zuschneiden</string>
   <string name="account_dspt_provision">"Verwenden Sie das Mi Konto zum Anmelden an der Mi Cloud, dem MIUI-Theme-Store und weiteren Diensten."</string>
   <string name="account_dspt_provision2">Mehr erfahren</string>
-  <string name="account_empty_user_name">Mi Konto Benutzername eingeben</string>
+  <string name="account_empty_user_name">Mi Konto-Benutzername eingeben</string>
   <string name="account_error_all_space_user_name">Name darf nicht nur Leerzeichen enthalten</string>
   <string name="account_error_longer_user_name">"Maximal 20 Zeichen"</string>
   <string name="account_error_shorter_user_name">Der Name muss mehr als 2 Zeichen haben</string>
@@ -113,8 +113,8 @@
   <string name="delete_action">Löschen</string>
   <string name="delete_app">App entfernen</string>
   <string name="delete_bank_card_failed">Entfernen der Bezahlmethode fehlgeschlagen</string>
-  <string name="delete_bank_card_message">Um Ihr Eigentum zu schützen, werden Daten Ihrer Bankkarte nach dem Abmelden gelöscht</string>
-  <string name="delete_bank_card_title">Daten der Bankkarte löschen</string>
+  <string name="delete_bank_card_message">Um Ihr Eigentum zu schützen, werden Ihre Bankkartendaten nach dem Abmelden gelöscht</string>
+  <string name="delete_bank_card_title">Bankkartendaten löschen</string>
   <string name="delete_browser">Browser entfernen</string>
   <string name="delete_device">Gerät entfernen</string>
   <string name="delete_device_btn">Entfernen</string>
@@ -200,7 +200,7 @@
   <string name="login_instead_reg">Diese Nummer verwenden</string>
   <string name="login_instead_reg_with_email">Diese E-Mail verwenden</string>
   <string name="login_title">Bei Ihrem Mi Konto anmelden</string>
-  <string name="login_with_email_or_id"><u>Mit E-Mailadresse oder Mi Konto ID anmelden</u></string>
+  <string name="login_with_email_or_id"><u>Mit E-Mailadresse oder Mi Konto-ID anmelden</u></string>
   <string name="logout_failed">"Abmeldung fehlgeschlagen"</string>
   <string name="mi_account_dspt_provision">"Mit einem Konto an der Mi Cloud, dem MIUI Themenstore und weiteren Mi-Diensten anmelden."</string>
   <string name="mi_account_identity_title">Überprüfen Sie Ihre Identität</string>
@@ -315,10 +315,10 @@
   <string name="passport_getting_verify_code">Code erneut abrufen</string>
   <string name="passport_i_know">Ich weiß</string>
   <string name="passport_identitfication_expired">Der Überprüfungscode ist abgelaufen</string>
-  <string name="passport_imei_permission_denied_message">Wir fordern die Berechtigung an, um die IMEI zu überprüfen. Um Ihr Mi Konto abzusichern, verwendent Mi Konto die IMEI um das Gerät zu verifizieren, mit dem Sie sich anmelden/registrieren.</string>
+  <string name="passport_imei_permission_denied_message">Wir fordern die Berechtigung an, um die IMEI zu überprüfen. Um Ihr Mi Konto abzusichern, verwendet Mi Konto die IMEI um das Gerät zu verifizieren, mit dem Sie sich anmelden/registrieren.</string>
   <string name="passport_imei_permission_denied_title">IMEI-Berechtigung anfordern</string>
   <string name="passport_input_captcha_hint">Code eingeben</string>
-  <string name="passport_input_password_for_login">Die Nummer ist bereits mit einem bestehenden Konto verknüpft. Trage das zugehörige Passwort ein.</string>
+  <string name="passport_input_password_for_login">Die Nummer ist bereits mit einem bestehenden Konto verknüpft. Tragen Sie das zugehörige Passwort ein.</string>
   <string name="passport_input_password_hint">Passwort eingeben</string>
   <string name="passport_input_phone_hint">Telefonnummer eingeben</string>
   <string name="passport_input_vcode_hint">Bestätigungscode eingeben</string>
@@ -499,7 +499,7 @@
     <string name="search_user_detail_top_key_words">Persönliche Infos,Profilbild ändern,Benutzername ändern,Nickname ändern,Geburtsdatum ändern,Geschlecht ändern</string>
   <string name="security_question">Frage wählen</string>
   <string name="security_question_answer">Antwort eingeben</string>
-  <string name="security_question_notice_message">Nachdem Sie Ihr Telefon mit dem Mi Konto verknüpft haben, können Sie Sicherheitsfragen festlegen, um Passwörter rückzusetzen falls Sie sie vergessen.</string>
+  <string name="security_question_notice_message">Nachdem Sie Ihr Telefon mit dem Mi Konto verknüpft haben, können Sie Sicherheitsfragen festlegen, um vergessene Passwörter zurückzusetzen.</string>
   <string name="security_question_notice_title">Telefon verknüpfen</string>
   <string name="security_question_prompt">"Sicherheitsfragen können verwendet werden, falls Sie Ihr Passwort ändern möchten oder vergessen haben.
 Stellen Sie sicher, dass Sie sich die Antworten auf diese Fragen merken."</string>
