@@ -185,7 +185,7 @@
   <string name="dropdown_delete_button_desc">%s von Empfängern entfernen</string>
   <string name="edit_event_all_day_label">Ganztägig</string>
     <string name="edit_event_birthday_3_days_before">3 Tage vorher,</string>
-    <string name="edit_event_birthday_import_from_contact">Geburtstags von Konnten importieren</string>
+    <string name="edit_event_birthday_import_from_contact">Geburtstage von Konten importieren</string>
     <string name="edit_event_birthday_name_empty_hint">Bitte Name eingeben</string>
     <string name="edit_event_birthday_name_hint">Name</string>
     <string name="edit_event_birthday_reminder_3_days_before">und 3 Tage vorher erinnern</string>
