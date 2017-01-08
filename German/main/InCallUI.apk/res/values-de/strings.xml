@@ -243,7 +243,7 @@
   <string name="unknown">Unbekannt</string>
   <string name="upgrade_vt_prompt">Möchten Sie den Anruf per Videoanruf weiterführen?</string>
   <string name="video_call_not_allowed_if_tty_enabled">Schalten Sie zuerst den TTY-Modus ein</string>
-    <string name="video_conference_caller_info_name">%1$s&apos;s Videokonferenz</string>
+    <string name="video_conference_caller_info_name">%1$s Videokonferenz</string>
   <string name="video_switch_to_voice_call_prompt">Zu Sprachtelefonie wechseln</string>
   <string name="voicemail">Sprachnachricht</string>
   <string name="wait_prompt_str">"Folgende Töne senden?"</string>
