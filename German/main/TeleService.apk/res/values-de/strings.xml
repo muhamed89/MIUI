@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name=" hide_error_from_network_text">Anfrage kann nicht bearbeitet werden</string>
   <string name="Result_title">Ergebnis</string>
   <string name="roaming_disable">Bei Roaming mit Datendienst verbinden</string>
   <string name="roaming_enable">Bei Roaming mit Datendienst verbinden</string>
@@ -1386,8 +1387,10 @@ Ihre SIM-Karte wird nach einem weiteren gescheiterten Versuch gelöscht</string>
   <string name="sip_menu_add">Hinzufügen</string>
   <string name="sip_menu_discard">Verwerfen</string>
   <string name="sip_menu_save">Speichern</string>
+    <string name="sip_profile_create_error">Neues SIP-Profil kann nicht erstellt werden</string>
   <string name="sip_receive_calls">Eingehende Anrufe annehmen</string>
   <string name="sip_receive_calls_summary">Verkürzt Akkulaufzeit</string>
+    <string name="sip_save_register_error">Neues SIP-Profil kann nicht registriert und gespeichert werden</string>
   <string name="sip_settings">VOIP-Einstellungen</string>
   <string name="sip_system_decide">Automatisch</string>
   <string name="slot">Slot</string>

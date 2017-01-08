@@ -32,7 +32,9 @@
   <string name="callFailed_unobtainable_number">Ungültige Nummer</string>
   <string name="callFailed_userBusy">Leitung besetzt</string>
   <string name="callUnanswered_forwarded">Anruf unbeantwortet und weitergeleitet</string>
+    <string name="call_button_conference_manager_text">Konferenzmanager</string>
   <string name="call_button_dialer_text">Tastenfeld</string>
+    <string name="call_button_mute_text">Stumm</string>
   <string name="call_button_tools_text">Funktion</string>
   <string name="call_contacts_deny_permission_msg">"Kann die Kontaktinfos nicht anzeigen, da Sie den Lesezugriff auf die Kontakte nicht erlaubt haben."</string>
   <string name="call_description_recording">Aufnahme…</string>
@@ -64,6 +66,7 @@
   <string name="card_title_in_call">Im Gespräch</string>
   <string name="card_title_in_call_short">Im Gespräch</string>
   <string name="card_title_incoming_call">Eingehender Anruf</string>
+    <string name="card_title_incoming_conference">Konferenzeinladung</string>
   <string name="card_title_incoming_conference_call">Eingehende Konferenz</string>
   <string name="card_title_on_hold">Gehaltener Anruf</string>
   <string name="card_title_threeway_call">3er Telefonkonferenz</string>
@@ -73,6 +76,24 @@
   <string name="card_title_upgrade_video_call_timed_out">Video konnte nicht aktualisiert werden</string>
   <string name="card_title_video_call">Videoanruf</string>
   <string name="card_title_video_call_paused">Video wurde angehalten</string>
+    <string name="card_title_video_conf_call">Videokonferenz</string>
+    <string name="card_video_hold_swap">Tauschen</string>
+    <string name="cb_all_languages">Alle Sprachen</string>
+    <string name="cb_channel_dialog_channel_name">Kanalname (0-10 Zeichen)</string>
+    <string name="cb_channel_dialog_channel_number">Kanalnummer (0-65534)</string>
+    <string name="cb_channel_dialog_channel_state">Kanal aktivieren</string>
+    <string name="cb_channel_dialog_edit_channel">Kanal bearbeiten</string>
+    <string name="cb_default_new_channel_name">Neuer Kanal</string>
+    <string name="cb_dialog_title_language_choice">Sprache wählen</string>
+    <string name="cb_error_channel_id_exist">Die Kanal-ID existiert bereits</string>
+    <string name="cb_error_channel_name">Die Länge der Kanalnummer ist ungültig (1-10 Zeichen)</string>
+    <string name="cb_error_channel_num">Bitte geben Sie die Kanalnummer ein (0-65534).</string>
+    <string name="cb_error_language_select">Wählen Sie mindestens eine Sprache</string>
+    <string name="cb_menu_add_channel">Kanal hinzufügen</string>
+    <string name="cb_menu_channel_list">Kanalliste</string>
+    <string name="cb_menu_delete">Löschen</string>
+    <string name="cb_menu_edit">Bearbeiten</string>
+    <string name="cb_menu_language">Sprache</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. total %s</string>
   <string name="conference_call_number">%s Leute</string>
   <string name="conference_call_single_description" formatted="false">%s etc. | Gesamt %s</string>
@@ -222,6 +243,7 @@
   <string name="unknown">Unbekannt</string>
   <string name="upgrade_vt_prompt">Möchten Sie den Anruf per Videoanruf weiterführen?</string>
   <string name="video_call_not_allowed_if_tty_enabled">Schalten Sie zuerst den TTY-Modus ein</string>
+    <string name="video_conference_caller_info_name">%1$s&apos;s Videokonferenz</string>
   <string name="video_switch_to_voice_call_prompt">Zu Sprachtelefonie wechseln</string>
   <string name="voicemail">Sprachnachricht</string>
   <string name="wait_prompt_str">"Folgende Töne senden?"</string>
