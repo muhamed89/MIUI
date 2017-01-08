@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Rechner</string>
+    <string name="app_name_danfa">Mi Taschenrechner</string>
   <string name="cal_convert_to_word_figure">Finanzmathematik</string>
   <string name="cal_copy">Kopieren</string>
   <string name="cal_edit_mode">Bearbeitungsmodus</string>
@@ -59,6 +60,7 @@
   <string name="from_unit_en">Kilometer pro Stunde</string>
   <string name="from_unit_short">km/h</string>
   <string name="home_title_calculator">Taschenrechner</string>
+    <string name="income_type">Einkunftsart</string>
   <string name="item_title_aa_payment">Zahlung splitten</string>
   <string name="item_title_area_conversion">Fläche</string>
   <string name="item_title_calculator">Rechner</string>
@@ -135,10 +137,14 @@
   <string name="power">^</string>
   <string name="powerDesc">Potenz</string>
   <string name="preference_about_calculator">Über Rechner</string>
+    <string name="preference_alert_follow_qq_group">Für Feedback kopieren und bei QQ einfügen</string>
   <string name="preference_alert_follow_wechat">Kopieren und bei WeChat einfügen, um zu folgen</string>
   <string name="preference_alert_follow_wechat_button">Kopieren</string>
+    <string name="preference_check_update_summary_current_version">Aktuelle Version：%s</string>
+    <string name="preference_check_update_summary_new_version">Neue Version：%s</string>
   <string name="preference_check_update_title">Auf Updates prüfen</string>
   <string name="preference_feedback_title">FAQ</string>
+    <string name="preference_follow_qq_group">QQ Gruppe:523274279</string>
   <string name="preference_follow_us">Folgen Sie uns</string>
   <string name="preference_follow_web_summary">www.miui.com</string>
   <string name="preference_follow_web_title">Offizielle Website</string>
@@ -168,6 +174,7 @@
   <string name="tax_city_error">Gebens Sie richtigen Standort ein</string>
   <string name="tax_city_located">Standort</string>
   <string name="tax_city_picker">Ort</string>
+    <string name="tax_edittext_hint">Bitte geben Sie die Höhe Ihres Einkommens ein</string>
   <string name="tax_endowment">Ausstattung</string>
   <string name="tax_fixed_salary_hint">Geben Sie Ihr Bruttoeinkommen ein</string>
   <string name="tax_income_before_tax">Einkommen vor Steuern</string>
@@ -192,6 +199,7 @@
   <string name="tax_unemployment">Arbeitslosigkeit</string>
   <string name="tax_update_time_format">Daten im Jahr %s</string>
   <string name="text_copied_toast">Text wurde kopiert.</string>
+    <string name="times">Zeit</string>
   <string name="title_bar">Längenumrechner</string>
   <string name="to_num">62.7</string>
   <string name="unit_data_default_length_0">m</string>
