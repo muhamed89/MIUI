@@ -387,7 +387,7 @@
   <string name="preferences_clear_search_history_summary">"Alle Sucheinträge aus dem Verlauf entfernen"</string>
   <string name="preferences_clear_search_history_title">Suchverlauf löschen</string>
   <string name="preferences_debug_category">Debuggen</string>
-  
+  <string name="preferences_default_allday_reminder_title">Standarderinnerungszeit (ganztägig)</string>
   <string name="preferences_default_reminder_dialog">Standarderinnerungszeit</string>
   <string name="preferences_default_reminder_title">Standarderinnerungszeit</string>
   <string name="preferences_experimental_category">Experimentẹll</string>
