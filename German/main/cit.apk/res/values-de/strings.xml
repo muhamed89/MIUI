@@ -7,6 +7,7 @@
     <string name="SD_SDCard_mounted">Detect SDCard</string>
     <string name="SD_SDCard_total_size">Gesamtgröße</string>
     <string name="SD_SDCard_unmounted">SD-Karte nicht verfügbar</string>
+    <string name="button_cancel">Abbrechen</string>
     <string name="button_ok">OK</string>
     <string name="camerainfo">Kamerainformation</string>
     <string name="cit_OTG_plugin_check_summary">Wenn ein OTG-Gerät verbunden ist, sollte \"USB OTG-Gerät erkannt\" unten angezeigt werden.</string>
@@ -142,6 +143,7 @@ Telefon, wie bei einem Anruf halten, ins Mikrofon sprechen. Die Stimme sollte mi
     <string name="cit_fm_check_summary">"Test überprüft das Radio."</string>
     <string name="cit_fm_check_title">FM-Radio testen</string>
     <string name="cit_fm_close">Radio abschalten</string>
+    <string name="cit_fm_headset_unpluged">Bitte Headset einsetzen!</string>
     <string name="cit_fm_not_supported">"FM-Radio wird von diesem Gerät nicht unterstützt"</string>
     <string name="cit_fm_open_1">FM - 88.5</string>
     <string name="cit_fm_open_2">FM - 107.9</string>
@@ -247,6 +249,8 @@ Aktiviere GPS über die Schnellauswahl"</string>
     <string name="cit_proximity_sensor_check_summary">"Näherungssensor mit dem Finger abdecken (befindet sich am oberen Ende des Telefons), dann nehmen Sie ihre Finger weg. Wenn Sie Ihre Hand weiter vom Telefon wegnehmen, wird der Wert von 0.0 an steigen.h
 Stellen Sie sicher, dass sich bei der Kalibrierung nichts zwischen dem Sensor und Ihrer Hand befindet (z.B. Schutzfolien oder Handschuhe)."</string>
     <string name="cit_proximity_sensor_check_title">Näherungssensor testen</string>
+    <string name="cit_proximity_us_sensitivity">Empfindlichkeit:</string>
+    <string name="cit_proximity_us_summary">Ultraschall-Näherungssensor kalibrieren</string>
     <string name="cit_ramdump_crash">Force system crash when modem crash</string>
     <string name="cit_ramdump_dload">Force goto download mode</string>
     <string name="cit_rear_dual_camera_check_title">Hintere Dual-Kamera</string>
@@ -296,6 +300,8 @@ Datei hinzufügen und Test erneut starten."</string>
     <string name="cit_sim_state_unkown">Unbekannter Statusfehler</string>
     <string name="cit_start_calibration">Starte Kalibrierung</string>
     <string name="cit_stop_calibration">Stoppe Kalibrierung</string>
+    <string name="cit_tfcard_support_summary">Überprüfen, ob TFCard von diesem Gerät unterstützt wird</string>
+    <string name="cit_tfcard_support_title">TFCard Unterstützung</string>
     <string name="cit_tool">Tools</string>
     <string name="cit_tool_bluetooth">Bluetooth-Testtools</string>
     <string name="cit_tool_bluetooth_dut">Bluetooth-Test_Modus starten</string>
