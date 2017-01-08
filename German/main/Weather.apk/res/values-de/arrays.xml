@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="aqi_detail_title">
+        <item>Gut</item>
+        <item>Mäßig</item>
+        <item>Ungesund für empfindliche Gruppen</item>
+        <item>Ungesund</item>
+        <item>Sehr ungesund</item>
+        <item>Gefährlich</item>
+    </string-array>
     <string-array name="aqi_title">
         <item>%1$s</item>
         <item>%1$s</item>
@@ -26,6 +34,21 @@
         <item>AQI %1$s</item>
         <item>AQI %1$s</item>
         <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Gut</item>
+        <item>Befriedigend</item>
+        <item>Mäßig belastet</item>
+        <item>Schlecht</item>
+        <item>Sehr schlecht</item>
+        <item>Stark belastet</item>
+    </string-array>
+    <string-array name="breeze">
+        <item><force 2</item>
+        <item><6.0km/h</item>
+        <item><1.7m/s</item>
+        <item><3.7mph</item>
+        <item><3.2kn</item>
     </string-array>
     <string-array name="hot_city">
         <item>Peking</item>
@@ -104,6 +127,16 @@
         <item>W</item>
         <item>NW</item>
     </string-array>
+    <string-array name="wind_direction_simple">
+        <item>N</item>
+        <item>NO</item>
+        <item>O</item>
+        <item>SO</item>
+        <item>S</item>
+        <item>SW</item>
+        <item>W</item>
+        <item>NW</item>
+    </string-array>
     <string-array name="wind_power">
         <item>%s</item>
         <item>%s</item>
@@ -118,5 +151,26 @@
         <item>%s</item>
         <item>%s</item>
         <item>%s</item>
+    </string-array>
+    <string-array name="wind_unit_detail">
+        <item>Beafortskala</item>
+        <item>Kilometer pro Stunde (km/h)</item>
+        <item>Meter pro Sekunde (m/s)</item>
+        <item>Meile pro Stunde (mph)</item>
+        <item>Knoten (kn)</item>
+    </string-array>
+    <string-array name="wind_unit_replace">
+        <item>Windstärke %1$s</item>
+        <item>%1$skm/h</item>
+        <item>%1$sm/s</item>
+        <item>%1$smph</item>
+        <item>%1$skn</item>
+    </string-array>
+    <string-array name="wind_unit_simple">
+        <item>Beafortskala</item>
+        <item>km/h</item>
+        <item>m/s</item>
+        <item>mph</item>
+        <item>kn</item>
     </string-array>
 </resources>
