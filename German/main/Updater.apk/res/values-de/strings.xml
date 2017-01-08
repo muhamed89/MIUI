@@ -4,6 +4,12 @@
   <string name="active_xiaomi_account">Aktiv</string>
   <string name="active_xiaomi_account_msg">Um Ihren Mi Account zu aktivieren, bitte https://account.xiaomi.com/pass/serviceLogin aufrufen</string>
   <string name="active_xiaomi_account_title">Mi Account aktivieren</string>
+    <string name="alpha_apply">Zum Beta-Testprogramm anmelden</string>
+    <string name="alpha_cancel">Vom Beta-Testprogramm abmelden</string>
+    <string name="alpha_cancel_cancel">Abbrechen</string>
+    <string name="alpha_cancel_confirm">Jetzt abmelden?</string>
+    <string name="alpha_cancel_ok">OK</string>
+    <string name="alpha_no_network">Zur Anmeldung Netzwerkverbindung herstellen</string>
   <string name="app_name">Updater</string>
   <string name="apply_later_button_text">Später</string>
   <string name="apply_now_button_text">Aktualisieren</string>
@@ -128,6 +134,7 @@
   <string name="loading">Anfrage…</string>
   <string name="log_share">Teilen</string>
   <string name="menu_more_button">Menü</string>
+    <string name="menu_title_apply_for_alpha">Zum Beta-Testprogramm anmelden</string>
   <string name="menu_title_check_update">Update nur über WLAN</string>
   <string name="menu_title_current_version_log">Was ist neu? (Changelog)</string>
   <string name="menu_title_download_current_rom">Aktuelles Rom runterladen</string>
