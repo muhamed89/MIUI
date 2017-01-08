@@ -117,7 +117,7 @@
     </string-array>
     <string-array name="power_dialog_vibration_items">
         <item>Nie vibrieren</item>
-        <item>Vibrieren, wenn stumm geschalten</item>
+        <item>Vibrieren, wenn stumm geschaltet</item>
         <item>Immer vibrieren</item>
     </string-array>
     <string-array name="alarm_repeat_type">

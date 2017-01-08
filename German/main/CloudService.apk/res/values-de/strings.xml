@@ -73,12 +73,12 @@ Zuletzt gesichert am %2$s"</string>
   <string name="enable_sync_dspt">"Nicht synchronisieren"</string>
   <string name="error_data_in_transfer">Synchronisation wird in %s Stunden beendet sein.</string>
   <string name="error_data_in_transfer_title">Mi Cloud nicht verfügbar</string>
-  <string name="error_forbidden">Synchronisation wurde ausgeschalten wegen Problemen mit Ihrem Mi Konto.</string>
+  <string name="error_forbidden">Synchronisation wurde ausgeschaltet wegen Problemen mit Ihrem Mi Konto.</string>
   <string name="error_network">"Kann mich nicht mit Netzwerk verbinden"</string>
   <string name="error_not_acceptable">Synchronisation wurde ausgeschaltet.</string>
   <string name="error_server">Serverfehler</string>
   <string name="error_title">"Konnte nicht synchronisieren"</string>
-  <string name="error_unauthorized">Synchronisation wurde abgeschalten, wegen zu vieler Log-In Versuche.</string>
+  <string name="error_unauthorized">Synchronisation wurde abgeschaltet, wegen zu vieler Log-In Versuche.</string>
   <string name="error_unknown">"Anmeldung fehlgeschlagen"</string>
   <string name="find_device">Gerät suchen</string>
   <string name="find_device_disabled_notice">"Sie können diese Funtion jederzeit in den Mi Cloud Einstellungen ein- oder ausschalten."</string>

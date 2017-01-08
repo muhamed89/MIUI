@@ -48,8 +48,8 @@
         <item quantity="one">Geänderter Ordner</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">&lt;b>%1$d&lt;/b> stumm geschalten</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> stumm geschalten</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> stumm geschaltet</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> stumm geschaltet</item>
     </plurals>
     <plurals name="conversation_not_important">
         <item quantity="other">&lt;b>%1$d&lt;/b>" Nachrichten von "Wichtig" Ordner entfernt"</item>
