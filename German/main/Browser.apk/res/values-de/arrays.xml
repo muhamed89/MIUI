@@ -8,6 +8,11 @@
         <item>Grün</item>
         <item>Blau</item>
     </string-array>
+    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Vorige/Nächste Seite</item>
+        <item>Zwischen Tabs wechseln</item>
+        <item>Keine</item>
+    </string-array>
     <string-array name="pref_homepage_choices">
         <item>Startseite</item>
         <item>Anpassen</item>
