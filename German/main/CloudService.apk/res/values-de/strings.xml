@@ -22,7 +22,7 @@
   <string name="button_cancel">Abbrechen</string>
   <string name="buy_more_space_b_class">"Loggen Sie sich bei mi.com/micloud ein, um mehr Speicherplatz zu erhalten.
 Sie benötigen eine Mainland China Bank Karte, um zusätzlichen Speicherplatz zu kaufen."</string>
-  <string name="buy_more_space_c_class">"Diese Funtion setzt eine Mainland China Bank Karte voraus.
+  <string name="buy_more_space_c_class">"Diese Funktion setzt eine Mainland China Bank Karte voraus.
 Um mehr Speicherplatz zu erhalten, besuchen Sie mi.com/micloud."</string>
   <string name="buy_space_expire">Gekaufter Speicherplatz wird in %s verfallen</string>
   <string name="buy_space_expire_concat">%1$s bis %2$s</string>
