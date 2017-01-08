@@ -210,6 +210,10 @@ Bitte Ladegerät benutzen."</string>
     <string name="not_support_multi_window">Aktuelle App unterstützt den Multi-Window-Modus nicht</string>
   <string name="notification_header_title">Benachrichtigungen</string>
   <string name="notification_hidden_text">Inhalt ausgeblendet</string>
+    <string name="notification_low_battery_action_btn">Einschalten</string>
+    <string name="notification_low_battery_need_charge">Akku ist leer. Laden Sie Ihr Gerät auf.</string>
+    <string name="notification_low_battery_open_save_mode">Akkusparmodus einschalten</string>
+    <string name="notification_low_battery_title">Niedriger Akkustatus: %d%%</string>
   <string name="notification_manager">Benachrichtigungen verwalten</string>
   <string name="notification_manager_des">Benachrichtigungen filtern und verwalten</string>
   <string name="notification_otg_gamestick_in">Gamecontroller verbunden</string>
