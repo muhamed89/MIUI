@@ -4,12 +4,12 @@
   <string name="app_name">Suche</string>
   <string name="application_desc">Anwendung</string>
   <string name="applications_search_label">Apps</string>
+  <string name="baidu_search_url">https://www.google.de/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_default">https://www.google.de/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_input">https://www.google.de/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_launcher">https://www.google.de/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_systemui">https://www.google.de/search?q=%s&amp;tn=ins</string>
   <string name="baidu_suggest_base">http://www.google.com/m?hl=%1$s</string>
-  <string name="baidu_search_url">https://www.google.de/search?q=%s&amp;tn=ins</string>
   <string name="clear_history">Verlauf löschen</string>
   <string name="clear_shortcuts">Verlauf löschen</string>
   <string name="clear_shortcuts_agree">Verlauf löschen</string>
@@ -46,10 +46,10 @@ Um den Browserverlauf zu löschen, verwenden Sie die Browsereinstellungen."</str
   <string name="menu_help">Hilfe</string>
   <string name="menu_settings">Such-Einstellungen</string>
   <string name="network_unavailable">Keine Netzwerkverbindung</string>
-    <string name="permission_prompt_detail">Suchen nach Filme, Bücher, Musik und mehr.</string>
-    <string name="permission_prompt_start">Erlauben</string>
-    <string name="permission_prompt_started_info">Sie haben globale Suche erlaubt</string>
-    <string name="permission_prompt_title">Möchten Sie mehr?</string>
+  <string name="permission_prompt_detail">Suchen nach Filme, Bücher, Musik und mehr.</string>
+  <string name="permission_prompt_start">Erlauben</string>
+  <string name="permission_prompt_started_info">Sie haben globale Suche erlaubt</string>
+  <string name="permission_prompt_title">Möchten Sie mehr?</string>
   <string name="recent_apps">Kürzlich verwendete Apps</string>
   <string name="recent_apps_filter">Blenden Sie Apps aus, die Sie nicht verwenden</string>
   <string name="recent_close_content">Diese Funktion jetzt ausschalten?
@@ -120,10 +120,10 @@ Sie können dies unter Einstellungen &gt; Alle Apps &gt; Suche ändern</string>
   <string name="voice_search_hint_title">Sprechen:</string>
   <string name="web_search_results">Websuchergebnisse</string>
   <string name="xiaomi_hint">http://127.0.0.1</string>
-  <string name="xiaomi_hot_query">http://127.0.0.1</string>
-  <string name="xiaomi_search_label">Ergebnisse</string>
-  <string name="xiaomi_suggest_base">http://127.0.0.1</string>
   <string name="xiaomi_homepage_hint">http://127.0.0.1</string>
   <string name="xiaomi_homepage_suggest">http://127.0.0.1</string>
+  <string name="xiaomi_hot_query">http://127.0.0.1</string>
+  <string name="xiaomi_search_label">Ergebnisse</string>
   <string name="xiaomi_source_url">http://127.0.0.1</string>
+  <string name="xiaomi_suggest_base">http://127.0.0.1</string>
 </resources>

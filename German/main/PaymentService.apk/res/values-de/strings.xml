@@ -104,7 +104,7 @@ Please contact Xiaomi customer service."</string>
   <string name="mibi_fee_with_giftcard"> (Include%1$s)</string>
   <string name="mibi_fee_with_mibi_giftcard"> %1$s-Mi Credit gift card</string>
   <string name="mibi_fee_with_partner_giftcard"> %1$s-Mi Credit %2$s</string>
-  <string name="mibi_forget_password"><u>Forgot password</u></string>
+  <string name="mibi_forget_password">&lt;u&gt;Forgot password&lt;/u&gt;</string>
   <string name="mibi_format_bill_date">yyyy/M/d</string>
   <string name="mibi_format_date">MMM. dd, yyyy</string>
   <string name="mibi_format_time">MMM dd, yyyy hh:mmaa</string>
@@ -147,13 +147,13 @@ Please contact Xiaomi customer service."</string>
   <string name="mibi_lockpattern_recording_incorrect_too_short">Connect at least %d dots. Try again:</string>
   <string name="mibi_lockpattern_recording_inprogress">Release finger when done.</string>
   <string name="mibi_lockpattern_recording_intro_header">Draw an unlock pattern:</string>
-  <string name="mibi_lockpattern_retry_text"><u>Reset pattern password</u></string>
+  <string name="mibi_lockpattern_retry_text">&lt;u&gt;Reset pattern password&lt;/u&gt;</string>
   <string name="mibi_lockpattern_settings_help_how_to_record">How to draw an unlock pattern</string>
   <string name="mibi_lockpattern_too_many_failed_confirmation_attempts_footer">Try again in %d seconds.</string>
   <string name="mibi_lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Too many incorrect attempts!&lt;/font&gt;</string>
   <string name="mibi_lockpattern_tutorial_cancel_label">Cancel</string>
   <string name="mibi_lockpattern_tutorial_continue_label">Next</string>
-  <string name="mibi_lockscreen_forgot_pattern_button_text"><u>Forgot pattern password</u></string>
+  <string name="mibi_lockscreen_forgot_pattern_button_text">&lt;u&gt;Forgot pattern password&lt;/u&gt;</string>
   <string name="mibi_login">Login</string>
   <string name="mibi_memu_refresh">Refresh</string>
   <string name="mibi_menu_lock">Pattern lock</string>

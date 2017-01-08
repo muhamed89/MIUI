@@ -166,14 +166,14 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="permission_group_title_others">Andere</string>
   <string name="permission_group_title_privacy_related">Datenschutz</string>
   <string name="permission_group_title_settings_related">Einstellungen</string>
-  <string name="permission_send_sms_descx">App kann SMS und MMS senden</string>
-  <string name="privacy_relative">Datenschutz</string>
   <string name="permission_request_title">Berechtigungsanfrage</string>
+  <string name="permission_send_sms_descx">App kann SMS und MMS senden</string>
   <string name="permission_summary_enforced_by_policy">Von Richtlinien durchgesetzt</string>
   <string name="permission_title">Berechtigungen für %1$s</string>
   <string name="permission_warning_template">Zulassen %1$s von %2$s?</string>
   <string name="permlab_togglePermissions">Berechtigungen umschalten</string>
   <string name="privacyPerms">Datenschutz</string>
+  <string name="privacy_relative">Datenschutz</string>
   <string name="reboot_time">Wird bereitgemacht fürs Neustarten… (%1$s)</string>
   <string name="safe_guard_support">Technischer Support bereitgestellt von %1$s</string>
   <string name="safe_relative">Sicherheit</string>
@@ -207,9 +207,9 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="unknown_apps_dlg_text2">\"Einstellungen\"</string>
   <string name="unknown_apps_dlg_text3">" Aktivieren"</string>
   <string name="unknown_apps_dlg_title">Installation gesperrt</string>
+  <string name="unknown_installer">Nichtidentifizierte PC-Tools</string>
   <string name="v7_preference_off">Aus</string>
   <string name="v7_preference_on">An</string>
-  <string name="unknown_installer">Nichtidentifizierte PC-Tools</string>
   <string name="virus_scan_caller_unknown">Unbekannt</string>
   <string name="virus_scan_clear">Entfernen</string>
   <string name="virus_scan_install">&lt;u&gt;Trotzdem installieren&lt;/u&gt;</string>

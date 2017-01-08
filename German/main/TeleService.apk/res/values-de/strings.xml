@@ -1,9 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name=" hide_error_from_network_text">Anfrage kann nicht bearbeitet werden</string>
+  <string name=" hide_error_from_network_text">Anfrage kann nicht bearbeitet werden</string>
   <string name="Result_title">Ergebnis</string>
-  <string name="roaming_disable">Bei Roaming mit Datendienst verbinden</string>
-  <string name="roaming_enable">Bei Roaming mit Datendienst verbinden</string>
   <string name="accessibility_settings_activity_title">Zugänglichkeit</string>
   <string name="accessibility_speakerphone_enabled">Lautsprecher eingeschaltet</string>
   <string name="account_changed_title">Koto geändert</string>
@@ -104,7 +102,7 @@
   <string name="autoip_prefix_summary">Anbieter IP-Vorwahl: %s</string>
   <string name="autoip_setting">Automatische IP-Einstellungen</string>
   <string name="autoip_summary">IP-Vorwahl zu einer fremden Nummer hinzufügen</string>
-    <string name="autoip_summary_more">, %d insgesamt</string>
+  <string name="autoip_summary_more">, %d insgesamt</string>
   <string name="autoip_support_local_numbers">Immer IP-Vorwahl verwenden</string>
   <string name="back">Zurück</string>
   <string name="badPin">"Die alte PIN wurde falsch eingegeben. Versuch es noch einmal."</string>
@@ -125,8 +123,8 @@
   <string name="callFailed_cdma_activation">"Eine SIM-Karte hat Ihren Dienst aktiviert und aktualisiert servergespeicherte Funktionen Ihres Telefons."</string>
   <string name="callFailed_channel_unacceptable"/>
   <string name="callFailed_conditional_IE_error"/>
-  <string name="callFailed_destination_out_of_order"/>
   <string name="callFailed_congestion">Besetzt</string>
+  <string name="callFailed_destination_out_of_order"/>
   <string name="callFailed_dialToDial">DIAL request modified to DIAL with different number</string>
   <string name="callFailed_dialToSs">DIAL request modified to SS request</string>
   <string name="callFailed_dialToUssd">DIAL request modified to USSD request</string>
@@ -354,7 +352,7 @@
   <string name="common_setting">Allgemeine Einstellungen</string>
   <string name="config_default_data_sim">Einstellungen</string>
   <string name="config_dialing_emergency_number_suffix"/>
-    <string name="confirm">Bestätigen</string>
+  <string name="confirm">Bestätigen</string>
   <string name="confirmPin2Label">Bestätigen Sie den neuen PIN2</string>
   <string name="confirmPinLabel">Neuen PIN bestätigen</string>
   <string name="confirm_password_label">Neues Passwort bestätigen</string>
@@ -474,7 +472,6 @@
   <string name="dual_mic_title">Geräuschunterdrückung</string>
   <string name="ecc_contact_added">Notfallnummer hinzugefütg</string>
   <string name="ecc_contact_updated">Notfallnummer aktualisiert</string>
-  
   <string name="ecc_invalid_name">Ungültiger ECC-Name</string>
   <string name="ecc_invalid_number">Ungültige ECC-Nummer</string>
   <string name="ecc_storage_full">Speicher ist voll</string>
@@ -483,7 +480,6 @@
   <string name="editContact">Ändern</string>
   <string name="edit_ecc_number">Notfallnummer ändern</string>
   <string name="edit_fdn_contact">FDN-Nummern ändern</string>
-  
   <string name="emergencyDialerIconLabel">Notruf</string>
   <string name="emergency_broadcast_disable">Notrufmeldungen ausgeschaltet</string>
   <string name="emergency_broadcast_enable">Notrufmeldungen eingeschaltet</string>
@@ -591,7 +587,7 @@ Kontaktieren Sie Ihren Provider, falls das Problem weiterhin besteht."</string>
   <string name="fw_get_in_vm_failed">"Aktuelle Weiterleitungseinstellungen konnten nicht empfangen oder gespeichert werden.
 Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="general_news_settings">Allgemeine Nachrichten</string>
-    <string name="general_remove">Entfernen</string>
+  <string name="general_remove">Entfernen</string>
   <string name="general_setting">Einstellungen</string>
   <string name="get_pin2">PIN2 eingeben</string>
   <string name="get_product_list_failed">Kann Liste nicht laden</string>
@@ -684,7 +680,7 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="ivr_type_cu_3">China Unicom 2G</string>
   <string name="ivr_type_settings">Datentarifeinstellungen</string>
   <string name="ivr_type_settings_hint">Ihren Datentarifcode eingeben</string>
-    <string name="keep_wait_call_back">Warten</string>
+  <string name="keep_wait_call_back">Warten</string>
   <string name="labelCBVideo">Videoanrufsperre</string>
   <string name="labelCBVoice">Videoanrufsperre</string>
   <string name="labelCDMAMore">CDMA-Anrufeinstellungen</string>
@@ -830,7 +826,7 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="managed_roaming_title_sub2">Roaming verwalten (SUB2)</string>
   <string name="managed_roaming_title_sub3">Roaming verwalten (SUB3)</string>
   <string name="menu_add">Kontakt hinzufügen</string>
-    <string name="menu_add_numbers">Nummer hinzufügen</string>
+  <string name="menu_add_numbers">Nummer hinzufügen</string>
   <string name="menu_delete">Kontakt löschen</string>
   <string name="menu_edit">Kontakt bearbeiten</string>
   <string name="messageCFB">Nummer wenn besetzt</string>
@@ -931,7 +927,7 @@ Werde stattdessen bevorzugtes Netzwerk nutzen."</string>
   <string name="network_type_3g_preferred_cmcc">3G/2G</string>
   <string name="network_type_4g_preferred_cmcc">4G/3G/2G</string>
   <string name="network_unconnected_message_livetalk">Netzwerk Fehler. Versuchen Sie einen normalen GSM Anruf.</string>
-    <string name="network_unconnected_title">Netzwerkfehler</string>
+  <string name="network_unconnected_title">Netzwerkfehler</string>
   <string name="network_unlock">Entsperren</string>
   <string name="networks">Netzbetreiber</string>
   <string name="networks_title">Netzbetreiber</string>
@@ -952,7 +948,7 @@ Werde stattdessen bevorzugtes Netzwerk nutzen."</string>
   <string name="no_more">Keine mehr</string>
   <string name="no_number">Keine Telefonnummer</string>
   <string name="no_product_list">Leer</string>
-    <string name="no_sim_card">Keine SIM-Karte</string>
+  <string name="no_sim_card">Keine SIM-Karte</string>
   <string name="no_sip_account_found">Auf diesem Telefon befinden sich keine Konten für Internetanrufe. Möchten Sie jetzt ein Konto hinzufügen?</string>
   <string name="no_sip_account_found_title">Kein Konto für Internetanrufe</string>
   <string name="no_vm_number">Fehlende Mailboxnummer</string>
@@ -1192,25 +1188,25 @@ Ihr Telefon wird nach einem weiteren gescheiterten Versuch automatisch gesperrt"
   <string name="private_num">Unterdrückte Nummer</string>
   <string name="proceed">Weiter</string>
   <string name="progress_dialog_exiting_ecm">Notfallrückrufmodus wird beendet…</string>
-    <string name="propmpt_dialog_do_not_ask">Nicht wieder anzeigen</string>
-    <string name="propmpt_dialog_network_failed_title">Zeitüberschreitung</string>
-    <string name="propmpt_dialog_no_call_back_content">Verbindungsaufbau dauert zu lange. Es wird zum Standardanruf gewechselt, für den Gebühren entstehen könnten.</string>
-    <string name="propmpt_dialog_not_activate_sim_content">Überprüfen Sie Ihre Telefonnummer, um mit Aufladepaket zu starten. Sie können dennoch zum Standardanfruf wechseln.</string>
-    <string name="propmpt_dialog_not_activate_sim_title">Telefonnummer wurde nicht überprüft</string>
+  <string name="propmpt_dialog_do_not_ask">Nicht wieder anzeigen</string>
+  <string name="propmpt_dialog_network_failed_title">Zeitüberschreitung</string>
+  <string name="propmpt_dialog_no_call_back_content">Verbindungsaufbau dauert zu lange. Es wird zum Standardanruf gewechselt, für den Gebühren entstehen könnten.</string>
+  <string name="propmpt_dialog_not_activate_sim_content">Überprüfen Sie Ihre Telefonnummer, um mit Aufladepaket zu starten. Sie können dennoch zum Standardanfruf wechseln.</string>
+  <string name="propmpt_dialog_not_activate_sim_title">Telefonnummer wurde nicht überprüft</string>
   <string name="provision_content">Diese Funktion braucht eine Internetverbindung, um normal zu funktionieren</string>
   <string name="provision_title">Internetverbindung</string>
   <string name="proxy_address">Proxyadresse</string>
   <string name="proxy_address_title">Ausgehende Proxyadresse</string>
   <string name="pstn_connection_service_label">Eingebaute SIM-Karten</string>
   <string name="pstn_phone">per Telefon</string>
-    <string name="psw_enter_new">Neues Passwort</string>
-    <string name="psw_enter_old">Altes Passwort</string>
-    <string name="psw_reenter_new">Passwort erneut eingeben</string>
+  <string name="psw_enter_new">Neues Passwort</string>
+  <string name="psw_enter_old">Altes Passwort</string>
+  <string name="psw_reenter_new">Passwort erneut eingeben</string>
   <string name="puk2_blocked">PUK2 ist definitiv blockiert.</string>
   <string name="puk2_label">PUK2 eingeben</string>
   <string name="puk2_requested">Password ungültig, SIM ist gesperrt. PUK2 wird verlangt.</string>
   <string name="puk_label">PUK eingeben</string>
-    <string name="puk_length_indicate">(8 Ziffer)</string>
+  <string name="puk_length_indicate">(8 Ziffer)</string>
   <string name="puk_lock_warning">"
 Ihre SIM-Karte wird nach einem weiteren gescheiterten Versuch gelöscht</string>
   <string name="puk_requested">Falsches Passwort, PIN wurde gesperrt. PUK ist erforderlich.</string>
@@ -1310,6 +1306,8 @@ Ihre SIM-Karte wird nach einem weiteren gescheiterten Versuch gelöscht</string>
   <string name="rnw2_unlock_failed">Entsperren von RUIM2 fehlgeschlagen</string>
   <string name="rnw2_unlock_success">RUIM Netzwerk2 Entsperren erfolgreich</string>
   <string name="roaming">Daten-Roaming</string>
+  <string name="roaming_disable">Bei Roaming mit Datendienst verbinden</string>
+  <string name="roaming_enable">Bei Roaming mit Datendienst verbinden</string>
   <string name="roaming_notification_content">Sie können Ländercodes automatishc hinzufügen, um das Wählen komfortabler zu machen.</string>
   <string name="roaming_notification_title">Sieht so aus, als sei Roaming aktiv</string>
   <string name="roaming_reenable_message">Die Datenverbindung wurde unterbrochen, weil Sie Ihr privates Netzwerk verlassen haben und Datenroaming nicht aktiviert ist</string>
@@ -1387,10 +1385,10 @@ Ihre SIM-Karte wird nach einem weiteren gescheiterten Versuch gelöscht</string>
   <string name="sip_menu_add">Hinzufügen</string>
   <string name="sip_menu_discard">Verwerfen</string>
   <string name="sip_menu_save">Speichern</string>
-    <string name="sip_profile_create_error">Neues SIP-Profil kann nicht erstellt werden</string>
+  <string name="sip_profile_create_error">Neues SIP-Profil kann nicht erstellt werden</string>
   <string name="sip_receive_calls">Eingehende Anrufe annehmen</string>
   <string name="sip_receive_calls_summary">Verkürzt Akkulaufzeit</string>
-    <string name="sip_save_register_error">Neues SIP-Profil kann nicht registriert und gespeichert werden</string>
+  <string name="sip_save_register_error">Neues SIP-Profil kann nicht registriert und gespeichert werden</string>
   <string name="sip_settings">VOIP-Einstellungen</string>
   <string name="sip_system_decide">Automatisch</string>
   <string name="slot">Slot</string>
@@ -1498,14 +1496,14 @@ Next period starts in %2$d days (%3$s)"</string>
   <string name="tty_mode_entries_hco">TTY HCO</string>
   <string name="tty_mode_entries_off">TTY Aus</string>
   <string name="tty_mode_entries_vco">TTY VCO</string>
-    <string name="tty_mode_not_allowed_video_call">Ein Wechsel des TTY-Modus ist während des Videoanrufs nicht erlaubt</string>
+  <string name="tty_mode_not_allowed_video_call">Ein Wechsel des TTY-Modus ist während des Videoanrufs nicht erlaubt</string>
   <string name="tty_mode_option_summary">TTY-Modus einstellen</string>
   <string name="tty_mode_option_title">TTY-Modus</string>
   <string name="turnover_mute_summary">Wenn Sie Ihr Telefon umdrehen wird das Gerät auf lautlos gestellt</string>
   <string name="turnover_mute_title">Umdrehen für lautlos</string>
   <string name="unable_dial_livetalk">Anruf konnte nicht abgeschlossen werden</string>
   <string name="undefined">Kein</string>
-    <string name="undefined_setting">Keine</string>
+  <string name="undefined_setting">Keine</string>
   <string name="unknown">Unbekannt</string>
   <string name="unlock_failed">Anfrage für Entsperrung des Netzwerks nicht erfolgreich</string>
   <string name="unlock_success">Entsperrung des Netzwerks nicht erfolgreich</string>
@@ -1527,10 +1525,10 @@ Next period starts in %2$d days (%3$s)"</string>
   <string name="username_title">Benutzername</string>
   <string name="ussdRunning">USSD-Code wird ausgeführt…</string>
   <string name="ussd_dialog_sep">----------</string>
-    <string name="verified">Verifiziert</string>
-    <string name="verify_failed">Verifizierungsfehler</string>
-    <string name="verify_fialed">Konnte nicht verifiziert werden</string>
-    <string name="verifying">Verifiziere…</string>
+  <string name="verified">Verifiziert</string>
+  <string name="verify_failed">Verifizierungsfehler</string>
+  <string name="verify_fialed">Konnte nicht verifiziert werden</string>
+  <string name="verifying">Verifiziere…</string>
   <string name="vibrate_on_ring_title">Beim Klingeln vibrieren</string>
   <string name="video_call">Videoanruf</string>
   <string name="vilte_srvcc_tip">Aus Netzwerkgründen auf Sprachanruf umgeschaltet</string>

@@ -30,7 +30,7 @@ Wenn Sie die SIM-Karte tauschen, wird automatisch eine SMS gesendet, um diese Fu
   <string name="find_device_stop_noise">OK antippen, um stumm zu schalten</string>
   <string name="find_device_storage_corrupted">Gerätespeicher beschädigt. Ihr Gerät ist jetzt unsicher.</string>
   <string name="find_device_success_title">Gerät finden</string>
-    <string name="find_device_telephony_fault">Gerät finden: Telefoniefehler (%s).</string>
+  <string name="find_device_telephony_fault">Gerät finden: Telefoniefehler (%s).</string>
   <string name="i_know">OK</string>
   <string name="lock_msg_phone">Kontaktinformation: %s</string>
   <string name="login_extra_steps">Anmeldeverifikation</string>

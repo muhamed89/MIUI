@@ -123,8 +123,8 @@
   <string name="power_config_ultimate_off_already">Ultimativmodus aus</string>
   <string name="power_config_ultimate_on_already">Ultimativmodus ein</string>
   <string name="power_config_ultimate_title">Ultimativmodus</string>
-  <string name="power_configure_screen_brightness_enable">Bildschirmhelligkeit einstellen</string>
   <string name="power_config_ultimate_unlock_already">Alles freigeschaltet</string>
+  <string name="power_configure_screen_brightness_enable">Bildschirmhelligkeit einstellen</string>
   <string name="power_customize_giveup_change">Änderungen verwerfen?</string>
   <string name="power_dialog_cancel">Abbrechen</string>
   <string name="power_dialog_cpu_max_freq_title">Max CPU-Frequenz</string>

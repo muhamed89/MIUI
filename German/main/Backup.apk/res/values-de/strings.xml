@@ -257,7 +257,7 @@
   <string name="trans_calculating_base_size">Datengröße wird berechnet</string>
   <string name="trans_cancel_confirm">Übertragung läuft. Jetzt abbrechen?</string>
   <string name="trans_cancelling">Abbrechen</string>
-  <string name="trans_connect_failed_message">"Verbindung fehlgeschlagen, erneut versuchen oder neu starten. Navigieren Sie auf dem anderen Gerät zu den Einstellungen > Weitere Einstellungen > Mi Mover, Berühren Sie [Ich bin der Sender], oder versuchen Sie es nach einem Neustart erneut."</string>
+  <string name="trans_connect_failed_message">"Verbindung fehlgeschlagen, erneut versuchen oder neu starten. Navigieren Sie auf dem anderen Gerät zu den Einstellungen &gt; Weitere Einstellungen &gt; Mi Mover, Berühren Sie [Ich bin der Sender], oder versuchen Sie es nach einem Neustart erneut."</string>
   <string name="trans_connect_failed_title">Verbindung fehlgeschlagen</string>
   <string name="trans_connect_failed_toast">"Verbindung nicht möglich"</string>
   <string name="trans_connecting_toast">Verbinden…</string>
@@ -276,14 +276,14 @@ Bitte bereinigen Sie mindestens %s"</string>
   <string name="trans_operate_func_one">Methode A</string>
   <string name="trans_operate_func_two">Methode B</string>
   <string name="trans_operate_new_phone_tips">"Scannen Sie den QR-Code mit dem neuem Gerät
-Gehen Sie zu Einstellungen > weitere Einstellungen > Mi Mover
+Gehen Sie zu Einstellungen &gt; weitere Einstellungen &gt; Mi Mover
  [Ich bin der Empfänger] antippen, um QR Code zu erstellen"</string>
   <string name="trans_operate_old_phone_tips1">"
 1. Installieren Sie die Mi Mover App auf Ihrem alten Gerät
 2. Öffnen Sie die App und tippen Sie auf Start
 3. Scannen Sie den QR-Code mit Ihrem alten Gerät"</string>
   <string name="trans_operate_old_phone_tips2">"
-Gehen Sie zu Einstellungen > weitere Einstellungen > Mi Mover
+Gehen Sie zu Einstellungen &gt; weitere Einstellungen &gt; Mi Mover
  [Ich bin der Sender] antippen"</string>
   <string name="trans_please_waiting">Bitte warten ...</string>
   <string name="trans_progress_subdescript_br_receiver">Wiederherstellung von %1$s, %2$s abgeschlossen</string>

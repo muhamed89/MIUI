@@ -45,8 +45,8 @@
   <string name="network_tip_dialog_content">Die Spracherkennung benötige eine Internetverbindung, um ordnungsgemäß zu funktionieren</string>
   <string name="network_tip_dialog_ok">Erlauben</string>
   <string name="network_tip_dialog_title">Internetverbindung erforderlich</string>
-  <string name="no_downloading_file">Momentan werden keine Dateien heruntergeladen</string>
   <string name="new_record_name">Neue Aufnahme</string>
+  <string name="no_downloading_file">Momentan werden keine Dateien heruntergeladen</string>
   <string name="no_file">Keine Aufnahmen</string>
   <string name="notification_message_all_paused">Kann den mobilen Datenverbrauch erhöhen</string>
   <string name="notification_playback">Wird abgespielt…</string>

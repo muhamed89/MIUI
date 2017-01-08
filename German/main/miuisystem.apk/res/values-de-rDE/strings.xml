@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-<string name="add_frequent_phrases">Häufig verwendete Sätze hinzufügen</string>
+  <string name="add_frequent_phrases">Häufig verwendete Sätze hinzufügen</string>
   <string name="android_ringtone_default_with_actual">Standardklingelton (%1$s)</string>
   <string name="android_ringtone_silent">Keine</string>
   <string name="android_ringtone_unknown">Unbekannter Klingelton</string>

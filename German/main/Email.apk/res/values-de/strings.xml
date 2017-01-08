@@ -19,10 +19,10 @@
   <string name="account_set_up_change_type_note">Wenn Sie zwischen POP3- und IMAP-Einstellungen wechseln müssen, dann löschen Sie Ihr Konto und erstellen ein Neues mit den gewünschten Einstellungen.</string>
   <string name="account_setting">Kontoeinstellungen</string>
   <string name="account_setting_keywords">Konten;E-Mail-Konten</string>
-    <string name="account_setting_message_body_load_complete">Vollständige Nachricht</string>
-    <string name="account_setting_message_body_load_head_abstract">Zusammenfassung</string>
-    <string name="account_setting_message_body_load_head_only">Nur Kopfzeile</string>
-    <string name="account_setting_message_body_load_text">Nur Text</string>
+  <string name="account_setting_message_body_load_complete">Vollständige Nachricht</string>
+  <string name="account_setting_message_body_load_head_abstract">Zusammenfassung</string>
+  <string name="account_setting_message_body_load_head_only">Nur Kopfzeile</string>
+  <string name="account_setting_message_body_load_text">Nur Text</string>
   <string name="account_settings_action">Kontoeinstellungen</string>
   <string name="account_settings_background_attachments_label">Anhänge herunterladen</string>
   <string name="account_settings_background_attachments_summary">Anhänge herunterladen mit WLAN</string>
@@ -190,7 +190,7 @@
   <string name="attachment_not_exists">Der Anhang ist nicht verfügbar!</string>
   <string name="attachment_open_SecurityException_hint">Sie haben eventuell keine Berechtigung die Datei zu öffnen oder sie ist beschädigt</string>
   <string name="attachment_open_SecurityException_title">Datei konnte nicht geöffnet werden</string>
-    <string name="attachment_size_exceed_limit">Die Größe überschreitet anscheinend das Serverlimit</string>
+  <string name="attachment_size_exceed_limit">Die Größe überschreitet anscheinend das Serverlimit</string>
   <string name="attachment_stop_all">Abbrechen</string>
   <string name="attachment_text">Text</string>
   <string name="attachment_type_blocked">Sie können diesen Anhangstyp weder öffnen noch speichern.</string>
@@ -303,9 +303,9 @@
   <string name="conversation_item_mark_read">Gelesen</string>
   <string name="conversation_item_mark_unread">Ungelesen</string>
   <string name="conversation_photo_welcome_text">Auf Absenderbild tippen um die entsprechende Konversation auszuwählen</string>
-    <string name="conversation_quick_button_approve">Zustimmen</string>
-    <string name="conversation_quick_button_disapprove">Ablehnen</string>
-    <string name="conversation_quick_button_received">Empfangen</string>
+  <string name="conversation_quick_button_approve">Zustimmen</string>
+  <string name="conversation_quick_button_disapprove">Ablehnen</string>
+  <string name="conversation_quick_button_received">Empfangen</string>
   <string name="conversation_view">Konversationsansicht</string>
   <string name="conversation_view_keywords">Unterhaltung anzeigen;E-Mail Konversation</string>
   <string name="copied">Kopiert</string>
@@ -404,7 +404,7 @@
   <string name="file_not_found_redownload">Datei nicht gefunden.</string>
   <string name="file_rar_not_support">Verschlüsselte Rar-Dateien werden nicht unterstützt</string>
   <string name="filtered_tag">[%1$s]%2$s</string>
-    <string name="first_quick_default_reply">Klicken Sie auf diese Verknüpfung, dann wird %s an alle Empfänger versendet.</string>
+  <string name="first_quick_default_reply">Klicken Sie auf diese Verknüpfung, dann wird %s an alle Empfänger versendet.</string>
   <string name="folder_drafts_name_cn0">Entwurf</string>
   <string name="folder_drafts_name_cn1">Entwürfe</string>
   <string name="folder_drafts_name_cn2">[Gmail]/草稿</string>
@@ -559,7 +559,7 @@
   <string name="menu_att_mgr_order_size">Nach Größe</string>
   <string name="menu_change_folders">Verschieben</string>
   <string name="menu_compose">Schreiben</string>
-    <string name="menu_contact_edit">Bearbeiten</string>
+  <string name="menu_contact_edit">Bearbeiten</string>
   <string name="menu_discovery">Entdecken</string>
   <string name="menu_folder_options">Synchronisierungsoptionen</string>
   <string name="menu_move_to">Verschieben nach</string>
@@ -571,7 +571,7 @@
   <string name="menu_search">Suche</string>
   <string name="menu_settings">Einstellungen</string>
   <string name="merged_mailbox_compose_select_account">Konto auswählen</string>
-    <string name="message_body_load_set_description">Datenmenge für neue E-Mails über Mobilfunknetz</string>
+  <string name="message_body_load_set_description">Datenmenge für neue E-Mails über Mobilfunknetz</string>
   <string name="message_compose_insert_quick_response_list_title">Kurzantwort einfügen</string>
   <string name="message_count_spacer">  </string>
   <string name="message_decode_error">Beim Entschlüsseln der Nachricht ist ein Fehler aufgetreten.</string>
@@ -593,7 +593,7 @@
   <string name="more_context">Mehr</string>
   <string name="more_string">+%1$s</string>
   <string name="move_to_selection_dialog_title">Verschieben nach</string>
-  <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
+  <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt;"   %2$s"</string>
   <string name="mute">Ignorieren</string>
   <string name="net_check_title">Konnte nicht zum Netzwerk verbunden werden. Überprüfen Sie die Netzwerkeinstellungen und versuchen Sie es erneut.</string>
   <string name="network_error">Keine Verbindung</string>
@@ -780,7 +780,7 @@
   <string name="refreshing">Aktualisiere…</string>
   <string name="refreshing_done">Fertig</string>
   <string name="release_to_refresh">Zum Aktualisieren loslassen</string>
-    <string name="remind_attachment_size_limit">E-Mails sollten kleiner als %s MB sein</string>
+  <string name="remind_attachment_size_limit">E-Mails sollten kleiner als %s MB sein</string>
   <string name="remote_search_result">%s E-Mails auf dem Server gefunden.</string>
   <string name="remove_account">Konto entfernen</string>
   <string name="remove_account_confirm">Das Konto \"%1$s\" wird aus E-Mail entfernt.</string>
@@ -825,13 +825,13 @@
   <string name="send_failed">Nicht gesendet</string>
   <string name="send_feed_back">Feedback senden</string>
   <string name="send_feed_back_keywords">Feedback senden</string>
-    <string name="send_mail">Senden</string>
+  <string name="send_mail">Senden</string>
   <string name="sender_whitelist_cleared">Bilder werden nicht automatisch angezeigt.</string>
   <string name="senders_elided">..</string>
   <string name="senders_split_token">, </string>
   <string name="sending">Senden…</string>
   <string name="sending_message">Nachricht wird gesendet…</string>
-    <string name="sending_quick_reply">E-Mail %s senden</string>
+  <string name="sending_quick_reply">E-Mail %s senden</string>
   <string name="sent_folder_selection_title">Ordner \"Gesendete Elemente\" des Servers für %s auswählen</string>
   <string name="ser_resp_err_map_certificate_validator_err">"Serverzertifikat konnte nicht validiert werden
 \u0009 (Stellen Sie sicher, dass die 'Autom. Zeitsynchronisation' in den Einstellungen eingeschaltet ist)"</string>
@@ -839,7 +839,7 @@
   <string name="ser_resp_err_map_landing_too_frequently">Zu viele Anmeldeversuche</string>
   <string name="ser_resp_err_map_mailbox_locked">E-Mail-Konto ist passwortgeschützt</string>
   <string name="ser_resp_err_map_mailbox_not_open">Kein E-Mail-Konto</string>
-  <string name="ser_resp_err_map_max_connections">Zu viele Verbindungsversuche</string> 
+  <string name="ser_resp_err_map_max_connections">Zu viele Verbindungsversuche</string>
   <string name="ser_resp_err_map_nouser">Benutzer nicht vorhanden</string>
   <string name="ser_resp_err_map_or">%1$s oder %2$s</string>
   <string name="ser_resp_err_map_pserr">Falscher Benutzername oder Passwort</string>
@@ -929,7 +929,7 @@
   <string name="upload_log_title">Logs an Xiaomi senden</string>
   <string name="upload_log_yes">Hochladen</string>
   <string name="upload_logs">Logdatei hochladen</string>
-    <string name="upload_logs_keywords">upload logs</string>
+  <string name="upload_logs_keywords">upload logs</string>
   <string name="uploading_logs">Einen Moment…</string>
   <string name="validation_failed_prompt">Konto konnte nicht überprüft werden. Überprüfen Sie die Servereinstellungen für %s</string>
   <string name="veiled_address"/>
@@ -939,7 +939,7 @@
   <string name="via_domain">über %1$s</string>
   <string name="view_more_conversations">Weitere Konversationen ansehen</string>
   <string name="wait_for_manual_sync_body">"Für dieses Konto ist keine automatische Synchronisierung eingerichtet.
-Tippen Sie auf "<b>Jetzt synchronisieren</b> um Ihre Mails einmalig zu syncronisieren oder <b>Synchronisations Einstellungen ändern</b> um dieses Konto automatisch zu synchronisieren.</string>
+Tippen Sie auf "&lt;b&gt;Jetzt synchronisieren&lt;/b&gt; um Ihre Mails einmalig zu syncronisieren oder &lt;b&gt;Synchronisations Einstellungen &amp;#228;ndern&lt;/b&gt; um dieses Konto automatisch zu synchronisieren.</string>
   <string name="wait_for_sync_title">Auf Synchronisierung warten</string>
   <string name="widget_all_mail">Alle Mails</string>
   <string name="widget_large_unread_count">%d+</string>
@@ -950,6 +950,6 @@ Tippen Sie auf "<b>Jetzt synchronisieren</b> um Ihre Mails einmalig zu syncronis
   <string name="yes">Ja</string>
   <string name="yidianzixun">yidianzixun</string>
   <string name="you_are_in_mobile_network">Log über die mobile Datenverbindung senden?</string>
-    <string name="youfuli">Werbung</string>
+  <string name="youfuli">Werbung</string>
   <string name="zip_viewer_no_file">Keine Dateien.</string>
 </resources>

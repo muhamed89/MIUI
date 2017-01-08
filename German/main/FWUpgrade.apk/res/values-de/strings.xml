@@ -2,7 +2,7 @@
 <resources>
   <string name="apk_not_exist">Updatedatei existiert nicht</string>
   <string name="app_name">FWUpgrade</string>
-  <string name="battery_low">Der Akkustand beträgt weniger als 30%, bitte versuchen Sie es wieder, sobald der Akku voll ist!</string>  
+  <string name="battery_low">Der Akkustand beträgt weniger als 30%, bitte versuchen Sie es wieder, sobald der Akku voll ist!</string>
   <string name="battery_remove">Bitte nach dem Entfernen des Ladekabels nochmals versuchen!</string>
   <string name="battery_remove_title">Warnung</string>
   <string name="btn_cancel">Abbrechen</string>

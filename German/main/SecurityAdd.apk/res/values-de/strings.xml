@@ -22,7 +22,7 @@
   <string name="gs_app_back_self_start">Akku sparen</string>
   <string name="gs_dialog_confirm_close_msg">Die Verknüpfung wird vom Startbildschirm entfernt. Gehen Sie zu Sicherheit &gt; Einstellungen, um sie wiederherzustellen.</string>
   <string name="gs_dialog_confirm_close_title">Ausschalten</string>
-  <string name="gs_game_duration">Zeit</string>  
+  <string name="gs_game_duration">Zeit</string>
   <string name="gs_game_net_priority">Netzwerkpriorität</string>
   <string name="gs_game_net_priority_detail">Downloadgeschwindigkeit einschränken, für mehr Bandbreite beim Spielen</string>
   <string name="gs_game_performance">Leistungs</string>

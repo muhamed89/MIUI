@@ -8,8 +8,8 @@
   <string name="DesTencent">Tencent</string>
   <string name="Mi">Mi</string>
   <string name="Tencent">Tencent</string>
-  <string name="avast_dialog_cloudscan" />
-  <string name="avast_dialog_dbupdate" />
+  <string name="avast_dialog_cloudscan"/>
+  <string name="avast_dialog_dbupdate"/>
   <string name="avast_dialog_header">Diese Funktion verschlüsselt Ihre Geräte-ID und lädt sie auf die Avast-Server hoch (%s)</string>
   <string name="avast_dialog_policy">Datenschutzerklärung</string>
   <string name="avast_dialog_title">"Avast's Datenschutzerklärung"</string>

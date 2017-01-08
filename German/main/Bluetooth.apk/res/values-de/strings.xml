@@ -3,13 +3,12 @@
   <string name="ErrorTooManyRequests">Es werden zurzeit zu viele Anfragen verarbeitet. Versuchen Sie es später erneut.</string>
   <string name="ack_record">Eintrag bestätigen</string>
   <string name="airplane_can_not_share">"Im Flugmodus kann nicht über Bluetooth geteilt werden"</string>
-  <string name="airplane_error_msg">"Sie können Bluetooth im Flugmodus nicht verwenden."</string>  
+  <string name="airplane_error_msg">"Sie können Bluetooth im Flugmodus nicht verwenden."</string>
   <string name="airplane_error_title">Flugmodus</string>
   <string name="app_name">Bluetooth</string>
   <string name="auth_notif_message">Sitzungsschlüssel eingeben für %1$s</string>
   <string name="auth_notif_ticker">OBEX-Authentifizierungsanfrage</string>
   <string name="auth_notif_title">Sitzungsschlüssel</string>
-  <string name="bluetooth_in_airplane_mode">Im Flugmodus</string>
   <string name="bluetooth_dun_authorize_allow">Erlauben</string>
   <string name="bluetooth_dun_authorize_decline">Verweigern</string>
   <string name="bluetooth_dun_authorize_message">DFÜ-Verbindungsanfrage von %1$s erlauben?</string>
@@ -17,6 +16,7 @@
   <string name="bluetooth_dun_notification_connect_request_message">Anfrage von %1$s bestätigen</string>
   <string name="bluetooth_dun_notification_connect_request_ticker">Bluetooth DFÜ-Berechtigungsanfrage</string>
   <string name="bluetooth_dun_notification_connect_request_title">Bluetooth DFÜ-Berechtigung</string>
+  <string name="bluetooth_in_airplane_mode">Im Flugmodus</string>
   <string name="bluetooth_map_settings_app_icon">App Icon</string>
   <string name="bluetooth_map_settings_cancel">Abbrechen</string>
   <string name="bluetooth_map_settings_count">Verfügbare Plätze:</string>
@@ -112,7 +112,7 @@
   <string name="permdesc_bluetoothWhitelist">Ermöglicht der App ein Bluetooth-Gerät vorübergehend zur Whitelist hinzuzufügen, sodass es ohne Bestätigung des Nutzers Dateien an dieses Gerät senden kann</string>
   <string name="permlab_bluetoothAvrcpDataManager">Auf avrcp Metadaten zugreifen.</string>
   <string name="permlab_bluetoothShareManager">Auf Downloadmanager zugreifen</string>
-  <string name="permlab_bluetoothWhitelist">Bluetooth-Gerät für Zugriff zur Whitelist hinzufügen</string>  
+  <string name="permlab_bluetoothWhitelist">Bluetooth-Gerät für Zugriff zur Whitelist hinzufügen</string>
   <string name="process"/>
   <string name="sharedUserId"/>
   <string name="start_server">TCP-Server ausführen</string>
@@ -120,7 +120,7 @@
   <string name="status_connection_error">Verbindung fehlgeschlagen</string>
   <string name="status_file_error">Speicherproblem</string>
   <string name="status_forbidden">Übertragung durch das Zielgerät verhindert.</string>
-   <string name="status_no_sd_card">Kein USB-Speicher.</string>
+  <string name="status_no_sd_card">Kein USB-Speicher.</string>
   <string name="status_not_accept">"Inhalt wird nicht unterstützt."</string>
   <string name="status_pending">Dateiübertragung noch nicht gestartet.</string>
   <string name="status_protocol_error">"Anfrage kann nicht fehlerfrei verarbeitet werden."</string>

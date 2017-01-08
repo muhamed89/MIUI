@@ -101,10 +101,10 @@ Möchten Sie ihn beenden?"</string>
   <string name="autofill_card_cvc_re">CVC|Verifikation</string>
   <string name="autofill_card_number_re">Kartennummer</string>
   <string name="autofill_city_re">Ort|Stadt|Provinz|Bundesland</string>
-  <string name="autofill_county">Landkreis|Bezirk</string>
   <string name="autofill_company_re">Firma|Organisation|Abteilung</string>
   <string name="autofill_country_code_re">Ländercode</string>
   <string name="autofill_country_re">Land|Standort</string>
+  <string name="autofill_county">Landkreis|Bezirk</string>
   <string name="autofill_department">Departement</string>
   <string name="autofill_district">Bezirk</string>
   <string name="autofill_email_re">E-Mail</string>
@@ -132,8 +132,8 @@ Möchten Sie ihn beenden?"</string>
   <string name="autofill_state_re">Bundesstaat|Bundesland|Region|Provinz</string>
   <string name="autofill_this_form">AutoFill</string>
   <string name="autofill_username_re">user.?name|user.?id|vollständiger.?name</string>
-  <string name="autofill_zip_code">Postleitzahl</string>
   <string name="autofill_zip_4_re">zip|^-$|post2|codpos2</string>
+  <string name="autofill_zip_code">Postleitzahl</string>
   <string name="autofill_zip_code_re">zip|postal|post code|pcode|^1z$|postleitzahl</string>
   <string name="back_button_label">Zurück</string>
   <string name="badPin">Die alte PIN ist falsch</string>
@@ -148,7 +148,7 @@ Der Energiesparmodus endet automatisch, wenn Ihr Gerät aufgeladen wird."</strin
   <string name="bugreport_title">Fehlerbericht abrufen</string>
   <string name="byteShort">B</string>
   <string name="cancel">Abbruch</string>
-  <string name="candidates_style"><u>Kandidaten</u></string>
+  <string name="candidates_style">&lt;u&gt;Kandidaten&lt;/u&gt;</string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">Skripts können installiert werden, um den Zugriff auf Appinhalte zu erleichtern.</string>
   <string name="capability_desc_canRequestFilterKeyEvents">Einschließlich personenbezogener Daten wie Kreditkartennummern und Passwörter.</string>
   <string name="capability_desc_canRequestTouchExploration">Berührte Elemente werden laut vorgelesen und der Bildschirm kann über Gesten erkundet werden.</string>
@@ -387,11 +387,11 @@ mit %s"</string>
   <string name="global_action_silent_mode_off_status">Ton ist AN.</string>
   <string name="global_action_silent_mode_on_status">Ton ist AUS.</string>
   <string name="global_action_toggle_silent_mode">Lautlos</string>
+  <string name="global_action_voice_assist">Sprachassistent</string>
   <string name="global_actions">Telefonoptionen</string>
   <string name="global_actions_airplane_mode_off_status">Flugmodus ist AUS.</string>
   <string name="global_actions_airplane_mode_on_status">Flugmodus ist AN.</string>
   <string name="global_actions_toggle_airplane_mode">Flugmodus</string>
-  <string name="global_action_voice_assist">Sprachassistent</string>
   <string name="gpsNotifMessage">Angefordert von %1$s (%2$s)</string>
   <string name="gpsNotifTicker">Standortabfrage von %s</string>
   <string name="gpsNotifTitle">Standortabfrage</string>
@@ -524,7 +524,7 @@ Möchten Sie diese Seite wirklich verlassen?"</string>
   <string name="kg_invalid_sim_pin_hint">Geben Sie eine 4- bis 8-stellige PIN ein.</string>
   <string name="kg_invalid_sim_puk_hint">Der PUK-Code muss mindestens 8 Ziffern betragen.</string>
   <string name="kg_login_account_recovery_hint">"Nutzernamen oder Passwort vergessen?
-Besuchen Sie "<b>google.com/accounts/recovery</b>.</string>
+Besuchen Sie "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="kg_login_checking_password">Konto wird geprüft…</string>
   <string name="kg_login_instructions">Melden Sie sich zum Entsperren mit Ihrem Googlekonto an.</string>
   <string name="kg_login_invalid_input">Ungültiger Nutzername oder ungültiges Kennwort</string>
@@ -582,8 +582,8 @@ Um die Fixierung aufzuheben, berühren und halten Sie \"Übersicht\"."</string>
   <string name="lock_to_app_unlock_pattern">Vor dem Beenden nach Entsperrungsmuster fragen</string>
   <string name="lock_to_app_unlock_pin">Vor dem Beenden nach PIN fragen</string>
   <string name="lockscreen_access_pattern_area">Musterbereich</string>
-  <string name="lockscreen_access_pattern_cell_added_verbose">Knoten %1$s hinzugefügt</string>
   <string name="lockscreen_access_pattern_cell_added">Knoten hinzugefügt</string>
+  <string name="lockscreen_access_pattern_cell_added_verbose">Knoten %1$s hinzugefügt</string>
   <string name="lockscreen_access_pattern_cleared">Muster gelöscht</string>
   <string name="lockscreen_access_pattern_detected">Muster abgeschlossen</string>
   <string name="lockscreen_access_pattern_start">Muster gestartet</string>
@@ -599,7 +599,7 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Sie haben %d-mal erfolglos versucht, das Telefon zu entsperren. Das Telefon wird nun auf die Werkseinstellungen zurückgesetzt.</string>
   <string name="lockscreen_forgot_pattern_button_text">Muster vergessen?</string>
   <string name="lockscreen_glogin_account_recovery_hint">"Nutzernamen oder Passwort vergessen?
-Besuchen Sie "<b>google.com/accounts/recovery</b>.</string>
+Besuchen Sie "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_glogin_checking_password">Überprüfung...</string>
   <string name="lockscreen_glogin_forgot_pattern">Kontoentsperrung</string>
   <string name="lockscreen_glogin_instructions">Melden Sie sich zum Entsperren mit Ihrem Googlekonto an.</string>
@@ -825,8 +825,8 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="permdesc_accessContentProvidersExternally">Berechtigt den Inhaber, extern auf Contentanbieter zuzugreifen. Bei normalen Apps nicht notwendig</string>
   <string name="permdesc_accessDrmCertificates">Ermöglicht einer App die Bereitstellung und Nutzung von DRM-Zertifikaten. Sollte für normale Apps nie benötigt werden</string>
   <string name="permdesc_accessFineLocation">Ermöglicht der App, Ihre genaue Position anhand von GPS-Daten (Global Positioning System) oder über Netzwerkstandortquellen wie Sendemasten oder WLAN zu ermitteln. Diese Standortdienste müssen auf Ihrem Gerät verfügbar und aktiviert sein, damit die App sie verwenden kann. Apps können Ihren Standort anhand dieser Daten ermitteln und verbrauchen eventuell zusätzliche Akkuleistung.</string>
-  <string name="permdesc_accessInputFlinger">Ermöglicht der App die systemnahen InputFlingerfunktionen zu verwenden</string>
   <string name="permdesc_accessImsCallService">Ermöglicht der App den IMS-Service zu verwenden, um Anrufe ohne Ihr Eingreifen zu machen</string>
+  <string name="permdesc_accessInputFlinger">Ermöglicht der App die systemnahen InputFlingerfunktionen zu verwenden</string>
   <string name="permdesc_accessLocationExtraCommands">Ermöglicht der App auf zusätzliche Standortanbieterbefehle zuzugreifen. Damit könnte die App die Funktionsweise von GPS oder anderen Standortquellen beeinträchtigen.</string>
   <string name="permdesc_accessMockLocation">Erstellen von simulierten Standortquellen für Testzwecke oder Installation eines neuen Standortanbieters. Damit kann die App den von anderen Standortquellen wie GPS oder Standortanbietern zurückgegebenen Standort und/oder Status überschreiben.</string>
   <string name="permdesc_accessMtp">Erlaubt den Zugriff auf den Kernel-MTP-Treiber zur Implementierung des MTP-USB-Protokolls</string>
@@ -851,6 +851,7 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="permdesc_batteryStats">Ermöglicht der App den momentan niedrigen Akkustand zu erkennen. Unter Umständen erhält die App detaillierte Informationen darüber, welche Apps Sie verwenden.</string>
   <string name="permdesc_bindAccessibilityService">Ermöglicht dem Inhaber sich an die Oberfläche einer Bedienungshilfe auf oberster Ebene zu binden. Sollte nie für normale Apps benötigt werden.</string>
   <string name="permdesc_bindCarrierMessagingService">Ermöglicht dem Inhaber die Bindung an die Top-Level-Schnittstelle eines Messagingdienstes. Sollte nie für normale Anwendungen benötigt werden.</string>
+  <string name="permdesc_bindCarrierServices">Ermöglicht dem Inhaber, Netzbetreiberservices zu binden. Sollte für normale Apps eigentlich nicht notwendig sein.</string>
   <string name="permdesc_bindConditionProviderService">Ermöglicht dem Inhaber sich an die Oberfläche eines Bedingungsproviderdienstes auf oberster Ebene zu binden. Für normale Apps sollte dies nie erforderlich sein.</string>
   <string name="permdesc_bindDeviceAdmin">Ermöglicht dem Inhaber Intents an einen Geräteadministrator zu senden. Sollte nie für normale Apps benötigt werden.</string>
   <string name="permdesc_bindDreamService">Ermöglicht der App sich an die Oberfläche eines Dream-Dienstes auf oberster Ebene zu binden. Für normale Apps sollte dies nie erforderlich sein.</string>
@@ -869,7 +870,6 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="permdesc_bindVoiceInteraction">Ermöglicht dem Inhaber, sich an die Oberfläche eines Sprachinteraktionsdienstes auf oberster Ebene zu binden. Für normale Apps sollte dies nie erforderlich sein.</string>
   <string name="permdesc_bindVpnService">Ermöglicht dem Inhaber, sich an die Oberfläche eines VPN-Dienstes auf oberster Ebene zu binden. Sollte nie für normale Apps benötigt werden.</string>
   <string name="permdesc_bindWallpaper">Ermöglicht dem Inhaber, sich an die Oberfläche eines Hintergrunds auf oberster Ebene zu binden. Sollte nie für normale Apps benötigt werden.</string>
-  <string name="permdesc_bindCarrierServices">Ermöglicht dem Inhaber, Netzbetreiberservices zu binden. Sollte für normale Apps eigentlich nicht notwendig sein.</string>
   <string name="permdesc_bind_connection_service">Ermöglicht der App die Interaktion mit Telefondiensten, um Anrufe zu tätigen und zu empfangen</string>
   <string name="permdesc_bind_incall_service">Die App kann steuern, wann und wie der Nutzer den Anrufbildschirm sieht.</string>
   <string name="permdesc_bind_trust_agent_service">Ermöglicht einer App die Anbindung an einen Trust Agent-Service</string>
@@ -956,9 +956,9 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="permdesc_manageDeviceAdmins">Ermöglicht dem Inhaber, aktive Geräteadministratoren hinzuzufügen oder zu entfernen. Sollte für normale Apps nie benötigt werden.</string>
   <string name="permdesc_manageDocs">App kann Dokumentenspeicher verwalten</string>
   <string name="permdesc_manageFingerprint">Ermöglicht der App, Methoden zum Löschen und Erstellen von Fingerabdrücken aufzurufen</string>
-  <string name="permdesc_manageProfileAndDeviceOwners">Ermöglicht der App, Profil- und Geräteinhaber zu verändern</string>
   <string name="permdesc_manageMediaProjection">Ermöglicht einer App, Sitzungen zur Projektion von Medieninhalten zu verwalten. In diesen Sitzungen können Apps Bildschirm- und Audioinhalte aufnehmen. Für normale Apps sollte dies nie erforderlich sein.</string>
   <string name="permdesc_manageNetworkPolicy">Ermöglicht der App, Netzwerkrichtlinien zu verwalten und anwendungsspezifische Regeln festzulegen</string>
+  <string name="permdesc_manageProfileAndDeviceOwners">Ermöglicht der App, Profil- und Geräteinhaber zu verändern</string>
   <string name="permdesc_manageUsb">Ermöglicht der App, Einstellungen und Berechtigungen für USB-Geräte zu verwalten</string>
   <string name="permdesc_manageUsers">Ermöglicht Apps die Verwaltung der Nutzer auf dem Gerät, unter anderem das Abfragen, Erstellen und Löschen von Nutzern</string>
   <string name="permdesc_manageVoiceKeyphrases">Ermöglicht dem Inhaber die Verwaltung von Suchbegriffen für die Hotword-Erkennung bei der Sprachbedienung. Für normale Apps sollte dies nie erforderlich sein.</string>
@@ -1088,8 +1088,8 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="permgroupdesc_bookmarks">Direkter Zugriff auf Lesezeichen und Browserverlauf</string>
   <string name="permgroupdesc_calendar">Direkter Zugriff auf Kalender und Termine</string>
   <string name="permgroupdesc_camera">Direkter Zugriff auf Kamera für Bild- oder Videoaufnahmen</string>
-  <string name="permgroupdesc_costMoney">Kostenpflichtige Aktionen</string>
   <string name="permgroupdesc_contacts">Zugriff auf Ihre Kontakte</string>
+  <string name="permgroupdesc_costMoney">Kostenpflichtige Aktionen</string>
   <string name="permgroupdesc_developmentTools">Funktionen nur für Appentwickler vorgesehen</string>
   <string name="permgroupdesc_deviceAlarms">Wecker stellen</string>
   <string name="permgroupdesc_dictionary">Wörter in Ihrem Wörterbuch lesen</string>
@@ -1099,8 +1099,8 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="permgroupdesc_messages">SMS, E-Mails und andere Nachrichten lesen und schreiben</string>
   <string name="permgroupdesc_microphone">Direkter Zugriff auf das Mikrofon zur Audioaufnahme</string>
   <string name="permgroupdesc_network">Zugriff auf verschiedene Netzwerkfunktionen</string>
-  <string name="permgroupdesc_phone">Anrufe tätigen</string>
   <string name="permgroupdesc_personalInfo">Direkter Zugriff auf Informationen über Sie, die in Ihrer Kontaktkarte gespeichert sind</string>
+  <string name="permgroupdesc_phone">Anrufe tätigen</string>
   <string name="permgroupdesc_phoneCalls">Überwachen, Aufzeichnen und Verarbeiten von Telefonanrufen</string>
   <string name="permgroupdesc_screenlock">Kann die Bildschirmsperre auf Ihrem Gerät beeinflussen</string>
   <string name="permgroupdesc_sensors">Zugriff auf Körpersensordaten</string>
@@ -1289,9 +1289,9 @@ für Konto %s"</string>
   <string name="permlab_manageDeviceAdmins">Geräteadministrator hinzufügen oder entfernen</string>
   <string name="permlab_manageDocs">Dokumentenspeicher verwalten</string>
   <string name="permlab_manageFingerprint">Fingerabdruckhardware verwalten</string>
-  <string name="permlab_manageProfileAndDeviceOwners">Profil- und Gerätebesitzer verwalten</string>
   <string name="permlab_manageMediaProjection">Sitzungen zur Projektion von Medieninhalten verwalten</string>
   <string name="permlab_manageNetworkPolicy">Netzwerkrichtlinien verwalten</string>
+  <string name="permlab_manageProfileAndDeviceOwners">Profil- und Gerätebesitzer verwalten</string>
   <string name="permlab_manageUsb">Einstellungen und Berechtigungen für USB-Geräte verwalten</string>
   <string name="permlab_manageUsers">Nutzer verwalten</string>
   <string name="permlab_manageVoiceKeyphrases">Suchbegriffe für die Sprachsuche verwalten</string>
@@ -1447,7 +1447,7 @@ für Konto %s"</string>
   <string name="policydesc_watchLogin">Anzahl der falsch eingegebenen Passwörter beim Entsperren des Bildschirms überwachen und Telefon sperren oder alle Daten auf dem Telefon löschen, wenn zu häufig ein falsches Passwort eingegeben wird.</string>
   <string name="policydesc_watchLogin_secondaryUser">Anzahl der falsch eingegebenen Passwörter beim Entsperren des Bildschirms überwachen und Telefon sperren oder alle Daten auf dem Telefon löschen, wenn zu häufig ein falsches Passwort eingegeben wird.</string>
   <string name="policydesc_wipeData">Setzen Sie das Telefon auf die Werkseinstellungen zurück. Dabei werden alle Daten ohne Warnung gelöscht.</string>
-  <string name="policydesc_wipeData_secondaryUser">Setzen Sie das Telefon auf die Werkseinstellungen zurück. Dabei werden alle Daten ohne Warnung gelöscht.</string> 
+  <string name="policydesc_wipeData_secondaryUser">Setzen Sie das Telefon auf die Werkseinstellungen zurück. Dabei werden alle Daten ohne Warnung gelöscht.</string>
   <string name="policylab_disableCamera">Kameras deaktivieren</string>
   <string name="policylab_disableKeyguardFeatures">Funktionen in Keyguard deaktivieren</string>
   <string name="policylab_encryptedStorage">Speicherverschlüsselung</string>
@@ -1480,13 +1480,13 @@ für Konto %s"</string>
   <string name="reboot_confirm">Das Telefon wird neu gestartet</string>
   <string name="reboot_safemode_confirm">Möchten Sie im abgesicherten Modus neu starten? Dadurch werden alle Apps von Drittanbietern deaktiviert, die Sie installiert haben. Sie werden jedoch nach einem weiteren Neustart wiederhergestellt.</string>
   <string name="reboot_safemode_title">Im abgesicherten Modus starten</string>
+  <string name="reboot_title">Neustart</string>
   <string name="reboot_to_reset_message">Neustarten…</string>
   <string name="reboot_to_reset_title">Auf Werkseinstellungen zurücksetzen</string>
   <string name="reboot_to_update_package">Updatepaket wird verarbeitet…</string>
   <string name="reboot_to_update_prepare">Update wird vorbereitet…</string>
   <string name="reboot_to_update_reboot">Neustarten…</string>
   <string name="reboot_to_update_title">Androidsystemupdate</string>
-  <string name="reboot_title">Neustart</string>
   <string name="recent_tasks_title">Kürzlich geöffnet</string>
   <string name="relationTypeAssistant">Assistent</string>
   <string name="relationTypeBrother">Bruder</string>
@@ -1612,17 +1612,17 @@ Wenn Sie über längere Zeiträume hinweg Musik in hoher Lautstärke hören, kan
   <string name="sipAddressTypeOther">Sonstige</string>
   <string name="sipAddressTypeWork">Geschäftlich</string>
   <string name="skip_button_label">Überspringen</string>
-  <string name="sms_control_message"><b>%1$s</b> sendet eine große Anzahl SMS. Möchten Sie zulassen, dass die App weiterhin Nachrichten sendet?</string>
+  <string name="sms_control_message">&lt;b&gt;%1$s&lt;/b&gt; sendet eine gro&amp;#223;e Anzahl SMS. M&amp;#246;chten Sie zulassen, dass die App weiterhin Nachrichten sendet?</string>
   <string name="sms_control_no">Nicht zulassen</string>
   <string name="sms_control_title">SMS werden gesendet</string>
   <string name="sms_control_yes">Zulassen</string>
-  <string name="sms_premium_short_code_details"><b>Hierfür werden Ihrem Mobilfunkkonto Gebühren berechnet.</b></string>
+  <string name="sms_premium_short_code_details">&lt;b&gt;Hierf&amp;#252;r werden Ihrem Mobilfunkkonto Geb&amp;#252;hren berechnet.&lt;/b&gt;</string>
   <string name="sms_short_code_confirm_allow">Senden</string>
   <string name="sms_short_code_confirm_always_allow">Immer zulassen</string>
   <string name="sms_short_code_confirm_deny">Abbrechen</string>
-  <string name="sms_short_code_confirm_message"><b>%1$s</b> möchte eine Nachricht an <b>%2$s</b> senden.</string>
+  <string name="sms_short_code_confirm_message">&lt;b&gt;%1$s&lt;/b&gt; m&amp;#246;chte eine Nachricht an &lt;b&gt;%2$s&lt;/b&gt; senden.</string>
   <string name="sms_short_code_confirm_never_allow">Nie zulassen</string>
-  <string name="sms_short_code_details">Hierfür könnten Ihrem Mobilfunkkonto <b>Gebühren berechnet werden</b>.</string>
+  <string name="sms_short_code_details">Hierfür könnten Ihrem Mobilfunkkonto &lt;b&gt;Geb&amp;#252;hren berechnet werden&lt;/b&gt;.</string>
   <string name="sms_short_code_remember_choice">Auswahl merken</string>
   <string name="sms_short_code_remember_undo_instruction">Sie können dies unter \"Einstellungen &gt; Apps\" ändern.</string>
   <string name="smv_application">Die App %1$s (Prozess %2$s) hat gegen ihre selbsterzwungene StrictMode-Richtlinie verstoßen.</string>
@@ -1740,6 +1740,10 @@ Möchten Sie die Seite schließen?"</string>
   <string name="websearch">Websuche</string>
   <string name="week">Woche</string>
   <string name="weeks">Wochen</string>
+  <string name="wfcRegErrorTitle">WLAN-Anrufe</string>
+  <string name="wfc_mode_cellular_preferred_summary">Mobilnetzwerk bevorzugt</string>
+  <string name="wfc_mode_wifi_only_summary">nur WLAN</string>
+  <string name="wfc_mode_wifi_preferred_summary">WLAN bevorzugt</string>
   <string name="whichApplication">Aktion durchführen mit</string>
   <string name="whichApplicationNamed">Aktion mit %1$s abschließen</string>
   <string name="whichEditApplication">Bearbeiten mit</string>
@@ -1750,10 +1754,6 @@ Möchten Sie die Seite schließen?"</string>
   <string name="whichSendApplicationNamed">Für %1$s freigeben</string>
   <string name="whichViewApplication">Öffnen mit</string>
   <string name="whichViewApplicationNamed">Mit %1$s öffnen</string>
-  <string name="wfcRegErrorTitle">WLAN-Anrufe</string>
-  <string name="wfc_mode_cellular_preferred_summary">Mobilnetzwerk bevorzugt</string>
-  <string name="wfc_mode_wifi_only_summary">nur WLAN</string>
-  <string name="wfc_mode_wifi_preferred_summary">WLAN bevorzugt</string>
   <string name="wifi_available_sign_in">Im WLAN-Netzwerk anmelden</string>
   <string name="wifi_calling_off_summary">Aus</string>
   <string name="wifi_connect_alert_message">Die App %1$s möchte sich mit dem WLAN %2$s verbinden</string>
@@ -1779,8 +1779,8 @@ Möchten Sie die Seite schließen?"</string>
   <string name="wireless_display_route_description">Kabellose Übertragung (WiDi)</string>
   <string name="work_profile_deleted">Arbeitsprofil gelöscht</string>
   <string name="work_profile_deleted_description">Arbeitsprofil aufgrund fehlender Admin app gelöscht</string>
-  <string name="work_profile_deleted_details">Die Arbeitsprofiladminapp fehlt oder ist beschädigt. Deswegen wurden Ihr Arbeitsprofil und die zugehörigen Daten gelöscht. Kontaktieren Sie Ihren Administrator für Hilfe.</string>
   <string name="work_profile_deleted_description_dpm_wipe">Das Arbeitsprofil ist auf diesem Geräte nicht mehr verfügbar</string>
+  <string name="work_profile_deleted_details">Die Arbeitsprofiladminapp fehlt oder ist beschädigt. Deswegen wurden Ihr Arbeitsprofil und die zugehörigen Daten gelöscht. Kontaktieren Sie Ihren Administrator für Hilfe.</string>
   <string name="write_fail_reason_cancelled">Abgebrochen</string>
   <string name="write_fail_reason_cannot_write">Fehler beim Schreiben von Inhalten</string>
   <string name="year">Jahr</string>

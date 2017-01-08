@@ -28,7 +28,7 @@
   <string name="incorrect_pincode">Falscher PIN-Code</string>
   <string name="incorrect_pincode_remaining_attempts">Falscher PIN-Code, %d Versuche verbleibend</string>
   <string name="incorrect_pukcode">Falscher PUK-Code</string>
-  <string name="incorrect_pukcode_remaining_attempts">Falscher PUK-Code, %d Versuche verbleibend</string>  
+  <string name="incorrect_pukcode_remaining_attempts">Falscher PUK-Code, %d Versuche verbleibend</string>
   <string name="input_password_after_boot_msg">"Sie müssen das Kennwort eingeben, nachdem das Gerät neu gestartet wurde"</string>
   <string name="input_password_hint_text">Kennwort eingeben</string>
   <string name="input_pattern_hint_text">Zeichnen Sie Ihr Entsperrmuster</string>

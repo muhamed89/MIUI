@@ -24,7 +24,7 @@
   <string name="ftp_session_key_dialog_header">Bluetooth-Sitzungsschlüssel ist notwendig</string>
   <string name="ftp_session_key_dialog_title">Geben Sie den Sitzungsschlüssel für %1$s ein</string>
   <string name="map_acceptance_dialog_header">Telefonordnerzugriff</string>
-  <string name="map_acceptance_dialog_title">>%1$s möchte Zugriff auf ihre Telefonordner. Wollen Sie den Zugriff von %2$s zulassen?</string>
+  <string name="map_acceptance_dialog_title">&gt;%1$s möchte Zugriff auf ihre Telefonordner. Wollen Sie den Zugriff von %2$s zulassen?</string>
   <string name="map_acceptance_timeout_message">Die Zeit, um die Verbindung mit %1$s zu akzeptieren, ist abgelaufen</string>
   <string name="map_alert_conn_failed_message">Die Bluetooth-MAP-Verbindung ist fehlgeschlagen.</string>
   <string name="map_authentication_timeout_message">Die Zeit, um den Sitzungsschlüssel von %1$s einzugeben, ist abgelaufen</string>

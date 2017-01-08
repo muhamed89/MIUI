@@ -121,7 +121,7 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; System &gt; Tast
   <string name="start_security_permission_verify_text">Berechtigungen mit Ihrem Mi Konto verifizieren</string>
   <string name="status_bar_toggle_ac">Zugriff</string>
   <string name="status_bar_toggle_auto_brightness">Helligkeit</string>
-    <string name="status_bar_toggle_battery_saver">Energiesparmodus</string>
+  <string name="status_bar_toggle_battery_saver">Energiesparmodus</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_cast">Übertragen</string>
   <string name="status_bar_toggle_data">Mobile Daten</string>
@@ -131,7 +131,7 @@ Um die Funktion zu aktivieren, gehen Sie auf Einstellungen &gt; System &gt; Tast
   <string name="status_bar_toggle_lock">Sperren</string>
   <string name="status_bar_toggle_midrop">Mi Drop</string>
   <string name="status_bar_toggle_mute">Lautlos</string>
-    <string name="status_bar_toggle_nfc">NFC</string>
+  <string name="status_bar_toggle_nfc">NFC</string>
   <string name="status_bar_toggle_paper_mode">Lesemodus</string>
   <string name="status_bar_toggle_power_mode">Leistung</string>
   <string name="status_bar_toggle_privacy_mode">Gastmodus</string>

@@ -33,7 +33,7 @@
   <string name="first_using_dialog_message">Der Kompass benötigt eine Netzwerkverbindung, die Kamera und den Standortservice, um ordnungsgemäß zu funktionieren.</string>
   <string name="first_using_dialog_title">Zugriffsberechtigung</string>
   <string name="guide_toast">Kalibrierung des Kompasses nach folgender Geste.</string>
-    <string name="keywords_search_compass">Kompass;Kompass kalibrieren;Luftdruck;Seehöhe;Breitengrad;Längengrad;MIUI Kompass;Kompass App;MIUI Kompass App;Wo ist der Kompass;Kompass herunterladen;Atmospärischer Druck;Länge;Breite;Wie ist die Seehöhe</string>
+  <string name="keywords_search_compass">Kompass;Kompass kalibrieren;Luftdruck;Seehöhe;Breitengrad;Längengrad;MIUI Kompass;Kompass App;MIUI Kompass App;Wo ist der Kompass;Kompass herunterladen;Atmospärischer Druck;Länge;Breite;Wie ist die Seehöhe</string>
   <string name="latitude">LAT</string>
   <string name="location_east">OL</string>
   <string name="location_enable">Zulassen</string>

@@ -460,7 +460,7 @@
   <string name="location_txt">Primary storage location</string>
   <string name="main_dlg_butn">Help Friends Install</string>
   <string name="main_dlg_msg_first">&lt;font size=6 &gt;Both phones&lt;/font&gt; must have CM Transfer installed in order to share files.</string>
-  <string name="main_share_bottom_text"><u>Send CM Transfer to other phone</u></string>
+  <string name="main_share_bottom_text">&lt;u&gt;Send CM Transfer to other phone&lt;/u&gt;</string>
   <string name="main_share_url_msg">Ask your friends scan QR code to get CM Transfer</string>
   <string name="main_share_url_msg_bottom">I will be there absolutely!</string>
   <string name="main_share_url_msg_first">Ask them to open their browser and visit</string>

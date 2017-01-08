@@ -57,7 +57,7 @@
   <string name="adblock_websites_settings_title">Geblockte Seiten</string>
   <string name="add_bookmark_group">Gruppe hinzufügen</string>
   <string name="add_bookshelf_popup_text">Dieses Buch befindet sich bereits in Ihrer Sammlung</string>
-    <string name="add_favorites_to">Favoriten hinzufügen</string>
+  <string name="add_favorites_to">Favoriten hinzufügen</string>
   <string name="add_new_bookmark">Lesezeichen hinzufügen</string>
   <string name="add_new_quicklink">Auf Startseite hinzufügen</string>
   <string name="add_ql_bm_title">Speichern</string>
@@ -161,7 +161,7 @@
   <string name="color_picker_hue">Schattierung</string>
   <string name="color_picker_saturation">Sättigung</string>
   <string name="comment_app_menu">Kommentieren</string>
-    <string name="comment_hint">Kommentieren</string>
+  <string name="comment_hint">Kommentieren</string>
   <string name="comment_menu">Kommentieren</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
   <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
@@ -184,7 +184,7 @@
   <string name="contextmenu_openlink">Öffnen</string>
   <string name="contextmenu_openlink_newwindow">In neuem Tab öffnen</string>
   <string name="contextmenu_openlink_newwindow_background">Tab im Hintergrund öffnen</string>
-    <string name="contextmenu_recognise_qr_code">QR-Code erkennen</string>
+  <string name="contextmenu_recognise_qr_code">QR-Code erkennen</string>
   <string name="contextmenu_savelink">Link speichern</string>
   <string name="contextmenu_send_mail">E-Mail senden</string>
   <string name="contextmenu_set_wallpaper">Als Hintergrund wählen</string>
@@ -201,7 +201,7 @@
   <string name="current_version_phone">Smartphone</string>
   <string name="custom_head_card_text">"Glauben Sie immer daran, dass etwas
  Wunderbares geschehen wird"</string>
-   <string name="custom_head_card_text_incognito">"Nur Gott und Sie selbst kennen
+  <string name="custom_head_card_text_incognito">"Nur Gott und Sie selbst kennen
  dieses private Fenster​"</string>
   <string name="data_traffic_prompt_change">Die Nutzung der mobilen Datenverbindung zum Anschauen von Videos erhöht Ihren Datenverbrauch. Falls Sie Ihr Datenvolumen überschreiten, kann Ihr Mobilfunkanbieter Ihnen dies in Rechnung stellen.</string>
   <string name="data_traffic_prompt_message">Die Nutzung der mobilen Datenverbindung zum Anschauen von Videos erhöht Ihren Datenverbrauch. Falls Sie Ihr Datenvolumen überschreiten, kann Ihr Mobilfunkanbieter Ihnen dies in Rechnung stellen.</string>
@@ -309,7 +309,7 @@
   <string name="find_on_page_next">Weiter</string>
   <string name="find_on_page_prev">Zurück</string>
   <string name="find_previous">Vorheriges suchen</string>
-    <string name="fling_on_border_gesture_hint">Sie können die Funktion dieser Geste in den Einstellungen ändern</string>
+  <string name="fling_on_border_gesture_hint">Sie können die Funktion dieser Geste in den Einstellungen ändern</string>
   <string name="force_quick_search_title">Suche</string>
   <string name="force_touch_bookmark_history_title">Lesezeichen &amp; Verlauf</string>
   <string name="force_touch_infoflow_title">Nachrichten</string>
@@ -330,7 +330,7 @@
   <string name="gold_medals">Goldmedaillen</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Auf Startbildschirm hinzugefügt</string>
-    <string name="hint">Hinweis</string>
+  <string name="hint">Hinweis</string>
   <string name="history_saved_webpage">Seite speichern</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Löschen</string>
@@ -342,7 +342,7 @@
   <string name="homepage_top_card_menu">Top</string>
   <string name="in_incognito">"Sie sind inkognito! Webseiten, die Sie besuchen werden in Ihrem Browserverlauf nicht angezeigt."</string>
   <string name="in_secureaccess">Browser ist im sicheren Modus</string>
-    <string name="isReplacePage">Die Datei existiert bereits, ersetzen?</string>
+  <string name="isReplacePage">Die Datei existiert bereits, ersetzen?</string>
   <string name="is_first_history_item">Dies ist die erste Seite in Ihrem Browserverlauf</string>
   <string name="is_first_tab">Dies ist der erste Tab</string>
   <string name="is_last_history_item">Dies ist die letzte Seite Ihres Browserverlaufs</string>
@@ -366,7 +366,7 @@ Diese Seite verlassen?"</string>
   <string name="local_bookmarks">Mi</string>
   <string name="login_failed_toast">Anmeldung fehlgeschlagen, bitte aktualisieren.</string>
   <string name="low_memory_error">Vorheriger Vorgang kann aufgrund geringen Speichers nicht abgeschlossen werden</string>
-    <string name="low_memory_toast">Zu wenig freier Speicher, um den Browser zu verwenden</string>
+  <string name="low_memory_toast">Zu wenig freier Speicher, um den Browser zu verwenden</string>
   <string name="max_tabs_warning">"Weitere Tabs können nicht geöffnet werden"</string>
   <string name="maximum_input_alert">"Maximal 2048 Zeichen möglich"</string>
   <string name="media_error_action_refresh">Neu laden</string>
@@ -415,7 +415,7 @@ Diese Seite verlassen?"</string>
   <string name="miuichromium_error_page_airplane_mode_on">Schalten Sie den Flugmodus aus</string>
   <string name="miuichromium_error_page_btn_close">Schließen</string>
   <string name="miuichromium_error_page_btn_refresh">Aktualisieren</string>
-    <string name="miuichromium_error_page_btn_report_issue">Problem melden</string>
+  <string name="miuichromium_error_page_btn_report_issue">Problem melden</string>
   <string name="miuichromium_error_page_diagnose">Netzwerkdiagnose</string>
   <string name="miuichromium_error_page_diagnose_banner">Netzwerkdiagnose</string>
   <string name="miuichromium_error_page_diagnose_certificate">Netzwerkprotokoll konnte nicht überprüft werden</string>
@@ -542,10 +542,10 @@ Diese Seite verlassen?"</string>
   <string name="pref_file_download_default_path_prefix">Standardverzeichnis: %s</string>
   <string name="pref_file_download_save_modify_default_path">Downloadverzeichnis</string>
   <string name="pref_file_download_save_title">Downloads</string>
-    <string name="pref_fling_on_border">Von der Kante aus wischen</string>
+  <string name="pref_fling_on_border">Von der Kante aus wischen</string>
   <string name="pref_fling_on_border_enabled">"Tabs wechseln"</string>
   <string name="pref_fling_on_border_enabled_title_summary">Streiche vom linken oder rechten Rand des Bildschirmes, um die Registerkarten zu wechseln</string>
-    <string name="pref_fling_on_border_title_summary">Von der rechten oder linken Kante aus nach innen wischen</string>
+  <string name="pref_fling_on_border_title_summary">Von der rechten oder linken Kante aus nach innen wischen</string>
   <string name="pref_font_size_category">Textgröße der Webseite</string>
   <string name="pref_force_userscalable">Erzwinge Vergrößerung</string>
   <string name="pref_force_userscalable_summary">"Webseiten die Kontolle über die Zoom-Funktion entziehen"</string>
@@ -558,7 +558,7 @@ Diese Seite verlassen?"</string>
   <string name="pref_notifications_receive">Neuer Benachrichtigungsalarm</string>
   <string name="pref_notifications_title">Benachrichtigungen</string>
   <string name="pref_other_title">Sonstige</string>
-    <string name="pref_paper_mode_title">Lesemodus</string>
+  <string name="pref_paper_mode_title">Lesemodus</string>
   <string name="pref_privacy_clear_cache">Cache leeren</string>
   <string name="pref_privacy_clear_cache_dlg">Lokale Cacheinhalte und Datenbanken löschen?</string>
   <string name="pref_privacy_clear_cache_summary">Lösche lokale Cacheinhalte und Datenbanken</string>
@@ -606,7 +606,7 @@ Diese Seite verlassen?"</string>
   <string name="profiler_no_storage_toast">"Konnte Profiler nicht starten, da der externe Speicher nicht bereit ist"</string>
   <string name="profiler_started_toast">Profiler gestartet</string>
   <string name="profiler_stopped_toast">Profiler beendet. Resultate befinden sich in %1$s.</string>
-  <string name="progress_dialog_setting_wallpaper">Hintergrundbild wird eingestellt…</string>  
+  <string name="progress_dialog_setting_wallpaper">Hintergrundbild wird eingestellt…</string>
   <string name="pull_to_refresh_pull_label">Zum Aktualisieren ziehen</string>
   <string name="pull_to_refresh_refreshing_label">Wird geladen…</string>
   <string name="pull_to_refresh_release_label">Zum Aktualisieren und für Empfehlungen loslassen</string>
@@ -845,7 +845,7 @@ Diese Seite verlassen?"</string>
   <string name="video_subtitle_last_message1">Weniger als eine Minute verbleibend</string>
   <string name="video_subtitle_prefix1">Angesehen</string>
   <string name="video_subtitle_prefix2">" angesehen"</string>
-    <string name="video_subtitle_prefix_message">Angesehen:</string>
+  <string name="video_subtitle_prefix_message">Angesehen:</string>
   <string name="video_title_prefix_message">Offline:</string>
   <string name="video_unknown_duration">Unbekannte Dauer</string>
   <string name="view_certificate">Zertifikat anzeigen</string>

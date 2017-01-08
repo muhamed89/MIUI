@@ -124,7 +124,7 @@
   <string name="callrecordview_menu_delete_stranger">Unbekannte Anrufe löschen</string>
   <string name="callrecordview_menu_edit_call_note">Anrufnotiz ändern</string>
   <string name="callrecordview_menu_ip">Autom. IP-Wählen</string>
-  <string name="callrecordview_menu_livetalk">Aufladepaket</string>  
+  <string name="callrecordview_menu_livetalk">Aufladepaket</string>
   <string name="callrecordview_menu_mobiledata">Datenpaket kaufen</string>
   <string name="callrecordview_menu_paste">Einfügen</string>
   <string name="callrecordview_menu_recharge">Aufladen</string>
@@ -138,7 +138,7 @@
   <string name="callrecordview_menu_show_new">Neue Kontakte</string>
   <string name="callrecordview_menu_show_sim">%s Anrufe</string>
   <string name="callrecordview_menu_show_stranger">Unbekannte Anrufe</string>
-  <string name="callrecordview_menu_show_title">Anruflistenanzeige</string> 
+  <string name="callrecordview_menu_show_title">Anruflistenanzeige</string>
   <string name="callrecordview_menu_voip">VoIP</string>
   <string name="calls_voip_prompt">VOIP</string>
   <string name="cancel_confirmation_dialog_message">Änderungen verwerfen?</string>
@@ -157,7 +157,7 @@
   <string name="chat_qq">Über QQ chatten</string>
   <string name="chat_skype">Über Skype chatten</string>
   <string name="chat_yahoo">Über Yahoo chatten</string>
-    <string name="check_unsynchronized_accounts">An Kontosynchronisation erinnern</string>
+  <string name="check_unsynchronized_accounts">An Kontosynchronisation erinnern</string>
   <string name="checkhint">Anderes Telefon überprüfen</string>
   <string name="clearCallLogConfirmation">Alle Anruflisten werden gelöscht</string>
   <string name="clearCallLogConfirmation_title">Alle Anruflisten löschen?</string>
@@ -364,30 +364,30 @@ Kontaktkarten sind ausgeschaltet.</string>
   <string name="device_paired_dialog_message">Kontakte abrufen…</string>
   <string name="device_paired_dialog_title">Kontakte abrufen…</string>
   <string name="device_pairing_dialog_message">Verbinden…</string>
-    <string name="device_pairing_dialog_title">Geräte verbinden</string>
-    <string name="device_transfer_by_bluetooth_message">1. Bitte schalten Sie &quot;Bluetooth&quot; auf dem anderen Gerät ein;
+  <string name="device_pairing_dialog_title">Geräte verbinden</string>
+  <string name="device_transfer_by_bluetooth_message">1. Bitte schalten Sie "Bluetooth" auf dem anderen Gerät ein;
         
 
-- Auf Android Geräten finden Sie &quot;Bluetooth&quot; normalerweise bei den Netzwerkeinstellungen
+- Auf Android Geräten finden Sie "Bluetooth" normalerweise bei den Netzwerkeinstellungen
         
-- Auf iOS Geräten sollten Sie &quot;Bluetooth&quot; in den Einstellungen suchen
-        
-
-2. Auf Android Geräten sollten Sie außerdem die &quot;Sichtbarkeit für andere Geräte&quot; einschalten;
+- Auf iOS Geräten sollten Sie "Bluetooth" in den Einstellungen suchen
         
 
-3. Klicken Sie &quot;Weiter&quot;und erlauben Sie im nächsten Schritt den Zugriff auf die Kontakte.</string>
-    <string name="device_transfer_by_sim_message">1. Speichern Sie die Kontakte des anderen Geräts auf der SIM-karte;
+2. Auf Android Geräten sollten Sie außerdem die "Sichtbarkeit für andere Geräte" einschalten;
         
 
-2. Gehen Sie zu &quot;Kontakteinstellungen&quot; -- &quot;Kontakte importieren/exportieren&quot; -- &quot;Von SIM-Karte importieren&quot;, halten Sie einen Kontakt gedrückt, wählen Sie die zu importierenden Kontakte aus, dann klicken Sie &quot;Importieren&quot;.</string>
+3. Klicken Sie "Weiter"und erlauben Sie im nächsten Schritt den Zugriff auf die Kontakte.</string>
+  <string name="device_transfer_by_sim_message">1. Speichern Sie die Kontakte des anderen Geräts auf der SIM-karte;
+        
+
+2. Gehen Sie zu "Kontakteinstellungen" -- "Kontakte importieren/exportieren" -- "Von SIM-Karte importieren", halten Sie einen Kontakt gedrückt, wählen Sie die zu importierenden Kontakte aus, dann klicken Sie "Importieren".</string>
   <string name="device_version_header_bluetooth">Stellen Sie sicher, dass Bluetooth an ist</string>
   <string name="device_version_header_no_bluetooth">Kontakte von SIM-Karte importieren</string>
   <string name="device_version_title">Modell auswählen</string>
   <string name="dial">Wählen</string>
   <string name="dialerDialpadHintText">Nummer wählen</string>
   <string name="dialerIconLabel">Kürzlich</string>
-  <string name="dialerKeyboardHintText">Mit Hilfe der Tastatur wählen</string>  
+  <string name="dialerKeyboardHintText">Mit Hilfe der Tastatur wählen</string>
   <string name="dialer_addAnotherCall">Anruf hinzufügen</string>
   <string name="dialer_copy_view_delete_description">Kopierte Nummer löschen</string>
   <string name="dialer_digits_copy_number_label">Kopierte Nummer</string>
@@ -407,9 +407,9 @@ Kontaktkarten sind ausgeschaltet.</string>
   <string name="dialog_voicemail_airplane_mode_message">Um die Mailbox abzurufen, schalten Sie den Flugmodus aus</string>
   <string name="dialog_voicemail_not_ready_message">Zum Einrichten der Mailbox gehen Sie in das Menü &gt; Einstellungen</string>
   <string name="directory_search_label">Verzeichnis</string>
-    <string name="dirty_contacts_notification_description">%d Änderungen wurden nicht mit Ihrem Mi Konto synchronisiert.</string>
-    <string name="dirty_contacts_notification_message">Die Erinnerung kann jederzeit in den Einstellungen ausgeschaltet werden.</string>
-    <string name="dirty_contacts_notification_title">Kontakte synchronisieren?</string>
+  <string name="dirty_contacts_notification_description">%d Änderungen wurden nicht mit Ihrem Mi Konto synchronisiert.</string>
+  <string name="dirty_contacts_notification_message">Die Erinnerung kann jederzeit in den Einstellungen ausgeschaltet werden.</string>
+  <string name="dirty_contacts_notification_title">Kontakte synchronisieren?</string>
   <string name="display_all_contacts">Alle Kontakte</string>
   <string name="display_more_groups">Weitere Gruppen…</string>
   <string name="display_only_phones">Nur Kontakte mit Telefonnummer</string>
@@ -532,11 +532,11 @@ Grund: \"%s\"."</string>
   <string name="hint_distance"/>
   <string name="hint_findContacts">Kontakte suchen</string>
   <string name="hint_more_contact">Doppelte Kontakte zusammenführen</string>
-    <string name="hint_search_contacts">%d Kontakte</string>
-    <string name="hint_search_emails">%d E-Mail-Kontakte</string>
-    <string name="hint_search_phone_numbers">%d Kontaktnummern</string>
-    <string name="hksar_establishment_day">Verwaltungsbezirk</string>
-    <string name="hoar_frost_falls">Frost</string>
+  <string name="hint_search_contacts">%d Kontakte</string>
+  <string name="hint_search_emails">%d E-Mail-Kontakte</string>
+  <string name="hint_search_phone_numbers">%d Kontaktnummern</string>
+  <string name="hksar_establishment_day">Verwaltungsbezirk</string>
+  <string name="hoar_frost_falls">Frost</string>
   <string name="hybrid_check_network">Netzwerkeinstellungen</string>
   <string name="hybrid_data_error">Ein Fehler ist aufgetreten</string>
   <string name="hybrid_locating_fail">Ihr Standort kann nicht ermittelt werden</string>
@@ -647,11 +647,11 @@ Grund: \"%s\"."</string>
   <string name="list_filter_customize">Anpassen</string>
   <string name="list_filter_phones">Alle Kontakte mit Telefonnummern</string>
   <string name="list_filter_single">Kontakt</string>
-    <string name="live_talk_switch_on_toast">Live talk wurde aktiviert</string>
-    <string name="livetalk_charge">Aufladen</string>
-    <string name="livetalk_left">Verbleibender Live talk</string>
-    <string name="livetalk_switch_on">Einschalten</string>
-    <string name="livetalk_title">Live talk</string>
+  <string name="live_talk_switch_on_toast">Live talk wurde aktiviert</string>
+  <string name="livetalk_charge">Aufladen</string>
+  <string name="livetalk_left">Verbleibender Live talk</string>
+  <string name="livetalk_switch_on">Einschalten</string>
+  <string name="livetalk_title">Live talk</string>
   <string name="loading_accounts">Wird geladen…</string>
   <string name="loading_group_members">Lade Gruppenmitglieder…</string>
   <string name="loading_groups">Lade Gruppen…</string>
@@ -765,7 +765,7 @@ Grund: \"%s\"."</string>
   <string name="miprofile_nick_name_edit_dialog_hint">Spitzname eingeben</string>
   <string name="miprofile_nick_name_edit_dialog_message">Spitzname wird in Anrufliste und Detail angezeigt</string>
   <string name="miprofile_nick_name_edit_dialog_title">Spitznamen bearbeiten</string>
-  <string name="miprofile_notice_text">Tippen, um das Profilfoto anzuzeigen</string>  
+  <string name="miprofile_notice_text">Tippen, um das Profilfoto anzuzeigen</string>
   <string name="miprofile_request_agenda_date">Diese Person möchte die Kontaktkarten austauschen [%1$s]</string>
   <string name="miprofile_request_agenda_today">Diese Person möchte die Kontaktkarten austauschen [Heute %1$s]</string>
   <string name="miprofile_request_agenda_yesterday">Diese Person möchte die Kontaktkarten austauschen [Gestern %1$s]</string>
@@ -773,7 +773,7 @@ Grund: \"%s\"."</string>
   <string name="miprofile_request_agree_exchange_profile">Kontaktkarten ausgetauscht</string>
   <string name="miprofile_request_agreed">%1$s hat dem Austausch der Kontaktkarten zugestimmt</string>
   <string name="miprofile_request_alertdialog_message">Ihre Karte wird automatisch versandt, nachdem diese Person akzeptiert hat</string>
-  <string name="miprofile_request_alertdialog_title">Kontaktkarten austauschen</string>  
+  <string name="miprofile_request_alertdialog_title">Kontaktkarten austauschen</string>
   <string name="miprofile_request_deleted_or_not_added">Karte gelöscht oder nicht hinzugefügt</string>
   <string name="miprofile_request_empty_request">Keine Austauschanfragen</string>
   <string name="miprofile_request_header">Austauschanfragen (läuft automatisch nach einer Woche ab)</string>
@@ -1349,7 +1349,7 @@ Wählen Sie eine der folgenden Optionen:"</string>
   <string name="wipe_data">Daten löschen</string>
   <string name="yellowPageNavigationIconLabel">Gelbe Seiten</string>
   <string name="yellowPageNavigationLabel">Gelbe Seiten</string>
-    <string name="yellowpage_mi_family">Mi Familie</string>
+  <string name="yellowpage_mi_family">Mi Familie</string>
   <string name="yellowpage_navigation_ad_hint">Werbung</string>
   <string name="yellowpage_navigation_balance_refresh_failed">Guthaben und Daten konnten nicht überprüft werden, versuchen Sie später erneut.</string>
   <string name="yellowpage_navigation_balance_refresh_succeed">Guthaben und Daten wurden überprüft</string>

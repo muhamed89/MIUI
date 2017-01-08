@@ -151,7 +151,7 @@
   <string name="dialog_msg_load_cleanup_engine_error">Bereinigungsmodul fehlerhaft!</string>
   <string name="dialog_msg_stop_scan">"Möchten Sie die Bereinigung wirklich abbrechen?"</string>
   <string name="dialog_msg_uninstall_apps">Diese Apps entfernen?</string>
-    <string name="dialog_msg_uninstall_apps_xspace">Diese Apps (inklusive geklonte Apps) entfernen?</string>
+  <string name="dialog_msg_uninstall_apps_xspace">Diese Apps (inklusive geklonte Apps) entfernen?</string>
   <string name="dialog_ok_add_white_list_error">Verstanden</string>
   <string name="dialog_title_add_white_list_error">Achtung</string>
   <string name="dialog_title_backup_and_uninstall_apps">Sichern und entfernen</string>
@@ -264,7 +264,7 @@
   <string name="login_immediately">Anmelden</string>
   <string name="long_click_dialog_summary">Lange antippen, um zu den Ausnahmen hinzuzufügen.</string>
   <string name="long_click_dialog_title">Hinweis</string>
-    <string name="low_memory_clean_dialog_msg">Sie müssen vorher mindestens 100 MB Dateien bereinigen</string>
+  <string name="low_memory_clean_dialog_msg">Sie müssen vorher mindestens 100 MB Dateien bereinigen</string>
   <string name="low_memory_clean_dialog_ok_button">OK</string>
   <string name="low_memory_clean_dialog_title">Zu wenig freier Speicher</string>
   <string name="low_memory_warning_dialog_cancel_button">Abbrechen</string>
@@ -272,7 +272,7 @@
   <string name="low_memory_warning_dialog_ok_button">Los und bereinigen</string>
   <string name="low_memory_warning_dialog_title">Zu wenig freier Speicher</string>
   <string name="mainbtn_text_quick_cleanup">%s bereinigen</string>
-  <string name="mainbtn_text_quick_cleanup_default">Bereinigen</string>   
+  <string name="mainbtn_text_quick_cleanup_default">Bereinigen</string>
   <string name="memeory_check_content">%1$d Apps, Speicher %2$s</string>
   <string name="month_day_format">dd. MMM</string>
   <string name="msg_cleanup_db_update_checking">Suche Updates…</string>
@@ -364,7 +364,7 @@
   <string name="recommend_the_following">Führen Sie die folgenden Schritte aus, um mehr aus Ihrem Gerät zu holen</string>
   <string name="recommended">Empfohlen</string>
   <string name="safety_check_detail">%1$d Mal, %2$d Punkte verdient</string>
-  <string name="safety_rank">Sie sind %d%% MIUI Usern in puncto Sicherheit voraus</string>     
+  <string name="safety_rank">Sie sind %d%% MIUI Usern in puncto Sicherheit voraus</string>
   <string name="sc_allow_network_dialog_button">Erlauben</string>
   <string name="sc_allow_network_dialog_message">Dieser App den Empfang von Aktualisierungen über das Internet erlauben?</string>
   <string name="scanning">Überprüfen…</string>
@@ -406,7 +406,7 @@
   <string name="title_delete_deepclean">Löschen</string>
   <string name="title_delete_large_file">Diese Datei löschen?</string>
   <string name="title_of_app_manage">Apps</string>
-    <string name="title_of_auto_launch_manage">Autostart</string>
+  <string name="title_of_auto_launch_manage">Autostart</string>
   <string name="title_of_cloud_service">Cloudservices</string>
   <string name="title_of_garbage_cloud_scan">Cloud-Scan</string>
   <string name="title_of_garbage_data_set">Datenbankaktualisierung</string>
