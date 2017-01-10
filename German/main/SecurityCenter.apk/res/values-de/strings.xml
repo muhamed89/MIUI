@@ -135,7 +135,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="auto_atsk_condition_battery_level_text_down">Wenn der Akkustand %s erreicht</string>
   <string name="auto_atsk_condition_battery_level_text_up">Wenn der Akku zu %s geladen ist</string>
   <string name="auto_handle_title">ALLGEMEIN</string>
-  <string name="auto_task_condition_choose_battery_level_down">Wenn der Akkustand eine bestimmte Grenze erreicht</string>
+  <string name="auto_task_condition_choose_battery_level_down">Wenn der Akkustand diesen Wert erreicht</string>
   <string name="auto_task_condition_choose_battery_level_up">Wenn der Akku zu einem bestimmten Wert aufgeladen wurde</string>
   <string name="auto_task_condition_choose_end_time">Endzeit</string>
   <string name="auto_task_condition_choose_ontime">Timer</string>
