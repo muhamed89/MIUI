@@ -57,6 +57,7 @@ Falls das Gerät mehrere Nutzer hat, werden die Bedienungshilfen durch Verwendun
   <string name="accessibility_personal_account_title">Persönliches Konto - %s</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Ein/Aus-Taste beendet Anruf</string>
   <string name="accessibility_screen_magnification_enable">Vergrößerungsgesten</string>
+  <string name="accessibility_screen_magnification_short_summary">3 Mal tippen, um zu vergrößern</string>
   <string name="accessibility_screen_magnification_summary">"Wenn diese Funktion aktiviert ist, können Sie rein/rauszoomen, indem Sie drei Mal auf den Bildschirm tippen.
 
 Wenn Sie reingezoomt haben, können Sie:
@@ -79,7 +80,10 @@ Hinweis: 3-fach-Tippen f&amp;#252;r Vergr&amp;#246;&amp;#223;erung funktioniert 
   <string name="accessibility_sync_in_progress">Synchronisiert jetzt</string>
   <string name="accessibility_system_title">System</string>
   <string name="accessibility_toggle_high_text_contrast_preference_title">Text mit erhöhtem Kontrast</string>
+  <string name="accessibility_toggle_large_pointer_icon_title">Großer Mauszeiger</string>
   <string name="accessibility_toggle_large_text_preference_title">Großer Text</string>
+  <string name="accessibility_toggle_master_mono_summary">Kanäle bei der Wiedergabe von Audiodaten kombinieren</string>
+  <string name="accessibility_toggle_master_mono_title">Mono-Audio</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Vergrößerung bei Appübergängen aktualisieren</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Vergrößerung autom. aktualisieren</string>
   <string name="accessibility_toggle_screen_magnification_preference_title">Bildschirmvergrößerung</string>
@@ -102,6 +106,11 @@ Hinweis: 3-fach-Tippen f&amp;#252;r Vergr&amp;#246;&amp;#223;erung funktioniert 
   <string name="account_settings_title">Konten</string>
   <string name="account_summary">Google Konto, Mi Konto und andere Benutzerdaten sichern</string>
   <string name="account_sync_settings_title">Synchronisierung</string>
+  <string name="action_drag_label_move_bottom">Nach ganz unten</string>
+  <string name="action_drag_label_move_down">Nach unten</string>
+  <string name="action_drag_label_move_top">Nach ganz oben</string>
+  <string name="action_drag_label_move_up">Nach oben</string>
+  <string name="action_drag_label_remove">Sprache entfernen</string>
   <string name="activate_miui_screensaver">Bildschirmschoner</string>
   <string name="activating">Einschalten…</string>
   <string name="active_device_admin_msg">Geräteadministrator</string>
@@ -112,6 +121,7 @@ Hinweis: 3-fach-Tippen f&amp;#252;r Vergr&amp;#246;&amp;#223;erung funktioniert 
   <string name="adb_keys_warning_message">"Zugriff auf USB-Debugging von allen Computern, die Sie vorher autorisiert haben widerrufen?"</string>
   <string name="adb_warning_message">USB-Debugging ist nur für Entwicklungszwecke vorgesehen. Damit können Sie Daten zwischen Ihrem Computer und Ihrem Gerät kopieren, Apps auf Ihrem Gerät ohne Benachrichtigung installieren und Protokolldaten lesen.</string>
   <string name="adb_warning_title">USB-Debugging zulassen?</string>
+  <string name="add_a_language">Sprache hinzufügen</string>
   <string name="add_account_label">Konto hinzufügen</string>
   <string name="add_auto_startup_application">Autostartapps hinzufügen</string>
   <string name="add_device_admin">Aktivieren</string>
@@ -132,6 +142,7 @@ Stellen Sie sicher, dass Ihr Finger die Innenkante des Sensors bedeckt"</string>
   <string name="add_fingerprint_success_msg">Erfolgreich hinzugefügt</string>
   <string name="add_fingerprint_text">Fingerabdruck hinzufügen</string>
   <string name="add_fingerprint_toast_text">Legen Sie Ihren Finger jetzt auf den Scanner</string>
+  <string name="add_virtual_keyboard">Tastaturen verwalten</string>
   <string name="adding_profile_owner_warning">"Wenn Sie weiter vorgehen, wird Ihr Benutzerkonto von Ihrem Administrator verwaltet, der dann auch zugeordneten Daten neben Ihren persönlichen Daten speichern kann.
 
 Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu überwachen und verwalten, die mit diesem Benutzerkonto, einschließlich Netzwerkaktivität und Standortinformationen Ihres Geräts, verbunden sind."</string>
