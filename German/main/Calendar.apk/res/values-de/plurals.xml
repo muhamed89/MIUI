@@ -13,8 +13,8 @@
         <item quantity="one">Nach %1$d Tag um %2$s</item>
     </plurals>
     <plurals name="Ndays_ago">
-        <item quantity="other">%Vor 1$d Tagen um %2$s</item>
-        <item quantity="one">%Vor 1$d Tag um %2$s</item>
+        <item quantity="other">Vor 1$d Tagen um %2$s</item>
+        <item quantity="one">Vor 1$d Tag um %2$s</item>
     </plurals>
     <plurals name="Nmins">
         <item quantity="other">%d Min.</item>
