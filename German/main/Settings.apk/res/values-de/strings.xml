@@ -5,10 +5,32 @@
 Die Werbe-ID ist eine permanente, eindeutige ID für Ihr Gerät. Werbetreibende verwenden diese, um Ihnen auf Sie zugeschnittene Werbung anbieten zu können.
 
 Wenn Sie sich gegen personalisierte Werbung entscheiden, wird die Anzahl der Werbeeinblendungen nicht reduziert, aber die Anzahl an für Sie interessante Werbung wird deutlich sinken."</string>
+  <string name="abc_action_bar_home_description">Zum Haptbildschirm navigieren</string>
+  <string name="abc_action_bar_home_description_format" formatted="false">%1$s, %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format" formatted="false">%1$s, %2$s, %3$s</string>
+  <string name="abc_action_bar_up_description">Nach oben navigieren</string>
+  <string name="abc_action_menu_overflow_description">Mehr Optionen</string>
+  <string name="abc_action_mode_done">Fertig</string>
+  <string name="abc_activity_chooser_view_see_all">Alles sehen</string>
+  <string name="abc_activitychooserview_choose_application">Eine App auswählen</string>
+  <string name="abc_capital_off">AUS</string>
+  <string name="abc_capital_on">EIN</string>
+  <string name="abc_search_hint">Suchen…</string>
+  <string name="abc_searchview_description_clear">Löschen</string>
+  <string name="abc_searchview_description_query">Abfrage</string>
+  <string name="abc_searchview_description_search">Suchen</string>
+  <string name="abc_searchview_description_submit">Absenden</string>
+  <string name="abc_searchview_description_voice">Sprachsuche</string>
+  <string name="abc_shareactionprovider_share_with">Teilen</string>
+  <string name="abc_shareactionprovider_share_with_application">Teilen mit %s</string>
+  <string name="abc_toolbar_collapse_description">Einklappen</string>
   <string name="abort_backup_confirm">Sicherung ist noch nicht vollständig. Trotzdem beenden?</string>
+  <string name="abort_restore_confirm">Wiederherstellung ist noch nicht abgeschlossen. Trotzdem beenden?</string>
+  <string name="about_ad_service_instructions">Über Ad-Dienste und Datenschutz</string>
   <string name="about_phone_enter_xiaomi_net">Mi-Netz eingeben</string>
   <string name="about_settings">Über das Gerät</string>
   <string name="about_settings_summary">Rechtliche Hinweise, Status und Softwareversion anzeigen</string>
+  <string name="about_summary">Android %1$s</string>
   <string name="ac_enable_summary">Ein Passwort ist erforderlich, um die App zu öffnen</string>
   <string name="ac_enable_title">Apps sperren</string>
   <string name="ac_enter_applock">Appsperre eingeben</string>
@@ -27,6 +49,8 @@ Wenn Sie sich gegen personalisierte Werbung entscheiden, wird die Anzahl der Wer
   <string name="access_control_recording_intro_header">Zeichnen Sie ein Entsperrmuster:</string>
   <string name="access_control_reset_by_account">Um Ihr Passwort zurückzusetzen, melden Sie sich mit Ihrem Mi Konto an.</string>
   <string name="access_point_names">Zugangspunktnamen</string>
+  <string name="accessibility_autoclick_delay_preference_title">Vor dem Klicken verzögern</string>
+  <string name="accessibility_autoclick_preference_title">Klicken nachdem Zeiger sich nicht mehr bewegt</string>
   <string name="accessibility_captioning_title">Beschriftungen</string>
   <string name="accessibility_category_personal">Persönliche Profilkonten</string>
   <string name="accessibility_category_work">Arbeitsprofilkonten - %s</string>
@@ -163,6 +187,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="agps_roaming_dia_title">A-GPS bei Datenroaming verwenden</string>
   <string name="agps_roaming_summary">Die Verwendung von A-GPS bei Datenroaming kann zu erhöhten Kosten führen</string>
   <string name="airplane_mode">Flugmodus</string>
+  <string name="alarm_ringtone_title">Standardweckton</string>
   <string name="alarm_sound_dialog_title">Alarmton wählen</string>
   <string name="alarm_sound_title">Alarmton</string>
   <string name="alarm_volume_option_title">Alarmlautstärke</string>
@@ -193,6 +218,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="android_beam_tips">Stellen Sie sicher, dass sich die beiden Geräte berühren, und wählen Sie dann die Inhalte aus, die Sie senden möchten.</string>
   <string name="android_beam_witch_label">Android Beam einschalten</string>
   <string name="animator_duration_scale_title">Animationsgeschwindigkeit</string>
+  <string name="another_migration_already_in_progress">Eine andere Migration wird bereits ausgeführt.</string>
   <string name="anr_record_interval_title">Record ANR intervals</string>
   <string name="anti_spam">Blockliste</string>
   <string name="apn_auth_type">Authentifizierungstyp</string>
@@ -239,6 +265,9 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
  Möchten Sie es wirklich einschalten?"</string>
   <string name="app_forget_pattern">&lt;u&gt;Muster vergessen?&lt;/u&gt;</string>
   <string name="app_forward_locked">Diese App ist kopiergeschützt.</string>
+  <string name="app_install_details_group_title">Market</string>
+  <string name="app_install_details_summary">App wurde aus %1$s installiert</string>
+  <string name="app_install_details_title">Appdetails</string>
   <string name="app_install_location_summary">Bevorzugten Installationspfad für neue Apps ändern</string>
   <string name="app_install_location_title">Bevorzugter Installationspfad</string>
   <string name="app_invisible">Unsichtbare Apps</string>
@@ -260,6 +289,9 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="app_not_supported_in_limited">Diese App wird in eingeschränkten Profilen nicht unterstützt.</string>
   <string name="app_notification_block_summary">Benachrichtigungen für diese App niemals anzeigen</string>
   <string name="app_notification_block_title">Blockieren</string>
+  <string name="app_notification_importance_title">Wichtigkeit</string>
+  <string name="app_notification_override_dnd_summary">Diese Benachrichtigungen werden weiterhin unterbrochen, wenn "Nicht stören" Vorrang hat</string>
+  <string name="app_notification_override_dnd_title"> Über "Nicht stören" hinwegsetzen</string>
   <string name="app_notification_peekable_summary">Dieser App erlauben, bestimmte Benachrichtigungen kurz am aktuellen Bildschirm einzublenden</string>
   <string name="app_notification_peekable_title">Vorschau erlauben</string>
   <string name="app_notification_preferences">Appeinstellungen</string>
@@ -270,10 +302,12 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="app_notification_row_sensitive">Sensibel</string>
   <string name="app_notification_sensitive_summary">"Wenn das Gerät gesperrt ist, verstecke keine sensiblen Inhalte von den Benachrichtigungen dieser App."</string>
   <string name="app_notification_sensitive_title">Sensibel</string>
+  <string name="app_notification_visibility_override_title">Auf dem Sperrbildschirm</string>
   <string name="app_notifications_dialog_done">Fertig</string>
   <string name="app_notifications_switch_label">Benachrichtigungen</string>
   <string name="app_notifications_title">App Benachrichtigungen</string>
   <string name="app_ops_never_used">(Nie verwendet)</string>
+  <string name="app_ops_permiss_name">App Netzwerkzugriff</string>
   <string name="app_ops_running">Aktiv</string>
   <string name="app_ops_settings">App-Vorgänge</string>
   <string name="app_ops_settings_summary">Zeige oder ändere App-Berechtigungen</string>
@@ -309,6 +343,8 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="approve_title">Überprüfung</string>
   <string name="apps_and_data_item_desc">Apps und Daten</string>
   <string name="apps_storage">App Speicher</string>
+  <string name="apps_summary">%1$d Apps wurden installiert</string>
+  <string name="apps_summary_example">24 Apps wurden installiert</string>
   <string name="apps_with_restrictions_header">Apps mit Einschränkungen</string>
   <string name="apps_with_restrictions_settings_button">Appeinstellungen erweitern</string>
   <string name="ask_compatibility">Beim Start fragen</string>
@@ -373,11 +409,14 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="automatic_brightness">Automatische Helligkeit</string>
   <string name="available_size">%s verfügbar</string>
   <string name="available_via_passpoint">Verfügbar via %1$s</string>
+  <string name="available_virtual_keyboard_category">Verfügbare virtuelle Tastatur</string>
   <string name="average_memory_use">Durchschnittliche Speichernutzung</string>
   <string name="average_used">Durchschnittlich verwendet (%)</string>
   <string name="avoid_ui">UI vermeiden</string>
   <string name="awake">Aktive Zeit des Geräts</string>
   <string name="back_key">Zurück</string>
+  <string name="background_check_pref">Hintergrundprüfung</string>
+  <string name="background_check_title">Voller Hintergrundzugriff</string>
   <string name="background_data">Hintergrunddaten</string>
   <string name="background_data_dialog_message">Durch das Ausschalten von Hintergrunddaten kann die Akkulaufzeit verlängert und die Verwendung von Daten verringert werden. Einige Apps nutzen die Hintergrunddatenverbindung eventuell weiterhin.</string>
   <string name="background_data_dialog_title">Hintergrunddaten ausschalten?</string>
@@ -389,6 +428,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="background_location_requests_title">Standortlokalisierung im Hintergrund zulassen</string>
   <string name="background_location_select_apps">Alle auswählen</string>
   <string name="background_process_stop_description">Hierbei handelt es sich um einen alten Appprozess, der für den Fall, dass er wieder benötigt wird, beibehalten wird. Normalerweise gibt es keinen Grund ihn zu beenden.</string>
+  <string name="backtouch_enable_title">Lautstärke auf der Rückseite anpassen</string>
   <string name="backup">Sicherung</string>
   <string name="backup_configure_account_default_summary">Zurzeit werden in keinem Konto gesicherte Daten gespeichert</string>
   <string name="backup_configure_account_title">Konto sichern</string>
@@ -396,6 +436,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="backup_data_summary">Appdaten, WLAN-Passwörter und andere Einstellungen auf Google-Servern sichern</string>
   <string name="backup_data_title">Meine Daten sichern</string>
   <string name="backup_delete">Löschen:</string>
+  <string name="backup_disabled">Sicherung deaktiviert</string>
   <string name="backup_empty">Keine Sicherungen</string>
   <string name="backup_empty_info"> Sichern Sie Ihre Daten, Einstellungen und Apps</string>
   <string name="backup_empty_info_onpad"> Sichern Sie Ihre Daten, Einstellungen und Apps</string>
@@ -475,9 +516,12 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="battery_info_scale_label">Akkuanzeige:</string>
   <string name="battery_info_screen_on">Bildschirm an:</string>
   <string name="battery_info_status_charging">Wird geladen</string>
-  <string name="battery_info_status_charging_ac">Wird über AC geladen</string>
-  <string name="battery_info_status_charging_usb">Wird über USB geladen</string>
-  <string name="battery_info_status_charging_wireless">Wird drahtlos geladen</string>
+  <string name="battery_info_status_charging_ac">Wird über AC aufgeladen</string>
+  <string name="battery_info_status_charging_ac_short">Wird aufgeladen</string>
+  <string name="battery_info_status_charging_usb">Wird über USB aufgeladen</string>
+  <string name="battery_info_status_charging_usb_short">Wird aufgeladen</string>
+  <string name="battery_info_status_charging_wireless">Wird drahtlos aufgeladen</string>
+  <string name="battery_info_status_charging_wireless_short">Wird aufgeladen</string>
   <string name="battery_info_status_discharging">Entlädt</string>
   <string name="battery_info_status_full">Voll</string>
   <string name="battery_info_status_label">Akkustatus:</string>
@@ -493,6 +537,10 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="battery_light_title">Ladekontrollleuchte</string>
   <string name="battery_msg_unaccounted">Der Akkuverbrauch ist eine Näherung von Stromverbrauch und enthält nicht jede Quelle von Batterieentladung. Sonstiges ist die Differenz von dem berechneten ungefähren Stromverbrauch und der eigentlichen beobachteten Entladung der Batterie.</string>
   <string name="battery_saver">Battery Saver</string>
+  <string name="battery_saver_desc_turn_on_auto_never">Nie automatisch einschalten</string>
+  <string name="battery_saver_desc_turn_on_auto_pct">Automatisch bei %1$s Akkustand einschalten</string>
+  <string name="battery_saver_off_summary">Aus / %1$s</string>
+  <string name="battery_saver_on_summary">An / %1$s</string>
   <string name="battery_saver_turn_on_automatically_never">Nie</string>
   <string name="battery_saver_turn_on_automatically_pct">bei %1$d%% an Akku</string>
   <string name="battery_saver_turn_on_automatically_title">Automatisch aktivieren</string>
@@ -521,6 +569,9 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="battery_sugg_wifi">WLAN bei Nichtverwendung oder Nichtverfügbarkeit ausschalten</string>
   <string name="battery_summary">%1$d%% verwendet seit der letzten vollen Ladung</string>
   <string name="bearer">Eigentümer</string>
+  <string name="billing_cycle">Abrechnungszeitraum</string>
+  <string name="billing_cycle_fragment_summary">Monatilich am %1$s anfangen</string>
+  <string name="billing_cycle_summary">Monatlicher Zeitraum fängt am %1$s jedes Monats an</string>
   <string name="bind_xiaomi_account_cancel">Abbrechen</string>
   <string name="bind_xiaomi_account_confirm">Hinzufügen</string>
   <string name="bind_xiaomi_account_dialog_summery">Sie sind dabei, das Mi Konto %s hinzuzufügen. Falls Sie Ihr Passwort vergessen, können Sie dieses Konto verwenden, um es zurückzusetzen.</string>
@@ -590,8 +641,11 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="bluetooth_device_name">Name:</string>
   <string name="bluetooth_device_searchable">Sichtbarkeit</string>
   <string name="bluetooth_devices">Bluetoothgeräte</string>
+  <string name="bluetooth_disable_absolute_volume">Absolute Lautstärke deaktivieren</string>
+  <string name="bluetooth_disable_absolute_volume_summary">Absolute Lautstärke über Bluetooth wird bei Problemen mit entfernten Geräten deaktiviert (z.B. bei unertragbaren Lautstärke oder Steuerungsproblemen).</string>
   <string name="bluetooth_disable_profile_message">Ausgeschaltet: %1$s Von: %2$s</string>
   <string name="bluetooth_disable_profile_title">Profil ausschalten?</string>
+  <string name="bluetooth_disabled">Deaktiviert</string>
   <string name="bluetooth_disconnect_a2dp_profile">%1$s wird von Audiogerät getrennt.</string>
   <string name="bluetooth_disconnect_all_profiles">Dies beendet Ihre Verbindung mit %1$s</string>
   <string name="bluetooth_disconnect_headset_profile">%1$s wird von der Freisprecheinrichtung getrennt.</string>
@@ -706,6 +760,13 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="bluetooth_searching_for_devices">Suche läuft...</string>
   <string name="bluetooth_settings_summary">Verbindungen, Gerätenamen und Erkennbarkeit verwalten</string>
   <string name="bluetooth_show_received_files">Empfangene Dateien anzeigen</string>
+  <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
+  <string name="bluetooth_talkback_computer">Computer</string>
+  <string name="bluetooth_talkback_headphone">Kopfhörer</string>
+  <string name="bluetooth_talkback_headset">Headset</string>
+  <string name="bluetooth_talkback_imaging">Imaging</string>
+  <string name="bluetooth_talkback_input_peripheral">Eingabeperipherie</string>
+  <string name="bluetooth_talkback_phone">Telefon</string>
   <string name="bluetooth_tether_checkbox_text">Bluetoothtethering</string>
   <string name="bluetooth_tethering_available_subtext">Internetverbindung dieses Telefons freigegeben</string>
   <string name="bluetooth_tethering_device_connected_subtext">Internetverbindung dieses Telefons für ein Gerät freigegeben</string>
@@ -791,7 +852,9 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="builtin_keyboard_settings_title">Hardwaretastatur</string>
   <string name="button_backup">Sicherung</string>
   <string name="button_cancel">Abbrechen</string>
+  <string name="button_confirm_convert_fbe">Konvertieren</string>
   <string name="button_continue">Fortsetzen</string>
+  <string name="button_convert_fbe">Konvertieren…</string>
   <string name="button_disconnect_network">Netzwerk trennen</string>
   <string name="button_finish">Beenden</string>
   <string name="button_light_timeout">Tastenbeleuchtung bleibt an für</string>
@@ -821,6 +884,10 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="call_settings_title">Anrufeinstellungen</string>
   <string name="call_title">Gesprächsverlauf</string>
   <string name="calls_title">Anrufe</string>
+    <string name="camera_double_tap_power_gesture_desc">Kamera schnell öffnen ohne Ihr Bildschirm zu entsperren</string>
+    <string name="camera_double_tap_power_gesture_title">Einschalttaste zweimal betätigen, um die Kamera zu starten</string>
+    <string name="camera_gesture_desc">Kamera-App durch zweifache Drehen des Handgelenkes öffnen</string>
+    <string name="camera_gesture_title">Doppeldrehung, um Kamera zu starten</string>
   <string name="camera_key_action_app_title">App öffnen</string>
   <string name="camera_key_action_category_title">"Kamera kann nicht verwendet werden"</string>
   <string name="camera_key_action_none_title">Keine Aktion</string>
