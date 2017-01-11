@@ -72,8 +72,6 @@
   <string name="call_home">Anruf (Privat)</string>
   <string name="call_isdn">ISDN-Nummer anrufen</string>
   <string name="call_left">Guthaben</string>
-  <string name="call_log_empty_gecode">-</string>
-  <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
   <string name="call_log_new_header">Neu</string>
   <string name="call_log_old_header">Älter</string>
   <string name="call_main">Hauptnummer anrufen</string>
@@ -91,7 +89,6 @@
   <string name="call_sim2_menu_title">Mit SIM 2 anrufen</string>
   <string name="call_telex">Telex anrufen</string>
   <string name="call_tty_tdd">TTY/TDD anrufen</string>
-  <string name="call_type_and_date">%1$s %2$s</string>
   <string name="call_unit">USD</string>
   <string name="call_work">Anruf (geschäftl.)</string>
   <string name="call_work_mobile">Anruf Mobiltelefon (geschäftlich)</string>
@@ -180,18 +177,9 @@
   <string name="cloud_state_loading">Bitte warten…</string>
   <string name="cloud_state_sync_finished">Synchronisieren mit Mi Cloud</string>
   <string name="cloud_state_syncing">Mit Mi Cloud synchronisiert</string>
-  <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
-  <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
-%2$s"</string>
   <string name="composer_failed_to_get_database_infomation">Abrufen der Datenbankinformationen nicht möglich</string>
   <string name="composer_has_no_exportable_contact">Es sind keine exportierbaren Kontakte vorhanden. Falls sich Kontakte auf Ihrem Telefon befinden, ist das Exportieren der Kontakte möglicherweise durch den Datenanbieter gesperrt.</string>
   <string name="composer_not_initialized">Programm zum Erstellen der vCard wurde nicht richtig ausgeführt</string>
-  <string name="config_export_dir">/mnt/sdcard</string>
-  <string name="config_export_extensions_to_consider"/>
-  <string name="config_export_file_extension">vcf</string>
-  <string name="config_export_file_prefix"/>
-  <string name="config_export_file_suffix"/>
-  <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">Anruflisten löschen?</string>
   <string name="confirm_delete_selected_all_call_logs">Anruflisten löschen?</string>
   <string name="confirm_delete_sim_entry_miui_title">SIM-Karte löschen</string>
@@ -282,6 +270,7 @@ Kontaktkarten sind ausgeschaltet.</string>
   <string name="date_picker_label">3 Tage vorher und an dem Tag erinnern</string>
   <string name="date_time_set">Speichern</string>
   <string name="date_year_toggle">Jahr angeben</string>
+  <string name="day_following_good_friday">Karsamstag</string>
   <string name="default_ringtone">Standardklingelton</string>
   <string name="deleteConfirmation">Dieser Kontakt wird gelöscht</string>
   <string name="deleteConfirmationDetail">\"%s\" löschen?</string>
@@ -398,6 +387,9 @@ Kontaktkarten sind ausgeschaltet.</string>
   <string name="dialer_menu_title">Optionen</string>
   <string name="dialer_returnToInCallScreen">Zurück zum aktuellen Gespräch</string>
   <string name="dialer_useDtmfDialpad">Tonwahltastatur verwenden</string>
+  <string name="dialog_device_info_hardware_version">Hardwareversion: %s</string>
+  <string name="dialog_device_info_miui_version">MIUI Version: %s</string>
+  <string name="dialog_device_info_title">Versioninfo</string>
   <string name="dialog_import">Kontakte importieren</string>
   <string name="dialog_import_export">Kontakte importieren/exportieren</string>
   <string name="dialog_new_contact_account">Neuen Kontakt erstellen unter</string>
@@ -410,6 +402,9 @@ Kontaktkarten sind ausgeschaltet.</string>
   <string name="dirty_contacts_notification_description">%d Änderungen wurden nicht mit Ihrem Mi Konto synchronisiert.</string>
   <string name="dirty_contacts_notification_message">Die Erinnerung kann jederzeit in den Einstellungen ausgeschaltet werden.</string>
   <string name="dirty_contacts_notification_title">Kontakte synchronisieren?</string>
+  <string name="disclaimer_text">"Gelbe Seiten bekommen Informationen über Ihr Guthaben per SMS. Ihr Mobilfunkbetreiber kann diese Informationen mit einer Verzögerung aktualisieren, so dass die Zahlen, die Sie erhalten, möglicherweise nicht korrekt sind. Die Fehler können Sie per SMS melden, um  dieses Service zu verbessern.
+Die Guthabeninformationen werden einmal täglich aktualisiert, um die Anzahl der Abfragen zu reduzieren."</string>
+  <string name="disclaimer_title">Disclaimer</string>
   <string name="display_all_contacts">Alle Kontakte</string>
   <string name="display_more_groups">Weitere Gruppen…</string>
   <string name="display_only_phones">Nur Kontakte mit Telefonnummer</string>
@@ -423,6 +418,7 @@ Kontaktkarten sind ausgeschaltet.</string>
   <string name="display_ungrouped">Alle anderen Kontakte</string>
   <string name="display_warn_remove_ungrouped">Wenn \"%s\" aus der Synchronisation entfernt wird, werden auch alle nicht gruppierten Kontakte aus der Synchronisation entfernt</string>
   <string name="duplicate_group_name">Gruppe ist bereits vorhanden</string>
+  <string name="easter">Ostern</string>
   <string name="editContactDescription">Kontakt bearbeiten</string>
   <string name="editContactNameExpandCloseDescription">Weniger</string>
   <string name="editContactNameExpandOpenDescription">Mehr</string>
@@ -492,13 +488,13 @@ Grund: \"%s\"."</string>
   <string name="frequency_three_days">Alle 3 Tage</string>
   <string name="frequency_weekly">Jede Woche</string>
   <string name="frequentList">Häufig</string>
-  <string name="from_account_format">%1$s</string>
   <string name="full_name">Name</string>
   <string name="gallery">Galerie</string>
   <string name="generic_no_account_prompt">Schützen Sie Ihre Kontakte bei Verlust des Telefons: Synchronisieren Sie Ihre Kontakte mit einem Onlinedienst.</string>
   <string name="generic_no_account_prompt_title">Konto hinzufügen</string>
   <string name="ghostData_company">Firma</string>
   <string name="ghostData_title">Titel</string>
+  <string name="good_friday">Karfreitag</string>
   <string name="groupSavedErrorToast">Gruppenänderungen konnten nicht gespeichert werden</string>
   <string name="groupSavedToast">Gruppe gespeichert</string>
   <string name="group_add_fail_toast">Kontakte konnten nicht hinzugefügt werden</string>
@@ -526,9 +522,6 @@ Grund: \"%s\"."</string>
   <string name="groupsLabel">Gruppen</string>
   <string name="groups_list_empty">Keine Gruppen</string>
   <string name="heavy_snow">Schneefall</string>
-  <string name="help_url_people_add"/>
-  <string name="help_url_people_edit"/>
-  <string name="help_url_people_main"/>
   <string name="hint_distance"/>
   <string name="hint_findContacts">Kontakte suchen</string>
   <string name="hint_more_contact">Doppelte Kontakte zusammenführen</string>
@@ -562,7 +555,6 @@ Grund: \"%s\"."</string>
   <string name="import_multiple_vcard_string">Mehrere vCard-Dateien importieren</string>
   <string name="import_name">Name</string>
   <string name="import_one_vcard_string">1 vCard-Datei importieren</string>
-  <string name="import_percent">0%</string>
   <string name="import_selected_sim_entries_miui">Ausgewählte Kontakte importieren</string>
   <string name="import_sim_entries_finish">Kontakte von SIM-Karte importiert</string>
   <string name="import_sim_entry_miui">Importieren</string>
@@ -621,13 +613,13 @@ Grund: \"%s\"."</string>
   <string name="in_call_show_view_play_error">Es ist ein Fehler beim Abspielen des Videos aufgetreten. Versuchen Sie es erneut.</string>
   <string name="insertContactDescription">Kontakt erstellen</string>
   <string name="insertGroupDescription">Gruppe erstellen</string>
+  <string name="international_womens_day">Tag der Frau</string>
   <string name="invalidContactMessage">Kontakt nicht vorhanden</string>
   <string name="invalid_contacts_excluded_to_save_to_group">Nur Einträge mit Kontaktdaten werden in der Gruppe gespeichert</string>
   <string name="invalid_contacts_to_save_to_group">Unbekannte Nummer kann nicht gespeichert werden</string>
   <string name="keep_local">Lokal speichern</string>
   <string name="keep_local_btn">Internen Telefonspeicher benutzen</string>
   <string name="label_custom_type">Benutzerdefiniert</string>
-  <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">Keine Duplikate gefunden</string>
   <string name="label_notes">Notizen</string>
   <string name="label_sip_address">VoIP-Anruf</string>
@@ -662,6 +654,7 @@ Grund: \"%s\"."</string>
   <string name="locale_change_in_progress">Kontaktliste wird an die geänderte Sprache angepasst</string>
   <string name="login_before_recharging">Sie müssen sich anmelden, um Aufladen zu können.</string>
   <string name="login_ok">Anmelden</string>
+  <string name="low_memory_toast">Nicht genügend Speicherplatz.</string>
   <string name="lunarBirthdayLabelsGroup">Geburtstag</string>
   <string name="lunar_calendar">Mondkalender</string>
   <string name="lunar_leap">Einschiebung</string>
@@ -952,12 +945,9 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="path_wipe_data">Systemanwendungen/Kontakte/Kontaktoptionen/Daten löschen</string>
   <string name="payphone">Telefonzelle</string>
   <string name="people">Kontakte</string>
-  <string name="percent_sign">%</string>
-  <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Telefon</string>
   <string name="phone_call_type_livetalk">LiveTalk</string>
   <string name="phone_call_type_voip">Mi Voice</string>
-  <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_number_too_long_toast">Nummer ist zu lang</string>
   <string name="phone_primary">Primär</string>
   <string name="photoPickerNotFoundText">Auf dem Telefon sind keine Bilder verfügbar</string>
@@ -1053,6 +1043,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="profile_display_name">Mein Profil einrichten</string>
   <string name="profile_name">Mein Profil</string>
   <string name="profile_name_photo">Ich</string>
+  <string name="progress_notifier_message" formatted="false">Importiere %s/%s: %s</string>
   <string name="public_account_name">Öffentliches Konto</string>
   <string name="pull_to_refresh_pull_label">Zum Aktualisieren ziehen…</string>
   <string name="pull_to_refresh_refreshing_label">Lade…</string>
@@ -1108,9 +1099,9 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="remove_duplicate">"MIUI hilft Ihnen identische Kontakte zu finden.
 
  Drücken Sie auf Zusammenführen, um zu beginnen."</string>
+  <string name="report_inquiry_mms">Bericht-SMS</string>
   <string name="restore_nickname">Wiederherstellen</string>
-  <string name="ret_sign">"
-"</string>
+  <string name="retrocession_day">Tag der Befreiung</string>
   <string name="returnCall">Rückruf</string>
   <string name="ringLabelsGroup">Klingelton</string>
   <string name="save_photo_progress">Bild wird gespeichert…</string>
@@ -1203,7 +1194,6 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="sim_export_loading">Lese SIM-Karte…</string>
   <string name="sim_indexed_contact_not_exist">Position %1$d auf der SIM-Karte ist ungültig. Sie muss zwischen %2$d und %3$d liegen.</string>
   <string name="sim_no_contact">Keine Kontakte auf der SIM-Karte</string>
-  <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">Keine Gruppenkontakte</string>
   <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
   <string name="smart_group_company_label">Nach Firma</string>
@@ -1345,10 +1335,10 @@ Wählen Sie eine der folgenden Optionen:"</string>
   <string name="voip_shortcut_name">Mi Voice</string>
   <string name="voip_video_description">VoIP-Videoanruf</string>
   <string name="websiteLabelsGroup">Webseite</string>
-  <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Daten löschen</string>
   <string name="yellowPageNavigationIconLabel">Gelbe Seiten</string>
   <string name="yellowPageNavigationLabel">Gelbe Seiten</string>
+    <string name="yellowpage_fc_toast">Konnte nicht weiter verwenden, da Gelbe Seiten abstürzten.</string>
   <string name="yellowpage_mi_family">Mi Familie</string>
   <string name="yellowpage_navigation_ad_hint">Werbung</string>
   <string name="yellowpage_navigation_balance_refresh_failed">Guthaben und Daten konnten nicht überprüft werden, versuchen Sie später erneut.</string>

@@ -5,7 +5,7 @@
 Die Werbe-ID ist eine permanente, eindeutige ID für Ihr Gerät. Werbetreibende verwenden diese, um Ihnen auf Sie zugeschnittene Werbung anbieten zu können.
 
 Wenn Sie sich gegen personalisierte Werbung entscheiden, wird die Anzahl der Werbeeinblendungen nicht reduziert, aber die Anzahl an für Sie interessante Werbung wird deutlich sinken."</string>
-  <string name="abc_action_bar_home_description">Zum Haptbildschirm navigieren</string>
+  <string name="abc_action_bar_home_description">Zum Hauptbildschirm navigieren</string>
   <string name="abc_action_bar_home_description_format" formatted="false">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format" formatted="false">%1$s, %2$s, %3$s</string>
   <string name="abc_action_bar_up_description">Nach oben navigieren</string>
