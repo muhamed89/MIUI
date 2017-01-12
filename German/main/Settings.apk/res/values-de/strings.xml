@@ -948,6 +948,7 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="change_password">Bildschirmsperre ändern</string>
   <string name="change_security_lock">Andere Entsperrmethoden</string>
   <string name="change_storage">Speicher tauschen</string>
+  <string name="charge_length_format">vor %1$s</string>
   <string name="charging_sounds_title">Ladetöne</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
   <string name="check_update">Updates suchen</string>
@@ -964,6 +965,7 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="choose_assist_title">Assistenten auswählen</string>
   <string name="choose_profile">Profil auswählen</string>
   <string name="choose_smartcover_type">Smartcovertyp auswählen</string>
+  <string name="choose_spell_checker">Rechtschreibprüfung auswählen</string>
   <string name="choose_timezone">Zeitzone wählen</string>
   <string name="choose_voice_input_title">Spracheingabe auswählen</string>
   <string name="cleaner">Bereinigung</string>
@@ -976,6 +978,7 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="clear_data_failed">Appdaten können nicht gelöscht werden.</string>
   <string name="clear_failed_dlg_text">Appdaten können nicht gelöscht werden.</string>
   <string name="clear_failed_dlg_title">Daten löschen</string>
+  <string name="clear_uri_btn_text">Zugriff löschen</string>
   <string name="clear_user_data_text">Daten löschen</string>
   <string name="click_to_view">Zum Anzeigen antippen</string>
   <string name="close_dialog">OK</string>
@@ -1002,6 +1005,8 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="cmcc_dm_settings_enable_summary">Autostart aktivieren</string>
   <string name="cmcc_dm_settings_title">Gerätemanagement Berechtigungen</string>
   <string name="cmcc_hardware_version">Hardwareversion</string>
+  <string name="collect_diagnostics_summary">Diagnosedaten für die Fehlersuche sammeln</string>
+  <string name="collect_diagnostics_title">Diagnosedaten sammeln</string>
   <string name="color_black">Schwarz</string>
   <string name="color_blue">Blau</string>
   <string name="color_calibration_none">Nativ</string>
