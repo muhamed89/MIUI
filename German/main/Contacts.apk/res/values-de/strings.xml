@@ -389,7 +389,7 @@ Kontaktkarten sind ausgeschaltet.</string>
   <string name="dialer_useDtmfDialpad">Tonwahltastatur verwenden</string>
   <string name="dialog_device_info_hardware_version">Hardwareversion: %s</string>
   <string name="dialog_device_info_miui_version">MIUI Version: %s</string>
-  <string name="dialog_device_info_title">Versioninfo</string>
+  <string name="dialog_device_info_title">Versionsinfo</string>
   <string name="dialog_import">Kontakte importieren</string>
   <string name="dialog_import_export">Kontakte importieren/exportieren</string>
   <string name="dialog_new_contact_account">Neuen Kontakt erstellen unter</string>
