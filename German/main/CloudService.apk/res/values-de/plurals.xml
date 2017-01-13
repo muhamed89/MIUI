@@ -54,6 +54,6 @@
     </plurals>
     <plurals name="sync_items_close">
         <item quantity="other">%d sind ausgeschaltet</item>
-        <item quantity="one">%d ist ausgeschalget</item>
+        <item quantity="one">%d ist ausgeschaltet</item>
     </plurals>
 </resources>
