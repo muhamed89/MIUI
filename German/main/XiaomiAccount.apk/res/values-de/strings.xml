@@ -308,7 +308,7 @@
   <string name="passport_find_device_activate_account">Konto aktivieren</string>
   <string name="passport_find_device_display_id">Nummer freischalten:%s</string>
   <string name="passport_find_password_on_web_msg">Besuchen Sie mi.com, um Ihr Passwort zurückzusetzen</string>
-  <string name="passport_forget_password">&lt;u&gt;Passwort vergessen&lt;/u&gt;</string>
+  <string name="passport_forget_password">Passwort vergessen</string>
   <string name="passport_forget_password_no_underline">Passwort vergessen</string>
   <string name="passport_get_back_pwd">Kontopasswort abrufen</string>
   <string name="passport_get_verify_code">Code abrufen</string>
@@ -338,8 +338,8 @@
   <string name="passport_login_prompt">Ein Mi Konto. Alle Mi Services.</string>
   <string name="passport_login_short">Anmelden</string>
   <string name="passport_login_title">Mit Mi Konto anmelden</string>
-  <string name="passport_login_using_other_ways">&lt;u&gt;Andere Anmeldem&amp;#246;glichkeiten&lt;/u&gt;</string>
-  <string name="passport_login_with_email_or_id">&lt;u&gt;Mit E-Mailadresse oder Mi Konto ID anmelden&lt;/u&gt;</string>
+  <string name="passport_login_using_other_ways">Andere Anmeldemöglichkeiten</string>
+  <string name="passport_login_with_email_or_id">Mit E-Mailadresse oder Mi Konto ID anmelden</string>
   <string name="passport_message_dialog_title">SMS mit Überprüfungscodes</string>
   <string name="passport_miui_provision_find_status_text">Dieses Gerät ist mit einem vorhandenen Mi Konto （%1$s） verbunden, geben Sie das Kennwort ein, um das Gerät zu entsperren.
 	(Entsperrnummer: %2$s)</string>
@@ -367,17 +367,17 @@
   <string name="passport_reg_success">Konto erstellt</string>
   <string name="passport_reg_success_summary">%1$s wurde mit dem Konto verknüpft. Sie können es verwenden um sich anzumelden oder Ihr Passwort zu ändern.</string>
   <string name="passport_reg_type_email">Konto über E-Mail erstellen</string>
-  <string name="passport_reg_type_other_ways">&lt;u&gt;Konto &amp;#252;ber andere Methode erstellen&lt;/u&gt;</string>
+  <string name="passport_reg_type_other_ways">&lt;u&gt;Konto Über andere Methode erstellen&lt;/u&gt;</string>
   <string name="passport_reg_type_other_ways_title">Mi Konto erstellen</string>
-  <string name="passport_reg_using_other_phone">&lt;u&gt;Andere Telefonnummer verwenden&lt;/u&gt;</string>
+  <string name="passport_reg_using_other_phone">Andere Telefonnummer verwenden</string>
   <string name="passport_reg_using_other_phone_number_prompt">Mit anderer Telefonnummer registrieren</string>
   <string name="passport_reg_using_phone_number_prompt">Mit Telefonnummer registrieren</string>
-  <string name="passport_reg_via_sms_alert">Für die Versendung der SMS entstehen Ihnen möglicherweise Gebühren</string>
+  <string name="passport_reg_via_sms_alert">Für das SMS-Versenden könnten Gebühren entstehen</string>
   <string name="passport_reging">Konto erstellen…</string>
   <string name="passport_register">Konto erstellen</string>
   <string name="passport_register_account_goto_email">Sehen Sie in Ihr Postfach</string>
   <string name="passport_register_account_verified_confirm">Ihr Konto wurde bereits bestätigt</string>
-  <string name="passport_register_by_email">&lt;u&gt;Konto &amp;#252;ber E-Mailadresse erstellen&lt;/u&gt;</string>
+  <string name="passport_register_by_email">&lt;u&gt;Konto &amp;Über E-Mailadresse erstellen&lt;/u&gt;</string>
   <string name="passport_register_restricted">Es sind zu viele Konten mit dieser Nummer verbunden. Versuchen Sie eine andere.</string>
   <string name="passport_register_restricted_title">Diese Telefonnummer kann ich nicht verwendet werden</string>
   <string name="passport_registered_phone_user_ID">Benutzer-ID:%s</string>
@@ -423,7 +423,7 @@
   <string name="passport_verification_failed">Bestätigung fehlgeschlagen</string>
   <string name="passport_verify">Bestätigen</string>
   <string name="passport_wait_for_sms_prompt">"Jetzt erstellen? Die Bestätigungsnachricht kann bis zu 10 Minuten verzögert eintreffen, wenn sich das Gerät außerhalb eines unterstützten Mobilfunknetzes befindet."</string>
-  <string name="passport_welcome_skip_login">&lt;u&gt;&amp;#220;berspringen&lt;/u&gt;</string>
+  <string name="passport_welcome_skip_login">Überspringen</string>
   <string name="passport_wrong_captcha">Der eingegebene Code ist falsch</string>
   <string name="passport_wrong_password">Das Passwort ist falsch</string>
   <string name="passport_wrong_phone_number_format">Das Format der eingegebenen Mobilrufnummer ist ungültig</string>
@@ -440,7 +440,7 @@
   <string name="photoPickerNotFoundText">Keine Bilder verfügbar.</string>
   <string name="prev">Zurück</string>
   <string name="privacy_policy">Datenschutzerklärung</string>
-  <string name="provision_skip_login">&lt;u&gt;&amp;#220;berspringen&lt;/u&gt;</string>
+  <string name="provision_skip_login">Überspringen</string>
   <string name="qq">QQ</string>
   <string name="quick_login_dialog_step2_title">2-Schrittverifizierung</string>
   <string name="quick_login_dialog_title">Passwort verifizieren</string>
