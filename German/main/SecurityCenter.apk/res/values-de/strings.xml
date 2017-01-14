@@ -738,7 +738,7 @@ Peak: %1$s%2$s verbleibend | %3$s verbraucht"</string>
   <string name="main_traffic_used_text">verbraucht</string>
   <string name="manual_handle_title">VERFÜGBARE FUNKTIONEN</string>
   <string name="manual_input_free_traffic">Datenlimit außerhalb der Hauptzeit festlegen</string>
-  <string name="manual_input_traffic">Datenlimit festlegen</string>
+  <string name="manual_input_traffic">Bisherigen Datenverbrauch manuell eingeben</string>
   <string name="manual_item_white_list_summary">Ausgewählte Apps werden nicht optimiert</string>
   <string name="manual_item_white_list_title">Ausnahmen</string>
   <string name="manual_white_list_header">%d Ausnahmen</string>
