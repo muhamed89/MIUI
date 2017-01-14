@@ -528,8 +528,8 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="five_percent_total_pkg">%s (5%% Ihrer monatlichen Daten)</string>
   <string name="flow_rank_title">Datenverbrauch</string>
   <string name="foreground_traffic">Vordergrund %s</string>
-  <string name="forget_password_button_text">&lt;u&gt;Passwort vergessen&lt;/u&gt;</string>
-  <string name="forget_pattern">&lt;u&gt;Muster vergessen?&lt;/u&gt;</string>
+  <string name="forget_password_button_text"><u>Passwort vergessen</u></string>
+  <string name="forget_pattern"><u>Muster vergessen?</u></string>
   <string name="free_time_traffic">Nebenzeitendatenlimit</string>
   <string name="free_time_traffic_hint">Nebenzeitendatenlimit eingeben</string>
   <string name="free_time_traffic_settings">Nebenzeitendatenlimiteinstellungen</string>
@@ -1647,7 +1647,7 @@ Der verbleibende Datenverbrauch beinhalten auch jenen Verbrauch, welcher in dem 
   <string name="traffic_limit_error_alert_reset">Limit zurücksetzen</string>
   <string name="traffic_none">Keine</string>
   <string name="traffic_over_purchase_body">Antippen, um Details anzuzeigen.</string>
-  <string name="traffic_over_purchase_link">"Sie haben Ihr mobiles Datenlimit überschritten.&lt;br/&gt;Wenn Sie das Datenlimit überschreiten, kann dies zu erhöhten Kosten führen.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;u&gt;Top up now and save 50%.&lt;/u&gt;&amp;lt;/font&amp;gt;"</string>
+  <string name="traffic_over_purchase_link">"Sie haben Ihr mobiles Datenlimit überschritten.&lt;br/&gt;Wenn Sie das Datenlimit überschreiten, kann dies zu erhöhten Kosten führen.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;<u>Top up now and save 50%.</u>&amp;lt;/font&amp;gt;"</string>
   <string name="traffic_over_purchase_title">Datenlimit überschritten</string>
   <string name="traffic_purchase_body">Antippen, um Ihr Guthaben aufzuladen.</string>
   <string name="traffic_purchse_suggestion">Datenlimit überschritten</string>

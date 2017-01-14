@@ -263,7 +263,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
  Möchten Sie es wirklich ausschalten?"</string>
   <string name="app_floating_window_dlg_enable">"Einschalten von %1$s's Popupeinstellungen erfordert einen Neustart der App. Sie können die Anwendung auch manuell neustarten.
  Möchten Sie es wirklich einschalten?"</string>
-  <string name="app_forget_pattern">&lt;u&gt;Muster vergessen?&lt;/u&gt;</string>
+  <string name="app_forget_pattern"><u>Muster vergessen?</u></string>
   <string name="app_forward_locked">Diese App ist kopiergeschützt.</string>
   <string name="app_install_details_group_title">Market</string>
   <string name="app_install_details_summary">App wurde aus %1$s installiert</string>
@@ -1757,8 +1757,8 @@ Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler
   <string name="force_touch_enable">3D Touch aktivieren</string>
   <string name="force_touch_enable_tips">Wenn 3D Touch aktiviert ist, zeigt starkes Drücken eines App-Symbols am Startbildschirm Kontextmenü der App.</string>
   <string name="forget">Vergessen</string>
-  <string name="forget_password_button_text">&lt;u&gt;Passwort vergessen&lt;/u&gt;</string>
-  <string name="forget_pattern">&lt;u&gt;Muster vergessen?&lt;/u&gt;</string>
+  <string name="forget_password_button_text"><u>Passwort vergessen</u></string>
+  <string name="forget_pattern"><u>Muster vergessen?</u></string>
   <string name="forget_privacy_password_setting">Mi Konto hinzufügen</string>
   <string name="forget_privacy_password_summary">Mi Konto verwenden, um das Passwort zurückzusetzen</string>
   <string name="forget_wifi_message">Die Netzwerkverbindung wird automatisch beendet.</string>

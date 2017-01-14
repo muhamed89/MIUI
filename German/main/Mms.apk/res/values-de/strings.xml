@@ -679,7 +679,7 @@ Bisherige Versuche: %s."</string>
   <string name="unsupported_media_format">Format %1$s wird nicht unterstützt</string>
   <string name="url_fraud_alert">Die Webseite, die Sie besuchen möchten %s könnte eine betrügerische Seite sein, wollen Sie wirklich fortfahren?</string>
   <string name="url_fraud_title">Betrugsverdacht</string>
-  <string name="url_fraud_visit">&lt;u&gt;Trotzdem fortfahren&lt;/u&gt;</string>
+  <string name="url_fraud_visit"><u>Trotzdem fortfahren</u></string>
   <string name="url_result_safe">Diese URL ist sicher</string>
   <string name="url_scanning">URL wird überprüft…</string>
   <string name="user_agreement1">Lesen Sie den Abschnitt sorgfältig, bevor Sie weitere Software installieren oder dieses Produkt benutzen.</string>

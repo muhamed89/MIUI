@@ -503,14 +503,14 @@ Der verbleibende Datenverbrauch beinhalten auch jenen Verbrauch, welcher in dem 
   <string name="traffic_limit_error_alert_title">Erinnerung der Datenbeschränkung %s</string>
   <string name="traffic_none">Keine</string>
   <string name="traffic_over_purchase_body">Antippen um Details anzuzeigen.</string>
-  <string name="traffic_over_purchase_link">"Sie haben Ihr mobiles Datenlimit überschritten.&lt;br/&gt;Wenn Sie das Datenlimit überschreiten, kann dies zu erhöhten Kosten führen.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;u&gt;Laden Sie jetzt auf und sparen Sie 50%.&lt;/u&gt;&amp;lt;/font&amp;gt;"</string>
+  <string name="traffic_over_purchase_link">"Sie haben Ihr mobiles Datenlimit überschritten.&lt;br/&gt;Wenn Sie das Datenlimit überschreiten, kann dies zu erhöhten Kosten führen.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;<u>Laden Sie jetzt auf und sparen Sie 50%.</u>&amp;lt;/font&amp;gt;"</string>
   <string name="traffic_over_purchase_title">Datenlimit überschritten</string>
   <string name="traffic_protection_data_usage_summary">Einstellen einer Datenverbrauchswarnung, um Ihr monatliches Limit nicht zu überschreiten.</string>
   <string name="traffic_protection_label">Datenverbrauchswarnung</string>
   <string name="traffic_protection_next">Weiter</string>
   <string name="traffic_protection_summary">Alarm wenn der Datenverbrauch eine bestimmte Grenze überschreitet</string>
   <string name="traffic_protection_text_hint">Datenlimit für %s einstellen</string>
-  <string name="traffic_protection_unknown">&lt;u&gt;Sp&amp;#228;ter einstellen&lt;/u&gt;</string>
+  <string name="traffic_protection_unknown"><u>Sp&amp;#228;ter einstellen</u></string>
   <string name="traffic_protection_use_data">Mobile Datenverbindung</string>
   <string name="traffic_purchase_body">Antippen, um Ihr Guthaben aufzuladen.</string>
   <string name="traffic_purchse_suggestion">Datenlimit überschritten</string>
