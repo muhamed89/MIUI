@@ -212,7 +212,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="v7_preference_on">An</string>
   <string name="virus_scan_caller_unknown">Unbekannt</string>
   <string name="virus_scan_clear">Entfernen</string>
-  <string name="virus_scan_install"><u></u>Trotzdem installieren</u></string>
+  <string name="virus_scan_install"><u>Trotzdem installieren</u></string>
   <string name="virus_scan_is_risk">"Diese App stellt möglicherweise ein Sicherheitsrisiko für ihr Gerät dar."</string>
   <string name="virus_scan_is_virus">Diese App enthält einen Virus.</string>
   <string name="waiting_tip">Das dauert eventuell eine Weile, nützt Ihnen aber viel.</string>
