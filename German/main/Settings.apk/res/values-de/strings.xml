@@ -85,12 +85,12 @@ Falls das Gerät mehrere Nutzer hat, werden die Bedienungshilfen durch Verwendun
   <string name="accessibility_screen_magnification_summary">"Wenn diese Funktion aktiviert ist, können Sie rein/rauszoomen, indem Sie drei Mal auf den Bildschirm tippen.
 
 Wenn Sie reingezoomt haben, können Sie:
-&lt;li&gt;&lt;ul&gt;"Verschieben: Ziehen Sie zwei oder mehr Finger &amp;#252;ber den Bildschirm.
+&lt;li&gt;&lt;ul&gt;"Verschieben: Ziehen Sie zwei oder mehr Finger über den Bildschirm.
 &lt;li&gt;Zoomen: Ziehen Sie zwei oder mehr Finger zusammen oder auseinander.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
 
-Sie k&amp;#246;nnen auch vor&amp;#252;bergehend alles, was sich unter Ihrem Finger befindet, durch dreifaches Antippen und Halten vergr&amp;#246;ssern. In diesem vergr&amp;#246;&amp;#223;erten Zustand k&amp;#246;nnen Sie den Finger bewegen, um verschiedene Teile des Bildschirms zu erkunden. Heben Sie Ihren Finger, um zum Ursprungszustand zur&amp;#252;ckzukehren.
+Sie können auch vorübergehend alles, was sich unter Ihrem Finger befindet, durch dreifaches Antippen und Halten vergrössern. In diesem vergrößerten Zustand können Sie den Finger bewegen, um verschiedene Teile des Bildschirms zu erkunden. Heben Sie Ihren Finger, um zum Ursprungszustand zurückzukehren.
 
-Hinweis: 3-fach-Tippen f&amp;#252;r Vergr&amp;#246;&amp;#223;erung funktioniert &amp;#252;berall, au&amp;#223;er f&amp;#252;r die Tastatur und Navigationsleiste."</string>
+Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für die Tastatur und Navigationsleiste."</string>
   <string name="accessibility_screen_magnification_title">Vergrößerungsgesten</string>
   <string name="accessibility_service_default_description">Keine Beschreibung verfügbar.</string>
   <string name="accessibility_service_no_apps_message">TalkBack bietet blinden und sehbehinderten Benutzern gesprochenes Feedback. Möchten Sie diese Funktion kostenlos aus dem Playstore installieren?</string>
@@ -1959,7 +1959,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="internal_format">Internen Speicher löschen</string>
   <string name="internal_format_summary">Löscht alle Daten vom internen Speicher, z.B. Musik und Fotos</string>
   <string name="internal_media_format_button_text">Internen Speicher löschen</string>
-  <string name="internal_media_format_desc">Internen Speicher löschen? Es werden &lt;b&gt;alle&lt;/b&gt; gespeicherten Daten gel&amp;#246;scht und das Telefon neugestartet!</string>
+  <string name="internal_media_format_desc">Internen Speicher löschen? Es werden &lt;b&gt;alle&lt;/b&gt; gespeicherten Daten gelöscht und das Telefon neugestartet!</string>
   <string name="internal_media_format_final_desc">Internen Speicher und alle darin enthaltenen Daten löschen? Dieser Vorgang kann nicht rückgängig gemacht werden! Das Telefon startet nach Abschluß des Vorgangs neu.</string>
   <string name="internal_media_format_title">Internen Speicher löschen</string>
   <string name="internal_memory">Interner Speicher</string>
@@ -2319,12 +2319,12 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
 Sie sind zurzeit in folgenden Konten angemeldet:
 "</string>
   <string name="master_clear_all">"Alle Daten vom internen Telefonspeicher löschen? Diese Aktion kann nicht rückgängig gemacht werden!"</string>
-  <string name="master_clear_apply_step_1">&lt;b&gt;&amp;#8220;Werksreset&amp;#8221; l&amp;#246;scht alle Daten auf Ihrem Telefon&lt;/b&gt;, inkl. Fotos, Musik, Notizen und andere pers&amp;#246;nliche Daten. Vergewissern Sie sich, dass Sie all Ihre wichtigen Daten auf einem Computer gesichert haben.</string>
-  <string name="master_clear_apply_step_2">Vergewissern Sie sich, dass sie wichtige Daten auf einem Computer gesichert haben. Sämtliche Daten werden währen dem Rücksetzen von Ihrem Gerät gelöscht. &lt;b&gt;Sie k&amp;#246;nnen nicht gesicherte Inhalte anschlie&amp;#223;end nicht mehr wiederherstellen.&lt;/b&gt;</string>
+  <string name="master_clear_apply_step_1">&lt;b&gt;&amp;#8220;Werksreset&amp;#8221; löscht alle Daten auf Ihrem Telefon&lt;/b&gt;, inkl. Fotos, Musik, Notizen und andere persönliche Daten. Vergewissern Sie sich, dass Sie all Ihre wichtigen Daten auf einem Computer gesichert haben.</string>
+  <string name="master_clear_apply_step_2">Vergewissern Sie sich, dass sie wichtige Daten auf einem Computer gesichert haben. Sämtliche Daten werden währen dem Rücksetzen von Ihrem Gerät gelöscht. &lt;b&gt;Sie können nicht gesicherte Inhalte anschließend nicht mehr wiederherstellen.&lt;/b&gt;</string>
   <string name="master_clear_apply_title">Hinweis</string>
   <string name="master_clear_button_text">Telefon zurücksetzen</string>
   <string name="master_clear_confirm_title">Zurücksetzen?</string>
-  <string name="master_clear_desc">"Alle Daten in Ihrem "&lt;b&gt;Internen Speicher&lt;/b&gt;" werden gel&amp;#246;scht, inklusive:
+  <string name="master_clear_desc">"Alle Daten in Ihrem "&lt;b&gt;Internen Speicher&lt;/b&gt;" werden gelöscht, inklusive:
 
 "&amp;lt;li&amp;gt;Ihrem Google Konto&amp;lt;/li&amp;gt;"
 "&amp;lt;li&amp;gt;System und App Daten und Einstellungen&amp;lt;/li&amp;gt;"
@@ -2334,7 +2334,7 @@ Sie sind zurzeit in folgenden Konten angemeldet:
 "&lt;li&gt;und andere Benutzerdaten&lt;/li&gt;" "</string>
   <string name="master_clear_desc_erase_external_storage">"
 
-Um auch Musik, Bilder und sonstige Nutzerdaten zu löschen, muss der "&lt;b&gt;USB-Speicher&lt;/b&gt; gel&amp;#246;scht werden.</string>
+Um auch Musik, Bilder und sonstige Nutzerdaten zu löschen, muss der "&lt;b&gt;USB-Speicher&lt;/b&gt; gelöscht werden.</string>
   <string name="master_clear_erase_application_progress">Lösche Anwendungen...</string>
   <string name="master_clear_failed">Die Zurücksetzung konnte nicht durchgeführt werden, weil der Dienst zur Systembereinigung nicht verfügbar ist.</string>
   <string name="master_clear_final_button_text">Alles löschen</string>
@@ -4324,14 +4324,14 @@ Sie können Apps später wieder installieren, aber deren Daten sind für immer v
 Alle Daten auf diesem ^1 werden gelöscht. Erwägen Sie eine Sicherung. 
 
 "&lt;b&gt;Fotos &amp;amp; andere Medien sichern&lt;/b&gt;" 
-Verschieben Sie Ihre Medien auf einen anderen Speicher in diesem Ger&amp;#228;t oder kopieren Sie sie &amp;#252;ber USB auf einen PC. 
+Verschieben Sie Ihre Medien auf einen anderen Speicher in diesem Gerät oder kopieren Sie sie über USB auf einen PC. 
 
 "&lt;b&gt;Apps sichern&lt;/b&gt;" 
-Alle Apps auf diesem ^1 werden deinstalliert und deren Daten werden gel&amp;#246;scht. Um diese Apps zu behalten, verschieben Sie sie auf einen anderen Speicher auf diesem Ger&amp;#228;t."</string>
+Alle Apps auf diesem ^1 werden deinstalliert und deren Daten werden gelöscht. Um diese Apps zu behalten, verschieben Sie sie auf einen anderen Speicher auf diesem Gerät."</string>
   <string name="storage_internal_title">Interner Speicher</string>
-  <string name="storage_internal_unmount_details">&lt;b&gt;Wenn Sie diesen ^1 auswerfen, werden die Apps darauf nicht mehr funktionieren und die Dateien darauf werden erst nach dem Wiedereinlegen verf&amp;#252;gbar sein.&lt;/b&gt;" 
+  <string name="storage_internal_unmount_details">&lt;b&gt;Wenn Sie diesen ^1 auswerfen, werden die Apps darauf nicht mehr funktionieren und die Dateien darauf werden erst nach dem Wiedereinlegen verfügbar sein.&lt;/b&gt;" 
 
-Dieser ^1 ist fomratiert, um nur auf diesem Ger&amp;#228;t zu funktionieren. Er wird auf andern Ger&amp;#228;ten nicht funktionieren."</string>
+Dieser ^1 ist fomratiert, um nur auf diesem Gerät zu funktionieren. Er wird auf andern Geräten nicht funktionieren."</string>
   <string name="storage_label">Speicher</string>
   <string name="storage_low_summary">Einige Systemfunktionen wie die Synchronisierung funktionieren möglicherweise nicht richtig. Versuchen Sie Speicher freizugeben, indem Sie Apps oder Medieninhalte löschen.</string>
   <string name="storage_low_title">Der Speicherplatz wird knapp</string>
@@ -4371,11 +4371,11 @@ Dieser ^1 ist fomratiert, um nur auf diesem Ger&amp;#228;t zu funktionieren. Er 
 
 Nach dem Formatieren wird ^1 nur auf diesem Gerät funktionieren. 
 
-"&lt;b&gt;Formatieren l&amp;#246;scht alle Daten, die auf ^1 gespeichert sind.&lt;/b&gt;" Um Datenverlust zu vermeiden erstellen Sie eine Sicherung. "</string>
+"&lt;b&gt;Formatieren löscht alle Daten, die auf ^1 gespeichert sind.&lt;/b&gt;" Um Datenverlust zu vermeiden erstellen Sie eine Sicherung. "</string>
   <string name="storage_wizard_format_confirm_next">Löschen &amp; Formatieren</string>
   <string name="storage_wizard_format_confirm_public_body">"Es ist erforderlich, ^1 zu formatieren.
 
-"&lt;b&gt;Formatieren l&amp;#246;scht alle Daten, die auf ^1 gespeichert sind.&lt;/b&gt;" Um Datenverlust zu vermeiden erstellen Sie eine Sicherung. "</string>
+"&lt;b&gt;Formatieren löscht alle Daten, die auf ^1 gespeichert sind.&lt;/b&gt;" Um Datenverlust zu vermeiden erstellen Sie eine Sicherung. "</string>
   <string name="storage_wizard_format_confirm_public_title">Als tragbaren Speicher formatieren</string>
   <string name="storage_wizard_format_confirm_third_body">wird formatiert</string>
   <string name="storage_wizard_format_confirm_title">Als internen Speicher formatieren</string>
@@ -5374,7 +5374,7 @@ Für alle Apps die scannen möchten erlauben?"</string>
   <string name="wifi_setup_connect">Verbinden</string>
   <string name="wifi_setup_description_connected">Drücken Sie &lt;b&gt;Weiter&lt;/b&gt;", um mit der Einrichtung fortzufahren.
 
-Dr&amp;#252;cken Sie "&lt;b&gt;Zur&amp;#252;ck&lt;/b&gt;, um eine Verbindung zu einem anderen WLAN-Netzwerk herzustellen.</string>
+Drücken Sie "&lt;b&gt;Zurück&lt;/b&gt;, um eine Verbindung zu einem anderen WLAN-Netzwerk herzustellen.</string>
   <string name="wifi_setup_description_connecting">Der Verbindungsaufbau kann einige Minuten dauern...</string>
   <string name="wifi_setup_detail">Netzwerkdetails</string>
   <string name="wifi_setup_eap_not_supported">Während der Einrichtung können Sie keine EAP-WLAN-Verbindung konfigurieren. Sie können dies anschließend in den Einstellungen unter \"Drahtlos &amp;amp Netzwerke\" vornehmen.</string>

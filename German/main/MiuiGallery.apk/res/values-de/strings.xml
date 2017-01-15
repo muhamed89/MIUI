@@ -850,7 +850,7 @@
   <string name="picker_no_network_message">Keine Netzwerkverbindung, verbinden Sie such zum Herunterladen</string>
   <string name="picker_origin_need_download">"%1$d der ausgewählten Fotos (%2$dMB) befinden sich nicht auf diesem Gerät. Über mobile Datenverbindung herunterladen?"</string>
   <string name="picker_select_album_title_empty">Album auswählen</string>
-  <string name="picker_skip_unavailable_images"> &lt;item quantity="one"&gt;&amp;#220;bersprungen ein Foto, das nicht auf dem Ger&amp;#228;t ist.&lt;/item&gt; &lt;item quantity="other"&gt;&amp;#220;bersprungen %d Fotos, die nicht auf dem Ger&amp;#228;t sind.&lt;/item&gt; </string>
+  <string name="picker_skip_unavailable_images"> &lt;item quantity="one"&gt;Übersprungen ein Foto, das nicht auf dem Gerät ist.&lt;/item&gt; &lt;item quantity="other"&gt;Übersprungen %d Fotos, die nicht auf dem Gerät sind.&lt;/item&gt; </string>
   <string name="picker_tab_photo">Foto</string>
   <string name="picker_title_format">Sie können %d auswählen</string>
   <string name="picker_title_selection_format">%d ausgewählt</string>

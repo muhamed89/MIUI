@@ -939,7 +939,7 @@
   <string name="via_domain">über %1$s</string>
   <string name="view_more_conversations">Weitere Konversationen ansehen</string>
   <string name="wait_for_manual_sync_body">"Für dieses Konto ist keine automatische Synchronisierung eingerichtet.
-Tippen Sie auf "&lt;b&gt;Jetzt synchronisieren&lt;/b&gt; um Ihre Mails einmalig zu syncronisieren oder &lt;b&gt;Synchronisations Einstellungen &amp;#228;ndern&lt;/b&gt; um dieses Konto automatisch zu synchronisieren.</string>
+Tippen Sie auf "&lt;b&gt;Jetzt synchronisieren&lt;/b&gt; um Ihre Mails einmalig zu syncronisieren oder &lt;b&gt;Synchronisations Einstellungen ändern&lt;/b&gt; um dieses Konto automatisch zu synchronisieren.</string>
   <string name="wait_for_sync_title">Auf Synchronisierung warten</string>
   <string name="widget_all_mail">Alle Mails</string>
   <string name="widget_large_unread_count">%d+</string>
