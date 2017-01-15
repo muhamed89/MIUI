@@ -369,7 +369,7 @@
   <string name="passport_reg_type_email">Konto über E-Mail erstellen</string>
   <string name="passport_reg_type_other_ways"><u>Konto Über andere Methode erstellen</u></string>
   <string name="passport_reg_type_other_ways_title">Mi Konto erstellen</string>
-  <string name="passport_reg_using_other_phone"><u>Andere Telefonnummer verwenden<u></string>
+  <string name="passport_reg_using_other_phone"><u>Andere Telefonnummer verwenden</u></string>
   <string name="passport_reg_using_other_phone_number_prompt">Mit anderer Telefonnummer registrieren</string>
   <string name="passport_reg_using_phone_number_prompt">Mit Telefonnummer registrieren</string>
   <string name="passport_reg_via_sms_alert">Für das SMS-Versenden könnten Gebühren entstehen</string>
