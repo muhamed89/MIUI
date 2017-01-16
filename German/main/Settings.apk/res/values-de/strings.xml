@@ -4466,7 +4466,7 @@ Erwägen Sie die Verwendung eines schnelleren ^1 für bessere Leistung."</string
   <string name="sync_menu_sync_now">Jetzt synchronisieren</string>
   <string name="sync_one_time_sync">"Zum sofortigen Synchronisieren berühren
 %1$s"</string>
-  <string name="sync_plug">" "<font fgcolor="#ffffffff"&gt;Willkommen bei Google Sync!</font>" 
+  <string name="sync_plug">" "<font fgcolor="#ffffffff">Willkommen bei Google Sync!</font>" 
 Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von überall auf Ihre Kontakte, Termine und vieles mehr zugreifen zu können!"</string>
   <string name="sync_settings">Synchronisierung</string>
   <string name="sync_wifi_label">WLAN</string>
