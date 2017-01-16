@@ -169,7 +169,7 @@ Sie können："</string>
   <string name="type_prompt">Schlüsseltyp</string>
   <string name="update_pattern_jump"><u>Passwort entfernen</u></string>
   <string name="version_preference_title">Version</string>
-  <string name="welcome_page_alert">"<font color=#fb3500>* </font>Falls Sie Ihr Mi Security Token löschen, können Sie sich nicht mehr mit Ihrem Konto anmelden."</string>
+  <string name="welcome_page_alert">"<font color="#fb3500">* </font>Falls Sie Ihr Mi Security Token löschen, können Sie sich nicht mehr mit Ihrem Konto anmelden."</string>
   <string name="welcome_page_details">"— Halten Sie Ihr Konto sicher.
 — Halten Sie Fremde davon ab Ihr Gerät zu verwenden und sich mit Ihrem Konto anzumelden."</string>
   <string name="welcome_page_title">Secure Sign-in nutzen</string>
