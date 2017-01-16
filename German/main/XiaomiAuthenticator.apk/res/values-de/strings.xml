@@ -74,7 +74,7 @@ Bei account.xiaomi.com anmelden und Reactivate anklicken."</string>
   <string name="lockpattern_need_to_confirm">Muster zum Bestätigen erneut eingeben</string>
   <string name="lockpattern_need_to_confirm_wrong">Unstimmig mit dem vorherigen Eintrag, bitte erneut eingeben:</string>
   <string name="lockpattern_need_to_unlock_footer"/>
-  <string name="lockpattern_need_to_unlock_wrong"><font color=red>Passwort falsch, Sie können %d mal mehr eingeben</font></string>
+  <string name="lockpattern_need_to_unlock_wrong"><font color='red'>Passwort falsch, Sie können %d mal mehr eingeben</font></string>
   <string name="lockpattern_need_to_unlock_wrong_footer"/>
   <string name="lockpattern_pattern_confirmed_header">Ihr neues Entsperrmuster:</string>
   <string name="lockpattern_pattern_entered_header">Muster aufgenommen.</string>
