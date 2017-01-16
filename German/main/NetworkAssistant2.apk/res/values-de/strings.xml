@@ -405,7 +405,6 @@ T"</b>"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. Wenn Sie
   <string name="saving_conflict_restrictbackground_msg">Die Datenreduzierung kann bei Beschränkung der Hintergrunddaten nicht verwendet werden. Möchten Sie die Datenreduzierung und die Beschränkung der Hintergrunddaten einschalten?</string>
   <string name="sc_allow_network_dialog_message">Diese App benötigt eine Verbindung zum Internet, um ordnungsgemäß ausgeführt werden zu können.</string>
   <string name="sc_allow_network_dialog_tiltle">"Diese Funktion kann nicht benutzt werden"</string>
-  <string name="search_input_txt"><font color='#ff0000'>%s</font></string>
   <string name="see_detail">Details</string>
   <string name="setting_traffic_pkg">Datenpakete einstellen</string>
   <string name="settings">Einstellung zur Datennutzung</string>
@@ -559,7 +558,7 @@ Der verbleibende Datenverbrauch beinhalten auch jenen Verbrauch, welcher in dem 
   <string name="traffic_saving_whitelist_btn_added">Hinzugefügt</string>
   <string name="traffic_saving_whitelist_btn_remove">Entfernen</string>
   <string name="traffic_saving_whitelist_btn_removed">Die App wurde von der Liste entfernt</string>
-  <string name="traffic_saving_whitelist_count"><font color='#4DAA0F'>%1$d</font> "Apps' Datennutzung ist nicht begrenzt"</string>
+  <string name="traffic_saving_whitelist_count">"Apps' Datennutzung ist nicht begrenzt"</string>
   <string name="traffic_saving_whitelist_no_app">Keine Apps</string>
   <string name="traffic_saving_wifi_usage">WLAN-Verbrauch</string>
   <string name="traffic_setting_app_count">%d Apps</string>
