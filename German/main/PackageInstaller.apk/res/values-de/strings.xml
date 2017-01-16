@@ -187,7 +187,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
   <string name="trust_switch_dialog_msg">"Wenn die App auf ihre Kontakte, Nachrichten, Passwörter oder andere Systemteile zugreift, werden Sie nicht gefragt."</string>
   <string name="uninstall_activity_text">%1$s gehört zu folgender App:</string>
   <string name="uninstall_application_text">Möchten Sie diese App deinstallieren?</string>
-  <string name="uninstall_application_text_all_users">Möchten Sie diese App für &lt;b&gt;all&lt;/b&gt; Benutzer entfernen? Die App und alle zugehörigen Daten werden für &lt;b&gt;alle&lt;/b&gt; Benutzer des Geräts entfernt.</string>
+  <string name="uninstall_application_text_all_users">Möchten Sie diese App für <b>all</b> Benutzer entfernen? Die App und alle zugehörigen Daten werden für <b>alle</b> Benutzer des Geräts entfernt.</string>
   <string name="uninstall_application_text_user">Möchten Sie diese App für den Benutzer %1$s deinstallieren?</string>
   <string name="uninstall_application_title">App deinstallieren</string>
   <string name="uninstall_blocked_device_owner">"Die App wurde als obligatorisch festgelegt und kann nicht deinstalliert werden."</string>

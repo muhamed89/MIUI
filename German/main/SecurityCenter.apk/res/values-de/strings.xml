@@ -462,7 +462,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="diagnostic_attention_dialog_message">Diagnose für %1$s ist in Bearbeitung. Warten Sie bis der Vorgang abgeschlossen ist und versuchen Sie es noch einmal.</string>
   <string name="dialog_app_roaming_message">Wenn Sie Datenroaming aktiviert haben, können nur Apps von den Ausnahmen auf die Datenverbindung zugreifen. %1$s wurde nicht zu den Ausnahmen hinzugefügt. Möchten Sie sich die Ausnahmen anzeigen lassen?</string>
   <string name="dialog_app_roaming_title">Datenroaming ist für %1$s nicht aktiviert</string>
-  <string name="dialog_msg_auto_start_declare">Einige Sicherheitsapps können fälschlicherweise angeben, dass MIUI Ihren Start verhindert. Um die Berechtigungen, die einzelnen Anwendungen erteilt wurden zu überprüfen, gehen Sie zu Einstellungen -&gt; Apps.</string>
+  <string name="dialog_msg_auto_start_declare">Einige Sicherheitsapps können fälschlicherweise angeben, dass MIUI Ihren Start verhindert. Um die Berechtigungen, die einzelnen Anwendungen erteilt wurden zu überprüfen, gehen Sie zu Einstellungen -> Apps.</string>
   <string name="dialog_msg_stop_paysafety_scan">Zahlungssicherheitscheck ausschalten?</string>
   <string name="dialog_msg_stop_virus_scan">Sind Sie sicher?</string>
   <string name="dialog_roaming_apps_sorted_title">Sortiert nach</string>
@@ -811,20 +811,20 @@ Peak: %1$s%2$s verbleibend | %3$s verbraucht"</string>
   <string name="network_roaming_exception_tips">Während des Roamings kann die mobile Datenverbindung nicht zur Netzwerkverbindung verwendet werden.</string>
   <string name="network_route_exception_detail">"Möglicherweise liegt der Fehler bei Ihrem Router:
 
- "&lt;b&gt;"1. Problem mit einem öffentlichen WLAN-Netzwerk
-"&lt;/b&gt;Wenn Sie mit einem öffentlichem WLAN-Netzwerk verbunden sind, kann je nach Anzahl der verbundenen Benutzer die Geschwindigkeit beeinträchtigt werden. Wechseln Sie in ein anderes Netzwerk und versuchen Sie es erneut.
+ "<b>"1. Problem mit einem öffentlichen WLAN-Netzwerk
+"</b>Wenn Sie mit einem öffentlichem WLAN-Netzwerk verbunden sind, kann je nach Anzahl der verbundenen Benutzer die Geschwindigkeit beeinträchtigt werden. Wechseln Sie in ein anderes Netzwerk und versuchen Sie es erneut.
 
- 2."&lt;b&gt;" Problem mit dem Internetanbieter
-M"&lt;/b&gt;"Stellen Sie sicher, dass Sie ein gültiges Konto bei Ihrem Internetanbieter besitzen.
+ 2."<b>" Problem mit dem Internetanbieter
+M"</b>"Stellen Sie sicher, dass Sie ein gültiges Konto bei Ihrem Internetanbieter besitzen.
 
- 3."&lt;b&gt;" Problem mit der Routerhardware
-T"&lt;/b&gt;"Versuchen Sie Ihren Router neu zu starten und/oder überprüfen Sie die Routereinstellungen.
+ 3."<b>" Problem mit der Routerhardware
+T"</b>"Versuchen Sie Ihren Router neu zu starten und/oder überprüfen Sie die Routereinstellungen.
 
- 4."&lt;b&gt;" Weitere Probleme
-R"&lt;/b&gt;"Lesen Sie die Bedienungshilfen, die bei Ihrem Router mitgeliefert wurden und stellen Sie die Werkseinstellungen des Router wieder her.
+ 4."<b>" Weitere Probleme
+R"</b>"Lesen Sie die Bedienungshilfen, die bei Ihrem Router mitgeliefert wurden und stellen Sie die Werkseinstellungen des Router wieder her.
 
- 5."&lt;b&gt;" Stellen Sie sicher, dass der Router korrekt verbunden ist
-T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermuten, dass der Fehler an der Verbindung liegt, dann kontaktieren Sie Ihren Internetanbieter."</string>
+ 5."<b>" Stellen Sie sicher, dass der Router korrekt verbunden ist
+T"</b>"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie vermuten, dass der Fehler an der Verbindung liegt, dann kontaktieren Sie Ihren Internetanbieter."</string>
   <string name="network_sim_exception_detail">"Möglichweise liegt der Fehler an Ihrer SIM-Karte:
 
  1. Stellen Sie sicher, dass Sie ein gültiges Konto bei Ihrem Netzanbieter besitzen. Versuchen Sie die SIM-Karte eines Freundes und überprüfen Sie, ob die Verbindung ordnungsgemäß funktioniert.
@@ -1158,7 +1158,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Datenreduzierung für neu installierte Apps automatisch aktivieren</string>
   <string name="pref_traffic_saving_compressed">Komprimiert</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
-  <string name="pref_traffic_saving_issue_content">&lt;b&gt; 1. Wirkt sich die Datenreduzierung auf meine Privatsphäre aus? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Nein, Ihre Daten bleiben privat und werden nicht an Dritte weitergegeben. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; Warum funktioniert die Datenreduzierung nicht? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt; Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden sind und Inhalte senden oder herunterladen.</string>
+  <string name="pref_traffic_saving_issue_content"><b> 1. Wirkt sich die Datenreduzierung auf meine Privatsphäre aus? </b><br /><br /><br />Nein, Ihre Daten bleiben privat und werden nicht an Dritte weitergegeben. <br /><br /><br /><b> Warum funktioniert die Datenreduzierung nicht? </b><br /><br /> Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden sind und Inhalte senden oder herunterladen.</string>
   <string name="pref_traffic_saving_no_compress">Nicht komprimiert</string>
   <string name="pref_traffic_saving_notify_switch">In Statusleiste anzeigen</string>
   <string name="pref_traffic_saving_notify_switch_hint">Datenreduzierung in der Statusleiste anzeigen</string>
@@ -1179,7 +1179,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="preferred_app_entries_launcher">Launcher</string>
   <string name="preferred_app_entries_messaging">Nachrichten</string>
   <string name="preferred_app_entries_music">Musik</string>
-  <string name="privacy_declare_dialog_message">"Wenn Sie diesen Dienst nutzen, akzeptieren Sie Opera's &lt;a href=%s&gt; Geschäftsbedingungen&lt;/a&gt;."</string>
+  <string name="privacy_declare_dialog_message">"Wenn Sie diesen Dienst nutzen, akzeptieren Sie Opera's <a href=%s> Geschäftsbedingungen</a>."</string>
   <string name="privacy_declare_dialog_title">Geschäftsbedingungen</string>
   <string name="privacy_mode_dialog_title">Gastmodus</string>
   <string name="privacy_prompt_tc_sms_report_message">Ihre Telefonnummer und Anbieterdetails werden verschlüsselt und an die MiServer gesendet, um Ihren Datenverbrauchsdetails zu aktualisieren.</string>
@@ -1287,8 +1287,8 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="safepay_alert_dialog_button_continue">Fortsetzen</string>
   <string name="safepay_alert_dialog_button_risk">Beheben</string>
   <string name="safepay_alert_dialog_button_unknown">Noch einmal prüfen</string>
-  <string name="safepay_alert_dialog_title_risk">&lt;font color=#ec2700&gt;Risiko gefunden! Brechen Sie die Zahlung ab!&lt;/font&gt;</string>
-  <string name="safepay_alert_dialog_title_unknown">"&lt;font color=#f59c00&gt;Zahlungssicherheit konnte nicht überprüft werden. Verbinden Sie sich mit dem Internet und versuchen Sie es erneut.&lt;/font&gt;"</string>
+  <string name="safepay_alert_dialog_title_risk"><font color=#ec2700>Risiko gefunden! Brechen Sie die Zahlung ab!</font></string>
+  <string name="safepay_alert_dialog_title_unknown">"<font color=#f59c00>Zahlungssicherheit konnte nicht überprüft werden. Verbinden Sie sich mit dem Internet und versuchen Sie es erneut.</font>"</string>
   <string name="sc_allow_network_dialog_message">Diese App benötigt eine Verbindung zum Internet, um ordnungsgemäß ausgeführt werden zu können.</string>
   <string name="sc_allow_network_dialog_tiltle">"Diese Funktion kann nicht benutzt werden"</string>
   <string name="scan_status_risk">Riskant</string>
@@ -1461,16 +1461,16 @@ Wenn Sie MIUI keiner Weise verändert haben, stellen Sie sicher, dass Sie Herkun
   <string name="tc_diagnostic_operator_error_notification_summary">Antippen, um die Netzbetreibereinstellungen zu ändern</string>
   <string name="tc_diagnostic_operator_error_notification_title">Falscher Netzbetreiber</string>
   <string name="tc_diagnostic_repair_and_continue">Beheben und fortfahren</string>
-  <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;Diagnose abgeschlossen, Standortprobleme behoben.&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;Diagnose abgeschlossen,  Standort- und Betreiberprobleme behoben.&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_repair_location">"<font color='#3EC234'>Diagnose abgeschlossen, Standortprobleme behoben.</font>"</string>
+  <string name="tc_diagnostic_repair_location_and_operator">"<font color='#3EC234'>Diagnose abgeschlossen,  Standort- und Betreiberprobleme behoben.</font>"</string>
   <string name="tc_diagnostic_repair_success_toast">Erfolgreich geändert</string>
   <string name="tc_diagnostic_status_error_brand">Netzbetreiber konnte nicht ermittelt werden</string>
-  <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'&gt;Fehler&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'&gt;Keine Netzwerkverbindung&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'&gt;Konnte nicht gelesen werden&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'&gt;Korrekt&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'&gt;Antwort vom Netzbetreiber&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'&gt;Timeout&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_failure">"<font color='#CC0000'>Fehler</font>"</string>
+  <string name="tc_diagnostic_status_no_network">"<font color='#ED9523'>Keine Netzwerkverbindung</font>"</string>
+  <string name="tc_diagnostic_status_not_get">"<font color='#ED9523'>Konnte nicht gelesen werden</font>"</string>
+  <string name="tc_diagnostic_status_success">"<font color='#3EC234'>Korrekt</font>"</string>
+  <string name="tc_diagnostic_status_success_brand">"<font color='#3EC234'>Antwort vom Netzbetreiber</font>"</string>
+  <string name="tc_diagnostic_status_timeout">"<font color='#CC0000'>Timeout</font>"</string>
   <string name="tc_diagnostic_status_updating">Wird getestet…</string>
   <string name="tc_diagnostic_success_notification_summary">Dieses Problem melden, um die MIUI-Diagnosetools zu verbessern</string>
   <string name="tc_diagnostic_success_notification_title">Netzbetreiber korrekt</string>
@@ -1500,7 +1500,7 @@ Wenn Sie MIUI keiner Weise verändert haben, stellen Sie sicher, dass Sie Herkun
   <string name="tc_sms_report_notify_get_timeout_body">Zeitüberschreitung. Stellen Sie sicher, dass der eingegebene Code korrekt ist.</string>
   <string name="tc_sms_report_notify_get_timeout_title">Datenverbrauchsübersicht anfordern fehlgeschlagen</string>
   <string name="tc_sms_report_receive_content">SMS-Nutzungsberichtinhalt (Nutzungsbericht bestätigen)</string>
-  <string name="tc_sms_report_receive_content_null">Helfen Sie bei der Verbesserung dieser Funktion mit!&lt;br/&gt;So geht es:&lt;br/&gt;1. Gehen Sie auf \"SMS-Befehl überprüfen\" und \"Empfängernummer\"&lt;br/&gt;2. Wählen Sie \"SMS-Vorlage abrufen\";br/&gt;3. Warten Sie auf die SMS Ihres Anbieters ;br/&gt;4. Wählen Sie \"Zu MIUI hochladen\"</string>
+  <string name="tc_sms_report_receive_content_null">Helfen Sie bei der Verbesserung dieser Funktion mit!<br />So geht es:<br />1. Gehen Sie auf \"SMS-Befehl überprüfen\" und \"Empfängernummer\"<br />2. Wählen Sie \"SMS-Vorlage abrufen\";br/>3. Warten Sie auf die SMS Ihres Anbieters ;br/>4. Wählen Sie \"Zu MIUI hochladen\"</string>
   <string name="tc_sms_report_receive_num">Nummer des Empfängers</string>
   <string name="tc_sms_report_send_num">Anbieternummer</string>
   <string name="tc_sms_report_summary">Helfen Sie uns diese Funktion zu verbessern, indem Sie uns eine fehlerhafte Datenverbrauchsübersicht oder Aktualisierungsfehler melden</string>
@@ -1647,7 +1647,7 @@ Der verbleibende Datenverbrauch beinhalten auch jenen Verbrauch, welcher in dem 
   <string name="traffic_limit_error_alert_reset">Limit zurücksetzen</string>
   <string name="traffic_none">Keine</string>
   <string name="traffic_over_purchase_body">Antippen, um Details anzuzeigen.</string>
-  <string name="traffic_over_purchase_link">"Sie haben Ihr mobiles Datenlimit überschritten.&lt;br/&gt;Wenn Sie das Datenlimit überschreiten, kann dies zu erhöhten Kosten führen.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;<u>Top up now and save 50%.</u>&amp;lt;/font&amp;gt;"</string>
+  <string name="traffic_over_purchase_link">"Sie haben Ihr mobiles Datenlimit überschritten.<br />Wenn Sie das Datenlimit überschreiten, kann dies zu erhöhten Kosten führen.<br /><br /><font color='#ccffffff'><u>Top up now and save 50%.</u>&amp;lt;/font&amp;gt;"</string>
   <string name="traffic_over_purchase_title">Datenlimit überschritten</string>
   <string name="traffic_purchase_body">Antippen, um Ihr Guthaben aufzuladen.</string>
   <string name="traffic_purchse_suggestion">Datenlimit überschritten</string>

@@ -443,7 +443,7 @@ T"</b>"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. Wenn Sie
   <string name="tc_sms_report_notify_get_timeout_body">Zeitüberschreitung. Stellen Sie sicher, dass der eingegebene Code korrekt ist.</string>
   <string name="tc_sms_report_notify_get_timeout_title">Datenverbrauchsübersicht anfordern fehlgeschlagen</string>
   <string name="tc_sms_report_receive_content">SMS-Nutzungsberichtinhalt (Nutzungsbericht bestätigen)</string>
-  <string name="tc_sms_report_receive_content_null">Helfen Sie bei der Verbesserung dieser Funktion mit!<br/>So geht es:<br/>1. Gehen Sie auf \"SMS-Befehl überprüfen\" und \"Empfängernummer\"<br/>2. Wählen Sie \"SMS-Vorlage abrufen\";br/&gt;3. Warten Sie auf die SMS Ihres Anbieters ;br/&gt;4. Wählen Sie \"Zu MIUI hochladen\"</string>
+  <string name="tc_sms_report_receive_content_null">Helfen Sie bei der Verbesserung dieser Funktion mit!<br />So geht es:<br />1. Gehen Sie auf \"SMS-Befehl überprüfen\" und \"Empfängernummer\"<br />2. Wählen Sie \"SMS-Vorlage abrufen\";br/&gt;3. Warten Sie auf die SMS Ihres Anbieters ;br/&gt;4. Wählen Sie \"Zu MIUI hochladen\"</string>
   <string name="tc_sms_report_receive_num">Nummer des Empfängers</string>
   <string name="tc_sms_report_send_num">Anbieternummer</string>
   <string name="tc_sms_report_summary">Helfen Sie uns diese Funktion zu verbessern, indem Sie uns eine fehlerhafte Datenverbrauchsübersicht oder Aktualisierungsfehler melden</string>
@@ -503,7 +503,7 @@ Der verbleibende Datenverbrauch beinhalten auch jenen Verbrauch, welcher in dem 
   <string name="traffic_limit_error_alert_title">Erinnerung der Datenbeschränkung %s</string>
   <string name="traffic_none">Keine</string>
   <string name="traffic_over_purchase_body">Antippen um Details anzuzeigen.</string>
-  <string name="traffic_over_purchase_link">"Sie haben Ihr mobiles Datenlimit überschritten.<br/>Wenn Sie das Datenlimit überschreiten, kann dies zu erhöhten Kosten führen.<br/><br/><font color='#ccffffff'><u>Laden Sie jetzt auf und sparen Sie 50%.</u></font>"</string>
+  <string name="traffic_over_purchase_link">"Sie haben Ihr mobiles Datenlimit überschritten.<br />Wenn Sie das Datenlimit überschreiten, kann dies zu erhöhten Kosten führen.<br /><br /><font color='#ccffffff'><u>Laden Sie jetzt auf und sparen Sie 50%.</u></font>"</string>
   <string name="traffic_over_purchase_title">Datenlimit überschritten</string>
   <string name="traffic_protection_data_usage_summary">Einstellen einer Datenverbrauchswarnung, um Ihr monatliches Limit nicht zu überschreiten.</string>
   <string name="traffic_protection_label">Datenverbrauchswarnung</string>
@@ -545,7 +545,7 @@ Der verbleibende Datenverbrauch beinhalten auch jenen Verbrauch, welcher in dem 
   <string name="traffic_saving_ratio_low">"Datenverbrauch kann nicht deutlich reduziert werden"</string>
   <string name="traffic_saving_recommanded_close">Dieses Element ausschalten</string>
   <string name="traffic_saving_recommanded_open">Dieses Element ausschalten</string>
-  <string name="traffic_saving_start_tip_context">"<big><font color='#7F000000'>Datenreduzierer automatisch aktivieren, um mobile Datennutzung von Apps zu reduzieren.</font></big><br/><br/><font color='#FF000000'>Wenn Sie einen monatliche Datentarif haben, denken Sie daran, Datenreduzierer für individuelle Apps abzustellen, um zusätzliche Gebühren von Ihrem Mobilfunkbetreiber zu vermeiden.</font>"</string>
+  <string name="traffic_saving_start_tip_context">"<big><font color='#7F000000'>Datenreduzierer automatisch aktivieren, um mobile Datennutzung von Apps zu reduzieren.</font></big><br /><br /><font color='#FF000000'>Wenn Sie einen monatliche Datentarif haben, denken Sie daran, Datenreduzierer für individuelle Apps abzustellen, um zusätzliche Gebühren von Ihrem Mobilfunkbetreiber zu vermeiden.</font>"</string>
   <string name="traffic_saving_start_tip_title">Aktivieren</string>
   <string name="traffic_saving_tecsupport">Bereitgestellt von Opera</string>
   <string name="traffic_saving_tecsupport_international">Powered by Opera Max</string>

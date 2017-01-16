@@ -1232,10 +1232,10 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="data_usage_restrict_background_title">Hintergrunddaten beschränken?</string>
   <string name="data_usage_restrict_denied_dialog">Hintergrunddaten können nur beschränkt werden, wenn Sie ein Limit für mobile Daten festgelegt haben.</string>
   <string name="data_usage_summary_title">Datenverbrauch</string>
-  <string name="data_usage_sweep_limit">" "&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
-"&lt;font size="12"&gt;Limit&lt;/font&gt;" "</string>
-  <string name="data_usage_sweep_warning">" "&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
-"&lt;font size="12"&gt;Warnung&lt;/font&gt;" "</string>
+  <string name="data_usage_sweep_limit">" "<font size="21">^1</font> <font size="9">^2</font>"
+"<font size="12">Limit</font>" "</string>
+  <string name="data_usage_sweep_warning">" "<font size="21">^1</font> <font size="9">^2</font>"
+"<font size="12">Warnung</font>" "</string>
   <string name="data_usage_tab_ethernet">Ethernet</string>
   <string name="data_usage_tab_mobile">Mobil</string>
   <string name="data_usage_tab_slot">SIM</string>
@@ -1959,7 +1959,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="internal_format">Internen Speicher löschen</string>
   <string name="internal_format_summary">Löscht alle Daten vom internen Speicher, z.B. Musik und Fotos</string>
   <string name="internal_media_format_button_text">Internen Speicher löschen</string>
-  <string name="internal_media_format_desc">Internen Speicher löschen? Es werden &lt;b&gt;alle&lt;/b&gt; gespeicherten Daten gelöscht und das Telefon neugestartet!</string>
+  <string name="internal_media_format_desc">Internen Speicher löschen? Es werden <b>alle</b> gespeicherten Daten gelöscht und das Telefon neugestartet!</string>
   <string name="internal_media_format_final_desc">Internen Speicher und alle darin enthaltenen Daten löschen? Dieser Vorgang kann nicht rückgängig gemacht werden! Das Telefon startet nach Abschluß des Vorgangs neu.</string>
   <string name="internal_media_format_title">Internen Speicher löschen</string>
   <string name="internal_memory">Interner Speicher</string>
@@ -2319,12 +2319,12 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
 Sie sind zurzeit in folgenden Konten angemeldet:
 "</string>
   <string name="master_clear_all">"Alle Daten vom internen Telefonspeicher löschen? Diese Aktion kann nicht rückgängig gemacht werden!"</string>
-  <string name="master_clear_apply_step_1">&lt;b&gt;&amp;#8220;Werksreset&amp;#8221; löscht alle Daten auf Ihrem Telefon&lt;/b&gt;, inkl. Fotos, Musik, Notizen und andere persönliche Daten. Vergewissern Sie sich, dass Sie all Ihre wichtigen Daten auf einem Computer gesichert haben.</string>
-  <string name="master_clear_apply_step_2">Vergewissern Sie sich, dass sie wichtige Daten auf einem Computer gesichert haben. Sämtliche Daten werden währen dem Rücksetzen von Ihrem Gerät gelöscht. &lt;b&gt;Sie können nicht gesicherte Inhalte anschließend nicht mehr wiederherstellen.&lt;/b&gt;</string>
+  <string name="master_clear_apply_step_1"><b>&amp;#8220;Werksreset&amp;#8221; löscht alle Daten auf Ihrem Telefon</b>, inkl. Fotos, Musik, Notizen und andere persönliche Daten. Vergewissern Sie sich, dass Sie all Ihre wichtigen Daten auf einem Computer gesichert haben.</string>
+  <string name="master_clear_apply_step_2">Vergewissern Sie sich, dass sie wichtige Daten auf einem Computer gesichert haben. Sämtliche Daten werden währen dem Rücksetzen von Ihrem Gerät gelöscht. <b>Sie können nicht gesicherte Inhalte anschließend nicht mehr wiederherstellen.</b></string>
   <string name="master_clear_apply_title">Hinweis</string>
   <string name="master_clear_button_text">Telefon zurücksetzen</string>
   <string name="master_clear_confirm_title">Zurücksetzen?</string>
-  <string name="master_clear_desc">"Alle Daten in Ihrem "&lt;b&gt;Internen Speicher&lt;/b&gt;" werden gelöscht, inklusive:
+  <string name="master_clear_desc">"Alle Daten in Ihrem "<b>Internen Speicher</b>" werden gelöscht, inklusive:
 
 "&amp;lt;li&amp;gt;Ihrem Google Konto&amp;lt;/li&amp;gt;"
 "&amp;lt;li&amp;gt;System und App Daten und Einstellungen&amp;lt;/li&amp;gt;"
@@ -2334,7 +2334,7 @@ Sie sind zurzeit in folgenden Konten angemeldet:
 "&lt;li&gt;und andere Benutzerdaten&lt;/li&gt;" "</string>
   <string name="master_clear_desc_erase_external_storage">"
 
-Um auch Musik, Bilder und sonstige Nutzerdaten zu löschen, muss der "&lt;b&gt;USB-Speicher&lt;/b&gt; gelöscht werden.</string>
+Um auch Musik, Bilder und sonstige Nutzerdaten zu löschen, muss der "<b>USB-Speicher</b> gelöscht werden.</string>
   <string name="master_clear_erase_application_progress">Lösche Anwendungen...</string>
   <string name="master_clear_failed">Die Zurücksetzung konnte nicht durchgeführt werden, weil der Dienst zur Systembereinigung nicht verfügbar ist.</string>
   <string name="master_clear_final_button_text">Alles löschen</string>
@@ -2364,7 +2364,7 @@ Es sind andere Benutzer an diesem System angemeldet.
   <string name="media_category">Medien</string>
   <string name="media_feedback_enable_title">Mit dem Rhythmus vibrieren</string>
   <string name="media_format_button_text">USB-Speicher löschen</string>
-  <string name="media_format_desc">Kompletten USB-Speicher löschen? Sie werden &lt;b&gt;alle&lt;/b&gt; gespeicherten Daten verlieren!</string>
+  <string name="media_format_desc">Kompletten USB-Speicher löschen? Sie werden <b>alle</b> gespeicherten Daten verlieren!</string>
   <string name="media_format_final_button_text">Alles löschen</string>
   <string name="media_format_final_desc">USB-Speicher und alle darauf gespeicherten Dateien löschen? Diese Aktion kann nicht rückgängig gemacht werden!</string>
   <string name="media_format_gesture_explanation">Sie müssen Ihr Entsperrungsmuster zeichnen, um die Löschung des USB-Speichers zu bestätigen.</string>
@@ -4323,13 +4323,13 @@ Sie können Apps später wieder installieren, aber deren Daten sind für immer v
 
 Alle Daten auf diesem ^1 werden gelöscht. Erwägen Sie eine Sicherung. 
 
-"&lt;b&gt;Fotos &amp;amp; andere Medien sichern&lt;/b&gt;" 
+"<b>Fotos &amp;amp; andere Medien sichern</b>" 
 Verschieben Sie Ihre Medien auf einen anderen Speicher in diesem Gerät oder kopieren Sie sie über USB auf einen PC. 
 
-"&lt;b&gt;Apps sichern&lt;/b&gt;" 
+"<b>Apps sichern</b>" 
 Alle Apps auf diesem ^1 werden deinstalliert und deren Daten werden gelöscht. Um diese Apps zu behalten, verschieben Sie sie auf einen anderen Speicher auf diesem Gerät."</string>
   <string name="storage_internal_title">Interner Speicher</string>
-  <string name="storage_internal_unmount_details">&lt;b&gt;Wenn Sie diesen ^1 auswerfen, werden die Apps darauf nicht mehr funktionieren und die Dateien darauf werden erst nach dem Wiedereinlegen verfügbar sein.&lt;/b&gt;" 
+  <string name="storage_internal_unmount_details"><b>Wenn Sie diesen ^1 auswerfen, werden die Apps darauf nicht mehr funktionieren und die Dateien darauf werden erst nach dem Wiedereinlegen verfügbar sein.</b>" 
 
 Dieser ^1 ist fomratiert, um nur auf diesem Gerät zu funktionieren. Er wird auf andern Geräten nicht funktionieren."</string>
   <string name="storage_label">Speicher</string>
@@ -4371,11 +4371,11 @@ Dieser ^1 ist fomratiert, um nur auf diesem Gerät zu funktionieren. Er wird auf
 
 Nach dem Formatieren wird ^1 nur auf diesem Gerät funktionieren. 
 
-"&lt;b&gt;Formatieren löscht alle Daten, die auf ^1 gespeichert sind.&lt;/b&gt;" Um Datenverlust zu vermeiden erstellen Sie eine Sicherung. "</string>
+"<b>Formatieren löscht alle Daten, die auf ^1 gespeichert sind.</b>" Um Datenverlust zu vermeiden erstellen Sie eine Sicherung. "</string>
   <string name="storage_wizard_format_confirm_next">Löschen &amp; Formatieren</string>
   <string name="storage_wizard_format_confirm_public_body">"Es ist erforderlich, ^1 zu formatieren.
 
-"&lt;b&gt;Formatieren löscht alle Daten, die auf ^1 gespeichert sind.&lt;/b&gt;" Um Datenverlust zu vermeiden erstellen Sie eine Sicherung. "</string>
+"<b>Formatieren löscht alle Daten, die auf ^1 gespeichert sind.</b>" Um Datenverlust zu vermeiden erstellen Sie eine Sicherung. "</string>
   <string name="storage_wizard_format_confirm_public_title">Als tragbaren Speicher formatieren</string>
   <string name="storage_wizard_format_confirm_third_body">wird formatiert</string>
   <string name="storage_wizard_format_confirm_title">Als internen Speicher formatieren</string>
@@ -4389,7 +4389,7 @@ Nach dem Formatieren wird ^1 nur auf diesem Gerät funktionieren.
   <string name="storage_wizard_migrate_body">"Sie können Fotos, Dateien und einige Apps auf diesen neuen ^1 verschieben. 
 
 Das Verschieben dauert etwa ^2 und wird ^3 auf dem internen Speicher freigeben. Einige Apps werden während diesem Vorgang nicht funktionieren."</string>
-  <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;Das Verschieben dauert etwa ^1 und wird ^2 auf dem ^3 freigeben.&lt;/b&gt;</string>
+  <string name="storage_wizard_migrate_confirm_body"><b>Das Verschieben dauert etwa ^1 und wird ^2 auf dem ^3 freigeben.</b></string>
   <string name="storage_wizard_migrate_confirm_next">Verschieben</string>
   <string name="storage_wizard_migrate_confirm_title">Jetzt verschieben</string>
   <string name="storage_wizard_migrate_details">"Während dem Verschieben: 
@@ -4466,7 +4466,7 @@ Erwägen Sie die Verwendung eines schnelleren ^1 für bessere Leistung."</string
   <string name="sync_menu_sync_now">Jetzt synchronisieren</string>
   <string name="sync_one_time_sync">"Zum sofortigen Synchronisieren berühren
 %1$s"</string>
-  <string name="sync_plug">" "&lt;font fgcolor="#ffffffff"&gt;Willkommen bei Google Sync!&lt;/font&gt;" 
+  <string name="sync_plug">" "<font fgcolor="#ffffffff"&gt;Willkommen bei Google Sync!</font>" 
 Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von überall auf Ihre Kontakte, Termine und vieles mehr zugreifen zu können!"</string>
   <string name="sync_settings">Synchronisierung</string>
   <string name="sync_wifi_label">WLAN</string>
@@ -4723,7 +4723,7 @@ Bitte bereinigen Sie mindestens %s"</string>
   <string name="uicc_format_summary">Löscht alle Daten auf dem UICC-Speicher, wie z.B. Musik und Fotos</string>
   <string name="uicc_insert_summary">Legen Sie einen UICC-Speicher ein, um ihn einzuhängen</string>
   <string name="uicc_media_format_button_text">Lösche UICC-Speicher</string>
-  <string name="uicc_media_format_desc">Wollen Sie den UICC-Speicher löschen? Sie werden &lt;b&gt;alle&lt;/b&gt; Daten auf dem Speicher verlieren!</string>
+  <string name="uicc_media_format_desc">Wollen Sie den UICC-Speicher löschen? Sie werden <b>alle</b> Daten auf dem Speicher verlieren!</string>
   <string name="uicc_media_format_final_desc">"Wollen Sie den UICC-Speicher löschen, was alle gespeicherten Dateien löschen wird? Sie können diese Aktion nicht rückgängig machen!"</string>
   <string name="uicc_media_format_gesture_explanation">Sie müssen Ihr Entperrmuster zeichnen, um die Löschung des UICC-Speichers zu bestätigen.</string>
   <string name="uicc_media_format_summary">Löscht alle Daten auf dem UICC-Speicher</string>
@@ -4844,7 +4844,7 @@ Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden 
   <string name="usb_install_app_desc">Appinstallation über USB erlauen</string>
   <string name="usb_label_installer_cd">Installieren Sie Datentransfertools</string>
   <string name="usb_media_format_button_text">USB-Speicher löschen</string>
-  <string name="usb_media_format_desc">Wollen Sie den USB-Speicher löschen? Sie werden &lt;b&gt;alle&lt;/b&gt; Daten auf dem Speicher verlieren!</string>
+  <string name="usb_media_format_desc">Wollen Sie den USB-Speicher löschen? Sie werden <b>alle</b> Daten auf dem Speicher verlieren!</string>
   <string name="usb_media_format_final_desc">"Wollen Sie den USB-Speicher löschen, was alle gespeicherten Dateien löschen wird? Sie können diese Aktion nicht rückgängig machen!"</string>
   <string name="usb_media_format_gesture_explanation">Sie müssen Ihr Entsperrmuster zeichnen, um die Löschung des USB-Speichers zu bestätigen.</string>
   <string name="usb_media_format_summary">Löscht alle Daten auf dem USB-Speicher</string>
@@ -5372,9 +5372,9 @@ Für alle Apps die scannen möchten erlauben?"</string>
   <string name="wifi_setup_back">Zurück</string>
   <string name="wifi_setup_cancel">Abbrechen</string>
   <string name="wifi_setup_connect">Verbinden</string>
-  <string name="wifi_setup_description_connected">Drücken Sie &lt;b&gt;Weiter&lt;/b&gt;", um mit der Einrichtung fortzufahren.
+  <string name="wifi_setup_description_connected">Drücken Sie <b>Weiter</b>", um mit der Einrichtung fortzufahren.
 
-Drücken Sie "&lt;b&gt;Zurück&lt;/b&gt;, um eine Verbindung zu einem anderen WLAN-Netzwerk herzustellen.</string>
+Drücken Sie "<b>Zurück</b>, um eine Verbindung zu einem anderen WLAN-Netzwerk herzustellen.</string>
   <string name="wifi_setup_description_connecting">Der Verbindungsaufbau kann einige Minuten dauern...</string>
   <string name="wifi_setup_detail">Netzwerkdetails</string>
   <string name="wifi_setup_eap_not_supported">Während der Einrichtung können Sie keine EAP-WLAN-Verbindung konfigurieren. Sie können dies anschließend in den Einstellungen unter \"Drahtlos &amp;amp Netzwerke\" vornehmen.</string>
