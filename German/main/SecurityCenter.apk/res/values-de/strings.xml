@@ -1287,8 +1287,8 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="safepay_alert_dialog_button_continue">Fortsetzen</string>
   <string name="safepay_alert_dialog_button_risk">Beheben</string>
   <string name="safepay_alert_dialog_button_unknown">Noch einmal prüfen</string>
-  <string name="safepay_alert_dialog_title_risk"><font color=#ec2700>Risiko gefunden! Brechen Sie die Zahlung ab!</font></string>
-  <string name="safepay_alert_dialog_title_unknown">"<font color=#f59c00>Zahlungssicherheit konnte nicht überprüft werden. Verbinden Sie sich mit dem Internet und versuchen Sie es erneut.</font>"</string>
+  <string name="safepay_alert_dialog_title_risk"><font color="#ec2700">Risiko gefunden! Brechen Sie die Zahlung ab!</font></string>
+  <string name="safepay_alert_dialog_title_unknown">"<font color="#f59c00">Zahlungssicherheit konnte nicht überprüft werden. Verbinden Sie sich mit dem Internet und versuchen Sie es erneut.</font>"</string>
   <string name="sc_allow_network_dialog_message">Diese App benötigt eine Verbindung zum Internet, um ordnungsgemäß ausgeführt werden zu können.</string>
   <string name="sc_allow_network_dialog_tiltle">"Diese Funktion kann nicht benutzt werden"</string>
   <string name="scan_status_risk">Riskant</string>
