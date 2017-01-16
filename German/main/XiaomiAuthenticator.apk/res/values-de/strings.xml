@@ -74,7 +74,7 @@ Bei account.xiaomi.com anmelden und Reactivate anklicken."</string>
   <string name="lockpattern_need_to_confirm">Muster zum Bestätigen erneut eingeben</string>
   <string name="lockpattern_need_to_confirm_wrong">Unstimmig mit dem vorherigen Eintrag, bitte erneut eingeben:</string>
   <string name="lockpattern_need_to_unlock_footer"/>
-  <string name="lockpattern_need_to_unlock_wrong"><font color='red'>Passwort falsch, Sie können %d mal mehr eingeben</font></string>
+  <string name="lockpattern_need_to_unlock_wrong">Passwort falsch, Sie haben noch %d Versuche</string>
   <string name="lockpattern_need_to_unlock_wrong_footer"/>
   <string name="lockpattern_pattern_confirmed_header">Ihr neues Entsperrmuster:</string>
   <string name="lockpattern_pattern_entered_header">Muster aufgenommen.</string>
@@ -85,7 +85,7 @@ Bei account.xiaomi.com anmelden und Reactivate anklicken."</string>
   <string name="lockpattern_retry_text">Musterpasswort zurücksetzen</string>
   <string name="lockpattern_settings_help_how_to_record">Wie man ein Entsperrmuster zeichnet</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Nochmal in %d Sekunden probieren.</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_header"><font color=red>Zu viele falsche Versuche!</font></string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">Zu viele falsche Versuche!</string>
   <string name="lockpattern_tutorial_cancel_label">Abbrechen</string>
   <string name="lockpattern_tutorial_close_label">Schließen</string>
   <string name="lockpattern_tutorial_continue_label">Weiter</string>
