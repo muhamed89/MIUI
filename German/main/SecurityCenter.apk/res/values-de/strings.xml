@@ -1647,7 +1647,7 @@ Der verbleibende Datenverbrauch beinhalten auch jenen Verbrauch, welcher in dem 
   <string name="traffic_limit_error_alert_reset">Limit zurücksetzen</string>
   <string name="traffic_none">Keine</string>
   <string name="traffic_over_purchase_body">Antippen, um Details anzuzeigen.</string>
-  <string name="traffic_over_purchase_link">"Sie haben Ihr mobiles Datenlimit überschritten.<br />Wenn Sie das Datenlimit überschreiten, kann dies zu erhöhten Kosten führen.<br /><br /><font color='#ccffffff'><u>Top up now and save 50%.</u>&amp;lt;/font&amp;gt;"</string>
+  <string name="traffic_over_purchase_link">"Sie haben Ihr mobiles Datenlimit überschritten. Wenn Sie das Datenlimit überschreiten, kann dies zu erhöhten Kosten führen. <font color='#ccffffff'><u>Top up now and save 50%.</u></font>"</string>
   <string name="traffic_over_purchase_title">Datenlimit überschritten</string>
   <string name="traffic_purchase_body">Antippen, um Ihr Guthaben aufzuladen.</string>
   <string name="traffic_purchse_suggestion">Datenlimit überschritten</string>
