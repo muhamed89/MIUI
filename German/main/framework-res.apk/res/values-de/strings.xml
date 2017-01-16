@@ -509,7 +509,7 @@ Möchten Sie diese Seite wirklich verlassen?"</string>
   <string name="keyguard_password_enter_pin_prompt">Neuer PIN-Code</string>
   <string name="keyguard_password_enter_puk_code">PUK und neuen PIN-Code eingeben</string>
   <string name="keyguard_password_enter_puk_prompt">PUK-Code</string>
-  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Zur Passworteingabe berühren&lt;/font&gt;</string>
+  <string name="keyguard_password_entry_touch_hint"><font size="17">Zur Passworteingabe berühren</font></string>
   <string name="keyguard_password_wrong_pin_code">Falscher PIN-Code</string>
   <string name="kg_emergency_call_label">Notruf</string>
   <string name="kg_enter_confirm_pin_hint">Gewünschten PIN-Code bestätigen</string>
@@ -524,7 +524,7 @@ Möchten Sie diese Seite wirklich verlassen?"</string>
   <string name="kg_invalid_sim_pin_hint">Geben Sie eine 4- bis 8-stellige PIN ein.</string>
   <string name="kg_invalid_sim_puk_hint">Der PUK-Code muss mindestens 8 Ziffern betragen.</string>
   <string name="kg_login_account_recovery_hint">"Nutzernamen oder Passwort vergessen?
-Besuchen Sie "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
+Besuchen Sie "<b>google.com/accounts/recovery</b>.</string>
   <string name="kg_login_checking_password">Konto wird geprüft…</string>
   <string name="kg_login_instructions">Melden Sie sich zum Entsperren mit Ihrem Googlekonto an.</string>
   <string name="kg_login_invalid_input">Ungültiger Nutzername oder ungültiges Kennwort</string>
@@ -599,7 +599,7 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Sie haben %d-mal erfolglos versucht, das Telefon zu entsperren. Das Telefon wird nun auf die Werkseinstellungen zurückgesetzt.</string>
   <string name="lockscreen_forgot_pattern_button_text">Muster vergessen?</string>
   <string name="lockscreen_glogin_account_recovery_hint">"Nutzernamen oder Passwort vergessen?
-Besuchen Sie "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
+Besuchen Sie "<b>google.com/accounts/recovery</b>.</string>
   <string name="lockscreen_glogin_checking_password">Überprüfung...</string>
   <string name="lockscreen_glogin_forgot_pattern">Kontoentsperrung</string>
   <string name="lockscreen_glogin_instructions">Melden Sie sich zum Entsperren mit Ihrem Googlekonto an.</string>
@@ -1413,7 +1413,7 @@ für Konto %s"</string>
   <string name="permlab_writeSyncSettings">Synchronisierung aktivieren oder deaktivieren</string>
   <string name="permlab_writeVoicemail">Mailboxnachrichten ändern und entfernen</string>
   <string name="perms_description_app">Zur Verfügung gestellt von %1$s</string>
-  <string name="perms_new_perm_prefix">&lt;font size="12" fgcolor="#ff33b5e5"&gt;Neu: &lt;/font&gt;</string>
+  <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff33b5e5">Neu: </font></string>
   <string name="petabyteShort">PB</string>
   <string name="phoneTypeAssistant">Zweite Nummer</string>
   <string name="phoneTypeCallback">Rückruf</string>
@@ -1612,17 +1612,17 @@ Wenn Sie über längere Zeiträume hinweg Musik in hoher Lautstärke hören, kan
   <string name="sipAddressTypeOther">Sonstige</string>
   <string name="sipAddressTypeWork">Geschäftlich</string>
   <string name="skip_button_label">Überspringen</string>
-  <string name="sms_control_message">&lt;b&gt;%1$s&lt;/b&gt; sendet eine große Anzahl SMS. Möchten Sie zulassen, dass die App weiterhin Nachrichten sendet?</string>
+  <string name="sms_control_message"><b>%1$s</b> sendet eine große Anzahl SMS. Möchten Sie zulassen, dass die App weiterhin Nachrichten sendet?</string>
   <string name="sms_control_no">Nicht zulassen</string>
   <string name="sms_control_title">SMS werden gesendet</string>
   <string name="sms_control_yes">Zulassen</string>
-  <string name="sms_premium_short_code_details">&lt;b&gt;Hierfür werden Ihrem Mobilfunkkonto Gebühren berechnet.&lt;/b&gt;</string>
+  <string name="sms_premium_short_code_details"><b>Hierfür werden Ihrem Mobilfunkkonto Gebühren berechnet.</b></string>
   <string name="sms_short_code_confirm_allow">Senden</string>
   <string name="sms_short_code_confirm_always_allow">Immer zulassen</string>
   <string name="sms_short_code_confirm_deny">Abbrechen</string>
-  <string name="sms_short_code_confirm_message">&lt;b&gt;%1$s&lt;/b&gt; möchte eine Nachricht an &lt;b&gt;%2$s&lt;/b&gt; senden.</string>
+  <string name="sms_short_code_confirm_message"><b>%1$s</b> möchte eine Nachricht an <b>%2$s</b> senden.</string>
   <string name="sms_short_code_confirm_never_allow">Nie zulassen</string>
-  <string name="sms_short_code_details">Hierfür könnten Ihrem Mobilfunkkonto &lt;b&gt;Gebühren berechnet werden&lt;/b&gt;.</string>
+  <string name="sms_short_code_details">Hierfür könnten Ihrem Mobilfunkkonto <b>Gebühren berechnet werden</b>.</string>
   <string name="sms_short_code_remember_choice">Auswahl merken</string>
   <string name="sms_short_code_remember_undo_instruction">Sie können dies unter \"Einstellungen &gt; Apps\" ändern.</string>
   <string name="smv_application">Die App %1$s (Prozess %2$s) hat gegen ihre selbsterzwungene StrictMode-Richtlinie verstoßen.</string>

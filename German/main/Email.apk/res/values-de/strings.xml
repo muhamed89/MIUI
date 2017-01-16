@@ -593,7 +593,7 @@
   <string name="more_context">Mehr</string>
   <string name="more_string">+%1$s</string>
   <string name="move_to_selection_dialog_title">Verschieben nach</string>
-  <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt;"   %2$s"</string>
+  <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
   <string name="mute">Ignorieren</string>
   <string name="net_check_title">Konnte nicht zum Netzwerk verbunden werden. Überprüfen Sie die Netzwerkeinstellungen und versuchen Sie es erneut.</string>
   <string name="network_error">Keine Verbindung</string>
@@ -939,7 +939,7 @@
   <string name="via_domain">über %1$s</string>
   <string name="view_more_conversations">Weitere Konversationen ansehen</string>
   <string name="wait_for_manual_sync_body">"Für dieses Konto ist keine automatische Synchronisierung eingerichtet.
-Tippen Sie auf "&lt;b&gt;Jetzt synchronisieren&lt;/b&gt; um Ihre Mails einmalig zu syncronisieren oder &lt;b&gt;Synchronisations Einstellungen ändern&lt;/b&gt; um dieses Konto automatisch zu synchronisieren.</string>
+Tippen Sie auf "<b>Jetzt synchronisieren</b> um Ihre Mails einmalig zu syncronisieren oder <b>Synchronisations Einstellungen ändern</b> um dieses Konto automatisch zu synchronisieren.</string>
   <string name="wait_for_sync_title">Auf Synchronisierung warten</string>
   <string name="widget_all_mail">Alle Mails</string>
   <string name="widget_large_unread_count">%d+</string>

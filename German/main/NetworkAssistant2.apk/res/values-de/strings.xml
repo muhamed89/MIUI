@@ -229,20 +229,20 @@ Hauptzeit: %1$s%2$s verbleibend | %3$s verbraucht"</string>
   <string name="network_roaming_exception_tips">Während des Roamings kann die mobile Datenverbindung nicht zur Netzwerkverbindung verwendet werden.</string>
   <string name="network_route_exception_detail">"Möglicherweise liegt der Fehler bei Ihrem Router:
 
- "&lt;b&gt;"1. Problem mit einem öffentlichen WLAN-Netzwerk
-"&lt;/b&gt;Wenn Sie mit einem öffentlichem WLAN-Netzwerk verbunden sind, kann je nach Anzahl der verbundenen Benutzer die Geschwindigkeit beeinträchtigt werden. Wechseln Sie in ein anderes Netzwerk und versuchen Sie es erneut.
+ "<b>"1. Problem mit einem öffentlichen WLAN-Netzwerk
+"</b>Wenn Sie mit einem öffentlichem WLAN-Netzwerk verbunden sind, kann je nach Anzahl der verbundenen Benutzer die Geschwindigkeit beeinträchtigt werden. Wechseln Sie in ein anderes Netzwerk und versuchen Sie es erneut.
 
- 2."&lt;b&gt;" Problem mit dem Internetanbieter
-M"&lt;/b&gt;"Stellen Sie sicher, dass Sie ein gültiges Konto bei Ihrem Internetanbieter besitzen.
+ 2."<b>" Problem mit dem Internetanbieter
+M"</b>"Stellen Sie sicher, dass Sie ein gültiges Konto bei Ihrem Internetanbieter besitzen.
 
- 3."&lt;b&gt;" Problem mit der Router-Hardware
-T"&lt;/b&gt;"Versuchen Sie Ihren Router neu zu starten und/oder überprüfen Sie die Router-Einstellungen.
+ 3."<b>" Problem mit der Router-Hardware
+T"</b>"Versuchen Sie Ihren Router neu zu starten und/oder überprüfen Sie die Router-Einstellungen.
 
- 4."&lt;b&gt;" Weitere Probleme
-R"&lt;/b&gt;"Lesen Sie die Bedienungshilfen, die bei Ihrem Router mitgeliefert wurden und stellen Sie die Werkseinstellungen des Router wieder her.
+ 4."<b>" Weitere Probleme
+R"</b>"Lesen Sie die Bedienungshilfen, die bei Ihrem Router mitgeliefert wurden und stellen Sie die Werkseinstellungen des Router wieder her.
 
- 5."&lt;b&gt;" Stellen Sie sicher, dass der Router korrekt verbunden ist
-T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. Wenn Sie vermuten, dass der Fehler an der Verbindung liegt dann kontaktieren Sie Ihren Internetanbieter."</string>
+ 5."<b>" Stellen Sie sicher, dass der Router korrekt verbunden ist
+T"</b>"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. Wenn Sie vermuten, dass der Fehler an der Verbindung liegt dann kontaktieren Sie Ihren Internetanbieter."</string>
   <string name="network_sim_exception_detail">"Möglichweise liegt der Fehler an Ihrer SIM-Karte:
 
  1. Stellen Sie sicher, dass Sie ein gültiges Konto bei Ihrem Netzanbieter besitzen. Versuchen Sie die SIM-Karte eines Freundes und überprüfen Sie, ob die Verbindung ordnungsgemäß funktioniert.
@@ -362,7 +362,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Datenreduzierung für neu installierte Apps automatisch aktivieren</string>
   <string name="pref_traffic_saving_compressed">Komprimiert</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
-  <string name="pref_traffic_saving_issue_content">&lt;b&gt; 1. Wirkt sich die Datenreduzierung auf meine Privatsphäre aus? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Nein, Ihre Daten bleiben privat und werden nicht an Dritte weitergegeben. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; Warum funktioniert die Datenreduzierung nicht? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt; Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden sind und Inhalte senden oder herunterladen.</string>
+  <string name="pref_traffic_saving_issue_content"><b> 1. Wirkt sich die Datenreduzierung auf meine Privatsphäre aus? </b>&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Nein, Ihre Daten bleiben privat und werden nicht an Dritte weitergegeben. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;<b> Warum funktioniert die Datenreduzierung nicht? </b>&lt;br /&gt;&lt;br /&gt; Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden sind und Inhalte senden oder herunterladen.</string>
   <string name="pref_traffic_saving_no_compress">Nicht komprimiert</string>
   <string name="pref_traffic_saving_notify_switch">In Statusleiste anzeigen</string>
   <string name="pref_traffic_saving_notify_switch_hint">Datenreduzierung in der Statusleiste anzeigen</string>
@@ -405,7 +405,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="saving_conflict_restrictbackground_msg">Die Datenreduzierung kann bei Beschränkung der Hintergrunddaten nicht verwendet werden. Möchten Sie die Datenreduzierung und die Beschränkung der Hintergrunddaten einschalten?</string>
   <string name="sc_allow_network_dialog_message">Diese App benötigt eine Verbindung zum Internet, um ordnungsgemäß ausgeführt werden zu können.</string>
   <string name="sc_allow_network_dialog_tiltle">"Diese Funktion kann nicht benutzt werden"</string>
-  <string name="search_input_txt">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
+  <string name="search_input_txt"><font color='#ff0000'>%s</font></string>
   <string name="see_detail">Details</string>
   <string name="setting_traffic_pkg">Datenpakete einstellen</string>
   <string name="settings">Einstellung zur Datennutzung</string>
@@ -443,7 +443,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="tc_sms_report_notify_get_timeout_body">Zeitüberschreitung. Stellen Sie sicher, dass der eingegebene Code korrekt ist.</string>
   <string name="tc_sms_report_notify_get_timeout_title">Datenverbrauchsübersicht anfordern fehlgeschlagen</string>
   <string name="tc_sms_report_receive_content">SMS-Nutzungsberichtinhalt (Nutzungsbericht bestätigen)</string>
-  <string name="tc_sms_report_receive_content_null">Helfen Sie bei der Verbesserung dieser Funktion mit!&lt;br/&gt;So geht es:&lt;br/&gt;1. Gehen Sie auf \"SMS-Befehl überprüfen\" und \"Empfängernummer\"&lt;br/&gt;2. Wählen Sie \"SMS-Vorlage abrufen\";br/&gt;3. Warten Sie auf die SMS Ihres Anbieters ;br/&gt;4. Wählen Sie \"Zu MIUI hochladen\"</string>
+  <string name="tc_sms_report_receive_content_null">Helfen Sie bei der Verbesserung dieser Funktion mit!<br/>So geht es:<br/>1. Gehen Sie auf \"SMS-Befehl überprüfen\" und \"Empfängernummer\"<br/>2. Wählen Sie \"SMS-Vorlage abrufen\";br/&gt;3. Warten Sie auf die SMS Ihres Anbieters ;br/&gt;4. Wählen Sie \"Zu MIUI hochladen\"</string>
   <string name="tc_sms_report_receive_num">Nummer des Empfängers</string>
   <string name="tc_sms_report_send_num">Anbieternummer</string>
   <string name="tc_sms_report_summary">Helfen Sie uns diese Funktion zu verbessern, indem Sie uns eine fehlerhafte Datenverbrauchsübersicht oder Aktualisierungsfehler melden</string>
@@ -503,7 +503,7 @@ Der verbleibende Datenverbrauch beinhalten auch jenen Verbrauch, welcher in dem 
   <string name="traffic_limit_error_alert_title">Erinnerung der Datenbeschränkung %s</string>
   <string name="traffic_none">Keine</string>
   <string name="traffic_over_purchase_body">Antippen um Details anzuzeigen.</string>
-  <string name="traffic_over_purchase_link">"Sie haben Ihr mobiles Datenlimit überschritten.&lt;br/&gt;Wenn Sie das Datenlimit überschreiten, kann dies zu erhöhten Kosten führen.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;<u>Laden Sie jetzt auf und sparen Sie 50%.</u>&amp;lt;/font&amp;gt;"</string>
+  <string name="traffic_over_purchase_link">"Sie haben Ihr mobiles Datenlimit überschritten.<br/>Wenn Sie das Datenlimit überschreiten, kann dies zu erhöhten Kosten führen.<br/><br/><font color='#ccffffff'><u>Laden Sie jetzt auf und sparen Sie 50%.</u></font>"</string>
   <string name="traffic_over_purchase_title">Datenlimit überschritten</string>
   <string name="traffic_protection_data_usage_summary">Einstellen einer Datenverbrauchswarnung, um Ihr monatliches Limit nicht zu überschreiten.</string>
   <string name="traffic_protection_label">Datenverbrauchswarnung</string>
@@ -545,7 +545,7 @@ Der verbleibende Datenverbrauch beinhalten auch jenen Verbrauch, welcher in dem 
   <string name="traffic_saving_ratio_low">"Datenverbrauch kann nicht deutlich reduziert werden"</string>
   <string name="traffic_saving_recommanded_close">Dieses Element ausschalten</string>
   <string name="traffic_saving_recommanded_open">Dieses Element ausschalten</string>
-  <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Datenreduzierer automatisch aktivieren, um mobile Datennutzung von Apps zu reduzieren.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Wenn Sie einen monatliche Datentarif haben, denken Sie daran, Datenreduzierer für individuelle Apps abzustellen, um zusätzliche Gebühren von Ihrem Mobilfunkbetreiber zu vermeiden.&lt;/font&gt;"</string>
+  <string name="traffic_saving_start_tip_context">"<big><font color='#7F000000'>Datenreduzierer automatisch aktivieren, um mobile Datennutzung von Apps zu reduzieren.</font></big><br/><br/><font color='#FF000000'>Wenn Sie einen monatliche Datentarif haben, denken Sie daran, Datenreduzierer für individuelle Apps abzustellen, um zusätzliche Gebühren von Ihrem Mobilfunkbetreiber zu vermeiden.</font>"</string>
   <string name="traffic_saving_start_tip_title">Aktivieren</string>
   <string name="traffic_saving_tecsupport">Bereitgestellt von Opera</string>
   <string name="traffic_saving_tecsupport_international">Powered by Opera Max</string>
@@ -559,7 +559,7 @@ Der verbleibende Datenverbrauch beinhalten auch jenen Verbrauch, welcher in dem 
   <string name="traffic_saving_whitelist_btn_added">Hinzugefügt</string>
   <string name="traffic_saving_whitelist_btn_remove">Entfernen</string>
   <string name="traffic_saving_whitelist_btn_removed">Die App wurde von der Liste entfernt</string>
-  <string name="traffic_saving_whitelist_count">"&lt;font color='#4DAA0F'&gt;%1$d&lt;/font&gt; Apps' Datennutzung ist nicht begrenzt"</string>
+  <string name="traffic_saving_whitelist_count"><font color='#4DAA0F'>%1$d</font> "Apps' Datennutzung ist nicht begrenzt"</string>
   <string name="traffic_saving_whitelist_no_app">Keine Apps</string>
   <string name="traffic_saving_wifi_usage">WLAN-Verbrauch</string>
   <string name="traffic_setting_app_count">%d Apps</string>
