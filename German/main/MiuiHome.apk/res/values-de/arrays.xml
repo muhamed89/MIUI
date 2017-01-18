@@ -47,4 +47,11 @@
         <item>Feinstaub</item>
         <item>Dunst</item>
     </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Themen</item>
+        <item>Widgets</item>
+        <item>Hintergrund</item>
+        <item>Effekte</item>
+        <item>Positionen</item>
+    </string-array>
 </resources>
