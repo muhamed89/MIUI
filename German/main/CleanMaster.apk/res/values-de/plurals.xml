@@ -81,4 +81,12 @@
         <item quantity="other">%d Apps installiert</item>
         <item quantity="one">%d App installiert</item>
      </plurals>
+     <plurals name="wechat_copy_video_failed_dialog_msg">
+       <item quantity="other">%d Videos konnten nicht exportiert werden. Machen Sie Speicherplatz frei und versuchen Sie es noch einmal.</item>
+       <item quantity="one">%d Video konnte nicht exportiert werden. Machen Sie Speicherplatz frei und versuchen Sie es noch einmal.</item>
+     </plurals>
+     <plurals name="wechat_empty_files">
+        <item quantity="other">（%1$d leere Dateien）%2$s</item>
+        <item quantity="one">（%1$d leere Datei）%2$s</item>
+     </plurals>
 </resources>

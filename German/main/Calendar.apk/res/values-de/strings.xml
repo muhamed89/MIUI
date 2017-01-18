@@ -197,6 +197,7 @@
   <string name="edit_event_from_label">Von</string>
   <string name="edit_event_input_year">Jahr eingeben</string>
   <string name="edit_event_label">Details</string>
+  <string name="edit_event_no_reminder_value">Keine Erinnerung</string>
   <string name="edit_event_reminder_off_toast">Erinnerungen sind ausgeschaltet</string>
   <string name="edit_event_show_all">Alle anzeigen</string>
   <string name="edit_event_tab_anniversary">Jahrestag</string>
@@ -243,7 +244,8 @@
   <string name="event_lunar_month">Monat</string>
   <string name="event_not_found">Keine Ereignisse</string>
   <string name="event_reminder_allday_day_zero">An diesem Tag %2$s</string>
-  <string name="event_reminders_to_max">Dieses Ereignis unterstützt %d Erinnerungen</string>
+  <string name="event_reminder_value_zero">Zm Ereignisbeginn</string>
+  <string name="event_reminders_to_max">Dieses Ereignis unterstützt %d Erinnerungen</string>  
   <string name="event_show_more">Mehr Optionen</string>
   <string name="event_subscirbe_detail_title">Weitere Informationen zur Veranstaltung</string>
   <string name="event_title">Titel</string>
@@ -371,6 +373,7 @@
   <string name="pengzu">Pengzu</string>
   <string name="prefDialogTitle_vibrateWhen">Vibration</string>
   <string name="pref_error_no_ringtone_select">Nichts ausgewählt</string>
+  <string name="pref_reminder_time">Erinnerungszeit</string>
   <string name="pref_title_alarm_remind">Alarm</string>
   <string name="pref_title_alert_remind">Popup</string>
   <string name="pref_title_no_remind">Keine</string>
@@ -498,6 +501,7 @@
   <string name="setting_others">Andere</string>
   <string name="setting_sms_import">SMS-Ereignis importieren</string>
   <string name="setting_title_about">Über</string>
+  <string name="setting_title_holiday_display">Feiertage anzeigen</string>
   <string name="setting_wifi_mode">Nur WLAN-Synchronisation</string>
   <string name="settings_calendar">Kalender</string>
   <string name="show_controls">Steuerelemente ein</string>

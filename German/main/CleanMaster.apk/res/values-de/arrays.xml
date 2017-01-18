@@ -65,4 +65,14 @@
     <string-array name="low_memory_clean_menu">
         <item>Bereinigen</item>
     </string-array>
+    <string-array name="wechat_menu_delete">
+        <item>Löschen</item>
+    </string-array>
+    <string-array name="wechat_menu_delete_whitelist">
+       <item>Löschen</item>
+    </string-array>
+    <string-array name="wechat_menu_delete_whitelist_view">
+       <item>Löschen</item>
+       <item>Anzeigen</item>
+    </string-array>
 </resources>
