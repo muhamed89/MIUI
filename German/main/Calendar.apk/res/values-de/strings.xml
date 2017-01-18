@@ -189,6 +189,8 @@
   <string name="edit_event_birthday_name_empty_hint">Bitte Name eingeben</string>
   <string name="edit_event_birthday_name_hint">Name</string>
   <string name="edit_event_birthday_reminder_3_days_before">und 3 Tage vorher erinnern</string>
+  <string name="edit_event_birthday_reminder_summary">Am Geburtstag um %1$s</string>
+  <string name="edit_event_birthday_reminder_summary_3_days_before">3 Tage vorher, am Geburtstag um %1$s</string>
   <string name="edit_event_birthday_reminder_time">Erinnerungszeit</string>
   <string name="edit_event_birthday_the_day">Tag</string>
   <string name="edit_event_calendar_label">Kalender</string>
@@ -198,6 +200,8 @@
   <string name="edit_event_input_year">Jahr eingeben</string>
   <string name="edit_event_label">Details</string>
   <string name="edit_event_no_reminder_value">Keine Erinnerung</string>
+  <string name="edit_event_reminder_text">%1$s am Geburtstag um %2$s</string>
+  <string name="edit_event_reminder_with_another_day_text">%1$s, %2$s am Geburtstag um %3$s</string>
   <string name="edit_event_reminder_off_toast">Erinnerungen sind ausgeschaltet</string>
   <string name="edit_event_show_all">Alle anzeigen</string>
   <string name="edit_event_tab_anniversary">Jahrestag</string>

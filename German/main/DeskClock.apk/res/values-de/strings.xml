@@ -22,6 +22,7 @@
   <string name="alarm_volume_summary">Wecklautstärke einstellen</string>
   <string name="alarm_volume_title">Wecklautstärke</string>
   <string name="alarmclock_empty_text">Kein Wecker</string>
+  <string name="alarmclock_silent_hint">Wecker ist stumm</string>
   <string name="alert">Weckton</string>
   <string name="analog_gadget">Analoguhr</string>
   <string name="app_label">Uhr</string>
@@ -32,7 +33,7 @@
   <string name="birthday_alarm">Geburtstagsalarm</string>
   <string name="birthday_alarm_summary">Spiele \"Happy Birthday\" an deinem Geburtstag anstelle des Standardwecktons</string>
   <string name="cancel">Abbrechen</string>
-  <string name="close_alarm">Weckruf schließen</string>
+  <string name="close_alarm">Schließen</string>
   <string name="common_settings">Einstellungen</string>
   <string name="confirm_abort">Verwerfen</string>
   <string name="control_set_alarm">Wecker einstellen</string>
@@ -140,8 +141,8 @@
   <string name="tomorrow">Morgen</string>
   <string name="turn_off_a_repeat_alarm">Wiederkehrenden Wecker ausschalten</string>
   <string name="turn_off_this_repeat_alarm">Diesen wiederkehrenden Wecker ausschalten</string>
-  <string name="upcoming_alarm">" Bevorstehender Wecker"</string>
-  <string name="upcoming_alarm_hint">Sie können diesen Wecker im Voraus beenden</string>
+  <string name="upcoming_alarm">" anstehender Wecker"</string>
+  <string name="upcoming_alarm_hint">Sie können diesen Wecker <br /> im Voraus beenden</string>
   <string name="vibrate_pref_summary">Bei Alarm vibrieren</string>
   <string name="vibrate_when_ringing">Vibrieren beim Klingeln</string>
   <string name="volume_button_setting_summary">Verhalten dieser Tasten während Wecker klingelt</string>

@@ -385,6 +385,7 @@
   <string name="doodle_mosaic">Mosaik</string>
   <string name="doodle_small_size">Klein</string>
   <string name="doodle_super_big_size">Riesig</string>
+  <string name="double_tap_to_higher_definition">Für HD-Vorschau 2x antippen</string>
   <string name="download">Download</string>
   <string name="download_fail">Download fehlgeschlagen</string>
   <string name="download_fail_confirm_continue">Download von %s fehlgeschlagen</string>
@@ -603,6 +604,7 @@
   <string name="invite_tip">Teilen Sie Ihre Babyfotos</string>
   <string name="invited_tip">Eingeladen</string>
   <string name="is">Ja</string>
+  <string name="is_higher_definition">HD-Vorschau</string>
   <string name="iso">ISO</string>
   <string name="item_not_sync_for_origin_image">Fotos, die nicht mit Mi Cloud synchronisiert wurden, können nicht heruntergeladen werden</string>
   <string name="item_not_sync_for_origin_video">Videos, die nicht mit Mi Cloud synchronisiert wurden, können nicht heruntergeladen werden</string>
