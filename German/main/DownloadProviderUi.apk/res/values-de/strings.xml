@@ -8,6 +8,7 @@
   <string name="Only_the_wifi">Nur im WLAN</string>
   <string name="about">Über</string>
   <string name="action_settings">Einstellungen</string>
+  <string name="ad_download">Installieren</string>
   <string name="ad_mark">AD</string>
   <string name="ad_title">Personen laden dies auch mit %1$s runter</string>
   <string name="ad_title_other">Personen, die dieses Bild heruntergeladen haben, laden auch herunter</string>
@@ -70,6 +71,7 @@
   <string name="dialog_insufficient_space_on_external">Der Download kann nicht abgeschlossen werden, da der Speicherplatz des externen Speichers nicht ausreicht.</string>
   <string name="dialog_media_not_found">Der Download ist nicht möglich, da kein externes Speichermedium vorhanden ist.</string>
   <string name="dialog_msg_disabled_net">%1$s schränkt Downloads für das derzeitige Netzwerk ein. Klicke auf Netzwerkeinstellungen, um zur Sicherheitsapp zu gelangen.</string>
+  <string name="dialog_msg_recommend">Nach dem Ausschalten können Sie keine empfohlenen Quellen mehr anzeigen. Sie können \"Inhalte nur über WLAN laden\" einschalten, um den Datenverbrauch zu reduzieren.</string>
   <string name="dialog_queued_body">Datei wurde zum späteren Download auf die Warteschlange gesetzt.</string>
   <string name="dialog_title_disabled_net">Internetzugang</string>
   <string name="dialog_title_not_available">Download fehlgeschlagen</string>
