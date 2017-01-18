@@ -841,10 +841,6 @@
   <string name="reply_all">Allen Antworten</string>
   <string name="reply_attribution" formatted="false">Am %s, %s schrieb:</string>
   <string name="report_phishing">Phishing melden</string>
-  <string name="report_rendering_improvement">Sieht gut aus</string>
-  <string name="report_rendering_improvement_desc">Diese Meldung sieht gut aus.</string>
-  <string name="report_rendering_problem">Sieht schlecht aus</string>
-  <string name="report_rendering_problem_desc">Diese Meldung sieht schlecht aus.</string>
   <string name="report_spam">Spam melden</string>
   <string name="request_entity_large">Datei ist zu groß!</string>
   <string name="request_permission_activity">Zugriffsanfrage</string>
@@ -995,7 +991,6 @@
   <string name="wait_for_manual_sync_body">"Für dieses Konto ist keine automatische Synchronisierung eingerichtet.
 Tippen Sie auf "<b>Jetzt synchronisieren</b> um Ihre Mails einmalig zu syncronisieren oder <b>Synchronisations Einstellungen ändern</b> um dieses Konto automatisch zu synchronisieren.</string>
   <string name="wait_for_sync_title">Auf Synchronisierung warten</string>
-  <string name="wait_help_context">Warten</string>
   <string name="webview_logout">Wollen Sie wirklich aufgeben, sich anzumelden? Los, versuchen Sie es erneut!</string>
   <string name="webview_logout_cancel">Keine Versuche mehr</string>
   <string name="webview_logout_sure">Noch einmal versuchen</string>
