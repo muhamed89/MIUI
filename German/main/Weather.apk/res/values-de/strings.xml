@@ -59,6 +59,7 @@
   <string name="close">Schließen</string>
   <string name="commercial">Kommerziell</string>
   <string name="common_loading_text">Wird geladen...</string>
+    <string name="connect_fail">Netzwerkverbindung fehlgeschlagen. Versuchen Sie es später noch einmal.</string>
   <string name="daily_forcast_drawer_on_bottom">Verbergen</string>
   <string name="daily_forcast_drawer_on_top">Weitere Tage</string>
   <string name="daily_forcast_no_stable_direction">Windstill</string>
@@ -72,7 +73,9 @@
   <string name="daily_forecast_detail">Vorhersage</string>
   <string name="daily_forecast_detail_date">d.M.</string>
   <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
-  <string name="data_source_timezone">GMT%1$s</string>
+    <string name="daily_forecast_no_data">Daten konnten nicht geladen werden
+nach unten ziehen, um zu aktialisieren oder überprüfen Sie die Netzwerkeinstellungen</string>
+    <string name="delete">Löschen</string>
   <string name="edit_alert_city_title">Warnungen verwalten</string>
   <string name="edit_city">Bearbeiten</string>
   <string name="empty">" "</string>
@@ -134,6 +137,7 @@
   <string name="other">Andere</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="realtime_aqi_title">Luftqualität</string>
+    <string name="realtime_cityname_default">Standort</string>
   <string name="realtime_humidity_title">Relative Luftfeuchte</string>
   <string name="realtime_wind_default_title">Wind</string>
   <string name="refresh_fail">Netzwerkverbindung konnte nicht hergestellt werden</string>

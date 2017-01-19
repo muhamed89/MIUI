@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="find_applications">
+        <item quantity="other">Suche in %d Apps</item>
+        <item quantity="one">Suche in %d App</item>
+    </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">%d Apps gefunden</item>
+        <item quantity="zero">0 Apps gefunden</item>
+        <item quantity="one">%d App gefunden</item>
+    </plurals>
     <plurals name="install_game_count_title">
-        <item quantity="other">Added %d games</item>
-        <item quantity="one">Added %d game</item>
+        <item quantity="other">%d Spiele hinzugefügt</item>
+        <item quantity="one">%d Spiel hinzugefügt</item>
     </plurals>
     <plurals name="uninstall_game_count_title">
-        <item quantity="other">"Haven't added %d games"</item>
-        <item quantity="one">"Haven't added %d game"</item>
+        <item quantity="other">%d Spiele nicht hinzugefügt</item>
+        <item quantity="one"> %d Spiel nicht hinzugefügt</item>
     </plurals>
 </resources>

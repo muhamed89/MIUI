@@ -2,6 +2,7 @@
 <resources>
   <string name="action_bar_delete">Löschen</string>
   <string name="action_settings">Einstellungen</string>
+    <string name="action_title_optimize">Jetzt optimieren</string>
   <string name="activity_title_poweranalyze">Akku testen</string>
   <string name="activity_title_powerconfigure">Akkueinstellungen</string>
   <string name="activity_title_poweroptimize">Energiesparen</string>

@@ -83,6 +83,7 @@
   <string name="feedback_status_commit_failed_title">Bericht konnte nicht gesendet werden</string>
   <string name="feedback_status_commit_succ_title">Gesendet</string>
   <string name="feedback_status_commit_uploading_title">Wird gesendet…</string>
+    <string name="feedback_status_forum_reply">Antworten</string>
   <string name="feedback_status_jira_comment">Kommentar hinzufügen</string>
   <string name="feedback_status_more">Details</string>
   <string name="feedback_status_processing">Wird verarbeitet…</string>
@@ -90,6 +91,7 @@
   <string name="feedback_status_replyed">Geantwortet</string>
   <string name="feedback_status_reresolved">Gelöst</string>
   <string name="feedback_status_supplement">Beschreiben Sie Ihr Problem im Detail</string>
+    <string name="feedback_status_supplement_more">Kommentar hinzufügen</string>
   <string name="feedback_submit_failed_notification_desc">Details ansehen</string>
   <string name="feedback_submit_failed_notification_retry">Nochmals senden</string>
   <string name="feedback_submit_failed_notification_title">Bericht konnte nicht gesendet werden</string>

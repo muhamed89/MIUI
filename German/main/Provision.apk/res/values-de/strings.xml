@@ -20,6 +20,8 @@
   <string name="input_method_category">"Standardeingabemethode wählen, die z.B. beim Schreiben von E-Mails oder Notizen verwendet wird. Weitere Drittanbietertastaturen können später installiert werden."</string>
   <string name="input_method_setting">Eingabemethode auswählen</string>
   <string name="install_preinstall_app">Apps werden geladen…</string>
+    <string name="language_picker_other_languages_title">Andere Sprachen</string>
+    <string name="language_picker_popular_languages_title">Beliebte Sprachen</string>
   <string name="locale_picker_title">Standort auswählen</string>
   <string name="miui_privacy_policy_no_network">"Keine Internetverbindung. Lesen Sie die Datenschutzrichtlinien auf %s"</string>
   <string name="miui_terms_no_network">"Keine Internetverbindung. Sehen Sie sich die Nutzungsbedingungen auf %s an"</string>
