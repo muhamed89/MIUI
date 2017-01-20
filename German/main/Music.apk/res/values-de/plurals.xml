@@ -13,8 +13,8 @@
         <item quantity="one">%d Interpret</item>
     </plurals>
     <plurals name="Nbackup_songs">
-        <item quantity="other">Titel werden gesichert, %d Titel verbleibend (%2$.1fMB)</item>
-        <item quantity="one">Titel wird gesichert, %d Titel verbleibend (%2$.1fMB)</item>
+        <item quantity="other">Titel werden gesichert, %1$d Titel verbleibend (%2$.1fMB)</item>
+        <item quantity="one">Titel wird gesichert, %1$d Titel verbleibend (%2$.1fMB)</item>
     </plurals>
     <plurals name="Nexpired_remind">
         <item quantity="other">%d Tage verbleibend</item>
@@ -66,12 +66,12 @@
         <item quantity="one">%d ähnlicher Titel</item>
     </plurals>
     <plurals name="Nunbackup_audios">
-        <item quantity="other">%d Titel wurden nicht gesichert (%2$.1fMB)</item>
-        <item quantity="one">%d Titel wurde nicht gesichert (%2$.1fMB)</item>
+        <item quantity="other">%1$d Titel wurden nicht gesichert (%2$.1fMB)</item>
+        <item quantity="one">%1$d Titel wurde nicht gesichert (%2$.1fMB)</item>
     </plurals>
     <plurals name="Nupload_song_button">
-        <item quantity="other">%d Titel sichern (%2$.1fMB)</item>
-        <item quantity="one">%d Titel sichern (%2$.1fMB)</item>
+        <item quantity="other">%1$d Titel sichern (%2$.1fMB)</item>
+        <item quantity="one">%1$d Titel sichern (%2$.1fMB)</item>
     </plurals>
     <plurals name="artist_list_fragment_item_count_format">
         <item quantity="other">%d Titel</item>
