@@ -553,7 +553,7 @@
   <string name="select_image">Fotos auswählen</string>
   <string name="select_music">Musik auswählen</string>
   <string name="select_video">Videos auswählen</string>
-  <string name="select_volume">Bitte Lautstärke wählen</string>
+  <string name="select_volume">Bitte Speicherort wählen</string>
   <string name="send_comment">Senden</string>
   <string name="send_error">Kommentieren fehlgeschlagen</string>
   <string name="send_sticker">Sticker senden</string>
