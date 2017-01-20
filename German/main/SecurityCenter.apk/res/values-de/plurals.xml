@@ -44,6 +44,14 @@
         <item quantity="other">%d Apps gefunden</item>
         <item quantity="one">%d App gefunden</item>
     </plurals>
+    <plurals name="hints_scan_result_danger">
+        <item quantity="other">%d​ Risiken gefunden, jetzt beheben</item>
+        <item quantity="one">%d Risiko gefunden, jetzt beheben</item>
+    </plurals>
+    <plurals name="hints_scan_result_virus_number">
+        <item quantity="other">%d Risiken</item>
+        <item quantity="one">%d Risiko</item>
+    </plurals>    
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d Tage "</item>
         <item quantity="one">"%d Tag "</item>
@@ -185,4 +193,41 @@
         <item quantity="other">+%d Punkte</item>
         <item quantity="one">+%d Punkt</item>
     </plurals>
+   <plurals name="hints_handle_item_text_risk_number">
+        <item quantity="other">%d Risiken,</item>
+        <item quantity="one">%d Risiko,</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_virus_number">
+        <item quantity="other">%d Trojaner,</item>
+        <item quantity="one">%d Trojaner,</item>
+    </plurals>    
+    <plurals name="quick_optimize_suggest_issue_found">
+        <item quantity="other">%d Akkuprobleme gefunden</item>
+        <item quantity="one">%d Akkuproblem gefunden</item>
+    </plurals>
+     <plurals name="sp_settings_exception_count">
+        <item quantity="other">%d Elemente</item>
+        <item quantity="one">1 Element</item>
+     </plurals>
+        <plurals name="view_num">
+        <item quantity="other">%1$d Aufrufe</item>
+        <item quantity="zero">%1$d Aufrufe</item>
+        <item quantity="one">%1$d Aufruf</item>
+        <item quantity="two">%1$d Aufrufe</item>
+        <item quantity="few">%1$d Aufrufe</item>
+        <item quantity="many">%1$d Aufrufe</item>
+    </plurals>
+    <plurals name="virus_clean_num">
+        <item quantity="other">Alles sieht gut aus</item>
+        <item quantity="one">Alles sieht gut aus</item>
+    </plurals>
+     <plurals name="million">
+        <item quantity="other">Von 1$d Perosnen heruntegeladen</item>
+     </plurals>
+     <plurals name="people">
+        <item quantity="other">Von 1$d Perosnen heruntegeladen</item>
+     </plurals>
+     <plurals name="people_million">
+        <item quantity="other">Von 1$d Perosnen heruntegeladen</item>
+     </plurals>    
 </resources>

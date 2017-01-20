@@ -83,4 +83,8 @@
         <item>Name Ihres Ehepartners</item>
         <item>Geburtstag Ihres Ehepartners</item>
     </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Männlich</item>
+        <item>Weiblich</item>
+    </string-array>
 </resources>
