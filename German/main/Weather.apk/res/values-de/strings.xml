@@ -137,7 +137,6 @@ nach unten ziehen, um zu aktialisieren oder überprüfen Sie die Netzwerkeinstel
   <string name="other">Andere</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="realtime_aqi_title">Luftqualität</string>
-    <string name="realtime_cityname_default">Standort</string>
   <string name="realtime_humidity_title">Relative Luftfeuchte</string>
   <string name="realtime_wind_default_title">Wind</string>
   <string name="refresh_fail">Netzwerkverbindung konnte nicht hergestellt werden</string>
