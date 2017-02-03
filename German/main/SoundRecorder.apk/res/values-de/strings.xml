@@ -8,7 +8,7 @@
   <string name="btn_clear_records">Aufnahmen löschen (%d Elemente)</string>
   <string name="button_queue_for_wifi">Warteschlange</string>
   <string name="button_start_now">Download</string>
-  <string name="call_record">Anrufaufnahmen (%d)</string>
+  <string name="call_record">Anrufaufnahmen</string>
   <string name="choose_call_records_count">%d Elemente</string>
   <string name="clear_records">Synchronisierte Aufnahmen löschen</string>
   <string name="cloud_record">Cloudaufnahme (%d)</string>
