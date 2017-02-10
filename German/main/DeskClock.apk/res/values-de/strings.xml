@@ -15,6 +15,7 @@
   <string name="alarm_repeat">Wiederholen</string>
   <string name="alarm_screen">Weckbildschirm und Weckton</string>
   <string name="alarm_settings">Weckereinstellungen</string>
+  <string name="alarm_settings_category_title">Weckereinstellungen</string>  
   <string name="alarm_today">Heute</string>
   <string name="alarm_tomorrow">Morgen</string>
   <string name="alarm_undo">Abbrechen</string>
