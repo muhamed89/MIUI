@@ -73,6 +73,9 @@
   <string name="legal_workday_invalidate">Daten ungültig (Wecker klingelt von Mo bis Fr)</string>
   <string name="legal_workday_invalidate_message">(Daten ungültig. Aktualisiere die Einstellungen)</string>
   <string name="legal_workday_message">" (Nicht an gesetzl. Feiertagen)"</string>
+  <string name="life_post_setting">Aktuelle Nachrichten</string>
+  <string name="life_post_setting_open_subtitle">Lassen Sie sich das lokale Wetter nach dem Aufwachen mit Wiederholung zwischen 4:00-9:30 Uhr anzeigen.</string>
+  <string name="life_post_setting_open_title">Aktuelle Nachrichten einschalten</string>  
   <string name="loading_ringtone">Klingelton wird geladen...</string>
   <string name="menu_add_worldclock">Neue Weltzeit</string>
   <string name="menu_desk_clock">Schreibtischuhr</string>
