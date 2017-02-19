@@ -168,6 +168,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="auto_task_notify_task_cancel_count_down">Automatischer Task wird in 5 Sekunden abgebrochen</string>
   <string name="auto_task_notify_task_cancel_do">Aktion abbrechen</string>
   <string name="auto_task_notify_task_canceled_summary">Sie können anrufe tätigen und entgegennehmen</string>
+  <string name="auto_task_notify_task_canceled_summary2">Sieht so aus, als ob Sie ein Spiel jetzt spielen.</string>
   <string name="auto_task_notify_task_canceled_title">Aktion abgebrochen</string>
   <string name="auto_task_notify_task_continue_do">Aktion starten</string>
   <string name="auto_task_notify_task_count_down">Automatischer Task wird in 5 Sekunden gestartet</string>
@@ -324,6 +325,8 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="card_main_deepclean_title">Gründliche Bereinigung</string>
   <string name="card_main_gamebooster_summary">Leistung für ein besseres Spielerlebnis erhöhen</string>
   <string name="card_main_gamebooster_title">Leistung für Spiele erhöhen</string>
+  <string name="card_main_hbassistant_summary">Verwenden Sie dieses Werkzeug, um die Umschläge schneller zu packen</string>
+  <string name="card_main_hbassistant_title">Roter Umschlagassistent</string>
   <string name="card_main_monthreport_action">Ansehen</string>
   <string name="card_main_monthreport_summary">Monatliche Berichte</string>
   <string name="card_main_monthreport_title">Sicherheitsstatistik</string>
@@ -345,9 +348,9 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="card_main_xspace_title">Geklonte Apps</string>
   <string name="celcius_symbol">°C</string>
   <string name="charging_text_battery_full_time">"Akkuladezeit "</string>
-  <string name="charging_text_battery_nearly_full">Fast aufgeladen </string>
-  <string name="charging_text_battery_perfect">Voll aufgeladen </string>
-  <string name="charging_text_time_calculating">Berechne Ladezeit… </string>
+  <string name="charging_text_battery_nearly_full">Fast aufgeladen</string>
+  <string name="charging_text_battery_perfect">Voll aufgeladen</string>
+  <string name="charging_text_time_calculating">Berechne Ladezeit…</string>
   <string name="check_network_state">Netzwerktest</string>
   <string name="choose">Auswählen</string>
   <string name="clean_immediately">Bereinigen</string>
@@ -730,6 +733,7 @@ Peak: %1$s%2$s verbleibend | %3$s verbraucht"</string>
   <string name="main_toolbar_internet_by_pc_brige">USB-Internet</string>
   <string name="main_toolbar_internet_by_wifi">WLAN</string>
   <string name="main_toolbar_purchase">Aufladen</string>
+  <string name="main_toolbar_saving">Reduzieren</string>
   <string name="main_toolbar_statistic">Statistik</string>
   <string name="main_traffic_overlimit_text">über</string>
   <string name="main_traffic_remian_text">verbleibend</string>
@@ -850,6 +854,7 @@ T"</b>"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie 
   <string name="notification_battery_consume_abnormal_title">Akku wird zu schnell entleert</string>
   <string name="notification_battery_over_heat_summary">Finden Sie die Ursachen für die Überhitzung und kühlen Sie Ihr Gerät ab</string>
   <string name="notification_battery_over_heat_title">Die aktuelle Temperatur beträgt 40°C</string>
+  <string name="notification_button_text_of_low_memory">Bereinigen</string>
   <string name="notification_charging_title">"Wird geladen "</string>
   <string name="notification_exit_power_save_mode">Energiesparmodus ist deaktiviert</string>
   <string name="notification_exit_power_save_mode_subtitle">Akku zu %s aufgeladen</string>
@@ -890,6 +895,7 @@ T"</b>"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie 
   <string name="optimize_result_button_cooldown_now">Abkühlen</string>
   <string name="optimize_result_button_correct_now">Kalibrieren</string>
   <string name="optimize_result_button_fix_now">Beheben</string>
+  <string name="optimize_result_button_mifi_insurance">Jetzt kaufen</string>
   <string name="optimize_result_button_onekey_open">Einschalten</string>
   <string name="optimize_result_button_onekey_restore">Wiederherstellen</string>
   <string name="optimize_result_button_open_now">Einschalten</string>
@@ -929,16 +935,22 @@ T"</b>"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie 
   <string name="password_promotion_title">Persönliches Schutzpasswort</string>
   <string name="path_antispam">Systemanwendungen/Sicherheit/Sperrliste</string>
   <string name="path_antivirus">Systemanwendungen/Sicherheit/Virenscan</string>
+  <string name="path_app_permissions">Systemanwendungen/Sicherheit/Rechte/Rechteverwaltung</string>
+  <string name="path_applicationlock">Systemanwendungen/Sicherheit</string>
+  <string name="path_auto_restart">Systemanwendungen/Sicherheit/Berechtigungen/Autostartverwaltung</string>
+  <string name="path_buy_flow">Systemanwendungen/Sicherheit/Datenverbrauch/Mobile Daten kaufen</string>
   <string name="path_cleanmaster">Systemanwendungen/Sicherheit/Bereinigung</string>
   <string name="path_monthreport">Systemanwendungen/Sicherheit</string>
   <string name="path_networkassistant_1">Systemanwendungen/Sicherheit/Netzwerkassistent</string>
   <string name="path_networkassistant_2">Systemanwendungen/Sicherheit/Netzwerkassistent</string>
   <string name="path_networkassistant_4">Systemanwendungen/Sicherheit/Netzwerkassistent/Netzwerktest</string>
+  <string name="path_payment_security">Systemanwendungen/Sicherheit/Bezahlsicherheit</string>
   <string name="path_permcenter">Systemanwendungen/Sicherheit/Berechtigungen</string>
   <string name="path_powercenter">Systemanwendungen/Sicherheit/Energiesparmodus</string>
   <string name="path_powercenter_powerrank">Akku &amp; Leistung/Akkunutzung</string>
   <string name="path_securitycenter">Systemanwendungen/Sicherheit</string>
   <string name="path_securitycenter_settings">Systemanwendungen/Sicherheit</string>
+  <string name="path_usb_install">Systemanwendungen/Sicherheit/Rechte/Installation via USB</string>
   <string name="pay_charge">Weitere Daten erwerben</string>
   <string name="pc_install_manager">Installation via USB</string>
   <string name="pc_to_phone_install">Installation von %s via USB blockiert</string>
@@ -1115,8 +1127,6 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="pref_free_traffic_exceed_limit">Benachrichtigen wenn das Datenlimit erreicht wurde</string>
   <string name="pref_free_traffic_limit_warn">Nebenzeitdatenverbrauchswarnung</string>
   <string name="pref_free_traffic_settings">Nebenzeitatenverbrauchseinstellungen</string>
-  <string name="pref_key_new_installed_app_firewall_mobile">pref_key_new_installed_app_firewall_mobile</string>
-  <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
   <string name="pref_leisure_no_overlay">Eingeschaltet</string>
   <string name="pref_leisure_not_opened">Ausgeschaltet</string>
   <string name="pref_manual_adjust">Datenverbrauch manuell einstellen</string>
@@ -1158,7 +1168,11 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Datenreduzierung für neu installierte Apps automatisch aktivieren</string>
   <string name="pref_traffic_saving_compressed">Komprimiert</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
-  <string name="pref_traffic_saving_issue_content"><b> 1. Wirkt sich die Datenreduzierung auf meine Privatsphäre aus? </b><br /><br /><br />Nein, Ihre Daten bleiben privat und werden nicht an Dritte weitergegeben. <br /><br /><br /><b> Warum funktioniert die Datenreduzierung nicht? </b><br /><br /> Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden sind und Inhalte senden oder herunterladen.</string>
+  <string name="pref_traffic_saving_issue_content">"<b>Wirkt sich die Datenreduzierung auf meine Privatsphäre aus?</b>
+Nein, Ihre Daten bleiben privat und werden nicht an Dritte weitergegeben.
+
+<b> Warum funktioniert die Datenreduzierung nicht? </b>
+Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden sind und Inhalte senden oder herunterladen."</string>
   <string name="pref_traffic_saving_no_compress">Nicht komprimiert</string>
   <string name="pref_traffic_saving_notify_switch">In Statusleiste anzeigen</string>
   <string name="pref_traffic_saving_notify_switch_hint">Datenreduzierung in der Statusleiste anzeigen</string>
@@ -1223,18 +1237,23 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="replace_dns">DNS automatisch ersetzen</string>
   <string name="resource_antispam">Sperrliste</string>
   <string name="resource_antivirus">Virenscan</string>
+  <string name="resource_app_permissions">Appberechtigungen</string>
   <string name="resource_applicationlock">Appsperre</string>
+  <string name="resource_auto_restart">Autostart verwalten</string>
+  <string name="resource_buy_flow">Mobile Daten kaufen</string>
   <string name="resource_cleanmaster">Bereinigung</string>
   <string name="resource_monthreport">Sicherheitsbericht</string>
   <string name="resource_networkassistant_1">Datenverbrauch</string>
   <string name="resource_networkassistant_2">Datentarif festlegen</string>
   <string name="resource_networkassistant_3">Datareduzierung</string>
   <string name="resource_networkassistant_4">Netzwerktest</string>
+  <string name="resource_payment_security">Bezahlsicherheit</string>
   <string name="resource_permcenter">Berechtigungen</string>
   <string name="resource_powercenter">Energiesparmodus</string>
   <string name="resource_powercenter_powerrank">Akku &amp; Leistung</string>
   <string name="resource_securitycenter">Sicherheit</string>
   <string name="resource_securitycenter_settings">Sicherheit</string>
+  <string name="resource_usb_install">Installation via USB</string>
   <string name="restrictbackground_conflict_saving_msg">Die Datenreduzierung kann bei Beschränkung der Hintergrunddaten nicht verwendet werden. Möchten Sie die Datenreduzierung und die Beschränkung der Hintergrunddaten ausschalten?</string>
   <string name="result_autoscan_header">Zahlungsüberwachung</string>
   <string name="result_autoscan_info">Automatisch die Systemumgebung überwachen wenn Zahlungsapps gestartet werden</string>
@@ -1333,6 +1352,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="showpattern">Muster anzeigen</string>
   <string name="shutdown_cancel_reminder">Nicht ausgeschaltet</string>
   <string name="shutdown_cancel_reminder_detail">Das Gerät hat sich nicht ausgeschaltet, weil Sie mitten in einem Anruf waren</string>
+  <string name="shutdown_cancel_reminder_detail2">Siet so aus, als ob Sie jetzt spielen. Geplantes Ausschalten wird abgebrochen.</string>
   <string name="shutdown_time">Ausschalten: %1$s Uhr</string>
   <string name="shutdown_time_day">Ausschalten: %2$s %1$dd</string>
   <string name="shutdown_time_day_tomorrow">Ausschalten: Morgen, %1$s Uhr</string>
@@ -1374,12 +1394,10 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="sp_settings_exception_count_zero">Keine Elemente</string>
   <string name="sp_settings_group_title_check_item">Überprüfen Sie die Elemnteinstellungen</string>
   <string name="sp_settings_group_title_ime">Sichere IME</string>
-  <string name="sp_settings_group_title_omit">Ausgelassene Dateien</string>
   <string name="sp_settings_info_input_method">Systemeingabemethode in Bezahlapps verwenden</string>
   <string name="sp_settings_info_monitor">Systemumgebung überwachen, wenn Zahlungsapps gestartet werden</string>
   <string name="sp_settings_plugin_monitor_summary">Scannen, wenn Zahlungs-Plugins in Apps gestartet werden</string>
   <string name="sp_settings_plugin_monitor_title">Überwachung von Zahlungs-Plugins</string>
-  <string name="sp_settings_root_title_omit">Prüfe Root Zugriff</string>
   <string name="sp_settings_title_input_method">Sichere IME</string>
   <string name="sp_toast_removed_from_sign_white_list">Aus den Ausnahmen entfernt. Element wird beim nächsten Mal bereinigt.</string>
   <string name="spinner_title">%1$s - Mobile Daten: %2$s</string>
@@ -1417,6 +1435,7 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="summary_garbage_lib">Nutzen Sie die aktuellsten Definitionen, um Spyware, Werbung und andere ungewollte Daten zu entfernen</string>
   <string name="summary_install_virus">Apps vor Installation auf Viren prüfen</string>
   <string name="summary_live_talk_purchase">Sparen Sie 70% auf Ihre Gesprächsgebühren</string>
+  <string name="summary_mifi_insurance">Holen Sie sich einen 1 Jahr Ersatzprogramm, das im Falle von Hardware-Schäden eingreift</string>
   <string name="summary_miui_update">Update für %s verfügbar.</string>
   <string name="summary_mms">Spamnachrichten automatisch blockieren</string>
   <string name="summary_network_switch">Der Sicherheitsapp den Zugriff auf das Internet genehmigen</string>
@@ -1516,7 +1535,6 @@ Wenn Sie MIUI keiner Weise verändert haben, stellen Sie sicher, dass Sie Herkun
   <string name="text_antivirus">App-Namen und Details hochladen</string>
   <string name="text_antivirus_oversea">Virusdefinitionen aktualisieren</string>
   <string name="text_button">Verstanden</string>
-  <string name="text_day"/>
   <string name="text_lock_info">Entsperrmuster zeichnen</string>
   <string name="there_is_no">Sieht gut aus, kommen Sie später wieder</string>
   <string name="third_application">Installierte Apps</string>
@@ -1564,6 +1582,7 @@ Wenn Sie MIUI keiner Weise verändert haben, stellen Sie sicher, dass Sie Herkun
   <string name="title_install_virus_yes">Installationsmonitor An</string>
   <string name="title_limit_traffic_per_day">Tägliches Datenlimit</string>
   <string name="title_live_talk_purchase">Aufladepaket einschalten</string>
+  <string name="title_mifi_insurance">Erweiterte Garantie</string>
   <string name="title_miui_update">Update vorhanden</string>
   <string name="title_mms_no">Nachrichtenfilter ist aus</string>
   <string name="title_mms_yes">Nachrichtenfilter ist an</string>
