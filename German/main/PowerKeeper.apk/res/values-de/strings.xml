@@ -51,7 +51,6 @@
   <string name="hide_mode_ultimate_desc">Ultimativmodus ist ein. Apps im Hintergrund werden eingefroren. Schalten Sie Battery Saver aus, um den Ultimativmodus zu verlassen.</string>
   <string name="high">Leistung</string>
   <string name="hints_loading_text">Lade…</string>
-  <string name="invalid_size_value">Paketgrösse konnte nicht ermittelt werden</string>
   <string name="keep_connect_description">Apps können sich im Hintergrund mit einem Netzwerk verbinden</string>
   <string name="keep_connect_title">Verbunden bleiben</string>
   <string name="location_disable_description">Apps können im Hintergrund nur kurz auf Standortdienste zugreifen. Der dauerhafte Zugriff ist beschränkt</string>

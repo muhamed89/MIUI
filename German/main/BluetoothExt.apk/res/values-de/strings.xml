@@ -9,7 +9,6 @@
   <string name="bluetooth_remember_choice">Nicht mehr fragen</string>
   <string name="bluetooth_sap_acceptance_dialog_text">%1$s möchte auf Ihre SIM-Karte zugreifen. Möchten Sie %2$s den Zugriff erlauben?</string>
   <string name="bluetooth_sap_request">Anfrage auf SIM-Kartenzugriff</string>
-  <string name="defaultname">Carkit</string>
   <string name="dun_acceptance_timeout_message">Die Zeit, um die Verbindung mit %1$s zu akzeptieren, ist abgelaufen</string>
   <string name="dun_notif_message">Zum Herstellen einer Verbindung mit \"%1$s\" berühren.</string>
   <string name="dun_notif_ticker">Bluetooth-DUN-Anfrage</string>

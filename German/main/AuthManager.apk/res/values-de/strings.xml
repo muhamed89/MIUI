@@ -277,7 +277,6 @@ Um Rootzugriff zu erhalten müssen Sie die Entwicklerversion von MIUI installier
   <string name="SysOpt_Boost_Receiver">Hintergrund</string>
   <string name="app_name">Berechtigungsverwaltung</string>
   <string name="current_permission_template">%1$s von %2$s</string>
-  <string name="default_permission_description">eine unbekannte Aktion</string>
   <string name="grant_confirm_question">Möchten Sie die folgenden Berechtigungen zu erteilen? Sie erhalten Zugang zu:</string>
   <string name="grant_dialog_button_allow">Zulassen</string>
   <string name="grant_dialog_button_deny">Abbrechen</string>

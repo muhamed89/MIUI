@@ -47,7 +47,6 @@
   <string name="bt_toast_5">%1$s Dateien werden an \"%2$s\" gesendet.</string>
   <string name="bt_toast_6">Die Übertragung der Datei an \"%1$s\" wurde abgebrochen</string>
   <string name="btopp_live_folder">Per Bluetooth empfangen</string>
-  <string name="defaultname">Freisprecheinrichtung</string>
   <string name="deleteAll_record">Alle Einträge löschen</string>
   <string name="delete_record">Eintrag löschen</string>
   <string name="download_cancel">Abbrechen</string>

@@ -2,7 +2,6 @@
 <resources>
   <string name="accessibility_calllog_detail">Anruflistendetails</string>
   <string name="account_container_title">Importiert von</string>
-  <string name="account_default">Telefon</string>
   <string name="account_phone">Telefon nicht synchronisiert</string>
   <string name="account_sim">SIM-Karte</string>
   <string name="account_sim2">SIM-Karte %d</string>
@@ -163,7 +162,6 @@
   <string name="clearFrequentsConfirmation_title">Häufig kontaktierte Personen löschen?</string>
   <string name="clearFrequentsProgress_title">Liste der häufig kontaktierten Personen wird gelöscht…</string>
   <string name="clear_copy_number_description">Kopierte Nummer löschen</string>
-  <string name="clear_default">Standardwerte löschen</string>
   <string name="clear_digits">Telefonnummer löschen</string>
   <string name="click_close">Zum Schließen berühren</string>
   <string name="clip_dialog_title">Kopierte Nummer wählen?</string>
@@ -271,7 +269,6 @@ Kontaktkarten sind ausgeschaltet.</string>
   <string name="date_time_set">Speichern</string>
   <string name="date_year_toggle">Jahr angeben</string>
   <string name="day_following_good_friday">Karsamstag</string>
-  <string name="default_ringtone">Standardklingelton</string>
   <string name="deleteConfirmation">Dieser Kontakt wird gelöscht</string>
   <string name="deleteConfirmationDetail">\"%s\" löschen?</string>
   <string name="deleteConfirmation_title">Diesen Kontakt löschen?</string>
@@ -1004,7 +1001,6 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="preference_contacts_filter">Kontaktlisteneinstellungen</string>
   <string name="preference_contacts_more">Kontaktoptionen</string>
   <string name="preference_contacts_recovery_introduction">Kontakte wiederherstellen</string>
-  <string name="preference_dial_pad_touch_tone_default">Standard</string>
   <string name="preference_dial_pad_touch_tone_human">Sprache</string>
   <string name="preference_dial_pad_touch_tone_piano">Piano</string>
   <string name="preference_dial_pad_touch_tone_switch">Wähltastentöne</string>
@@ -1156,7 +1152,6 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="service_provider">Gelbe Seiten</string>
   <string name="service_provider_detail">Ordnerdetails</string>
   <string name="set_data_package">Erst Datenpaket auswählen</string>
-  <string name="set_default">Als Standard</string>
   <string name="set_photo_failed_msg">Kontaktbild konnte nicht gesetzt werden</string>
   <string name="share_error">Kontakt kann nicht geteilt werden</string>
   <string name="share_over_limit">Mehr als 1000 Kontakte können nicht geteilt werden</string>
@@ -1302,7 +1297,6 @@ Wählen Sie eine der folgenden Optionen:"</string>
   <string name="vcard_import_failed">Importieren der vCard %s nicht möglich</string>
   <string name="vcard_import_request_rejected_message">Die vCard-Importanfrage wurde abgelehnt. Später erneut versuchen.</string>
   <string name="vcard_import_will_start_message">%s wird in Kürze importiert</string>
-  <string name="vcard_import_will_start_message_with_default_name">Die Datei wird in Kürze importiert</string>
   <string name="vcard_info_send_error">Wegen einem vCard-Fehler konnte es nicht gesendet werden</string>
   <string name="vcard_unknown_filename">Kontakt</string>
   <string name="video_call">Videoanruf</string>

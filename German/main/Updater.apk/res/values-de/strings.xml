@@ -106,7 +106,6 @@
   <string name="downloading_description">Wird heruntergeladen…</string>
   <string name="edit_comment">Kommentar hinzufügen</string>
   <string name="edit_comment_title">Kommentar bearbeiten</string>
-  <string name="edit_text_default">Kommentar verfassen</string>
   <string name="emegency_build">"Build "</string>
   <string name="english_original_changelog">Changelog auf Englisch</string>
   <string name="english_original_changelog_summary">Anzeige der ROM-Changelogs vom Originalserver auf Englisch erzwingen</string>

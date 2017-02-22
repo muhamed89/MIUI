@@ -376,7 +376,6 @@
   <string name="dcim_viva_pics">VIVA</string>
   <string name="debugging_tip">Debuginformationen werden generiert</string>
   <string name="defalt_local_mobile">Mobil</string>
-  <string name="default_album_name">Neues Album</string>
   <string name="delete">Löschen</string>
   <string name="delete_album_failed">Album löschen fehlgeschlagen.</string>
   <string name="delete_album_msg_format">\"%2$s\" Album %1$s%3$s löschen?</string>
@@ -1139,7 +1138,6 @@
   <string name="slideshow_interval_dialog_title">Diashow Intervall festlegen</string>
   <string name="slideshow_interval_invalid">Intervall muss zwischen 3 und 3600 Sekunden liegen</string>
   <string name="slideshow_interval_title">Jedes Bild anzeigen für</string>
-  <string name="slideshow_interval_value">%1$d Sekunden</string>
   <string name="slideshow_repeat_mode">Wiederholen</string>
   <string name="slim_after_backuped_summary">Ersetzen Sie nach der Sicherung in der Mi Cloud die Fotos mit der vollen Auflösung lokal durch optimierte Versionen. Die Originale beleiben in der Mi Cloud gespeichert. Das kann Ihnen viel Speicherplatz einsparen.</string>
   <string name="slim_after_backuped_title">Lokalen Speicher nach der Sicherung optimieren</string>

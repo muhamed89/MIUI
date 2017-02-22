@@ -10,7 +10,6 @@
   <string name="debug_dump_email_subject">Kontaktdatenbank angehängt</string>
   <string name="debug_dump_start_button">Start</string>
   <string name="debug_dump_title">Kontaktdatenbank kopieren</string>
-  <string name="default_directory">Kontakte</string>
   <string name="edit_contact">Hinzufügen</string>
   <string name="local_invisible_directory">Weitere</string>
   <string name="low_memory_toast">"Kann aufgrund des geringen Speichers nicht weiter verwendet werden."</string>

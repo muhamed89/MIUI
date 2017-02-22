@@ -263,7 +263,6 @@ Verschicken fortsetzen?"</string>
   <string name="simap_connected_notify_message">Auswählen, um die Verbindung zu trennen</string>
   <string name="simap_connected_notify_ticker">Entfernte SIM ist verbunden</string>
   <string name="simap_connected_notify_title">%1$s ist mit Ihrer SIM verbunden</string>
-  <string name="simap_defaultname">Freisprechanlage</string>
   <string name="simap_disconnect_message">Verbindung mit %1$s trennen?</string>
   <string name="simap_disconnect_no">Nein</string>
   <string name="simap_disconnect_title">Verbindung mit entfernter SIM trennen</string>
@@ -275,7 +274,6 @@ Verschicken fortsetzen?"</string>
   <string name="simap_request_notif_message">Remote-SIM-Anfrage von %1$s erlauben</string>
   <string name="toast_bpp_enable_fail">Druckdienst aktivieren gescheitert</string>
   <string name="toast_connect_fail">Verbindung fehlgeschlagen</string>
-  <string name="toast_get_default_value">Erhalte Standardwert...</string>
   <string name="toast_get_printer_attr">Erhalte Druckerfunktionen...</string>
   <string name="toast_get_printer_attr_fail">Druckerfunktionen erhalten fehlgeschlagen</string>
 </resources>

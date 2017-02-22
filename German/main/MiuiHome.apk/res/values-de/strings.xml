@@ -61,10 +61,6 @@
   <string name="current_preview">Vorschau</string>
   <string name="current_wallpaper">Aktuell</string>
   <string name="custom_wallpaper_picker">Eigene</string>
-  <string name="default_folder_title_game">Spiele</string>
-  <string name="default_folder_title_recommend">Mehr Apps</string>
-  <string name="default_folder_title_security">System</string>
-  <string name="default_folder_title_tools">Werkzeuge</string>
   <string name="delete">Löschen</string>
   <string name="delete_screen">Bildschirm löschen</string>
   <string name="delete_wallpaper_message">%1$d ausgewählten Hintergrund entfernen?</string>
@@ -213,7 +209,6 @@
   <string name="pref_wallpaper_scroll_type_title">Hintergrundausrichtung</string>
   <string name="preferences_general_title">Erweiterte Einstellungen</string>
   <string name="preferences_title">Launchereinstellungen</string>
-  <string name="recommend_apps_default_title">Leer</string>
   <string name="recommend_apps_notice">Empfohlene Apps</string>
   <string name="recommend_apps_notice_nodata">Empfohlene Apps (Keine Daten)</string>
   <string name="recommend_apps_switch_title">Empfohlene Apps</string>

@@ -4,7 +4,6 @@
   <string name="configure">Konfigurieren</string>
   <string name="data_received">Empfangen:</string>
   <string name="data_transmitted">Gesendet:</string>
-  <string name="data_value_format">%1$s Bytes / %2$s Pakete</string>
   <string name="disconnect">Trennen</string>
   <string name="duration">Dauer:</string>
   <string name="legacy_title">VPN ist verbunden</string>

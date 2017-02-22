@@ -9,7 +9,6 @@
   <string name="alarm_summary_12h">hh:mm a</string>
   <string name="alarm_summary_24h">kk:mm</string>
   <string name="alarm_time">Weckzeit</string>
-  <string name="alarm_value">Wecker %s%%</string>
   <string name="app">App öffnen</string>
   <string name="app_center">Apps</string>
   <string name="app_name">PonPonTag</string>
@@ -105,7 +104,6 @@ tippen Sie auf die Rückseite Ihres Geräts."</string>
   <string name="input_password_gain">Passwort bestätigens</string>
   <string name="input_password_warning">Passwort wird auf Tag geschrieben</string>
   <string name="local_app">HERUNTERGELADEN</string>
-  <string name="media_value">Medien %s%%</string>
   <string name="meeting_mode">Besprechungsmodus</string>
   <string name="miui_ringer_mode">Klingelmodus</string>
   <string name="mode">Modus</string>
@@ -118,7 +116,6 @@ tippen Sie auf die Rückseite Ihres Geräts."</string>
   <string name="no_available_networks_summary">Sie müssen mit einem WLAN verbunden sein.</string>
   <string name="no_available_xiaomi_shop">Mi Market konnte nicht geöffnet werden</string>
   <string name="not_save_btn">Nein</string>
-  <string name="notification_value">Benachrichtigungen %s%%</string>
   <string name="null_task">Keine Aufgaben</string>
   <string name="off">aus</string>
   <string name="on">ein</string>
@@ -146,7 +143,6 @@ tippen Sie auf die Rückseite Ihres Geräts."</string>
   <string name="ringer_mode">Klingelmodus</string>
   <string name="ringer_normal">Klingeln</string>
   <string name="ringer_silent">Stumm</string>
-  <string name="ringer_value">Klingelton %s%%</string>
   <string name="running">läuft</string>
   <string name="save_alert">Diese Aufgabe speichern?</string>
   <string name="save_btn">Speichern</string>
@@ -200,7 +196,6 @@ tippen Sie auf die Rückseite Ihres Geräts."</string>
   <string name="vibrate_mode">Vibrieren</string>
   <string name="vibrate_off">Vibrieren aus</string>
   <string name="vibrate_on">Vibrieren ein</string>
-  <string name="voice_call_value">Gesprächslautstärke %s%%</string>
   <string name="volume">Ton</string>
   <string name="web_label">Weblabel (optional)</string>
   <string name="web_url">URL</string>

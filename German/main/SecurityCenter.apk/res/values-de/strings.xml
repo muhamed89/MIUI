@@ -29,7 +29,6 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="activity_title_auto_start_manager">Autostart</string>
   <string name="activity_title_create_shortcut">Verknüpfungen verwalten</string>
   <string name="activity_title_deep_clean">Erweiterte Reinigung</string>
-  <string name="activity_title_default_apps_manager">Standardapps</string>
   <string name="activity_title_garbage_cleanup">Bereinigung</string>
   <string name="activity_title_license_manager">Rechte</string>
   <string name="activity_title_memory">Speicher</string>
@@ -119,7 +118,6 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="apps_item_sign_dialog_content">\"%s\"Signatur ist unterschiedlich zu Version im App Store. Diese Version löschen und die offizielle Version installieren? Hinweis: Eine App mit unterschiedlicher Signatur zu installieren kann zu Datnverlust führen.</string>
   <string name="apps_item_sign_dialog_title">Offizielle Version installieren</string>
   <string name="apps_item_sign_install_button_text">Ersetzen</string>
-  <string name="apps_item_sms_default_set_success">Erfolgreich eingestellt!</string>
   <string name="apps_item_sms_reset_button_text">Standardeinstellungen wiederherstellen</string>
   <string name="apps_item_sms_title">Standard SMS-Einstellungen</string>
   <string name="apps_item_summary_sms">%s hat Zugriff auf Ihre Nachrichten, das kann zu Sicherheitsrisiken führen</string>
@@ -601,7 +599,6 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="hints_virus_app_list_item_summary">Virus (app)</string>
   <string name="hints_virus_app_summary">%s (app)</string>
   <string name="hints_virus_descx_title">Beschreibung:</string>
-  <string name="hints_virus_lib_update_default_summary">Letzter Aktualisierungszeitpunkt unbekannt</string>
   <string name="hints_virus_name_title">Virus:</string>
   <string name="hints_virus_scan_result_descx">"Diese App ist die größte Gefahr für Ihr System."</string>
   <string name="history_details_title">Verlaufdetails</string>
@@ -647,7 +644,6 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="last_check_date_yesterday">"Letzte Suche: Gestern "</string>
   <string name="last_check_never_checked">Suche empfohlen (Erstmals)</string>
   <string name="last_checked_date2">Vor %d Tagen gesucht</string>
-  <string name="last_checked_default">Vor %s Tagen gesucht</string>
   <string name="left_precent">60%</string>
   <string name="legal_workday">Werktag</string>
   <string name="legal_workday_invalidate">Mo-Fr (Werktagsinfos abgelaufen)</string>
@@ -666,7 +662,6 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="lock_screen_warning_category">Sperrbildschirmbenachrichtigungen</string>
   <string name="lock_screen_warning_switch_summary">Warnung im Sperrbildschirm anzeigen, wenn der Datenverbrauch einen bestimmten Wert überschreitet</string>
   <string name="lock_screen_warning_switch_title">Warnungen im Sperrbildschirm anzeigen</string>
-  <string name="lock_screen_warning_value">Datenverbrauchswarnung</string>
   <string name="lock_settings_title">Sperrbildschirm und Passwort</string>
   <string name="lockpassword_confirm_your_password_header">Passwort bestätigen</string>
   <string name="lockpassword_confirm_your_pattern_header">Muster bestätigen</string>
@@ -908,10 +903,7 @@ T"</b>"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie 
   <string name="optimize_result_button_to_set">Einstellen</string>
   <string name="optimize_result_button_update_now">Aktualisieren</string>
   <string name="optimize_result_summary_sucurity_risk">Einige Sicherheitsfunktionen sind deaktiviert. Schalten Sie diese ein, um Ihr Gerät sicherer zu machen:</string>
-  <string name="optimize_result_summary_system_default_settings">Verwendung von MIUI-Apps erhöht Stabilität und Sicherheit Ihres Systems.</string>
   <string name="optimize_result_title_sucurity_risk">Sicherheitsrisiken gefunden</string>
-  <string name="optimize_result_title_system_default_settings">Standardeinstellungen wurden geändert</string>
-  <string name="optimize_result_toast_system_default_settings">Standardeinstellungen wiederhergestellt</string>
   <string name="optimize_result_toast_system_no_item_selected">Nichts ausgewählt</string>
   <string name="optmizingbar_optimize_done">Optimiert</string>
   <string name="optmizingbar_ready">Wird optimiert…</string>
@@ -1080,7 +1072,6 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="power_save_mode_ontime_enabled">Zeiten für das Umschalten zwischen den Profilen festlegen</string>
   <string name="power_save_mode_start_time">Beginn</string>
   <string name="power_save_mode_summary">Hintergrundaktivitäten überwachen, Synchronisation anhalten und Systemanimationen ausschalten. Der Energiesparmodus wird automatisch verlassen, wenn der Akku zu 60% geladen ist.</string>
-  <string name="power_save_on_time_default_time">00:00</string>
   <string name="power_save_on_time_end_time_summary">Bis</string>
   <string name="power_save_on_time_start_time_summary_na">Von</string>
   <string name="power_save_summary_text">Energiesparmodus einschalten, um die Hintergrundaktivitäten von Apps einzuschränken, die Synchronisation anzuhalten und Systemanimationen zu minimieren</string>
@@ -1183,7 +1174,6 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
   <string name="pref_traffic_saving_whitelist">Ausnahmen</string>
   <string name="pref_traffic_saving_whitelist_hint">Datenbeschränkung für eine bestimmte Gruppe von Apps aufheben</string>
   <string name="pref_version">Version %s</string>
-  <string name="pref_warning_values">Verbrauchswarnung ab</string>
   <string name="pref_whitelist_setting">Ausnahmen verwalten</string>
   <string name="preferred_app_entries_browser">Browser</string>
   <string name="preferred_app_entries_camera">Kamera</string>
@@ -1218,9 +1208,6 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
   <string name="quick_optimize_sub_summary_text">%s Akkulaufzeit hinzugefügt</string>
   <string name="quick_optimize_suggest_battery_consume_too_fast">Das Telefon verbraucht viel Energie, beheben</string>
   <string name="quick_optimize_suggest_battery_over_heat">Das Telefon überhitzt, beheben</string>
-  <string name="reach_daily_limit_value_body">Verringern Sie Ihren mobilen Datenverbrauch</string>
-  <string name="reach_daily_limit_value_body_open_traffic_saving">Tippen, um Datenreduzierung einzuschalten</string>
-  <string name="reach_daily_limit_value_title">Tägliches Datenlimit erreicht</string>
   <string name="read_number">86 Artikel</string>
   <string name="read_unit">" Artikel"</string>
   <string name="recently_reject_message">Installation von %1$s und %2$d weiteren Apps verweigert</string>
@@ -1292,7 +1279,6 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
   <string name="safe_result_item_info_app_sign">Keine inoffiziellen Apps</string>
   <string name="safe_result_item_info_app_virus">Keine Viren und gefährlichen Apps</string>
   <string name="safe_result_item_info_sms_auth">Zugriff auf Verifikationscodes von Apps von Drittanbietern einschränken</string>
-  <string name="safe_result_item_info_sms_default">Standardnachrichteneinstellungen wiederherstellen</string>
   <string name="safe_result_item_info_sms_url">Schutz vor bösartigen URLs</string>
   <string name="safe_result_item_info_system_antivirus">Schutz vor Phishing</string>
   <string name="safe_result_item_info_system_root">Rootsicherheit</string>
@@ -1423,7 +1409,6 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
   <string name="summary_cmcc_app_check">Einige Apps konnten nicht überprüft werden</string>
   <string name="summary_consume_power">Es wurden Wärmeprobleme gefunden, diese können die Akkulebensdauer beeinflussen</string>
   <string name="summary_data_flow">Überschreiten des monatlichen Datenvolumen vermeiden</string>
-  <string name="summary_default_app">%s ist nicht als Standardsystemapp gesetzt</string>
   <string name="summary_dev">Den Zugriff von Apps auf Benutzerdaten verhindern</string>
   <string name="summary_find_device">Suchen und Sperren Sie das Gerät von überall</string>
   <string name="summary_flow_notification">Den monatlichen Datenverbrauch in der Benachrichtigungsleiste anzeigen</string>
@@ -1499,7 +1484,6 @@ Wenn Sie MIUI keiner Weise verändert haben, stellen Sie sicher, dass Sie Herkun
   <string name="tc_diagnostic_upload_success">Vielen Dank für Ihr Feedback!</string>
   <string name="tc_sms_report_direction">SMS-Abfragecode</string>
   <string name="tc_sms_report_do_report">Senden</string>
-  <string name="tc_sms_report_get_default">"Ihnen werden für SMS-Nachrichten keine Gebühren in Rechnung gestellt, die benötigt werden, um Ihr Datennutzungsguthaben Ihres Mobilfunkanbieter zu erhalten."</string>
   <string name="tc_sms_report_get_sms">SMS erhalten</string>
   <string name="tc_sms_report_get_sms2">SMS erhalten</string>
   <string name="tc_sms_report_get_sms_again">SMS aktualisieren</string>
@@ -1567,7 +1551,6 @@ Wenn Sie MIUI keiner Weise verändert haben, stellen Sie sicher, dass Sie Herkun
   <string name="title_data_flow">Datenverbrauchsüberwachung</string>
   <string name="title_data_flow_no">Überwachung aus</string>
   <string name="title_data_flow_yes">Überwachung an</string>
-  <string name="title_default_app">"MIUI %s ist nicht der Standard"</string>
   <string name="title_dev_no">Entwickleroptionen an</string>
   <string name="title_dev_yes">Entwickleroptionen aus</string>
   <string name="title_find_device">\"Gerät finden\" einschalten</string>
@@ -1613,7 +1596,6 @@ Wenn Sie MIUI keiner Weise verändert haben, stellen Sie sicher, dass Sie Herkun
   <string name="toast_add_virus_white_list_success">Zu den Ausnahmen hinzugefügt. Elemente in Einstellung anzeigen.</string>
   <string name="toast_auto_traffic_correct">Automatische Kalibrierung ist aktiviert</string>
   <string name="toast_cleaner_cloudscan">Bereinigung nutzt Onlinedefinitionen</string>
-  <string name="toast_default_app">%1$s als Systemstandard %2$s gesetz</string>
   <string name="toast_flow_notification">Datenverbrauchsbenachrichtigung aktiviert</string>
   <string name="toast_garbage_lib">Automatische Bereinigungsupdates aktiviert</string>
   <string name="toast_lockscreen_glogin_empty_password">Passwort erforderlich</string>

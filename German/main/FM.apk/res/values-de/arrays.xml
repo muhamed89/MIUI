@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="sleep_duration_values">
-        <item>15 Minuten</item>
-        <item>30 Minuten</item>
-        <item>45 Minuten</item>
-        <item>1 Stunde</item>
-    </string-array>
     <string-array name="search_category_rbds_entries">
         <item>Alle Sender</item>
         <item>Adult Hits</item>

@@ -5,9 +5,6 @@
   <string name="add_vm_number_str">Nummer hinzufügen</string>
   <string name="can_not_dial_vt_while_voice_prompt">"Während eines Sprachanrufes kann kein Videoanruf erfolgen"</string>
   <string name="can_not_dial_while_vt_prompt">"Während eines Videoanrufs im Prozess lässt sich nicht wählen"</string>
-  <string name="change_default_dialer_dialog_title">Standard-Wähl-App ändern?</string>
-  <string name="change_default_dialer_no_previous_app_set_text">%s als Standard-Wähl-App verwenden?</string>
-  <string name="change_default_dialer_with_previous_app_set_text">Nutze %1$s statt %2$s als Standard-Wähl-App?</string>
   <string name="dial_conference_fail_prompt">Die Telefonkonferenz kann nicht direkt einrichtet werden. Das aktuelle Netzwerk unterstützt VoLTE nicht.</string>
   <string name="dial_vt_fail_prompt"> Das aktuelle Netzwerk unterstützt VoLTE nicht. Standardtelefonie verwenden? </string>
   <string name="duplicate_video_call_not_allowed">"Anruf kann momentan nicht durchgeführt werden."</string>

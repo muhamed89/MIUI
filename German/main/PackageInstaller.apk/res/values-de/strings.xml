@@ -105,7 +105,6 @@ Möchten Sie dies jetzt und in Zukunft zulassen?"</string>
   <string name="caller_app">Berechtigungsanfrage von %1$s</string>
   <string name="cancel">Abbrechen</string>
   <string name="current_permission_template">%1$s von %2$s</string>
-  <string name="default_permission_description">Unbekannte Aktion durchführen</string>
   <string name="devicePerms">Gerätezugriff</string>
   <string name="dlg_app_replacement_statement">"Die App, die Sie momentan installieren, wird eine andere App ersetzen.
 

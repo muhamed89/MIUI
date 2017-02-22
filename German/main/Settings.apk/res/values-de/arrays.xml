@@ -792,11 +792,6 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
         <item>Niedrig</item>
         <item>Kritisch</item>
      </string-array>
-     <string-array name="security_settings_premium_sms_values">
-        <item>Nachfragen</item>
-        <item>Niemals erlauben</item>
-        <item>Immer erlauben</item>
-     </string-array>
      <string-array name="status_bar_style_entries">
         <item>Eine Seite</item>
         <item>Zwei Seiten</item>

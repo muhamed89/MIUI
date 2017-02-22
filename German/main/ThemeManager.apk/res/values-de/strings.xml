@@ -8,7 +8,6 @@
   <string name="all_resources">Alle</string>
   <string name="all_ringtone_resource">Alle</string>
   <string name="app_name">Themen</string>
-  <string name="apply_default_font_tip">Aktuelle Systemschriftart verwenden?</string>
   <string name="apply_font_btn_exclude">Nicht anwenden</string>
   <string name="apply_font_btn_reboot">Neustarten</string>
   <string name="apply_font_tip">Zum Anwenden der Schriftart ist ein Neustart erforderlich</string>
@@ -118,7 +117,6 @@
   <string name="payment_info">Mi Credits</string>
   <string name="present_local_themes">Heruntergeladen</string>
   <string name="present_online_themes">Online</string>
-  <string name="provision_default_theme_title">Default</string>
   <string name="provision_loading_tips">Einen Moment…</string>
   <string name="provision_second_title">Wählen Sie aus 5 verschiedenen Standardthemen</string>
   <string name="provision_title">Wählen Sie ein Thema</string>
@@ -132,7 +130,6 @@
   <string name="resource_account_login_before_action">Sie müssen sich zuerst an ihrem Mi Konto anmelden</string>
   <string name="resource_account_login_title">Anmelden</string>
   <string name="resource_account_switch">Wechseln</string>
-  <string name="resource_alarm_default">Wecker</string>
   <string name="resource_app_name">Quellenbrowser</string>
   <string name="resource_apply">Anwenden</string>
   <string name="resource_apply_trial">Testen</string>
@@ -154,7 +151,6 @@
   <string name="resource_comment_date">%1$02d-%2$02d</string>
   <string name="resource_comment_edit_comment">Hinzufügen</string>
   <string name="resource_comment_edit_comment_waiting">Prüfe Benutzerverlauf…</string>
-  <string name="resource_comment_edit_text_default">Kommentar schreiben</string>
   <string name="resource_comment_edit_title">Kommentar über %1$s</string>
   <string name="resource_comment_entry_tips">Comments (%1$s)</string>
   <string name="resource_comment_expand_full_text">Ganzen Text erweitern ▼</string>
@@ -162,7 +158,6 @@
   <string name="resource_comment_good_comments">Positiv</string>
   <string name="resource_comment_invalid">Zur Bewertung bitte Sterne berühren</string>
   <string name="resource_comment_loading_list">Laden…</string>
-  <string name="resource_comment_name_default">Benutzer %1$s</string>
   <string name="resource_comment_no_average_score">-.-</string>
   <string name="resource_comment_no_comment">Keine Kommentare</string>
   <string name="resource_comment_publish">Senden</string>
@@ -179,8 +174,6 @@
   <string name="resource_comment_upload_success">Kommentar gesendet! Ihr Kommentar wird nach einer kurzen Überprüfung angezeigt.</string>
   <string name="resource_continue">Weiter</string>
   <string name="resource_data_empty">Der Inhalt ist leer</string>
-  <string name="resource_default">Standardklingelton</string>
-  <string name="resource_default_name">Quelle</string>
   <string name="resource_delete">Löschen</string>
   <string name="resource_delete_all">%1$d ausgewählte Quellen löschen?</string>
   <string name="resource_delete_confirm">Diese Quellen löschen?</string>
@@ -245,7 +238,6 @@
   <string name="resource_no_match_app">Keine App konnte gefunden werden, die diese Aktion ausführen kann</string>
   <string name="resource_no_network_text">Kann sich nicht mit dem Netzwerk verbinden.</string>
   <string name="resource_no_result">Hab nichts gefunden</string>
-  <string name="resource_notification_default">Meldungen</string>
   <string name="resource_on_trial">Testen: %1$s</string>
   <string name="resource_online">Online</string>
   <string name="resource_pack_confirm">Auch wenn Sie bereits %1$d Teil(e) von diesem Thema gekauft haben, ist es trotzdem günstiger das ganze Thema zu kaufen.</string>
@@ -267,7 +259,6 @@
   <string name="resource_ranking">Beliebte</string>
   <string name="resource_ranking_free">Kostenlos</string>
   <string name="resource_ranking_purchase">Kostenpflichtig</string>
-  <string name="resource_ringtone_default">Klingeltöne</string>
   <string name="resource_ringtone_playing_error">Abspielfehler</string>
   <string name="resource_ringtone_volume_mute">Ihr Klingelton steht aktuell auf lautlos</string>
   <string name="resource_save_to_note">In den Notizen speichern</string>
@@ -374,7 +365,6 @@
   <string name="theme_component_title_wallpaper">Desktop</string>
   <string name="theme_current_using_has_update">Themenupdate verfügbar</string>
   <string name="theme_description_title_customized">Anpassen</string>
-  <string name="theme_description_title_default">Standard</string>
   <string name="theme_empty_redirect">zurück zum Themenstore</string>
   <string name="theme_favorite_add_fail">Kann das Thema nicht mit Stern markieren</string>
   <string name="theme_favorite_add_success">Thema mit Stern markiert</string>

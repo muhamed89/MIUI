@@ -178,7 +178,6 @@ Bitte Ladegerät benutzen."</string>
   <string name="kilobyte_per_second">K/s</string>
   <string name="label_view">Anzeigen</string>
   <string name="lland">L Land</string>
-  <string name="lockscreen_carrier_default">Kein Dienst</string>
   <string name="long_screenshot_not_support_msg">Aktuelle App unterstützt keinen Bildlauf</string>
   <string name="long_screenshot_out_of_memory_error">Fehlgeschlagen, das Bild ist zu groß</string>
   <string name="long_screenshot_processing">Wird bearbeitet…</string>

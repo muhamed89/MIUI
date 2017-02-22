@@ -244,7 +244,6 @@
   <string name="paused_waiting_to_retry">Warte auf erneuten Versuch</string>
   <string name="percent_title">%1$s Personen heruntergeladen</string>
   <string name="period_of_validity">Gültigkeitsdauer:</string>
-  <string name="pref_download_revert_default">Standardeinstellungen wiederherstellen</string>
   <string name="pref_download_settings_title">Datenverbrauch</string>
   <string name="pref_download_storage_path">Neuen Ordner für Downloads erstellen</string>
   <string name="pref_sniff_shortcut">Verknüpfung erstellen</string>
@@ -280,7 +279,6 @@
   <string name="resume_download">Fortsetzen</string>
   <string name="retry_after_network_available">"Wenn eine Netzwerkverbindung verfügbar ist, erneut versuchen."</string>
   <string name="retry_download">Wiederholen</string>
-  <string name="revert_default">Standardeinstellungen wiederherstellen</string>
   <string name="revert_download_path">Standarddownloadordner verwenden?</string>
   <string name="save_path">"Speichere Downloads in: "</string>
   <string name="save_text">Speicher %1$s</string>
@@ -389,7 +387,6 @@
   <string name="text_showmore_infoflow">Weitere Quellen anzeigen</string>
   <string name="third_web_cancel">Abbrechen</string>
   <string name="third_web_confirm">OK</string>
-  <string name="third_web_default">Standort merken</string>
   <string name="third_web_filename_hint">Name</string>
   <string name="third_web_filesize">Größe</string>
   <string name="third_web_savepath">Speicherort</string>

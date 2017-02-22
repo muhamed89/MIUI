@@ -25,7 +25,6 @@
   <string name="button_new_note">Neu</string>
   <string name="call_folder_name">Anrufnotizen</string>
   <string name="call_record_folder_name">Anrufnotizen</string>
-  <string name="default_folder_name">Notizen</string>
   <string name="delete_folder_dialog_tile">Ordner löschen</string>
   <string name="dlg_btn_set_password">Passwort festlegen</string>
   <string name="dlg_check_reminder">Nicht wieder anzeigen</string>
@@ -143,7 +142,6 @@ Tippen Sie auf das Plus, um einen Ordner anzulegen"</string>
   <string name="sns_choose_quality_high">Hoch (%1$s)</string>
   <string name="sns_choose_quality_low">Niedrig</string>
   <string name="sns_choose_quality_title">Bildqualität wählen</string>
-  <string name="sns_content_default">Foto teilen</string>
   <string name="sns_desc_image_preview">Nachrichtenvorschau</string>
   <string name="sns_desc_preview_wechat">WeChat Nachrichtenvorschau</string>
   <string name="sns_desc_preview_weibo">Weibo Nachrichtenvorschau</string>
@@ -162,7 +160,6 @@ Tippen Sie auf das Plus, um einen Ordner anzulegen"</string>
   <string name="theme_title_blue">Blau</string>
   <string name="theme_title_candy">Bonbon</string>
   <string name="theme_title_dark">Dunkel</string>
-  <string name="theme_title_default">Standard</string>
   <string name="theme_title_green">Grün</string>
   <string name="theme_title_invitation">Einladung</string>
   <string name="theme_title_red">Rot</string>

@@ -38,7 +38,6 @@
   <string name="print_add_printer">Drucker hinzufügen</string>
   <string name="print_button">Drucken</string>
   <string name="print_dialog">Druckdialogfeld</string>
-  <string name="print_error_default_message">"Druckauftrag konnte nicht generiert werden."</string>
   <string name="print_error_printer_unavailable">"Dieser Drucker ist momentan nicht verfügbar"</string>
   <string name="print_error_retry">Zurück</string>
   <string name="print_forget_printer">Drucker entfernen</string>

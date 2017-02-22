@@ -202,10 +202,6 @@
   <string name="times">Zeit</string>
   <string name="title_bar">Längenumrechner</string>
   <string name="to_num">62.7</string>
-  <string name="unit_data_default_length_0">m</string>
-  <string name="unit_data_default_length_1">cm</string>
-  <string name="unit_data_default_weight_0">kg</string>
-  <string name="unit_data_default_weight_1">g</string>
   <string name="unit_data_display_area_acre">Acre</string>
   <string name="unit_data_display_area_are">Ar</string>
   <string name="unit_data_display_area_ha">Hektar</string>

@@ -45,7 +45,6 @@
   <string name="action_bar_up_description">Nach oben navigieren</string>
   <string name="action_menu_overflow_description">Weitere Optionen</string>
   <string name="action_mode_done">Fertig</string>
-  <string name="activity_chooser_view_dialog_title_default">Aktivität wählen</string>
   <string name="activity_chooser_view_see_all">Alle anzeigen</string>
   <string name="activity_list_empty">Keine passenden Aktivitäten gefunden</string>
   <string name="activity_resolver_use_always">Immer</string>
@@ -223,13 +222,6 @@ mit %s erstellen"</string>
   <string name="def_wifi_direct_name"/>
   <string name="def_wifi_wifihotspot_pass"/>
   <string name="def_wifi_wifihotspot_ssid"/>
-  <string name="defaultMsisdnAlphaTag">MSISDN1</string>
-  <string name="defaultVoiceMailAlphaTag">Mailbox</string>
-  <string name="default_audio_route_category_name">System</string>
-  <string name="default_audio_route_name">Telefon</string>
-  <string name="default_audio_route_name_dock_speakers">Docklautsprecher</string>
-  <string name="default_audio_route_name_headphones">Kopfhörer</string>
-  <string name="default_media_route_name_hdmi">HDMI</string>
   <string name="delete">Löschen</string>
   <string name="deleteText">Löschen</string>
   <string name="deleted_key">%1$s gelöscht</string>
@@ -426,7 +418,6 @@ mit %s"</string>
   <string name="imTypeHome">Privat</string>
   <string name="imTypeOther">Sonstige</string>
   <string name="imTypeWork">Geschäftlich</string>
-  <string name="ime_action_default">Ausführen</string>
   <string name="ime_action_done">Fertig</string>
   <string name="ime_action_go">Los</string>
   <string name="ime_action_next">Weiter</string>
@@ -451,7 +442,6 @@ Möchten Sie diese Seite wirklich verlassen?"</string>
   <string name="js_dialog_before_unload_positive_button">Diese Seite verlassen</string>
   <string name="js_dialog_before_unload_title">Navigation bestätigen</string>
   <string name="js_dialog_title">Auf der Seite \"%s\" steht:</string>
-  <string name="js_dialog_title_default">JavaScript</string>
   <string name="keyboard_headset_required_to_hear_password">Schließen Sie ein Headset an, um das Passwort ausgesprochen zu hören.</string>
   <string name="keyboard_password_character_no_headset">Punkt.</string>
   <string name="keyboardview_keycode_alt">Alt</string>
@@ -567,7 +557,6 @@ Um die Fixierung aufzuheben, berühren und halten Sie \"Übersicht\"."</string>
   <string name="lockscreen_access_pattern_cleared">Muster gelöscht</string>
   <string name="lockscreen_access_pattern_detected">Muster abgeschlossen</string>
   <string name="lockscreen_access_pattern_start">Muster gestartet</string>
-  <string name="lockscreen_carrier_default">Kein Dienst</string>
   <string name="lockscreen_emergency_call">Notruf</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Sie haben %d Mal erfolglos versucht, das Telefon zu entsperren. Nach %d weiteren erfolglosen Versuchen wird das Telefon auf die Werkseinstellungen zurückgesetzt und alle Nutzerdaten gehen verloren.</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Sie haben Ihr Entsperrungsmuster %d-mal falsch gezeichnet. Nach %d weiteren erfolglosen Versuchen werden Sie aufgefordert, Ihr Telefon mithilfe Ihrer Google-Anmeldeinformationen zu entsperren.
@@ -1114,8 +1103,6 @@ für Konto %s"</string>
   <string name="restr_pin_incorrect">Falsch</string>
   <string name="restr_pin_try_later">Später erneut versuchen</string>
   <string name="revoke">Aufheben</string>
-  <string name="ringtone_default">Standard-Klingelton</string>
-  <string name="ringtone_default_with_actual">Standardklingelton (%1$s)</string>
   <string name="ringtone_picker_title">Klingeltöne</string>
   <string name="ringtone_silent">Lautlos</string>
   <string name="ringtone_unknown">Unbekannter Klingelton</string>
@@ -1348,7 +1335,6 @@ Möchten Sie die Seite schließen?"</string>
   <string name="wifi_calling_off_summary">Aus</string>
   <string name="wifi_connect_alert_message">Die App %1$s möchte sich mit dem WLAN %2$s verbinden</string>
   <string name="wifi_connect_alert_title">Verbindung erlauben?</string>
-  <string name="wifi_connect_default_application">Eine Anwendung</string>
   <string name="wifi_no_internet">WLAN hat keine Internetverbindung</string>
   <string name="wifi_no_internet_detailed">Für Details antippen</string>
   <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
@@ -1363,7 +1349,6 @@ Möchten Sie die Seite schließen?"</string>
   <string name="wifi_p2p_show_pin_message">PIN:</string>
   <string name="wifi_p2p_to_message">An:</string>
   <string name="wifi_p2p_turnon_message">Wi-Fi Direct-Betrieb starten. Hierdurch wird der WLAN-Client-/-Hotspot-Betrieb deaktiviert.</string>
-  <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
   <string name="wifi_watchdog_network_disabled">Es konnte keine WLAN-Verbindung hergestellt werden.</string>
   <string name="wifi_watchdog_network_disabled_detailed">" hat eine schlechte Internetverbindung."</string>
   <string name="wireless_display_route_description">Kabellose Übertragung (WiDi)</string>
@@ -1376,9 +1361,6 @@ Möchten Sie die Seite schließen?"</string>
   <string name="year">Jahr</string>
   <string name="years">Jahre</string>
   <string name="yes">OK</string>
-  <string name="zen_mode_default_events_name">Termin</string>
-  <string name="zen_mode_default_weekends_name">Wochenende</string>
-  <string name="zen_mode_default_weeknights_name">nachts an Werktagen</string>
   <string name="zen_mode_downtime_feature_name">Abschaltzeit</string>
   <string name="zen_mode_feature_name">Nicht stören</string>
   <string name="zen_mode_forever">Unbegrenzt</string>

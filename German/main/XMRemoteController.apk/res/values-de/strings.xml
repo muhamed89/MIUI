@@ -366,7 +366,6 @@ Beantworten Sie anschließend die Frage"</string>
   <string name="match_mibox_sencond">    · Kontrollieren Sie Mi TV mit diesem Gerät.</string>
   <string name="match_mibox_third">    · Verbinde andere Mi Geräte automatisch</string>
   <string name="match_name_power">Power</string>
-  <string name="match_number_default">Funktionieren die Zifferntasten?</string>
   <string name="match_power_confirm_tip_frame">%1$s startet?</string>
   <string name="match_power_main_tip_frame">%1$s startet?</string>
   <string name="match_stb_intro_left">Freigeben wenn der Cursor sich nach links bewegt</string>
@@ -377,7 +376,6 @@ Beantworten Sie anschließend die Frage"</string>
   <string name="match_stb_name_up">Hoch</string>
   <string name="match_stb_seletion_des">Wähle deinen Standort aus</string>
   <string name="match_succuss">"Einrichtung erfolgreich"</string>
-  <string name="match_tip_default">Reagiert das Gerät?</string>
   <string name="match_tip_eject">Funktioniert die Ejecttaste?</string>
   <string name="match_tip_exit">Funktioniert die Exittaste?</string>
   <string name="match_tip_ff">Funktioniert die Vorlauftaste?</string>
@@ -700,7 +698,6 @@ Um Ihr Konto zu aktivieren, folgen Sie dem
   <string name="save_share_title">Speichern Sie die Fernbedienung auf diesem Gerät?</string>
   <string name="scaning">Sucht…</string>
   <string name="scanning_milink">Sucht nach Geräten…</string>
-  <string name="scene_default">Standard</string>
   <string name="scene_name_frame">%1$s %2$s%3$s</string>
   <string name="scene_name_frame_short">%1$s%2$s</string>
   <string name="screenshot">Screenshot</string>

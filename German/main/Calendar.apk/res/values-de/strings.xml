@@ -66,7 +66,6 @@
   <string name="birthday_event_description_day_before_yesterday">vorgestern</string>
   <string name="birthday_event_description_days_ago">vor %1$s Tagen</string>
   <string name="birthday_event_description_days_later">in %1$s Tagen</string>
-  <string name="birthday_event_description_default">"%1$s's %2$s %3$s %4$s"</string>
   <string name="birthday_event_description_special">"%2$s hat %1$s %3$s %4$s %5$s"</string>
   <string name="birthday_event_description_today">heute</string>
   <string name="birthday_event_description_tomorrow">morgen</string>
@@ -104,7 +103,6 @@
   <string name="chongsha">冲煞</string>
   <string name="choose_event_color_label">Ereignisfarbe</string>
   <string name="click_watch">Zum Anzeigen antippen</string>
-  <string name="color_picker_default_title">Wählen Sie eine Farbe</string>
   <string name="color_swatch_description">Farbe %1$d</string>
   <string name="color_swatch_description_selected">Farbe %1$d gewählt</string>
   <string name="common_fri">Freitag</string>
@@ -154,7 +152,6 @@
   <string name="day_picker_description">Monat als Tagesraster</string>
   <string name="day_view">Tag</string>
   <string name="day_view_new_event_hint">Neuer Termin</string>
-  <string name="default_reminder_mode">Erinnerung</string>
   <string name="delete_calendar">Abmelden</string>
   <string name="delete_label">Löschen</string>
   <string name="delete_recurring_event_title">%s löschen?</string>
@@ -199,7 +196,6 @@
   <string name="edit_event_from_label">Von</string>
   <string name="edit_event_input_year">Jahr eingeben</string>
   <string name="edit_event_label">Details</string>
-  <string name="edit_event_no_reminder_value">Keine Erinnerung</string>
   <string name="edit_event_reminder_text">%1$s am Geburtstag um %2$s</string>
   <string name="edit_event_reminder_with_another_day_text">%1$s, %2$s am Geburtstag um %3$s</string>
   <string name="edit_event_reminder_off_toast">Erinnerungen sind ausgeschaltet</string>
@@ -223,7 +219,6 @@
   <string name="event_action_edit">Ändern</string>
   <string name="event_all_day_label">Ganztägig</string>
   <string name="event_color_picker_dialog_title">Ereignisfarbe</string>
-  <string name="event_color_set_to_default">Standardkalenderfarbe</string>
   <string name="event_create">Neuer Termin</string>
   <string name="event_created_fail_text">Erinnerung konnte nicht erstellt werden</string>
   <string name="event_created_text">Erinnerung wurde erstellt</string>
@@ -248,7 +243,6 @@
   <string name="event_lunar_month">Monat</string>
   <string name="event_not_found">Keine Ereignisse</string>
   <string name="event_reminder_allday_day_zero">An diesem Tag %2$s</string>
-  <string name="event_reminder_value_zero">Zm Ereignisbeginn</string>
   <string name="event_reminders_to_max">Dieses Ereignis unterstützt %d Erinnerungen</string>  
   <string name="event_show_more">Mehr Optionen</string>
   <string name="event_subscirbe_detail_title">Weitere Informationen zur Veranstaltung</string>
@@ -394,9 +388,6 @@
   <string name="preferences_clear_search_history_summary">"Alle Sucheinträge aus dem Verlauf entfernen"</string>
   <string name="preferences_clear_search_history_title">Suchverlauf löschen</string>
   <string name="preferences_debug_category">Debuggen</string>
-  <string name="preferences_default_allday_reminder_title">Standarderinnerungszeit (ganztägig)</string>
-  <string name="preferences_default_reminder_dialog">Standarderinnerungszeit</string>
-  <string name="preferences_default_reminder_title">Standarderinnerungszeit</string>
   <string name="preferences_experimental_category">Experimentẹll</string>
   <string name="preferences_general_title">Kalenderansicht festlegen</string>
   <string name="preferences_hide_declined_title">Abgelehnte Termine ausblenden</string>
@@ -419,7 +410,6 @@
   <string name="preferences_title">Kalender</string>
   <string name="preferences_use_home_tz_descrip">Kalender-/Terminzeiten in Heimatzeitzone anzeigen</string>
   <string name="preferences_use_home_tz_title">Heimatzeit beibehalten</string>
-  <string name="preferences_week_start_day_default">-1</string>
   <string name="preferences_week_start_day_dialog">Woche beginnt am</string>
   <string name="preferences_week_start_day_title">Woche beginnt am</string>
   <string name="presence_label">Status</string>

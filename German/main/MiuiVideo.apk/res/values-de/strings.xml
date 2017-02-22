@@ -113,7 +113,6 @@
 3. Unser HD-Videoplugin wird automatisch installiert.
 4. Diese App braucht einen Internetzugang um normal zu funktionieren."</string>
   <string name="declaration_content_td_custom">Diese App braucht einen Internetzugang, um normal zu funktionieren.</string>
-  <string name="defaults">Standard</string>
   <string name="delete">Löschen</string>
   <string name="delete_action_text">Löschen (%d)</string>
   <string name="delete_addon">Löschen</string>

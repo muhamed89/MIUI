@@ -92,7 +92,6 @@ Sie können auch vorübergehend alles, was sich unter Ihrem Finger befindet, dur
 
 Hinweis: 3-fach-Tippen für Vergrößerung funktioniert überall, außer für die Tastatur und Navigationsleiste."</string>
   <string name="accessibility_screen_magnification_title">Vergrößerungsgesten</string>
-  <string name="accessibility_service_default_description">Keine Beschreibung verfügbar.</string>
   <string name="accessibility_service_no_apps_message">TalkBack bietet blinden und sehbehinderten Benutzern gesprochenes Feedback. Möchten Sie diese Funktion kostenlos aus dem Playstore installieren?</string>
   <string name="accessibility_service_no_apps_title">Benötigen Sie eine Bildschirmlupe?</string>
   <string name="accessibility_services_title">Dienste</string>
@@ -274,7 +273,6 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="app_launch_domain_links_title">Appverknüpfungen</string>
   <string name="app_launch_open_domain_urls_summary">Ohne Nachfragen öffnen</string>
   <string name="app_launch_open_domain_urls_title">Unterstützte Links öffnen</string>
-  <string name="app_launch_other_defaults_title">Andere Standardeinstellungen</string>
   <string name="app_launch_supported_domain_urls_title">Unterstützte Links</string>
   <string name="app_link_open_always">Diese App öffnen</string>
   <string name="app_link_open_ask">Jedes Mal nachfragen</string>
@@ -430,7 +428,6 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="background_process_stop_description">Hierbei handelt es sich um einen alten Appprozess, der für den Fall, dass er wieder benötigt wird, beibehalten wird. Normalerweise gibt es keinen Grund ihn zu beenden.</string>
   <string name="backtouch_enable_title">Lautstärke auf der Rückseite anpassen</string>
   <string name="backup">Sicherung</string>
-  <string name="backup_configure_account_default_summary">Zurzeit werden in keinem Konto gesicherte Daten gespeichert</string>
   <string name="backup_configure_account_title">Konto sichern</string>
   <string name="backup_data">Zu sichernde Elemente auswählen</string>
   <string name="backup_data_summary">Appdaten, WLAN-Passwörter und andere Einstellungen auf Google-Servern sichern</string>
@@ -722,8 +719,6 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="bluetooth_pb_remember_choice">Nicht mehr fragen</string>
   <string name="bluetooth_permission_request">Bluetoothberechtigungsanfrage</string>
   <string name="bluetooth_phonebook_request">Anforderung für Telefonbuchzugriff</string>
-  <string name="bluetooth_pin_values_hint">In der Regel 0000 oder 1234</string>
-  <string name="bluetooth_pin_values_hint_16_digits">Es müssen 16 Ziffern sein</string>
   <string name="bluetooth_preference_connected_devices">Verbundene Geräte</string>
   <string name="bluetooth_preference_device_settings">Geräteeinstellungen</string>
   <string name="bluetooth_preference_found_devices">Verfügbar</string>
@@ -1282,17 +1277,6 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="debug_networking_category">Netzwerk</string>
   <string name="debug_view_attributes">Attributprüfungsansicht aktivieren</string>
   <string name="defalut_launcher_title">Standard-Launcher</string>
-  <string name="default_app">(Standard)</string>
-  <string name="default_apps_title">Standardapps</string>
-  <string name="default_assist_none">Keine</string>
-  <string name="default_assist_title">Assistentenapp</string>
-  <string name="default_browser_title">Browserapp</string>
-  <string name="default_browser_title_none">Kein Standardbrowser</string>
-  <string name="default_emergency_app">Notfallapp</string>
-  <string name="default_input_method">Standardeingabemethode wählen</string>
-  <string name="default_phone_title">Telefonapp</string>
-  <string name="default_sound">Standardton</string>
-  <string name="default_usb_mode">USB-Verbindung</string>
   <string name="delete">Löschen</string>
   <string name="delete_backup_process">wird gelöscht...</string>
   <string name="delete_backup_title">Sicherung löschen</string>
@@ -1333,7 +1317,6 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="device_display_layout_title">Funktionen</string>
   <string name="device_edit_title">Gerätename ändern</string>
   <string name="device_feedback">Feedback zu diesem Gerät senden</string>
-  <string name="device_info_default">Unbekannt</string>
   <string name="device_info_label">Geräteinfo</string>
   <string name="device_info_not_available">Nicht verfügbar</string>
   <string name="device_info_settings">Telefonstatus</string>
@@ -1966,7 +1949,6 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="internal_storage">Systemspeicher</string>
   <string name="internal_storage_sentence">Interner Speicher</string>
   <string name="invalid_location">Installationspfad ungültig.</string>
-  <string name="invalid_size_value">Paketgröße konnte nicht berechnet werden.</string>
   <string name="ipaddr_label">IPaddr:</string>
   <string name="join_many_items_last">%1$s und %2$s</string>
   <string name="join_two_items">%1$s und %2$s</string>
@@ -1977,7 +1959,6 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="key_position_cat">Tastenposition</string>
   <string name="key_settings">Tasten</string>
   <string name="key_settings_title">Tasten</string>
-  <string name="keyboard_layout_default_label">Standard</string>
   <string name="keyboard_layout_dialog_setup_button">Tastaturlayout einrichten</string>
   <string name="keyboard_layout_dialog_switch_hint">Zum Umschalten STRG+Leertaste drücken</string>
   <string name="keyboard_layout_dialog_title">Tastaturlayout ändern</string>
@@ -1999,8 +1980,6 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="keywords_app_permissions">apps permissions security</string>
   <string name="keywords_battery">Leistung</string>
   <string name="keywords_date_and_time">Uhr</string>
-  <string name="keywords_default_apps">apps default</string>
-  <string name="keywords_default_phone_app">phone dialer default</string>
   <string name="keywords_display">Touchscreenbildschirm</string>
   <string name="keywords_display_auto_brightness">Dimme Bildschirm</string>
   <string name="keywords_display_brightness_level">Dimme Bildschirm</string>
@@ -2016,7 +1995,6 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="keywords_location">Nähe Standort Bericht</string>
   <string name="keywords_location_mode">Genauigkeit</string>
   <string name="keywords_lockscreen">schieben Passwort Muster PIN</string>
-  <string name="keywords_more_default_sms_app">Textnachricht</string>
   <string name="keywords_more_mobile_networks">Handy Mobilfunkanbieter kabellos</string>
   <string name="keywords_network_reset">reset restore factory</string>
   <string name="keywords_printing">Drucker</string>
@@ -2041,10 +2019,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="last_synced">Zuletzt synchronisiert: %1$s</string>
   <string name="last_time_used_label">Zuletzt verwendet</string>
   <string name="lattice_smartcover_title">Gitterfrontabdeckung</string>
-  <string name="launch_by_default">Standardmäßig öffnen</string>
   <string name="launch_count_label">Count</string>
-  <string name="launch_defaults_none">Kein Standard gesetzt</string>
-  <string name="launch_defaults_some">Einige Standards gesetzt</string>
   <string name="launcher_auto_fill_empty_title">Leere Positionen automatisch auffüllen</string>
   <string name="launcher_title">Launcher</string>
   <string name="launching_cit">Öffne CIT. Bitte warten.</string>
@@ -2104,7 +2079,6 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="local_select_sysdata">System</string>
   <string name="local_select_userapp">Apps</string>
   <string name="local_select_video">Videos</string>
-  <string name="locale_default">Standard</string>
   <string name="locale_settings">Lokal</string>
   <string name="location_access_off">Aus</string>
   <string name="location_access_on">An</string>
@@ -2695,9 +2669,6 @@ Betriebssystem auswählen:"</string>
   <string name="nfc_how_it_works_title">Am Terminal bezahlen</string>
   <string name="nfc_more_title">Mehr...</string>
   <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
-  <string name="nfc_payment_default">Zahlunggsstandard</string>
-  <string name="nfc_payment_default_not_set">Nicht eingerichtet</string>
-  <string name="nfc_payment_favor_default">Immer</string>
   <string name="nfc_payment_favor_foreground">Vordergrundapp favorisieren</string>
   <string name="nfc_payment_favor_open">Außer wenn eine andere Bezahlapp geöffnet ist</string>
   <string name="nfc_payment_how_it_works">"So funktioniert's"</string>
@@ -2705,11 +2676,7 @@ Betriebssystem auswählen:"</string>
   <string name="nfc_payment_menu_item_add_service">Apps suchen</string>
   <string name="nfc_payment_no_apps">Einfach durch Tippen bezahlen</string>
   <string name="nfc_payment_pay_with">An einem Tap &amp; Pay Terminal, bezahlen mit:</string>
-  <string name="nfc_payment_set_default">Immer %1$s verwenden, wenn Sie mobil bezahlen?</string>
-  <string name="nfc_payment_set_default_instead_of">Immer %1$s statt %2$s verwenden, wenn Sie mobil bezahlen?</string>
-  <string name="nfc_payment_set_default_label">Als bevorzugte Einstellung festlegen?</string>
   <string name="nfc_payment_settings_title">Mobil bezahlen</string>
-  <string name="nfc_payment_use_default">Standard verwenden</string>
   <string name="nfc_quick_toggle_summary">Datenaustausch bei Kontakt mit anderen Geräten zulassen</string>
   <string name="nfc_se_route_title">Sichere Elementposition</string>
   <string name="nfc_se_wallet_title">NFC-Zahlungen</string>
@@ -2726,7 +2693,6 @@ Betriebssystem auswählen:"</string>
   <string name="no_condition_providers">Keine Bedingungsanbieter sind installiert</string>
   <string name="no_connected_devices">Keine verbundenen Geräte</string>
   <string name="no_data_usage">Keine Daten verbraucht</string>
-  <string name="no_default_apps">Keine Standardanwendungen</string>
   <string name="no_device_admins">Keine Geräteadministratoren verfügbar</string>
   <string name="no_encrypt_password">Kein Passwort</string>
   <string name="no_internet_access_remember">Für dieses Netzwerk nicht mehr nachfragen</string>
@@ -3164,7 +3130,6 @@ Betriebssystem auswählen:"</string>
   <string name="pref_volume_wake_title">Lautstärketasten</string>
   <string name="preference_change_password_title">Passwort ändern</string>
   <string name="preferred_app_settings">Einstellungen</string>
-  <string name="preferred_app_settings_default">Standard</string>
   <string name="preferred_app_settings_not_selected">Nichts ausgewählt</string>
   <string name="preferred_app_settings_reset">Zurücksetzen</string>
   <string name="preferred_app_settings_reset_button">Zurücksetzen</string>
@@ -3306,7 +3271,6 @@ Betriebssystem auswählen:"</string>
   <string name="provision_skip">Überspringen</string>
   <string name="proxy_action_text">Fertig</string>
   <string name="proxy_clear_text">Löschen</string>
-  <string name="proxy_defaultView_text">Standard wiederherstellen</string>
   <string name="proxy_error">Achtung</string>
   <string name="proxy_error_dismiss">OK</string>
   <string name="proxy_error_empty_host_set_port">Das Feld für den Port muss leer sein, wenn das Feld für den Host leer ist.</string>
@@ -3462,8 +3426,6 @@ Betriebssystem auswählen:"</string>
   <string name="restore_contacts_hit">Erneut anmelden, um wiederhergestellte Daten einzusehen</string>
   <string name="restore_counts">Wiederherstellungen:</string>
   <string name="restore_data">Daten wiederherstellen</string>
-  <string name="restore_default_apn">Standard-APN-Einstellungen werden wiederhergestellt</string>
-  <string name="restore_default_apn_completed">Zurücksetzen auf Standard-APN-Einstellungen abgeschlossen</string>
   <string name="restore_failed">Wiederherstellung fehlgeschlagen</string>
   <string name="restore_finished">Wiederherstellung abgeschlossen</string>
   <string name="restore_is_running">Gerät wiederherstellen</string>
@@ -4157,9 +4119,6 @@ Verbleibende Versuche :"</string>
   <string name="smartcover_sensitive_summary">Telefon mit Smart Cover einfach sperren oder entsperren</string>
   <string name="smartcover_sensitive_title">Smartcovermodus</string>
   <string name="sms_application_title">Standard-SMS-App</string>
-  <string name="sms_change_default_dialog_text">Verwende %1$s anstelle von %2$s als Ihre SMS-App?</string>
-  <string name="sms_change_default_dialog_title">SMS-App wechseln?</string>
-  <string name="sms_change_default_no_previous_dialog_text">%s als SMS-App verwenden?</string>
   <string name="sms_delivered_sound_dialog_title">Ton für gesendete SMS auswählen</string>
   <string name="sms_delivered_sound_title">Nachricht zugestellt</string>
   <string name="sms_messages_title">SMS Nachrichten</string>
@@ -4668,16 +4627,6 @@ Bitte bereinigen Sie mindestens %s"</string>
   <string name="trusted_credentials_user_tab">Nutzer</string>
   <string name="try_again">Erneut versuchen</string>
   <string name="tts_data_installed_summary">Die für die Sprachsynthese erforderlichen Stimmen sind bereits installiert.</string>
-  <string name="tts_default_lang_summary">Legt die sprachspezifische Stimme für den gesprochenen Text fest</string>
-  <string name="tts_default_lang_title">Sprache</string>
-  <string name="tts_default_pitch_summary">Beeinflusst den Klang des gesprochenen Textes</string>
-  <string name="tts_default_pitch_title">Tonlage</string>
-  <string name="tts_default_rate_summary">Geschwindigkeit, mit der der Text gesprochen wird</string>
-  <string name="tts_default_rate_title">Sprechgeschwindigkeit</string>
-  <string name="tts_default_sample_string">Dies ist ein Beispiel für Sprachsynthese.</string>
-  <string name="tts_default_settings_section">Standardeinstellungen</string>
-  <string name="tts_default_synth_summary">Legt das Sprachsynthesemodul für gesprochenen Text fest.</string>
-  <string name="tts_default_synth_title">Standardmodul</string>
   <string name="tts_engine_error">Das ausgewählte Modul kann nicht ausgeführt werden.</string>
   <string name="tts_engine_error_config">Konfigurieren</string>
   <string name="tts_engine_error_reselect">Anderes Modul auswählen</string>
@@ -4876,8 +4825,6 @@ Ihre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden 
   <string name="usb_use_charging_only">Nur Aufladen</string>
   <string name="usb_use_file_transfers">Datenübertragung (MTP)</string>
   <string name="usb_use_photo_transfers">Bildübertragung (PTP)</string>
-  <string name="use_default_tts_settings_summary">Standardeinstellungen unten überschreiben Appeinstellungen.</string>
-  <string name="use_default_tts_settings_title">Immer meine Einstellungen verwenden</string>
   <string name="use_location_summary">Google darf Suchergebnisse und andere Dienste an Ihren Standort anpassen</string>
   <string name="use_location_title">Standort &amp; Google-Suche</string>
   <string name="use_nuplayer">NuPlayer benutzen (experimental)</string>
@@ -5572,7 +5519,6 @@ Delta Updategröße: %2$s"</string>
   <string name="zen_mode_automation_settings_title">Automatische Regeln</string>
   <string name="zen_mode_calls">Anrufe</string>
   <string name="zen_mode_configure_rule">Regel erstellen</string>
-  <string name="zen_mode_default_option">Bis Sie dies ausschalten</string>
   <string name="zen_mode_delete_rule">Regel löschen</string>
   <string name="zen_mode_delete_rule_button">Löschen</string>
   <string name="zen_mode_delete_rule_confirmation">“%1$s” Regel löschen?</string>

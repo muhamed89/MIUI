@@ -142,7 +142,6 @@
   <string name="deepclean_title_uninstall_apps">Selten verwendete Apps</string>
   <string name="deepclean_video_content">Lösche bereits angesehene bzw. nicht benötigte Videos</string>
   <string name="deepclean_video_summary_empty">Alles in Ordnung</string>
-  <string name="default_cache_type">Datendateien</string>
   <string name="delete_confirm">Löschen</string>
   <string name="delete_confirm_msg">Die ausgewählten Dateien permanent löschen?</string>
   <string name="dialog_content_checkbox_delete_cloud_image">Fotos auch aus der Mi Cloud löschen</string>
@@ -278,7 +277,6 @@
   <string name="low_memory_warning_dialog_ok_button">Los und bereinigen</string>
   <string name="low_memory_warning_dialog_title">Zu wenig freier Speicher</string>
   <string name="mainbtn_text_quick_cleanup">%s bereinigen</string>
-  <string name="mainbtn_text_quick_cleanup_default">Bereinigen</string>
   <string name="memeory_check_content">%1$d Apps, Speicher %2$s</string>
   <string name="month_day_format">dd. MMM</string>
   <string name="msg_cleanup_db_update_checking">Suche Updates…</string>

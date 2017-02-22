@@ -246,8 +246,6 @@
   <string name="download_btn_select_none">Alles abwählen</string>
   <string name="download_complete">Download fertig</string>
   <string name="download_completed">Heruntergeladen</string>
-  <string name="download_default_path_txt">Auswahl merken</string>
-  <string name="download_dialog_default_path_invalid">"Der ausgewählte Downloadpfad ist ungültig. Speicher in Standardpfad…"</string>
   <string name="download_dialog_file_length_hint_txt">"Dateigröße: "</string>
   <string name="download_dialog_file_length_lessthan1kb">weniger als 1Kb</string>
   <string name="download_dialog_file_length_nolength_error_txt">"Download fehlgeschlagen"</string>
@@ -530,17 +528,9 @@ Diese Seite verlassen?"</string>
   <string name="pref_enable_news">Newsalarm</string>
   <string name="pref_enable_novels">Bücheralarm</string>
   <string name="pref_enable_videos">Videoalarm</string>
-  <string name="pref_extras_reset_default">Auf Standardeinstellungen zurücksetzen</string>
-  <string name="pref_extras_reset_default_dlg">Einstellungen auf Standardwerte zurücksetzen?</string>
-  <string name="pref_extras_reset_default_summary">Stelle Standardwerte wieder her</string>
-  <string name="pref_extras_reset_default_title">Andere</string>
   <string name="pref_extras_send_feedback">Feedback senden</string>
   <string name="pref_extras_title">Erweitert</string>
   <string name="pref_extras_title_version">Version</string>
-  <string name="pref_file_downlaod_save_is_reset_default_settings">"Speichere Dateien im Standardverzeichnis des Browsers"</string>
-  <string name="pref_file_downlaod_save_reset_default_settings">Standardverzeichnis wiederherstellen</string>
-  <string name="pref_file_download_default_path_prefix">Standardverzeichnis: %s</string>
-  <string name="pref_file_download_save_modify_default_path">Downloadverzeichnis</string>
   <string name="pref_file_download_save_title">Downloads</string>
   <string name="pref_fling_on_border">Von der Kante aus wischen</string>
   <string name="pref_fling_on_border_enabled">"Tabs wechseln"</string>
@@ -617,7 +607,6 @@ Diese Seite verlassen?"</string>
   <string name="quicklink_saved_before">Diese Seite wurde bereits hinzugefügt</string>
   <string name="quicklink_user_define_webpage_title">Name</string>
   <string name="quicklink_user_define_webpage_url">URL</string>
-  <string name="quicklinks_group_default_subtitle">Leer</string>
   <string name="quicklinks_management">Beliebt</string>
   <string name="quicklinks_most_visited">An Startseite anheften</string>
   <string name="quicklinks_most_visited_subtitle">Zeige die kürzlich besuchten Webseiten in neuen Registerkarten</string>
@@ -784,7 +773,6 @@ Diese Seite verlassen?"</string>
   <string name="v5_edit_mode_title_empty">0 ausgewählt</string>
   <string name="v5_select_all">Alles auswählen</string>
   <string name="version_check_button_checking">Überprüfe</string>
-  <string name="version_check_button_default">Suche nach Updates</string>
   <string name="version_check_button_download_failed">Download fortsetzen</string>
   <string name="version_check_button_downloading">Lade</string>
   <string name="version_check_button_install">Installieren</string>
