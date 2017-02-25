@@ -91,7 +91,7 @@ Möchten Sie sie beenden?"</string>
 
 Möchten Sie ihn beenden?"</string>
     <string name="app_info">Appinfo</string>
-    <string name="app_no_restricted_accounts">This app doesn&apos;t support accounts for restricted profiles</string>
+    <string name="app_no_restricted_accounts">"This app doesn`t support accounts for restricted profiles"</string>
   <string name="app_not_found">Für diese Aktion wurde keine App gefunden.</string>
   <string name="app_running_notification_text">Für weitere Informationen oder zum Anhalten der App antippen</string>
   <string name="app_running_notification_title">%1$s wird ausgeführt</string>
