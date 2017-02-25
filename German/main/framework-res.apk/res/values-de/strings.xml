@@ -19,7 +19,7 @@
   <string name="Midnight">Mitternacht</string>
   <string name="Noon">Mittag</string>
   <string name="PinMmi">PIN-Änderung</string>
-  <string name="PwdMmi">Passwortanderung</string>
+    <string name="PwdMmi">Passwortänderung</string>
   <string name="RestrictedChangedTitle">Eingeschränkter Zugriff geändert</string>
   <string name="RestrictedOnAll">Alle Sprach-/Daten-/SMS-Dienste sind gesperrt.</string>
   <string name="RestrictedOnAllVoice">Alle Sprachdienste sind gesperrt.</string>
@@ -45,6 +45,7 @@
   <string name="action_bar_up_description">Nach oben navigieren</string>
   <string name="action_menu_overflow_description">Weitere Optionen</string>
   <string name="action_mode_done">Fertig</string>
+    <string name="activity_chooser_view_dialog_title_default">Aktivität wählen</string>
   <string name="activity_chooser_view_see_all">Alle anzeigen</string>
   <string name="activity_list_empty">Keine passenden Aktivitäten gefunden</string>
   <string name="activity_resolver_use_always">Immer</string>
@@ -58,7 +59,14 @@
   <string name="add_account_button_label">Konto hinzufügen</string>
   <string name="add_account_label">Konto hinzufügen</string>
   <string name="aerr_application">\"%1$s\" wurde beendet.</string>
+    <string name="aerr_application_repeated">%1$s wird ständig beendet</string>
+    <string name="aerr_close">Schließen</string>
+    <string name="aerr_close_app">App schließen</string>
+    <string name="aerr_mute">Bis zum Neustart stummschalten</string>
   <string name="aerr_process">Der Prozess \"%1$s\" wurde beendet.</string>
+    <string name="aerr_process_repeated">%1$s wird ständig beendet</string>
+    <string name="aerr_report">Feedback senden</string>
+    <string name="aerr_restart">App erneut öffnen</string>
   <string name="aerr_title"/>
   <string name="allow">Zulassen</string>
   <string name="alwaysUse">Immer für diese Aktion verwenden</string>
@@ -68,6 +76,8 @@
   <string name="android_upgrading_apk">App %1$d von %2$d wird optimiert...</string>
   <string name="android_upgrading_complete">Start wird abgeschlossen...</string>
   <string name="android_upgrading_fstrim">Optimieren von Speichersystemen</string>
+    <string name="android_upgrading_notification_body">Einige Apps könnten nach dem Update nicht mehr ordnungsgemäß funktionieren</string>
+    <string name="android_upgrading_notification_title">Android wird aktualisiert</string>
   <string name="android_upgrading_starting_apps">Apps werden gestartet...</string>
   <string name="android_upgrading_title">Android wird aktualisiert...</string>
   <string name="anr_activity_application">"%2$s reagiert nicht.
@@ -80,7 +90,8 @@ Möchten Sie sie beenden?"</string>
   <string name="anr_process">"Prozess \"%1$s\" reagiert nicht.
 
 Möchten Sie ihn beenden?"</string>
-  <string name="anr_title"/>
+    <string name="app_info">Appinfo</string>
+    <string name="app_no_restricted_accounts">This app doesn&apos;t support accounts for restricted profiles</string>
   <string name="app_not_found">Für diese Aktion wurde keine App gefunden.</string>
   <string name="app_running_notification_text">Für weitere Informationen oder zum Anhalten der App antippen</string>
   <string name="app_running_notification_title">%1$s wird ausgeführt</string>
@@ -1240,6 +1251,9 @@ Wenn Sie über längere Zeiträume hinweg Musik in hoher Lautstärke hören, kan
   <string name="system_error_wipe_data">"Es gibt ein internes Problem mit Ihrem Gerät, es kann instabil bleiben, bis Sie eine Werkswiederherstellung durchführen."</string>
   <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Zum Einrichten berühren</string>
+    <string name="tethered_notification_multi_device_message">%1$s angeschlossene Geräte</string>
+    <string name="tethered_notification_no_device_message">Kein angeschlossenes Gerät</string>
+    <string name="tethered_notification_one_device_message">%1$s angeschlossenes Gerät</string>
   <string name="tethered_notification_title">Tethering oder Hotspot aktiv</string>
   <string name="textSelectionCABTitle">Textauswahl</string>
   <string name="text_copied">Text in Zwischenablage kopiert.</string>
