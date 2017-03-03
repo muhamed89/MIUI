@@ -1,30 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>    
-    <string-array name="preferred_network_mode_choices">
-        <item>TD-SCDMA, LTE, CDMA, EvDo GSM/WCDMA</item>
-        <item>TD-SCDMA, GSM/WCDMA, CDMA und EvDo</item>
-        <item>TD-SCDMA, GSM/WCDMA und LTE</item>
-        <item>TD-SCDMA, WCDMA und LTE</item>
-        <item>TD-SCDMA, GSM/WCDMA</item>
-        <item>TD-SCDMA, GSM und LTE</item>
-        <item>TD-SCDMA und GSM</item>
-        <item>TD-SCDMA und LTE</item>
-        <item>TD-SCDMA und WCDMA</item>
-        <item>Nur TD-SCDMA</item>
-        <item>LTE/WCDMA</item>
-        <item>Nur LTE</item>
-        <item>LTE/GSM/CDMA auto (PRL)</item>
-        <item>LTE/GSM auto (PRL)</item>
-        <item>LTE/CDMA auto (PRL)</item>
-        <item>GSM/CDMA auto (PRL)</item>
-        <item>Nur EvDo</item>
-        <item>Nur CDMA</item>
-        <item>CDMA auto (PRL)</item>
-        <item>GSM auto (PRL)</item>
-        <item>Nur WCDMA</item>
-        <item>Nur GSM</item>
-        <item>Bevorzugt WCDMA </item>
-    </string-array>    
+    <string-array name="uplmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TD-SCDMA</item>
+        <item>LTE</item>
+        <item>Triple Modus</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>LTE</item>
+        <item>Triple Modus</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>Standard Netzwerk</item>
+        <item>Nummer verbergen</item>
+        <item>Nummer anzeigen</item>
+    </string-array>
     <string-array name="list_language_entries">
         <item>Englisch</item>
         <item>Französisch</item>
@@ -33,5 +25,14 @@
         <item>Koreanisch</item>
         <item>Chinesisch</item>
         <item>Hebräisch</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Nur zu Hause</item>
+        <item>Automatisch</item>
+    </string-array>
+    <string-array name="voicemail_notification_vibrate_when_values">
+        <item>immer</item>
+        <item>lautlos</item>
+        <item>nie</item>
     </string-array>
 </resources>
