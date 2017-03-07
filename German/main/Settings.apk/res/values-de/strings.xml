@@ -176,11 +176,11 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="additional_system_update_menu" />
   <string name="additional_system_update_settings_list_item_title">Zusätzliche Systemupdates</string>
   <string name="adjust_3d_depth_title">"Spiele anpassen 3D-Tiefe"</string>
-  <string name="admin_device_owner_message">Your administrator can monitor and manage apps and data associated with this device, including settings, permissions, corporate access, network activity, and the device&apos;s location information.</string>
+  <string name="admin_device_owner_message">"Your administrator can monitor and manage apps and data associated with this device, including settings, permissions, corporate access, network activity, and the device`s location information."</string>
   <string name="admin_disabled_other_options">Other options are disabled by your administrator.</string>
   <string name="admin_more_details">More details</string>
-  <string name="admin_profile_owner_message">Your administrator can monitor and manage apps and data associated with your work profile, including settings, permissions, corporate access, network activity, and the device&apos;s location information.</string>
-  <string name="admin_profile_owner_user_message">Your administrator can monitor and manage apps and data associated with this user, including settings, permissions, corporate access, network activity, and the device&apos;s location information.</string>
+  <string name="admin_profile_owner_message">"Your administrator can monitor and manage apps and data associated with your work profile, including settings, permissions, corporate access, network activity, and the device`s location information."</string>
+  <string name="admin_profile_owner_user_message">"Your administrator can monitor and manage apps and data associated with this user, including settings, permissions, corporate access, network activity, and the device`s location information."</string>
   <string name="admin_support_more_info">Mehr Details</string>
   <string name="advanced_apps">Erweitert</string>
   <string name="advanced_section_header">Erweitert</string>
@@ -1047,7 +1047,7 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="compute_backup_info">Sicherungsinfo lesen…</string>
   <string name="compute_delete_contact_info">Info lesen…</string>
   <string name="computing_size">Berechnung…</string>
-    <string name="condition_airplane_summary">WLAN, Bluetooth, and cellular network are turned off. You can&apos;t make phone calls or connect to the Internet.</string>
+    <string name="condition_airplane_summary">"WLAN, Bluetooth, and cellular network are turned off. You can`t make phone calls or connect to the Internet."</string>
     <string name="condition_airplane_title">Airplane mode is on</string>
     <string name="condition_battery_summary">Performance is reduced. Location services and background data are turned off.</string>
     <string name="condition_battery_title">Battery Saver is on</string>
@@ -1084,7 +1084,7 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="confirm_erase">Löschen</string>
   <string name="confirm_fingerprint_icon_content_description">Benutzen Sie Ihren Fingerabdruck, um fortzufahren.</string>
   <string name="confirm_fingerprint_msg">Legen Sie Ihren Finger auf den Fingerabdruckscanner</string>
-  <string name="confirm_install_and_connect">Installieren & Verbinden</string>
+  <string name="confirm_install_and_connect">Installieren &amp; Verbinden</string>
   <string name="confirm_new_backup_pw_prompt">Neues Passwort für vollständige Sicherung erneut eingeben</string>
   <string name="confirm_privacy_password">Datenschutzpasswort eingeben</string>
   <string name="confirm_privacy_password_fingerprint">Fingerabruck scannen oder Datenschutzpasswort eingeben</string>
@@ -1106,7 +1106,7 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
     <string name="convert_to_fbe_warning">"Convert data partition to file based encryption.
  !!Warning!! This will erase all your data.
  This feature is alpha, and may not work correctly.
- Press &apos;Wipe and convert…&apos; to continue."</string>
+ Press Wipe and convert to continue."</string>
     <string name="convert_to_file_encryption">Convert to file encryption</string>
     <string name="convert_to_file_encryption_done">Already file encrypted</string>
     <string name="convert_to_file_encryption_enabled">Convert…</string>
@@ -1340,7 +1340,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="debug_view_attributes">Attributprüfungsansicht aktivieren</string>
   <string name="decline_remote_bugreport_action">Ablehnen</string>
   <string name="defalut_launcher_title">Standard-Launcher</string>
-  <string name="default_admin_support_msg">This action is disabled. Contact your organization&apos;s administrator to learn more.</string>
+  <string name="default_admin_support_msg">"This action is disabled. Contact your organization`s administrator to learn more."</string>
   <string name="default_app">(Standard)</string>
   <string name="default_apps_title">Standardapps</string>
   <string name="default_assist_none">Keine</string>
@@ -1970,7 +1970,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="header_data_and_synchronization">Daten &amp; Synchronisation</string>
   <string name="heads_up_enabled_title">Popup bei hoher Priorität</string>
   <string name="heavy_weight_stop_description">Diese App kann nicht sicher beendet werden. Beim Beenden könnten aktuelle Daten verloren gehen.</string>
-  <string name="help_feedback_label">Hilfe & Rückmeldung</string>
+  <string name="help_feedback_label">Hilfe &amp; Rückmeldung</string>
   <string name="help_label">Hilfe</string>
   <string name="help_url_accounts"/>
   <string name="help_url_backup_reset"/>
@@ -3358,7 +3358,7 @@ Betriebssystem auswählen:"</string>
   <string name="privacy_password">Datenschutzpasswort</string>
   <string name="privacy_password_add_account">Hinzufügen</string>
   <string name="privacy_password_add_account_info">Mi Konto hinzufügen, falls Sie das Passwort vergessen, um es zurücksetzen zu können</string>
-  <string name="privacy_password_add_account_setting">Konto & Privatsphäre</string>
+  <string name="privacy_password_add_account_setting">Konto &amp; Privatsphäre</string>
   <string name="privacy_password_bind_account">Mi Konto hinzufügen</string>
   <string name="privacy_password_bind_account_immediate">Hinzufügen</string>
   <string name="privacy_password_confirm_SecondSpace_Password">Zweitprofilpasswort bestätigen</string>
@@ -3370,7 +3370,7 @@ Betriebssystem auswählen:"</string>
   <string name="privacy_password_fingerprint_dialog_error_title">Fingerabdruck konnte nicht gescannt werden, versuchen Sie es noch einmal</string>
   <string name="privacy_password_fingerprint_dialog_message">Legen Sie Ihren Finger auf den Sensor</string>
   <string name="privacy_password_fingerprint_dialog_title">Fingerabdruck scannen</string>
-  <string name="privacy_password_login_and_add_account">Anmelden & Hinzufügen</string>
+  <string name="privacy_password_login_and_add_account">Anmelden &amp; Hinzufügen</string>
   <string name="privacy_password_never_remind">Nicht mehr nachfragen</string>
   <string name="privacy_password_not_add_account">Nicht jetzt</string>
   <string name="privacy_password_not_login_account">Sie sind nicht angemeldet</string>
