@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="screenrecorder_settings_orientation">
+        <item>Automatisch</item>
+        <item>Vertikal</item>
+        <item>Horizontal</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_sound">
+        <item>Stumm</item>
+        <item>Mikrofon</item>
+        <item>System</item>
+    </string-array>
+</resources>
