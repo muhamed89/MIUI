@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_info">Aufnahme läuft, zum Beenden antippen</string>
-    <string name="app_name">Bildschirmaufnahmer</string>
-    <string name="app_notification_title">Bildschirmaufnahmer</string>
+    <string name="app_name">Bildschirmaufnahme</string>
+    <string name="app_notification_title">Bildschirmaufnahme</string>
     <string name="auto_stop_title">Video erfolgreich gespeichert</string>
     <string name="battery_not_allowed">Die Aufnahme kann bei einem Ladestand von weniger als ３％ nicht gestartet werden, mehr als ２０％ sind empfohlen.</string>
     <string name="bit_rate">Videoqualität</string>
