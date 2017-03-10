@@ -42,7 +42,7 @@
     <string name="memory_not_allowed">Zu wenig freier Speicher für eine Bildschirmaufnahme. Bereinigen Sie den Speicher und versuchen Sie es erneut.</string>
     <string name="mic_sound">Ton über Mikrofon</string>
     <string name="no_recorder_info">Keine Videos gefunden</string>
-    <string name="no_recorder_info2">Tippen Sie auf das Plus-Symbol, um eine Aufnahme hinzuzufügen.​</string>
+    <string name="no_recorder_info2">Tippen Sie auf das Plus, um eine Aufnahme hinzuzufügen.</string>
     <string name="no_sound">Kein Ton</string>
     <string name="operation_delete">Löschen</string>
     <string name="operation_send">Senden</string>
