@@ -16,5 +16,5 @@
   <string name="second_function">Benutzedefiniert</string>
   <string name="start_protect">Aktiviere Fake-Base-Schutz</string>
   <string name="stop_protect">Deaktiviere Fake-Base-Schutz</string>
-  <string name="support_forbidden_fakecell">Hinweis: Wenn Sie den Zugang zu vergetäuschten Basisstationen einschränken, kann dies Ihrem Empfang in schlecht abgedeckten Regionen beeinträchtigen</string>
+  <string name="support_forbidden_fakecell">Hinweis: Wenn Sie den Zugang zu vorgetäuschten Basisstationen einschränken, kann dies Ihrem Empfang in schlecht abgedeckten Regionen beeinträchtigen</string>
 </resources>
