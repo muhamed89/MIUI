@@ -4,6 +4,7 @@
   <string name="click_to_enter_text">Zum Anzeigen antippen</string>
   <string name="confirm_pin_msg">PIN erneut eingeben</string>
   <string name="custom_lock_wallpaper_enter">Eintreten</string>
+  <string name="default_lockscreen_unlock_hint_text">Zum Entsperren nach oben wischen</string>
   <string name="delete">Löschen</string>
   <string name="emergency_call_string">Notruf</string>
   <string name="experimental_try_string">Versuchen</string>
@@ -37,6 +38,7 @@
   <string name="invalid_sim_pin_hint">Geben Sie eine PIN mit 4 bis 8 Zahlen ein</string>
   <string name="invalid_sim_puk_hint">Der PUK-Code sollte aus 8 Zahlen oder mehr bestehen</string>
   <string name="keyguard_torch_cover_text">Halten Sie die Einschalttaste gedrückt, um die Lampe dauerhaft einzuschalten</string>
+  <string name="left_action_default_hint_text">Telefon</string>
   <string name="lock_screen_date">EEEE, dd. MMMM</string>
   <string name="lock_screen_date_12">EEEE, MMMM d</string>
   <string name="lock_wallpaper_enter">Anmelden</string>
