@@ -6,6 +6,7 @@
   <string name="app_name">Rekorder</string>
   <string name="back">Zurück</string>
   <string name="btn_clear_records">Aufnahmen löschen (%d Elemente)</string>
+    <string name="button_ok">OK</string>
   <string name="button_queue_for_wifi">Warteschlange</string>
   <string name="button_start_now">Download</string>
   <string name="call_record">Anrufaufnahmen</string>
