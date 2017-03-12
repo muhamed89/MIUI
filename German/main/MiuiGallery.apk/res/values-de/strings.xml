@@ -37,7 +37,6 @@
   <string name="add_to_cloud_folder">Zum Ordner hinzufügen</string>
   <string name="add_to_cloud_image_limit_exceeded_message">Max. Bildanzahl überschritten</string>
   <string name="add_to_cloud_local_space_full_message">Speicher ist voll oder nicht verfügbar</string>
-  <string name="add_to_cloud_reasons"/>
   <string name="add_to_cloud_space_full_message">Cloudalbum ist voll</string>
   <string name="add_to_cloud_successfully_message">Zum Cloudalbum hinzufügen</string>
   <string name="add_to_cloud_type_not_support_message">Dateityp wird nicht unterstützt</string>
@@ -100,7 +99,6 @@
   <string name="album_type_system">Systemalbum</string>
   <string name="album_videos_name">Videos</string>
   <string name="albums">Alben</string>
-  <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Achtung</string>
   <string name="alert_init_merged_message">Fotos auf dem Gerät und in der Mi Cloud werden zusammen angezeigt.</string>
   <string name="alert_init_merged_title">Alle ihre Fotos endlich vereint</string>
@@ -159,6 +157,7 @@
   <string name="baby_album_new_photo_page_title">"%1$s's Album"</string>
   <string name="baby_album_new_photo_remind">Es gibt neue Fotos in Ihrem Kinderalbum</string>
   <string name="baby_album_no_share_user_tip">Zurzeit keine Follower</string>
+  <string name="baby_album_picker_default_title">"Wähle %1$s Gesicht"</string>
   <string name="baby_album_setting_title">Baby info</string>
   <string name="baby_album_sharer_accept_dialog_msg">"%1$s's %2$s,
 %3$s's %4$s teilte %5$s's Alben mit Ihnen"</string>
@@ -181,11 +180,13 @@
   <string name="backup_automatically_title">Automatisch sichern und synchronisieren</string>
     <string name="backup_battery_low_desc">Sie können nach wie vor Inhalte zur Synchronisation auswählen</string>
     <string name="backup_battery_low_title">Sicherung wegen niedrigen Ladestand angehalten</string>
+    <string name="backup_close">Backup schließen</string>
     <string name="backup_cloud_space_low_btn_text">Mehr erhalten</string>
     <string name="backup_cloud_space_low_desc">%1$s auf Mi Cloud | Verfügbar %2$s</string>
     <string name="backup_cloud_space_low_title">Nicht genug Mi Cloud-Speicher</string>
     <string name="backup_cta_not_allow">Netzwerkverbindung nicht möglich</string>
     <string name="backup_cta_not_allow_btn_text">Erlauben</string>
+    <string name="backup_detail_page_empty">Keine Fotos oder Videos zum Sichern vorhanden</string>
   <string name="backup_detail_page_title">Sicherungsliste</string>
     <string name="backup_device_space_low_btn_text">Bereinigen</string>
     <string name="backup_device_space_low_desc">Speicherplatz frei mache, um fortzufahren</string>
@@ -204,6 +205,7 @@
   <string name="backup_only_in_wifi">Nur WLAN verwenden, um Fotos und Videos zu sichern</string>
   <string name="backup_only_in_wifi_summary">Niemals die mobile Datenverbindung verwenden um Fotos und Videos zu sichern</string>
     <string name="backup_pause">Sicherung anhalten</string>
+    <string name="backup_pause_title">Sichern nach %s</string>
     <string name="backup_pending">Wird automatisch gesichert</string>
     <string name="backup_stop">Sicherung abbrechen</string>
     <string name="backup_sync_error_btn_text">Noch einmal versuchen</string>
@@ -240,6 +242,7 @@
   <string name="calculated_pictures_time_tip">Sortierte Fotos von %1$s bis jetzt. Die restlichen Fotos werden allmählich sortiert. Um diesen Vorgang zu beschleunigen, %2$s</string>
   <string name="calculated_pictures_time_tip_for_no_vip">Sortierte Fotos von %1$s bis jetzt. Die restlichen Fotos werden allmählich sortiert.</string>
   <string name="calculated_pictures_time_tip_for_vip">Sortierte Fotos von %1$s bis jetzt. Die restlichen Fotos werden bald sortiert.</string>
+    <string name="camera_360_description">Präsentiert von Camera360</string>
   <string name="camera_black_white">Schwarzweiss</string>
   <string name="camera_connected">Kamera verbunden</string>
   <string name="camera_disconnected">Kamera nicht verbunden</string>
@@ -371,11 +374,11 @@
   <string name="custom_select_title_select_item">Elemente auswählen</string>
   <string name="cut">Ausschneiden</string>
   <string name="damaged_file">Datei beschädigt</string>
-  <string name="dcim_100media">Taobao TMall</string>
-  <string name="dcim_opaipic">Opaipic</string>
-  <string name="dcim_viva_pics">VIVA</string>
   <string name="debugging_tip">Debuginformationen werden generiert</string>
   <string name="defalt_local_mobile">Mobil</string>
+    <string name="default_album_name">Neues Album</string>
+    <string name="default_relation_name">Neue Gruppe</string>
+    <string name="define_by_user">Benutzerdefiniert</string>
   <string name="delete">Löschen</string>
   <string name="delete_album_failed">Album löschen fehlgeschlagen.</string>
   <string name="delete_album_msg_format">\"%2$s\" Album %1$s%3$s löschen?</string>
@@ -425,10 +428,15 @@
   <string name="done">Fertig</string>
   <string name="doodle">Kritzeln</string>
   <string name="doodle_big_size">Groß</string>
+    <string name="doodle_brush">Pinsel</string>
+    <string name="doodle_mark">Marker</string>
   <string name="doodle_middle_size">Mittel</string>
   <string name="doodle_mosaic">Mosaik</string>
+    <string name="doodle_pen">Stift</string>
+    <string name="doodle_pencil">Bleistift</string>
   <string name="doodle_small_size">Klein</string>
   <string name="doodle_super_big_size">Riesig</string>
+    <string name="doodle_tooltip">Zum Kritzeln Foto berühren</string>
   <string name="double_tap_to_higher_definition">Für HD-Vorschau 2x antippen</string>
   <string name="download">Download</string>
     <string name="download_canceled">Download abgebrochen</string>
@@ -455,6 +463,7 @@
     <string name="empty_recommend_back">Zurück</string>
   <string name="empty_recommend_button_view">Zurück</string>
   <string name="empty_recommend_face_page_view">Keine weiteren Empfehlungen</string>
+    <string name="empty_relation">Gruppenname kann nicht leer sein</string>
   <string name="enable">Einschalten</string>
   <string name="enable_auto_upload_tip">Dieses Album wird nach der Aktivierung aus \"Andere Alben\" entfernt.</string>
   <string name="enable_auto_upload_title">Sync mit Mi Cloud einschalten</string>
@@ -636,6 +645,7 @@
   <string name="input_cloudfolder_name">Albumname</string>
   <string name="input_nickname_toast">Babynamen eingeben</string>
   <string name="input_or_select_a_name">Namen eingeben oder auswählen</string>
+    <string name="input_relation_name">Gruppenname eingeben</string>
   <string name="internal_camera_folder_display_name">Interne Kamerafotos</string>
   <string name="internal_miui_capture_screen_folder_display_name">Interne Screenshots</string>
   <string name="internal_sd_card">Interner Speicher</string>
@@ -667,9 +677,10 @@
   <string name="last_new_year">Letztes Neujahr</string>
   <string name="last_valentine_day">Letzter Valentinstag</string>
   <string name="last_year_today">Vor 1 Jahr</string>
-  <string name="limit_height">Höhe sollte &gt; 0 sein</string>
-  <string name="limit_width">Breite sollte &gt; 0 sein</string>
+  <string name="limit_height">Höhe sollte > 0 sein</string>
+  <string name="limit_width">Breite sollte > 0 sein</string>
   <string name="load_image_error">Foto kann nicht geladen werden</string>
+    <string name="load_relations">Einen Moment…</string>
   <string name="loading">Lade…</string>
   <string name="loading_dual_tip">Dual-Foto wird geladen…</string>
   <string name="loading_fail">Download fehlgeschlagen</string>
@@ -711,7 +722,7 @@
   <string name="maker">Hersteller</string>
   <string name="manual">Handbuch</string>
   <string name="me">Ich</string>
-  <string name="megabyteShort">MB</string>
+  <string name="megabyteShort">" MB"</string>
   <string name="menu_album_new_album">Neues Album</string>
   <string name="menu_item_sort">Sortieren</string>
   <string name="menu_item_sort_date">Datum</string>
@@ -750,8 +761,7 @@
   <string name="move">Verschieben</string>
   <string name="move_to_cloud_album">Verschieben nach</string>
   <string name="move_to_other_albums_tip">Synchronisation mit Mi Cloud wird für dieses Album deaktiviert, wenn Sie dieses Album verschieben. Album jetzt verschieben?</string>
-  <string name="mtgif">MTGIF</string>
-  <string name="mtxx">MTXX</string>
+  <string name="multi_view">3D-Ansicht</string>
   <string name="multiface_crop_help">Zum Starten auf ein Gesicht tippen</string>
   <string name="must_pick_file">Bild auswählen</string>
   <string name="name_split">,</string>
@@ -810,6 +820,7 @@
   <string name="operation_do_delete_local_thumnail">Schnappschüsse löschen</string>
   <string name="operation_download">Foto herunterladen (%s)</string>
   <string name="operation_edit">Bearbeiten</string>
+  <string name="operation_edit_video">Bearbeiten</string>
   <string name="operation_enable_auto_upload">Autom. Backup aktivieren</string>
   <string name="operation_enter_delete_local">Bereits gesicherte Fotos und Videos vom Gerät löschen</string>
   <string name="operation_enter_delte_thumbnail">Fotos und Videos löschen, die bereits in der Mi Cloud gesichert wurden</string>
@@ -900,7 +911,7 @@
   <string name="picker_no_network_message">Keine Netzwerkverbindung, verbinden Sie such zum Herunterladen</string>
   <string name="picker_origin_need_download">"%1$d der ausgewählten Fotos (%2$dMB) befinden sich nicht auf diesem Gerät. Über mobile Datenverbindung herunterladen?"</string>
   <string name="picker_select_album_title_empty">Album auswählen</string>
-  <string name="picker_skip_unavailable_images"> &lt;item quantity="one"&gt;Übersprungen ein Foto, das nicht auf dem Gerät ist.&lt;/item&gt; &lt;item quantity="other"&gt;Übersprungen %d Fotos, die nicht auf dem Gerät sind.&lt;/item&gt; </string>
+  <string name="picker_skip_unavailable_images"> <item quantity="one">Übersprungen ein Foto, das nicht auf dem Gerät ist.</item> <item quantity="other">Übersprungen %d Fotos, die nicht auf dem Gerät sind.</item> </string>
   <string name="picker_tab_photo">Foto</string>
   <string name="picker_title_format">Sie können %d auswählen</string>
   <string name="picker_title_selection_format">%d ausgewählt</string>
@@ -971,6 +982,9 @@
   <string name="remove_recent_album">Aus Favoriten entfernen</string>
   <string name="remove_to_album_title">Zusammenführen mit</string>
   <string name="remove_to_other_album">Zusammenführen mit einer anderen Person</string>
+    <string name="rename_album">Album umbenennen</string>
+    <string name="rename_album_failed">Umbenennen fehlgeschlagen</string>
+    <string name="rename_album_succeeded">Umbenennen erfolgreich</string>
   <string name="rename_event">Ereignis umbenennen</string>
   <string name="rename_face_album">Name ändern</string>
   <string name="rename_fail_msg">Name konnte nicht geändert werden</string>
@@ -978,7 +992,6 @@
   <string name="rename_failed_duplicated_name">Dateiname existiert bereits</string>
   <string name="rename_from_contact">Name von einem Kontakt</string>
   <string name="renren_description">Zur Verfügung gestellt von RenRen</string>
-  <string name="renren_image">RenRen</string>
   <string name="request_qr_code_failed">QR-Code konnte nicht abgerufen werden</string>
   <string name="request_sms_url_failed">Details konnten nicht abgerufen werden</string>
   <string name="request_sms_url_msg">Details werden angefordert…</string>
@@ -1048,7 +1061,7 @@
   <string name="secret_album_password_first_use_msg">Persönliches Schutzpasswort wird verwendet. Damit werden Fotos, Notizen, versteckte Ordner, usw. geschützt</string>
   <string name="secret_album_password_first_use_title">Persönliches Schutzpasswort</string>
   <string name="secret_album_password_update_dialog_cancel">Abbrechen</string>
-  <string name="secret_album_password_update_dialog_msg">Von jetzt an verwendet Galerie ihr persönliches Schutzpasswort.</string>
+  <string name="secret_album_password_update_dialog_msg">Von jetzt an verwendet Galerie Ihr persönliches Schutzpasswort.</string>
   <string name="secret_album_password_update_dialog_ok">OK</string>
   <string name="secret_album_password_update_dialog_title">Passwort aktualisieren</string>
   <string name="secret_album_password_update_first_user_dialog_msg">Persönliches Schutzpasswort funktioniert bei Apps, Fotos, Notizen, versteckten Ordner usw.</string>
@@ -1079,7 +1092,9 @@
   <string name="set_as_baby_lock_wallpaper">Als Sperrbildschirmhintergrund</string>
   <string name="set_as_wallpaper_description">Dies ist nur ein Vorschaubild, wollen Sie zuerst das Original herunterladen?</string>
   <string name="set_as_wallpaper_title">Als Hintergrundbild festlegen</string>
+    <string name="set_baby_icon_picker_default_title">Babysymbol einrichten</string>
   <string name="set_bg_file_exist_message">Dieses Element exisitiert bereits</string>
+    <string name="set_bg_picker_default_title">Vorschaufoto einrichten</string>
   <string name="set_bg_unknow_reasons">Unbekannter Fehler</string>
   <string name="set_face_group_toast_msg_new_user">Person lange antippen, Personen können zusammengeführt oder ignoriert werden.</string>
   <string name="set_face_group_toast_msg_old_user">Person lange antippen, Personen können in Familie, Freunde, Kollegen, etc. eingeteilt werden</string>
@@ -1138,6 +1153,7 @@
   <string name="slideshow_interval_dialog_title">Diashow Intervall festlegen</string>
   <string name="slideshow_interval_invalid">Intervall muss zwischen 3 und 3600 Sekunden liegen</string>
   <string name="slideshow_interval_title">Jedes Bild anzeigen für</string>
+    <string name="slideshow_interval_value">%1$d Sekunden</string>
   <string name="slideshow_repeat_mode">Wiederholen</string>
   <string name="slim_after_backuped_summary">Ersetzen Sie nach der Sicherung in der Mi Cloud die Fotos mit der vollen Auflösung lokal durch optimierte Versionen. Die Originale beleiben in der Mi Cloud gespeichert. Das kann Ihnen viel Speicherplatz einsparen.</string>
   <string name="slim_after_backuped_title">Lokalen Speicher nach der Sicherung optimieren</string>
@@ -1173,17 +1189,19 @@
   <string name="sync_diabled_toast">Synchronisierung ist deaktiviert</string>
   <string name="sync_history_power_on">Bilderverlauf nur während des Ladevorgangs synchronisieren</string>
   <string name="sync_in_progress_message">Alben werden heruntergeladen…</string>
+  <string name="sync_metatata_wait_title">Auf Datensynchronisation mit Mi Cloud wird gewartet</string>
   <string name="sync_off_button_text">Sync einschalten</string>
-    <string name="sync_off_title">Aktivieren Sie die Synchronisierung mit Mi Cloud, um Fotos und Videos automatisch zu sichern</string>
+  <string name="sync_off_title">Aktivieren Sie die Synchronisierung mit Mi Cloud, um Fotos und Videos automatisch zu sichern</string>
   <string name="sync_only_in_wifi">Nur über WLAN hochladen</string>
   <string name="sync_only_in_wifi_alert">Ausschalten dieser Option kann Ihren Datenverbrauch erhöhen</string>
   <string name="sync_only_in_wifi_summary">Fotos nicht über die mobile Datenverbindung hochladen</string>
-    <string name="sync_pending_title">Wird automatisch synchronisiert</string>
+  <string name="sync_pending_title">Wird automatisch synchronisiert</string>
+  <string name="sync_state_unknow">Information bekommen</string>
   <string name="sync_third_party_app_pic_summary">Fotos von anderen Apps in der Mi Cloud synchronisieren</string>
-    <string name="synced_title">Fotos und Videos wurden erfolgreich gesichert</string>
-    <string name="syncing_gprs_title">Using mobile data to back up items</string>
-    <string name="syncing_metadata_title">Mi Cloud-Daten werden synchronsiert</string>
-    <string name="syncing_normal_title">Fotos und Videos werden gesichert</string>
+  <string name="synced_title">Fotos und Videos wurden erfolgreich gesichert</string>
+  <string name="syncing_gprs_title">Using mobile data to back up items</string>
+  <string name="syncing_metadata_title">Mi Cloud-Daten werden synchronsiert</string>
+  <string name="syncing_normal_title">Fotos und Videos werden gesichert</string>
   <string name="system_album">Systemalbum</string>
   <string name="tab_all_text">Beide</string>
   <string name="tab_lockscreen_text">Sperrbildschirm</string>
@@ -1195,8 +1213,14 @@
   <string name="tencent_qq_hd_pic">QQ HD</string>
   <string name="tencent_qzonepic">Qzone</string>
   <string name="terabyteShort">TB</string>
+  <string name="text_append">Text</string>
+  <string name="text_append_color">Farbe</string>
+  <string name="text_append_font">Schriftart</string>
+  <string name="text_append_font_example">Aa</string>
+  <string name="text_append_hint">Text eingeben</string>
+  <string name="text_append_style">Blase</string>
+  <string name="text_append_transparent">Deckkraft</string>
   <string name="there_is_no_image">Keine Bilder in dieser Datei</string>
-  <string name="tieba">Tie Ba</string>
   <string name="time">Uhrzeit</string>
   <string name="times">Zeiten</string>
   <string name="tint">Färbung</string>
@@ -1318,12 +1342,10 @@
   <string name="vignette">Vignette</string>
   <string name="wait_error">Einen Moment…</string>
   <string name="wallpaper">Hintergrundbild</string>
-  <string name="wandoujia">SnapPea</string>
   <string name="warn">Warnung</string>
   <string name="wechat">WeChat</string>
   <string name="wechat_timeline_title">WeChat Zeitleiste</string>
   <string name="weibo">Weibo</string>
-  <string name="weikan_weikan">Weikan TV</string>
   <string name="weixin">WeChat</string>
   <string name="welcome_to_micloud">Willkommen bei Mi Cloud</string>
   <string name="welcome_to_slim">Behalten Sie Ihre Fotos, sparen Sie Platz</string>
