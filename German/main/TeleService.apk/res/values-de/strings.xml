@@ -703,14 +703,14 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="international_dial_complete_no">Nicht jetzt</string>
   <string name="international_dial_complete_summary">Mit MIUI Konto aufladen und bei internationalen Anrufen Ermäßigungen erhalten.</string>
   <string name="international_dial_complete_yes">Nutze Mi Voice</string>
-    <string name="international_dialing_add_country_code">Es wurde festgestellt, dass Sie Nummer %s wählen. Möchten Sie Ländercode (+%s) hinzufügen?</string>
-    <string name="international_dialing_add_country_code_and_area_code">Es wurde festgestellt, dass Sie Nummer nach %1$s, %2$s wählen. Möchten Sie Ländercode und Vorwahl (+%3$s) hinzufügen?</string>
-    <string name="international_dialing_add_country_code_and_area_code_without_prefix">Möchten Sie Ländercode und Vorwahl hinzufügen?</string>
-    <string name="international_dialing_add_country_code_default_input_area_code">Es wurde festgestellt, dass Sie Nummer nach %s wählen. Wenn %s nicht Ihr Zielort ist, geben Sie bitte eine Vorwahl ein.</string>
-    <string name="international_dialing_add_country_code_input_area_code">Es wurde festgestellt, dass Sie Nummer nach %s wählen. Wenn ja, geben Sie bitte die Ortsvorwahl ein.</string>
+    <string name="international_dialing_add_country_code" formatted="false">Es wurde festgestellt, dass Sie Nummer %s wählen. Möchten Sie Ländercode (+%s) hinzufügen?</string>
+    <string name="international_dialing_add_country_code_and_area_code" formatted="false">Es wurde festgestellt, dass Sie Nummer nach %1$s, %2$s wählen. Möchten Sie Ländercode und Vorwahl (+%3$s) hinzufügen?</string>
+    <string name="international_dialing_add_country_code_and_area_code_without_prefix" formatted="false">Möchten Sie Ländercode und Vorwahl hinzufügen?</string>
+    <string name="international_dialing_add_country_code_default_input_area_code" formatted="false">Es wurde festgestellt, dass Sie Nummer nach %s wählen. Wenn %s nicht Ihr Zielort ist, geben Sie bitte eine Vorwahl ein.</string>
+    <string name="international_dialing_add_country_code_input_area_code" formatted="false">Es wurde festgestellt, dass Sie Nummer nach %s wählen. Wenn ja, geben Sie bitte die Ortsvorwahl ein.</string>
     <string name="international_dialing_area_code">Vorwahl</string>
     <string name="international_dialing_call_button">Anruf</string>
-    <string name="international_dialing_change_country_prefix">Es wurde festgestellt, dass Sie von %s anrufen. Soll internationale Vorwahl in &apos;+&apos; geändert werden?</string>
+    <string name="international_dialing_change_country_prefix">Es wurde festgestellt, dass Sie von %s anrufen. Soll internationale Vorwahl in + geändert werden?</string>
     <string name="international_dialing_click_below_button">Klicken Sie auf die Schaltfläche unten um den Ländercode zu ändern.</string>
     <string name="international_dialing_confirm_area_code">Wenn %s  ist nicht Ihr Zielort, geben Sie bitte unten die Vorwahl des Orts.</string>
     <string name="international_dialing_dialed_number">Rufnummer:</string>
