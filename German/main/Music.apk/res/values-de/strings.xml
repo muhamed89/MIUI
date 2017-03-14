@@ -416,6 +416,7 @@
   <string name="local_page_artist">Abbonierte Künstler</string>
   <string name="local_page_custom_subtitle">Jeden tag neue Lieder</string>
   <string name="local_page_custom_title">Für dich</string>
+  <string name="local_page_playlist">Meine Wiedergabelisten</string>
   <string name="local_page_song_all">Alle Lieder</string>
   <string name="local_page_song_download">Lokale Lieder</string>
   <string name="local_page_song_favorite">Lieblingslieder</string>
@@ -644,6 +645,8 @@
   <string name="radar_searching_state">Suche läuft</string>
   <string name="radar_support_by">Powered by ACRCloud</string>
   <string name="really_pay">Jetzt bezahlen?</string>
+  <string name="recently_played">Kürzlich angehört</string>
+  <string name="recently_played_songs">Kürzlich angehört</string>
   <string name="recommend_fragment_title">Empfohlen</string>
   <string name="recommended_file_size_download_in_mobile">%s der mobilen Datenverbindung verwenden, um diese Datei herunterzuladen?</string>
   <string name="recommended_no_file_size_download_in_mobile">Mobile Datenverbindung verwenden, um diese Datei herunterzuladen?</string>
