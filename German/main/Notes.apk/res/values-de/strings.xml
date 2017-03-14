@@ -25,6 +25,7 @@
   <string name="button_new_note">Neu</string>
   <string name="call_folder_name">Anrufnotizen</string>
   <string name="call_record_folder_name">Anrufnotizen</string>
+  <string name="cloud_trash_bin_title">Notizen auf Mi Cloud löschen</string>
   <string name="delete_folder_dialog_tile">Ordner löschen</string>
   <string name="dlg_btn_set_password">Passwort festlegen</string>
   <string name="dlg_check_reminder">Nicht wieder anzeigen</string>
@@ -111,6 +112,7 @@ Tippen Sie auf das Plus, um einen Ordner anzulegen"</string>
   <string name="pref_desc_alarm_when_silent">Der Alarm des Weckers und der Notizen ertönt auch im Lautlosmodus</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">Beim Löschen von Notizen mit Gesten nicht nach Bestätigung fragen</string>
   <string name="pref_title_alarm_when_silent">Alarm im Lautlosmodus</string>
+  <string name="pref_title_cloud_trash_bin">Notizen auf Mi Cloud löschen</string>
   <string name="pref_title_common">Weitere Einstellungen</string>
   <string name="pref_title_font_size">Schriftgröße</string>
   <string name="pref_title_note_style">Stil</string>
