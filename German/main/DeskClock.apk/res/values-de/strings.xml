@@ -165,7 +165,9 @@
   <string name="system_time_settings_category_title">Uhrzeiteinstellungen</string>
   <string name="time">Uhrzeit</string>
   <string name="timer_alarm_alert_pad">%s</string>
+  <string name="timer_alarm_cancel_pad">Auf den Bildschirm tippen, um den Alarm zu beenden.</string>
   <string name="timer_alarm_dot_matrix_label">TIMER</string>
+  <string name="timer_alert_alert_silenced">Timer verstummt nach %d Minuten</string>
   <string name="timer_clock_alert_text">Bitte Timer einstellen</string>
   <string name="timer_continue">Fortsetzen</string>
   <string name="timer_delete">Entfernen</string>
