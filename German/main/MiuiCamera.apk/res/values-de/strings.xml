@@ -29,7 +29,7 @@
   <string name="camera_disabled">Kamera wurde deaktiviert</string>
   <string name="camera_error_title">Kamerafehler</string>
   <string name="camera_label">Kamera</string>
-  <string name="camera_mode_options">Modi</string>
+  <string name="camera_mode_options">Modus</string>
   <string name="camera_setting">Kameraeinstellungen</string>
   <string name="camera_settings_label">Kamera</string>
   <string name="camera_snap_mode_title">Schnellauslöser</string>
