@@ -27,8 +27,8 @@
   <string name="cos">cos</string>
   <string name="cosDesc">Kosinus</string>
   <string name="currency_update_time_format">Aktualisiert am %s</string>
-  <string name="current_rate_remind_commercial"/>
-  <string name="current_rate_remind_fund"/>
+  <string name="current_rate_remind_commercial"></string>
+  <string name="current_rate_remind_fund"></string>
   <string name="dateformat">dd/MM/yyyy</string>
   <string name="day">Tag</string>
   <string name="del">LÖSCHEN</string>
@@ -67,7 +67,7 @@
   <string name="item_title_currency">Währung</string>
   <string name="item_title_dress_size">Konfektionsgröße</string>
   <string name="item_title_length_conversion">Länge</string>
-  <string name="item_title_mortgage">Hypothek</string>
+  <string name="item_title_mortgage">Tilgungsrechner</string>
   <string name="item_title_scientific_calculator">Wissenschaftlich</string>
   <string name="item_title_tax">Steuern</string>
   <string name="item_title_temprature_conversion">Temperatur</string>
@@ -90,9 +90,10 @@
   <string name="loan_interest_rate">Zinsen</string>
   <string name="loan_pay_years">Laufzeit</string>
   <string name="loan_payback_way">Rückzahlung</string>
-  <string name="loan_unit">x10K</string>
+  <string name="loan_unit">EUR</string>
   <string name="minus">−</string>
   <string name="minusDesc">Subtraktion</string>
+  <string name="month">Monat</string>
   <string name="mortgage_amount">Hypothekenbetrag</string>
   <string name="mortgage_average_repayment_first_month">Erste monatliche Rückzahlung</string>
   <string name="mortgage_average_repayment_monthly">Monatliche Rückzahlung</string>
@@ -115,7 +116,7 @@
   <string name="mortgage_interest_amount">Zinsen</string>
   <string name="mortgage_interest_rate">Zinssatz</string>
   <string name="mortgage_item_repayment">Rückzahlungsmethode</string>
-  <string name="mortgage_item_start_time">Beginndatum</string>
+  <string name="mortgage_item_start_time">Tilgungsbeginn</string>
   <string name="mortgage_item_years">Laufzeit</string>
   <string name="mortgage_loans_amount">Darlehensbetrag</string>
   <string name="mortgage_repayment_amount">Rückzahlungsbetrag</string>
@@ -159,8 +160,10 @@
   <string name="rightParenDesc">Klammer zu</string>
   <string name="sin">sin</string>
   <string name="sinDesc">Sinus</string>
+  <string name="social_security">Sozialversicherung</string>
   <string name="sqrt">√</string>
   <string name="sqrtDesc">Quadratwurzel</string>
+  <string name="start_calculate">Berechnen</string>
   <string name="tan">tan</string>
   <string name="tanDesc">Tangens</string>
   <string name="tax_accumulation_fund">Anreicherungsfonds</string>
@@ -202,6 +205,7 @@
   <string name="times">Zeit</string>
   <string name="title_bar">Längenumrechner</string>
   <string name="to_num">62.7</string>
+  <string name="too_long_result">Ergebnis zu lang</string>
   <string name="unit_data_display_area_acre">Acre</string>
   <string name="unit_data_display_area_are">Ar</string>
   <string name="unit_data_display_area_ha">Hektar</string>
@@ -254,6 +258,11 @@
   <string name="unit_data_display_temperature_K">Kelvin</string>
   <string name="unit_data_display_temperature_R">Rankine</string>
   <string name="unit_data_display_temperature_Re">Reaumur</string>
+  <string name="unit_data_display_temperature_c">Celsius</string>
+  <string name="unit_data_display_temperature_f">Fahrenheit</string>
+  <string name="unit_data_display_temperature_k">Kelvin</string>
+  <string name="unit_data_display_temperature_r">Rankine</string>
+  <string name="unit_data_display_temperature_re">Reaumur</string>
   <string name="unit_data_display_time_day">Tag</string>
   <string name="unit_data_display_time_h">Stunde</string>
   <string name="unit_data_display_time_min">Minute</string>
@@ -341,6 +350,7 @@
   <string name="unit_data_short_velocity_mileph">mile/h</string>
   <string name="unit_data_short_velocity_mps">m/s</string>
   <string name="unit_data_short_velocity_nmiph">Knot</string>
+  <string name="unit_data_short_volume_cu.af">af³</string>
   <string name="unit_data_short_volume_cu.cm">cm³</string>
   <string name="unit_data_short_volume_cu.dm">dm³</string>
   <string name="unit_data_short_volume_cu.ft">ft³</string>
@@ -349,7 +359,7 @@
   <string name="unit_data_short_volume_cu.mm">mm³</string>
   <string name="unit_data_short_volume_cu.um">μm³</string>
   <string name="unit_data_short_volume_cu.yd">yd³</string>
-  <string name="unit_data_short_volume_hl">hl³</string>
+  <string name="unit_data_short_volume_hl">hl</string>
   <string name="unit_data_short_weight_dan">dan</string>
   <string name="unit_data_short_weight_jin">jin</string>
   <string name="unit_data_short_weight_liang">liang</string>
@@ -357,12 +367,14 @@
   <string name="unit_data_short_weight_qian">qian</string>
   <string name="unit_data_short_weight_st">sh.t</string>
   <string name="unit_data_short_weight_ug">μg</string>
+  <string name="unit_data_short_weight_uk.cwt">cwt</string>
+  <string name="unit_data_short_weight_us.cwt">cwt</string>
   <string name="unit_myriads">x10k</string>
   <string name="unit_percentage">%</string>
-  <string name="unit_times"/>
+  <string name="unit_times" />
   <string name="unit_year">a</string>
   <string name="unit_year_format">Jahr %s</string>
-  <string name="unit_yuan">RMB</string>
+  <string name="unit_yuan">EUR</string>
   <string name="wf_word_figure">Finanzmathematik</string>
   <string name="xiaomi_connect_download_manager_fail">Verbindung fehlgeschlagen, überprüfen Sie die Einstellungnen für Downloads</string>
   <string name="xiaomi_external_storage_unavailable">Kein freier Speicher, überprüfen Sie die SD-Karte</string>
