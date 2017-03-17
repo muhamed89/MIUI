@@ -143,9 +143,9 @@ Wenn Sie die Datenverbindung wieder einschalten, können hohe Kosten entstehen."
   <string name="disable_notification_summary">Zeige Benachrichtigungen von ausgewählten Apps nie</string>
   <string name="disable_notification_title">Benachrichtigungen verbergen</string>
   <string name="dismount_storage">Nein</string>
-  <string name="divider_menu_close">schließen</string>
-  <string name="divider_menu_select_apps">auswählen</string>
-  <string name="divider_menu_swap_task">wechseln</string>
+  <string name="divider_menu_close">Schließen</string>
+  <string name="divider_menu_select_apps">Auswählen</string>
+  <string name="divider_menu_swap_task">Wechseln</string>
   <string name="dlg_confirm_kill_storage_users_text">Wenn Sie den USB-Speicher einschalten, werden einige Apps angehalten und möglicherweise nicht mehr verfügbar sein, bis Sie das USB-Speichergerät ausschalten.</string>
   <string name="dlg_confirm_kill_storage_users_title">USB-Speicher einschalten</string>
   <string name="dlg_error_title">USB-Vorgang fehlgeschlagen</string>
@@ -178,6 +178,7 @@ Bitte Ladegerät benutzen."</string>
   <string name="kilobyte_per_second">K/s</string>
   <string name="label_view">Anzeigen</string>
   <string name="lland">L Land</string>
+  <string name="lockscreen_carrier_default">Kein Dienst</string>
   <string name="long_screenshot_not_support_msg">Aktuelle App unterstützt keinen Bildlauf</string>
   <string name="long_screenshot_out_of_memory_error">Fehlgeschlagen, das Bild ist zu groß</string>
   <string name="long_screenshot_processing">Wird bearbeitet…</string>
@@ -185,6 +186,7 @@ Bitte Ladegerät benutzen."</string>
   <string name="long_screenshot_top_msg">Bildlauf wird aufgenommen…</string>
   <string name="long_screenshot_top_msg_manual">Screenshot zuschneiden und zum Abschließen auf antippen</string>
   <string name="managed_profile_foreground_toast">Sie verwenden Ihr Arbeitsprofil</string>
+  <string name="managed_user_title">Alle funktionierende Apps</string>
   <string name="mdb_entering">Wird gestartet…</string>
   <string name="mdb_restore_cancel">Abbrechen</string>
   <string name="mdb_restore_info1">Daten Ihres Telefons wiederherstellen</string>
@@ -203,6 +205,7 @@ Bitte Ladegerät benutzen."</string>
   <string name="nav_guide_ok">Konfiguration</string>
   <string name="nav_guide_title">Soft Buttons verbergen</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
+  <string name="no_application">Keine Apps</string>
   <string name="no_multi_window_app">Keine Apps, die Multi-Window-Modus unterstützen</string>
   <string name="no_notification_tips">Keine Benachrichtigungen</string>
   <string name="no_weather_description">Wetterinfos erhalten</string>
@@ -297,7 +300,7 @@ Zum Sperren runterwischen"</string>
   <string name="status_bar_recent_guide_bottom">Zum Sperren runterwischen</string>
   <string name="status_bar_recent_guide_top">Zum Schließen hochwischen</string>
   <string name="status_bar_recent_memory_info1">%1$sB von %2$sB verfügbar</string>
-  <string name="status_bar_recent_memory_info2"/>
+  <string name="status_bar_recent_memory_info2" />
   <string name="status_bar_recording_back">Zurück zum Recorder kehren</string>
   <string name="status_bar_recording_pause">Recorder pausiert</string>
   <string name="status_bar_safepay_risk">Zahlungsumfeld ist riskant!</string>
@@ -347,6 +350,7 @@ Zum Sperren runterwischen"</string>
   <string name="usb_storage_stop_notification_title">USB-Speicher beenden</string>
   <string name="usb_storage_stop_title">USB-Speicher in Verwendung</string>
   <string name="usb_storage_title">USB verbunden</string>
+  <string name="user_guest">Gast</string>
   <string name="user_guide_for_notification">Neue Benachrichtigung empfangen, zum lesen die Statusleiste herunterziehen</string>
   <string name="user_guide_for_toggle">Die Schalterliste kann auch horizontal bewegt werden</string>
   <string name="user_guide_for_toggle_list">Schalter verwalten</string>
