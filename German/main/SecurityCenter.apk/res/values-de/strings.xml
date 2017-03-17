@@ -1074,8 +1074,8 @@ T"</b>"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie 
   <string name="power_consume_rank_software">Apps</string>
   <string name="power_consume_rank_title">Akkuverbrauch</string>
   <string name="power_consume_system_idle">Standby</string>
-    <string name="power_consume_total_hardware">Hardware: %1$d%%</string>
-    <string name="power_consume_total_software">Apps: %1$d%%</string>
+    <string name="power_consume_total_hardware">Hardware: %s</string>
+    <string name="power_consume_total_software">Apps: %s</string>
   <string name="power_customize_giveup_change">Verwerfen?</string>
   <string name="power_customizer_cancel">Abbrechen</string>
   <string name="power_customizer_delete">Löschen</string>
