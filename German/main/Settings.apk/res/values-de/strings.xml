@@ -829,7 +829,7 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="bootloader_status_locked">Gesperrt</string>
   <string name="bootloader_status_locked_info">Dieses Gerät ist gesperrt</string>
   <string name="bootloader_status_locked_summary">Dieses Telefon ist gesichert</string>
-  <string name="bootloader_status_summary">Überprüfen Sie, ob das Gerät gesperrt ists</string>
+  <string name="bootloader_status_summary">Überprüfen Sie, ob das Gerät gesperrt ist</string>
   <string name="bootloader_status_unlocked">Entsperrt</string>
   <string name="bootloader_status_unlocked_info">Dieses Gerät ist entsperrt</string>
   <string name="bootloader_summary">Flashen Sie Ihr Gerät über USB</string>
