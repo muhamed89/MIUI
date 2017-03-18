@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="SMS_and_MMS">SMS und MMS</string>
-  <string name="power_consume_total_hardware">Hardware: %s</string>
-  <string name="power_consume_total_software">Apps: %s</string>
   <string name="Setting_lock">Einstellungen</string>
   <string name="Settings_title_anti_spam">Sperrlisteneinstellungen</string>
   <string name="Settings_title_anti_virus">Antiviruseinstellungen</string>
