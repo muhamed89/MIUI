@@ -19,6 +19,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="access_control_need_to_unlock_nofingerprint">Muster für Appsperre zeichnen</string>
   <string name="access_control_recording_intro_header">Muster zeichnen, um Appsperre hinzuzufügen</string>
   <string name="access_control_reset_by_account">Melden Sie sich mit Ihrem Mi Konto an, um die Appsperre zurücksetzen</string>
+  <string name="accessibility_service_description">Automatischer QQ-Sicherheitscheck</string>
   <string name="action_button_text_100">Optimieren</string>
   <string name="action_button_text_60">Beheben</string>
   <string name="action_button_text_60_80">Fix</string>
