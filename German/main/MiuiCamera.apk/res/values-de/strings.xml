@@ -8,7 +8,7 @@
   <string name="accessibility_flash_mode_button">FlashButton</string>
   <string name="accessibility_hdr">HDR-Kippschalter</string>
   <string name="accessibility_mode">Aufnahmemodus</string>
-  <string name="accessibility_mode_dismiss_button">Close Mode Selection button</string>
+  <string name="accessibility_mode_dismiss_button">Schliesse Moduswahl button</string>
   <string name="accessibility_module_picker">ModulePicker</string>
   <string name="accessibility_panorama_review_cancel">Panorama speichern abbrechen</string>
   <string name="accessibility_peak">Bildschärfetaste</string>
@@ -17,7 +17,7 @@
   <string name="accessibility_setting_button">Weitere Einstellungen button</string>
   <string name="accessibility_shutter_button">Auslöser</string>
   <string name="accessibility_skin_beautify_button">Haut verschönern</string>
-  <string name="accessibility_stereo_button">Dualkamera Modus</string>
+  <string name="accessibility_stereo_button">Dualkameramodus</string>
   <string name="accessibility_video_capture_button">VideoCaptureButton</string>
   <string name="accessibility_video_module_picker">Videomodusauswahl</string>
   <string name="accessibility_video_pause_button">VideoPauseButton</string>
@@ -50,8 +50,8 @@
   <string name="details">Details</string>
   <string name="dialog_ok">OK</string>
   <string name="dual_camera_lens_covered_toast">Linse verdeckt</string>
-  <string name="dual_camera_low_constract_toast">Low contract may affect Dual camera effects.</string>
-  <string name="dual_camera_lowlight_toast">Lowlight may affect Dual camera effects.</string>
+  <string name="dual_camera_low_constract_toast">Geringer Kontrast beeinträchtigt eventuell die Dualkameraeffekte</string>
+  <string name="dual_camera_lowlight_toast">Schwache Licht beeinträchtigt eventuell die Dualkameraeffekte</string>
   <string name="dual_camera_too_close_toast">Zu nah am Objekt für Dualkameraeffekte</string>
   <string name="dual_camera_use_hint">Der Dualkameramodus kann Verzerrungseffekte verursachen, der Abstand zwischen Kamera und Objekt sollte weniger als zwei Meter betragen</string>
   <string name="duration">Dauer</string>
@@ -88,7 +88,7 @@
   <string name="flash">Blitz</string>
   <string name="height">Höhe</string>
   <string name="location">Standort</string>
-  <string name="message_snap_double_confirm">Aktuell ist beim langen Drücken der Lautstärketaste NFC-Modus eingestellt, möchten Sie dies ersätzen?</string>
+  <string name="message_snap_double_confirm">Aktuell ist beim langen Drücken der Lautstärketaste NFC-Modus eingestellt, möchten Sie dies ersetzen?</string>
   <string name="model">Modell</string>
   <string name="no_storage">Vor Benutzung der Kamera SD-Karte einlegen</string>
   <string name="not_enough_space">Interner Speicher ist voll</string>
