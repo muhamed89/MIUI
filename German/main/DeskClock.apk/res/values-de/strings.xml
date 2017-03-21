@@ -113,6 +113,7 @@
   <string name="life_post_wake_up_percentage_sign">%</string>
   <string name="life_post_wake_up_percentage_title">Wach heute</string>
   <string name="life_post_wake_up_time_title">Aufwachzeit</string>
+  <string name="life_post_weather_description_secondary">%1$s, %3$s</string>
   <string name="life_post_weather_invalid">Wetter muss aktualisiert werden</string>
   <string name="life_post_weather_temperature_centigrade">°</string>
   <string name="loading_ringtone">Klingelton wird geladen...</string>
