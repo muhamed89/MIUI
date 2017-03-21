@@ -318,8 +318,8 @@
   <string name="filter_by_folder">Nach Ordner</string>
   <string name="filter_by_folder_summary">Ordner zum Anzeigen wählen</string>
   <string name="filter_by_size">Nach Größe</string>
-  <string name="filter_by_size_max">2 MB</string>
-  <string name="filter_by_size_min">0 KB</string>
+  <string name="filter_by_size_max">%d MB</string>
+  <string name="filter_by_size_min">%d KB</string>
   <string name="filter_by_size_prefix">"Verberge Dateien die kleiner sind als "</string>
   <string name="filter_by_size_summary">Verberge kleine Audiodateien</string>
   <string name="find_music">Musik entdecken</string>
@@ -429,7 +429,7 @@
   <string name="lyric_open_other_connect">Lade Songtext über mobile Daten</string>
   <string name="lyric_setting">Songtext Einstellungen</string>
   <string name="male_artist">Männlicher Interpret</string>
-  <string name="max_sleep_time">90</string>
+  <string name="max_sleep_time">%d</string>
   <string name="media_filter">Media</string>
   <string name="menu_all_task_pause">Alle anhalten</string>
   <string name="menu_all_task_start">Alle starten</string>
@@ -445,7 +445,7 @@
   <string name="metered_disallow">Abbrechen</string>
   <string name="metered_play_toast">Nutze mobile Datenverbindung für Streams</string>
   <string name="milink_unavaliable_please_update">Mi Linkfunktion nicht verfügbar. MIUI-Systemupdate notwendig.</string>
-  <string name="min_sleep_time">1</string>
+  <string name="min_sleep_time">%d</string>
   <string name="missing_title">&lt;Unbekannt&gt;</string>
   <string name="miui_music">Mi Musik</string>
   <string name="miuishare_account_activate_confirmation">Aktivierung nötig</string>
