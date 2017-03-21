@@ -536,7 +536,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="firewall_fragment_tab_title_sys">System</string>
   <string name="firewall_network_restrict_notify_message">Einstellungen ändern.</string>
   <string name="firewall_network_restrict_notify_mobile">Mobile Daten</string>
-  <string name="firewall_network_restrict_notify_title">%1$s ist es nicht erlaubt sich mit %2$s zu verbinden.</string>
+  <string name="firewall_network_restrict_notify_title">%1$s hat kein Internetzugriff</string>
   <string name="firewall_restrict_android_dialog_content">"Damit ihr Gerät ordnungsgemäß funktioniert, benötigen einige Androidsystemapps eine Internetverbindung. Diese Apps verwenden Ihre Datenverbindung und können minimale Kosten verursachen"</string>
   <string name="firewall_restrict_android_dialog_title">Achtung</string>
   <string name="firewall_rule_group_title_mobile">Mobil</string>
