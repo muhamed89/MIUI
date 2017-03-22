@@ -223,6 +223,8 @@ Um Rootzugriff zu erhalten müssen Sie die Entwicklerversion von MIUI installier
   <string name="HIPS_Perm_background_start_activity_Desc">im Hintergrund starten</string>
   <string name="HIPS_Perm_get_accounts">Zugangskonten auf dem Gerät</string>
   <string name="HIPS_Perm_get_accounts_Desc">Zugriff auf alle gespeicherten Konten erhalten</string>
+  <string name="HIPS_Perm_get_installed_apps">Informationen über installierte Apps erhalten</string>
+  <string name="HIPS_Perm_get_installed_apps_Desc">Informationen über installierte Apps auf diesem Gerät erhalten</string>
   <string name="HIPS_Perm_get_tasks">Aufgaben lesen</string>
   <string name="HIPS_Perm_get_tasks_Desc">Aufgaben zu lesen</string>
   <string name="HIPS_Perm_install_shortcut">Startbildschirmverknüpfungen</string>
@@ -233,6 +235,8 @@ Um Rootzugriff zu erhalten müssen Sie die Entwicklerversion von MIUI installier
   <string name="HIPS_Perm_process_outgoing_calls_Desc">Anrufe zu überwachen und zu beenden</string>
   <string name="HIPS_Perm_read_notification_sms">Servicenachricht</string>
   <string name="HIPS_Perm_read_notification_sms_Desc">Servicenachricht lesen</string>
+  <string name="HIPS_Perm_service_foreground">Vordergrundservice</string>
+  <string name="HIPS_Perm_service_foreground_Desc">Vordergrundservice</string>
   <string name="HIPS_Perm_show_when_locked">Am Sperrbildschirm anzeigen</string>
   <string name="HIPS_Perm_show_when_locked_Desc">am Sperrbildschirm angezeigt werden</string>
   <string name="HIPS_Perm_use_sip">Videodienste</string>
@@ -290,10 +294,10 @@ Um Rootzugriff zu erhalten müssen Sie die Entwicklerversion von MIUI installier
   <string name="permission_group_title_settings_related">Einstellungen</string>
   <string name="permission_request_title">Berechtigungsverwaltung</string>
   <string name="permission_warning_template">Zulassen %1$s von %2$s ?</string>
-  <string name="permisson_reject_notice_toast_text">"\"%1$s\" hat keinen Zugriff auf \"%2$s\". Sie können die App-Berechtigungen jederzeit unter Sicherheit &gt; Berechtigungen ändern."</string>
+  <string name="permisson_reject_notice_toast_text">"\"%1$s\" hat keinen Zugriff auf \"%2$s\". Sie können die App-Berechtigungen jederzeit unter Sicherheit > Berechtigungen ändern."</string>
   <string name="permisson_reject_notice_toast_text2">hat keinen Zugriff auf %1$s</string>
   <string name="screen_overlay_button">Einstellungen</string>
-  <string name="screen_overlay_message">Um diese Berechtigungseinstellung zu ändern, müssen Sie die Bildschirmüberlagerung zuerst unter Einstellungen &gt; Apps ausschalten</string>
+  <string name="screen_overlay_message">Um diese Berechtigungseinstellung zu ändern, müssen Sie die Bildschirmüberlagerung zuerst unter Einstellungen > Apps ausschalten</string>
   <string name="screen_overlay_title">Bildschirmüberlagerung erkannt</string>
   <string name="wakepath_confirm_start_activity">%1$s erlauben, %2$s zu öffnen?</string>
 </resources>
