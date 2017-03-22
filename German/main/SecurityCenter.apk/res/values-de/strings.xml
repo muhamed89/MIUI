@@ -177,6 +177,8 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="auto_task_notify_task_cancel_do">Aktion abbrechen</string>
   <string name="auto_task_notify_task_canceled_summary">Sie können anrufe tätigen und entgegennehmen</string>
   <string name="auto_task_notify_task_canceled_summary2">Sieht so aus, als ob Sie ein Spiel jetzt spielen.</string>
+    <string name="auto_task_notify_task_canceled_summary3">Durch Zweitprofil abgebrochen</string>
+    <string name="auto_task_notify_task_canceled_summary4">Durch Erstprofil abgebrochen</string>
   <string name="auto_task_notify_task_canceled_title">Aktion abgebrochen</string>
   <string name="auto_task_notify_task_continue_do">Aktion starten</string>
   <string name="auto_task_notify_task_count_down">Automatischer Task wird in 5 Sekunden gestartet</string>
@@ -286,6 +288,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="btn_text_stop">Anhalten</string>
   <string name="btn_text_virus_scan">Scannen</string>
   <string name="button_antivirus">OK</string>
+  <string name="button_look_up">Zum Anzeigen tippen</string>
   <string name="button_text_accept">Akzeptieren</string>
   <string name="button_text_accept_timer">Akzeptieren (%d)</string>
   <string name="button_text_cancel">Abbrechen</string>
@@ -354,6 +357,14 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="card_main_xspace_action">Erstellen</string>
   <string name="card_main_xspace_summary">Erstellen Sie einen zweiten Account für eine beliebige App</string>
   <string name="card_main_xspace_title">Geklonte Apps</string>
+  <string name="card_sms_report">Bericht per SMS</string>
+  <string name="card_tc_failed">Konnte nicht kalibriert werden</string>
+  <string name="card_tc_failed_content">"Mögliche Gründe:
+ 1. Die Mobilfunkbetreiber reagieren am Anfang und am Ende eines Monats langsamer. Versuchen Sie es noch einmal in ein paar Tagen.
+ 2. Wenn Sie zum ersten Mal zu kalibrieren, ist eine Netzwerk-Anforderungsschablone erforderlich. Bauen Sie Netzwerkverbindung auf und versuchen Sie es erneut.
+ 3. Ihr Mobilfunkbetreiber unterstützt den Textnachrichteninformationen von Datenverbrauch und Guthabenstand nicht. Kontaktieren Sie Ihren Mobilfunkanbieter, um mehr zu erfahren.
+ 4. Es kann ein Fehler in den Mobilfunkanbieterdaten entstehen. Versuchen Sie die Mobilfunkbetreiberdiagnose, um das Problem zu lösen.
+ 5. Nichts scheint zu helfen? Tippen Sie auf &quot;Bericht per SMS&quot;, um Ihr Feedback an Xiaomi als eine Textnachricht zu senden."</string>
   <string name="celcius_symbol">°C</string>
   <string name="charging_text_battery_full_time">"Akkuladezeit "</string>
   <string name="charging_text_battery_nearly_full">Fast aufgeladen</string>
@@ -393,9 +404,10 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="cta_dialog_title">Geschäftsbedingungen</string>
   <string name="cta_settings">Internetverbindung erlauben</string>
   <string name="current_network_state_not_need_diagnose">Internetverbindung ist normal.</string>
+  <string name="customize_limit_pkg">%s (benutzerdefiniert)</string>
   <string name="daily_limit_and_lock_screen">Datenlimit &amp; Benachrichtigungen</string>
   <string name="daily_limit_network_available_body">Berühren, um Datenverbrauchsstatistiken anzuzeigen.</string>
-    <string name="daily_limit_network_available_body_open_traffic_saving">Tippen, um die mobile Datenverbindung einzuschalten.</string>
+  <string name="daily_limit_network_available_body_open_traffic_saving">Tippen, um die mobile Datenverbindung einzuschalten.</string>
   <string name="daily_limit_over_message">Sie haben Ihr tägliches Limit überschritten.</string>
   <string name="daily_pkg_traffic">Datenlimit eingeben</string>
   <string name="data_network_blocked_notification_title">Keine Internetverbindung</string>
@@ -415,7 +427,9 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="data_usage_restricted_body">Hintergrunddaten einschalten</string>
   <string name="data_usage_restricted_title">Hintergrunddaten beschränkt</string>
   <string name="data_usage_warning_body">Datenverbrauchsdetails anzeigen</string>
+  <string name="data_usage_warning_body_notify">Tippen, um Details zu sehen</string>
   <string name="data_usage_warning_title">Datenverbrauchswarnung</string>
+  <string name="data_usage_warning_title_notify">Sie gingen über Ihre Datenverbrauchsgrenze</string>
   <string name="datausage_ignore_app_list_count">Datenverbrauch von %d Apps ignorieren</string>
   <string name="datausage_purchase_backto_ns">Zurück</string>
   <string name="datausage_purchase_banner_title">%s Top Angebot (Xiaomi Exklusiv)</string>
@@ -480,8 +494,9 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="dialog_msg_auto_start_declare">Einige Sicherheitsapps können fälschlicherweise angeben, dass MIUI Ihren Start verhindert. Um die Berechtigungen, die einzelnen Anwendungen erteilt wurden zu überprüfen, gehen Sie zu Einstellungen -> Apps.</string>
   <string name="dialog_msg_stop_paysafety_scan">Zahlungssicherheitscheck ausschalten?</string>
   <string name="dialog_msg_stop_virus_scan">Sind Sie sicher?</string>
-    <string name="dialog_remobe_luckymoney_cancle">Alt</string>
-    <string name="dialog_remobe_luckymoney_ok">Neu</string>
+  <string name="dialog_remobe_luckymoney_cancle">Alt</string>
+  <string name="dialog_remobe_luckymoney_ok">Neu</string>
+  <string name="dialog_remove_luckymoney">Sie können den neuen intergrierten roten Umschlag-Assistenten verwenden oder den vorhandenen verwenden. Welchen bevorzugen Sie?</string>
   <string name="dialog_roaming_apps_sorted_title">Sortiert nach</string>
   <string name="dialog_roaming_message">Apps in den Ausnahmen können auf das Datennetz zugreifen, wenn Datenroaming aktiviert ist. App zu den Ausnahmen hinzufügen?</string>
   <string name="dialog_roaming_title">Datenroaming</string>
@@ -529,11 +544,13 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="fingerprint_verify_succeed">Erfolgreich verifiziert</string>
   <string name="fingerprint_verify_try_agin">Konnte nicht gescannt werden, nochmals versuchen</string>
   <string name="firewall_activity_lable">Datenverbrauch nach App einschränken</string>
+  <string name="firewall_allow_network">Erlaubt</string>
   <string name="firewall_applist">Apps</string>
   <string name="firewall_fragment_nonesys_listempty">Leer</string>
   <string name="firewall_fragment_sys_listempty">Leer</string>
   <string name="firewall_fragment_tab_title_nonsys">Installiert</string>
   <string name="firewall_fragment_tab_title_sys">System</string>
+  <string name="firewall_network_allow"> %1$s erlaubt Verbindung %2$s zu verwenden</string>
   <string name="firewall_network_restrict_notify_message">Einstellungen ändern.</string>
   <string name="firewall_network_restrict_notify_mobile">Mobile Daten</string>
   <string name="firewall_network_restrict_notify_title">%1$s hat keinen Internetzugriff</string>
@@ -561,6 +578,13 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="go_to">Fortsetzen</string>
   <string name="go_to_setting_fingerprint">Einstellungen</string>
   <string name="goto_set">Einstellen</string>
+    <string name="guide_get_operator_error">&lt;font color=&apos;#33b4ff&apos;&gt;&lt;U&gt;Falscher Mobilfunkanbieter?&lt;/U&gt;&lt;/font&gt;</string>
+    <string name="guide_operator_text">"Ihr aktueller Mobilfunkanbieter: "</string>
+    <string name="guide_primary_text">"Schalten Sie Netzwerkassistenten ein,
+um Ihre mobile Datennutzung zu verwalten"</string>
+    <string name="guide_quck_open">Einschalten</string>
+    <string name="guide_second_text">Nachdem Sie Ihren Mobilfunkanbieter eingestellt haben, wird MIUI Ihre mobile Datennutzung durch täglichen kostenlosen SMS-Bericht überwachen. Wenn MIUI erkennt, dass Sie Ihre Datengrenze überschritten haben, wird Ihr Gerät vom Netz getrennt und Sie erhalten eine Benachrichtigung.</string>
+    <string name="guide_wait_setting">Nicht jetzt</string>
   <string name="handle_bar_summary_wifi_unknown">Unbekannt</string>
   <string name="handle_bar_title_apps">Apps</string>
   <string name="handle_bar_title_paysms">Nachrichten</string>
@@ -672,6 +696,10 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="legal_workday_invalidate">Mo-Fr (Werktagsinfos abgelaufen)</string>
   <string name="legal_workday_invalidate_message">Tippen, um die Werktagsinfos zu aktualisieren.</string>
   <string name="legal_workday_message">(Feiertage überspringen)</string>
+  <string name="leisure_usage_dialog_message">"Ihre Datenverbrauchsgrenze wurde erreicht.
+
+Der Mobilfunkanbieter kann Ihnen zusätzliche Gebühren erheben, wenn Sie die mobile Datenverbindung weiter verwenden."</string>
+  <string name="leisure_usage_dialog_title">Ihre Datenverbrauchsgrenze wurde erreicht, Datenverbindung ist ausgeschaltet</string>
   <string name="list_empty_text">Leer</string>
   <string name="load_fail">Laden fehlgeschlagen</string>
   <string name="load_only_under_wlan">Nachrichten nur über WLAN laden</string>
@@ -723,14 +751,23 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="main_alert_message_open_traffic_ctrl">Wir empfehlen, die Datennutzung einzuschränken</string>
     <string name="main_alert_message_slot_no_data_connection">"Der SIM-Kartenslot unterstützt keine
  mobile Datenverbindung"</string>
+  <string name="main_bill_remained">Guthaben</string>
   <string name="main_button_idel_traffic">Nebenzeit</string>
   <string name="main_button_normal_traffic">Hauptzeit</string>
   <string name="main_button_usage_adjust">Datenverbrauch einstellen</string>
   <string name="main_button_usage_adjust_manual">Datenverbrauch einstellen</string>
   <string name="main_button_usage_adjusting">Wird geändert…</string>
   <string name="main_button_usage_package_setting">Datenverbrauch einstellen</string>
+  <string name="main_leisure_remained">Bis zur Verbrauchsgrenze verbleiben</string>
   <string name="main_message_no_package_by_dual">Datenverbrauchsgrenze %s</string>
+  <string name="main_month_total_used">Verbraucht in diesem Monat</string>
+  <string name="main_month_used">Verbraucht in diesem Monat</string>
+  <string name="main_no_info">Keine Daten</string>
+  <string name="main_normal_data_usage">Verwendetes Datenvolumen</string>
   <string name="main_open_traffic_ctrl_button">Datennutzung einschränken</string>
+  <string name="main_primary_message_leisure_alert">Warnung zum Datenverbrauch</string>
+  <string name="main_primary_message_leisure_overlimit">Ging über die Datenverbrauchsgrenze</string>
+  <string name="main_primary_message_leisure_remain">Datenverbrauchsgrenze</string>
   <string name="main_primary_message_traffic_cur_leisure">Nebenzeitendatennutzung</string>
   <string name="main_primary_message_traffic_cur_normal">Unter Datenlimit</string>
   <string name="main_primary_message_traffic_cur_normal_overlimit">Datenlimit überschritten</string>
@@ -739,7 +776,9 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="main_primary_message_traffic_overlimit">Datenverbrauchslimit überschritten</string>
   <string name="main_primary_message_traffic_overlimit_purchase">Aufladung erforderlich</string>
   <string name="main_primary_message_traffic_purchase">Sie müssen aufladen</string>
+  <string name="main_primary_message_traffic_remain">Mobiles Datenvolumen</string>
   <string name="main_primary_message_traffic_warning">Datenverbrauchslimit fast erreicht</string>
+  <string name="main_purchase_tips">Promotion</string>
   <string name="main_secondary_message_traffic_detail_leisure">"
 Off-peak: %1$s verbleibend | %2$s verbraucht"</string>
   <string name="main_secondary_message_traffic_detail_normal">"
@@ -749,6 +788,12 @@ Peak: %1$s%2$s verbleibend | %3$s verbraucht"</string>
   <string name="main_secondary_message_traffic_used_leisure">%s Nebenzeitdaten verbraucht</string>
   <string name="main_secondary_message_traffic_used_noleisure">%s HauptzeitDaten verbraucht | Keine Nebenzeitdaten verbleibend</string>
   <string name="main_secondary_message_traffic_used_normal">%s Hauptzeitdaten verbraucht</string>
+  <string name="main_tc_over">Erfolreich kalibriert</string>
+  <string name="main_tc_send_sms">"SMS gesendet,
+um zu kalibrieren"</string>
+  <string name="main_tc_wait_result">"Wird auf Antwort des
+Mobilfunkanbieters gewartet"</string>
+  <string name="main_today_used">Verbraucht heute</string>
   <string name="main_toolbar_firewall">Beschränkt</string>
   <string name="main_toolbar_internet_by_mobiledata">Mobile Daten</string>
   <string name="main_toolbar_internet_by_pc_brige">USB-Internet</string>
@@ -804,6 +849,7 @@ Peak: %1$s%2$s verbleibend | %3$s verbraucht"</string>
   <string name="menu_text_power_manager">Energieverwaltung</string>
   <string name="menu_text_power_percent">%s Akku</string>
   <string name="menu_text_power_percent_title">Akku %s</string>
+    <string name="menu_text_power_percent_title_default">Akku</string>
   <string name="mi_service_app_detail">Datenverbrauchsdetails</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_traffic_detail">Frameworkdetails</string>
