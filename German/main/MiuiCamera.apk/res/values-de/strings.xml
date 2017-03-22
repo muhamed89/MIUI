@@ -12,6 +12,7 @@
   <string name="accessibility_module_picker">ModulePicker</string>
   <string name="accessibility_panorama_review_cancel">Panorama speichern abbrechen</string>
   <string name="accessibility_peak">Bildschärfetaste</string>
+  <string name="accessibility_portrait_button">Portraitmodus</string>
   <string name="accessibility_review_thumbnail">Neueste Fotos</string>
   <string name="accessibility_seek_bar_line">SeekBarLine</string>
   <string name="accessibility_setting_button">Weitere Einstellungen button</string>
@@ -21,6 +22,7 @@
   <string name="accessibility_video_capture_button">VideoCaptureButton</string>
   <string name="accessibility_video_module_picker">Videomodusauswahl</string>
   <string name="accessibility_video_pause_button">VideoPauseButton</string>
+  <string name="accessibility_zoom_button">Zoommodus</string>
   <string name="audio_focus_exit_button_text">Audiofokus beenden</string>
   <string name="burst_shoot_exit_button_text">Serienbilder schießen ausschalten</string>
   <string name="button_fisheye_camera_title">Fischauge</string>
@@ -105,6 +107,9 @@
   <string name="pano_too_fast_prompt">Zu schnell</string>
   <string name="path">Pfad</string>
   <string name="path_settings">Systemanwendungen/Kamera/Einstellungen</string>
+  <string name="portrait_mode_lowlight_hint">Mehr Licht erforderlich</string>
+  <string name="portrait_mode_too_close_hint">Weiter weg verschieben</string>
+  <string name="portrait_mode_too_far_hint">Das Motiv innerhalb von 2,5 m platzieren</string>
   <string name="pref_advance_settings">Erweiterte Einstellungen</string>
   <string name="pref_audio_focus_entry_front">Vorne</string>
   <string name="pref_audio_focus_entry_general">Normal</string>
@@ -277,6 +282,9 @@
   <string name="pref_camera_picturesize_entry_fullscreen">Vollbild 16:9</string>
   <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Bildformat</string>
+  <string name="pref_camera_portrait_mode_entry_off">Portraitmodus aus</string>
+  <string name="pref_camera_portrait_mode_entry_on">Portraitmodus an</string>
+  <string name="pref_camera_portrait_mode_title">Portrait</string>
   <string name="pref_camera_raw_title">RAW</string>
   <string name="pref_camera_recordlocation_entry_off">Aus</string>
   <string name="pref_camera_recordlocation_entry_on">An</string>
@@ -310,12 +318,16 @@
   <string name="pref_camera_skinToneEnhancement_entry_enable">Aktivieren</string>
   <string name="pref_camera_snap_enable_title">Schnellfotomodus</string>
   <string name="pref_camera_snap_entry_off">Aus</string>
-  <string name="pref_camera_snap_entry_take_movie">Wenn das Display ausgeschaltet ist, drücken und halten Sie die Leiser-Taste, um die Aufnahme zu starten. Loslassen, um zu stoppen.</string>
-  <string name="pref_camera_snap_entry_take_picture">Wenn das Display ausgeschaltet ist, drücken und halten Sie die Leiser-Taste, um die Serienaufnahme zu starten. Loslassen, um zu stoppen.</string>
+  <string name="pref_camera_snap_entry_take_movie">Leiser-Taste lange drücken, um die Aufnahme zu starten, wenn Display aus ist. Loslassen, um zu stoppen.</string>
+  <string name="pref_camera_snap_entry_take_picture">Leiser-Taste lange drücken, um die Serienaufnahme zu starten, wenn Display aus ist. Loslassen, um zu stoppen.</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Kann den Schnellfotomodus benützen solange der \"Wake with Volume buttons\" an ist."</string>
+  <string name="pref_camera_snap_value_off">Aus</string>
+  <string name="pref_camera_snap_value_take_movie">Film</string>
+  <string name="pref_camera_snap_value_take_picture">Foto</string>
   <string name="pref_camera_sound_title">Kameratöne</string>
   <string name="pref_camera_square_mode_title">Quadrat</string>
   <string name="pref_camera_stereo_mode_title">Stereo</string>
+  <string name="pref_camera_tilt_shift_default">Kreis</string>
   <string name="pref_camera_tilt_shift_entry_circle">Kreis</string>
   <string name="pref_camera_tilt_shift_entry_parallel">Parallel</string>
   <string name="pref_camera_tilt_shift_title">Tiltshift</string>
@@ -340,6 +352,9 @@
   <string name="pref_camera_whitebalance_entry_manual">Manuell</string>
   <string name="pref_camera_whitebalance_entry_measure">Messen</string>
   <string name="pref_camera_whitebalance_title">Weißangleich</string>
+  <string name="pref_camera_zoom_mode_entry_tele">Tele</string>
+  <string name="pref_camera_zoom_mode_entry_wide">Weit</string>
+  <string name="pref_camera_zoom_mode_title">Zoom</string>
   <string name="pref_camera_zsl_entry_off">Aus</string>
   <string name="pref_camera_zsl_entry_on">An</string>
   <string name="pref_capture_settings">Kameraeinstellungen</string>
@@ -353,6 +368,8 @@
   <string name="pref_priority_storage_title">Vorrangig auf externer SD-Karte speichern</string>
   <string name="pref_qc_focus_position_title">Fokus</string>
   <string name="pref_scan_qrcode_title">Autom. QR-Codes erkennen</string>
+  <string name="pref_scan_qrcode_value_off">aus</string>
+  <string name="pref_scan_qrcode_value_on">ein</string>
   <string name="pref_setting_title">Einstellungen</string>
   <string name="pref_simple_hdr_entry_off">Aus</string>
   <string name="pref_simple_hdr_entry_on">An</string>
@@ -415,6 +432,7 @@
   <string name="simple_mode_button_text_manual">Manuellen Modus beenden</string>
   <string name="simple_mode_button_text_mono">Mono-Modus beenden</string>
   <string name="simple_mode_button_text_panorama">Panorama beenden</string>
+  <string name="simple_mode_button_text_portrait_mode">Portrait beenden</string>
   <string name="simple_mode_button_text_raw">RAW beenden</string>
   <string name="simple_mode_button_text_scene">Szenenmodus beenden</string>
   <string name="simple_mode_button_text_slow_video">Zeitraffer beenden</string>
