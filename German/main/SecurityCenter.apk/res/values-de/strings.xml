@@ -578,7 +578,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="go_to">Fortsetzen</string>
   <string name="go_to_setting_fingerprint">Einstellungen</string>
   <string name="goto_set">Einstellen</string>
-    <string name="guide_get_operator_error">&lt;font color=&apos;#33b4ff&apos;&gt;&lt;U&gt;Falscher Mobilfunkanbieter?&lt;/U&gt;&lt;/font&gt;</string>
+    <string name="guide_get_operator_error">Falscher Mobilfunkanbieter?</string>
     <string name="guide_operator_text">"Ihr aktueller Mobilfunkanbieter: "</string>
     <string name="guide_primary_text">"Schalten Sie Netzwerkassistenten ein,
 um Ihre mobile Datennutzung zu verwalten"</string>
