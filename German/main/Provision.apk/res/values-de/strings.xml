@@ -6,6 +6,7 @@
   <string name="alert_dialog_btn_open">Abbrechen</string>
   <string name="alert_dialog_msg">"Einige der MIUI-Basisfunktionen und -services werden ohne diese Berechtigungen evtl. nicht richtig funktionieren (z.B. werden Kontaktinformationen während eines Telefonats nicht richtig angezeigt). Wenn Sie diese Berechtigung verweigern, werden Systemanwendungen nach einer individuellen Berechtigung fragen, sobald diese benötigt werden."</string>
   <string name="alert_dialog_title">Einige Services könnten nciht richtig funktionieren...</string>
+  <string name="cm_terms_content">Um die Servicequalität zu verbessern, kann Ihr Provider persönliche Daten und Informationen über Ihr Gerät über WLAN oder die mobile Datenverbindung auf seine Server hochladen. Diese Information wird nur für statistische Zwecke verwendet, um die Qualität zu verbessern oder Ihnen personalisierte Inhalte anzubieten. Diese Information kann Sie nicht persönlich identifizieren und wird nicht an Dritte weitergeleitet.</string>
   <string name="back">Zurück</string>
   <string name="congratulation_label"/>
   <string name="congratulation_title">Einrichtung abgeschlossen</string>
@@ -15,13 +16,16 @@
   <string name="desc_fingerprint">Benutzen Sie Ihren Fingerabdruck, um das Telefon zu entsperren, Mi Pay Transaktionen zu verifizieren, oder sich bei Apps und Diensten anzumelden</string>
   <string name="desc_international_fingerprint">Benutzen Sie Ihren Fingerabdruck, um das Telefon zu entsperren, oder sich bei Apps und Diensten anzumelden</string>
   <string name="disagree">Abbrechen</string>
+  <string name="enable_accessibility_dialog_message">Sie haben TalkBack aktiviert, indem Sie den Bildschirm mit zwei Fingern länger als 10 Sekunden gedrückt haben. TalkBack liefert Sprachfeedback für Personen mit Sehbehinderung. Wenn Sie diese Funktion versehentlich aktiviert haben, tippen Sie auf Abbrechen und dann 2x auf den Bildschirm.</string>
+  <string name="enable_accessibility_dialog_negative_btn">Abbrechen</string>
+  <string name="enable_accessibility_dialog_positive_btn">OK</string>
   <string name="ime_privacy_policy">Datenschutzbestimmungen der ausgewählten Tastatur</string>
   <string name="ime_privacy_policy_no_network">Keine Netzwerkverbindung. Sehen Sie sich die Datenschutzrichtlinien für die Tastatur auf %s an</string>
   <string name="input_method_category">"Standardeingabemethode wählen, die z.B. beim Schreiben von E-Mails oder Notizen verwendet wird. Weitere Drittanbietertastaturen können später installiert werden."</string>
   <string name="input_method_setting">Eingabemethode auswählen</string>
   <string name="install_preinstall_app">Apps werden geladen…</string>
-    <string name="language_picker_other_languages_title">Andere Sprachen</string>
-    <string name="language_picker_popular_languages_title">Beliebte Sprachen</string>
+  <string name="language_picker_other_languages_title">Andere Sprachen</string>
+  <string name="language_picker_popular_languages_title">Beliebte Sprachen</string>
   <string name="locale_picker_title">Standort auswählen</string>
   <string name="miui_privacy_policy_no_network">"Keine Internetverbindung. Lesen Sie die Datenschutzrichtlinien auf %s"</string>
   <string name="miui_terms_no_network">"Keine Internetverbindung. Sehen Sie sich die Nutzungsbedingungen auf %s an"</string>

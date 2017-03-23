@@ -86,6 +86,7 @@
   <string name="call_settings">Einstellungen</string>
   <string name="call_sim1_menu_title">Mit SIM 1 anrufen</string>
   <string name="call_sim2_menu_title">Mit SIM 2 anrufen</string>
+  <string name="call_sim_menu_title_suffix">(Primär)</string>
   <string name="call_telex">Telex anrufen</string>
   <string name="call_tty_tdd">TTY/TDD anrufen</string>
   <string name="call_unit">USD</string>
@@ -1189,6 +1190,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="sim_export_loading">Lese SIM-Karte…</string>
   <string name="sim_indexed_contact_not_exist">Position %1$d auf der SIM-Karte ist ungültig. Sie muss zwischen %2$d und %3$d liegen.</string>
   <string name="sim_no_contact">Keine Kontakte auf der SIM-Karte</string>
+  <string name="sim_unloaded">SIM-Karte ausgeworfen</string>
   <string name="single_group_list_empty">Keine Gruppenkontakte</string>
   <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
   <string name="smart_group_company_label">Nach Firma</string>

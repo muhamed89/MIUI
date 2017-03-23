@@ -2785,6 +2785,7 @@ Betriebssystem auswählen:"</string>
   <string name="mvno_match_data">MVNO-Wert</string>
   <string name="mvno_type">MVNO-Typ</string>
   <string name="my_device">Mein Gerät</string>
+  <string name="my_device_disclaimer">Hinweis: Hardwareinformationen, inklusive CPU, Akkukapazität, Bildschirmgröße und -auflösung, sowie Kamers werden von Xiaomi Labs, Designern und Zulieferern zur Verfügung gestellt.</string>
   <string name="nearby_wifi">Verfügbare Netzwerke</string>
   <string name="need_reboot_now">Um die Aktualisierung abzuschließen, ist ein Neustart erforderlich.</string>
   <string name="netcheck_title">Netzwerkdiagnose</string>
@@ -5263,6 +5264,8 @@ Jeder Nutzer kann aktualisierte Appberechtigungen im Namen aller anderen Nutzer 
   <string name="vpn_search_domains">DNS-Suchdomains</string>
   <string name="vpn_server">Serveradresse</string>
   <string name="vpn_settings_not_available">VPN-Einstellungen sind für diesen Nutzer nicht verfügbar</string>
+  <string name="vpn_set_screen_lock_content">Verwenden Sie eine Bildschirmsperre, um Ihre VPN-Einstellungen zu sichern</string>
+  <string name="vpn_set_screen_lock_title">Bildschirmsperre einrichten</string>
   <string name="vpn_settings_password">VPN Passwort</string>
   <string name="vpn_settings_summary">VPN-Einstellungen mit dem Sperrbildschirmpasswort schützen</string>
   <string name="vpn_show_options">Erweiterte Optionen anzeigen</string>

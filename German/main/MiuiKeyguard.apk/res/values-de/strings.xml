@@ -85,6 +85,7 @@
   <string name="unlock_string">Entsperren</string>
   <string name="unlocking_sim_card">SIM-Karte wird entsperrt</string>
   <string name="unlockscreen_low_battery">Ladegerät anschließen</string>
+  <string name="unlockscreen_quick_charging_message">Schnelladen %d%%</string>
   <string name="unlockscreen_recharge_completed">Aufgeladen</string>
   <string name="unlockscreen_recharging_message">Wird geladen %d%%</string>
   <string name="wrong_password">Ungültiges Passwort</string>

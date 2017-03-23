@@ -432,6 +432,7 @@
   <string name="pref_summary_send_delivery_reports">Sende Lieferbestätigungsmeldung an den Absender, wenn Sie eine Multimedia-Mitteilung erhalten</string>
   <string name="pref_summary_show_recent_contacts">Bei einer neuen Nachricht die letzten Kontakte anzeigen</string>
   <string name="pref_summary_wake_up_screen">Bildschirm bei Eingang neuer Nachrichten einschalten</string>
+  <string name="pref_switch_sdk_setting">Smart SMS-Engine ändern</string>
   <string name="pref_system_title">System</string>
   <string name="pref_time_auto_group_disabled_summary">Wird in der aktuellen Schrifftgröße nicht unterstützt</string>
   <string name="pref_time_auto_group_summary">Nachrichten zusammen gruppieren, welche innerhalb von einer Minute von einer Nummer empfangen wurden</string>
