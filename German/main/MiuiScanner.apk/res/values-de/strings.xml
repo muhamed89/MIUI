@@ -88,6 +88,7 @@
   <string name="language_entry_russian">Russisch</string>
   <string name="language_entry_spanish">Spanisch</string>
   <string name="language_entry_swedish">Schwedisch</string>
+  <string name="low_version_tip">Scanner funktioniert nicht auf diesem System, aktualisieren Sie bitte MIUI auf die neueste Version</string>
   <string name="module_title_code">QR-Code</string>
   <string name="module_title_document">Dokument</string>
   <string name="module_title_namecard">Visitenkarte</string>
@@ -106,11 +107,13 @@
   <string name="not_recommend_access_web_url">Trotzdem gehen</string>
   <string name="not_tips">Nicht wieder anzeigen</string>
   <string name="note">Anmerkung:</string>
+  <string name="path_scanner_setting">Systemanwendungen/Scanner</string>
   <string name="payment_weixin">WeChat</string>
   <string name="payment_zhifubao">AliPay</string>
   <string name="phone">Telefon:</string>
   <string name="picker_lable">Photo</string>
   <string name="place_barcode_into_rectangle">Platzieren Sie den Code innerhalb des Rahmens</string>
+  <string name="pref_camera_focusmode_default">Kontinuierliches Bild</string>
   <string name="pref_camera_jpeg_quality_fine">fein</string>
   <string name="pref_camera_jpeg_quality_normal">normal</string>
   <string name="pref_camera_jpeg_quality_superfine">extrafein</string>

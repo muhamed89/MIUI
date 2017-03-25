@@ -87,7 +87,12 @@ nach unten ziehen, um zu aktialisieren oder überprüfen Sie die Netzwerkeinstel
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="hourly_forcast_now">Jetzt</string>
   <string name="hourly_forecast_title">%1$s-Stunden-Vorschau</string>
+  <string name="index_item_experience_now">Jetzt installieren</string>
+  <string name="index_item_install_dialog"></string>
+  <string name="index_item_install_dialog_cancel"></string>
+  <string name="index_item_install_dialog_open"></string>
   <string name="index_item_install_now">Jetzt installieren</string>
+  <string name="index_item_installing">Wird installiert</string>
   <string name="indices_desc_Precip1hr">%1$s mm</string>
   <string name="indices_desc_feel">Fühlt sich wie %1$s°C an</string>
   <string name="indices_desc_feel_without_pic">%1$s°C</string>
@@ -134,6 +139,7 @@ nach unten ziehen, um zu aktialisieren oder überprüfen Sie die Netzwerkeinstel
   <string name="no_network_btn">Wiederholen</string>
   <string name="open">Öffnen</string>
   <string name="open_browser">Im Browser öffnen</string>
+  <string name="open_now">Jetzt öffnen</string>
   <string name="other">Andere</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="realtime_aqi_title">Luftqualität</string>
