@@ -19,8 +19,7 @@
   <string name="Midnight">Mitternacht</string>
   <string name="Noon">Mittag</string>
   <string name="PinMmi">PIN-Änderung</string>
-    <string name="PwdMmi">Passwortänderung</string>
-  <string name="RestrictedChangedTitle">Eingeschränkter Zugriff geändert</string>
+  <string name="PwdMmi">Passwortänderung</string>
   <string name="RestrictedOnAll">Alle Sprach-/Daten-/SMS-Dienste sind gesperrt.</string>
   <string name="RestrictedOnAllVoice">Alle Sprachdienste sind gesperrt.</string>
   <string name="RestrictedOnData">Datendienst ist gesperrt.</string>
@@ -68,8 +67,11 @@
     <string name="aerr_report">Feedback senden</string>
     <string name="aerr_restart">App erneut öffnen</string>
   <string name="aerr_title"/>
+  <string name="aerr_wait">Warten</string>
   <string name="allow">Zulassen</string>
+  <string name="allow_button">Erlauben</string>
   <string name="alwaysUse">Immer für diese Aktion verwenden</string>
+  <string name="alwaysUse">Standardmäßig für diese Aktion verwenden.</string>
   <string name="android_preparing_apk">%1$s wird vorbereitet</string>
   <string name="android_start_title">Android wird gestartet…</string>
   <string name="android_system_label">Androidsystem</string>
@@ -80,21 +82,18 @@
     <string name="android_upgrading_notification_title">Android wird aktualisiert</string>
   <string name="android_upgrading_starting_apps">Apps werden gestartet...</string>
   <string name="android_upgrading_title">Android wird aktualisiert...</string>
-  <string name="anr_activity_application">"%2$s reagiert nicht.
-
-Möchten Sie die App schließen?"</string>
-  <string name="anr_activity_process">"Aktivität \"%1$s\" reagiert nicht.
-
-Möchten Sie sie beenden?"</string>
+  <string name="anr_activity_application">"%2$s reagiert nicht."</string>
+  <string name="anr_activity_process">"Aktivität \"%1$s\" reagiert nicht."</string>
   <string name="anr_application_process">%1$s reagiert nicht. Möchten Sie die App schließen?</string>
   <string name="anr_process">"Prozess \"%1$s\" reagiert nicht.
 
 Möchten Sie ihn beenden?"</string>
-    <string name="app_info">Appinfo</string>
-    <string name="app_no_restricted_accounts">"This app doesn`t support accounts for restricted profiles"</string>
+  <string name="app_info">Appinfo</string>
   <string name="app_not_found">Für diese Aktion wurde keine App gefunden.</string>
   <string name="app_running_notification_text">Für weitere Informationen oder zum Anhalten der App antippen</string>
   <string name="app_running_notification_title">%1$s wird ausgeführt</string>
+  <string name="audit_safemode_notification">Werkseinstellung, um dieses Gerät ohne Einschränkungen zu verwenden</string>
+  <string name="audit_safemode_notification_details">Berühre, um mehr zu erfahren.</string>
   <string name="autofill_address_name_separator">" "</string>
   <string name="autofill_address_summary_format">$1$2$3</string>
   <string name="autofill_address_summary_name_format">$1$2$3</string>
@@ -125,6 +124,7 @@ Möchten Sie ihn beenden?"</string>
   <string name="autofill_middle_name_re">middle.*name|zweiter Vorname</string>
   <string name="autofill_name_on_card_contextual_re">Name</string>
   <string name="autofill_name_on_card_re">card.?holder|name.?on.?card|Besitzer|Karteninhaber</string>
+
   <string name="autofill_name_re">^name|full.?name|your.?name|customer.?name|Kundenname</string>
   <string name="autofill_name_specific_re">^name</string>
   <string name="autofill_parish">Gemeinde</string>
@@ -150,15 +150,23 @@ Der Energiesparmodus endet automatisch, wenn Ihr Gerät aufgeladen wird."</strin
   <string name="beforeOneMonthDurationPast">Vor mehr als einem Monat</string>
   <string name="bluetooth_a2dp_audio_route_name">Bluetoothaudio</string>
   <string name="bugreport_message">Bei diesem Fehlerbericht werden Daten zum aktuellen Status Ihres Geräts erfasst und als E-Mail versandt. Vom Start des Berichts bis zu seinem Versand kann es eine Weile dauern. Bitte haben Sie etwas Geduld.</string>
+  <string name="bugreport_option_full_summary">Verwenden Sie diese Option für minimale Systemstörungen, wenn Ihr Gerät nicht mehr reagiert oder zu langsam ist oder wenn Sie alle Berichte benötigen. Erlaubt Ihnen nicht, weitere Details einzugeben oder zusätzliche Screenshots zu machen.</string>
+  <string name="bugreport_option_full_title">Kompletter Bericht</string>
+  <string name="bugreport_option_interactive_summary">Verwenden Sie dies unter den meisten Umständen. Es erlaubt Ihnen, den Fortschritt des Berichts zu verfolgen, weitere Details über das Problem einzugeben und Screenshots zu machen. Es könnte einige weniger benutzte Abschnitte weglassen, um Zeit einzusparen.</string>
+  <string name="bugreport_option_interactive_title">Interactiver Bericht</string>
   <string name="bugreport_status" formatted="false">%s (%s)</string>
   <string name="bugreport_title">Fehlerbericht abrufen</string>
   <string name="byteShort">B</string>
   <string name="cancel">Abbruch</string>
   <string name="candidates_style"><u>Kandidaten</u></string>
+  <string name="capability_desc_canControlMagnification">"Kontrollieren Sie die Zoomstufe und die Positionierung des Displays."</string>
+  <string name="capability_desc_canPerformGestures">Kann tippen, wischen, kneifen und andere Gesten ausführen.</string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">Skripts können installiert werden, um den Zugriff auf Appinhalte zu erleichtern.</string>
   <string name="capability_desc_canRequestFilterKeyEvents">Einschließlich personenbezogener Daten wie Kreditkartennummern und Passwörter.</string>
   <string name="capability_desc_canRequestTouchExploration">Berührte Elemente werden laut vorgelesen und der Bildschirm kann über Gesten erkundet werden.</string>
   <string name="capability_desc_canRetrieveWindowContent">Die Inhalte eines Fensters mit dem Sie interagieren werden abgerufen.</string>
+  <string name="capability_title_canControlMagnification">Kontrollanzeigevergrößerung</string>
+  <string name="capability_title_canPerformGestures">Gesten ausführen</string>
   <string name="capability_title_canRequestEnhancedWebAccessibility">Verbesserte Webbedienung aktivieren</string>
   <string name="capability_title_canRequestFilterKeyEvents">Text bei der Eingabe beobachten</string>
   <string name="capability_title_canRequestTouchExploration">\"Tippen &amp; Entdecken\" aktivieren</string>
@@ -167,6 +175,11 @@ Der Energiesparmodus endet automatisch, wenn Ihr Gerät aufgeladen wird."</strin
   <string name="capital_on">AN</string>
   <string name="car_mode_disable_notification_message">Automodus ausschalten</string>
   <string name="car_mode_disable_notification_title">Automodus eingeschaltet</string>
+  <string name="carrier_app_dialog_button">HOLE DIE APP</string>
+  <string name="carrier_app_dialog_message">"Damit Ihre neue SIM richtig funktioniert, müssen Sie eine App von Ihrem Mobilfunkanbieter installieren und öffnen."</string>
+  <string name="carrier_app_dialog_not_now">NICHT JETZT</string>
+  <string name="carrier_app_notification_text">Berühren um einzurichten</string>
+  <string name="carrier_app_notification_title">Neue SIM Karte eingelegt</string>
   <string name="cfTemplateForwarded">{0}: {1}</string>
   <string name="cfTemplateForwardedTime">{0}{1} nach {2} Sekunden.</string>
   <string name="cfTemplateNotForwarded">{0}: Nicht weitergeleitet</string>
@@ -177,6 +190,7 @@ Der Energiesparmodus endet automatisch, wenn Ihr Gerät aufgeladen wird."</strin
   <string name="choose_account_label">Konto auswählen</string>
   <string name="chooser_wallpaper">Hintergrund ändern</string>
   <string name="clearDefaultHintMsg">Das Löschen der Standardeinstellungen ist in den Systemeinstellungen unter \"Apps &gt; Heruntergeladen\" möglich.</string>
+  <string name="close_button_text">Schließen</string>
   <string name="common_name">Allgemeiner Name:</string>
   <string name="condition_provider_service_binding_label">Bedingungsprovider</string>
   <string name="config_mobile_hotspot_provision_app_no_ui"/>
@@ -190,9 +204,13 @@ Der Energiesparmodus endet automatisch, wenn Ihr Gerät aufgeladen wird."</strin
   <string name="continue_to_enable_accessibility">Drücken Sie mit zwei Fingern um die Bedienungshilfen zu aktivieren.</string>
   <string name="copy">Kopieren</string>
   <string name="copyUrl">URL kopieren</string>
+  <string name="country_selection_title">Region Einstellung</string>
   <string name="create_contact_using">"Neuer Kontakt
 mit %s erstellen"</string>
   <string name="cut">Ausschneiden</string>
+  <string name="data_saver_description">Um die Datenverwendung zu reduzieren, verhindert Data Saver, dass einige Apps im Hintergrund Daten senden oder empfangen. Eine App, die Sie gerade verwenden, kann auf Daten zugreifen, kann aber weniger häufig auftreten. Dies kann z. B. bedeuten, dass Bilder nicht angezeigt werden, bis Sie sie tippen.</string>
+  <string name="data_saver_enable_button">Einschalten</string>
+  <string name="data_saver_enable_title">Data Saver einschalten?</string>
   <string name="data_usage_3g_limit_snoozed_title">2G-/3G-Datenlimit überschritten</string>
   <string name="data_usage_3g_limit_title">2G-/3G-Datenlimit erreicht</string>
   <string name="data_usage_4g_limit_snoozed_title">4G-Datenlimit überschritten</string>
@@ -229,14 +247,20 @@ mit %s erstellen"</string>
   <string name="def_custom_sys_notification"/>
   <string name="def_custom_sys_ringtone"/>
   <string name="def_custom_sys_ringtone2"/>
-  <string name="def_custom_sys_ringtone3"/>
+  <string name="decline_remote_bugreport_action">ABLEHNEN</string>
   <string name="def_wifi_direct_name"/>
   <string name="def_wifi_wifihotspot_pass"/>
+  <string name="defaultVoiceMailAlphaTag">Sprachmail</string>
+  <string name="default_audio_route_category_name">System</string>
+  <string name="default_audio_route_name">Telefon</string>
+  <string name="default_audio_route_name_dock_speakers">Dock Lautsprecher</string>
+  <string name="default_audio_route_name_headphones">Kopfhörer</string>
   <string name="def_wifi_wifihotspot_ssid"/>
   <string name="delete">Löschen</string>
   <string name="deleteText">Löschen</string>
   <string name="deleted_key">%1$s gelöscht</string>
   <string name="deny">Ablehnen</string>
+  <string name="deny_button">Ablehnen</string>
   <string name="description_target_unlock_tablet">Ziehen zum Entsperren</string>
   <string name="dial_number_using">"Nummer wählen
 mit %s"</string>
@@ -289,6 +313,8 @@ mit %s"</string>
   <string name="eventTypeBirthday">Geburtstag</string>
   <string name="eventTypeCustom">Benutzerdefiniert</string>
   <string name="eventTypeOther">Sonstige</string>
+  <string name="expand_action_accessibility">Umschalten</string>
+  <string name="expand_button_content_description">Expand Schaltfläche</string>
   <string name="expires_on">Läuft ab am:</string>
   <string name="ext_media_badremoval_notification_message">Trennen Sie den USB-Speicher vor dem Entfernen, um Datenverlust zu vermeiden</string>
   <string name="ext_media_badremoval_notification_title">USB-Speicher unerwartet entfernt</string>
@@ -326,7 +352,8 @@ mit %s"</string>
   <string name="ext_media_unmounting_notification_title">%s wird noch ausgeworfen…</string>
   <string name="ext_media_unsupported_notification_message">Dieses Gerät unterstützt diesen %s nicht. Antippen um in ein kompatibles Format zu formatieren.</string>
   <string name="ext_media_unsupported_notification_title">%s nicht unterstützt</string>
-  <string name="extmedia_format_title">USB-Speicher formatieren?</string>
+  <string name="extract_edit_menu_button">Bearbeiten</string>
+  <string name="faceunlock_multiple_failures">Maximale Face Unlock Versuche überschritten</string>
   <string name="factory_reset_message">"Die Adminapp fehlt oder ist beschädigt und kann deswegen nicht verwendet werden. Ihr Gerät wird nun gelöscht. Kontaktieren Sie Ihren Administrator für Hilfe."</string>
   <string name="factory_reset_warning">Ihr Gerät wird gelöscht</string>
   <string name="factorytest_failed">Werkstest fehlgeschlagen</string>
@@ -368,6 +395,7 @@ mit %s"</string>
   <string name="global_action_lock">Bildschirmsperre</string>
   <string name="global_action_lockdown">Jetzt sperren</string>
   <string name="global_action_power_off">Ausschalten</string>
+  <string name="global_action_reboot">Neu starten</string>
   <string name="global_action_settings">Einstellungen</string>
   <string name="global_action_silent_mode_off_status">Ton ist AN.</string>
   <string name="global_action_silent_mode_on_status">Ton ist AUS.</string>
@@ -429,6 +457,7 @@ mit %s"</string>
   <string name="imTypeHome">Privat</string>
   <string name="imTypeOther">Sonstige</string>
   <string name="imTypeWork">Geschäftlich</string>
+  <string name="ime_action_default">Ausführen</string>
   <string name="ime_action_done">Fertig</string>
   <string name="ime_action_go">Los</string>
   <string name="ime_action_next">Weiter</string>
@@ -439,6 +468,8 @@ mit %s"</string>
   <string name="immersive_cling_description">Zum Schließen nach unten wischen</string>
   <string name="immersive_cling_positive">Verstanden</string>
   <string name="immersive_cling_title">Vollbildansicht</string>
+  <string name="importance_from_person">Das ist wichtig wegen der beteiligten Personen.</string>
+  <string name="importance_from_user">Sie legen die Bedeutung dieser Meldungen fest.</string>
   <string name="inputMethod">Eingabemethode</string>
   <string name="input_method_binding_label">Eingabemethode</string>
   <string name="invalidPin">Geben Sie eine PIN ein, die 4 bis 8 Zahlen enthält.</string>
@@ -537,6 +568,9 @@ Versuchen Sie es in %d Sekunden erneut."</string>
   <string name="kg_wrong_pattern">Falsches Muster</string>
   <string name="kg_wrong_pin">Falsche PIN</string>
   <string name="kilobyteShort">KB</string>
+  <string name="language_picker_section_all">Alle Sprachen</string>
+  <string name="language_picker_section_suggested">Empfohlen</string>
+  <string name="language_selection_title">Eine Sprache hinzufügen</string>
   <string name="last_month">Letzter Monat</string>
   <string name="launchBrowserDefault">Browser starten?</string>
   <string name="launch_warning_original">%1$s wurde ursprünglich gestartet.</string>
@@ -545,9 +579,8 @@ Versuchen Sie es in %d Sekunden erneut."</string>
   <string name="list_delimeter">", "</string>
   <string name="loading">Wird geladen…</string>
   <string name="locale_codes"/>
-  <string name="lock_to_app_description">"Mit der Bildschirmfixierung wird die Anzeige in einer einzelnen Ansicht gesperrt.
-
-Um die Fixierung aufzuheben, berühren und halten Sie gleichzeitig \"Zurück\" und \"Übersicht\"."</string>
+  <string name="locale_search_menu">Suchen</string>
+  <string name="lock_pattern_view_aspect">platz</string>
   <string name="lock_to_app_description_accessible">"Mit der Bildschirmfixierung wird die Anzeige in einer einzelnen Ansicht gesperrt.
 
 Um die Fixierung aufzuheben, berühren und halten Sie \"Übersicht\"."</string>
@@ -568,6 +601,7 @@ Um die Fixierung aufzuheben, berühren und halten Sie \"Übersicht\"."</string>
   <string name="lockscreen_access_pattern_cleared">Muster gelöscht</string>
   <string name="lockscreen_access_pattern_detected">Muster abgeschlossen</string>
   <string name="lockscreen_access_pattern_start">Muster gestartet</string>
+  <string name="lockscreen_carrier_default">Kein Netzwerk</string>
   <string name="lockscreen_emergency_call">Notruf</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Sie haben %d Mal erfolglos versucht, das Telefon zu entsperren. Nach %d weiteren erfolglosen Versuchen wird das Telefon auf die Werkseinstellungen zurückgesetzt und alle Nutzerdaten gehen verloren.</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Sie haben Ihr Entsperrungsmuster %d-mal falsch gezeichnet. Nach %d weiteren erfolglosen Versuchen werden Sie aufgefordert, Ihr Telefon mithilfe Ihrer Google-Anmeldeinformationen zu entsperren.
@@ -633,6 +667,7 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="low_memory">Der Telefonspeicher ist voll. Löschen Sie Dateien, um Speicherplatz freizugeben.</string>
   <string name="managed_profile_label">Geschäftlich</string>
   <string name="managed_profile_label_badge">%1$s (geschäftlich)</string>
+  <string name="maximize_button_text">Maximieren</string>
   <string name="me">Eigene</string>
   <string name="media_route_button_content_description">Übertragen</string>
   <string name="media_route_chooser_extended_settings">Einstellungen</string>
@@ -749,6 +784,8 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="network_available_sign_in">Im Netzwerk anmelden</string>
   <string name="new_app_action">%1$s starten</string>
   <string name="new_app_description">Alte App beenden ohne zu speichern</string>
+  <string name="new_sms_notification_content">Zum anzeigen SMS App öffnen</string>
+  <string name="new_sms_notification_title">Du hast neue nachrichten</string>
   <string name="next_button_label">Weiter</string>
   <string name="no">Abbrechen</string>
   <string name="noApplications">Diese Aktion kann von keiner App ausgeführt werden.</string>
@@ -757,9 +794,13 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="no_permissions">Keine Berechtigungen erforderlich</string>
   <string name="no_recent_tasks">Keine kürzlich geöffneten Apps</string>
   <string name="noon">Mittag</string>
+  <string name="notification_hidden_by_policy_text">Inhalt versteckt durch Vorgabe Regel</string>
+  <string name="notification_hidden_text">Inhalt versteckt</string>
   <string name="notification_listener_binding_label">Benachrichtigungslistener</string>
+  <string name="notification_ranker_binding_label">Benachrichtigungs-Rang-Service</string>
   <string name="notification_title">Fehler bei Anmeldung für %1$s</string>
   <string name="notification_work_profile_content_description">Arbeitsprofil</string>
+  <string name="now_string_shortest">jetzt</string>
   <string name="number_picker_decrement_button">Verringern</string>
   <string name="number_picker_increment_button">Erhöhen</string>
   <string name="number_picker_increment_scroll_action">Zum Erhöhen nach oben und zum Verringern nach unten schieben</string>
@@ -775,6 +816,7 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="orgTypeWork">Geschäftlich</string>
   <string name="org_name">Organisation:</string>
   <string name="org_unit">Organisationseinheit:</string>
+  <string name="other_permissions">andere Rechte</string>
   <string name="owner_name">Eigentümer</string>
   <string name="package_deleted_device_owner">Von Ihrem Administrator gelöscht</string>
   <string name="package_installed_device_owner">Von Ihrem administrator installiert</string>
@@ -784,6 +826,7 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="password_keyboard_label_alt_key">ALT</string>
   <string name="password_keyboard_label_symbol_key">\?123</string>
   <string name="paste">Einfügen</string>
+  <string name="paste_as_plain_text">Einfügen als Klartext</string>
   <string name="peerTtyModeFull">Peer angefordert TTY Mode FULL</string>
   <string name="peerTtyModeHco">Peer angefordert TTY Mode HCO</string>
   <string name="peerTtyModeOff">Peer angefordert TTY Mode Aus</string>
@@ -792,7 +835,7 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="permdesc_accessCoarseLocation">Ermöglicht der App ihren ungefähren Standort zu ermitteln. Diese Standortangabe stammt von Standortdiensten, die Netzwerkstandortquellen wie etwa Sendemasten oder WLAN verwenden. Diese Standortdienste müssen auf Ihrem Gerät verfügbar und aktiviert sein, damit die App sie verwenden kann. Apps können Ihren ungefähren Standort anhand dieser Daten ermitteln.</string>
   <string name="permdesc_accessDrmCertificates">Ermöglicht einer App die Bereitstellung und Nutzung von DRM-Zertifikaten. Sollte für normale Apps nie benötigt werden</string>
   <string name="permdesc_accessFineLocation">Ermöglicht der App, Ihre genaue Position anhand von GPS-Daten (Global Positioning System) oder über Netzwerkstandortquellen wie Sendemasten oder WLAN zu ermitteln. Diese Standortdienste müssen auf Ihrem Gerät verfügbar und aktiviert sein, damit die App sie verwenden kann. Apps können Ihren Standort anhand dieser Daten ermitteln und verbrauchen eventuell zusätzliche Akkuleistung.</string>
-  <string name="permdesc_accessInputFlinger">Ermöglicht der App die systemnahen InputFlingerfunktionen zu verwenden</string>
+  <string name="permdesc_accessImsCallService">Ermöglicht der App, den IMS-Dienst zu verwenden, um Anrufe ohne Ihr Eingreifen zu tätigen.</string>
   <string name="permdesc_accessLocationExtraCommands">Ermöglicht der App auf zusätzliche Standortanbieterbefehle zuzugreifen. Damit könnte die App die Funktionsweise von GPS oder anderen Standortquellen beeinträchtigen.</string>
   <string name="permdesc_accessNetworkConditions">Ermöglicht der App Informationen zu den Netzwerkbedingungen zu erfassen. Sollte für normale Apps nie benötigt werden.</string>
   <string name="permdesc_accessNetworkState">Ermöglicht der App Informationen zu Netzwerkverbindungen abzurufen, etwa welche Netzwerke existieren und verbunden sind.</string>
@@ -801,11 +844,11 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="permdesc_accessWimaxState">Ermöglicht der App festzustellen, ob WiMAX aktiviert ist. Zudem kann sie Informationen zu verbundenen WiMAX-Netzwerken abrufen.</string>
   <string name="permdesc_access_notification_policy">Ermöglicht der App die \"Nicht stören\"-Konfiguration zu lesen</string>
   <string name="permdesc_addVoicemail">Ermöglicht der App Nachrichten zu Ihrem Mailbox-Posteingang hinzuzufügen</string>
-  <string name="permdesc_bindAccessibilityService">Ermöglicht dem Inhaber sich an die Oberfläche einer Bedienungshilfe auf oberster Ebene zu binden. Sollte nie für normale Apps benötigt werden.</string>
+  <string name="permdesc_bindCarrierMessagingService">Ermöglicht dem Inhaber, an die obere Schnittstelle eines Carrier-Messaging-Dienstes zu binden. Sollte nie für normale Apps benötigt werden.</string>
   <string name="permdesc_bindCarrierServices">Ermöglicht dem Inhaber, Netzbetreiberservices zu binden. Sollte für normale Apps eigentlich nicht notwendig sein.</string>
-  <string name="permdesc_bindPrintSpoolerService">Ermöglicht dem Inhaber, sich an die Oberfläche eines Druck-Spooler-Dienstes auf oberster Ebene zu binden. Sollte für normale Apps nie benötigt werden.</string>
-  <string name="permdesc_bindRemoteDisplay">Ermöglicht dem Inhaber, sich an die Oberfläche eines Remote-Displays auf oberster Ebene zu binden. Sollte für normale Apps nie benötigt werden.</string>
-  <string name="permdesc_bindVoiceInteraction">Ermöglicht dem Inhaber, sich an die Oberfläche eines Sprachinteraktionsdienstes auf oberster Ebene zu binden. Für normale Apps sollte dies nie erforderlich sein.</string>
+  <string name="permdesc_bindConditionProviderService">Ermöglicht es dem Inhaber, an die obere Schnittstelle eines Condition Provider Service zu binden. Sollte nie für normale Apps benötigt werden.</string>
+  <string name="permdesc_bindDreamService">Erlaubt dem Inhaber, an die obere Schnittstelle eines dream services zu binden. Sollte nie für normale Apps benötigt werden.</string>
+  <string name="permdesc_bindNotificationListenerService">Erlaubt dem Inhaber, an die obere Schnittstelle eines Benachrichtigungs-Listener-Dienstes zu binden. Sollte nie für normale Apps benötigt werden.</string>
   <string name="permdesc_bind_connection_service">Ermöglicht der App die Interaktion mit Telefondiensten, um Anrufe zu tätigen und zu empfangen</string>
   <string name="permdesc_bind_incall_service">Die App kann steuern, wann und wie der Nutzer den Anrufbildschirm sieht.</string>
   <string name="permdesc_bluetooth">Ermöglicht der App die Bluetooth-Konfiguration des Telefons einzusehen und Verbindungen mit gekoppelten Geräten herzustellen und zu akzeptieren.</string>
@@ -908,9 +951,11 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
   <string name="permgrouplab_sms">SMS</string>
   <string name="permgrouplab_storage">Speicher</string>
   <string name="permission">Erlauben</string>
+  <string name="permission_remember_choice">Merken</string>
   <string name="permission_request_notification_title">Berechtigung angefordert</string>
   <string name="permission_request_notification_with_subtitle">"Berechtigung angefordert
 für Konto %s"</string>
+  <string name="permission_title">Genehmigung</string>
   <string name="permlab_accessCoarseLocation">Ungefährer Standort (netzwerkbasiert)</string>
   <string name="permlab_accessDrmCertificates">Auf DRM-Zertifikate zugreifen</string>
   <string name="permlab_accessFineLocation">Genauer Standort (GPS- und netzwerkbasiert)</string>
@@ -1070,6 +1115,8 @@ für Konto %s"</string>
   <string name="preposition_for_year">im Jahr %s</string>
   <string name="print_service_installed_message">Zum Aktivieren tippen</string>
   <string name="print_service_installed_title">Dienst %s installiert</string>
+  <string name="profile_encrypted_detail">Arbeitsprofil gesperrt</string>
+  <string name="profile_encrypted_message">Zum entsperren des Arbeitsprofils hier tippen</string>
   <string name="progress_erasing">USB-Speicher wird gelöscht...</string>
   <string name="quick_contacts_not_available">Es wurde keine App zum Anzeigen dieses Kontakts gefunden.</string>
   <string name="reason_service_unavailable">Druckdienst nicht aktiviert</string>
@@ -1077,6 +1124,7 @@ für Konto %s"</string>
   <string name="reboot_confirm">Das Telefon wird neu gestartet</string>
   <string name="reboot_safemode_confirm">Möchten Sie im abgesicherten Modus neu starten? Dadurch werden alle Apps von Drittanbietern deaktiviert, die Sie installiert haben. Sie werden jedoch nach einem weiteren Neustart wiederhergestellt.</string>
   <string name="reboot_safemode_title">Im abgesicherten Modus starten</string>
+  <string name="reboot_title">Neu starten</string>
   <string name="reboot_to_reset_message">Neustarten…</string>
   <string name="reboot_to_reset_title">Auf Werkseinstellungen zurücksetzen</string>
   <string name="reboot_to_update_package">Updatepaket wird verarbeitet…</string>
@@ -1114,6 +1162,8 @@ für Konto %s"</string>
   <string name="restr_pin_incorrect">Falsch</string>
   <string name="restr_pin_try_later">Später erneut versuchen</string>
   <string name="revoke">Aufheben</string>
+  <string name="ringtone_default">Standard Klingelton</string>
+  <string name="ringtone_default_with_actual">Standard Klingelton (%1$s)</string>
   <string name="ringtone_picker_title">Klingeltöne</string>
   <string name="ringtone_silent">Lautlos</string>
   <string name="ringtone_unknown">Unbekannter Klingelton</string>
@@ -1146,6 +1196,7 @@ Wenn Sie über längere Zeiträume hinweg Musik in hoher Lautstärke hören, kan
   <string name="screen_lock">Bildschirmsperre</string>
   <string name="search_go">Suchen</string>
   <string name="search_hint">Suche…</string>
+  <string name="search_language_hint">Tippe Sprachnamen</string>
   <string name="searchview_description_clear">Anfrage löschen</string>
   <string name="searchview_description_query">Suchanfrage</string>
   <string name="searchview_description_search">Suche</string>
@@ -1185,8 +1236,12 @@ Wenn Sie über längere Zeiträume hinweg Musik in hoher Lautstärke hören, kan
   <string name="sha256_fingerprint">SHA-256-Fingerabdruck:</string>
   <string name="share">Teilen</string>
   <string name="share_action_provider_share_with">Teilen mit</string>
+  <string name="share_remote_bugreport_action">TEILEN</string>
+  <string name="share_remote_bugreport_notification_message_finished">Ihr IT-Administrator forderte einen Fehlerbericht an umProblem auf diesem Gerät zu beheben. Apps und Daten können gemeinsam genutzt werden.</string>
+  <string name="share_remote_bugreport_notification_title">Share bug report?</string>
   <string name="shareactionprovider_share_with">Teilen mit</string>
   <string name="shareactionprovider_share_with_application">Mit %s teilen</string>
+  <string name="sharing_remote_bugreport_notification_title">Fehlerbericht teilen...</string>
   <string name="show_ime">Eingabemethode anzeigen</string>
   <string name="shutdown_confirm">Telefon wird heruntergefahren.</string>
   <string name="shutdown_confirm_question">Möchten Sie das Gerät herunterfahren?</string>
@@ -1270,7 +1325,11 @@ Wenn Sie über längere Zeiträume hinweg Musik in hoher Lautstärke hören, kan
   <string name="turn_off_radio">Funk ausschalten</string>
   <string name="turn_on_radio">Funk einschalten</string>
   <string name="tutorial_double_tap_to_zoom_message_short">Für Zoomeinstellung zweimal berühren</string>
+  <string name="undo">Rückgängig</string>
   <string name="unknownName">(Unbekannt)</string>
+  <string name="unpin_target">Unpin</string>
+  <string name="unsupported_display_size_message">%1$s unterstützt die aktuelle Einstellung der Displaygröße nicht und kann sich unerwartet verhalten.</string>
+  <string name="unsupported_display_size_show">Immer anzeigen</string>
   <string name="untitled">&lt;Unbenannt&gt;</string>
   <string name="upload_file">Datei auswählen</string>
   <string name="usb_accessory_notification_title">Mit USB-Zubehör verbunden</string>
