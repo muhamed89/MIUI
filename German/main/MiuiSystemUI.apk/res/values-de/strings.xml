@@ -194,7 +194,6 @@
   <string name="daltonizer_mode_protanomaly">Protanomaly (Rot-Grün)</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomaly (Blau-Gelb)</string>
   <string name="daltonizer_type_overridden">Überschrieben von %1$s</string>
-Wenn Sie die Datenverbindung wieder einschalten, können hohe Kosten entstehen."</string>
   <string name="data_usage_disabled_dialog_3g_title">2G-3G Daten ausgeschaltet</string>
   <string name="data_usage_disabled_dialog_4g_title">4G Daten ausgeschaltet</string>
   <string name="data_usage_disabled_dialog_enable">Datenverbindung einschalten</string>
