@@ -194,7 +194,6 @@
   <string name="daltonizer_mode_protanomaly">Protanomaly (Rot-Grün)</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomaly (Blau-Gelb)</string>
   <string name="daltonizer_type_overridden">Überschrieben von %1$s</string>
-Wenn Sie die Datenverbindung wieder einschalten, können hohe Kosten entstehen."</string>
   <string name="data_usage_disabled_dialog_3g_title">2G-3G Daten ausgeschaltet</string>
   <string name="data_usage_disabled_dialog_4g_title">4G Daten ausgeschaltet</string>
   <string name="data_usage_disabled_dialog_enable">Datenverbindung einschalten</string>
@@ -510,7 +509,6 @@ Zum Sperren runterwischen"</string>
   <string name="tethering_settings_not_available">Tethering-Einstellungen sind für diesen Benutzer nicht verfügbar</string>
   <string name="title_convert_fbe">Umwandlung in dateibasierte Verschlüsselung</string>
   <string name="title_usb_accessory">USB Zubehör</string>
-  <string name="torch_activity_hint">[icon] Taste im Sperrbildschirm gedrückt halten, um die Lampe zu aktivieren</string>
   <string name="torch_activity_name">Lampe</string>
   <string name="torch_closed">Lampe aus</string>
   <string name="torch_opened">Lampe an</string>
