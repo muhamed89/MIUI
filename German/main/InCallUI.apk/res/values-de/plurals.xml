@@ -4,4 +4,8 @@
         <item quantity="other">%d Anrufe aufgezeichnet.</item>
         <item quantity="one">1 Anruf aufgezeichnet.</item>
     </plurals>
+        <plurals name="livetalk_left_minute">
+        <item quantity="other">%d Minuten vergangen</item>
+        <item quantity="one">%d Minute vergangen</item>
+    </plurals>
 </resources>
