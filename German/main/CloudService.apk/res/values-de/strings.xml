@@ -37,8 +37,6 @@ Um mehr Speicherplatz zu erhalten, besuchen Sie mi.com/micloud."</string>
   <string name="cloud_back_up_button_ok">Sofort Stoppen</string>
   <string name="cloud_back_up_close_info">Berühre zum Sichern.</string>
   <string name="cloud_back_up_dialog_content">"Laufende Sicherung stoppen? Wenn Sie diese jetzt stoppen, können Sie diese Sicherung nicht zur Wiederherstellung benutzen."</string>
-  <string name="cloud_back_up_interval_long">7 Tage</string>
-  <string name="cloud_back_up_interval_short">1 Tag</string>
   <string name="cloud_back_up_network_unavailable">"Konnte nichts entfernen. Verbinden Sie sich mit einem WLAN und versuchen Sie es erneut."</string>
   <string name="cloud_back_up_open_info">"Apps sichern, wenn Sie mit einem WLAN verbunden sind, einmal alle %1$s
 Zuletzt gesichert am %2$s"</string>
@@ -137,6 +135,7 @@ Zuletzt gesichert am %2$s"</string>
   <string name="micloud_all_sub_1_sms_1_intl_sms">"2 Textnachrichten (national und international), um Ihre SIM Karte zu aktivieren. Es können Kosten bei Ihrem Netzbetreiber entstehen. Wenn Sie die Funktion 'Gerät finden' einschalten, wird eine Aktivierungs SMS gesendet, sobald Sie die SIM Karte wechseln."</string>
   <string name="micloud_all_sub_2_intl_sms">"2 internationale Textnachrichten werden gesendet, um Ihre SIM Karte zu aktivieren. Es können Kosten bei Ihrem Netzbetreiber entstehen. Wenn Sie die Funktion 'Gerät finden' einschalten, wird eine Aktivierungs SMS gesendet, sobald Sie die SIM Karte wechseln."</string>
   <string name="micloud_all_sub_2_sms">"2 nationale Textnachrichten werden gesendet, um Ihre SIM Karte zu aktivieren. Es können Kosten bei Ihrem Netzbetreiber entstehen. Wenn Sie die Funktion 'Gerät finden' einschalten, wird eine Aktivierungs SMS gesendet, sobald Sie die SIM Karte wechseln."</string>
+  <string name="micloud_all_sub_2_sms">Es werden 2 reguläre Textnachrichten gesendet um deine SIM-Karte zu aktivieren. Sie werden vom Netzbetreiber in Rechnung gestellt.</string>
   <string name="micloud_all_sub_resend_sms">"Wenn Sie Gerätelokalisierung aktivieren, wird möglicherweise eine Aktivierungs-SMS versendet, nachdem Sie Ihre SIM-Karten gewechselt haben."</string>
   <string name="micloud_battery_low_notification_message">Zum Synchronisieren Aufladegerät verbinden</string>
   <string name="micloud_battery_low_notification_title">Geringer Akkustand</string>
@@ -174,6 +173,7 @@ Zuletzt gesichert am %2$s"</string>
   <string name="micloud_confusion_toast_confirm">Gerät bestätigt</string>
   <string name="micloud_confusion_toast_deny">Melden Sie sich bei Ihrem Mi Konto an</string>
   <string name="micloud_confusion_yes">Ja</string>
+  <string name="micloud_detail_battery_low">Batterie schwach</string>
   <string name="micloud_detail_battery_low_message">Niedriger Akkustand. Laden Sie Ihr Telefon auf und synchronisieren Sie</string>
   <string name="micloud_detail_battery_low_title">Niedriger Akkustand</string>
   <string name="micloud_detail_depend_wifi_message">Verbinden Sie sich mit einem WLAN oder überprüfen Sie die Synchronisationseinstellungen.</string>
@@ -184,9 +184,11 @@ Zuletzt gesichert am %2$s"</string>
   <string name="micloud_detail_force_sync">Jetzt synchronisieren</string>
   <string name="micloud_detail_lastest">Synchronisiert</string>
   <string name="micloud_detail_lastest_with_off">Synchronisiert</string>
+  <string name="micloud_detail_need_charge">Schließen Sie das Ladegerät an, um die Synchronisierung fortzusetzen</string>
   <string name="micloud_detail_not_sync">%d warten auf Synchronisation</string>
   <string name="micloud_detail_not_synced">Nicht synchronisiert</string>
   <string name="micloud_detail_ok">OK</string>
+  <string name="micloud_detail_pause">Sync pausiert</string>
   <string name="micloud_detail_pending">Warten</string>
   <string name="micloud_detail_preference_sync_items">Elemente</string>
   <string name="micloud_detail_query_error">"Synchronisationszustand kann nicht gelesen werden"</string>
@@ -199,6 +201,8 @@ Zuletzt gesichert am %2$s"</string>
   <string name="micloud_detail_wlan">%d warte zum synchronisieren</string>
   <string name="micloud_detail_wlan_contact">%d Kontaktfotos warten auf Synchronisation</string>
   <string name="micloud_detail_wlan_mms">%d MMS warten auf Synchronisation</string>
+  <string name="micloud_dialog_sync_now_positive">Benutze mobile Daten</string>
+  <string name="micloud_dialog_sync_now_title">Zum synchronisieren mit WLAN verbinden</string>
   <string name="micloud_dspt">Verwenden Sie Mi Cloud um Ihre Daten zu synchronisieren, um Ihr Gerät zu finden,</string>
   <string name="micloud_dspt_provision">Verwenden Sie Mi Cloud um Ihre Daten zu synchronisieren, um Ihr Gerät zu finden, und Dinge mit Ihren Freunden zu teilen.</string>
   <string name="micloud_find_device_finish">Fertig</string>
@@ -263,6 +267,7 @@ Berühre den Einstellungsknopf, um mehr Optionen zu sehen"</string>
   <string name="micloud_main_suggest_sync">"Konnte nicht alles synchronisieren"</string>
   <string name="micloud_main_sync_exception">Synchronisationsfehler</string>
   <string name="micloud_main_sync_init">Erhalte Informationen</string>
+  <string name="micloud_main_sync_need_charge">Gerät aufladen</string>
   <string name="micloud_main_sync_now">Jetzt synchronisieren</string>
   <string name="micloud_main_sync_on">Aktivieren</string>
   <string name="micloud_main_sync_on_wifi">WLAN verwenden</string>
