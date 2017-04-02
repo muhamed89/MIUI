@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="action_settings">Einstellungen</string>
+  <string name="app_name">asmsdk</string>
+  <string name="cancel">Abbrechen</string>
+  <string name="click_to_authorize">Autorisieren</string>
+  <string name="finger_image">Fingerabdruck</string>
+  <string name="fingerprint_matched">Übereinstimmung!</string>
+  <string name="fingerprint_mismatched">Keine Ünereinstimmung! Bitte nochmal versuchen.</string>
+  <string name="hello_world">Hello world!</string>
+  <string name="manage_hint">"Kein Fingerabdruck gespeichert! Gehen Sie bitte zu den Einstellungen um Ihren Fingerabdruck einzuspeichern und kommen Sie zurück um sich anzumelden."</string>
+  <string name="manage_ok">Zu Einstellungen gehen</string>
+  <string name="my_app_name">FIDO UAF1.0 ASM</string>
+  <string name="my_description">"Sie können FIDO UAF1.0 AUTHENTICATOR auf Ihrem Android-Gerät einrichten, um die APP zu registrieren. Es ist sicher und bequemer als die Anmeldung mit Ihrem Benutzernamen und Passwort."</string>
+  <string name="my_title_ecdsa">FIDO UAF1.0 AUTHENTICATOR (ECDSA)</string>
+  <string name="my_title_sm2">FIDO UAF1.0 AUTHENTICATOR (SM2)</string>
+  <string name="select_user_title">Benutzer wählen</string>
+  <string name="timeout">Zeit abgelaufen</string>
+  <string name="title_activity_main">MainActivity</string>
+  <string name="toomanyattempts">"Sie haben zu oft versucht!
+Bitte versuchen Sie es später noch einmal."</string>
+  <string name="touch_finger_hint">Bitte berühren Sie mit dem Finger</string>
+  <string name="transaction_confirmation">Transaction Confirmation</string>
+  <string name="unknown_error">Unbekannter Fehler!</string>
+</resources>
