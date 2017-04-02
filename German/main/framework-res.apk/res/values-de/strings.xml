@@ -71,7 +71,6 @@
   <string name="allow">Zulassen</string>
   <string name="allow_button">Erlauben</string>
   <string name="alwaysUse">Immer für diese Aktion verwenden</string>
-  <string name="alwaysUse">Standardmäßig für diese Aktion verwenden.</string>
   <string name="android_preparing_apk">%1$s wird vorbereitet</string>
   <string name="android_start_title">Android wird gestartet…</string>
   <string name="android_system_label">Androidsystem</string>
