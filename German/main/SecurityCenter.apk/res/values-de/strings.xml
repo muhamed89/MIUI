@@ -47,7 +47,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="activity_title_permission_manager">Rechteverwaltung</string>
   <string name="activity_title_permissions_manager">Rechteverwaltung</string>
   <string name="activity_title_power_manager">Akkuverbrauch</string>
-    <string name="activity_title_residual">Rest</string>
+  <string name="activity_title_residual">Rest</string>
   <string name="activity_title_risk">Risiken</string>
   <string name="activity_title_risk_detail">Risiken im Detail</string>
   <string name="activity_title_root_acquired">Rootzugriff erlauben</string>
@@ -57,7 +57,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="activity_title_settings">Einstellungen</string>
   <string name="activity_title_system">System</string>
   <string name="activity_title_trash">Cache</string>
-    <string name="activity_title_uninstall_apps">Apps</string>
+  <string name="activity_title_uninstall_apps">Apps</string>
   <string name="activity_title_virus">Virus</string>
   <string name="activity_title_virus_detail">Virus im Detail</string>
   <string name="activity_title_virus_settings">Einstellungen</string>
@@ -69,6 +69,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="adb_install_reject_notiy">Installatio̱n %s via USB ist nicht erlaubt</string>
   <string name="adb_install_reject_notiy_desc">Sie können die Installation via USB in den Entwickleroptionen erlauben</string>
   <string name="adb_login_xiaomi_account">Erst im Mi Konto anmelden</string>
+  <string name="add_game_notification_summary">Tippen, um Boost Speed zu starten</string>
   <string name="add_miservice_dialog_content">"%s erfordert, dass Sie das MIUI-Serviceframework zu den Ausnahmen hinzufügen. Sie können Benachrichtigungen von MIUI-Systemanwendungen oder Apps von Drittanbietern erhalten."</string>
   <string name="add_miservice_dialog_title">MIUI-Serviceframework</string>
   <string name="add_to_whitelist_button">Datenroamingausnahmen</string>
@@ -124,7 +125,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="app_manager_apps_generatioin">Updates</string>
   <string name="app_manager_apps_generation_summary">Für die neusten Funktionen aktualisieren</string>
   <string name="app_manager_appupdate_remind">Über Updates benachrichtigen</string>
-  <string name="app_manager_bipartition">Dualapps</string>
+  <string name="app_manager_bipartition">Dual-Apps</string>
   <string name="app_manager_card_permission_title">Rechte</string>
   <string name="app_manager_default_close_summary">Kein Standard eingestellt.</string>
   <string name="app_manager_default_open">Standardmässig öffnen</string>

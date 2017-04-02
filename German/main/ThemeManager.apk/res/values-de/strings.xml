@@ -4,10 +4,13 @@
   <string name="account_info">Mi Konto</string>
   <string name="account_name_not_login">Anmelden</string>
   <string name="account_unactivated">Konto nicht aktiviert</string>
+  <string name="ad_app_download_start">Download wird gestartet…</string>
+  <string name="ad_app_is_downloading">Wird heruntergeladen…</string>
   <string name="add_resource_detail_fail">Ressource kann nicht hinzugefügt werden</string>
   <string name="all_resources">Alle</string>
   <string name="all_ringtone_resource">Alle</string>
   <string name="app_name">Themen</string>
+  <string name="apply_default_font_tip">Aktuelle Systemschriftart verwenden?</string>
   <string name="apply_font_btn_exclude">Nicht anwenden</string>
   <string name="apply_font_btn_reboot">Neustarten</string>
   <string name="apply_font_tip">Zum Anwenden der Schriftart ist ein Neustart erforderlich</string>
@@ -344,6 +347,7 @@
   <string name="selected_resource_file_invalid">Ausgewählte Datei fehlerhaft</string>
   <string name="settings">Einstellungen</string>
   <string name="short_ringtone_resource">Kurz</string>
+  <string name="the_picture_is_not_support">Das Bild wird nicht unterstützt</string>
   <string name="the_picture_is_too_small">Das Bild ist zu klein</string>
   <string name="theme_apply_audio_dialog_item_alarm">Alarm</string>
   <string name="theme_apply_audio_dialog_item_notification">Benachrichtigungen</string>
