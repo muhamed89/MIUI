@@ -4,7 +4,6 @@
   <string name="app_name">Suche</string>
   <string name="appindex_description">Funktionen von installierten Apps</string>
   <string name="application_desc">Anwendung</string>
-  <string name="application_desc">Anwendung</string>
   <string name="applications_search_label">Apps</string>
   <string name="baidu_search_url">https://www.google.de/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_input">https://www.google.de/search?q=%s&amp;tn=ins</string>
