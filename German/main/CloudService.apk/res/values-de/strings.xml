@@ -135,7 +135,6 @@ Zuletzt gesichert am %2$s"</string>
   <string name="micloud_all_sub_1_sms_1_intl_sms">"2 Textnachrichten (national und international), um Ihre SIM Karte zu aktivieren. Es können Kosten bei Ihrem Netzbetreiber entstehen. Wenn Sie die Funktion 'Gerät finden' einschalten, wird eine Aktivierungs SMS gesendet, sobald Sie die SIM Karte wechseln."</string>
   <string name="micloud_all_sub_2_intl_sms">"2 internationale Textnachrichten werden gesendet, um Ihre SIM Karte zu aktivieren. Es können Kosten bei Ihrem Netzbetreiber entstehen. Wenn Sie die Funktion 'Gerät finden' einschalten, wird eine Aktivierungs SMS gesendet, sobald Sie die SIM Karte wechseln."</string>
   <string name="micloud_all_sub_2_sms">"2 nationale Textnachrichten werden gesendet, um Ihre SIM Karte zu aktivieren. Es können Kosten bei Ihrem Netzbetreiber entstehen. Wenn Sie die Funktion 'Gerät finden' einschalten, wird eine Aktivierungs SMS gesendet, sobald Sie die SIM Karte wechseln."</string>
-  <string name="micloud_all_sub_2_sms">Es werden 2 reguläre Textnachrichten gesendet um deine SIM-Karte zu aktivieren. Sie werden vom Netzbetreiber in Rechnung gestellt.</string>
   <string name="micloud_all_sub_resend_sms">"Wenn Sie Gerätelokalisierung aktivieren, wird möglicherweise eine Aktivierungs-SMS versendet, nachdem Sie Ihre SIM-Karten gewechselt haben."</string>
   <string name="micloud_battery_low_notification_message">Zum Synchronisieren Aufladegerät verbinden</string>
   <string name="micloud_battery_low_notification_title">Geringer Akkustand</string>
