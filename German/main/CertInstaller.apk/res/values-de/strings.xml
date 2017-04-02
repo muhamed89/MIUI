@@ -24,6 +24,8 @@
   <string name="one_cacrt">ein CA-Zertifikat</string>
   <string name="one_usercrt">ein Benutzerzertifikat</string>
   <string name="one_userkey">ein Benutzerschlüssel</string>
+  <string name="one_wapi_ascrt">ein WAPI AS Zertifikat</string>
+  <string name="one_wapi_usercrt">ein WAPI Benutzer Zertifikat</string>
   <string name="only_primary_user_allowed">Nur der Eigentümer dieses Geräts kann Zertifikate installieren.</string>
   <string name="p12_description">Zertifikate im PKCS12-Keystore</string>
   <string name="password_empty_error">Geben Sie das Passwort ein.</string>
@@ -32,7 +34,6 @@
   <string name="pkcs12_file_password_dialog_title">Zertifikate aus %s extrahieren</string>
   <string name="pkcs12_password_dialog_title">Zertifikat extrahieren</string>
   <string name="sdcard_not_present">USB-Speicher ist nicht vorhanden.</string>
-  <string name="storage_error">Zertifikat konnte nicht gespeichert werden. Zum Wiederholen auf \"OK\" tippen.</string>
   <string name="unable_to_save_cert">Das Zertifikat konnte nicht gespeichert werden. Der Speicher für die Anmeldeinformationen wurde nicht aktiviert oder falsch initialisiert.</string>
   <string name="wifi_cancel_label">Abbrechen</string>
   <string name="wifi_config_text">"Name: %1$s
