@@ -299,7 +299,7 @@ Bitte Ladegerät benutzen."</string>
   <string name="keep_screen_on_summary">Der Bildschirm wird sich beim Laden nicht abschalten</string>
   <string name="kilobyte_per_second">K/s</string>
   <string name="label_view">Anzeigen</string>
-  <string name="launch_defaults_none">Keine Standardeinstellungen festlegen/string>
+  <string name="launch_defaults_none">Keine Standardeinstellungen festlegen</string>
   <string name="launch_defaults_some">Einige Standardwerte einstellen</string>
   <string name="legacy_dhcp_client_summary">Der DHCP-Client von Lollipop verwenden Sie anstelle des neuen Android DHCP-Client.</string>
   <string name="lland">L Land</string>
@@ -508,7 +508,6 @@ Zum Sperren runterwischen"</string>
   <string name="toast_rotation_locked">Bildschirm ist jetzt im landscape Format fixiert.</string>
   <string name="tethering_settings_not_available">Tethering-Einstellungen sind für diesen Benutzer nicht verfügbar</string>
   <string name="title_convert_fbe">Umwandlung in dateibasierte Verschlüsselung</string>
-  <string name="title_usb_accessory">USB Zubehör</string>
   <string name="torch_activity_name">Lampe</string>
   <string name="torch_closed">Lampe aus</string>
   <string name="torch_opened">Lampe an</string>
