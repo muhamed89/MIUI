@@ -163,7 +163,6 @@
   <string name="day_picker_description">Monat als Tagesraster</string>
   <string name="day_view">Tag</string>
   <string name="day_view_new_event_hint">Neuer Termin</string>
-  <string name="default_reminder_mode">Erinnerungen</string>
   <string name="delete_calendar">Abmelden</string>
   <string name="delete_label">Löschen</string>
   <string name="delete_recurring_event_title">%s löschen?</string>
@@ -409,9 +408,6 @@
   <string name="preferences_clear_search_history_summary">"Alle Sucheinträge aus dem Verlauf entfernen"</string>
   <string name="preferences_clear_search_history_title">Suchverlauf löschen</string>
   <string name="preferences_debug_category">Debuggen</string>
-  <string name="preferences_default_allday_reminder_title">Standarderinnerungszeit für ganztägige Ereignisse</string>  
-  <string name="preferences_default_reminder_dialog">Standarderinnerungszeit</string>
-  <string name="preferences_default_reminder_title">Standarderinnerungszeit</string>
   <string name="preferences_experimental_category">Experimentẹll</string>
   <string name="preferences_general_title">Kalenderansicht festlegen</string>
   <string name="preferences_hide_declined_title">Abgelehnte Termine ausblenden</string>

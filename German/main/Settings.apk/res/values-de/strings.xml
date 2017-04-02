@@ -2521,7 +2521,6 @@ Es sind andere Benutzer an diesem System angemeldet.
   <string name="memory_media_usage">Medien</string>
   <string name="memory_music_usage">Audio (Musik, Klingeltöne, Podcasts, usw.)</string>
   <string name="memory_performance">Leistung</string>
-  <string name="memory_rightvalue">Verfügbar: %s</string>
   <string name="memory_settings_title">Speicher</string>
   <string name="memory_size">Gesamtspeicher</string>
   <string name="memory_summary">Durchschn. %1$s von %2$s Speicher verwendet</string>

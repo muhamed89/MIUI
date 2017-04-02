@@ -1338,7 +1338,6 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="pref_add_traffic_pkg">Zusätzlich gekauftes Datenvolumen</string>
   <string name="pref_adjust_data_usage">Anbieter SMS-Vorlage</string>
   <string name="pref_adjust_data_usage_summary">Nachdem Sie die Kalibrierungsvorlage geändert haben, wird MIUI sie verwenden, um Datenverwendungsstatistiken von Ihrem Mobilfunkanbieter zu erhalten</string>
-  <string name="pref_adjust_data_usage_value">Geändert</string>
   <string name="pref_adjust_traffic_data">Datenverbrauch einstellen</string>
   <string name="pref_allow_connect_network_title">Datenroaming</string>
   <string name="pref_allow_connect_network_whitelist_title">Folgende Apps dürfen mobile Daten beim Roaming verwenden</string>
@@ -1378,13 +1377,10 @@ Sie müssen Ihre Akkueinstellungen ändern bevor Sie dieses Profil löschen kön
   <string name="pref_free_traffic_limit_warn">Nebenzeitdatenverbrauchswarnung</string>
   <string name="pref_free_traffic_settings">Nebenzeitatenverbrauchseinstellungen</string>
   <string name="pref_key_daily_package_switch">Tägliches Datenvolumen</string>
-  <string name="pref_key_daily_package_value">Tägliches Datenvolumen</string>
   <string name="pref_key_direction_traffic">Bestimmte mobile Daten</string>
   <string name="pref_key_extra_package_switch">Monatliches extra Datenpaket</string>
-  <string name="pref_key_extra_package_value">Paketgröße</string>
   <string name="pref_key_half_year_package_start">Startdatum</string>
   <string name="pref_key_half_year_package_switch">Haldjähriges Datenpaket</string>
-  <string name="pref_key_half_year_package_value">Paketgröße</string>
   <string name="pref_leisure_no_overlay">Eingeschaltet</string>
   <string name="pref_leisure_not_opened">Ausgeschaltet</string>
   <string name="pref_leisure_traffic_limit">Freies Datenvolumen</string>
