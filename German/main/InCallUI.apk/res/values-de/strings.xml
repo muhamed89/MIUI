@@ -7,6 +7,7 @@
   <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Unbekannte Nummer</string>
   <string name="antispam_provider">Identifiziert von %s</string>
+  <string name="areacode_set_default">Als Standard setzen</string>
   <string name="callFailed_cb_enabled">Sie können keine Anrufe tätigen, wenn die Anrufsperre aktiviert ist.</string>
   <string name="callFailed_congestion">Netzwerk ausgelastet</string>
   <string name="callFailed_dialToDial">DIAL-Anfrage modifiziert, um DIAL mit einer anderen Nummer zu nutzen.</string>
@@ -38,7 +39,6 @@
   <string name="call_contacts_deny_permission_msg">"Kann die Kontaktinfos nicht anzeigen, da Sie den Lesezugriff auf die Kontakte nicht erlaubt haben."</string>
   <string name="call_description_recording">Aufnahme…</string>
   <string name="call_extension_conference_mode">Konferenzmodus</string>
-  <string name="call_record_button_label">Aufnahme %s</string>
   <string name="call_record_wait_label">Warte</string>
   <string name="call_recording_deny_permission_msg">"Kann nicht aufnehmen, da Sie die Aufnahmeberechtigung nicht erteilt haben."</string>
   <string name="call_recording_error_low_storage">Nicht genügend Speicher: SD-Karte ist voll</string>
@@ -77,29 +77,16 @@
   <string name="card_title_video_call_paused">Video wurde angehalten</string>
   <string name="card_title_video_conf_call">Videokonferenz</string>
   <string name="card_video_hold_swap">Tauschen</string>
-  <string name="cb_all_languages">Alle Sprachen</string>
-  <string name="cb_channel_dialog_channel_name">Kanalname (0-10 Zeichen)</string>
-  <string name="cb_channel_dialog_channel_number">Kanalnummer (0-65534)</string>
-  <string name="cb_channel_dialog_channel_state">Kanal aktivieren</string>
-  <string name="cb_channel_dialog_edit_channel">Kanal bearbeiten</string>
   <string name="cb_dialog_title_language_choice">Sprache wählen</string>
-  <string name="cb_error_channel_id_exist">Die Kanal-ID existiert bereits</string>
-  <string name="cb_error_channel_name">Die Länge der Kanalnummer ist ungültig (1-10 Zeichen)</string>
-  <string name="cb_error_channel_num">Bitte geben Sie die Kanalnummer ein (0-65534).</string>
   <string name="cb_error_language_select">Wählen Sie mindestens eine Sprache</string>
-  <string name="cb_menu_add_channel">Kanal hinzufügen</string>
-  <string name="cb_menu_channel_list">Kanalliste</string>
-  <string name="cb_menu_delete">Löschen</string>
-  <string name="cb_menu_edit">Bearbeiten</string>
-  <string name="cb_menu_language">Sprache</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. total %s</string>
   <string name="conference_call_number">%s Leute</string>
   <string name="conference_call_single_description" formatted="false">%s etc. | Gesamt %s</string>
   <string name="conference_caller_info_name">Konferenz %1$s</string>
   <string name="conference_caller_name_me">Ich</string>
   <string name="conference_callers_exceeded">Anrufer in Konferenz überschritten</string>
-  <string name="contactPhoto">Kontaktfoto</string>
   <string name="contacts_icon_label">Kontakte</string>
+  <string name="default_area_code_setting">Standardvorwahl</string>
   <string name="description_image_button_answer">Zum Antworten wischen</string>
   <string name="description_image_button_dialpad">Tastenfeld</string>
   <string name="description_image_button_eight">Acht</string>
@@ -134,6 +121,7 @@
   <string name="incall_call_type_label_sip">Internetanruf</string>
   <string name="incall_error_supp_service_conference">Keine Telefonkonferenz möglich.</string>
   <string name="incall_error_supp_service_hangup">Anrufe können nicht freigegeben werden.</string>
+  <string name="incall_error_supp_service_hold">"Kann nicht anrufen."</string>
   <string name="incall_error_supp_service_reject">Anruf kann nicht abgelehnt werden.</string>
   <string name="incall_error_supp_service_separate">Anruf kann nicht abgelehnt werden.</string>
   <string name="incall_error_supp_service_switch">Wechsel zwischen Anrufen nicht möglich.</string>
@@ -158,7 +146,6 @@
   <string name="keep_wait_call_back">Weiter warten</string>
   <string name="livetalk_dial">Aufladen</string>
   <string name="livetalk_hangup">Auflegen</string>
-  <string name="livetalk_left_minute">%sm übrig</string>
   <string name="manageConferenceLabel">Telefonkonferenz verwalten</string>
   <string name="miprofile_stranger_card">Fremde Karte</string>
   <string name="modify_call_failure_str">"Ändern der Anrufanforderung fehlgeschlagen"</string>
