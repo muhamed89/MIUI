@@ -150,7 +150,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="app_manager_permission">Mit der Privatsphäre verbundende Rechte (letzten 7 Tage)</string>
   <string name="app_manager_permission_call_phone_over">Anrufe 100000+ mal gewählt</string>
   <string name="app_manager_permission_manager_title">Rechte</string>
-  <string name="app_manager_permission_notify_summary">Abzeichen, Schwebende- und Sperrbildschirmbenachrichtigungen</string>
+  <string name="app_manager_permission_notify_summary">Abzeichen und schwebende Sperrbildschirmbenachrichtigungen</string>
   <string name="app_manager_permission_notify_title">Benachrichtigungen</string>
   <string name="app_manager_permission_power_saving_summary">MIUI Energiesparmodus</string>
   <string name="app_manager_permission_power_saving_title">Energiesparmodus</string>
@@ -175,7 +175,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="app_manager_stop_wp_dialog_uninstall">Deinstallieren</string>
   <string name="app_manager_title">Apps verwalten</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Entsprechende Dual-Apps werden zusammen mit den Appdaten gelöscht.</string>
-  <string name="app_manager_uninstall_xspace_app_dlg_msg">Durch Deinstallation der Dual-Apps werden alle Appdaten entfernt.</string>
+  <string name="app_manager_uninstall_xspace_app_dlg_msg">Durch die Deinstallation der Dual-Apps werden alle Appdaten entfernt.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">Dual-App deinstallieren?</string>
   <string name="app_manager_unstall_application">Deinstallieren</string>
   <string name="app_manager_update_label_text">Neu</string>
