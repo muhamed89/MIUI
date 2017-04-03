@@ -150,7 +150,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="app_manager_permission">Mit der Privatsphäre verbundende Rechte (letzten 7 Tage)</string>
   <string name="app_manager_permission_call_phone_over">Anrufe 100000+ mal gewählt</string>
   <string name="app_manager_permission_manager_title">Rechte</string>
-  <string name="app_manager_permission_notify_summary">Abzeichen, schwebende und Sperrbildschirmbenachrichtigungen</string>
+  <string name="app_manager_permission_notify_summary">Abzeichen und schwebende Sperrbildschirmbenachrichtigungen</string>
   <string name="app_manager_permission_notify_title">Benachrichtigungen</string>
   <string name="app_manager_permission_power_saving_summary">MIUI Energiesparmodus</string>
   <string name="app_manager_permission_power_saving_title">Energiesparmodus</string>
