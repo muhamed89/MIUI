@@ -556,7 +556,7 @@
   <string name="enable_fdn">FDN einschalten</string>
   <string name="enable_fdn_ok">FDN ausschalten</string>
   <string name="enable_in_progress">Bitte warten…</string>
-  <string name="enable_pin">SIM-PIN Ein-/ausschalten</string>
+  <string name="enable_pin">SIM-PIN ein-/ausschalten</string>
   <string name="enable_pin_ok">SIM-PIN eingeschaltet</string>
   <string name="enable_proximity_summary">Bildschirm während eines Anrufs ausschalten</string>
   <string name="enable_proximity_title">Näherungssensor</string>
