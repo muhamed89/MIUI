@@ -227,6 +227,8 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="another_migration_already_in_progress">Eine andere Migration wird bereits ausgeführt.</string>
   <string name="anr_record_interval_title">Record ANR intervals</string>
   <string name="anti_spam">Sperrliste</string>
+  <string name="aod_mode_summary">Ständig Uhrzeit, Datum und Nachrichten beim ausgeschalteten Bildschirm anzeigen</string>
+  <string name="aod_mode_title">Ständig-An-Modus</string>
   <string name="apn_auth_type">Authentifizierungstyp</string>
   <string name="apn_auth_type_none">Keine</string>
   <string name="apn_auth_type_pap_chap">PAP oder CHAP</string>
@@ -2092,6 +2094,7 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="key_position_cat">Tastenposition</string>
   <string name="key_settings">Tasten</string>
   <string name="key_settings_title">Tasten</string>
+  <string name="keyboard_layout_default_label">Standard</string>
   <string name="keyboard_layout_dialog_setup_button">Tastaturlayout einrichten</string>
   <string name="keyboard_layout_dialog_switch_hint">Zum Umschalten STRG+Leertaste drücken</string>
   <string name="keyboard_layout_dialog_title">Tastaturlayout ändern</string>
@@ -2881,7 +2884,9 @@ Betriebssystem auswählen:"</string>
   <string name="notif_restore_content">Benutzerdaten werden wiederhergestellt</string>
   <string name="notif_restore_title">Daten wiederherstellen</string>
   <string name="notif_trans_receiving_completed">Daten erfolgreich empfangen</string>
+    <string name="notif_trans_receiving_failed">Daten konnten nicht empfangen werden</string>
   <string name="notif_trans_sending_completed">Daten erfolgreich versandt</string>
+    <string name="notif_trans_sending_failed">Daten konnten nicht gesendet werden</string>
   <string name="notification_app_settings_button">Benachrichtigungseinstellungen</string>
   <string name="notification_breathing_light_color_title">Benachrichtigungsfarbe</string>
   <string name="notification_breathing_light_freq_title">Pulsfrequenz bei Benachrichtigungen </string>
@@ -3378,7 +3383,10 @@ Betriebssystem auswählen:"</string>
   <string name="privacy_password_remind_bindaccont_message">Fügen Sie Ihr Mi Konto (%s) hinzu, um Ihr Passwort rücksetzen zu können, falls Sie es vergessen</string>
   <string name="privacy_password_remind_bindaccount_title">Mi Konto hinzufügen</string>
   <string name="privacy_password_settings">Datenschutzpasswort verwenden</string>
+  <string name="privacy_password_settings_next">Weiter</string>
   <string name="privacy_password_settings_titles">Das Datenschutzpasswort schützt Ihre Nachrichten, Fotos, Dateien, Notizen und Apps</string>
+  <string name="privacy_password_settings_titles_elder_mode">Das Datenschutzpasswort schützt Ihre Fotos, Dateien und Notizen</string>
+  <string name="privacy_password_settings_titles_second_space">Das Datenschutzpasswort schützt Ihre Nachrichten, Fotos und Notizen</string>
   <string name="privacy_password_title">Datenschutzpasswort</string>
   <string name="privacy_password_transparent_tiltle"></string>
   <string name="privacy_password_visible_pattern">Muster anzeigen</string>
@@ -3898,6 +3906,7 @@ Um Screenpinning zu nutzen:
   <string name="search_manage_notification_access_title">Benachrichtigungszugriff</string>
   <string name="search_master_clear_title">Auf Werkseinstellungen zurücksetzen</string>
   <string name="search_menu">Suche</string>
+  <string name="search_menu_title">Suche</string>
   <string name="search_micloud">Synchronisation;Mi Cloud</string>
   <string name="search_music_audio_effect_optimize">Audioeinstellungen</string>
   <string name="search_music_equalizer">Equalizer</string>
@@ -4193,6 +4202,8 @@ Um Screenpinning zu nutzen:
   <string name="show_touches">Berührungen anzeigen</string>
   <string name="show_touches_summary">Visuelles Feedback für Berührungen anzeigen</string>
   <string name="show_user_info_on_lockscreen_label">Benutzerinfos im Sperrbildschirm anzeigen</string>
+  <string name="show_wifi_master_key_summary">Mit geteilten WLAN-Netzwerken über WLAN Master Key verbinden</string>
+  <string name="show_wifi_master_key_title">Geteilte WLAN-Netzwerke erkennen</string>
   <string name="shut_down_find_device_failure_confirm">OK</string>
   <string name="shut_down_find_device_network_failure_content">"Konnte Gerät nicht herunterfahren. Stellen sie sicher, dass das Gerät mit dem Internet verbunden ist."</string>
   <string name="shut_down_find_device_network_failure_title">"Konnte nicht mit dem Internet verbinden"</string>
@@ -4867,6 +4878,7 @@ Bitte bereinigen Sie mindestens %s"</string>
   <string name="turn_off_keyguard_password_alert_title">Einschalten</string>
   <string name="turn_off_keyguard_password_confirm_msg">Sperrbildschirmpasswort deaktivieren?</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Nchdem Sie das Sperrbildschirmpasswort deaktiviert haben, können Sie Ihren Fingerabdruck zum Entsperren nicht mehr verwenden</string>
+    <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">Nachdem Deaktivieren des Passworts, werden gespeicherte Fingerabdrücke gelöscht. Sie werden Ihr Gerät nicht mehr mit dem Fingerabdruck entsperren können.</string>
   <string name="turn_off_radio">Mobilfunkverbindung ausschalten</string>
   <string name="turn_off_security_lock">Sperre ausschalten</string>
   <string name="turn_on_keyguard_password">Sperrbildschirmpasswort aktivieren</string>
@@ -5265,6 +5277,7 @@ Jeder Nutzer kann aktualisierte Appberechtigungen im Namen aller anderen Nutzer 
   <string name="vpn_settings_not_available">VPN-Einstellungen sind für diesen Nutzer nicht verfügbar</string>
   <string name="vpn_set_screen_lock_content">Verwenden Sie eine Bildschirmsperre, um Ihre VPN-Einstellungen zu sichern</string>
   <string name="vpn_set_screen_lock_title">Bildschirmsperre einrichten</string>
+  <string name="vpn_settings_not_available">VPN-Einstellungen sind für diesen Nutzer nicht verfügbar</string>
   <string name="vpn_settings_password">VPN Passwort</string>
   <string name="vpn_settings_summary">VPN-Einstellungen mit dem Sperrbildschirmpasswort schützen</string>
   <string name="vpn_show_options">Erweiterte Optionen anzeigen</string>
@@ -5710,6 +5723,9 @@ Das Einrichten des Telefons kann eine erhöhte Netzwerkaktivität erfordern."</s
   <string name="xiaomi_account">Mi Konto</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
+  <string name="xiaomi_cloud_service_description">Mi Cloud synchronisiert Ihre Kontakte und Fotos, sichert Ihre Apps und Einstellungen und hilft Ihnen Ihr Telefon zu finden.</string>
+  <string name="xiaomi_cloud_service_disabled">Aus</string>
+  <string name="xiaomi_cloud_service_unknown">Unbekannt</string>
   <string name="xiaomi_connect_download_manager_fail">Verbindung mit dem Downloadmanager ist fehlgeschlagen, bitte überprüfen Sie den Downloadmanagerstatus im Appmanagement.</string>
   <string name="xiaomi_external_storage_unavailable">Kein Speicherplatz verfügbar, überprüfen Sie die SD-Karte.</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
