@@ -17,7 +17,7 @@
   <string name="bluetooth_dun_notification_connect_request_ticker">Bluetooth DFÜ-Berechtigungsanfrage</string>
   <string name="bluetooth_dun_notification_connect_request_title">Bluetooth DFÜ-Berechtigung</string>
   <string name="bluetooth_in_airplane_mode">Im Flugmodus</string>
-  <string name="bluetooth_map_settings_app_icon">App Icon</string>
+  <string name="bluetooth_map_settings_app_icon">Appicon</string>
   <string name="bluetooth_map_settings_cancel">Abbrechen</string>
   <string name="bluetooth_map_settings_count">Verfügbare Plätze:</string>
   <string name="bluetooth_map_settings_intro">Wählen Sie die Konten aus, die Sie über Bluetooth freigeben möchten. Sie müssen jedoch weiterhin jedem Zugriff auf die Konten zustimmen, wenn eine Verbindung hergestellt wird.</string>
@@ -28,8 +28,8 @@
   <string name="bluetooth_sap_notif_disconnecting">Warten bis die Verbindung vom Client getrennt wird</string>
   <string name="bluetooth_sap_notif_force_disconnect_button">Trennen erzwingen</string>
   <string name="bluetooth_sap_notif_message">Client zum Trennen auffordern?</string>
-  <string name="bluetooth_sap_notif_ticker">Bluetooth SIM Zugriff</string>
-  <string name="bluetooth_sap_notif_title">Bluetooth SIM Zugriff</string>
+  <string name="bluetooth_sap_notif_ticker">Bluetooth SIM-Zugriff</string>
+  <string name="bluetooth_sap_notif_title">Bluetooth SIM-Zugriff</string>
   <string name="bluetooth_share_file_name">bluetooth_content_share</string>
   <string name="bt_enable_cancel">Abbrechen</string>
   <string name="bt_enable_line1">Damit Sie Bluetooth-Dienste nutzen können, müssen Sie Bluetooth zuerst aktivieren.</string>
@@ -111,7 +111,7 @@
   <string name="permdesc_bluetoothWhitelist">Ermöglicht der App ein Bluetooth-Gerät vorübergehend zur Whitelist hinzuzufügen, sodass es ohne Bestätigung des Nutzers Dateien an dieses Gerät senden kann</string>
   <string name="permlab_bluetoothAvrcpDataManager">Auf avrcp Metadaten zugreifen.</string>
   <string name="permlab_bluetoothShareManager">Auf Downloadmanager zugreifen</string>
-  <string name="permlab_bluetoothWhitelist">Bluetooth-Gerät für Zugriff zur Whitelist hinzufügen</string>
+  <string name="permlab_bluetoothWhitelist">Bluetooth-Gerät für Zugriff zur weissen Liste hinzufügen</string>
   <string name="process"/>
   <string name="sharedUserId"/>
   <string name="start_server">TCP-Server ausführen</string>
