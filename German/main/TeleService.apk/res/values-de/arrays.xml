@@ -35,4 +35,16 @@
         <item>lautlos</item>
         <item>nie</item>
     </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Aus</item>
+        <item>Alle Logpuffer</item>
+        <item>Alle Logpuffer außer Mobilfunk</item>
+        <item>Nur Kernel Logpuffer</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Aus</item>
+        <item>Alle</item>
+        <item>Alle außer Mobilfunk</item>
+        <item>Nur Kernel</item>
+    </string-array>
 </resources>

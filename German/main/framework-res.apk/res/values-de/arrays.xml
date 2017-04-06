@@ -105,6 +105,13 @@
         <item>ICQ</item>
         <item>Jabber</item>
     </string-array>
+    <string-array name="network_switch_type_name">
+        <item>Mobile Daten</item>
+        <item>WLAN</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+    </string-array>
     <string-array name="organizationTypes">
         <item>Geschäftlich</item>
         <item>Andere</item>

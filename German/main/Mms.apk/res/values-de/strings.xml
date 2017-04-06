@@ -404,6 +404,7 @@
   <string name="pref_delivery_ringtone">Benachrichtigungston</string>
   <string name="pref_edit_smsc_address">SMS-Zentrale</string>
   <string name="pref_forward_title">Weiterleiten</string>
+    <string name="pref_hide_verification_code_summary">Einmalpasswörter in Benachrichtigungen am Sperrbildschirm automatisch verbergen</string>
   <string name="pref_key_mx_feedback">Feedback senden</string>
   <string name="pref_message_recovery_introduction_title">Nachrichten wiederherstellen</string>
   <string name="pref_messages_to_save">Anzahl zu speichernder Nachrichten festlegen</string>
@@ -642,6 +643,7 @@
   <string name="title_allow_network_access">Automatisch aktualisieren</string>
   <string name="title_collapse_sp_messages">Anbieternachrichten zusammenführen</string>
   <string name="title_date_type">Nachrichtenzeitstempel</string>
+    <string name="title_hide_verification_code">OTP automatisch verbergen</string>
   <string name="title_recv_red_package">Holen Sie sich ein rotes Paket</string>
   <string name="title_red_package">Immer reich und viel Glück</string>
   <string name="title_send_red_package">Überprüfen Sie das rote Paket</string>

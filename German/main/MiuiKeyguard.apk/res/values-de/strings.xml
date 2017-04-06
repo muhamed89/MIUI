@@ -19,10 +19,12 @@
   <string name="fingerprint_add_text">Die Fingerabdruck-Schnittstelle wurde aktualisiert. Fügen Sie Ihren Fingerabdruck noch einmal hinzu</string>
   <string name="fingerprint_add_title">Fingerabdruck hinzufügen</string>
   <string name="fingerprint_enter_second_psw_msg">Geben Sie nach dem Neustart Ihr Zweitprofilpasswort ein, um die Fingerabdruckerkennung verwenden zu können</string>
+    <string name="fingerprint_enter_second_psw_msg_oldman">Im Lightmodus kann nicht auf das Zweitprofil zugegriffen werden</string>
   <string name="fingerprint_enter_second_psw_title">Zweitprofilpasswort eingeben</string>
   <string name="fingerprint_lockout_msg">Warten Sie eine Minute. Versuchen Sie es danach nochmals, per Fingerabdruck zu entsperren</string>
   <string name="fingerprint_not_identified_msg">Um Ihr Gerät zu entsperren, geben Sie Ihr Passwort ein.</string>
   <string name="fingerprint_not_identified_title">"Fingerabdruck konnte nicht erkannt werden"</string>
+    <string name="fingerprint_try_again_msg">Fingerabruck konnte nicht überprüft werden</string>
   <string name="fingerprint_try_again_text">Erneut versuchen</string>
   <string name="forget_password_string">Kennwort vergessen</string>
   <string name="incorrect_pincode">Falscher PIN-Code</string>
@@ -30,6 +32,7 @@
   <string name="incorrect_pukcode">Falscher PUK-Code</string>
   <string name="incorrect_pukcode_remaining_attempts">Falscher PUK-Code, %d Versuche verbleibend</string>
   <string name="input_password_after_boot_msg">"Sie müssen das Kennwort eingeben, nachdem das Gerät neu gestartet wurde"</string>
+    <string name="input_password_after_boot_msg_must_enter_owner_space">Sie müssen nach dem Neustart des Geräts das Hauptprofil betreten</string>
   <string name="input_password_hint_text">Kennwort eingeben</string>
   <string name="input_pattern_hint_text">Zeichnen Sie Ihr Entsperrmuster</string>
   <string name="input_pin_code">PIN eingeben</string>

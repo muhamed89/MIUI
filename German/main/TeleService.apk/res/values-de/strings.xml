@@ -355,6 +355,18 @@
   <string name="change_password">Sperrkennwort ändern</string>
   <string name="change_pin">SIM-PIN ändern</string>
   <string name="change_pin2">PIN2 ändern</string>
+    <string name="change_pin_cancel_label">Abbrechen</string>
+    <string name="change_pin_confirm_pin_header">PIN bestätigen</string>
+    <string name="change_pin_confirm_pins_dont_match">Die PINs stimmen nicht überein</string>
+    <string name="change_pin_continue_label">Weiter</string>
+    <string name="change_pin_enter_new_pin_header">Neue PIN festlegen</string>
+    <string name="change_pin_enter_new_pin_hint">Die PIN muss %1$d-%2$d Zeichen lang sein.</string>
+    <string name="change_pin_enter_old_pin_header">Alte PIN bestätigen</string>
+    <string name="change_pin_enter_old_pin_hint">PIN für Sprachnachrichten eingeben, um fortzusetzen</string>
+    <string name="change_pin_ok_label">OK</string>
+    <string name="change_pin_succeeded">PIN für Sprachnachrichten aktualisiert</string>
+    <string name="change_pin_system_error">PIN konnte nicht geändert werden</string>
+    <string name="change_pin_title">PIN für Sprachnachrichten ändern</string>
   <string name="china_mobile">China Mobile</string>
   <string name="china_telecom">China Telecom</string>
   <string name="china_unicom">China Unicom</string>
@@ -400,6 +412,7 @@
   <string name="contactUpdateSuccess">SIM-Kontakt erfolgreich aktualisiert</string>
   <string name="contactdeleteFailed">SIM-Kontakt konnte nicht gelöscht werden</string>
   <string name="contactdeleteSuccess">SIM-Kontakt erfolgreich gelöscht</string>
+    <string name="content_description_menu_button">Menü</string>
   <string name="corporate_unlock_failed">SIM Firma Entsperranforderung erfolglos</string>
   <string name="corporate_unlock_success">SIM Firma Entsperranforderung erfolgreich</string>
   <string name="creat_account_error">"Konto konnte nicht erstellt werden. Nochmal versuchen?"</string>
@@ -414,6 +427,10 @@
     <string name="default_areacode">Standardvorwahl</string>
     <string name="default_call_switch_err_msg1">Bevorzugte SIM kann während eines Anrufs nicht geändert werden</string>
     <string name="default_notification_description">Standardsound (%1$s)</string>
+    <string name="default_preference_summary">&lt;Nicht gesetzt&gt;</string>
+    <string name="default_preference_summary_domain_address">&lt;Nicht festgelegt&gt;</string>
+    <string name="default_preference_summary_password">&lt;Nicht festgelegt&gt;</string>
+    <string name="default_preference_summary_username">&lt;Nicht festgelegt&gt;</string>
     <string name="default_sim_setting">Standard-SIM-Einstellungen als:</string>
   <string name="delete">Löschen</string>
   <string name="deleteAllSimEntries">Alle SIM-Kontakte löschen</string>
@@ -443,6 +460,14 @@
     <string name="description_target_decline">Ablehnen</string>
     <string name="description_target_send_sms">SMS Senden</string>
   <string name="description_voicemail_button">Anrufbeantworter</string>
+    <string name="dev_logpersist_clear_warning_message">Wenn das Monitoring mit dem persistenten Logger deaktiviert wird, muss der Logspeicher auf dem Gerät gelöscht werden.</string>
+    <string name="dev_logpersist_clear_warning_title">Logspeicher löschen?</string>
+    <string name="dev_settings_warning_message">Diese Einstellungen sind nur für Entwicklungszwecke gedacht. Sie können Ihr Gerät oder Ihre Apps funktionsuntüchtig machen.</string>
+    <string name="dev_settings_warning_title">Entwickleroptionen erlauben?</string>
+    <string name="development_settings_enable">Entwickleroptionen aktivieren</string>
+    <string name="development_settings_not_available">Entwickleroptionen sind für diesen benutzer nicht verfügbar</string>
+    <string name="development_settings_summary">Optionen für Appentwickler</string>
+    <string name="development_settings_title">Entwickleroptionen</string>
   <string name="dial">Anrufen</string>
   <string name="dial_emergency_empty_error">Anruf nicht möglich. Wählen Sie eine Notrufnummer!</string>
   <string name="dial_emergency_error">Anruf nicht möglich. %s ist keine Notrufnummer!</string>
@@ -571,6 +596,7 @@
   <string name="enhanced_4g_lte_mode_on_failed">VoLTE kann nicht aktiviert werden</string>
   <string name="enhanced_4g_lte_mode_summary">4G-Dienste verwenden, um Sprach- und andere Kommunikations zu verbessern (empfohlen)</string>
   <string name="enhanced_4g_lte_mode_title">Erweiterter 4G-Modus</string>
+    <string name="enhanced_4g_lte_mode_title_variant">Erweiterte Anrufe</string>
   <string name="ensure_info">Ja</string>
   <string name="enterName">Name eingeben:</string>
   <string name="enterNumber">Telefonnummer eingeben:</string>
@@ -684,6 +710,7 @@ Trotzdem auf den neuen Anbieter wechseln?"</string>
   <string name="incall_error_no_phone_number_supplied">Anruf fehlgeschlagen. Kein gültige Nummer eingegeben.</string>
   <string name="incall_error_out_of_service">Mobiles Netzwerk nicht verfügbar</string>
   <string name="incall_error_power_off">Um einen Anruf zu tätigen, schalten Sie den Flugmodus aus</string>
+    <string name="incall_error_promote_wfc">WLAN-Anrufe aktivieren, um Anrufe zu tätigen</string>
   <string name="incall_error_sim_deactive">SIM-Karte inaktiv</string>
   <string name="incall_error_supp_service_conference">Telefonkonferenz nicht möglich</string>
   <string name="incall_error_supp_service_hangup">Gespräch beenden nicht möglich</string>
@@ -1456,6 +1483,8 @@ Ihre SIM-Karte wird nach einem weiteren gescheiterten Versuch gelöscht</string>
   <string name="select_automatically">Automatisch auswählen</string>
   <string name="select_cancel">Abbrechen</string>
   <string name="select_continue">Weiter</string>
+    <string name="select_logpersist_dialog_title">Logpuffer zur permanenten Speicherung auswählen</string>
+    <string name="select_logpersist_title">Logdaten permanent speichern</string>
   <string name="select_ok">OK</string>
   <string name="select_voice_call_sim">Bitte auswählen</string>
   <string name="sendSms">SMS senden</string>
@@ -1700,6 +1729,15 @@ Next period starts in %2$d days (%3$s)"</string>
   <string name="vilte_srvcc_tip">Aus Netzwerkgründen auf Sprachanruf umgeschaltet</string>
   <string name="vm_change_failed">"Die Mailboxnummer konnte nicht geändert werden.
 Falls dieses Problem weiterhin besteht, setzen Sie sich mit Ihrem Mobilfunkanbieter in Verbindung."</string>
+    <string name="vm_change_pin_error_invalid">Die neue PIN enthält ungültige Zeichen</string>
+    <string name="vm_change_pin_error_mismatch">Die alte PIN stimmt nicht</string>
+    <string name="vm_change_pin_error_system_error">PIN kann nicht geändert werden</string>
+    <string name="vm_change_pin_error_too_long">Die neue PIN ist zu lang</string>
+    <string name="vm_change_pin_error_too_short">Die neue PIN ist zu kurz</string>
+    <string name="vm_change_pin_error_too_weak">Die neue PIN ist zu unsicher. Ein sicheres Passwort sollte keine aufeinanderfolgenden Zeichen oder gleiche Zeichen enthalten.</string>
+    <string name="vm_change_pin_new_pin">Neue PIN</string>
+    <string name="vm_change_pin_old_pin">Alte PIN</string>
+    <string name="vm_change_pin_progress_message">Bitte warten</string>
   <string name="vm_changed">Mailboxnummer geändert</string>
     <string name="voice_call">Sprachanruf</string>
     <string name="voice_call_settings">Sprachanrufeinstellungen</string>
@@ -1713,6 +1751,7 @@ Falls dieses Problem weiterhin besteht, setzen Sie sich mit Ihrem Mobilfunkanbie
   <string name="voice_report_unknown_num">Unbekannte Nummer</string>
   <string name="voicemail">Sprachbox</string>
   <string name="voicemail_abbreviated">MB:</string>
+    <string name="voicemail_change_pin_dialog_title">PIN ändern</string>
     <string name="voicemail_default">Mein Mobilfunkanbieter</string>
   <string name="voicemail_lable">Sprachbox (%s)</string>
   <string name="voicemail_notification_ringtone_title">Töne</string>
@@ -1722,6 +1761,7 @@ Falls dieses Problem weiterhin besteht, setzen Sie sich mit Ihrem Mobilfunkanbie
   <string name="voicemail_number_not_set">Nicht festgelegt</string>
   <string name="voicemail_provider">Mailboxdienst</string>
   <string name="voicemail_provider_summary">Mailboxdienst auswählen</string>
+    <string name="voicemail_set_pin_dialog_title">PIN festlegen</string>
   <string name="voicemail_settings">Mailbox Einstellungen</string>
     <string name="voicemail_settings_for">Einstellunen für %s</string>
   <string name="voicemail_settings_number_hint">Mailboxnummer eingeben</string>
@@ -1739,6 +1779,7 @@ Falls dieses Problem weiterhin besteht, setzen Sie sich mit Ihrem Mobilfunkanbie
   <string name="volte_ss_not_available_tips_roaming">Um den Vorgang zu beenden, müssen Sie Roaming auf %s aktivieren..</string>
   <string name="volte_switch_summary">Verwenden Sie VoLTE um die Qualität der Sprach- und Videoanrufe zu verbessern</string>
   <string name="volte_switch_title">VoLTE</string>
+    <string name="vvm_unsupported_message_format">Nicht unterstützer Nachrichtentyp, rufen Sie zum abhören %s an</string>
   <string name="wait_prompt_str">Die folgenden Töne senden?</string>
   <string name="wfc_internet_connection_lost">Internetverbindung unterbrochen</string>
   <string name="wfc_internet_lost_summary">Hoppla! Ihre WLAN-Verbindung ist aktiv, aber die Internetverbindung wurde unterbrochen.

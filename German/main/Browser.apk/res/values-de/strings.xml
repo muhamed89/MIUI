@@ -111,6 +111,7 @@
   <string name="bookmark_title_lable">Titel</string>
   <string name="bookmark_url">URL http://</string>
   <string name="bookmark_url_already_exisit">"Adresse befindet sich bereits in den Lesezeichen"</string>
+    <string name="bookmark_url_can_not_null">Bitte URL eingeben</string>
   <string name="bookmark_url_lable">URL</string>
   <string name="bookmark_url_not_valid">"Diese Adresse ist ungültig."</string>
   <string name="bookmarks_content_is_null">Keine Lesezeichen</string>
