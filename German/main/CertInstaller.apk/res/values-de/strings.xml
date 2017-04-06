@@ -16,7 +16,7 @@
   <string name="install_done_title">Anmeldedaten installiert</string>
   <string name="invalid_cert">Das Zertifikat ist ungültig.</string>
   <string name="n_cacrts">%d CA-Zertifikate</string>
-  <string name="name_char_error">Geben Sie einen Namen ein, der ausschließlich aus Buchstaben und Zahlen besteht.</string>
+  <string name="name_char_error">Geben Sie einen Namen ein der ausschließlich aus Buchstaben und Zahlen besteht.</string>
   <string name="name_credential_dialog_title">Zertifikat benennen</string>
   <string name="name_empty_error">Geben Sie einen Namen ein.</string>
   <string name="no_cert_file_found">Keine Zertifikatsdatei auf USB-Speicher gefunden.</string>
@@ -24,8 +24,8 @@
   <string name="one_cacrt">ein CA-Zertifikat</string>
   <string name="one_usercrt">ein Benutzerzertifikat</string>
   <string name="one_userkey">ein Benutzerschlüssel</string>
-  <string name="one_wapi_ascrt">ein WAPI AS Zertifikat</string>
-  <string name="one_wapi_usercrt">ein WAPI Benutzer Zertifikat</string>
+  <string name="one_wapi_ascrt">ein WAPI-AS-Zertifikat</string>
+  <string name="one_wapi_usercrt">ein WAPI-Benutzerzertifikat</string>
   <string name="only_primary_user_allowed">Nur der Eigentümer dieses Geräts kann Zertifikate installieren.</string>
   <string name="p12_description">Zertifikate im PKCS12-Keystore</string>
   <string name="password_empty_error">Geben Sie das Passwort ein.</string>
@@ -38,7 +38,7 @@
   <string name="wifi_cancel_label">Abbrechen</string>
   <string name="wifi_config_text">"Name: %1$s
   FQDN: %2$s
-  Roaming Konsortium: %3$s
+  Roaming-Konsortium: %3$s
   Bereich: %4$s
   Authentifizierungsmethode: EAP-%5$s
   "</string>
