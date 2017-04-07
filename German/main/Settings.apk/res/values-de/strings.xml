@@ -5277,7 +5277,6 @@ Jeder Nutzer kann aktualisierte Appberechtigungen im Namen aller anderen Nutzer 
   <string name="vpn_settings_not_available">VPN-Einstellungen sind für diesen Nutzer nicht verfügbar</string>
   <string name="vpn_set_screen_lock_content">Verwenden Sie eine Bildschirmsperre, um Ihre VPN-Einstellungen zu sichern</string>
   <string name="vpn_set_screen_lock_title">Bildschirmsperre einrichten</string>
-  <string name="vpn_settings_not_available">VPN-Einstellungen sind für diesen Nutzer nicht verfügbar</string>
   <string name="vpn_settings_password">VPN Passwort</string>
   <string name="vpn_settings_summary">VPN-Einstellungen mit dem Sperrbildschirmpasswort schützen</string>
   <string name="vpn_show_options">Erweiterte Optionen anzeigen</string>
