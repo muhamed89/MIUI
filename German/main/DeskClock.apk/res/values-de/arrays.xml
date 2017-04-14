@@ -68,7 +68,7 @@
         <item>Schlummern</item>
         <item>Beenden</item>
     </string-array>
-	<string-array name="weather_tips_value">
+    <string-array name="weather_tips_value">
         <item>Reduziere die Outdoor-Aktivitäten</item>
         <item>Achte auf die Glätte</item>
         <item>Gewitterwetter, reise vorsichtig</item>
