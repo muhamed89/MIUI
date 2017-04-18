@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="act_find_city_hint">Ort eingeben</string>
-  <string name="act_find_city_hot_title">Hinzufügen</string>
+  <string name="act_find_city_hot_attractions_title">Beliebte Standorte</string>
+  <string name="act_find_city_hot_title">Beliebte Städte</string>
   <string name="act_set_city_find_side">Lokalisieren…</string>
   <string name="act_set_city_find_side_error">"Lokalisierung nicht möglich"</string>
   <string name="act_set_city_swipe_hint">Nach links wischen, um Ort zu löschen</string>

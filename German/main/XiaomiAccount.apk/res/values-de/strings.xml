@@ -30,7 +30,12 @@
   <string name="account_none_binded_secure_phone">Keine Telefonnr.</string>
   <string name="account_none_user_name">Kein</string>
   <string name="account_protection">Kontoschutz</string>
-  <string name="account_security_question">Sicherheitsfrage</string>
+    <string name="account_protection_off">Aus</string>
+    <string name="account_protection_on">An</string>
+    <string name="account_secure_info_pref_title">Kontoinfo</string>
+    <string name="account_security">Kontosicherheit</string>
+    <string name="account_security_info_pref_title">Sicherheitsinfos</string>
+    <string name="account_security_question">Sicherheitsfrage</string>
   <string name="account_settings">Konto</string>
   <string name="account_user_avatar">Profilfoto</string>
   <string name="account_user_avatar_from_album">Foto auswählen</string>
@@ -45,6 +50,7 @@
   <string name="account_user_gender_male">Männlich</string>
   <string name="account_user_id">Mi Konto-ID</string>
   <string name="account_user_income">Einkommen</string>
+    <string name="account_user_info">Benutzerinfo</string>
   <string name="account_user_location">Standort</string>
   <string name="account_user_location_title">Standort auswählen</string>
   <string name="account_user_name">Name</string>
@@ -201,7 +207,8 @@
   <string name="login_instead_reg_with_email">Diese E-Mail verwenden</string>
   <string name="login_title">Bei Ihrem Mi Konto anmelden</string>
   <string name="login_with_email_or_id"><u>Mit E-Mailadresse oder Mi Konto-ID anmelden</u></string>
-  <string name="logout_failed">"Abmeldung fehlgeschlagen"</string>
+    <string name="logout_account">Abmelden</string>
+    <string name="logout_failed">Abmelden fehlgeschlagen</string>
   <string name="mi_account_dspt_provision">"Mit einem Konto an der Mi Cloud, dem MIUI Themenstore und weiteren Mi-Diensten anmelden."</string>
   <string name="mi_account_identity_title">Überprüfen Sie Ihre Identität</string>
   <string name="mi_family">Mi Home</string>
@@ -222,13 +229,20 @@
   <string name="micloud_sync_state_synced">Synchronisiert</string>
   <string name="micloud_sync_state_syncing">Synchronisiere</string>
   <string name="mili_center">Mi Credits</string>
-  <string name="mipay_center">Mi Wallet</string>
-  <string name="miui_provision_find_status_text">Dieses Gerät ist bereits mit einem Mi Konto verknüpft (%1$s), zum Überprüfen Passwort eingeben.
+    <string name="mipay">Pay</string>
+    <string name="mipay_balance">Kontostand</string>
+    <string name="mipay_bank_card">Bankkarte</string>
+    <string name="mipay_center">Mi Wallet</string>
+    <string name="mipay_identity">Identität</string>
+    <string name="mipay_others">Andere</string>
+    <string name="mipay_transit_card">Transitkarte</string>
+    <string name="miui_provision_find_status_text">Dieses Gerät ist bereits mit einem Mi Konto verknüpft (%1$s), zum Überprüfen Passwort eingeben.
 (Entsperrnummer: %2$s)</string>
   <string name="multi_user_not_show_sync_activity_message_1">Sieht so aus, als verwenden Sie Ihr Hauptprofil Mi Konto</string>
   <string name="multi_user_not_show_sync_activity_message_2">In diesem Fall werden alle Daten mit Ihrem Zweitprofil synchronisiert. Um dies zu vermeiden, deaktivieren Sie die Synchronisation mit Mi Cloud</string>
   <string name="multi_user_not_show_sync_activity_title">Schalten Sie die Syncchronisation mit Mi Cloud nicht ein</string>
   <string name="my_device_title">Aktuelles Gerät</string>
+    <string name="my_favorite">Mein Favorit</string>
   <string name="next">Weiter</string>
   <string name="no_network_btn">Aktualisieren</string>
   <string name="no_network_title">Keine Netzwerkverbindung</string>
@@ -475,7 +489,11 @@
   <string name="search_account_protection_desc">Kontoschutz</string>
   <string name="search_account_protection_key_words">Kontoschutz</string>
   <string name="search_account_protection_path">Mi Konto/Kontoschutz,Einstellungen/Mi Konto/Kontoschutz</string>
-  <string name="search_app_name">Mi Konto</string>
+    <string name="search_account_security">Kontosicherheit</string>
+    <string name="search_account_security_desc">Kontoeinstellungen</string>
+    <string name="search_account_security_key_words">Ändern Telefon,Ändern E-Mail,Kontoschutz,Konten,Sina Weibo,QQ,Autorisation,Geräte</string>
+    <string name="search_account_security_path">Einstellungen/Mi Konto/Kontoeinstellungen</string>
+    <string name="search_app_name">Mi Konto</string>
   <string name="search_bind_Account">Konten</string>
   <string name="search_bind_Account_desc">Konten</string>
   <string name="search_bind_Account_key_words">Konten,Sina Weibo,QQ,Autorisation</string>
@@ -553,6 +571,8 @@ Stellen Sie sicher, dass Sie sich die Antworten auf diese Fragen merken."</strin
   <string name="verify">Bestätige</string>
   <string name="verify_phone_prompt">zu verifizierende Nummer wählen</string>
   <string name="verify_phone_title">Telefonnummer verifizieren</string>
+    <string name="vip_account_settings">VIP-Einstellungen</string>
+    <string name="vip_more_info">Weitere VIP-Infos</string>
   <string name="wipe_data_dialog_msg">%s wird nach dem Fortfahren gelöscht</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Einige Daten wurden nicht synchronisiert</string>

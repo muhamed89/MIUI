@@ -2783,6 +2783,7 @@ Betriebssystem auswählen:"</string>
   <string name="music_mi_effect_summary">Mi Klangverbesserung bei Kopfhörer verwenden</string>
   <string name="music_mi_effect_title">Mi Klangverbesserung</string>
   <string name="music_title_dolby_control">Dolby-Digital Plus</string>
+    <string name="music_unsupport_effect_summary">USB-Kopfhörer werden nicht unterstützt</string>
   <string name="musicfx_title">Musikeffekte</string>
   <string name="mvno_match_data">MVNO-Wert</string>
   <string name="mvno_type">MVNO-Typ</string>
@@ -3012,6 +3013,7 @@ Betriebssystem auswählen:"</string>
   <string name="page_layout_page2_title">Vorschau</string>
   <string name="page_layout_small_title">Extra Klein</string>
   <string name="page_loading">Einen Moment…</string>
+    <string name="palm_enabled">Den Bildschirm abdecken, um ihn auszuschalten </string>
   <string name="paper_mode_end_time_title">Endzeit</string>
   <string name="paper_mode_start_time_title">Startzeit</string>
   <string name="passpoint_content">%1$s Zugangsdaten</string>
@@ -4604,6 +4606,7 @@ Erwägen Sie die Verwendung eines schnelleren ^1 für bessere Leistung."</string
   <string name="summary_range_verbal_combination">%1$s bis %2$s</string>
   <string name="supl_not_set">&lt;Nicht festgelegt&gt;</string>
   <string name="supplicant_state_label">Supplikantstatus:</string>
+    <string name="suspend_gesture_enabled">Telefon umdrehen, um den Bildschirm auszuschalten</string>
   <string name="suspension_ball_enable">Schnellball-Verknüpfung</string>
   <string name="suspension_ball_enable_desc">Schalten Sie Schnellball an und aus, um die Verknüpfung benutzen zu können</string>
   <string name="suw_back_button_label">Zurück</string>
