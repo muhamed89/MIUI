@@ -34,7 +34,9 @@
   <string name="apk_status_uninstalled">Nicht Installiert</string>
   <string name="app_install_tips_go_to">Jetzt starten</string>
   <string name="app_install_tips_install_success">%1$s erfolgreich installiert</string>
-  <string name="app_name">Cheetah Mobile CleanMaster SDK</string>
+  <string name="app_name">Werbung Engine</string>
+  <string name="app_usage_never">Vor kurzem nicht benutzt</string>
+  <string name="app_usage_recently">verwendet vor kurzem</string>
   <string name="apps_sort_type_item_size">Größe</string>
   <string name="apps_sort_type_item_time">Häufig verwendet</string>
   <string name="apps_sort_type_title">Sortierung</string>
@@ -179,6 +181,7 @@
   <string name="empty_title_residual">Keine Reste gefunden</string>
   <string name="empty_title_video">Keine Videos zum Löschen​</string>
   <string name="file">Dateien</string>
+  <string name="file_not_found">Datei wurde nicht gefunden</string>
   <string name="flow_rank_title">Datenverbrauch</string>
   <string name="function_app_lock_title">%d Apps stellen ein Datenschutzrisiko dar​</string>
   <string name="garbage_clean_detail">Details</string>
@@ -276,8 +279,15 @@
   <string name="low_memory_warning_dialog_msg">Zu wenig Speicherplatz, Sie müssen zuerst Speicherplatz freimachen</string>
   <string name="low_memory_warning_dialog_ok_button">Los und bereinigen</string>
   <string name="low_memory_warning_dialog_title">Zu wenig freier Speicher</string>
+  <string name="main_title_filesize">%1$s Müll</string>
   <string name="mainbtn_text_quick_cleanup">%s bereinigen</string>
+  <string name="mainbtn_text_quick_cleanup_default">Säubern</string>
+  <string name="megabyteShort">MB</string>
   <string name="memeory_check_content">%1$d Apps, Speicher %2$s</string>
+  <string name="menu_add_to_white_list">Hinzufügen zu Ausnahmen</string>
+  <string name="menu_clear">Sauber</string>
+  <string name="menu_install">Installiere diese App</string>
+  <string name="menu_view">Ansicht im Ordner</string>
   <string name="month_day_format">dd. MMM</string>
   <string name="msg_cleanup_db_update_checking">Suche Updates…</string>
   <string name="msg_cleanup_db_update_time_unknown">Aktualisiert auf: Unbekannt</string>
@@ -388,6 +398,7 @@
   <string name="start_install">Jetzt installieren</string>
   <string name="summary_auto_cleaner">System automatisch alle 3 Tage bereinigen?</string>
   <string name="summary_delete_apk">Ausgewähle APKs dauerhaft löschen?</string>
+  <string name="summary_delete_cache">Cache löschen der markierten App?</string>
   <string name="summary_delete_cache">"Alle Daten dieser App werden dauerhaft gelöscht (inklusive aller Dateien, Einstellungen, und Konten)."</string>
   <string name="summary_delete_large_file">"Einige große Dateien können nützlich sein, wenn Sie keine Internetverbindung haben (z. B. Karten, Zeitpläne, usw.). Stellen Sie sicher, dass Sie diese Dateien nicht benötigen."</string>
   <string name="summary_delete_video">Ausgewählte Videos dauerhaft löschen?</string>
@@ -447,6 +458,7 @@
   <string name="unlike">Nein Danke</string>
   <string name="update_date_format">dd.MM.yyyy</string>
   <string name="virus_scan">Virenscan</string>
+  <string name="wechat_add_to_cleanlist">Erfolgreich gereinigt</string>
   <string name="wechat_cache_files">WeChat Cache</string>
   <string name="wechat_chat_clean_done">Alles sieht gut aus</string>
   <string name="wechat_chat_data_type_cache">WeChat Cache</string>
