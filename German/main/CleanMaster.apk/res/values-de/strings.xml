@@ -399,7 +399,6 @@
   <string name="summary_auto_cleaner">System automatisch alle 3 Tage bereinigen?</string>
   <string name="summary_delete_apk">Ausgewähle APKs dauerhaft löschen?</string>
   <string name="summary_delete_cache">Cache löschen der markierten App?</string>
-  <string name="summary_delete_cache">"Alle Daten dieser App werden dauerhaft gelöscht (inklusive aller Dateien, Einstellungen, und Konten)."</string>
   <string name="summary_delete_large_file">"Einige große Dateien können nützlich sein, wenn Sie keine Internetverbindung haben (z. B. Karten, Zeitpläne, usw.). Stellen Sie sicher, dass Sie diese Dateien nicht benötigen."</string>
   <string name="summary_delete_video">Ausgewählte Videos dauerhaft löschen?</string>
   <string name="summary_optimizer">"Diese Funktion lädt Ordnernamen in Cheetah Mobile's Onlinedatenbank hoch und benötigt dafür Ihre Geräte-ID."</string>
