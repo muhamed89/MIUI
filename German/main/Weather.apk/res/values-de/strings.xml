@@ -168,7 +168,6 @@ nach unten ziehen, um zu aktialisieren oder überprüfen Sie die Netzwerkeinstel
   <string name="precipitation_degree_one">kein Regen</string>
   <string name="precipitation_degree_three">mäßig</string>
   <string name="precipitation_degree_two">leicht</string>
-   <string name="pressure_connect">%1$s mb</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="realtime_aqi_title">Luftqualität</string>
   <string name="realtime_humidity_title">Relative Luftfeuchte</string>
