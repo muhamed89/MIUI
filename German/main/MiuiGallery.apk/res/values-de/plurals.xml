@@ -284,4 +284,52 @@
         <item quantity="other">%1$d neue Fotos</item>
         <item quantity="one">Ein neues Foto</item>
      </plurals>
+          <plurals name="backuping_desc_gprs">
+        <item quantity="other">%1$d Fotos und Videos | %2$s</item>
+        <item quantity="one">%1$d Foto oder Video | %2$s</item>
+     </plurals>
+     <plurals name="backuping_desc_normal">
+        <item quantity="other">%1$d Fotos und Videos</item>
+        <item quantity="one">%1$d Foto oder Video</item>
+     </plurals>
+     <plurals name="cloud_storage_photo_num">
+        <item quantity="other">%d Fotos</item>
+        <item quantity="one">%d Foto</item>
+     </plurals>
+     <plurals name="cloud_storage_video_num">
+        <item quantity="other">%d Videos</item>
+        <item quantity="one">%d Cideo</item>
+     </plurals>
+     <plurals name="face_count">
+        <item quantity="other">Total %d Fotos</item>
+        <item quantity="one">Total %d Foto</item>
+     </plurals>
+     <plurals name="file_count_format">
+        <item quantity="other">Insgesamt %1$d Elemente</item>
+        <item quantity="one">Insgesamt %1$d Element</item>
+     </plurals>
+     <plurals name="number_of_images_synced">
+        <item quantity="other">%1$d Fotos</item>
+        <item quantity="one">1 Foto</item>
+     </plurals>
+     <plurals name="number_of_videos_synced">
+        <item quantity="other">%1$d Videos</item>
+        <item quantity="one">1 Video</item>
+     </plurals>
+     <plurals name="quickly_discovery_message_format">
+        <item quantity="other">Found %1$d new photos</item>
+        <item quantity="one">Found a new photo</item>
+     </plurals>
+     <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">Insgesamt %d Fotos</item>
+        <item quantity="one">Insgesamt %d Foto</item>
+     </plurals>
+     <plurals name="sync_error_title">
+        <item quantity="other">%d Fotos und Videos wurde nicht gesichert</item>
+        <item quantity="one">%d Foto oder Video wurde nicht gesichert</item>
+     </plurals>
+     <plurals name="sync_total_count">
+        <item quantity="other">%d Elemente</item>
+        <item quantity="one">%d Element</item>
+     </plurals>
 </resources>
