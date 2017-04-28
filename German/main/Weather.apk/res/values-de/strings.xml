@@ -142,7 +142,7 @@ nach unten ziehen, um zu aktialisieren oder überprüfen Sie die Netzwerkeinstel
   <string name="location_tag">Lokalisieren</string>
   <string name="menu_add_city">Neuer Ort</string>
   <string name="menu_location">Orte</string>
-  <string name="menu_minute_rain">Zweistündige Regenvorhersage</string>
+  <string name="menu_minute_rain">Zweistündliche Regenvorhersage</string>
   <string name="minute_rain_after_an_hour">Eine Stunde später</string>
   <string name="minute_rain_after_two_hour">Zwei Stunden später</string>
   <string name="minute_rain_feedback_subtitle">Teilen Sie uns das aktuelle Wetter mit</string>
