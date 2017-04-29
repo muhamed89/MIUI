@@ -35,12 +35,76 @@
         <item quantity="other">+%d</item>
         <item quantity="one">+1</item>
     </plurals>
-    <plurals name="Nevents">
-        <item quantity="other">%d Termine</item>
-        <item quantity="one">1 Termin</item>
+    <plurals name="Ndays_ago_at">
+        <item quantity="other">vor %1$d Tagen um %2$s</item>
+        <item quantity="one">vor %1$d Tag um %2$s</item>
+    </plurals>
+    <plurals name="Ndays_after_at">
+        <item quantity="other">In %1$d Tagen um %2$s</item>
+        <item quantity="one">In %1$d Tag um %2$s</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">vor %d Wochen</item>
+        <item quantity="one">vor %d Woche</item>
+    </plurals>
+    <plurals name="anniversary_notify_title">
+        <item quantity="other">Anniversary: %2$d Jahre seit %1$s</item>
+        <item quantity="one">Anniversary: %2$d Jahr seit %1$s</item>
+    </plurals>
+    <plurals name="anniversary_notify_before_3_day_title">
+        <item quantity="other">Anniversary: %2$d Jahre seit %1$s in 3 Tagen</item>
+        <item quantity="one">Anniversary: %2$d Jahr seit %1$s in 3 Tagen</item>
+    </plurals>
+    <plurals name="birthday_notification_age_term">
+        <item quantity="other">%1$s-year-old</item>
+        <item quantity="one">%1$s-year-old</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_day_multiple">
+        <item quantity="other">%1$d Tage</item>
+        <item quantity="one">%1$d Tag</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_week_multiple">
+        <item quantity="other">%1$d Wochen</item>
+        <item quantity="one">%1$d Woche</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_month_multiple">
+        <item quantity="other">%1$d Monate</item>
+        <item quantity="one">%1$d Monat</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_year_multiple">
+        <item quantity="other">%1$d Jahre</item>
+        <item quantity="one">%1$d Jahr</item>
     </plurals>
     <plurals name="N_remaining_events">
         <item quantity="other">+%d Termine</item>
         <item quantity="one">+1 Termin</item>
+    </plurals>
+    <plurals name="anniversary_day">
+        <item quantity="other">%1$sTage</item>
+        <item quantity="one">%1$sTag</item>
+    </plurals>
+    <plurals name="countdown_day">
+        <item quantity="other">vor %1$sTagen</item>
+        <item quantity="one">vor %1$sTag</item>
+    </plurals>
+    <plurals name="work_days">
+        <item quantity="other">%d Arbeitstage</item>
+        <item quantity="one">%d Arbeitstag</item>
+    </plurals>
+    <plurals name="date_calculate_direction_forward">
+        <item quantity="other">vor %1$d Tagen</item>
+        <item quantity="one">vor %1$d Tag</item>
+    </plurals>
+    <plurals name="date_calculate_direction_backward">
+        <item quantity="other">%1$d Tage danach</item>
+        <item quantity="one">%1$d Tag danach</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">%1$d Tage vorher</item>
+        <item quantity="one">%1$d Tag vorher</item>
+    </plurals>
+    <plurals name="date_calculate_days_after">
+        <item quantity="other">%1$d Tage danach</item>
+        <item quantity="one">%1$d Tag danach</item>
     </plurals>
 </resources>
