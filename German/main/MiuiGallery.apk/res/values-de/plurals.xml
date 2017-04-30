@@ -316,10 +316,6 @@
         <item quantity="other">%1$d Videos</item>
         <item quantity="one">1 Video</item>
      </plurals>
-     <plurals name="quickly_discovery_message_format">
-        <item quantity="other">Found %1$d new photos</item>
-        <item quantity="one">Found a new photo</item>
-     </plurals>
      <plurals name="remind_face_recommend_confirm_text">
         <item quantity="other">Insgesamt %d Fotos</item>
         <item quantity="one">Insgesamt %d Foto</item>
