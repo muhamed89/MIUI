@@ -581,7 +581,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
     <string name="uninstall_failed_device_policy_manager">"Deinstallation nicht möglich: Dieses Paket ist ein aktiver Geräteadministrator."</string>
     <string name="uninstall_failed_device_policy_manager_of_user">"Deinstallation nicht möglich, Paket ist ein aktiver Geräteadministrator für %1$s."</string>
     <string name="uninstall_failed_msg">"%1$s konnte nicht deinstalliert werden."</string>
-    <string name="uninstall_failed_retained_app_msg">This app has been modified and can&apos;t be uninstalled in its current form.</string>
+    <string name="uninstall_failed_retained_app_msg">Diese App wurde modifiziert unb kann in dieser Form nicht deinstalliert werden</string>
     <string name="uninstall_update_text">Möchten Sie diese App durch die Werksversion ersetzen?</string>
     <string name="uninstall_update_text_multiuser">Replace this app with the factory version? All data will be removed. This affects all users of this device, including those with work profiles.</string>
     <string name="uninstall_update_title">Update deinstallieren</string>
