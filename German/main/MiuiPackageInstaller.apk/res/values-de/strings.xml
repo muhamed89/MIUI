@@ -158,10 +158,6 @@ Möchten Sie dies jetzt und in Zukunft zulassen?"</string>
     <string name="connected_via_passpoint">Connected via %1$s</string>
     <string name="connected_via_wfa">Connected via Wi‑Fi assistant</string>
     <string name="content_description_menu_button">Menu</string>
-    <string name="convert_to_fbe_warning">Convert data partition to file based encryption.
- !!Warning!! This will erase all your data.
- This feature is alpha, and may not work correctly.
- Press &apos;Wipe and convert…&apos; to continue.</string>
     <string name="convert_to_file_encryption">Convert to file encryption</string>
     <string name="convert_to_file_encryption_done">Already file encrypted</string>
     <string name="convert_to_file_encryption_enabled">Convert…</string>
@@ -211,7 +207,7 @@ Möchten Sie dies jetzt und in Zukunft zulassen?"</string>
 Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
     <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) wird die derzeit installierte Version (%3$s) ersetzen. Existierende App Daten bleiben erhalten.</string>
     <string name="dlg_app_replacement_title">App ersetzen?</string>
-    <string name="dlg_appstore_notice">We can&apos;t verify the authenticity or security of apps from sources outside the &lt;u&gt;&lt;font color=#91c727&gt;App Store&lt;/font&gt;&lt;/u&gt;.</string>
+    <string name="dlg_appstore_notice">Wir können die Echtheit oder Sicherheit von Apps aus anderen Quellen als dem <u>App Store</u> nicht überprüfen.</string>
     <string name="dlg_ok">OK</string>
     <string name="dlg_sys_app_replacement_statement">"Dies ist eine Systemanwendung.
 Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
@@ -241,8 +237,8 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
     <string name="grant_confirm_question">Möchten Sie die folgenden Berechtigungen gewähren? Diese ermöglichen den Zugriff auf Folgendes:</string>
     <string name="grant_dialog_button_allow">Zulassen</string>
     <string name="grant_dialog_button_deny">Verweigern</string>
-    <string name="grant_dialog_button_deny_anyway">Deny anyway</string>
-    <string name="grant_dialog_button_deny_dont_ask_again">Deny and don&apos;t ask again</string>
+    <string name="grant_dialog_button_deny_anyway">Trotzdem verweigern</string>
+    <string name="grant_dialog_button_deny_dont_ask_again">Verweigern und nicht mehr nachfragen</string>
     <string name="grant_dialog_how_to_change">You can change this later in Settings &gt; Apps</string>
     <string name="hdcp_checking_dialog_title">Set HDCP checking behavior</string>
     <string name="hdcp_checking_title">HDCP checking</string>
@@ -268,7 +264,7 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
     <string name="install_failed_conflict">The package conflicts with an existing package by the same name.</string>
     <string name="install_failed_cpu_abi_incompatible">"Diese App ist mit Ihrem Telefon nicht kompatibel."</string>
     <string name="install_failed_file_not_found">Das angegebene Paket wurde gelöscht, bevor die Installation abgeschlossen werden konnte.</string>
-    <string name="install_failed_incompatible">This app isn&apos;t compatible with your phone.</string>
+    <string name="install_failed_incompatible">Diese App ist mit Ihrem Gerät nicht kompatibel</string>
     <string name="install_failed_inconsistent_certificates">Ein Paket mit dem gleichen Namen, aber in Konflikt stehender Signatur, ist bereits installiert.</string>
     <string name="install_failed_invalid_apk">Das Paket ist offenbar beschädigt.</string>
     <string name="install_failed_msg">"%1$s konnte nicht auf Ihrem Telefon installiert werden."</string>
@@ -636,12 +632,12 @@ Alle Ihre bisherigen Benutzerdaten werden gespeichert."</string>
     <string name="wifi_display_certification_summary">Show options for wireless display certification</string>
     <string name="wifi_dns1_hint">8.8.8.8</string>
     <string name="wifi_dns2_hint">8.8.4.4</string>
-    <string name="wifi_fail_to_scan">Can&apos;t scan for networks</string>
+    <string name="wifi_fail_to_scan">Scan nicht möglich</string>
     <string name="wifi_gateway_hint">192.168.1.1</string>
     <string name="wifi_ip_address_hint">192.168.1.128</string>
     <string name="wifi_network_prefix_length_hint">24</string>
-    <string name="wifi_no_internet">No Internet Access Detected, won&apos;t automatically reconnect.</string>
-    <string name="wifi_no_internet_no_reconnect">No Internet Access Detected, won&apos;t automatically reconnect.</string>
+    <string name="wifi_no_internet">Keine Internetverbindung</string>
+    <string name="wifi_no_internet_no_reconnect">Keine Internetverbindung</string>
     <string name="wifi_not_in_range">Not in range</string>
     <string name="wifi_remembered">Saved</string>
     <string name="wifi_security_eap">802.1x EAP</string>
