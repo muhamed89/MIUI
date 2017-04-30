@@ -68,14 +68,4 @@
         <item>Schlummern</item>
         <item>Beenden</item>
     </string-array>
-    <string-array name="weather_tips_value">
-        <item>Reduziere die Outdoor-Aktivitäten</item>
-        <item>Achte auf die Glätte</item>
-        <item>Gewitterwetter, reise vorsichtig</item>
-        <item>Nebelwetter, trage Schutz</item>
-        <item>Nimm einen Regenschirm beim ausgehen</item>
-        <item>Augen auf der Straße auf</item>
-        <item>Feinstaubwetter, trage Schutz</item>
-        <item>Wünsche einen wundervollen Tag</item>
-    </string-array>
 </resources>
