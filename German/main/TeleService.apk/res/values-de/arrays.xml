@@ -30,11 +30,6 @@
         <item>Nur zu Hause</item>
         <item>Automatisch</item>
     </string-array>
-    <string-array name="voicemail_notification_vibrate_when_values">
-        <item>immer</item>
-        <item>lautlos</item>
-        <item>nie</item>
-    </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Aus</item>
         <item>Alle Logpuffer</item>
