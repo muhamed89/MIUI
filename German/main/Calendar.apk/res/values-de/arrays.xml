@@ -269,4 +269,20 @@
         <item>männlich</item>
         <item>weiblich</item>
     </string-array>
+    <string-array name="default_reminder_labels">
+        <item>Zum Termin</item>
+        <item>5 Minuten vorher</item>
+        <item>10 Minuten vorher</item>
+        <item>15 Minuten vorher</item>
+        <item>30 Minuten vorher</item>
+        <item>1 Stunde vorher</item>
+        <item>1 Tag vorher</item>
+        <item>2 Tage vorher</item>
+        <item>1 Woche vorher</item>
+     </string-array>
+    <string-array name="repeat_countdown">
+        <item>Nie</item>
+        <item>Monatlich</item>
+        <item>Jährlich</item>
+     </string-array>
 </resources>
