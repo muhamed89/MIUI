@@ -44,12 +44,12 @@
         <item quantity="one">In %1$d Tag um %2$s</item>
     </plurals>
     <plurals name="anniversary_notify_title">
-        <item quantity="other">Anniversary: %2$d Jahre seit %1$s</item>
-        <item quantity="one">Anniversary: %2$d Jahr seit %1$s</item>
+        <item quantity="other">Jahrestag: %2$d Jahre seit %1$s</item>
+        <item quantity="one">Jahrestag: %2$d Jahr seit %1$s</item>
     </plurals>
     <plurals name="anniversary_notify_before_3_day_title">
-        <item quantity="other">Anniversary: %2$d Jahre seit %1$s in 3 Tagen</item>
-        <item quantity="one">Anniversary: %2$d Jahr seit %1$s in 3 Tagen</item>
+        <item quantity="other">Jahrestag: %2$d Jahre seit %1$s in 3 Tagen</item>
+        <item quantity="one">Jahrestag: %2$d Jahr seit %1$s in 3 Tagen</item>
     </plurals>
     <plurals name="birthday_notification_age_term">
         <item quantity="other">%1$sten</item>
@@ -76,8 +76,8 @@
         <item quantity="one">+1 Termin</item>
     </plurals>
     <plurals name="anniversary_day">
-        <item quantity="other">%1$sTage</item>
-        <item quantity="one">%1$sTag</item>
+        <item quantity="other">%1$s Tage</item>
+        <item quantity="one">%1$s Tag</item>
     </plurals>
     <plurals name="countdown_day">
         <item quantity="other">vor %1$sTagen</item>
@@ -103,4 +103,8 @@
         <item quantity="other">%1$d Tage danach</item>
         <item quantity="one">%1$d Tag danach</item>
     </plurals>
+         <plurals name="anniversary_year">
+        <item quantity="other">%1$s Jahre</item>
+        <item quantity="one">%1$s Jahr</item>
+     </plurals>
 </resources>
