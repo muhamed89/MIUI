@@ -2315,6 +2315,7 @@ Der verbleibende Datenverbrauch beinhalten auch jenen Verbrauch, welcher in dem 
   <string name="usbsharenet_exception_title">USB-Internetfreigabe testen</string>
   <string name="usbsharenet_pc_exception_summary">Es kann keine Internetverbindung über die geteilte Verbindung hergestellt werden. Überprüfen Sie die Internetverbindung des Computers.</string>
   <string name="use_immediately">Verwenden</string>
+    <string name="user_define_title">Regeln hinzufügen</string>
   <string name="virus_ad_icon_text">Ad</string>
   <string name="virus_already_update">Definitionen sind aktuell</string>
   <string name="virus_dp_update_title">Definitionen aktualisieren</string>
@@ -2330,6 +2331,7 @@ Der verbleibende Datenverbrauch beinhalten auch jenen Verbrauch, welcher in dem 
   <string name="warning_open_mi_sim">Aktivieren Sie Mi SIM</string>
   <string name="white_list_risk_app_header">Gefährliche Apps: %d</string>
   <string name="white_list_trojan_header">Trojaner: %d</string>
+    <string name="whitelist_prefix_add_hint">Alle Nummern mit Vorwahl zur Ausnahmeliste hinzufügen</string>
   <string name="wifi_exception_summary">Teste verfügbare WLAN-Netzwerke</string>
   <string name="wifi_exception_title">Teste WLAN-Netzwerk</string>
   <string name="wifi_item_status_connection_no">Nicht verbunden</string>
@@ -2340,6 +2342,7 @@ Der verbleibende Datenverbrauch beinhalten auch jenen Verbrauch, welcher in dem 
   <string name="wifi_item_title_encryption">WLAN-Verschlüsselung</string>
   <string name="wifi_item_title_fake">Gefälschtes WLAN erkannt</string>
   <string name="wifi_network_blocked_notification_title">Keine Internetverbindung verfügbar</string>
+    <string name="wl_no_whitelist">Keine Ausnahmen</string>
     <string name="xiaomi_traffic_pass_btn_purchase">Erwerben Sie mehr</string>
     <string name="xiaomi_traffic_pass_dialog_warning_title">Mi Datentarif Benachrichtigung</string>
     <string name="xiaomi_traffic_pass_exhausted">Keine mobilen Daten bei Ihrem Mi Datentarif. Zum Datentarif Ihres Betreibers gewechselt.</string>
