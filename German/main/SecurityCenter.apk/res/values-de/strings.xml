@@ -8,7 +8,7 @@
   <string name="PAST_BLOCK">Bisher gesperrt</string>
   <string name="Phonepass">Anrufe zulassen</string>
   <string name="SMS_ADRESS">Gebietsperrliste</string>
-  <string name="SMS_BLACKLIST">Nachrichsperrliste</string>
+  <string name="SMS_BLACKLIST">Nachrichtensperrliste</string>
   <string name="SMS_DEFAULT">Smarte Sperrliste</string>
   <string name="SMS_KEYWORDS">Keyword-Sperrliste</string>
   <string name="SMS_PREFIX">Vorwahl Sperrliste</string>
