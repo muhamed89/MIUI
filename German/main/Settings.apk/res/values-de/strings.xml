@@ -3016,6 +3016,14 @@ Betriebssystem auswählen:"</string>
     <string name="palm_enabled">Den Bildschirm abdecken, um ihn auszuschalten </string>
   <string name="paper_mode_end_time_title">Endzeit</string>
   <string name="paper_mode_start_time_title">Startzeit</string>
+  <string name="paper_mode_auto_twilight_summary">Geplanter Lesemodus im Dämmerungsmodus</string>
+  <string name="paper_mode_auto_twilight_title">Dämmerungsmodus</string>
+  <string name="paper_mode_customize_time_summary">Lesemodus zu einer benutzerdefinierten Zeit</string>
+  <string name="paper_mode_customize_time_title">Zeit festlegen</string>
+  <string name="paper_mode_get_location_dlg_msg">Um den genauen Sonnenauf- und Sonnenuntergang zu bestimmen, wird Ihr Netzwerkstandort benötigt, Standorteinstellungen öffnen?</string>
+  <string name="paper_mode_get_location_dlg_negative_btn_text">Abbrechen</string>
+  <string name="paper_mode_get_location_dlg_positive_btn_text">Einstellungen</string>
+  <string name="paper_mode_get_location_dlg_title">Standort festlegen</string>
   <string name="passpoint_content">%1$s Zugangsdaten</string>
   <string name="passpoint_label">Gespeichert via</string>
   <string name="passwordIncorrect">Das eingegebene Passwort ist falsch</string>
@@ -3729,6 +3737,7 @@ Diese Einstellung betrifft alle Nutzer auf diesem Telefon."</string>
   <string name="screen_paper_mode_set_apps_title">Lesemodus-Apps</string>
   <string name="screen_paper_mode_summary">"Hintergrundblenden reduzieren"</string>
   <string name="screen_paper_mode_time_title">Geplant</string>
+  <string name="screen_paper_mode_time_summary">Lesemodus zu einer geplanten Zeit</string>
   <string name="screen_paper_mode_title">Lesemodus</string>
   <string name="screen_paper_mode_turn_off">Aus</string>
   <string name="screen_paper_mode_turn_on">An</string>
