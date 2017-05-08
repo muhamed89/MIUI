@@ -1131,7 +1131,6 @@ T"</b>"Versuchen Sie ein anderes Ethernetkabel am Router zu verwenden. Wenn Sie 
   <string name="open_activity_err">Die Anwendung wurde nicht gefunden</string>
   <string name="online_songs">Musik</string>
   <string name="open">öffnen</string>
-  <string name="open_activity_err">Die App wurde nicht gefunden</string>
   <string name="open_app">Öffnen</string>
   <string name="open_browser">In Browser öffnen</string>
   <string name="open_now">App die Verwendung der mobilen Datenverbindung erlauben</string>
