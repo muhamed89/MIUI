@@ -19,6 +19,7 @@
   <string name="accessibility_time_picker_second">Sekunde</string>
   <string name="account_prifix">Konto:</string>
   <string name="action">Anmelden</string>
+  <string name="actionbar_textselection_title">Textauswahl</string>
   <string name="action_menu_account_not_login">Nicht angemeldet</string>
   <string name="action_menu_account_not_login_hint">Cloudeinstellungen zum Anmelden verwenden</string>
   <string name="action_menu_bookshelf">Bücherregal</string>
@@ -161,6 +162,7 @@
   <string name="color_picker_dialog_title">Wähle Farbe</string>
   <string name="color_picker_hue">Schattierung</string>
   <string name="color_picker_saturation">Sättigung</string>
+  <string name="comment_description">Kommentieren</string>
   <string name="comment_app_menu">Kommentieren</string>
   <string name="comment_hint">Kommentieren</string>
   <string name="comment_menu">Kommentieren</string>
@@ -247,6 +249,8 @@
   <string name="download_btn_select_none">Alles abwählen</string>
   <string name="download_complete">Download fertig</string>
   <string name="download_completed">Heruntergeladen</string>
+  <string name="download_default_path_txt">Meine Auswahl merken</string>
+  <string name="download_dialog_default_path_invalid">"Der Downloadpfad ist ungültig. Wird auf Standard zurückgesetzt…"</string>
   <string name="download_dialog_file_length_hint_txt">"Dateigröße: "</string>
   <string name="download_dialog_file_length_lessthan1kb">weniger als 1Kb</string>
   <string name="download_dialog_file_length_nolength_error_txt">"Download fehlgeschlagen"</string>
@@ -281,6 +285,7 @@
   <string name="edit">Bearbeiten</string>
   <string name="edit_bookmark">Bearbeiten</string>
   <string name="edit_quicklink">Bearbeiten</string>
+  <string name="empty_app_name">andere App</string>
   <string name="empty_bookmark">Leer</string>
   <string name="empty_history_hint">Verlauf ist leer</string>
   <string name="empty_snapshot_hint">Leer</string>
@@ -308,10 +313,12 @@
   <string name="find_on_page_next">Weiter</string>
   <string name="find_on_page_prev">Zurück</string>
   <string name="find_previous">Vorheriges suchen</string>
+  <string name="firstUsingSearchEngineTips">Suchanbieter ändern</string>
   <string name="fling_on_border_gesture_hint">Sie können die Funktion dieser Geste in den Einstellungen ändern</string>
   <string name="force_quick_search_title">Suche</string>
   <string name="force_touch_bookmark_history_title">Lesezeichen &amp; Verlauf</string>
   <string name="force_touch_infoflow_title">Nachrichten</string>
+  <string name="forward_description">Vorwärts</string>
   <string name="geolocation_permissions_prompt_dont_share">Ablehnen</string>
   <string name="geolocation_permissions_prompt_message">%s möchte auf Ihren Standort zugreifen</string>
   <string name="geolocation_permissions_prompt_remember">Einstellungen merken</string>
@@ -331,8 +338,9 @@
   <string name="have_sent_bookmark_to_home_screen">Auf Startbildschirm hinzugefügt</string>
   <string name="hint">Hinweis</string>
   <string name="history_saved_webpage">Seite speichern</string>
+  <string name="home_description">Startseite</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
-  <string name="homepage_delete_card_menu">Löschen</string>
+  <string name="homepage_delete_card_menu">Löschen</string>  
   <string name="homepage_get_location">Standort bestimmen</string>
   <string name="homepage_get_location_failed">"Informationen konnten nicht abgerufen werden, wählen Sie einen Ort"</string>
   <string name="homepage_more_cards">Weitere Karten</string>
@@ -457,6 +465,7 @@ Diese Seite verlassen?"</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">Es wird eine SD-Karte benötigt, um dieses Verzeichnis zu ändern.</string>
   <string name="month_picker_dialog_title">Monat festlegen</string>
+  <string name="more_description">Menü</string>
   <string name="more_option">Weitere Funktionen</string>
   <string name="nav_bottom_bar_back">Zurück</string>
   <string name="nav_bottom_bar_close_all">Alle schließen</string>
@@ -482,6 +491,7 @@ Diese Seite verlassen?"</string>
   <string name="notif_install_successful">Download abgeschlossen</string>
   <string name="ok">OK</string>
   <string name="older">Älter</string>
+  <string name="open_app_confirm_message">Dieser Seite erlauben, %s zu öffnen?</string>
   <string name="open_file_explorer_failed">"Dateimanager konnte nicht geöffnet werden"</string>
   <string name="opening_file_error">Fehler beim Öffnen der ausgewählten Datei</string>
   <string name="page_info">Seiteninfo</string>
@@ -506,6 +516,7 @@ Diese Seite verlassen?"</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Eingabe Quick-URL</string>
   <string name="pref_adblock_counts">%d geblockt</string>
   <string name="pref_adblock_title">Adblocker</string>
+  <string name="pref_automatic_matching_searchengines_title">Suchmaschine nach Gewohnheiten automatisch auswählen</string>
   <string name="pref_auto_update_under_wifi">Automatisches Update mit einer WLAN-Verbindung</string>
   <string name="pref_category_hint">Kategorie</string>
   <string name="pref_check_security_url_summary">"Sende Seitenadresse an Mi-Server für eine Sicherheitsüberprüfung"</string>
@@ -529,10 +540,18 @@ Diese Seite verlassen?"</string>
   <string name="pref_enable_news">Newsalarm</string>
   <string name="pref_enable_novels">Bücheralarm</string>
   <string name="pref_enable_videos">Videoalarm</string>
+  <string name="pref_extras_reset_default">Auf Standard zurücksetzen</string>
+  <string name="pref_extras_reset_default_dlg">Einstellungen auf Standardwerte zurücksetzen?</string>
+  <string name="pref_extras_reset_default_summary">Standardeinstellungen wiederherstellen</string>
+  <string name="pref_extras_reset_default_title">Andere</string>
   <string name="pref_extras_send_feedback">Feedback senden</string>
   <string name="pref_extras_title">Erweitert</string>
   <string name="pref_extras_title_version">Version</string>
   <string name="pref_file_download_save_title">Downloads</string>
+  <string name="pref_file_downlaod_save_is_reset_default_settings">Dateien im Standardordner speichern</string>
+  <string name="pref_file_downlaod_save_reset_default_settings">Standardspeicherort wiederherstellen</string>
+  <string name="pref_file_download_default_path_prefix">Standardspeicherort: %s</string>
+  <string name="pref_file_download_save_modify_default_path">Speicherort für Downloads</string>
   <string name="pref_fling_on_border">Von der Kante aus wischen</string>
   <string name="pref_fling_on_border_enabled">"Tabs wechseln"</string>
   <string name="pref_fling_on_border_enabled_title_summary">Streiche vom linken oder rechten Rand des Bildschirmes, um die Registerkarten zu wechseln</string>
@@ -602,7 +621,10 @@ Diese Seite verlassen?"</string>
   <string name="pull_to_refresh_refreshing_label">Wird geladen…</string>
   <string name="pull_to_refresh_release_label">Zum Aktualisieren und für Empfehlungen loslassen</string>
   <string name="qr_code_title">QR-Code</string>
-  <string name="quicklink_bookmark_save">LESEZEICHENSTANDORT</string>
+  <string name="quicklink_cannot_save_url">Diese URL kann nicht hinzugefügt werden</string>
+  <string name="quicklink_folder_text">Top App</string>
+  <string name="quicklinks_group_default_subtitle">Leer</string>
+  <string name="quicklink_bookmark_save">LESEZEICHENSPEICHERORT</string>
   <string name="quicklink_not_saved">"Konnte nicht zur Startseite hinzugefügt werden"</string>
   <string name="quicklink_saved">Auf Startseite gespeichert</string>
   <string name="quicklink_saved_before">Diese Seite wurde bereits hinzugefügt</string>
@@ -707,6 +729,8 @@ Diese Seite verlassen?"</string>
   <string name="skip_current_version">Überspringe diese Version</string>
   <string name="snapshot_failed">"Konnte das nicht zum Offlinelesen speichern"</string>
   <string name="snapshot_successed">Zum Offlinelesen gespeichert</string>
+  <string name="ssl_bad_clock_date_settings">Datumseinstellungen</string>
+  <string name="ssl_bad_clock_warning" formatted="false">"Eine private Verbindung zu %s1 kann nicht hergestellt werden, da Ihre Datums- und Uhrzeiteinstellungen (%s2) ungültig sind."</string>
   <string name="ssl_certificate">Sicherheitszertifikat</string>
   <string name="ssl_certificate_is_valid">Dieses Zertifikat ist gültig.</string>
   <string name="ssl_continue">Fortfahren</string>
@@ -721,6 +745,7 @@ Diese Seite verlassen?"</string>
   <string name="ssl_warnings_header">Es gibt Probleme mit dem Sicherheitszertifikat dieser Seite.</string>
   <string name="start_save_page_capture">Screenshot wird gespeichert…</string>
   <string name="storage_internal">Interner Datenspeicher</string>
+  <string name="storage_permission_request_toast">Download benötigt Zugriff auf den Speicher</string>
   <string name="storage_sd_card">SD-Karte</string>
   <string name="storage_usb">USB Speicher</string>
   <string name="suggest_access_appstore">Mi App Store</string>
@@ -738,6 +763,7 @@ Diese Seite verlassen?"</string>
   <string name="suggest_open_app_failed">"Konnte die App nicht öffnen"</string>
   <string name="switch_proxy_dialog_msg">Netzwerk-Hijacking erkannt. Verwenden Sie die integrierte Sicherheitsapp oder melden Sie diesen Vorfall bei Ihrem Netzbetreiber.</string>
   <string name="switch_proxy_dialog_title">Netzwerk-Hijacking</string>
+  <string name="switchText">JA</string>
   <string name="tab_hotpage">Neuigkeiten</string>
   <string name="tab_quicklinks">Startseite</string>
   <string name="tab_yellowpage">Links</string>
@@ -752,6 +778,8 @@ Diese Seite verlassen?"</string>
   <string name="too_many_windows_dialog_title">"Kann keine weiteren Registerkarten öffnen"</string>
   <string name="unknown_title">Unbekannt</string>
   <string name="unsecurity_url_toast">Diese Seite ist unsicher</string>
+  <string name="unSwitchText">NEIN</string>
+  <string name="undo">Rückgängig</string>
   <string name="up_to_loading_tips">Loslassen zum Aktualisieren</string>
   <string name="update_no_network_toast">"Kann mich nicht mit dem Netzwerk verbinden"</string>
   <string name="updating_chrome">Chrome wird aktualisiert...</string>
@@ -781,6 +809,7 @@ Diese Seite verlassen?"</string>
   <string name="version_check_button_no_network">"Kann mich mit Netzwerk nicht verbinden"</string>
   <string name="version_check_button_resume_download">Download fortsetzen</string>
   <string name="version_check_button_update">Update</string>
+  <string name="version_check_button_default">Auf Updates prüfen</string>
   <string name="version_check_failed">Suche nach Updates fehlgeschlagen</string>
   <string name="version_dialog_buttion_ok">OK</string>
   <string name="version_dialog_buttion_update">Update</string>
