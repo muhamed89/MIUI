@@ -102,7 +102,7 @@
         <item quantity="one">Seit %d Jahr nicht verwendet</item>
     </plurals>
     <plurals name="resutl_function_install_app_summary">
-        <item quantity="other"><font color="#ff0000"><Data>%d</font> Apps wurden lange nicht verwendet, schauen Sie mal nach.</Data></item>
+        <item quantity="other">%d Apps wurden lange nicht verwendet, schauen Sie mal nach.</item>
     </plurals>
 
 </resources>
