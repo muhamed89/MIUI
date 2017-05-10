@@ -597,8 +597,7 @@
   <string name="online_switch">Einstellungen für Onlinedienste</string>
   <string name="online_switch_message">Das Deaktivieren der Onlinedienste hat Auswirkungen auf VIP-Dienste und Empfehlungen. Trotzdem ausschalten?</string>
   <string name="online_switch_setting">Einstellungen für Onlineinhalte</string>
-  <string name="only_online_can_select_quality">Sie können Qualität nur für gestreamte Musik auswählten.</string>
-  <string name="only_online_can_select_quality">Sie können Qualität nur für gestreamte Musik auswählten.</string>
+  <string name="only_online_can_select_quality">Sie können Qualität nur für gestreamte Musik auswählen.</string>
   <string name="open_download">Öffnen</string>
   <string name="open_online_service">Für diese Funktion müssen Sie die Onlinedienste einschalten. Jetzt einschalten?</string>
   <string name="open_service">Einschalten</string>
