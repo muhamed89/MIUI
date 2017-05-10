@@ -165,10 +165,12 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="app_manager_dlg_ok">OK</string>
   <string name="app_manager_force_stop_dlg_text">Wenn Sie eine App zum Anhalten zwingen, könnte sie sich falsch verhalten.</string>
   <string name="app_manager_force_stop_dlg_title">Zum Anhalten zwingen?</string>
+  <string name="app_manager_go_to_manger_app">Verwalten</string>
   <string name="app_manager_loading_data">Daten werden geladen…</string>
   <string name="app_manager_more_times">100000+ mal zugegriffen</string>
   <string name="app_manager_my_app">Meine Apps</string>
   <string name="app_manager_not_record">Keine Einträge vorhanden</string>
+  <string name="app_manager_perm">Berechtigungen</string>
   <string name="app_manager_perm_monitor_make_calls">Anrufe tätigen</string>
   <string name="app_manager_perm_monitor_read_call_history">Anrufprotokoll lesen</string>
   <string name="app_manager_perm_monitor_read_contacts">Kontakte lesen</string>
@@ -207,6 +209,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">Dual-App deinstallieren?</string>
   <string name="app_manager_unstall_application">Deinstallieren</string>
   <string name="app_manager_update_label_text">Neu</string>
+  <string name="app_manager_usage_record_title">Appverwendung</string>
   <string name="app_manager_wake_path_card_title">Kettenstartsverlauf (2 Tage)</string>
   <string name="app_manager_wakepath_dialog_buttontext">Ich habs</string>
   <string name="app_manager_wakepath_dialog_summary">Kettenstarts entstehen, wenn eine App eine andere App im Hintergrund startet. Dadurch wird Energieverbrauch erhöht und die Systemleistung gesenkt. MIUI würde normalerweise die Kettenstarts blockieren.</string>
@@ -217,6 +220,8 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="app_name_na">Datenverbrauch</string>
   <string name="app_name_securitycenter">Sicherheit</string>
   <string name="app_not_installed_toast">"App ist auf Ihrem Gerät nicht installiert."</string>
+  <string name="app_usage_never">Lange nicht verwendet</string>
+  <string name="app_usage_recently">Kürzlich verwendet</string>
   <string name="app_version">Version</string>
   <string name="app_wifi">WLAN</string>
   <string name="apps_item_sign_dialog_content">\"%s\"Signatur ist unterschiedlich zu Version im App Store. Diese Version löschen und die offizielle Version installieren? Hinweis: Eine App mit unterschiedlicher Signatur zu installieren kann zu Datnverlust führen.</string>

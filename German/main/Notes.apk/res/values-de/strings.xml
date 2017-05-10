@@ -27,6 +27,9 @@
   <string name="call_record_folder_name">Anrufnotizen</string>
   <string name="cloud_trash_bin_title">Notizen auf Mi Cloud löschen</string>
   <string name="delete_folder_dialog_tile">Ordner löschen</string>
+  <string name="dialog_share_as_pic">Notiz als Bild teilen</string>
+  <string name="dialog_share_as_text">Notiz als Text teilen</string>
+  <string name="dialog_share_title">Notiz teilen</string>
   <string name="dlg_btn_set_password">Passwort festlegen</string>
   <string name="dlg_check_reminder">Nicht wieder anzeigen</string>
   <string name="dlg_delete_message">Löschen…</string>
@@ -47,6 +50,7 @@
   <string name="dlg_title_use_privacy_password">Persönliches Schutzpasswort verwenden</string>
   <string name="dlg_unhide_message">Sichtbar machen…</string>
   <string name="dlg_unmark_privacy_message">Anzeigen…</string>
+  <string name="done">Fertig</string>
   <string name="empty_folder_hint">"Keine Ordner
 Tippen Sie auf das Plus, um einen Ordner anzulegen"</string>
   <string name="empty_note_mark_privacy_error">Leere Notiz kann nicht versteckt werden</string>
@@ -63,7 +67,9 @@ Tippen Sie auf das Plus, um einen Ordner anzulegen"</string>
   <string name="error_widget_exist_for_send_to_desktop">Diese Notiz ist bereits auf dem Desktop vorhanden</string>
   <string name="folder_exist">Ein Ordner mit dem selben Namen ist bereits vorhanden</string>
   <string name="force_touch_menu_add">Notiz hinzufügen</string>
-  <string name="format_move_notes_out_folder">Verschiebe %1$s raus</string>
+  <string name="format_move_note_out_folder">Verschoben</string>
+  <string name="format_move_note_to_folder">Nach %1$s verschoben</string>
+  <string name="format_move_notes_out_folder">%1$s verschieben</string>
   <string name="format_move_notes_to_folder">%1$s Notizen nach %2$s verschoben</string>
   <string name="hidden_notes_fragment_title">Versteckte Notizen</string>
   <string name="hint_cannot_view_hidden_note_content">Inhalt der versteckten Notizen kann nicht angezeigt werden</string>
@@ -71,6 +77,7 @@ Tippen Sie auf das Plus, um einen Ordner anzulegen"</string>
   <string name="info_note_enter_desktop">Zum Desktop hinzugefügt</string>
   <string name="loading_text">Einen Moment…</string>
   <string name="login_sync">Anmelden &amp; Synchronisieren</string>
+  <string name="menu_add_folder">Zu einem Ordner hinzufügen</string>
   <string name="menu_create_folder">Neuer Ordner</string>
   <string name="menu_delete">Löschen</string>
   <string name="menu_delete_forever">Endgültig löschen</string>

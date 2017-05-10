@@ -113,5 +113,14 @@
         <item>Stark</item>
         <item>Mäßig</item>
         <item>Leicht</item>
-    </string-array>        
+    </string-array>
+    <string-array name="pollution_level_desc_arr">
+        <item>Ausgezeichnet</item>
+        <item>Gut</item>
+        <item>Leicht verschmutzt</item>
+        <item>Mäßig verschmutzt</item>
+        <item>Stark verschmutzt</item>
+        <item>Ernsthaft verschmutzt</item>
+        <item>Außerhalb des Messbereichs</item>
+    </string-array>
 </resources>

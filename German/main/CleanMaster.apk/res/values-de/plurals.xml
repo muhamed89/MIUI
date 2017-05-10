@@ -89,4 +89,20 @@
         <item quantity="other">（%1$d leere Dateien）%2$s</item>
         <item quantity="one">（%1$d leere Datei）%2$s</item>
      </plurals>
+      <plurals name="app_usage_day">        
+        <item quantity="other">Seit %d Tagen nicht verwendet</item>
+        <item quantity="one">Seit %d Tag nicht verwendet</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">Seit %d Monaten nicht verwendet</item>
+        <item quantity="one">Seit %d Monat nicht verwendet</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">Seit %d Jahren nicht verwendet</item>
+        <item quantity="one">Seit %d Jahr nicht verwendet</item>
+    </plurals>
+    <plurals name="resutl_function_install_app_summary">
+        <item quantity="other"><font color="#ff0000"><Data>%d</font> Apps wurden lange nicht verwendet, schauen Sie mal nach.</Data></item>
+    </plurals>
+
 </resources>

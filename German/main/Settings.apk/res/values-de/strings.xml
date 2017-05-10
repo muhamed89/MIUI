@@ -3551,6 +3551,7 @@ Betriebssystem auswählen:"</string>
   <string name="receiver_clean">Speicher freigeben</string>
   <string name="recent_location_requests_summary">Die nachfolgenden Apps können Ihre Standortinformationen anfordern</string>
   <string name="recent_location_requests_title">Standortzugriff</string>
+  <string name="recents_config_title">Taskmanagereinstellungen</string>
   <string name="recognizer_settings_summary">Einstellungen für  \'%s\'</string>
   <string name="recognizer_settings_title">Sprachsuche</string>
   <string name="recognizer_title">Spracherkennung</string>
@@ -4201,6 +4202,7 @@ Um Screenpinning zu nutzen:
   <string name="show_hw_screen_updates">Zeige GPU-Anzeigeupdates</string>
   <string name="show_hw_screen_updates_summary">Blitz innerhalb des Fensters wenn die Darstellung über die GPU erfolgt</string>
   <string name="show_magnifier_when_input">Lupe anzeigen</string>
+  <string name="show_mem_info_title">Speicherinfo anzeigen</string>
   <string name="show_non_rect_clip">Nicht rechteckige Clipoperationen debuggen</string>
   <string name="show_owner_info_on_lockscreen_label">Eigentümerinformationen auf dem Sperrbildschirm anzeigen</string>
   <string name="show_password">Passwörter sichtbar</string>
@@ -5153,6 +5155,7 @@ Jeder Nutzer kann aktualisierte Appberechtigungen im Namen aller anderen Nutzer 
   <string name="user_restrictions_controlled_by">Von %1$s festgelegt</string>
   <string name="user_restrictions_title">Beschränkungen für Apps und Inhalte</string>
   <string name="user_set_lock_button">Sperre einrichten</string>
+  <string name="user_settings_forbidden">Admininstellungen können im aktuellen Profil nicht geändert werden. Wechseln Sie ins Hauptprofil.</string>
   <string name="user_settings_title">Benutzer</string>
   <string name="user_setup_button_setup_later">Nicht jetzt</string>
   <string name="user_setup_button_setup_now">Jetzt einrichten</string>
