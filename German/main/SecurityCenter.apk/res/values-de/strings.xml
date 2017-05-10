@@ -2221,8 +2221,6 @@ Der verbleibende Datenverbrauch beinhalten auch jenen Verbrauch, welcher in dem 
     <string name="traffic_saving_history_total_money_unit">RMB</string>
     <string name="traffic_saving_history_total_month">"Diesen Monat gespart: "</string>
     <string name="traffic_saving_history_total_month_default">Durchschnittliche Ersparnis pro Monat</string>
-    <string name="traffic_saving_history_total_month_value">"&lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Lieder hören / Chatten für &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Stunden / &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Artikel lesen"</string>
-    <string name="traffic_saving_history_total_month_value_default">"&lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Lieder hören / Chatten für &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Stunden / &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Artikel lesen"</string>
     <string name="traffic_saving_history_total_rate">Tarif</string>
     <string name="traffic_saving_history_total_rate_unit">%</string>
     <string name="traffic_saving_history_total_traffic">Daten reduziert</string>
