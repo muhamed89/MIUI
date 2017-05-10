@@ -432,6 +432,7 @@
   <string name="third_party_pickers_activity_title">%1$s festlegen</string>
   <string name="title_component">Bearbeiten</string>
   <string name="title_my_audio_resource">Meine Klingeltöne</string>
+  <string name="title_my_miwallpaper_resource">Meine Livehintergründe</string>
   <string name="title_my_wallpaper_resource">Meine Hintergründe</string>
   <string name="title_system_audio_resource">Systemklingeltöne</string>
   <string name="title_system_resource">Lokal</string>
