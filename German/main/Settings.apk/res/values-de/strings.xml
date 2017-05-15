@@ -209,7 +209,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="allow_mock_location">Manipulierte Standortdaten</string>
   <string name="allow_mock_location_summary">Manipulierte Standortdaten zulassen</string>
   <string name="allow_overlay_description">Diese Berechtigung erlaubt es einer App, über anderen Apps angezeigt zu werden und kann die Bedienung und Anzeige anderer Apps beeinträchtigen.</string>
-  <string name="allow_usage_access_message">Wenn Sie den Zugang erlauben, dann kann diese App allgemeine Informationen zu den Apps auf Ihrem Gerät anzeigen.  Zum Beispiel wie oft Sie diese verwenden.</string>
+  <string name="allow_usage_access_message">Wenn Sie den Zugang erlauben, dann kann diese App allgemeine Informationen zu den Apps auf Ihrem Gerät anzeigen. Zum Beispiel wie oft Sie diese verwenden.</string>
   <string name="allow_usage_access_title">Zugang erlauben?</string>
   <string name="alpha_build">" | Alpha"</string>
   <string name="already_enable_encrypt">Verschlüsselung ist bereits aktiviert</string>
@@ -227,7 +227,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="another_migration_already_in_progress">Eine andere Migration wird bereits ausgeführt.</string>
   <string name="anr_record_interval_title">Record ANR intervals</string>
   <string name="anti_spam">Sperrliste</string>
-  <string name="aod_mode_summary">Ständig Uhrzeit, Datum und Nachrichten beim ausgeschalteten Bildschirm anzeigen</string>
+  <string name="aod_mode_summary">Ständig Uhrzeit, Datum und Nachrichten bei ausgeschaltetem Bildschirm anzeigen</string>
   <string name="aod_mode_title">Ständig-An-Modus</string>
   <string name="apn_auth_type">Authentifizierungstyp</string>
   <string name="apn_auth_type_none">Keine</string>
@@ -317,7 +317,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="app_ops_never_used">(Nie verwendet)</string>
   <string name="app_ops_permiss_name">App Netzwerkzugriff</string>
   <string name="app_ops_running">Aktiv</string>
-  <string name="app_ops_settings">App-Vorgänge</string>
+  <string name="app_ops_settings">Appvorgänge</string>
   <string name="app_ops_settings_summary">Zeige oder ändere App-Berechtigungen</string>
   <string name="app_overlay_permission_preference">Appüberlagerungsberechtigungen</string>
   <string name="app_permissions">App Berechtigungen</string>
@@ -456,7 +456,7 @@ Ihr Administrator hat die Möglichkeit Einstellungen, Zugang, Apps und Daten zu 
   <string name="backup_finished">Sicherung erfolgreich beendet</string>
   <string name="backup_hint">Lassen Sie Ihr Gerät eingeschaltet</string>
   <string name="backup_hint_onpad">Lassen Sie Ihr Gerät eingeschaltetn</string>
-  <string name="backup_inactive_title">Backupservice is nicht aktiv</string>
+  <string name="backup_inactive_title">Backupservice ist nicht aktiv</string>
   <string name="backup_is_running">Sicherung läuft</string>
   <string name="backup_items_app_tailer">" Anwendungsdaten"</string>
   <string name="backup_items_sysdata_tailer">" Systemdaten,"</string>
@@ -3020,7 +3020,7 @@ Betriebssystem auswählen:"</string>
   <string name="paper_mode_auto_twilight_title">Dämmerungsmodus</string>
   <string name="paper_mode_customize_time_summary">Lesemodus zu einer benutzerdefinierten Zeit</string>
   <string name="paper_mode_customize_time_title">Zeit festlegen</string>
-  <string name="paper_mode_get_location_dlg_msg">Um den genauen Sonnenauf- und Sonnenuntergang zu bestimmen, wird Ihr Netzwerkstandort benötigt, Standorteinstellungen öffnen?</string>
+  <string name="paper_mode_get_location_dlg_msg">Um den genauen Sonnenauf- und untergang zu bestimmen, wird Ihr Netzwerkstandort benötigt, Standorteinstellungen öffnen?</string>
   <string name="paper_mode_get_location_dlg_negative_btn_text">Abbrechen</string>
   <string name="paper_mode_get_location_dlg_positive_btn_text">Einstellungen</string>
   <string name="paper_mode_get_location_dlg_title">Standort festlegen</string>
