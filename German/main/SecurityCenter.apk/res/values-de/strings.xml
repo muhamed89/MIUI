@@ -1887,7 +1887,7 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
     <string name="st_sum_call_wait">Ihre ausgehende Nachricht wird auch als Besetztzeichen für eingehende Anrufe abgespielt.</string>
     <string name="st_summary_blacklist_numbers">Blockieren von Anrufen und Nachrichten mit bestimmten Nummern und Bereichen</string>
     <string name="st_summary_blacklist_numbers_international">Blockieren von Anrufen und Nachrichten mit bestimmten Nummern</string>
-    <string name="st_summary_keywords_blacklist">Add keywords to block messages</string>
+    <string name="st_summary_keywords_blacklist">Schlüsselwörter zur Blockliste hinzufügen</string>
     <string name="st_summary_special_numbers">Schlüsselwörter hinzufügen, um Nachrichten zu blockieren</string>
     <string name="st_summary_whitelist_numbers">Erlauben von Anrufen und Nachrichten mit bestimmten Nummern und Bereichen</string>
     <string name="st_summary_whitelist_numbers_international">Erlauben von Anrufen und Nachrichten mit bestimmten Nummern</string>
