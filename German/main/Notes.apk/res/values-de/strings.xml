@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="action_folder_description">Ordner anzeigen</string>
+    <string name="action_mode_switcher_grid_description">Rasteransicht</string>
+    <string name="action_mode_switcher_list_description">Listenansicht</string>
+    <string name="action_settings_description">Einstellungen öffnen</string>
   <string name="add_account_desc">Notizen mit dem Mi Konto synchronisieren?</string>
   <string name="alarm_bar_title">Erinnerung</string>
   <string name="alert_action_edit_anyway">Bearbeiten</string>
@@ -25,6 +29,7 @@
   <string name="button_new_note">Neu</string>
   <string name="call_folder_name">Anrufnotizen</string>
   <string name="call_record_folder_name">Anrufnotizen</string>
+    <string name="cancel_alarm_description">Alarm beenden</string>
   <string name="cloud_trash_bin_title">Notizen auf Mi Cloud löschen</string>
   <string name="delete_folder_dialog_tile">Ordner löschen</string>
   <string name="dialog_share_as_pic">Notiz als Bild teilen</string>
@@ -51,6 +56,8 @@
   <string name="dlg_unhide_message">Sichtbar machen…</string>
   <string name="dlg_unmark_privacy_message">Anzeigen…</string>
   <string name="done">Fertig</string>
+    <string name="edit_header_done_description">Fertig</string>
+    <string name="edit_header_home_description">Zurück</string>
   <string name="empty_folder_hint">"Keine Ordner
 Tippen Sie auf das Plus, um einen Ordner anzulegen"</string>
   <string name="empty_note_mark_privacy_error">Leere Notiz kann nicht versteckt werden</string>
@@ -77,7 +84,9 @@ Tippen Sie auf das Plus, um einen Ordner anzulegen"</string>
   <string name="info_note_enter_desktop">Zum Desktop hinzugefügt</string>
   <string name="loading_text">Einen Moment…</string>
   <string name="login_sync">Anmelden &amp; Synchronisieren</string>
+    <string name="menu_add_description">Notiz hinzufügen</string>
   <string name="menu_add_folder">Zu einem Ordner hinzufügen</string>
+    <string name="menu_add_folder_description">Ordner hinzufügen</string>
   <string name="menu_create_folder">Neuer Ordner</string>
   <string name="menu_delete">Löschen</string>
   <string name="menu_delete_forever">Endgültig löschen</string>
@@ -139,6 +148,7 @@ Tippen Sie auf das Plus, um einen Ordner anzulegen"</string>
   <string name="search_path_notes">Einstellungen/Systemanwendungen/Notizen</string>
   <string name="search_setting_description">Suche Text in Notizen</string>
   <string name="select_account_prompt">Notizen sychronisieren</string>
+    <string name="set_alarm_description">Alarm einstellen</string>
   <string name="sina_share_fail">Senden fehlgeschlagen</string>
   <string name="sina_share_fail_content_repeat">Teilen fehlgeschlagen, Inhalt existiert bereits…</string>
   <string name="sina_share_pendding">Wird gesendet…</string>
@@ -164,16 +174,22 @@ Tippen Sie auf das Plus, um einen Ordner anzulegen"</string>
   <string name="sns_toast_empty">Leerer Post kann nicht gesendet werden</string>
   <string name="sns_toast_over_limit">Bei Überlänge des Textes als Bild senden</string>
   <string name="sync_tips">Antippen um Notizen mit Mi Cloud zu synchronisieren</string>
+    <string name="theme_blue_description">Blau</string>
+    <string name="theme_green_description">Grün</string>
+    <string name="theme_red_description">Rot</string>
   <string name="theme_title_antique">Herbst</string>
   <string name="theme_title_arty">Blumig</string>
   <string name="theme_title_blue">Blau</string>
   <string name="theme_title_candy">Bonbon</string>
   <string name="theme_title_dark">Dunkel</string>
+    <string name="theme_title_default">Standard</string>
   <string name="theme_title_green">Grün</string>
   <string name="theme_title_invitation">Einladung</string>
   <string name="theme_title_red">Rot</string>
   <string name="theme_title_star">Sterne</string>
   <string name="theme_title_yellow">Gelb</string>
+    <string name="theme_white_description">Weiß</string>
+    <string name="theme_yellow_description">Gelb</string>
   <string name="toast_folder_privacy_mode">Ordner kann im Gastmodus nicht bearbeitet werden</string>
   <string name="toast_mark_privacy_notes">Erfolgreich versteckt</string>
   <string name="toast_mark_privacy_notes_count">%1$s Notizen erfolgreich versteckt</string>
@@ -190,7 +206,16 @@ Tippen Sie auf das Plus, um einen Ordner anzulegen"</string>
   <string name="toast_reach_text_limit_truncate">Aufgrund der Überlänge wurde der Inhalt der Notiz zugeschnitten</string>
   <string name="toast_unmark_privacy_notes">Erfolgreich</string>
   <string name="toast_unmark_privacy_notes_count">%1$s Notizen sind nicht mehr versteckt</string>
+    <string name="toolbar_check_description">Checkbox hinzufügen</string>
+    <string name="toolbar_delete_description">Diese Notiz löschen</string>
+    <string name="toolbar_gallery_description">Bild hinzufügen</string>
+    <string name="toolbar_more_description">Mehr</string>
+    <string name="toolbar_redo_description">Wiederholen</string>
+    <string name="toolbar_share_description">Diese Notiz teilen</string>
+    <string name="toolbar_theme_description">Wählen Sie ein Thema</string>
+    <string name="toolbar_undo_description">Rückgängig</string>
   <string name="trash_folder_name">Papierkorb</string>
+    <string name="trash_folder_reminder">Gelöschte Notizen, werden in 30 Tagen dauerhaft gelöscht.</string>
   <string name="undo">Rückgängig</string>
   <string name="unknown_source">Unbekannte Quelle</string>
   <string name="welcome_note_for_cm">Willkommen bei Xiaomi.eu

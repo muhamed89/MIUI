@@ -214,6 +214,9 @@
   <string name="phone_info_divider">" ｜ "</string>
   <string name="picking_participant">Kontaktinfo erhalten…</string>
   <string name="private_num">Private Nummer</string>
+    <string name="remind_unlock_message">Ihr Gerät ist aktuell gesperrt. &quot;%s&quot; ist verfügbar, sobald Sie das Gerät entsperrt haben. Jetzt entsperren?</string>
+    <string name="reminder">Erinnerung</string>
+    <string name="removeMember">Entfernen</string>
   <string name="respond_via_sms_custom_message">Schreibe deine eigene...</string>
   <string name="select_audio_dialog_title">Bitte wählen Sie einen Gesprächsmodus</string>
   <string name="select_one_sim_title">Nur SIM %1$d kann verwendet werden</string>

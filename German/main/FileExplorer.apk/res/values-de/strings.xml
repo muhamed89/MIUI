@@ -655,6 +655,7 @@
   <string name="storage_sd_card_description">SD-Karte</string>
   <string name="storage_usb">USB-Speicher</string>
   <string name="storage_warning">Externer Speicher nicht verfügbar.</string>
+    <string name="support_mtp">MTP wird demnächst unterstützt </string>
   <string name="swap_tip_1">Links und rechts tauschen</string>
   <string name="swap_tip_2">um andere Videos zu sehen</string>
   <string name="sys_size_enable">Aktivieren</string>

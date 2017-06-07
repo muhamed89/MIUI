@@ -99,6 +99,7 @@
   <string name="completed">Fertig</string>
   <string name="confirm">Überprüfungscode</string>
   <string name="confirm_activate_email">Überprüft</string>
+    <string name="confirm_bundled_phone_dialog_title">Gebündelte Telefonnummer bestätigen</string>
   <string name="confirm_delete_app_message">Wenn Sie diese App entfernen, müssen Sie Ihre Telefonnummer verifizieren wenn Sie sich das nächste mal an Ihrem Mi Konto anmelden</string>
   <string name="confirm_delete_browser_message">Wenn Sie diesen Browser entfernen, müssen Sie Ihre Telefonnummer verifizieren wenn Sie sich das nächste mal an Ihrem Mi Konto anmelden</string>
   <string name="confirm_delete_device_message">Wenn Sie dieses Gerät entfernen, müssen Sie Ihre Telefonnummer verifizieren wenn Sie sich das nächste mal an Ihrem Mi Konto anmelden</string>
@@ -178,6 +179,7 @@
   <string name="get_back_pwd">Passwort zurücksetzen</string>
   <string name="get_device_list_failed">Geräte können nicht abgerufen werden</string>
   <string name="get_email_verifycode_exceed_limit">Es wurden zu viele Überprüfungscodes an diese E-Mailadresse versendet. Warten Sie 24 Stunden und versuchen es erneut.</string>
+    <string name="get_phone_bind_exceed_limit">Die Anzahl an Nummern die mit diesem Konte voerknüpft werden können, hat das Maximum(3) erreicht, Sie können das Konte nicht weiter verknüpfen</string>
   <string name="get_phone_verifycode_exceed_limit">Es wurden zu viele Überprüfungscodes an diese Telefonnummer versendet. Warten Sie 24 Stunden und versuchen es erneut.</string>
   <string name="guest_account_label">Mi Gastkonto</string>
   <string name="i_know">Ist bekannt</string>

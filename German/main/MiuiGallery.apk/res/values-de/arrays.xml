@@ -21,4 +21,12 @@
         <item>Freunde</item>
         <item>Unbekannt</item>
     </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>Vater</item>
+        <item>Mutter</item>
+        <item>Großvater väterlicherseits</item>
+        <item>Großmutter väterlicherseits</item>
+        <item>Großvater mütterlicherseits</item>
+        <item>Großmutter mütterlicherseits</item>
+    </string-array>
 </resources>

@@ -104,6 +104,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="adjust_traffic_data">Datenverbrauch festlegen</string>
   <string name="after_the_lock_screen">"Die App wird gleichzeitig mit dem Bildschirm gesperrt. Sie können dies in den Einstellungen für die Appsperre verändern."</string>
   <string name="all_address_choose_hint">Alle Nummern in diesem Ort</string>
+    <string name="antispam_mode_details">Sperrlistendetails</string>
   <string name="antispam_notificaiton_type_show_all">Alle Nummern</string>
   <string name="antispam_notificaiton_type_show_except_blacklist">Nicht-Sperrlistennummern</string>
   <string name="antispam_notificaiton_type_show_none">Niemals</string>
@@ -166,7 +167,10 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="app_manager_force_stop_dlg_text">Wenn Sie eine App zum Anhalten zwingen, könnte sie sich falsch verhalten.</string>
   <string name="app_manager_force_stop_dlg_title">Zum Anhalten zwingen?</string>
   <string name="app_manager_go_to_manger_app">Verwalten</string>
+    <string name="app_manager_instruction">Anleitung</string>
   <string name="app_manager_loading_data">Daten werden geladen…</string>
+    <string name="app_manager_manage_space">Speicherplatz verwalten</string>
+    <string name="app_manager_menu_clear_data">Daten löschen</string>
   <string name="app_manager_more_times">100000+ mal zugegriffen</string>
   <string name="app_manager_my_app">Meine Apps</string>
   <string name="app_manager_not_record">Keine Einträge vorhanden</string>
@@ -189,12 +193,18 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="app_manager_permission_send_mms_over">SMS 100000+ mal gesendet</string>
   <string name="app_manager_permission_startself_summary">Apps, die automatisch starten, belegen Arbeitsspeicher und verbrauchen Akku höher</string>
   <string name="app_manager_permission_startself_title">Autostart</string>
+    <string name="app_manager_permission_summary_reject">Alles beschränken</string>
   <string name="app_manager_power">Berechtigungen</string>
+    <string name="app_manager_powerkeeper_miui_auto">MIUI Energiesparmodus</string>
+    <string name="app_manager_powerkeeper_no_bg">Hintergrundaktivität beschränken</string>
+    <string name="app_manager_powerkeeper_no_restrict">Keine Beschränkungen</string>
+    <string name="app_manager_powerkeeper_restrict_bg">Hintergrundapps beschränken</string>
   <string name="app_manager_rebide_wakepath">Beschränken</string>
   <string name="app_manager_reduce_wakepath_dialog">Kettenstarts minimieren</string>
   <string name="app_manager_reduce_wakepath_summary">Autostartbeschränkung minimiert Kettenstarts. Autostart für %s beschränken?</string>
   <string name="app_manager_reject_count_over">100000+ mal blockiert</string>
   <string name="app_manager_show_detail_infos">Alle zeigen</string>
+    <string name="app_manager_sort">Sortieren nach</string>
   <string name="app_manager_start_by">Gestartet durch %s</string>
   <string name="app_manager_start_count_over">100000+ mal</string>
   <string name="app_manager_stop_wakepath_dialog_summary">Deinstallieren %s, um Kettenstarts zu reduzieren?</string>
@@ -270,6 +280,7 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="auto_task_main_title">Automatische Tasks</string>
   <string name="auto_task_mamange_activity_title">Einstellungen</string>
   <string name="auto_task_manage_delete_prompt">Ausgewählten Task löschen?</string>
+    <string name="auto_task_manage_new_task">Neuer automatischer Task</string>
   <string name="auto_task_manager_group_title">Meine automatischen Tasks</string>
   <string name="auto_task_notify_do_task_title">Automatischer Task gestartet</string>
   <string name="auto_task_notify_exit_task_title">Automatischer Task beendet</string>
@@ -652,6 +663,7 @@ Um weitere Informationen zu erhalten, prüfen Sie die Nachricht Ihres Anbieters"
   <string name="examination_score_80_100_with_recommend">%d können optmiert werden</string>
   <string name="examination_score_80_60">Einige Punkte können optimiert werden</string>
   <string name="examination_score_has_virus">Einige Apps sind verdächtig.</string>
+    <string name="exit">Beenden</string>
   <string name="finger_remind_message">Sie können auch Ihren Fingerabdruck zur Appsperre verwenden</string>
   <string name="fingerprint_identify_msg">Scannen Sie Ihren Fingerabdruck</string>
   <string name="fingerprint_not_identified_msg">Passwort eingeben, um Ihr Gerät zu entsperren.</string>
@@ -1032,6 +1044,8 @@ Mobilfunkanbieters gewartet"</string>
   <string name="mian_page_primary_txt">Datenroaming</string>
     <string name="modify_password_info">Entsperrmuster</string>
   <string name="modifypassword">Passwort ändern</string>
+    <string name="monitor_app_add">hinzufügen</string>
+    <string name="monitor_app_more">mehr</string>
   <string name="monitor_requests_from_pc">Installation von Apps via USB verwalten</string>
   <string name="month_report_month_report_switch">Monatsbericht anzeigen</string>
   <string name="msg_update_error_code_success">Erledigt</string>

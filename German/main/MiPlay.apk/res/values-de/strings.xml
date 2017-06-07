@@ -6,6 +6,7 @@
   <string name="enable_wifi_message">WLAN einschalten, um sich mit Geräten in der Nähe zu verbinden</string>
   <string name="enable_wifi_title">WLAN einschalten</string>
   <string name="media_feature_projection">Bildschirm spiegeln</string>
+  <string name="media_route_controller_disconnect">Trennen</string>
   <string name="media_status_error">Fehler</string>
   <string name="media_status_started">Verbunden</string>
   <string name="media_status_starting">Verbindung wird hergestellt…</string>

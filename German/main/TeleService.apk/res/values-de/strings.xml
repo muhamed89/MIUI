@@ -1074,6 +1074,7 @@ Werde stattdessen bevorzugtes Netzwerk nutzen."</string>
   <string name="no_balance_title">Guthaben nicht ausreichend</string>
   <string name="no_call_barring">Anrufsperre ist deaktiviert</string>
   <string name="no_change">Es wurden keine Änderungen vorgenommen</string>
+    <string name="no_checked_network">Sie können sich nicht mit diesem Mobilfunknetz verbinden und Anrufe tätigen. Wählen Sie ein anderes Netzwerk?</string>
   <string name="no_data">Keine Daten</string>
   <string name="no_ecc_number">Keine benutzerdefinierte Notallnummer</string>
   <string name="no_internet_available">Überprüfen Sie zunächst Ihre Internetverbindung, bevor Sie einen Internetanruf tätigen</string>

@@ -139,6 +139,7 @@ Zuletzt gesichert am %2$s"</string>
   <string name="micloud_battery_low_notification_message">Zum Synchronisieren Aufladegerät verbinden</string>
   <string name="micloud_battery_low_notification_title">Geringer Akkustand</string>
   <string name="micloud_buy_member">Konto</string>
+    <string name="micloud_buy_member_safe">Mi Cloud Mitgliedschaft kaufen</string>
   <string name="micloud_check_sim_notify_text">"Sieht aus, als hätten Sie Ihre SIM-Karte(n) gewechselt. Melden Sie sich mit Ihrem Mi Konto an, um die Mi Cloud zu reaktivieren."</string>
   <string name="micloud_check_sim_notify_title">Reaktiviere Mi Cloud</string>
   <string name="micloud_check_sim_title">"Sieht aus, als hätten Sie Ihre SIM-Karte(n) gewechselt. Melden Sie sich mit Ihrem Mi Konto an, um die Mi Cloud zu reaktivieren."</string>
@@ -352,6 +353,7 @@ Berühre den Einstellungsknopf, um mehr Optionen zu sehen"</string>
   <string name="micloud_sync_alert_dialog_positive">OK</string>
   <string name="micloud_sync_alert_dialog_title">Mi Cloud verwenden</string>
   <string name="micloud_sync_off">Sync mit Mi Cloud ist deaktiviert</string>
+    <string name="micloud_sync_prompt_for_no_gallery_sync">Nur Kontakte, Notizen und Termine werden synchronisiert. Gehen Sie zu den Mi Cloud-Einstellungen, um mehr Inhalte zu synchronisieren.</string>
   <string name="micloud_title_dspt" formatted="false">"%s Gesamt
 %s benutzt | %s verbleibend"</string>
   <string name="micloud_title_dspt_remain">%s verbleibend</string>

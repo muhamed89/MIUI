@@ -16,4 +16,8 @@
         <item quantity="other">"Die gewünschte Aktion ist im Notfallrückrufmodus nicht verfügbar. Das Telefon ist die nächsten %s Minuten in diesem Modus. Möchten Sie diesen jetzt deaktivieren?"</item>
         <item quantity="one">"Die gewünschte Aktion ist im Notfallrückrufmodus nicht verfügbar. Das Telefon ist die nächste %s Minute in diesem Modus. Möchten Sie diesen jetzt deaktivieren?"</item>
     </plurals>
+    <plurals name="call_record_add_white_list_over_reminder">
+        <item quantity="other">Sie können %s Personen hinzufügen, wählen Sie noch einmal.</item>
+        <item quantity="one">Sie können %s Persone hinzufügen, wählen Sie noch einmal.</item>
+    </plurals>
 </resources>

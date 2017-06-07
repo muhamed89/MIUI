@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alert_reminder_interval_entries">
+        <item>Einmalig</item>
+        <item>Alle 2 Minuten</item>
+        <item>Alle 15 Minuten</item>
+        <item>Aus</item>
+        <item>Aus</item>
+    </string-array>
     <string-array name="alert_sound_duration_entries">
         <item>2 Sekunden</item>
         <item>4 Sekunden</item>
         <item>6 Sekunden</item>
         <item>8 Sekunden</item>
         <item>10 Sekunden</item>
-    </string-array>
-    <string-array name="alert_reminder_interval_entries">
-        <item>Einmalig</item>
-        <item>Alle 2 Minuten</item>
-        <item>Alle 15 Minuten</item>
-        <item>Aus</item>
     </string-array>
 </resources>

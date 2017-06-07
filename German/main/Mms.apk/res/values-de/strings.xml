@@ -553,6 +553,7 @@
   <string name="select_local_video">Video auswählen</string>
   <string name="select_message_send_sim">SIM-Karte wählen</string>
   <string name="select_recipient">Empfänger auswählen</string>
+    <string name="select_sim">SIM-Karte wählen</string>
   <string name="select_top_text">Text oben</string>
   <string name="send">Senden</string>
   <string name="send_hms_editor_hints">Mi Nachricht</string>
@@ -598,6 +599,9 @@
   <string name="sms_full_title">SMS-Speicher voll</string>
   <string name="sms_rejected_body">Eine eingehende Nachricht wurde aus unbekanntem Grund zurückgewiesen</string>
   <string name="sms_rejected_title">SMS abgelehnt</string>
+    <string name="sms_report_dialog_content">Bericht konnte nicht gesendet werden, versuchen Sie es noch einmal.</string>
+    <string name="sms_report_dialog_retry">Erneut versuchen</string>
+    <string name="sms_report_dialog_title">Erneut versuchen</string>
   <string name="sms_report_failed">Bericht konnte nicht gesendet werden</string>
   <string name="sms_report_success">Bericht gesendet</string>
   <string name="snippet_audio">[Audio]</string>
@@ -634,6 +638,8 @@
   <string name="storage_unavailable">Kein Speicher verfügbar</string>
   <string name="subject_hint">Betreff</string>
   <string name="subject_label">"Betreff: "</string>
+    <string name="switch_to_editor">Bearbeitungsmodus</string>
+    <string name="switch_to_menu">Menümodus</string>
   <string name="text_in_popup_saved_to_clipboard">In die Zwischenablage kopiert</string>
   <string name="text_message">SMS</string>
   <string name="timed_message_expired_title">%d geplante Nachricht(en) nicht gesendet</string>

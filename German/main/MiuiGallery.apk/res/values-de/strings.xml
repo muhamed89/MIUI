@@ -63,6 +63,8 @@
   <string name="adjust_sharpen">Schärfen</string>
   <string name="adjust_vignette">Vignette</string>
   <string name="album_already_exists">Ein Album mit dem selben Namen existiert bereits</string>
+    <string name="album_already_exists_check">Ansehen</string>
+    <string name="album_already_exists_msg">Das Album &quot;%s&quot; existiert bereits</string>
   <string name="album_already_forced_top">Bereits an oberster Stelle</string>
   <string name="album_camera_name">Kamera</string>
   <string name="album_detail_clear_local_page_empty">Kein lokales Foto oder Video, das gesichert wurde</string>

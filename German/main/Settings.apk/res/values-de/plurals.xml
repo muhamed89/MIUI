@@ -105,4 +105,24 @@
         <item quantity="other">Für %d Apps niemals deaktivieren</item>
         <item quantity="one">Für 1 App niemals deaktivieren</item>
     </plurals>
+    <plurals name="auto_startup_count">
+        <item quantity="other">%d Apps dürfen automatisch starten</item>
+        <item quantity="one">%d App darf automatisch starten</item>
+    </plurals>
+    <plurals name="free_wifi_connected_count">
+        <item quantity="other">%1$d Personen sind verbunden</item>
+        <item quantity="one">%1$d Person ist verbunden</item>
+    </plurals>
+    <plurals name="virus_scan_app_find_risk">
+        <item quantity="other">%d Risiken gefunden</item>
+        <item quantity="one">%d Risiko gefunden</item>
+    </plurals>
+    <plurals name="wifi_share_count">
+        <item quantity="other">%d geteilte Netzwerke</item>
+        <item quantity="one">%d geteiltes Netzwerk</item>
+    </plurals>
+<plurals name="lockpassword_pin_fixed_length">
+        <item quantity="other">PIN muss %d Ziffern lang sein</item>
+        <item quantity="one">PIN muss %d Ziffern lang sein</item>
+    </plurals>
 </resources>

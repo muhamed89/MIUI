@@ -14,6 +14,17 @@
   <string name="close">Schließen</string>
   <string name="dont_bore">Lassen Sie sich nicht von den Tasten und Benachrichtigungen beim Spielen stören</string>
   <string name="empty">" "</string>
+    <string name="fastboot_locked_answer_1">Fastboot ist die typische Methode um Mi Geräte zu flashen. Im Fastbootmodus können alle auf dem Gerät gespeicherten Daten direkt gelesen oder gelöscht werden. Wir sperren den Fastbootmodus, um die Sicherheit Ihrer Daten im Falle des Verlusts Ihres Gerätes zu gewährleisten und um Zuverlässigkeit der Funktion \"Gerät finden\" zu garantieren.</string>
+    <string name="fastboot_locked_answer_2">Falls Sie Ihr Gerät verlieren, garantiert Fastboot die auf dem Gerät gespeicherten Daten. Wenn Sie den Fastbootmodus entsperren, werden Sie Ihr Gerät nicht mehr aus der Ferne per \"Gerät finden\" sperren oder löschen können. Aus diesem Grund empfehlen wir, den Fastbootmodus nicht zu entsperren.</string>
+    <string name="fastboot_locked_answer_3">Sie sollten sich das Unlock Tool von der MIUI Webseite herunterladen. Um das Gerät zu entsperren, müssen wir sicherstellen, dass das Gerät Ihnen gehört. Deshalb sollten Sie sich mit Ihrem Mi Konto anmelden und \"Gerät finden\" aktivieren.</string>
+    <string name="fastboot_locked_question_1">Warum sollte der Fastbootmodus gesperrt werden?</string>
+    <string name="fastboot_locked_question_2">Gibt es beim Entsperren von Fastboot Risiken?</string>
+    <string name="fastboot_locked_question_3">Ich kenne die Risiken und möchte mein Gerät dennoch entsperren. Was soll ich tun?</string>
+    <string name="fastboot_status_locked_info">Fastboot ist auf diesem Gerät gesperrt</string>
+    <string name="fastboot_status_locked_summary">Kein Rootzugriff möglich</string>
+    <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
+    <string name="fastboot_unlock_web_title">Gehen Sie auf die offizielle MIUI Webseite und holen Sie sich das Unlock Tool.</string>
+    <string name="function_close">Aus</string>
   <string name="game_booster">Spielebeschleuniger</string>
   <string name="game_booster_intro">Über den Spielebeschleuniger</string>
   <string name="game_booster_total">%1$s Mal beschleunigt, %2$s Spielzeit hinzugefügt</string>

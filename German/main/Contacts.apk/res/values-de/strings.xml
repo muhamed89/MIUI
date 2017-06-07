@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_calllog_detail">Anruflistendetails</string>
+    <string name="accessibility_contact_detail">Kontaktdetails</string>
   <string name="account_container_title">Importiert von</string>
+    <string name="account_default">Telefon</string>
   <string name="account_phone">Telefon nicht synchronisiert</string>
   <string name="account_sim">SIM-Karte</string>
   <string name="account_sim2">SIM-Karte %d</string>
@@ -40,6 +42,7 @@
   <string name="audio_chat">Sprachchat</string>
   <string name="auto_nickname">Auto</string>
   <string name="auto_set_nickname">Auto</string>
+    <string name="back_description">Zurück</string>
   <string name="back_view_description">Antippen, um zurückzukehren</string>
   <string name="batch_delete">Mehrere löschen</string>
   <string name="blacklist">Blockieren</string>
@@ -192,6 +195,7 @@
   <string name="contactPickerActivityTitle">Kontakt auswählen</string>
   <string name="contactSavedErrorToast">Kontaktänderungen konnten nicht gespeichert werden</string>
   <string name="contactSavedToast">Kontakt gespeichert</string>
+    <string name="contact_clear_search_history">Verlauf leeren</string>
   <string name="contact_delete_toast">Kontakt gelöscht</string>
   <string name="contact_detail_action_item_calllog">Gesprächsverlauf</string>
   <string name="contact_detail_action_item_nocalllog">Kein Verlauf</string>
@@ -237,6 +241,7 @@ Kontaktkarten sind ausgeschaltet.</string>
   <string name="contact_list_loading">Lade…</string>
   <string name="contact_pick_photo">Bild</string>
   <string name="contact_read_only">Mit dieser App nicht bearbeitbar</string>
+    <string name="contact_search_history">Verlauf</string>
   <string name="contact_status_update_attribution">über %1$s</string>
   <string name="contact_status_update_attribution_with_date">%1$s über %2$s</string>
   <string name="contact_unfavorite_toast">Aus Favoriten entfernt</string>
@@ -291,7 +296,10 @@ Kontaktkarten sind ausgeschaltet.</string>
   <string name="description_add_contact">Kontakt hinzufügen</string>
   <string name="description_call">%1$s anrufen</string>
   <string name="description_call_log_incoming_call">Eingehender Anruf</string>
+    <string name="description_call_log_incoming_forwarding_call">Ankommender Weiterleitungsanruf</string>
   <string name="description_call_log_missed_call">Entgangener Anruf</string>
+    <string name="description_call_log_missed_forwarding_call">Entgangener Weiterleitungsanruf</string>
+    <string name="description_call_log_new_contact">Neuer Kontakt</string>
   <string name="description_call_log_outgoing_call">Ausgehender Anruf</string>
   <string name="description_call_log_play_button">Mailbox abhören</string>
   <string name="description_call_log_unheard_voicemail">Noch nicht abgehörte Sprachnachrichten</string>
@@ -756,6 +764,7 @@ Grund: \"%s\"."</string>
   <string name="miprofile_nick_name_edit_dialog_hint">Spitzname eingeben</string>
   <string name="miprofile_nick_name_edit_dialog_message">Spitzname wird in Anrufliste und Detail angezeigt</string>
   <string name="miprofile_nick_name_edit_dialog_title">Spitznamen bearbeiten</string>
+    <string name="miprofile_notice_close">Schließen</string>
   <string name="miprofile_notice_text">Tippen, um das Profilfoto anzuzeigen</string>
   <string name="miprofile_request_agenda_date">Diese Person möchte die Kontaktkarten austauschen [%1$s]</string>
   <string name="miprofile_request_agenda_today">Diese Person möchte die Kontaktkarten austauschen [Heute %1$s]</string>
@@ -1037,6 +1046,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="preview_incall_show_entry">Videovorschau</string>
   <string name="previous">Zurück</string>
   <string name="private_num">Private Nummer</string>
+    <string name="profile_delete_toast">Profil erfolgreich gelöscht</string>
   <string name="profile_display_name">Mein Profil einrichten</string>
   <string name="profile_name">Mein Profil</string>
   <string name="profile_name_photo">Ich</string>

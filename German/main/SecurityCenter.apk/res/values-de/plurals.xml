@@ -210,4 +210,12 @@
         <item quantity="other">+%d Punkte</item>
         <item quantity="one">+%d Punkt</item>
     </plurals>
+    <plurals name="app_manager_permission_summary_accept">
+        <item quantity="other">%d Berechtigungen erlaubt</item>
+        <item quantity="one">%d Berechtigunge erlaubt</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_ask">
+        <item quantity="other">Nach %d Berechtigungen fragen</item>
+        <item quantity="one">Nach %d Berechtigung fragen</item>
+    </plurals>
 </resources>
