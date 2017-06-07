@@ -72,6 +72,7 @@
   <string name="add_to_quicklink">Startseite</string>
   <string name="added_to_bookmarks">Zu Lesezeichen hinzugefügt</string>
   <string name="adjust_text_zoom_toast">Wenn Sie die Textgröße verändern, könnte das dazu führen, dass die Webseite nicht mehr korrekt angezeigt wird</string>
+    <string name="agree">Zustimmen</string>
   <string name="alert_tips">Diese Website kann ein Sicherheitsrisiko darstellen</string>
   <string name="allow">Erlaube</string>
   <string name="app_new_version">Die neueste Version dieser App ist bereits installiert</string>
