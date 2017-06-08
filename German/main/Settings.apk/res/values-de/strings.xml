@@ -2013,6 +2013,8 @@ Wenn Sie das automatische Backup einschalten, werden Geräte- und Appdaten perio
   <string name="home_key">Home</string>
   <string name="home_settings">Home</string>
   <string name="home_work_profile_not_supported">"Unterstützt keine Arbeitsprofile"</string>
+  <string name="http_invoke_app">Web Apps</string>
+  <string name="http_invoke_app_summary">Öffnen Sie Apps schneller, ohne sie zu installieren</string>
   <string name="ignore_optimizations_off">Optimieren</string>
   <string name="ignore_optimizations_off_desc">Empfohlen für mehr Akkulaufzeit</string>
   <string name="ignore_optimizations_on">Nicht optimieren</string>
