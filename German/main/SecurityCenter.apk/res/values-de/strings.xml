@@ -234,6 +234,15 @@ oder Passwort für Appsperre eingeben"</string>
   <string name="app_usage_recently">Kürzlich verwendet</string>
   <string name="app_version">Version</string>
   <string name="app_wifi">WLAN</string>
+  <string name="applock_add_account">Hinzufügen</string>
+  <string name="applock_add_account_info">"Füge Mi Account hinzu, um dein Passwort zurücksetzen zu können, falls du es vergisst"</string>
+  <string name="applock_add_account_setting">Account &amp; Privatsphäre</string>
+  <string name="applock_close_dialog_summary">Apps werden nicht mehr geschützt und Ihr Passwort wird gelöscht, nachdem Sie App lock deaktiviert haben.</string>
+  <string name="applock_close_dialog_title">App lock ausschalten?</string>
+  <string name="applock_exit_account_info">Das Konto wird bei der Abmeldung automatisch entfernt</string>
+  <string name="applock_login_and_add_account">Sign in &amp; hinzufügen</string>
+  <string name="applock_not_add_account">Nichtg jetzt</string>
+  <string name="applock_not_login_account">"You aren't signed in"</string>
   <string name="apps_item_sign_dialog_content">\"%s\"Signatur ist unterschiedlich zu Version im App Store. Diese Version löschen und die offizielle Version installieren? Hinweis: Eine App mit unterschiedlicher Signatur zu installieren kann zu Datnverlust führen.</string>
   <string name="apps_item_sign_dialog_title">Offizielle Version installieren</string>
   <string name="apps_item_sign_install_button_text">Ersetzen</string>
