@@ -45,13 +45,13 @@
     <string name="keyguard_charging_info_battery_used_time_text">Akkubetrieb</string>
     <string name="keyguard_charging_info_charging_full_need_hour_time__text">Etwa %d Std bis voll</string>
     <string name="keyguard_charging_info_charging_full_need_min_time__text">Etwa %d Min bis voll​</string>
-    <string name="keyguard_charging_info_charging_full_need_time__text">Etwa %d Std %d Min bis voll</string>
+    <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">Etwa %d Std %d Min bis voll</string>
     <string name="keyguard_charging_info_charging_text">Aufladen</string>
     <string name="keyguard_charging_info_charging_voltage_text">Spannung</string>
     <string name="keyguard_charging_info_click_to_detail">Details anzeigen</string>
     <string name="keyguard_charging_info_could_use_hour_time_text">Etwa %d Std verbleiben</string>
     <string name="keyguard_charging_info_could_use_min_time_text">Etwa %d Min verbleiben</string>
-    <string name="keyguard_charging_info_could_use_time_text">Etwa %d Std %d Min verbleiben</string>
+    <string name="keyguard_charging_info_could_use_time_text" formatted="false">Etwa %d Std %d Min verbleiben</string>
     <string name="keyguard_charging_info_current_now_text">Echtzeit-Monitoring</string>
     <string name="keyguard_charging_info_data_c">%s℃</string>
     <string name="keyguard_charging_info_data_ma">%smA</string>
@@ -60,7 +60,7 @@
     <string name="keyguard_charging_info_drained_hour_time_format">%d Std</string>
     <string name="keyguard_charging_info_drained_min_time_format">%d Min</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Entladen</string>
-    <string name="keyguard_charging_info_drained_time_format">%d Std %d Min</string>
+    <string name="keyguard_charging_info_drained_time_format" formatted="false">%d Std %d Min</string>
     <string name="keyguard_charging_info_finished_charging_text">Voll aufgeladen</string>
     <string name="keyguard_charging_info_last_charge_time">M/d H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Heute %s</string>
