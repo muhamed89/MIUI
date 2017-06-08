@@ -312,6 +312,7 @@ Berühre den Einstellungsknopf, um mehr Optionen zu sehen"</string>
   <string name="micloud_notif_title_battery_low">"Kann nicht mit Mi Cloud synchronisieren"</string>
   <string name="micloud_notif_title_clipboard_push">Inhalt in die Zwischenablage kopiert</string>
   <string name="micloud_notif_title_depend_wifi">%d warten auf Synchronisierung</string>
+  <string name="micloud_notif_title_dirty_data">Sie haben unsynchronisierte Elemente</string>
   <string name="micloud_notif_title_master_depend_wifi">Synchronisierung mit Mi Cloud nicht möglich</string>
   <string name="micloud_notif_title_memory_low">Synchronisierung mit Mi Cloud nicht möglich</string>
   <string name="micloud_notif_title_multi_user_error">Synchronisierung mit Mi Cloud nicht möglich</string>
