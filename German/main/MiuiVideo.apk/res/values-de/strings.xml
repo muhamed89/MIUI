@@ -532,10 +532,6 @@
     <string name="v_cancel">Abbrechen</string>
     <string name="v_canceled">Abgebrochen</string>
     <string name="v_category">Kategorien</string>
-    <string name="v_clause_info">1. To be able to use the online services provided by Sohu TV, iQiyi, etc., you must agree to our <a href="http://www.miui.com/res/doc/eula.html">User Agreement</a> and <a href="http://www.miui.com/res/doc/privacy.html">Privacy Policy</a>.
-2. We'll collect the info about your device and the way you use Mi Video. Content providers will collect your device ID.
-3. To improve your user experience, an HD video-plug-in will be downloaded and installed on your device.
-4. Mi Video needs to connect to the network to work normally.</string>
     <string name="v_clause_notips">Nicht wieder anzeigen</string>
     <string name="v_clause_title">Geschäftsbedingungen</string>
     <string name="v_click_channel_scrol_to_top">Nochmal antippen, um zurück zu gehen</string>
