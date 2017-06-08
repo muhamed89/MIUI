@@ -1,75 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="download_finished">
-        <item quantity="other">&lt;font color=\"red\">%d songs&lt;/font> downloaded</item>
-        <item quantity="one">&lt;font color==\"red\">%d song&lt;/font> downloaded</item>
+        <item quantity="other">&lt;font color=\"red\">%d Lieder&lt;/font> runtergeladen</item>
+        <item quantity="one">&lt;font color==\"red\">%d Lied&lt;/font> runtergeladen</item>
     </plurals>
     <plurals name="download_running">
-        <item quantity="other">&lt;font color=\"red\">%d songs&lt;/font> downloading</item>
-        <item quantity="one">&lt;font color==\"red\">%d song&lt;/font> downloading</item>
+        <item quantity="other">&lt;font color=\"red\">%d Lieder&lt;/font> runtergeladen</item>
+        <item quantity="one">&lt;font color==\"red\">%d Lied&lt;/font> runtergeladen</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">Delete %d items?</item>
-        <item quantity="one">Delete %d item?</item>
+        <item quantity="other">Lösche %d Artikel?</item>
+        <item quantity="one">Lösche %d Artikel?</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">%d downloads removed</item>
-        <item quantity="one">%d download removed</item>
+        <item quantity="other">%d Downloads entfernt</item>
+        <item quantity="one">%d Download entfernt</item>
     </plurals>
     <plurals name="Ntracks_search_result">
-        <item quantity="other">%d songs found</item>
-        <item quantity="one">%d song found</item>
+        <item quantity="other">%d Lieder gefunden</item>
+        <item quantity="one">%d Lied gefunden</item>
     </plurals>
     <plurals name="Nexpired_remind">
-        <item quantity="other">%d days remaining</item>
-        <item quantity="one">%d day remaining</item>
+        <item quantity="other">%d verbleibende Tage</item>
+        <item quantity="one">%d verbleibender Tag</item>
     </plurals>
     <plurals name="NPlaylist_delete_confirm">
-        <item quantity="other">Delete %d playlists?</item>
-        <item quantity="one">Delete %d playlist?</item>
+        <item quantity="other">Lösche %d Playlisten?</item>
+        <item quantity="one">Lösche %d Playliste?</item>
     </plurals>
     <plurals name="Nnew_tracks_count">
-        <item quantity="other">%d new</item>
+        <item quantity="other">%d neu</item>
     </plurals>
     <plurals name="Ntracks_count">
-        <item quantity="other">%d songs</item>
-        <item quantity="one">%d song</item>
+        <item quantity="other">%d Lieder</item>
+        <item quantity="one">%d Lied</item>
     </plurals>
     <plurals name="Ntracks_similar_count">
-        <item quantity="other">%d similar songs</item>
-        <item quantity="one">%d similar song</item>
+        <item quantity="other">%d ähnliche Lieder</item>
+        <item quantity="one">%d ähnliches Lied</item>
     </plurals>
     <plurals name="Nartists_count">
-        <item quantity="other">%d artists</item>
-        <item quantity="one">%d artist</item>
+        <item quantity="other">%d Künstler</item>
+        <item quantity="one">%d Künstler</item>
     </plurals>
     <plurals name="Ngroups_count">
-        <item quantity="other">%d bands</item>
-        <item quantity="one">%d band</item>
+        <item quantity="other">%d Musikgruppen</item>
+        <item quantity="one">%d Musikgruppe</item>
     </plurals>
     <plurals name="dialog_delete_descript">
-        <item quantity="other">Delete %d songs?</item>
-        <item quantity="one">Delete %d song?</item>
+        <item quantity="other">Lösche %d Lieder?</item>
+        <item quantity="one">Lösche %d Lied?</item>
     </plurals>
     <plurals name="dialog_remove_descript">
-        <item quantity="other">Remove %d songs?</item>
-        <item quantity="one">Remove %d song?</item>
+        <item quantity="other">Entferne %d Lieder?</item>
+        <item quantity="one">Entferne %d Lied?</item>
     </plurals>
     <plurals name="dialog_remove_from_cloud_descript">
-        <item quantity="other">Delete %d songs from Mi Cloud? They will be deleted from local playlists as well.</item>
-        <item quantity="one">Delete %d song from Mi Cloud? It will be deleted from local playlists as well.</item>
+        <item quantity="other">%d Lieder von Mi Cloud löschen? Diese werden von der lokalen Playlist ebenfalls entfernt.</item>
+        <item quantity="one">%d Lied von Mi Cloud löschen? Dieses wird von der lokalen Playlist ebenfalls entfernt.</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
-        <item quantity="other">%d songs added to playlist</item>
-        <item quantity="one">%d song added to playlist</item>
+        <item quantity="other">%d Lieder zur Playlist hinzugefügt</item>
+        <item quantity="one">%d Lied zur Playlist hinzugefügt</item>
     </plurals>
     <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">%d songs removed from playlist</item>
-        <item quantity="one">%d song removed from playlist</item>
+        <item quantity="other">%d Lieder von Playlist entfernt</item>
+        <item quantity="one">%d Lied von Playlist entfernt</item>
     </plurals>
     <plurals name="Nquit_warning">
-        <item quantity="other">Player will stop in %d minutes</item>
-        <item quantity="one">Player will stop in %d minute</item>
+        <item quantity="other">Player stoppt in %d Minuten</item>
+        <item quantity="one">Player stoppt in %d Minute</item>
     </plurals>
     <plurals name="send_songs_toast">
         <item quantity="other">%d songs will be sent</item>
