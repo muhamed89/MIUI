@@ -18,8 +18,8 @@
         <item quantity="one">%d Interpret</item>
     </plurals>
     <plurals name="Nbackup_songs">
-        <item quantity="other">Titel werden gesichert, %d Titel verbleibend (%.1fMB)</item>
-        <item quantity="one">Titel wird gesichert, %d Titel verbleibend (%.1fMB)</item>
+        <item quantity="other">Backing up songs, %1$d songs remaining (%2$.1fMB)</item>
+        <item quantity="one">Backing up song, %1$d song remaining (%2$.1fMB)</item>
     </plurals>
     <plurals name="Nexpired_remind">
         <item quantity="other">%d Tage verbleibend</item>
