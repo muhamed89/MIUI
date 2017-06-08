@@ -526,7 +526,6 @@
     <string name="v_all_episode">Alle Episoden</string>
     <string name="v_app_check_failed">App konnte nicht verifiziert werden</string>
     <string name="v_app_click_to_install">Zum Installieren antippen</string>
-    <string name="v_app_download_failed">Couldn&apos;t download app, tap to try again.</string>
     <string name="v_app_downloaded">Mi Video wurde erfolgreich heruntergeladen</string>
     <string name="v_app_downloading">Mi Video wird heruntergeladen…</string>
     <string name="v_auto_update">Automatisch aktualisieren</string>
@@ -572,7 +571,6 @@ Suchen Sie nach etwas anderem.</string>
     <string name="v_not_login">Nicht angemeldet</string>
     <string name="v_offline_video">Lokale Videos</string>
     <string name="v_ok">OK</string>
-    <string name="v_onlineservice_close_info">You won&apos;t be able to play new videos after you turn off online services.</string>
     <string name="v_onlineservice_close_title">Achtung</string>
     <string name="v_onlineservice_open_info">Turn on online services to use this feature.</string>
     <string name="v_onlineservice_open_title">Achtung</string>
@@ -637,7 +635,6 @@ Suchen Sie nach etwas anderem.</string>
     <string name="vip_tequan_desc_fastzj">VIP fast Chase Drama and watch fully</string>
     <string name="vip_tequan_desc_freevideos">All-round override IQiYi Videos</string>
     <string name="vip_tequan_desc_newvideo">Cinema New Film Freely Watch</string>
-    <string name="vip_tequan_desc_skipad">VIP&apos;s videos free and skip ad watch</string>
     <string name="vip_tequan_desc_speedchannel">VIP Kanal</string>
     <string name="vip_tequan_desc_vipid">Exklusiv Club ID</string>
     <string name="vip_tequan_title_fastzj">Schnelle Verfolgung</string>
