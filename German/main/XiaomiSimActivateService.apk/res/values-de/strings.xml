@@ -106,7 +106,7 @@ Geben Sie die zugehörige Telefonnummer  ein, um %s zu reaktiviren"</string>
   <string name="activate_status_desc_wait_for_sms_success">Aktivierungs-SMS erhalten</string>
   <string name="activate_status_title_activating">SIM-Karte wird aktiviert…</string>
   <string name="activate_status_title_activating_msim">SIM-Karte  %s wird aktiviert…</string>
-  <string name="app_name">Xiaomi Aktivierugsservice für SIM-Karten</string>
+  <string name="app_name">Xiaomi Aktivierungsservice für SIM-Karten</string>
   <string name="error_device_id_message">Ungültige Geräte-ID: %s</string>
   <string name="explain_send_sms_permission_button">Verifizieren</string>
   <string name="explain_send_sms_permission_msg">Zum Aktivieren Ihrer %s wird Xiaomi-Service eine SMS senden, um Ihre Telefonnummer zu verifizieren. Es fallen dafür Gebühren bei Ihrem Netzbetreiber an.</string>
