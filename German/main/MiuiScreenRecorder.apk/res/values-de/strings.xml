@@ -23,7 +23,7 @@
     <string name="deselect_all">Keine auswählen</string>
     <string name="error_open_file_failed_no_app_found">Es konnte keine App zum Öffnen dieser Datei gefunden werden</string>
     <string name="frames">Bildfrequenz</string>
-    <string name="frames_summary">Eine höhere Bildfrequenz verrigngert die Bewegungsunschärfe</string>
+    <string name="frames_summary">Eine höhere Bildfrequenz verringert die Bewegungsunschärfe</string>
     <string name="gleam_led_while_recording">LED während der Aufnahme blinken lassen</string>
     <string name="hint_back">Zurück</string>
     <string name="hint_home">Home</string>
