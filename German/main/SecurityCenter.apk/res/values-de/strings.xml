@@ -956,6 +956,7 @@ Mobilfunkanbieters gewartet"</string>
   <string name="main_toolbar_internet_by_pc_brige">USB-Internet</string>
   <string name="main_toolbar_internet_by_wifi">WLAN</string>
   <string name="main_toolbar_purchase">Aufladen</string>
+  <string name="main_toolbar_statistic">Datenverwendung Statistik</string>
   <string name="main_toolbar_saving">Reduzieren</string>
   <string name="manual_handle_title">VERFÜGBARE FUNKTIONEN</string>
   <string name="manual_input_free_traffic">Datenlimit außerhalb der Hauptzeit festlegen</string>
