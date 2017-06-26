@@ -43,6 +43,7 @@
   <string name="audio_message_expired">Diese Sprachnachricht ist abgelaufen</string>
   <string name="audio_message_mx_offline">Sprachnachricht konnte nicht geladen werden. Mi Message ist offline oder nicht verfügbar.</string>
   <string name="audio_playing_seconds">%d\"</string>
+  <string name="audio_sim_card_mismatching">Es ist keine Netzwerkverbindung oder falsche SIM-Karte installiert. Installieren Sie die SIM-Karte, von der die Nachricht gesendet wurde, und stellen Sie eine Verbindung zum Netzwerk her.</string>
   <string name="back_to_message_list">Zurück zur Nachrichtenliste</string>
   <string name="batch_adding_progress_message">Wird hinzugefügt…</string>
   <string name="batch_delete_confirm_dialog_message">%1$s Nachricht(en) löschen?</string>
@@ -50,6 +51,7 @@
   <string name="batch_deleting_progress_message">Wird gelöscht…</string>
   <string name="bcc_label">"Bcc: "</string>
   <string name="block_messaging_entry_title">Blockierte SMS</string>
+  <string name="block_support_text">Unterstützt von Antiy.</string>
   <string name="bookmark">Favoriten</string>
   <string name="bookmark_confirm_delete_message">Ausgewählte Nachrichten aus den Favoriten entfernen?</string>
   <string name="bookmark_empty">Keine Favoriten</string>
@@ -167,6 +169,7 @@
   <string name="exceed_message_text_limitation">Maximale Textlänge erreicht</string>
   <string name="expire_on">Ablaufdatum: %s</string>
   <string name="exporting_progress_private_message">Exportiere…</string>
+  <string name="fail_to_add_attachment">"Kann Anhang nicht hinzufügen"</string>
   <string name="failed_to_add_media">%1$s konnte nicht zur Nachricht hinzugefügt werden</string>
   <string name="failed_to_resize_image">Bildgröße nicht angepasst</string>
   <string name="fake_cell_alert_hint">Sieht so aus, als wurde diese Nachricht von einer anderen Nummer als der angezeigten gesendet. Seien Sie vorsichtig, wenn Sie nach sensiblen Daten gefragt werden.</string>
@@ -317,6 +320,7 @@
   <string name="mx_activate_int_hint_malformed_info">Zum Reaktivieren von Mi Nachrichten wird eine evtl. gebührenpflichtige (providerabhängig) Auslands-SMS versendet</string>
   <string name="mx_activate_int_hint_server">Zum Reaktivieren von Mi Nachrichten wird eine evtl. gebührenpflichtige (providerabhängig) Auslands-SMS versendet</string>
   <string name="mx_activate_int_hint_sim_change">SIM-Karte getauscht. Zum Reaktivieren von Mi Nachrichten wird eine evtl. gebührenpflichtige (providerabhängig) SMS versendet</string>
+  <string name="mx_activate_network_allow_notice">Dieser Dienst benötigt Zugang zu mobilen Daten, um normal zu arbeiten.</string>
   <string name="mx_activate_status_desc_activating_now">Aktivieren…</string>
   <string name="mx_activate_status_desc_check_net_connection">"Keine Netzwerkverbindung"</string>
   <string name="mx_activate_status_desc_fail">"Mi Message konnte nicht aktiviert werden"</string>
@@ -397,6 +401,9 @@
   <string name="play">Abspielen</string>
   <string name="playing_failed">Kann nicht abgespielt werden</string>
   <string name="prefDefault_ringtone_repeat">1</string>
+  <string name="prefDefault_vibrateWhen">Niemals</string>
+  <string name="prefDefault_vibrate_false">Niemals</string>
+  <string name="prefDefault_vibrate_true">Immer</string>
   <string name="pref_advanced_settings_title">Erweiterte Einstellungen</string>
   <string name="pref_allow_network_access_summary">Erhalten Sie Zustellberichte und andere Informationen</string>
   <string name="pref_cell_broadcast">Netzbroadcasts</string>
@@ -404,7 +411,7 @@
   <string name="pref_delivery_ringtone">Benachrichtigungston</string>
   <string name="pref_edit_smsc_address">SMS-Zentrale</string>
   <string name="pref_forward_title">Weiterleiten</string>
-    <string name="pref_hide_verification_code_summary">Einmalpasswörter in Benachrichtigungen am Sperrbildschirm automatisch verbergen</string>
+  <string name="pref_hide_verification_code_summary">Einmalpasswörter in Benachrichtigungen am Sperrbildschirm automatisch verbergen</string>
   <string name="pref_key_mx_feedback">Feedback senden</string>
   <string name="pref_message_recovery_introduction_title">Nachrichten wiederherstellen</string>
   <string name="pref_messages_to_save">Anzahl zu speichernder Nachrichten festlegen</string>
