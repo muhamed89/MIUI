@@ -1,5 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Suchen…</item>
+        <item>Verbinden…</item>
+        <item>Authentifizierung…</item>
+        <item>IP-Adresse erhaltens…</item>
+        <item>Verbunden</item>
+        <item>Suspendiert</item>
+        <item>Trennen…</item>
+        <item>Getrennt</item>
+        <item>Erfolglos</item>
+        <item>Blockiert</item>
+        <item>Vermeidung von schlechten Verbindungen</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Suchen…</item>
+        <item>Verbinden mit %1$s…</item>
+        <item>Authentifizierung mit %1$s…</item>
+        <item>IP Adresse erhalten von %1$s…</item>
+        <item>Verbunden mit %1$s</item>
+        <item>Suspendiert</item>
+        <item>Trennen von %1$s…</item>
+        <item>Getrennt</item>
+        <item>Erfolglos</item>
+        <item>Blockiert</item>
+        <item>Vermeidung von schlechten Verbindungen</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Never check</item>
+        <item>Check for DRM content only</item>
+        <item>Always check</item>
+    </string-array>
+    <string-array name="hdcp_checking_values">
+        <item>never</item>
+        <item>drm-only</item>
+        <item>always</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Never use HDCP checking</item>
+        <item>Use HDCP checking for DRM content only</item>
+        <item>Always use HDCP checking</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Aus</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Aus</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
    <string-array name="long_press_volume_down_action">
         <item>Keine Action</item>
 	<item>Foto Aufnahmemodus</item>
@@ -656,6 +713,11 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
         <item>Automatisch verbinden</item>
         <item>Manuell verbinden</item>
         <item>Immer fragen</item>
+    </string-array>
+        <string-array name="traffic_balance_entries">
+        <item>Schließen</item>
+        <item>Normaler Modus</item>
+        <item>Extremer Modus</item>
     </string-array>
     <string-array name="slideshow_time_entries">
         <item>5 Minuten</item>
