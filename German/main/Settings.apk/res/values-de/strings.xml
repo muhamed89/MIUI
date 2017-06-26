@@ -3474,6 +3474,7 @@ Betriebssystem auswählen:"</string>
   <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
   <string name="proxy_url_title">"PAC URL: "</string>
   <string name="proxy_warning_limited_support">Der HTTP-Proxy wird vom Browser, aber nicht von anderen Apps verwendet.</string>
+  <string name="physical_keyboard_title">Hardware Tastatur</string>
   <string name="qtifeedback_settings_subtitle">Qualcomm Technologies Reporting</string>
   <string name="qtifeedback_settings_title">Hardware Feedback</string>
   <string name="query_hint_text">Sucheinstellungen</string>
@@ -5184,6 +5185,7 @@ Jeder Nutzer kann aktualisierte Appberechtigungen im Namen aller anderen Nutzer 
   <string name="vibrate_input_devices_summary">Vibration an Controller weitergeben, wenn verbunden.</string>
   <string name="vibrate_on_touch_title">Bei Berührung vibrieren</string>
   <string name="vibrate_when_ringing_title">Beim Klingeln vibrieren</string>
+  <string name="virtual_keyboard_category">Virtuelle Tastatur</string>
   <string name="virtual_sim_category_title">Virtuelle SIM</string>
   <string name="virtual_sim_description">Zuverlässiger internationaler Roamingdienst</string>
   <string name="virtual_sim_global_category_title">Mi SIM</string>
