@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="batch_delete_confirm_dialog_message">
-        <item quantity="other">%1$s Nachrichten löschen?</item>
-        <item quantity="one">%1$s Nachricht löschen?</item>
-    </plurals>
     <plurals name="confirm_delete_conversation">
         <item quantity="other">%1$s Unterhaltungen löschen?</item>
         <item quantity="one">Unterhaltung löschen?</item>
@@ -26,6 +22,15 @@
         <item quantity="other">%1$s Personen</item>
         <item quantity="one">1 Person</item>
     </plurals>
+    <plurals name="batch_delete_confirm_dialog_message">
+        <item quantity="other">Lösche %1$s Nachrichten?</item>
+        <item quantity="one">Lösche %1$s Nachricht?</item>
+    </plurals>
+    <plurals name="hint_search_sms">
+        <item quantity="other">%d Nachrichten</item>
+        <item quantity="zero">%d Nachrichten</item>
+        <item quantity="one">%d Nachricht</item>
+    </plurals>
     <plurals name="cloud_sms_count">
         <item quantity="other">%d Nachrichten</item>
         <item quantity="zero">0 Nachrichten</item>
@@ -38,5 +43,10 @@
     <plurals name="message_count">
         <item quantity="other">%1$s Nachrichten</item>
         <item quantity="one">%1$s Nachricht</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d ausgewählt</item>
+        <item quantity="zero">Element auswählen</item>
+        <item quantity="one">%d ausgewählt</item>
     </plurals>
 </resources>
