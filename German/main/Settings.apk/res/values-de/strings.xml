@@ -4885,6 +4885,10 @@ Bitte bereinigen Sie mindestens %s"</string>
   <string name="tts_notif_engine_install_title">Sprachsynthese installiert</string>
   <string name="tts_play_example_summary">Kurze Demonstration der Sprachsynthese abspielen</string>
   <string name="tts_play_example_title">Beispiel anhören</string>
+  <string name="tts_reset_speech_pitch_summary">Setzen Sie die Tonhöhe zurück, bei der der Text mit der Voreinstellung gesprochen wird.</string>
+  <string name="tts_reset_speech_pitch_title">Tonhöhe zurücksetzen</string>
+  <string name="tts_reset_speech_rate_summary">Setzen Sie die Geschwindigkeit, mit der der Text normal gesprochen wird, zurück.</string>
+  <string name="tts_reset_speech_rate_title">Sprachfrequenz zurücksetzen</string>
   <string name="tts_settings">Text-in-Sprache</string>
   <string name="tts_settings_changed_demo">Ihre Einstellungen wurden geändert. Dies ist ein Klangbeispiel.</string>
   <string name="tts_settings_title">Text-in-Sprache-Ausgabe</string>
