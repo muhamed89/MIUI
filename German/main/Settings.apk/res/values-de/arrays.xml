@@ -117,34 +117,6 @@
         <item>Groß</item>
         <item>Extra Groß</item>
     </string-array>
-    <string-array name="wifi_status">
-        <item></item>
-        <item>Suche…</item>
-        <item>Verbindung wird hergestellt…</item>
-        <item>Authentifiziert…</item>
-        <item>IP-Adresse wird abgerufen…</item>
-        <item>Verbunden</item>
-        <item>Angehalten</item>
-        <item>Verbindung wird getrennt…</item>
-        <item>Nicht verbunden</item>
-        <item>Nicht erfolgreich</item>
-        <item>Blockiert</item>
-        <item>Schlechte Internetverbindung wird vorübergehend vermieden.</item>
-    </string-array>
-    <string-array name="wifi_status_with_ssid">
-        <item></item>
-        <item>Suche…</item>
-        <item>Verbindung mit %1$s wird hergestellt…</item>
-        <item>Authentifizierung mit %1$s…</item>
-        <item>IP-Adresse wird von %1$s abgerufen…</item>
-        <item>Verbunden mit %1$s</item>
-        <item>Angehalten</item>
-        <item>Verbindung mit %1$s wird getrennt…</item>
-        <item>Nicht verbunden</item>
-        <item>Nicht erfolgreich</item>
-        <item>Blockiert</item>
-        <item>Schlechte Internetverbindung wird vorübergehend vermieden.</item>
-    </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Push-Taste</item>
         <item>PIN vom Peer-Gerät</item>
@@ -426,16 +398,6 @@
         <item>1M pro Log Buffer</item>
         <item>4M pro Log Buffer</item>
         <item>16M pro Log Buffer</item>
-    </string-array>
-    <string-array name="hdcp_checking_titles">
-        <item>Nie prüfen</item>
-        <item>Nur auf DRM-Inhalte prüfen</item>
-        <item>Immer prüfen</item>
-    </string-array>
-    <string-array name="hdcp_checking_summaries">
-        <item>HDCP-Prüfung nie verwenden</item>
-        <item>HDCP-Prüfung nur für DRM-Inhalte verwenden</item>
-        <item>HDCP-Prüfung immer verwenden</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animation aus</item>
