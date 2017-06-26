@@ -134,6 +134,7 @@
   <string name="delivery_report_activity">Zustellbericht</string>
   <string name="delivery_toast_body">%s hat die Nachricht erhalten.</string>
   <string name="disable_notifications_dialog_message">Doppelte SMS-Benachrichtigungen von der Standardnachrichtenapp verhindern?</string>
+  <string name="disabled">Aus</string>
   <string name="discard">Verwerfen</string>
   <string name="discard_message">Verwerfen</string>
   <string name="discard_message_reason">Nachricht wird verworfen, da keine gültigen Empfänger vorhanden sind</string>
@@ -148,7 +149,7 @@
   <string name="duration_sec">Dauer (%s Sek.)</string>
   <string name="duration_selector_title">"Dauer für Dia "</string>
   <string name="duration_zero">Dauer muss mehr als 0 Sekunden betragen</string>
-  <string name="edit">Ändern</string>
+  <string name="earlier">Vorher</string>
   <string name="edit_nickname_for_nocontact">Sie müssen zuerst einen Empfänger hinzufügen</string>
   <string name="edit_nickname_for_nocontact_by_robot">Sie müssen zuerst einen Empfänger hinzufügen</string>
   <string name="edit_phrase">Vorlage ändern</string>
@@ -668,6 +669,8 @@
   <string name="to_count">%d Empfänger</string>
   <string name="to_label">"An "</string>
   <string name="to_send_wrapper">Wird um %s gesendet</string>
+  <string name="today">Heute</string>
+
   <string name="toast_description_required">Sie können keine leere Nachricht senden</string>
   <string name="toast_feedback_finish">Ihre Meldung wird automatisch gesendet, sobald Sie mit dem WLAN verbunden sind</string>
   <string name="toast_feedback_max">Es können maximal 3 Meldungen pro Tag versendet werden</string>
@@ -718,4 +721,5 @@ Bisherige Versuche: %s."</string>
   <string name="xiaomi_service_number">Servicenummer</string>
   <string name="yellowpage_recommend_msg">Probieren Sie die MIUI SMS-Funktionen</string>
   <string name="yes">OK</string>
+  <string name="yesterday">Gestern</string>
 </resources>
