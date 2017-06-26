@@ -4755,6 +4755,8 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="trackball_wake_title">Trackball aufwachen</string>
   <string name="trans_backingup">Sichern…</string>
   <string name="trans_backingup_no_items">Synchronisieren…</string>
+  <string name="traffic_balance">Intelligente Daten Strategie</string>
+
   <string name="trans_calculating">Wird berechnet…</string>
   <string name="trans_calculating_app_sd_size">Datengröße wird berechnet, %s gescannt</string>
   <string name="trans_calculating_base_size">Datengröße wird berechnet</string>
