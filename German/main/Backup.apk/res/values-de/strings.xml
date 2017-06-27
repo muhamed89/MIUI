@@ -85,7 +85,6 @@
   <string name="delete_backup_title">Sicherung löschen</string>
   <string name="delete_failed_backup_confirm">Diese Sicherung ist fehlerhaft.</string>
   <string name="deselect_all">Alle abwählen</string>
-  <string name="digit_percent">%</string>
   <string name="dir_date_format">ddMMyyyy_HHmmss</string>
   <string name="disable_encrypt_title">Verschlüsselung ausschalten</string>
   <string name="enable_encrypt">Verschlüsselung Einschalten</string>
@@ -340,7 +339,6 @@ Gehen Sie zu Einstellungen &gt; weitere Einstellungen &gt; Mi Mover
   <string name="user_notice_message">Einige Funktionen erfordern eine Internetverbindung, um ordnungsgemäß zu funktionieren.</string>
   <string name="user_notice_title">Achtung</string>
   <string name="wifi_title">WLAN-Einstellungen</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_connect_download_manager_fail">Verbindung mit dem Downloadmanager ist fehlgeschlagen, bitte überprüfen Sie den Downloadmanagerstatus im Appmanagement.</string>
   <string name="xiaomi_external_storage_unavailable">Kein Speicherplatz verfügbar, überprüfen Sie die SD-Karte.</string>
