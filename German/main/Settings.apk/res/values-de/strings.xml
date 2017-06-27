@@ -1697,6 +1697,7 @@ Das hilft Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
   <string name="encryption_interstitial_message_pin_for_fingerprint">"Zusätzlich zur Verwendung Ihres Fingerabdrucks zum Entperren des Geräts, können Sie es durch Abfrage einer PIN schützen, bevor es hochfährt. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, einschließlich Alarme, entgegennehmen.
 
 Das hilft Daten auf verlorenen oder gestohlenen Geräten zu schützen."</string>
+  <string name="encryption_progress_summary">"Verschlüsseln, starten Sie Ihr Gerät nicht neu."</string>
   <string name="enforce_read_external_confirm_message">"Bei geschütztem USB-Speicher müssen Apps die Berechtigung erhalten, um Daten vom externen Speicher lesen zu dürfen.
 
 Einige Apps könnten eventuell nicht funktionieren, bis Sie von ihrem Entwickler aktualisiert wurden."</string>
@@ -2961,6 +2962,7 @@ Betriebssystem auswählen:"</string>
   <string name="owner_info_settings_edit_text_hint">Hier Eigentümerinformationen eingeben</string>
   <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_title">Info zum Eigentümer</string>
+  <string name="owner_space">Erster Space</string>
   <string name="packages_subtitle">Enthaltene Pakete</string>
   <string name="pad_applock">Appsperre</string>
   <string name="pad_bind_xiaomi_account_success">Mi Konto erfolgreich verbunden</string>
@@ -4278,6 +4280,7 @@ Möglicherweise falsche PIN."</string>
   <string name="sim_lock_settings_category">SIM-Sperre einrichten</string>
   <string name="sim_lock_settings_title">SIM-Kartensperre</string>
   <string name="sim_management_title">SIM-Verwaltung</string>
+  <string name="sim_management_title_cr_kolbi">SIM Karte &amp; Mobiles Netzwerk</string>
   <string name="sim_missing">Fehlt oder Fehler</string>
   <string name="sim_multi_sims_summary">Wählen Sie die SIM-Karte, die Sie für mobile Daten bevorzugen.</string>
   <string name="sim_multi_sims_title">Mehrere SIM-Karten gefunden</string>
