@@ -517,7 +517,6 @@ Diese Funktion verschlüsselt und sendet ihre Geräte-ID zum Mi-Server."</string
   <string name="wipe_data_dialog_msg">%s wurden nicht synchronisiert und bleibten auf dem Telefon</string>
   <string name="wipe_data_dialog_msg_and_on">" und einige andere Inhalte"</string>
   <string name="wipe_data_dialog_title">Einige Inhalte wurden nicht synchronisiert</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmpp_server_addr"/>
 </resources>
