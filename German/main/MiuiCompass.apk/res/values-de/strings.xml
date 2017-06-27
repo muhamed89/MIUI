@@ -7,6 +7,8 @@
   <string name="altitude_uncalibrate_refresh">Erneut versuchen</string>
   <string name="altitude_uncalibrate_tip">Höhe kann nicht kalibriert werden</string>
   <string name="altitude_unit">M</string>
+  <string name="app_description_content">Kompass wird für Navigation und Orientierung verwendet und zeigt dir Richtung. Vergewissern Sie sich, dass Sie auf diese Funktionen verzichten können, bevor Sie die App deinstallieren.</string>
+  <string name="app_description_title">Über Kompass</string>
   <string name="app_label">Kompass</string>
   <string name="calibrate_failed">Kalibrieren der Höhe fehlgeschlagen</string>
   <string name="calibrate_failed_no_location">Kalibrierung fehlgeschlagen</string>
