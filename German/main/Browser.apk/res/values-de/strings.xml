@@ -168,15 +168,8 @@
   <string name="comment_hint">Kommentieren</string>
   <string name="comment_menu">Kommentieren</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
-  <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
-  <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
-  <string name="common_use_phrase_bottom_bar_net_txt">.net</string>
-  <string name="common_use_phrase_bottom_bar_org_txt">.org</string>
-  <string name="common_use_phrase_bottom_bar_point_txt">.</string>
-  <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
   <string name="common_use_phrase_bottom_bar_text_next">Nächster</string>
   <string name="common_use_phrase_bottom_bar_text_previous">Zurück</string>
-  <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
   <string name="config_webSettingsDefaultTextEncoding">UTF-8</string>
   <string name="contextmenu_add_contact">Kontakt hinzufügen</string>
   <string name="contextmenu_copy">Kopieren</string>
