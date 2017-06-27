@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="action_folder_description">Ordner anzeigen</string>
-    <string name="action_mode_switcher_grid_description">Rasteransicht</string>
-    <string name="action_mode_switcher_list_description">Listenansicht</string>
-    <string name="action_settings_description">Einstellungen öffnen</string>
+  <string name="action_folder_description">Ordner anzeigen</string>
+  <string name="action_mode_switcher_grid_description">Rasteransicht</string>
+  <string name="action_mode_switcher_list_description">Listenansicht</string>
+  <string name="action_settings_description">Einstellungen öffnen</string>
   <string name="add_account_desc">Notizen mit dem Mi Konto synchronisieren?</string>
   <string name="alarm_bar_title">Erinnerung</string>
   <string name="alert_action_edit_anyway">Bearbeiten</string>
@@ -29,8 +29,11 @@
   <string name="button_new_note">Neu</string>
   <string name="call_folder_name">Anrufnotizen</string>
   <string name="call_record_folder_name">Anrufnotizen</string>
-    <string name="cancel_alarm_description">Alarm beenden</string>
+  <string name="cancel_alarm_description">Alarm beenden</string>
   <string name="cloud_trash_bin_title">Notizen auf Mi Cloud löschen</string>
+  <string name="cta_reminder">Diese App muss eine Verbindung zum Internet herstellen, um Notizen an Mi Cloud zu sichern sowie die Kontakte zu lesen, um die Notizen zu markieren, die Sie während der Anrufe entgegennehmen.</string>
+  <string name="db_downgrade_clear_button">App-Daten löschen</string>
+  <string name="db_downgrade_clear_date_reminder">"Das Umschalten auf eine andere Version von MIUI erfordert das Löschen der App-Daten für Notes. Bevor Sie das tun, stellen Sie sicher, dass Sie Ihre Notizen an Mi Cloud gesichert haben."</string>
   <string name="delete_folder_dialog_tile">Ordner löschen</string>
   <string name="dialog_share_as_pic">Notiz als Bild teilen</string>
   <string name="dialog_share_as_text">Notiz als Text teilen</string>
