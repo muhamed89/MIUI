@@ -100,6 +100,7 @@
   <string name="heavenly_stems_yi">乙</string>
   <string name="hybrid_provider">Die Internetseite von %1$s</string>
   <string name="im">IM</string>
+  <string name="immersion_button_close_description">schließen</string>
   <string name="instruction">Anleitung</string>
   <string name="label">MIUI SDK</string>
   <string name="midnight">AM</string>
@@ -162,6 +163,7 @@
   <string name="saturday">Samstag</string>
   <string name="saturday_short">Sa</string>
   <string name="saturday_shortest">S</string>
+  <string name="search_input_description">suchen</string>
   <string name="select_all">Alle auswählen</string>
   <string name="select_item">Auswählen</string>
   <string name="send">Senden</string>
