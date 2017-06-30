@@ -1242,6 +1242,7 @@
   <string name="to_enable_sync_dialog_message">Zuerst Synchronisierung einschalten</string>
   <string name="to_enable_sync_dialog_positive_button_text">Los</string>
   <string name="to_enable_sync_dialog_title">Synchronisation</string>
+  <string name="today">Heute</string>
   <string name="too_many_recipients">Zu viele Empfänger (%1$s) (Max %2$s Empfänger)</string>
   <string name="trash_bin">Papierkorb</string>
   <string name="trash_bin_summary">Kürzlich gelöschte, gesicherte Fotos durchstöbern</string>
@@ -1364,6 +1365,7 @@
   <string name="xiaomi_account_not_exists_toast">Xiaomi Konto existiert nicht</string>
   <string name="yellow_page">Gelbe Seiten</string>
   <string name="yes">Ja</string>
+  <string name="yesterday">Gestern</string>
   <string name="you_are">Ihr Baby</string>
   <string name="yunyi_pocket_camera">Sportkamera</string>
 </resources>
