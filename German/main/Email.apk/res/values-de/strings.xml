@@ -7,6 +7,7 @@
   <string name="accessibility_guide_second">Klicken Sie dann auf den Schalter in der oberen rechten Ecke, klicken Sie auf "Bestätigen", um fortzufahren.</string>
   <string name="account_duplicate_dlg_message_fmt">"Sie verwenden diesen Benutzernamen bereits für dieses Konto \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Identisches Konto</string>
+  <string name="account_failure">Kontofehler</string>
   <string name="account_manager_type_exchange">com.android.exchange</string>
   <string name="account_manager_type_imap">com.android.email</string>
   <string name="account_manager_type_legacy_imap">com.android.email</string>
@@ -239,6 +240,7 @@
   <string name="change_folders_selection_dialog_title">Ordner wechseln</string>
   <string name="change_sync_settings">Synchronisationseinstellungen ändern</string>
   <string name="changepw_dialog_tips">Passwort erneut eingeben für %s</string>
+  <string name="changepw_dialog_tips_please_clikc_btn">Bitte überprüfen Sie %s Verifikationscode und melden Sie sich erneute an</string>
   <string name="chat_item_msg_people_unit">Leute</string>
   <string name="chat_item_msg_user_etc"/>
   <string name="chat_view_description">Zeige E-Mailthemen als Gesprächsblasen</string>
@@ -344,6 +346,8 @@
   <string name="dialog_gmail_proxy_server_is_error">Gmail-Proxyserver Fehler.</string>
   <string name="dialog_insufficient_space_on_external">Anhang kann nicht heruntergeladen werden. Nicht genügend externer Speicher.</string>
   <string name="dialog_insufficient_space_on_internal">Nicht genügend interner Speicher.</string>
+  <string name="dialog_system_auto_sync_account_no_open">Die Synchronisation ist für dieses Konto nicht aktiviert, Nachrichten werden nicht automatisch synchronisiert</string>
+  <string name="dialog_system_auto_sync_master_no_open">Die Systemsynchronisation nicht aktiviert, Nachrichten werden nicht automatisch synchronisiert</string>
   <string name="disable_admin_warning">ACHTUNG: Wenn Sie die Berechtigung der E-Mailapp zur Verwaltung Ihres Geräts deaktivieren, werden alle E-Mailkonten, die diese Berechtigung benötigen, mit allen zugehörigen E-Mails, Kontakten, Terminen und weiteren Daten gelöscht.</string>
   <string name="discard">Löschen</string>
   <string name="discard_drafts">Entwürfe löschen</string>
@@ -523,6 +527,8 @@
   <string name="mail">E-Mail</string>
   <string name="mail_body_turncated">Diese E-mail ist zu groß zum laden, darum wird nur ein Teil angezeigt. Die vollständige E-mail können Sie an einem Computer abrufen.</string>
   <string name="mail_header_network_not_available">Keine Netzwerkverbindung verfügbar</string>
+  <string name="mail_description_content">E-Mail ist ein Mail Client, der mehrere Konten verwalten kann. Er unterstützt Senden, Empfangen, Kategorisieren und bietet Services wie Sitzungsmodus, Zahlungsmails, Sortierung und andere Dienste. Wenn Sie diese App deinstallieren, werden Ihre Mails gelöscht.</string>
+  <string name="mail_description_title">E-Mail Einleitung</string>
   <string name="network_tip">Authentifizierung ist fehlgeschlagen, bitte überprüfen Sie Ihre Netzwerkverbindung</string>
   <string name="mailbox_list_account_selector_combined_view">Kombinierte Ansicht</string>
   <string name="mailbox_name_display_ad">Werbung &amp; Benachrichtigungen</string>
@@ -916,6 +922,8 @@
   <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
   <string name="sync_error">Synchronisierung nicht möglich</string>
   <string name="sync_error_message">Das Gerät verfügt nicht über genügend Speicherplatz für die Synchronisierung.</string>
+  <string name="syncing_wait_restart_title">Servertimeout 
+ Nachricht kann nicht geladen werden</string>
   <string name="system_account_create_failed">Konto konnte nicht erstellt werden. Bitte versuchen Sie es erneut.</string>
   <string name="system_folders_sent_dlg">Ordner \"Gesendete Elemente\" des Servers auswählen</string>
   <string name="system_folders_sent_summary">Ordner \"Gesendete Elemente\" des Servers auswählen</string>
@@ -924,6 +932,7 @@
   <string name="system_folders_trash_dlg">Papierkorb des Servers auswählen</string>
   <string name="system_folders_trash_summary">Papierkorb des Servers auswählen</string>
   <string name="system_folders_trash_title">Papierkorb</string>
+  <string name="system_setup_open_error">Kontosynchronisation kann nicht gestartet werden, bitte schalten Sie die Systemsynchronisation ein</string>
   <string name="tablet">Tablet</string>
   <string name="tap_to_configure">Zum Einrichten antippen</string>
   <string name="tap_to_enable_sync">Zum Aktivieren berühren</string>

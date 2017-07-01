@@ -62,6 +62,8 @@
   <string name="card_title_conf_call">Telefonkonferenz</string>
   <string name="card_title_dialing">Rufaufbau</string>
   <string name="card_title_hanging_up">Auflegen</string>
+  <string name="card_title_hanging_up_restart">Gespräch kann nicht beendet werden. Starten Sie Ihr Gerät neu.</string>
+  <string name="card_title_hanging_up_weak_signal">Schlechtes Signal. Gespräch wird beendet.</string>
   <string name="card_title_in_call">Im Gespräch</string>
   <string name="card_title_in_call_short">Im Gespräch</string>
   <string name="card_title_incoming_call">Eingehender Anruf</string>
@@ -203,6 +205,7 @@
   <string name="onscreen_close_preview_camera">Kamera schließen</string>
   <string name="onscreen_hold_text">Halten</string>
   <string name="onscreen_merge_calls_text">Anrufe zusammenführen</string>
+  <string name="onscreen_message_text">Nachrichten</string>
   <string name="onscreen_mute_text">Stumm</string>
   <string name="onscreen_note_calls_text">Notiz</string>
   <string name="onscreen_rcs_text">Nachricht</string>

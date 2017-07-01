@@ -43,6 +43,7 @@
   <string name="gs_performance_mode">Leistungsmodus</string>
   <string name="gs_performance_mode_detail">CPU-Auslastung für Spiele optimieren</string>
   <string name="install_game_count">%d Spiele hinzugefügt</string>
+  <string name="install_sucess">%s erfolgreich installiert</string>
   <string name="loading">Einen Moment…</string>
   <string name="main_toolbar_purchase">Aufladen</string>
   <string name="man_add_application">Autostart-Apps manuell verwalten</string>
@@ -67,11 +68,13 @@
   <string name="month_report_warning_dialog_description">Um den Monatsbericht anzuzeigen, aktivieren Sie diese Funktion in den Einstellungen der Sicherheits-App.</string>
   <string name="month_report_warning_dialog_positive">Aktivieren</string>
   <string name="month_report_warning_dialog_title">Monatlicher Sicherheitsbericht</string>
+  <string name="more_game">Weitere Spiele</string>
   <string name="name_antivirus">Datenschutzbestimmungen anzeigen</string>
   <string name="network_not_available">Netzwerkverbindung fehlgeschlagen</string>
   <string name="no_network_btn">Erneut versuchen</string>
   <string name="ok_button">OK</string>
   <string name="open_browser">Im Browser öffnen</string>
+  <string name="open_game">Öffnen</string>
   <string name="other">Andere Einstellungen</string>
   <string name="pc_activity_title">Akku optimieren</string>
   <string name="pm_lable_name">Über Rootzugriff</string>
@@ -88,6 +91,7 @@
   <string name="start_game">Starten</string>
   <string name="support_game_booster_tips">Geschwindigkeit steigern und Spielerlebnis verbessern</string>
   <string name="title_share_link">URL teilen</string>
+  <string name="try_game">Ausprobieren</string>
   <string name="uninstall_game_count">%d Spiele wurden nicht hinzugefügt</string>
   <string name="usage_sorted_loading_text">Einen Moment…</string>
 </resources>

@@ -32,6 +32,8 @@
   <string name="apk_status_install">Installiert</string>
   <string name="apk_status_installed_old">Alte Version</string>
   <string name="apk_status_uninstalled">Nicht Installiert</string>
+  <string name="app_description_content">Bereinigung erkennt Datenmüll auf Ihrem Gerät und bereinigt den Speicher. Wenn Sie diese App deinstallieren, können Sie diese Funktionen nicht mehr nutzen.</string>
+  <string name="app_description_title">Über Bereinigung</string>
   <string name="app_install_tips_go_to">Jetzt starten</string>
   <string name="app_install_tips_install_success">%1$s erfolgreich installiert</string>
   <string name="app_name">Werbung Engine</string>

@@ -218,6 +218,16 @@
   <string name="power_off">Ausschalten</string>
   <string name="previous">Zurück</string>
   <string name="progress_title_checking">Überprüfe auf Updates…</string>
+  <string name="provision_activate_device">Gerät wird aktiviert…</string>
+  <string name="provision_check_sim">Überprüfen Sie Ihre SIM-Karte</string>
+  <string name="provision_connect_wifi">Verbinden Sie sich mit einem WLAN</string>
+  <string name="provision_have_sim">SIM-Karte eingesetzt</string>
+  <string name="provision_no_network_extra">Verbinden Sie sich mit einem WLAN, oder setzen Sie eine SIM-Karte ein und verwenden Sie die mobile Datenverbindung, um Ihr Gerät zu aktivieren. Ohne Internetverbindung können Sie Ihr Gerät nicht aktivieren.</string>
+  <string name="provision_no_network_title">Netzwerkverbindung erforderlich</string>
+  <string name="provision_retry">Erneut versuchen</string>
+  <string name="provision_toast_no_network">Verbinden Sie sich zuerst mit einem Netzwerk</string>
+  <string name="provision_toast_server_error">Keine Verbindung zum Server. Versuchen Sie es in ein paar Minuten wieder.</string>
+  <string name="provision_toast_timeout">Verbindungstimeout. Überprüfen Sie Ihre Netzwerkeinstellungen.</string>
   <string name="reboot">Neustart</string>
   <string name="reboot_now">Neustart</string>
   <string name="reboot_to_new_system">Zum Abschließen neustarten</string>
@@ -226,9 +236,11 @@
 http://zhushou.xiaomi.com"</string>
   <string name="recovery_failed_notification_msg">Kann nicht in das Recovery starten</string>
   <string name="recovery_failed_title">Verwenden Sie die Mi PC Suite um Ihr System zu aktualisieren</string>
+  <string name="recovery_power_need_plugged">Schließen Sie zum Aktualisieren ein Ladegerät an</string>
   <string name="recovery_power_not_enough_msg">Zum Aktualisieren schließen Sie Ihr Ladegerät an, wenn der Akkustand weniger als 30% beträgt</string>
   <string name="recovery_power_not_enough_msg_plugged">Der Akkustand muss mehr als 30% betragen, um mit der Aktualisierung zu beginnen</string>
   <string name="recovery_power_not_enough_title">Niedriger Akkustand</string>
+  <string name="recovery_power_plugged_warning">Lassen Sie Ihr ladegerät während dem Update angeschlossen</string>
   <string name="repeat">Wiederholen</string>
   <string name="root_acquired">Erlaube Rootzugriff</string>
   <string name="root_agree_check_box_title">Die Risiken eines Rootzugriffs sind mir bewusst</string>

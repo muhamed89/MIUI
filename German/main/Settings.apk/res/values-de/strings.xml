@@ -1092,8 +1092,9 @@ Broadcasting nutzt Niedrigstrom-Bluetoothsignale."</string>
   <string name="confirm_privacy_password_fingerprint">Fingerabruck scannen oder Datenschutzpasswort eingeben</string>
   <string name="confirm_privacy_password_instruction">Dieses Passwort schützt Apps, Nachrichten, Fotos und Kontakte</string>
   <string name="confirm_reset_aaid">OK</string>
-    <string name="confirm_reset_shortcut_manager_throttling_message">Reset ShortcutManager rate-limiting counters?</string>
-    <string name="confirm_reset_shortcut_manager_throttling_title">Reset ShortcutManager rate-limiting?</string>
+  <string name="confirm_reset_shortcut_manager_throttling_message">Reset ShortcutManager rate-limiting counters?</string>
+  <string name="confirm_reset_shortcut_manager_throttling_title">Reset ShortcutManager rate-limiting?</string>
+  <string name="connect_mode">Verbindungsmodus</string>
   <string name="connect_to_internet">Verbindung zum Netzwerk</string>
   <string name="connected_via_passpoint">Verbunden via %1$s</string>
   <string name="connected_via_wfa">Verbunden via WLAN-Assistent</string>
@@ -3551,6 +3552,7 @@ Betriebssystem auswählen:"</string>
   <string name="rank_title">Rangliste</string>
   <string name="rarely_running">Läuft selten (%s)</string>
   <string name="read_encrypt_fail">Verschlüsselte Sicherung konnte nicht gelesen werden</string>
+  <string name="reading_data">Info wird gelesen…</string>
   <string name="really_remove_account_message">Durch das Entfernen dieses Kontos werden alle Nachrichten, Kontakte und andere Daten vom Telefon gelöscht!</string>
   <string name="really_remove_account_title">Konto entfernen?</string>
   <string name="rebootiing_for_updates">Neustarten…</string>
@@ -4624,7 +4626,8 @@ Erwägen Sie die Verwendung eines schnelleren ^1 für bessere Leistung."</string
   <string name="summary_range_verbal_combination">%1$s bis %2$s</string>
   <string name="supl_not_set">&lt;Nicht festgelegt&gt;</string>
   <string name="supplicant_state_label">Supplikantstatus:</string>
-    <string name="suspend_gesture_enabled">Telefon umdrehen, um den Bildschirm auszuschalten</string>
+  <string name="sure_sync_now">inhalte jetzt synchronisieren?</string>
+  <string name="suspend_gesture_enabled">Telefon umdrehen, um den Bildschirm auszuschalten</string>
   <string name="suspension_ball_enable">Schnellball-Verknüpfung</string>
   <string name="suspension_ball_enable_desc">Schalten Sie Schnellball an und aus, um die Verknüpfung benutzen zu können</string>
   <string name="suw_back_button_label">Zurück</string>
@@ -4648,6 +4651,7 @@ Erwägen Sie die Verwendung eines schnelleren ^1 für bessere Leistung."</string
   <string name="sync_is_failing">Bei der Synchronisierung treten momentan Probleme auf. Sie wird in Kürze fortgesetzt.</string>
   <string name="sync_menu_sync_cancel">Synchronisierung abbrechen</string>
   <string name="sync_menu_sync_now">Jetzt synchronisieren</string>
+  <string name="sync_now">Synchronisieren</string>
   <string name="sync_one_time_sync">"Zum sofortigen Synchronisieren berühren
 %1$s"</string>
   <string name="sync_plug">" "<font fgcolor="#ffffffff">Willkommen bei Google Sync!</font>" 

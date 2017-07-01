@@ -32,6 +32,9 @@
   <string name="dateformat">dd/MM/yyyy</string>
   <string name="day">Tag</string>
   <string name="del">LÖSCHEN</string>
+  <string name="description_content">Neben den Basisfunktionen fungiert Rechner auch als Umrechner, Kredit- und Steuerrechner. Wenn Sie diese App deinstallieren, können Sie diese Funktionen nicht mehr nutzen.</string>
+  <string name="description_title">Über Rechner</string>
+  <string name="devided_by_zero_reminder_message">Division durch Null nicht möglich</string>
   <string name="digit0">0</string>
   <string name="digit1">1</string>
   <string name="digit2">2</string>

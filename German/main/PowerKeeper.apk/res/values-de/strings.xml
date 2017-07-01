@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_hide_mode">Über MIUI Battery Saver</string>
   <string name="action_bar_delete">Löschen</string>
   <string name="action_settings">Einstellungen</string>
     <string name="action_title_optimize">Jetzt optimieren</string>
@@ -31,12 +32,17 @@
   <string name="config_restrict_function_title">Hintergrundprozesse einschränken</string>
   <string name="config_restrict_running_description">Apps werden geschlossen, um Strom zu sparen</string>
   <string name="config_restrict_running_title">Hintergrundaktivitäten einschränken</string>
+  <string name="config_restrict_running_warning">Die App wird im Hintergrund geschlossen und funktioniert möglicherweise nicht mehr richtig</string>
+  <string name="config_scenario_policies_title">Szenarios</string>
   <string name="config_suggest_description">"Apps und Aktivitäten erkennen, um wichtige Prozesse am Laufen zu halten.
  Battery Saver wird wichtige Apps bevorzugt behandeln."</string>
   <string name="config_suggest_suffix_title">MIUI Battery Saver (empfohlen)</string>
   <string name="config_suggest_title">MIUI Battery Saver</string>
+  <string name="disable_hide_mode">MIUI Battery Saver deaktivieren</string>
+  <string name="disable_hide_mode_warning">Wenn Sie den MIUI Battery Saver deaktivieren, kann der Akkuverbrauch steigen</string>  
   <string name="disabled">Aus</string>
   <string name="empty_title_apps_container_list">Keine Apps</string>
+  <string name="enable_hide_mode">MIUI Battery Saver aktivieren</string>
   <string name="error_filename_too_long">Der Dateiname ist zu lang</string>
   <string name="foreground_change">App läuft im Vordergrund</string>
   <string name="fragment_nonesys_listempty">Keine installierten Apps</string>
@@ -49,6 +55,7 @@
   <string name="hide_mode_desc">Wenn Apps im Hintergrund laufen, werden ihre Aktivitäten überwacht, um den Energieverbrauch zu reduzieren. Netzwerkverbindung, Ortungsdienste, Radio, Timer, etc. können durch diese Funktion beeinträchtigt werden. Diese Konfiguration ist für die meisten Apps optimal. Wenn sich aber eine bestimmte App ungewöhnlich verhält während sie im Hintergrund läuft, können Sie die Einstellungen der App anpassen.</string>
   <string name="hide_mode_desc_title">"Energieverbrauch verwalten"</string>
   <string name="hide_mode_ultimate_desc">Ultimativmodus ist ein. Apps im Hintergrund werden eingefroren. Schalten Sie Battery Saver aus, um den Ultimativmodus zu verlassen.</string>
+  <string name="hide_system_app">Systemapps ausblenden</string>
   <string name="high">Leistung</string>
   <string name="hints_loading_text">Lade…</string>
   <string name="keep_connect_description">Apps können sich im Hintergrund mit einem Netzwerk verbinden</string>
@@ -157,6 +164,8 @@
   <string name="quick_disconnect_title">Getrennt</string>
   <string name="ragment_sys_listempty">Keine Systemanwendungen</string>
   <string name="reading">Lesen</string>
+  <string name="scenario_policies_summary">Energiesparen laut Szenario</string>
+  <string name="scenario_policies_title">Einstellungen für Energiesparszenarien</string>
   <string name="screen_off">Bildschirm aus</string>
   <string name="screen_off_10_min">Bildschirm nach 10 Minuten Aus</string>
   <string name="screen_on">Bildschirm an</string>
@@ -166,6 +175,7 @@
   <string name="set_cpufreq_max">Max CPU-Frequenz</string>
   <string name="set_lcd_mode">Bildschirmmodus</string>
   <string name="settings_safetylegal_activity_loading">Einen Moment…</string>
+  <string name="show_system_app">Systemapps einblenden</string>
     <string name="sleep_config_disable_description">MIUI wird nachts die Standbyzeit nicht verbessern</string>
     <string name="sleep_config_disable_title">Aus</string>
     <string name="sleep_config_enhance_description">MIUI wird nachts die Standbyzeit verbessern</string>
