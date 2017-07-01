@@ -41,6 +41,8 @@
   <string name="cannot_connect_camera_volte_call">Videoanruf läuft noch, bitte versuchen Sie es später.</string>
   <string name="cannot_move_warning_message">Fotoaufnahme, halten Sie das Gerät ruhig!</string>
   <string name="close">Schließen</string>
+  <string name="confirm_install_scanner_message">Der Scanner ermöglicht Ihnen, QR Codes, Strichcodes und mehr zu scannen. Sie benötigen eine Internetverbindung für die Installation.</string>
+  <string name="confirm_install_scanner_title">Scanner installieren</string>
   <string name="confirm_location_alert">Aufnahmestandort speichern</string>
   <string name="confirm_location_message">Standortposition der Fotos speichern?</string>
   <string name="confirm_location_title">Aufnahmestandort speichern?</string>
@@ -89,6 +91,7 @@
   <string name="find_other_qrcode">cQQ QR-Code suchen</string>
   <string name="flash">Blitz</string>
   <string name="height">Höhe</string>
+  <string name="install_confirmed">Installieren</string>
   <string name="location">Standort</string>
   <string name="message_snap_double_confirm">Aktuell ist beim langen Drücken der Lautstärketaste NFC-Modus eingestellt, möchten Sie dies ersetzen?</string>
   <string name="model">Modell</string>
@@ -360,6 +363,7 @@
   <string name="pref_camera_zsl_entry_off">Aus</string>
   <string name="pref_camera_zsl_entry_on">An</string>
   <string name="pref_capture_settings">Kameraeinstellungen</string>
+  <string name="pref_dualcamera_watermark_title">Dualkamera-Wasserzeichen</string>
   <string name="pref_face_beauty_title">Hauttöne</string>
   <string name="pref_front_mirror_entry_auto">Wenn Gesicht erkannt wird</string>
   <string name="pref_front_mirror_entry_off">Aus</string>
