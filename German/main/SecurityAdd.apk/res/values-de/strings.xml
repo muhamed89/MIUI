@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="add_done">Erfolgreich hinzugefügt</string>
   <string name="add_game">Spiel hinzufügen</string>
+  <string name="add_whitelist">Zu Ausnahmen hinzufügen</string>
+  <string name="anim_gamebooster_text">Einen Moment…</string>
   <string name="anti_disturb_msg_detail">Alle Benachrichtigungen bis auf eingehende Anrufe deaktivieren</string>
   <string name="anti_disturb_msg_title">Nicht stören</string>
   <string name="app_name">Sicherheitsserviceplugin</string>
@@ -8,6 +11,8 @@
   <string name="application_item_already_permission">Zugelassen</string>
   <string name="application_item_disable">Eingeschränkt</string>
   <string name="auto_import_games">Bringen Sie all Ihre Spiele an einem Ort unter</string>
+  <string name="boost_done">Erfolgreich beschleunigt</string>
+  <string name="boosting">Wird beschleunigt…</string>
   <string name="booster_suc">Erfolgreich beschleunigt</string>
   <string name="boostering">Wird beschleunigt…</string>
   <string name="cancel_button">Abbruch</string>
