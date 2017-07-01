@@ -37,6 +37,7 @@
     <string name="low_battery_title">Niedriger Ladestand</string>
     <string name="low_battery_warning">Der Ladestand ist zu niedrig. Die aufnahme wurde gestoppt und das Video gespeichert.</string>
     <string name="low_memory">Es sind weniger als 200MB freier Speicher verfügbar. Sie können maximal bis zu 5 Minuten aufnehmen.</string>
+    <string name="low_memory_dior">Es sind weniger als 500MB freier Speicher verfügbar. Sie können maximal bis zu 12 Minuten aufnehmen.</string>
     <string name="low_memory_title">Zu wenig freier Speicher</string>
     <string name="low_momery_warning">Zu wenig freier Speicher. Stopped recording and saved video.</string>
     <string name="memory_not_allowed">Zu wenig freier Speicher für eine Bildschirmaufnahme. Bereinigen Sie den Speicher und versuchen Sie es erneut.</string>

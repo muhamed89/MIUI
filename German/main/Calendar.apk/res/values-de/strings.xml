@@ -51,6 +51,7 @@
   <string name="add_topic_success">\"%s\" hinzugefügt</string>
   <string name="add_topic_unsuccess">\"%s\"nicht hinzugefügt</string>
   <string name="adding_calendar">Anmeldung…</string>
+  <string name="agenda_month_empty_hint">Heute keine Ereignisse</string>
   <string name="agenda_today">HEUTE, %1$s</string>
   <string name="agenda_tomorrow">MORGEN, %1$s</string>
   <string name="agenda_view">Termine</string>
@@ -339,6 +340,7 @@
   <string name="label_recent_events">Aktuelle Veranstaltungen</string>
   <string name="live_text">Live</string>
   <string name="living_text">On Air</string>
+  <string name="load_more_hint">Ereignisse für %1$d aktualisieren</string>
   <string name="loading">Einen Moment…</string>
   <string name="local_calendar_display_name">Lokaler Kalender</string>
   <string name="local_owner_account_name">Lokales Konto</string>
@@ -386,6 +388,7 @@
   <string name="new_event_dialog_option">Neuer Termin</string>
   <string name="no_calendars_found">Damit Sie einen Termin hinzufügen können, müssen Sie mindestens ein Google-Konto zu Ihrem Gerät hinzufügen und einen Kalender sichtbar machen. Tippen Sie zum Hinzufügen eines Kontos auf \"Konto hinzufügen\". Falls Sie gerade ein Konto hinzugefügt haben, warten Sie, bis die Synchronisierung abgeschlossen ist, und versuchen Sie es dann erneut. Sie können auch auf \"Abbrechen\" tippen und sich vergewissern, dass mindestens ein Kalender sichtbar ist.</string>
   <string name="no_contact_birthday_hint">Keine Geburtstage zum Importieren</string>
+  <string name="no_events_hint">Keine Ereignisse</string>
   <string name="no_local_calendar">Kein Kalenderabo</string>
   <string name="no_network">Netzwerk nicht verfügbar</string>
   <string name="no_network_btn">Nochmals versuchen</string>
@@ -464,6 +467,7 @@
   <string name="preferences_week_start_day_title">Woche beginnt am</string>
   <string name="presence_label">Status</string>
   <string name="privacy_label">Datenschutz</string>
+  <string name="pull_to_refresh_hint">Zum Aktualisieren der Ereignisse für %1$d nach unten ziehen</string>
   <string name="quick_response_custom_msg">Benutzerdefinierte Nachricht</string>
   <string name="quick_response_dialog_title">Standardantworten auswählen</string>
   <string name="quick_response_email_failed">"Keine E-Mail-App gefunden"</string>

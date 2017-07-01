@@ -170,7 +170,8 @@
   <string name="exceed_message_text_limitation">Maximale Textlänge erreicht</string>
   <string name="expire_on">Ablaufdatum: %s</string>
   <string name="exporting_progress_private_message">Exportiere…</string>
-  <string name="fail_to_add_attachment">"Kann Anhang nicht hinzufügen"</string>
+  <string name="fail_to_add_attachment">Anhang konnte nicht hinzugefügt werden</string>
+  <string name="fail_to_view_attachment">Anhang nicht verfügbar</string>
   <string name="failed_to_add_media">%1$s konnte nicht zur Nachricht hinzugefügt werden</string>
   <string name="failed_to_resize_image">Bildgröße nicht angepasst</string>
   <string name="fake_cell_alert_hint">Sieht so aus, als wurde diese Nachricht von einer anderen Nummer als der angezeigten gesendet. Seien Sie vorsichtig, wenn Sie nach sensiblen Daten gefragt werden.</string>

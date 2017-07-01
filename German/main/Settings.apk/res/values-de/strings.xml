@@ -2722,6 +2722,7 @@ Betriebssystem auswählen:"</string>
   <string name="multi_user_mode_backup_message">Sicherung kann im Mehrbenutzermodus nicht verwendet werden. Schalten Sie den Mehrbenutzermodus aus um fortzufahren.</string>
   <string name="multi_user_mode_dialog_message">Mi Mover kann im Mehrbenutzermodus nicht verwendet werden. Schalten Sie den Mehrbenutzermodus aus um fortzufahren.</string>
   <string name="multi_user_mode_dialog_title">Sie sind im Mehrbenutzermodus</string>
+  <string name="music_app_unavailable">Musikapp wird benötigt, stellen Sie sicher, dass sie installiert ist</string>
   <string name="music_audio_effect_optimize">Audioeinstellungen</string>
   <string name="music_audio_effect_optimize_summary">Dirac, Kopfhörer und weitere Audioeinstellungen</string>
   <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HD-Sound, Kopfhörer und weitere Audioeinstellungen</string>
@@ -2962,7 +2963,7 @@ Betriebssystem auswählen:"</string>
   <string name="owner_info_settings_edit_text_hint">Hier Eigentümerinformationen eingeben</string>
   <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_title">Info zum Eigentümer</string>
-  <string name="owner_space">Erster Space</string>
+  <string name="owner_space">Hauptprofil</string>
   <string name="packages_subtitle">Enthaltene Pakete</string>
   <string name="pad_applock">Appsperre</string>
   <string name="pad_bind_xiaomi_account_success">Mi Konto erfolgreich verbunden</string>

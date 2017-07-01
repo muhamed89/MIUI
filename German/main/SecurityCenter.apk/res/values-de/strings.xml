@@ -740,6 +740,9 @@ um Ihre mobile Datennutzung zu verwalten"</string>
   <string name="handle_text_cache">Cache</string>
   <string name="handle_text_memory">Speicher</string>
   <string name="handle_text_system">System</string>
+  <string name="handle_title_network">WLAN-Sicherheit</string>
+  <string name="handle_title_pay_env">Zahlungsumgebung</string>
+  <string name="handle_title_privacy">Datenschutz</string>
   <string name="header_antivirus">"Diese Funktion verschlüsselt Ihre Geräte-ID und sendet Sie dann an Tencent's (%s)."</string>
   <string name="help_label">Hilfe</string>
   <string name="hide_mode_app_background_setting_text">Energiesparmodus für Apps</string>
@@ -776,6 +779,7 @@ um Ihre mobile Datennutzung zu verwalten"</string>
   <string name="hints_risk_app_list_item_summary">Risiko (app)</string>
   <string name="hints_risk_descx_title">Beschreibung:</string>
   <string name="hints_risk_name_title">Risiko:</string>
+  <string name="hints_scan_danger_result">Risiko gefunden, jetzt beheben</string>
   <string name="hints_scan_progress">Fertig: %d</string>
   <string name="hints_scan_result_phone_safe">Sieht gut aus</string>
   <string name="hints_scan_result_risk">Risiken entdeckt</string>
@@ -1958,8 +1962,9 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
   <string name="suffix_virus_count_bottom">Gesamt</string>
   <string name="suffix_virus_count_top">Risiko</string>
   <string name="suggest_app_tolock">Vorschläge</string>
-    <string name="summary_antivirus">Appnamen sowie Appdetails hochladen und online überprüfen</string>
-    <string name="summary_antivirus_oversea">Virusdefinitionen automatisch aktualisieren</string>
+  <string name="suggest_scan_again">Es wird ein vollständiger Scan empfohlen, um die Sicherheit zu gewährleisten</string>
+  <string name="summary_antivirus">Appnamen sowie Appdetails hochladen und online überprüfen</string>
+  <string name="summary_antivirus_oversea">Virusdefinitionen automatisch aktualisieren</string>
   <string name="summary_app_lock_disable">Apps sperren, um Ihre Privatsphäre zu schützen</string>
   <string name="summary_auto_update">MIUI wird die am besten geeignete Zeit wählen, um Updates herunterzuladen und zu installieren</string>
   <string name="summary_cleaner_cloudscan">Unbekannte Ordner hochladen und mit Onlinevirendefinitionen vergleichen</string>

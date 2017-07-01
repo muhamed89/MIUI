@@ -884,6 +884,8 @@
   <string name="upgrade_waringing">"Sie werden nur in der Lage sein, lokale Titel abzuspielen."</string>
   <string name="valid_period">"Gültig: "</string>
   <string name="version_info">Version</string>
+  <string name="vip_after_tomorrow_auto_renew_message">Ihr Musikabo wird übermorgen Abend automatisch erneuert. Stellen Sie sicher, dass Sie genügend Mi Credits haben um diese Zahlung abzuschließen.</string>
+  <string name="vip_after_tomorrow_renew_message">Sie werden nicht mehr in der Lage sein, in HD-Qualität zu streamen, aber eineige Titel werden weiterhin in Standardqualität verfügbar sein.</string>
   <string name="vip_auto_renew_message">Ihre Musikabonnement wird heute Abend automatisch verlängert. Stellen Sie sicher, dass Sie genügend Mi Credits haben um diese Zahlung abzuschließen.</string>
   <string name="vip_auto_renew_notification_message">Fügen Sie Mi Credits um Ihr Musikabonnement zu verlängern.</string>
   <string name="vip_auto_renew_notification_title">Abonnementszahlung</string>

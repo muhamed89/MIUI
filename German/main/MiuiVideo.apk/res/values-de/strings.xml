@@ -378,6 +378,10 @@
   <string name="percent_status">%.0f%%</string>
   <string name="performance_mode">Leistungseinstellungen</string>
   <string name="performance_mode_desc">Maximale Leistung</string>
+  <string name="permission_content">Sie können Video ohne die notwendigen Berechtigungen nicht verwenden</string>
+  <string name="permission_refuse">verweigern</string>
+  <string name="permission_retry">wiederholen</string>
+  <string name="permission_title">Tipps</string>
   <string name="personal_center">Konto</string>
   <string name="pick_addon_to_delete">Elemente auswählen</string>
   <string name="place_at">No.%d</string>

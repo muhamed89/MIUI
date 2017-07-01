@@ -227,6 +227,8 @@
   <string name="suspect_info">Vorsicht: Sie sollten beim ersten Kontakt immer die Identität prüfen bevor Sie auf Nachrichten über ihre Finanzen antworten.</string>
   <string name="time_left_livetalk">(%ds)</string>
   <string name="unknown">Unbekannt</string>
+  <string name="unlock_phone">Gerät entsperren</string>
+  <string name="user_locked_prompt">Gerät entsperren, um auf die Kontakte zuzugreifen</string>
   <string name="upgrade_vt_prompt">Möchten Sie den Anruf per Videoanruf weiterführen?</string>
   <string name="user_locked_prompt">Gerät entsperren um auf Kontakte zuzugreifen.</string>
   <string name="video_call_not_allowed_if_tty_enabled">Schalten Sie zuerst den TTY-Modus ein</string>
