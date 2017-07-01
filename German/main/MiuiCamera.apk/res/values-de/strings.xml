@@ -90,6 +90,12 @@
   <string name="face_beauty_smart">Smart</string>
   <string name="find_other_qrcode">cQQ QR-Code suchen</string>
   <string name="flash">Blitz</string>
+  <string name="front_camera_hint_text_confirm">Verstanden</string>
+  <string name="front_camera_hint_text_place">Selfies zu machen ist einfacher,
+wenn Sie Ihr Telefon umdrehen</string>
+  <string name="front_camera_hint_text_rotate">Drehen Sie Ihr Telefon um</string>
+  <string name="groupshot_mode_use_hint">Es werden mehrere Fotos aufgenommen,
+um den besten Gesichtsausdruck in einem Foto festzuhalten</string>
   <string name="height">Höhe</string>
   <string name="install_confirmed">Installieren</string>
   <string name="location">Standort</string>

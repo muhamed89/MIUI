@@ -4762,6 +4762,7 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="track_frame_time">GPU-Darstellungsprofil</string>
   <string name="trackball_settings">Trackball</string>
   <string name="trackball_wake_title">Trackball aufwachen</string>
+  <string name="traffic_balance">Intelligente Verbrauchsstrategie</string>
   <string name="trans_backingup">Sichern…</string>
   <string name="trans_backingup_no_items">Synchronisieren…</string>
   <string name="traffic_balance">Intelligente Daten Strategie</string>

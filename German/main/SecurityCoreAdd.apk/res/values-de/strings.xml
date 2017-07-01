@@ -10,6 +10,8 @@ wird diese Funktion automatisch im Zweitprofil aktiviert."</string>
   <string name="appData">Installierte Apps</string>
   <string name="app_name">Security Core Component</string>
   <string name="back">Zurück</string>
+  <string name="can_not_delete_when_calling">Profil kann während des Gesprächs nicht gelöscht werden</string>
+  <string name="can_not_switch_when_calling">Während des Gewprächs kann nicht zwischen den Profilen gewechselt werden</string>
   <string name="cancelClosePassword">Nicht ausschalten</string>
   <string name="cancel_button">Abbrechen</string>
   <string name="changePassword">Passwort ändern</string>

@@ -128,6 +128,8 @@
   <string name="delete_message">Löschen</string>
   <string name="delete_phrase">Vorlage löschen</string>
   <string name="delete_unlocked">Gesperrte Nachrichten löschen</string>
+  <string name="delete_verification_code_sms_message">Alle Einmalpasswörter löschen?</string>
+  <string name="delete_verification_code_sms_title">Einmalpasswörter löschen</string>
   <string name="delete_wild_sims">Nummern löschen</string>
   <string name="delete_wild_sims_confirm">Alle Nachrichten, die zu den ausgewählten Nummern gehören, werden von diesem Telefon gelöscht. Auf i.mi.com können Sie sie wiederherstellen.</string>
   <string name="delete_wild_sims_title">Ausgewählte Nummern löschen</string>
@@ -135,6 +137,7 @@
   <string name="delivery_toast_body">%s hat die Nachricht erhalten.</string>
   <string name="disable_notifications_dialog_message">Doppelte SMS-Benachrichtigungen von der Standardnachrichtenapp verhindern?</string>
   <string name="disabled">Aus</string>
+  <string name="disabled">Deaktiviert</string>
   <string name="discard">Verwerfen</string>
   <string name="discard_message">Verwerfen</string>
   <string name="discard_message_reason">Nachricht wird verworfen, da keine gültigen Empfänger vorhanden sind</string>
@@ -149,12 +152,13 @@
   <string name="duration_sec">Dauer (%s Sek.)</string>
   <string name="duration_selector_title">"Dauer für Dia "</string>
   <string name="duration_zero">Dauer muss mehr als 0 Sekunden betragen</string>
-  <string name="earlier">Vorher</string>
+  <string name="earlier">Früher</string>
   <string name="edit_nickname_for_nocontact">Sie müssen zuerst einen Empfänger hinzufügen</string>
   <string name="edit_nickname_for_nocontact_by_robot">Sie müssen zuerst einen Empfänger hinzufügen</string>
   <string name="edit_phrase">Vorlage ändern</string>
   <string name="edit_slide_activity">Dia ändern</string>
   <string name="edit_slideshow_activity">Diashow ändern</string>
+  <string name="enabled">Aktiviert</string>
   <string name="enable_password_protect">Kennwort erforderlich</string>
   <string name="enable_visible_pattern_title">Muster anzeigen</string>
   <string name="english_subject_limit">40 Zeichenlimit</string>
@@ -213,6 +217,8 @@
   <string name="group_message">Gruppennachricht</string>
   <string name="group_message_failed_title">Senden an %d Kontakte fehlgeschlagen</string>
   <string name="group_resend_message">Erneut senden(%d)</string>
+  <string name="group_verification_codes_summary">Einmalpasswörter (OTP) automatisch gruppieren</string>
+  <string name="group_verification_codes_title">OTP Nachrichten gruppieren</string>
   <string name="guild_add_attachments">Berühren um Smileys oder Dateien einzufügen</string>
   <string name="guild_add_recipients">Berühren um Empfänger aus dem Adressbuch hinzuzufügen</string>
   <string name="guild_msim_switcher">Berühren um SIM-Karten zu wechseln</string>
@@ -418,7 +424,7 @@
   <string name="pref_notification_settings_title">Benachrichtigungen</string>
   <string name="pref_other_title">Andere</string>
   <string name="pref_show_blocked_messages_summary">Gesperrte SMS in der Unterhaltungsliste anzeigen</string>
-  <string name="pref_show_sms_template_in_summary">OTP in SMS automatisch erkennen</string>
+  <string name="pref_show_sms_template_in_summary">Einmalpasswörter (OTP) in SMS automatisch erkennen</string>
   <string name="pref_show_sms_template_summary">Bestätigungscodes automatisch kopieren und einfügen</string>
   <string name="pref_smart_messages_settings">Smartnachrichten</string>
   <string name="pref_sms_theme_title">Thema</string>
@@ -495,6 +501,7 @@
   <string name="prvate_contact">Private Kontakte</string>
   <string name="quick_reply">Schnellantwort</string>
   <string name="rate_limit_surpassed">OK</string>
+  <string name="received_at_time">Empfangen um: %1s</string>
   <string name="received_label">"Empfangen: "</string>
   <string name="recipient_label">"Empfänger: "</string>
   <string name="recipients_over_size">Zu viele Empfänger</string>
@@ -575,6 +582,7 @@
   <string name="send_to">An:</string>
   <string name="send_to_count">%1$s Nachrichten gesendet</string>
   <string name="send_to_index_contact">%1$s/%2$s</string>
+  <string name="sent_at_time">Gesendet um: %1s</string>
   <string name="sent_label">"Gesendet: "</string>
   <string name="service_message_not_found">Nachricht abgelaufen oder nicht verfügbar</string>
   <string name="service_network_problem">Senden aufgrund eines Netzwerkproblems nicht möglich</string>
@@ -704,6 +712,7 @@ Bisherige Versuche: %s."</string>
   <string name="user_agreement3">" und "</string>
   <string name="user_agreement4">Datenschutzbestimmungen</string>
   <string name="user_agreement5">Wenn Sie auf OK tippen, akzeptieren Sie unsere Nutzungsbedingungen und Datenschutzbestimmungen.</string>
+  <string name="verification_code_list_title">Bestätigungscodes</string>
   <string name="view">Anzeigen</string>
   <string name="view_bookmark">Originalnachricht anzeigen</string>
   <string name="view_hms_attachment_fail">Bild konnte nicht geladen werden</string>

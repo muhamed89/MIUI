@@ -1342,6 +1342,9 @@ Ihr Telefon wird nach einem weiteren gescheiterten Versuch automatisch gesperrt"
   <string name="propmpt_dialog_not_activate_sim_title">Telefonnummer wurde nicht überprüft</string>
   <string name="provision_content">Diese Funktion braucht eine Internetverbindung, um normal zu funktionieren</string>
   <string name="provision_title">Internetverbindung</string>
+  <string name="proximity_mode_title">Näherungssensor einschalten</string>
+  <string name="proximity_off_summary">Wenn Sie ein Gespräch annehmen, bleibt der Bildschirm immer an</string>
+  <string name="proximity_on_summary">Wenn Sie ein Gespräch annehmen, wird der Bildshcirm augeschaltet, um Akku zu sparen</string>
   <string name="proxy_address">Proxyadresse</string>
   <string name="proxy_address_title">Ausgehende Proxyadresse</string>
   <string name="pstn_connection_service_label">Eingebaute SIM-Karten</string>
@@ -1669,6 +1672,7 @@ Next period starts in %4$d days (%5$s)"</string>
   <string name="throttle_time_frame">Datennutzungszeitraum</string>
   <string name="throttle_time_frame_subtext">"%1$d٪ of cycle elapsed
 Next period starts in %2$d days (%3$s)"</string>
+  <string name="time_next_day"> nächster Tag </string>
   <string name="time_statistic">%1$d Minuten Netzwerkzeit gespart</string>
   <string name="title_call_barring">Anrufsperre (%s)</string>
   <string name="title_cf_option_phone_number">Auf eine Telefonnummer weiterleiten</string>
