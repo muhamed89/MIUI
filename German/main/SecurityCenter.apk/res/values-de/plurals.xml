@@ -218,4 +218,12 @@
         <item quantity="other">Nach %d Berechtigungen fragen</item>
         <item quantity="one">Nach %d Berechtigung fragen</item>
     </plurals>
+         <plurals name="result_virus_header">
+        <item quantity="other">%d Viren und unsichere Apps gefunden</item>
+        <item quantity="one">Ein Virus oder App gefunden</item>
+     </plurals>
+     <plurals name="result_sign_header">
+        <item quantity="other">%d inoffizielle Apps gefunden</item>
+        <item quantity="one">Eine inoffizielle App gefunden</item>
+     </plurals>
 </resources>

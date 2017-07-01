@@ -27,25 +27,25 @@
         <item quantity="one">%d Empfänger</item>
     </plurals>
     <plurals name="send_to_count">
-        <item quantity="other">Sende %1$s Nachrichten</item>
-        <item quantity="one">Sende %1$s Nachricht</item>
+        <item quantity="other">%1$s Nachrichten gesendet</item>
+        <item quantity="one">%1$s Nachricht gesendet</item>
     </plurals>
-    <plurals name="group_message_failed_title">
-        <item quantity="other">"Couldn't send to %d contacts"</item>
-        <item quantity="one">"Couldn't send to %d contact"</item>
-    </plurals>
+     <plurals name="group_message_failed_title">
+        <item quantity="other">Senden an %d Kontakte fehlgeschlagen</item>
+        <item quantity="one">Senden an %d Kontakt fehlgeschlagen</item>
+     </plurals>
     <plurals name="batch_delete_confirm_dialog_message">
         <item quantity="other">Lösche %1$s Nachrichten?</item>
         <item quantity="one">Lösche %1$s Nachricht?</item>
     </plurals>
-    <plurals name="timed_message_expired_title">
-        <item quantity="other">"%d Zeitgesendete Nachrichten wurden nicht gesendet"</item>
-        <item quantity="one">"%d Zeitgesendete Nachricht wurde nicht gesendet"</item>
-    </plurals>
-    <plurals name="timed_message_in_total">
-        <item quantity="other">(%d messages)</item>
-        <item quantity="one">(%d message)</item>
-    </plurals>
+     <plurals name="timed_message_expired_title">
+        <item quantity="other">%d zeitversetzte Nachrichten wurden nicht gesendet</item>
+        <item quantity="one">%d zeitversetzte Nachricht wurde nicht gesendet</item>
+     </plurals>
+     <plurals name="timed_message_in_total">
+        <item quantity="other">(%d Nachrichten)</item>
+        <item quantity="one">(%d Nachrichte)</item>
+     </plurals>
     <plurals name="hint_search_sms">
         <item quantity="other">%d Nachrichten</item>
         <item quantity="zero">%d Nachrichten</item>
