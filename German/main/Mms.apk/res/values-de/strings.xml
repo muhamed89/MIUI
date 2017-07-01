@@ -153,6 +153,7 @@
   <string name="duration_selector_title">"Dauer für Dia "</string>
   <string name="duration_zero">Dauer muss mehr als 0 Sekunden betragen</string>
   <string name="earlier">Früher</string>
+  <string name="edit">Bearbeiten</string>
   <string name="edit_nickname_for_nocontact">Sie müssen zuerst einen Empfänger hinzufügen</string>
   <string name="edit_nickname_for_nocontact_by_robot">Sie müssen zuerst einen Empfänger hinzufügen</string>
   <string name="edit_phrase">Vorlage ändern</string>
@@ -421,9 +422,12 @@
   <string name="pref_message_recovery_introduction_title">Nachrichten wiederherstellen</string>
   <string name="pref_messages_to_save">Anzahl zu speichernder Nachrichten festlegen</string>
   <string name="pref_mms_settings_title">MMS</string>
+  <string name="pref_msg_trash_bin_title">Kürzlich gelöschte Nachrichten</string>
   <string name="pref_notification_settings_title">Benachrichtigungen</string>
   <string name="pref_other_title">Andere</string>
   <string name="pref_show_blocked_messages_summary">Gesperrte SMS in der Unterhaltungsliste anzeigen</string>
+  <string name="pref_show_list_avatar_summary">Profilfotos und Kontaktdetails in der Listenansicht anzeigen</string>
+  <string name="pref_show_sms_template_entry_summary">Einmalpasswörter (OTP) in SMS erkennen</string>
   <string name="pref_show_sms_template_in_summary">Einmalpasswörter (OTP) in SMS automatisch erkennen</string>
   <string name="pref_show_sms_template_summary">Bestätigungscodes automatisch kopieren und einfügen</string>
   <string name="pref_smart_messages_settings">Smartnachrichten</string>
@@ -668,9 +672,11 @@
   <string name="title_red_package">Immer reich und viel Glück</string>
   <string name="title_send_red_package">Überprüfen Sie das rote Paket</string>
   <string name="title_show_blocked_messages">Zeige geblockte SMS</string>
+  <string name="title_show_list_avatar">Profilfotos anzeigen</string>   
   <string name="title_show_sms_template">Überprüfe SMS nach Bestätigungscodes</string>
   <string name="title_show_sms_template_in">Überprüfe SMS auf OTP</string>
   <string name="title_timed_message_dialog">Zeit einstellen</string>
+  <string name="title_use_gsm_alphabet">GSM-Alphabet verwenden</string>
   <string name="to_address_label">"An: "</string>
   <string name="to_count">%d Empfänger</string>
   <string name="to_label">"An "</string>
@@ -705,6 +711,11 @@ Bisherige Versuche: %s."</string>
   <string name="url_fraud_alert">Die Webseite, die Sie besuchen möchten %s könnte eine betrügerische Seite sein, wollen Sie wirklich fortfahren?</string>
   <string name="url_fraud_title">Betrugsverdacht</string>
   <string name="url_fraud_visit"><u>Trotzdem fortfahren</u></string>
+  <string name="url_fraud_dangerous_alert">"Die Webseite, die Sie besuchen möchten ist unsicher, wollen Sie wirklich fortfahren?
+%s"</string>
+     <string name="url_fraud_insurance">Betrugsverdacht</string>
+     <string name="url_fraud_risky_alert">"Die Webseite, die Sie besuchen möchten ist unsicher. Trotzdem fortfahren?
+%s"</string>
   <string name="url_result_safe">Diese URL ist sicher</string>
   <string name="url_scanning">URL wird überprüft…</string>
   <string name="user_agreement1">Lesen Sie den Abschnitt sorgfältig, bevor Sie weitere Software installieren oder dieses Produkt benutzen.</string>

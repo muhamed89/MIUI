@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="act_find_city_hint">Ort eingeben</string>
+  <string name="act_find_city_hot_city_title">Beliebte Städte</string>
   <string name="act_find_city_hot_attractions_title">Beliebte Standorte</string>
   <string name="act_find_city_hot_title">Beliebte Städte</string>
   <string name="act_set_city_find_side">Lokalisieren…</string>
@@ -71,10 +72,13 @@
   <string name="button_not_allow">Abbrechen</string>
   <string name="button_sure_abandon">Änderungen verwerfen?</string>
   <string name="change_alert">Überprüfen Sie Netzwerkverbindung und versuchen Sie erneut</string>
+  <string name="city_exceeded_warning">Sie können maximal 10 Städte hinzufügen</string>
   <string name="close">Schließen</string>
   <string name="commercial">Kommerziell</string>
   <string name="common_loading_text">Wird geladen...</string>
     <string name="connect_fail">Netzwerkverbindung fehlgeschlagen. Versuchen Sie es später noch einmal.</string>
+  <string name="data_provided_by">Zur Verfügung gestellt von</string>
+  <string name="data_source_time_fromat">"dd.MM.yyyy'T'HH:mm:ssz"</string>
   <string name="daily_forcast_drawer_on_bottom">Verbergen</string>
   <string name="daily_forcast_drawer_on_top">Weitere Tage</string>
   <string name="daily_forcast_no_stable_direction">Windstill</string>
@@ -135,6 +139,7 @@ nach unten ziehen, um zu aktialisieren oder überprüfen Sie die Netzwerkeinstel
   <string name="indices_title_sport">Sport</string>
   <string name="indices_title_uv">UV-Index</string>
   <string name="indices_title_visibility">Sichtweite</string>
+  <string name="information_manager_default_weather_bg">Standard-Wetterhintergrund</string>
   <string name="information_manager">Laden wenn mit WLAN verbunden</string>
   <string name="information_manager_extension">Wettererweiterung</string>
   <string name="information_manager_information">Wetterinformation</string>
@@ -173,6 +178,7 @@ nach unten ziehen, um zu aktialisieren oder überprüfen Sie die Netzwerkeinstel
   <string name="network_unavailable">Verbindung zum Netzwerk nicht möglich</string>
   <string name="no_data">--</string>
   <string name="no_network_btn">Wiederholen</string>
+  <string name="no_vote_ratio">%1$s%% dagegen</string>
   <string name="open">Öffnen</string>
   <string name="open_browser">Im Browser öffnen</string>
   <string name="open_now">Jetzt öffnen</string>
@@ -186,6 +192,7 @@ nach unten ziehen, um zu aktialisieren oder überprüfen Sie die Netzwerkeinstel
   <string name="precipitation_degree_three">mäßig</string>
   <string name="precipitation_degree_two">leicht</string>
   <string name="pressure_connect">%1$s hPa</string>
+  <string name="radar_cloud_image_title">Wetterkarte</string>
   <string name="realtime_aqi_title">Luftqualität</string>
   <string name="realtime_humidity_title">Relative Luftfeuchte</string>
   <string name="refresh_fail">Netzwerkverbindung konnte nicht hergestellt werden</string>
@@ -233,4 +240,7 @@ nach unten ziehen, um zu aktialisieren oder überprüfen Sie die Netzwerkeinstel
   <string name="weather_alert">Wetterwarnungen</string>
   <string name="wind_miles_unit">%1$s m/s</string>
   <string name="wind_unit">%1$s km/h</string>
+  <string name="xiaomi_weather_description_content">Wetter stellt Ihnen genaue Wetterdaten zur Verfügung. Ohne diese App funktioniert das Wetterwidget und die Satatusleiste nicht richtig.</string>
+  <string name="xiaomi_weather_description_title">Über Wetter</string>
+  <string name="yes_vote_ratio">%1$s%% dafür</string>
 </resources>
