@@ -326,6 +326,8 @@ um den besten Gesichtsausdruck in einem Foto festzuhalten</string>
   <string name="pref_camera_show_gender_age_entry_alias">Alter anzeigen</string>
   <string name="pref_camera_show_gender_age_entry_off">Aus</string>
   <string name="pref_camera_show_gender_age_entry_on">Alter und Geschlecht anzeigen</string>
+  <string name="pref_camera_show_gender_age_label_alias">Alter</string>
+  <string name="pref_camera_show_gender_age_label_on">Alter &amp; Geschlecht</string>
   <string name="pref_camera_show_gender_age_title">Gesichtserkennung</string>
   <string name="pref_camera_skinToneEnhancement_entry_auto">Automatische Bildverbesserung</string>
   <string name="pref_camera_skinToneEnhancement_entry_disable">Deaktivieren</string>
