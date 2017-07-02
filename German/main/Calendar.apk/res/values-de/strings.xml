@@ -184,9 +184,11 @@
   <string name="date_pattern_mm_dd">dd.MM.</string>
   <string name="date_pattern_mm_dd_kk_mm">dd.MM. HH:mm</string>
   <string name="date_pattern_yyyy_mm_dd_kk_mm">dd.MM. yyyy HH:mm</string>
+  <string name="date_today">" (heute)"</string>
   <string name="day_picker_description">Monat als Tagesraster</string>
   <string name="day_view">Tag</string>
   <string name="day_view_new_event_hint">Neuer Termin</string>
+  <string name="default_reminder_mode">Erinnerungen</string>
   <string name="delete_calendar">Abmelden</string>
   <string name="delete_label">Löschen</string>
   <string name="delete_recurring_event_title">%s löschen?</string>
@@ -303,6 +305,8 @@
   <string name="from_google_group_calendar">Google-Kalender</string>
   <string name="gadget_no_events">Keine anstehenden Termine</string>
   <string name="gadget_title">Kalender</string>
+  <string name="global_action_text_card_manager">Weitere kategorien</string>
+  <string name="global_cricket_no_match">Heute stehen keine Cricket-Matches an. Sehen Sie an anderen Tagen nach</string>
   <string name="goto_today">Heute</string>
   <string name="guide_card_hint_text">Antippen um die Mi Cloud zu öffnen</string>
   <string name="hide_controls">Steuerelemente aus</string>
@@ -312,6 +316,7 @@
   <string name="hint_what">Bezeichnung</string>
   <string name="hint_where">Standort</string>
   <string name="holiday_card_title">Feiertag</string>
+  <string name="holiday_detail_read_more">Mehr</string>
   <string name="holiday_label">chinesische Feste</string>
   <string name="homepage_today">Jetzt</string>
   <string name="horoscope_card_comprehensive">Allgemeines Horoskop：</string>
@@ -359,6 +364,7 @@
   <string name="menu_select_visible_calendars">Anzeigeoptionen</string>
   <string name="minute_picker_description">Minuten als kreisförmiger Schieber</string>
   <string name="missing_name">(Kein Name)</string>
+  <string name="missing_required_permission">Sie haben eine erforderliche Berechtigung abgelehnt</string>
   <string name="miui_menu_create_event">Neu</string>
   <string name="modify_all">Alle Termine in dieser Serie ändern</string>
   <string name="modify_all_following">Diesen und alle zukünftigen Termine ändern</string>
@@ -624,6 +630,10 @@ Sie können auch Erinnerungen einrichten, damit Sie nichts verpassen."</string>
   <string name="today_train_event">Bahn</string>
   <string name="tomorrow">Morgen</string>
   <string name="tomorrow_at_time_fmt">Morgen um %s</string>
+  <string name="too_long_content">Content is too long</string>
+  <string name="too_long_description">Ereignisbeschreibung ist zu lang</string>
+  <string name="too_long_location">Ereignisort ist zu lang</string>
+  <string name="too_long_name">Name is zu lang</string>
   <string name="topic_dialog_title">Abo abmelden</string>
   <string name="topic_event_list_header_label">Anstehende Termine</string>
   <string name="topic_list_header_label">Aboliste</string>

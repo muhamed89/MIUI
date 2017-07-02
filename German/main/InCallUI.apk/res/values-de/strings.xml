@@ -233,7 +233,6 @@
   <string name="unlock_phone">Gerät entsperren</string>
   <string name="user_locked_prompt">Gerät entsperren, um auf die Kontakte zuzugreifen</string>
   <string name="upgrade_vt_prompt">Möchten Sie den Anruf per Videoanruf weiterführen?</string>
-  <string name="user_locked_prompt">Gerät entsperren um auf Kontakte zuzugreifen.</string>
   <string name="video_call_not_allowed_if_tty_enabled">Schalten Sie zuerst den TTY-Modus ein</string>
   <string name="video_conference_caller_info_name">%1$s Videokonferenz</string>
   <string name="video_switch_to_voice_call_prompt">Zu Sprachtelefonie wechseln</string>

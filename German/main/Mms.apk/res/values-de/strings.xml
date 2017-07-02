@@ -136,7 +136,6 @@
   <string name="delivery_report_activity">Zustellbericht</string>
   <string name="delivery_toast_body">%s hat die Nachricht erhalten.</string>
   <string name="disable_notifications_dialog_message">Doppelte SMS-Benachrichtigungen von der Standardnachrichtenapp verhindern?</string>
-  <string name="disabled">Aus</string>
   <string name="disabled">Deaktiviert</string>
   <string name="discard">Verwerfen</string>
   <string name="discard_message">Verwerfen</string>
