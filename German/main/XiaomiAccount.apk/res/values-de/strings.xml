@@ -462,7 +462,7 @@
   <string name="provision_skip_login"><u>Überspringen</u></string>
   <string name="push_notification_content">Bestätigungscode senden</string>
   <string name="push_notification_title">Sie haben sich von einem unbekannten Gerät angemeldet</string>
-  <string name="push_notify_dialog_message">Sie haben sich von einem unbekannten Gerät angemeldet. Geben Sie auf diesem Gerät einen Bestätigungscode ein. Falls nicht Sie sich angemeldet haben, ändern Sie sofort Ihr Passwort. Geben Sie Bestätigungscodes nicht an Dritte weiter."</string>
+  <string name="push_notify_dialog_message">Sie haben sich von einem unbekannten Gerät angemeldet. Geben Sie auf diesem Gerät einen Bestätigungscode ein. Falls nicht Sie sich angemeldet haben, ändern Sie sofort Ihr Passwort. Geben Sie Bestätigungscodes nicht an Dritte weiter.</string>
   <string name="push_notify_dialog_title">Konto bestätigen</string>
   <string name="qq">QQ</string>
   <string name="quick_login_dialog_step2_title">2-Schrittverifizierung</string>
