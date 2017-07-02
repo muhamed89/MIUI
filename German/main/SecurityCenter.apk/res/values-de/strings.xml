@@ -1874,16 +1874,12 @@ Die Datenreduzierung funktioniert nur, wenn Sie mit dem Datennetzwerk verbunden 
     <string name="st_antispam_mode_blacklist_sum">Anrufe und SMS von den Nummern blockieren, die manuell der Sperrliste hinzugefügt wurden</string>
     <string name="st_antispam_mode_denyownself_sum">Benutzerdefinierte Regeln</string>
     <string name="st_antispam_mode_only_all_deny">Alles blockieren</string>
-    <string name="st_antispam_mode_only_all_deny_state">10000000</string>
     <string name="st_antispam_mode_only_all_deny_sum">Alle Anrufe und Nachrichten sperren</string>
     <string name="st_antispam_mode_only_contacts">Nur Kontakte erlauben</string>
-    <string name="st_antispam_mode_only_contacts_state">11110000</string>
     <string name="st_antispam_mode_only_contacts_sum">Nur Anrufe und Nachrichten von Kontakten erlauben</string>
     <string name="st_antispam_mode_only_whitelist">Nur Ausnahmen erlauben</string>
-    <string name="st_antispam_mode_only_whitelist_state">11000000</string>
     <string name="st_antispam_mode_only_whitelist_sum">Nur Anrufe und Nachrichten von erlaubten Nummern zulassen</string>
     <string name="st_antispam_mode_smart">Gemeldete Nummern</string>
-    <string name="st_antispam_mode_smart_state">11111111</string>
     <string name="st_antispam_mode_smart_sum">Nummern blockieren, die Sie manuell hinzugefügt haben und die von anderen Benutzern gemeldet wurden</string>
     <string name="st_antispam_notification_sum">Benachrichtigen, wenn Anruf oder Nachricht blockiert wurde</string>
     <string name="st_antispam_title_anoy_incoming">Anrufe von unbekannten Nummern</string>

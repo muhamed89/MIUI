@@ -36,7 +36,6 @@
   <string name="document_grayscale">Graustufen</string>
   <string name="document_grayscale_tip_msg">Konvertiere in Grausten…</string>
   <string name="document_ocr">OCR</string>
-  <string name="document_ocr_language_key">pref_document_ocr_language</string>
   <string name="document_ocr_result_copy">Text kopieren</string>
   <string name="document_ocr_result_save">Speichern als Notiz</string>
   <string name="document_ocr_result_title">Dokumentfoto</string>

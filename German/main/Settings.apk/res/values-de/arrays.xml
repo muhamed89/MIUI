@@ -33,11 +33,6 @@
         <item>Check for DRM content only</item>
         <item>Always check</item>
     </string-array>
-    <string-array name="hdcp_checking_values">
-        <item>never</item>
-        <item>drm-only</item>
-        <item>always</item>
-    </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Never use HDCP checking</item>
         <item>Use HDCP checking for DRM content only</item>
@@ -842,10 +837,5 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
         <item>2</item>
         <item>1</item>
         <item>Unbegrenzt</item>
-    </string-array>
-    <string-array name="traffic_balance_entries">
-        <item>schließen</item>
-        <item>normal</item>
-        <item>extrem</item>
     </string-array>
 </resources>

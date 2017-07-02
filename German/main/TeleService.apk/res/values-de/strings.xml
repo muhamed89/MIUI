@@ -1761,7 +1761,6 @@ Falls dieses Problem weiterhin besteht, setzen Sie sich mit Ihrem Mobilfunkanbie
   <string name="voicemail_lable">Sprachbox (%s)</string>
   <string name="voicemail_notification_ringtone_title">Töne</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Vibrieren</string>
-    <string name="voicemail_notification_vibrate_when_default">nie</string>
   <string name="voicemail_notification_vibrate_when_title">Vibration</string>
   <string name="voicemail_number_not_set">Nicht festgelegt</string>
   <string name="voicemail_provider">Mailboxdienst</string>

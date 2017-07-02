@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="last_num_days">
-        <item quantity="other">Letzten %d Tage</item>
+        <item quantity="other">Die letzten %d Tage</item>
+        <item quantity="one">Letzter Tag</item>
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d aus %2$d</item>
