@@ -1166,6 +1166,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
   <string name="service_provider">Gelbe Seiten</string>
   <string name="service_provider_detail">Ordnerdetails</string>
   <string name="set_data_package">Erst Datenpaket auswählen</string>
+  <string name="set_default">Festlegen von Standard</string>
   <string name="set_photo_failed_msg">Kontaktbild konnte nicht gesetzt werden</string>
   <string name="share_error">Kontakt kann nicht geteilt werden</string>
   <string name="share_over_limit">Mehr als 1000 Kontakte können nicht geteilt werden</string>
