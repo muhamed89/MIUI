@@ -514,6 +514,7 @@ Diese Seite verlassen?"</string>
   <string name="pref_auto_update_under_wifi">Automatisches Update mit einer WLAN-Verbindung</string>
   <string name="pref_category_hint">Kategorie</string>
   <string name="pref_check_security_url_summary">"Sende Seitenadresse an Mi-Server für eine Sicherheitsüberprüfung"</string>
+  <string name="pref_check_security_url_summary_international">Erlaube Browser, auf die URLs der Websites zuzugreifen, die du besuchst, um relevantere Empfehlungen zu erhalten.</string>
   <string name="pref_check_security_url_title">Überprüfe URL Sicherheit</string>
   <string name="pref_clear_adblock_statistics">Lösche Werbeblockerverlauf</string>
   <string name="pref_clear_adblock_statistics_dlg">Lösche Zähler für geblockte Werbung?</string>
