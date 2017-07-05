@@ -284,8 +284,6 @@
   <string name="event_info_reminders_label">Erinnerungen</string>
   <string name="event_info_reminders_label_1">Erinnerung</string>
   <string name="event_info_organizer">Veranstalter:</string>
-  <string name="event_info_reminders_label">Erinnerungen</string>
-  <string name="event_info_reminders_label_1">Erinnerung</string>
   <string name="event_info_reminders_label_more">Erinnerung %d</string>
   <string name="event_info_repeat">Wiederholen\u0009</string>
   <string name="event_info_title">Termindetails</string>
