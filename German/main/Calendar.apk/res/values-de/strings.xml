@@ -281,6 +281,8 @@
   <string name="event_info_end">Ende\u0009\u0009\u0009</string>
   <string name="event_info_from">Von</string>
   <string name="event_info_jump_to_email">Zur E-Mail</string>
+  <string name="event_info_reminders_label">Erinnerungen</string>
+  <string name="event_info_reminders_label_1">Erinnerung</string>
   <string name="event_info_organizer">Veranstalter:</string>
   <string name="event_info_reminders_label">Erinnerungen</string>
   <string name="event_info_reminders_label_1">Erinnerung</string>
