@@ -717,6 +717,7 @@ Diese Seite verlassen?"</string>
   <string name="sendstartpage">Startseite</string>
   <string name="share_page_text">"Ich genieße 【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">"Die Adresse dieser Seite wird an Xiaomis Server gesendet, um deren Sicherheit zu prüfen. Sie können diese Funktion jederzeit in den Einstellungen deaktivieren."</string>
+  <string name="show_check_security_url_check_tip_dialog_description_international">Browser muss eine Verbindung zum Internet herstellen, um normal zu arbeiten. Um mehr relevante Empfehlungen zu erhalten, erlauben Sie Browser, die URLs der Webseiten zu erhalten, die Sie besuchen und auf Ihren Standortinformationen zugreifen.</string>
   <string name="show_check_security_url_check_tip_dialog_title">Überprüfe URL-Sicherheit</string>
   <string name="show_security_tip_dialog_title">Nutzungsbedingungen</string>
   <string name="show_weather_location_getter_tip_dialog_description">Der Wetterdienst des Browsers benötigt Ihre Position um Sie mit aktuellen Wetterinfos versorgen zu können. Sie können diese Funktion in den Einstellungen deaktivieren.</string>
