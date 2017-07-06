@@ -708,7 +708,7 @@
   <string name="please_fill_in_your_mailbox_information2">Bitte geben Sie Ihre E-Maildaten ein</string>
   <string name="policy_app_blacklist">Bestimmte Apps verbieten</string>
   <string name="policy_app_whitelist">Nur bestimmte Apps erlauben</string>
-  <string name="policy_bluetooth_restricted">Bluetooth Nutzung beschränken</string>
+  <string name="policy_bluetooth_restricted">Bluetoothnutzung beschränken</string>
   <string name="policy_calendar_age">Anzahl synchronisierter Kalendereinträge begrenzen</string>
   <string name="policy_dont_allow_attachments">Anhänge nicht erlaubt</string>
   <string name="policy_dont_allow_browser">Browser nicht erlaubt</string>
