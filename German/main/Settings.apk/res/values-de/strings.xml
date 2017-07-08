@@ -4627,7 +4627,7 @@ Erwägen Sie die Verwendung eines schnelleren ^1 für bessere Leistung."</string
   <string name="summary_range_verbal_combination">%1$s bis %2$s</string>
   <string name="supl_not_set">&lt;Nicht festgelegt&gt;</string>
   <string name="supplicant_state_label">Supplikantstatus:</string>
-  <string name="sure_sync_now">inhalte jetzt synchronisieren?</string>
+  <string name="sure_sync_now">Inhalte jetzt synchronisieren?</string>
   <string name="suspend_gesture_enabled">Telefon umdrehen, um den Bildschirm auszuschalten</string>
   <string name="suspension_ball_enable">Schnellball-Verknüpfung</string>
   <string name="suspension_ball_enable_desc">Schalten Sie Schnellball an und aus, um die Verknüpfung benutzen zu können</string>
