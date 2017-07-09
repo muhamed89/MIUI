@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="daily_forcast_drawer_on_top">
+        <item quantity="other">%1$s Tage Vorhersage</item>
+        <item quantity="one">%1$s Tag Vorhersage</item>
+    </plurals>
     <plurals name="activity_main_update_time_in_one_hour">
         <item quantity="other">vor %d Minuten</item>
         <item quantity="one">vor %d Minute</item>
