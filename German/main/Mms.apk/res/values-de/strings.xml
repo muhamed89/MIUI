@@ -426,6 +426,7 @@
   <string name="pref_other_title">Andere</string>
   <string name="pref_show_blocked_messages_summary">Gesperrte SMS in der Unterhaltungsliste anzeigen</string>
   <string name="pref_show_list_avatar_summary">Profilfotos und Kontaktdetails in der Listenansicht anzeigen</string>
+  <string name="pref_show_photo_word_summary">Automatisches Zuordnen eines Bildes zu Kontakten ohne Foto</string>
   <string name="pref_show_sms_template_entry_summary">Einmalpasswörter (OTP) in SMS erkennen</string>
   <string name="pref_show_sms_template_in_summary">Einmalpasswörter (OTP) in SMS automatisch erkennen</string>
   <string name="pref_show_sms_template_summary">Bestätigungscodes automatisch kopieren und einfügen</string>
@@ -672,6 +673,7 @@
   <string name="title_send_red_package">Überprüfen Sie das rote Paket</string>
   <string name="title_show_blocked_messages">Zeige geblockte SMS</string>
   <string name="title_show_list_avatar">Profilfotos anzeigen</string>   
+  <string name="title_show_photo_word">Kontaktbilder zuordnen</string>
   <string name="title_show_sms_template">Überprüfe SMS nach Bestätigungscodes</string>
   <string name="title_show_sms_template_in">Überprüfe SMS auf OTP</string>
   <string name="title_timed_message_dialog">Zeit einstellen</string>
