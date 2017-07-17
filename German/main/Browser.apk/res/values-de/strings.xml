@@ -98,6 +98,7 @@
   <string name="block_ads_choice_continue">Fortfahren</string>
   <string name="block_ads_message">Wollen Sie Nachrichten von dieser Webseite blockieren?</string>
   <string name="block_ads_title">Inhalt kann Werbung enthalten.</string>
+  <string name="bookmark">Lesezeichen</string>
   <string name="bookmark_add_to">Hinzufügen zu</string>
   <string name="bookmark_btn_select_all">Alle auswählen</string>
   <string name="bookmark_btn_select_none">Keine auswählen</string>
@@ -331,6 +332,7 @@
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Auf Startbildschirm hinzugefügt</string>
   <string name="hint">Hinweis</string>
+  <string name="history">Verlauf</string>
   <string name="history_saved_webpage">Seite speichern</string>
   <string name="home_description">Startseite</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
@@ -724,6 +726,7 @@ Diese Seite verlassen?"</string>
   <string name="sign_in_to" formatted="false">Anmelden zu %s1 \"%s2\"</string>
   <string name="skip_button_label">Überspringen</string>
   <string name="skip_current_version">Überspringe diese Version</string>
+  <string name="snapshot">Lokal</string>
   <string name="snapshot_failed">"Konnte das nicht zum Offlinelesen speichern"</string>
   <string name="snapshot_successed">Zum Offlinelesen gespeichert</string>
   <string name="ssl_bad_clock_date_settings">Datumseinstellungen</string>
