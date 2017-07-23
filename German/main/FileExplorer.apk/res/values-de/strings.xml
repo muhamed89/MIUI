@@ -301,6 +301,7 @@
   <string name="has_installed">Installiert</string>
   <string name="homepage_tab_category">Kategorien</string>
   <string name="homepage_tab_file_view">Speicher</string>
+  <string name="homepage_tab_file_view_phone">Speicher</string>
   <string name="homepage_tab_recent">Kürzlich verwendet</string>
   <string name="hot_app">Beliebte Apps</string>
   <string name="hot_comments">Beliebte Kommentare</string>
