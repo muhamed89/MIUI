@@ -201,6 +201,8 @@ Zuletzt gesichert am %2$s"</string>
   <string name="micloud_detail_wlan">%d warte zum synchronisieren</string>
   <string name="micloud_detail_wlan_contact">%d Kontaktfotos warten auf Synchronisation</string>
   <string name="micloud_detail_wlan_mms">%d MMS warten auf Synchronisation</string>
+  <string name="micloud_dialog_sync_now_message">Verbinden Sie sich per WLAN, um zusätzliche Kosten zu vermeiden</string>
+  <string name="micloud_dialog_sync_now_negative">Nicht jetzt</string>
   <string name="micloud_dialog_sync_now_positive">Benutze mobile Daten</string>
   <string name="micloud_dialog_sync_now_title">Zum synchronisieren mit WLAN verbinden</string>
   <string name="micloud_dspt">Verwenden Sie Mi Cloud um Ihre Daten zu synchronisieren, um Ihr Gerät zu finden,</string>
@@ -240,6 +242,9 @@ Um dies zu beheben, können Sie entweder alte Dateien bereinigen, um Platz für 
   <string name="micloud_full_influence_title">Wenn Ihre Mi Cloud voll ist…</string>
   <string name="micloud_main_battery_low">Akkustand zu niedrig für Synchronisation</string>
   <string name="micloud_main_battery_message">Zur Synchronisation schließen Sie Ladegerät an</string>
+  <string name="micloud_main_button_activate">Aktivieren</string>
+  <string name="micloud_main_button_authorize">Autorisieren</string>
+  <string name="micloud_main_button_set_internet">Einstellungen</string>
   <string name="micloud_main_clear_now">Bereinigen</string>
   <string name="micloud_main_data_unsynced">%d warte zum Synchronisieren</string>
   <string name="micloud_main_detail">Details anzeigen</string>

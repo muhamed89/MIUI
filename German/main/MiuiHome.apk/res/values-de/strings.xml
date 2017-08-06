@@ -66,6 +66,7 @@
   <string name="delete_wallpaper_message">%1$d ausgewählten Hintergrund entfernen?</string>
   <string name="delete_wallpapers_message">%1$d ausgewählte Hintergründe entfernen?</string>
   <string name="deselect_all">Alle abwählen</string>
+  <string name="default_folder_title_recommend">Mehr Apps</string>
   <string name="disable_wallpaper_scroll">Hintergrundscrollen ausschalten</string>
   <string name="download_action">Download</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
@@ -160,16 +161,20 @@
   <string name="lock_screen_wallpaper">Sperrbildschirm Hintergrund </string>
   <string name="menu_add">Hinzufügen</string>
   <string name="menu_back_desktop">Zurück zum Startbildschirm</string>
+  <string name="menu_cell_setting">Bildschirmeinstellungen</string>
   <string name="menu_customize">Einstellungen</string>
   <string name="menu_edit">Startbildschirm bearbeiten</string>
   <string name="menu_exit_scene">Mi Space beenden</string>
   <string name="menu_item_add_item">Zum Startbildschirm hinzufügen</string>
   <string name="menu_launcher_setting">Launchereinstellungen</string>
+  <string name="menu_lock">Sperrbildschirm</string>
+  <string name="menu_more">Mehr</string>
   <string name="menu_picktheme">Thema auswählen</string>
   <string name="menu_reset_scene">Standardlayout</string>
   <string name="menu_search">Suchen</string>
   <string name="menu_settings">Einstellungen</string>
   <string name="menu_sort">Apps sortieren</string>
+  <string name="menu_trans_effect">Übergangseffekt</string>
   <string name="menu_wallpaper">Hintergrund</string>
   <string name="menu_workspace_preview">Vorschau</string>
   <string name="mi_wallpaper">MIUI-Theme-Store</string>
@@ -209,6 +214,7 @@
   <string name="pref_wallpaper_scroll_type_title">Hintergrundausrichtung</string>
   <string name="preferences_general_title">Erweiterte Einstellungen</string>
   <string name="preferences_title">Launchereinstellungen</string>
+  <string name="recommend_apps_default_title">Leer</string>
   <string name="recommend_apps_notice">Empfohlene Apps</string>
   <string name="recommend_apps_notice_nodata">Empfohlene Apps (Keine Daten)</string>
   <string name="recommend_apps_switch_title">Empfohlene Apps</string>

@@ -56,4 +56,12 @@
         <item quantity="other">%d sind ausgeschaltet</item>
         <item quantity="one">%d ist ausgeschaltet</item>
     </plurals>
+         <plurals name="micloud_main_resume_sync_hour">
+        <item quantity="other">Synchronisation nach %d Stunden fortsetzen</item>
+        <item quantity="one">Synchronisation nach %d Stunde fortsetzen</item>
+     </plurals>
+     <plurals name="micloud_main_resume_sync_min">
+        <item quantity="other">Synchronisation nach %d Minuten fortsetzen</item>
+        <item quantity="one">Synchronisation nach %d Minute fortsetzen</item>
+     </plurals>
 </resources>
