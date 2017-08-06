@@ -328,4 +328,20 @@
         <item quantity="other">%d Elemente</item>
         <item quantity="one">%d Element</item>
      </plurals>
+          <plurals name="add_to_secret_successful">
+        <item quantity="other">%1$d Fotos zu privatem Album hinzugefügt</item>
+        <item quantity="one">%1$d Foto zu privatem Album hinzugefügt</item>
+     </plurals>
+     <plurals name="backup_after_hours">
+        <item quantity="other">Backup in %d Stunden fortsetzen</item>
+        <item quantity="one">Backup in %d Stunde fortsetzen</item>
+     </plurals>
+     <plurals name="backup_pause_desc">
+        <item quantity="other">%d Fotos and Videos | Angehalten</item>
+        <item quantity="one">%d Foto or Video | Angehalten</item>
+     </plurals>
+     <plurals name="download_retry_message">
+        <item quantity="other">%1$d Dateien konnten nicht heruntergeladen werden, überprüfen Sie Ihre Netzwerkeinstellungen und versuchen Sie es erneut</item>
+        <item quantity="one">%1$d Dateie konnten nicht heruntergeladen werden, überprüfen Sie Ihre Netzwerkeinstellungen und versuchen Sie es erneut</item>
+     </plurals>
 </resources>
