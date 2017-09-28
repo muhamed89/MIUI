@@ -1,3 +1,5 @@
+#### Note: This repository isn't under development anymore. The German MIUI 9 repository and bugtracker is located [here](https://github.com/berlinux2016/MIUI9-ger).
+
 # ![logo](http://i.imgur.com/8mHvQNw.png)
 # MIUI V8 German Translation
 
